@@ -1,0 +1,12 @@
+baseURL = "https://rscribers.mikewk.com/"
+languageCode = "en-us"
+title = "rscribers"
+description = "Links to posts about #rstats"
+theme = "tale-hugo"
+canonifyurls = true
+publishDir = "docs"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[author]
+  name = "Michael W. Kearney"
+  homepage = "https://mikewk.com"

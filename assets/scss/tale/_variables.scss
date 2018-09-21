@@ -1,0 +1,29 @@
+// Colors
+$default-color: #444;
+$default-shade: #353535;
+$default-tint: #aab;
+$grey-1: #aaa;
+$grey-2: #f0f0f0;
+$grey-3: #f9f9f9;
+$white: #fff;
+$blue: #0033aa;
+$shadow-color: rgba(0, 0, 0, .2);
+$code-color: #bf616a;
+
+// Fonts
+$serif-primary: Georgia, 'Libre Baskerville', 'Times New Roman', Times, serif;
+$serif-secondary: 'Avenir Next LT Pro', 'Helvetica Neue', Arial, sans-serif;
+$sans-serif:  'Avenir Next LT Pro', 'Helvetica Neue', Arial, sans-serif;
+$monospaced: 'Fira Code', Consolas, Menlo, Monaco, monospace;
+
+@mixin box-sizing($type: border-box) {
+  -webkit-box-sizing: $type;
+     -moz-box-sizing: $type;
+          box-sizing: $type;
+}
+
+@mixin transition($args...) {
+  -webkit-transition: $args;
+     -moz-transition: $args;
+          transition: $args;
+}

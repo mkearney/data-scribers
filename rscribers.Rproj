@@ -5,7 +5,7 @@ SaveWorkspace: No
 AlwaysSaveHistory: No
 
 EnableCodeIndexing: Yes
-UseSpacesForTab: No
+UseSpacesForTab: Yes
 NumSpacesForTab: 2
 Encoding: UTF-8
 
@@ -15,5 +15,4 @@ LaTeX: XeLaTeX
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
 
-BuildType: Website
-WebsitePath: ~/R/rscribers
+BuildType: Makefile

@@ -3,7 +3,7 @@
     border-bottom: 1px solid $grey-2;
     color: $default-color;
     display: inline-block;
-    padding: 2rem 0;
+    padding: 1.25rem 0 0 0;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
@@ -17,7 +17,7 @@
 
   &-time {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: $sans-serif;
     letter-spacing: .5px;
   }
 

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on rscribers</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving beyond pattern-based analysis</title>
+      <link>/post/moving-beyond-patternbased-ana/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/moving-beyond-patternbased-ana/</guid>
+      <description>This is the sixth and the last blog post in the series introducing GeoPAT 2 - a software for pattern-based spatial and temporal analysis . In the previous one we presented the pattern-based spatial segmentation - a method for creating regions of homogenous&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tiler 0.2.0 CRAN release</title>
+      <link>/post/tiler-020-cran-release/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tiler-020-cran-release/</guid>
+      <description>The tiler package provides a map tile-generator function for creating map tile sets for use with packages such as leaflet . In addition to generating map tiles based on a common raster layer source, it also handles the non-geographic edge case, producing map tiles from arbitrary images. These map tiles, which have a “simple CRS”, a non-geographic simple Cartesian coordinate reference system, can also be used with leaflet when applying the simple CRS&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fair is foul, and foul is fair</title>
+      <link>/post/fair-is-foul-and-foul-is-fair/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fair-is-foul-and-foul-is-fair/</guid>
+      <description>Sentiment analysis can be used for many purposes and applied to all kinds of texts. In this exploratory analysis, we’ll use a tidytext approach to examine the use of sentiment words in the tragedies written by William Shakespeare. I’ve previously used Python for scraping and mining texts. However, I recently stumbled upon the tidytext R package by Julia Silge and David Robinson as well as their excellent book and ressource on combining tidytext with other tidy tools in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Imputation/Forecast Models</title>
+      <link>/post/gaussian-process-imputationfor/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gaussian-process-imputationfor/</guid>
+      <description>A well-established set of problems emerges when attempting to analyze non-stationary univariate time series (i.e., the signal’s mean and/or variance changes over time). A common approach is to impose some stationarity on the data so that certain modeling techniques can provide allow a research to make some predictions (e.g., ARIMA&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Caret Workshop</title>
+      <link>/post/yet-another-caret-workshop/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yet-another-caret-workshop/</guid>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as well. This is not supposed to cover all aspects of caret (plus there is already this), but more of a starter-pack for those who might be migrating from Python or another machine learning library like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kaggle panel recap</title>
+      <link>/post/kaggle-panel-recap/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kaggle-panel-recap/</guid>
+      <description>Introduction This past March I had the distinct pleasure of participating in a panel about making the career transition to data science as part of Kaggle’s CareerCon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ymmv-nonprofit-data-science/</guid>
+      <description>(YMMV = your mileage may vary) Introduction Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: want to build data science experience? reach out to a local non-profit you&amp;#39;re interested in, and ask them if you can volunteer with data collection, cleaning, and basic analysis and reporting. you get experience, the NPO gets a product they desperately need, and everyone wins. - Jesse Mostipak (@kierisi) March 30,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>September 2018 datascience goals</title>
+      <link>/post/september-2018-datascience-goa/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/september-2018-datascience-goa/</guid>
+      <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree. I don’t know what I will do at that time but I know what I want to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Books I Reference</title>
+      <link>/post/books-i-reference/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/books-i-reference/</guid>
+      <description>The full list of the books in my shelf is on my Goodreads account 1. The ones I refer to the most are listed here: Deep Learning Deep Learning with R Francois Chollet Handbook Of Neural Computing Applications Alianna J Maren Deep Learning Ian Goodfellow LSTM with Python Jason Brownlee GLM Generalized Additive Models: An Introduction with R, Second Edition Simon Wood Applied Regression Modeling Iain Pardoe Generalized Linear Models John&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>/post/automated-and-unmysterious-mac/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automated-and-unmysterious-mac/</guid>
+      <description>I get bored from doing two things: i) spot-checking + optimising parameters of my predictive models and ii) reading about how &amp;lsquo;black box&amp;rsquo; machine learning (particularly deep learning) models are and how little we can do to better understand how they learn (or not learn, for example when they take a panda bear for a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>liftr (Rmarkdown using docker)</title>
+      <link>/post/liftr-rmarkdown-using-docker/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/liftr-rmarkdown-using-docker/</guid>
+      <description>I recently discover a R package, called liftr package. It allows the build of pdf document (and html files, but i didn&amp;rsquo;t test it) from a Rmarkdown file. Fully integrated in RStudio, the R code is executed (and other code as well, I tried python) and results are displayed. You don&amp;rsquo;t even need to have LaTeX on your computer, since the document compilation take place in a docker&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Use CircleCI for R Projects</title>
+      <link>/post/use-circleci-for-r-projects/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-circleci-for-r-projects/</guid>
+      <description>Why CircleCI? Yes, I know using Travis CI is this easy, thanks to devtools&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First post !</title>
+      <link>/post/first-post-/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-post-/</guid>
+      <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs. Cheers !&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining R and Python for data analysis</title>
+      <link>/post/combining-r-and-python-for-dat/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/combining-r-and-python-for-dat/</guid>
+      <description>As part of my PhD work I characterise nanomaterials using Energy-dispersive X-ray spectroscopy (EDX) in a Scanning Transmission Electron Microscope. We do this to obtain spatial information about the chemical composition of a sample on the nanoscale. Basically, an image is obtained by raster-scanning the electron beam and recording an X-ray spectrum in each position. This effectively gives a 3-dimensional dataset, where for each pixel a full spectrum is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Science tools for our research group</title>
+      <link>/post/open-science-tools-for-our-res/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-science-tools-for-our-res/</guid>
+      <description>Currently in the Organic Surface Chemistry group , there are large variations between our group members when it comes to the tools used for data analysis. Some people feel most comfortable in spreadsheet programs such as Origin or Excel, while others rely on a mix of Matlab, R, Python or other tools. We use a lot of different experimental techniques in our research, and therefore generate data in a lot of different&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

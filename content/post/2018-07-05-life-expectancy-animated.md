@@ -1,0 +1,14 @@
+---
+title: "Life (expectancy), animated"
+author: 'nowosad.github.io'
+date: '2018-07-05'
+slug: life-expectancy-animated
+categories:
+  - rstats
+  - linear-model
+tags:
+  - nowosadgithubio
+---
+
+[Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a...<click to read more>](https://nowosad.github.io/post/life-expectancy-animated/)
+

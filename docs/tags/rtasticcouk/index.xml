@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rtasticcouk on rscribers</title>
+    <link>/tags/rtasticcouk/</link>
+    <description>Recent content in Rtasticcouk on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rtasticcouk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post in new r-tastic</title>
+      <link>/post/first-post-in-new-rtastic/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-post-in-new-rtastic/</guid>
+      <description>OK, it had to happen and here it is: I moved my old r-tastic blog to blogdown and I’m not going to look back :) There are numerous resources that will: highlight the advantages of using blogdown with Hugo over other static site generators, such as Jekyll (my previous choice) explain how to set everything up (there are some excellent resources here , here or here ) or deploy your site&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prime hints for running a data project in R</title>
+      <link>/post/prime-hints-for-running-a-data/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/prime-hints-for-running-a-data/</guid>
+      <description>I’ve been asked more and more for hints and best practices when working with R. It can be a daunting task, depending on how deep or specialised you want to be. So I tried to keep it as balanced as I could and mentioned point that definitely helped me in the last couple of years. Finally, there’s lots (and I mean, LOTS) of good advice out there that you should definitely check out - see some examples in the Quick Reference section below.</description>
+    </item>
+    
+    <item>
+      <title>Trump VS Clinton Interpretable Text Classifier</title>
+      <link>/post/trump-vs-clinton-interpretable/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/trump-vs-clinton-interpretable/</guid>
+      <description>I&amp;rsquo;ve been writing/talking a lot about LIME recently: in this blog / at H20 meetup , or at coming AI Congress and I&amp;rsquo;m still sooo impressed by this tool for interpreting any, even black-box, algorithm! The part I love most is that LIME can be applied to both image and text data, that was well showcased in husky VS wolf (image) and Christian VS atheist (text) examples in the original&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>End of Year thoughts</title>
+      <link>/post/end-of-year-thoughts/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/end-of-year-thoughts/</guid>
+      <description>Sometimes it&amp;rsquo;s worth making New Year resolutions&amp;hellip; A year ago I made one for 2017 to start an R blog using RMarkdown and Jekyll static sites. At the time, I didn&amp;rsquo;t even know git that well, had no clue what static sites are and was mostly oblivious to the rich and vibrant R community on Twitter. Fast-forward one year and&amp;hellip; the picture couldn&amp;rsquo;t be any more different! I&amp;rsquo;d like to share my thoughts on writing this blog (and data science blog in general) and how it taught me about getting stuff&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Star Wars Vs Star Trek Word Battle</title>
+      <link>/post/star-wars-vs-star-trek-word-ba/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/star-wars-vs-star-trek-word-ba/</guid>
+      <description>It will go without saying that I’m super excited about the premiere of another Star Wars movie and I’m not an exception. This, together with with Piotr Migdal’s challenge posted on Data Science PL group on Facebook where he suggested comparing word frequencies between two different&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>/post/automated-and-unmysterious-mac/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automated-and-unmysterious-mac/</guid>
+      <description>I get bored from doing two things: i) spot-checking + optimising parameters of my predictive models and ii) reading about how &amp;lsquo;black box&amp;rsquo; machine learning (particularly deep learning) models are and how little we can do to better understand how they learn (or not learn, for example when they take a panda bear for a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friendships among top R-twitterers</title>
+      <link>/post/friendships-among-top-rtwitter/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/friendships-among-top-rtwitter/</guid>
+      <description>Have you ever wondered whether the most active/popular R-twitterers are virtual friends? :) And by friends here I simply mean mutual followers on Twitter. In this post, I score and pick top 30 #rstats twitter users and analyse their Twitter friends&amp;rsquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Animated Plots As Part Of Exploratory Data Analysis</title>
+      <link>/post/animated-plots-as-part-of-expl/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/animated-plots-as-part-of-expl/</guid>
+      <description>The internet seems to be booming with blog posts on animated graphs, whether it&amp;rsquo;s for more serious purposes or not so much. I didn&amp;rsquo;t think anything more of it than just a gimmick or a cool way of spicing up your conference&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

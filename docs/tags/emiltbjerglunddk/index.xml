@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emiltbjerglunddk on rscribers</title>
+    <link>/tags/emiltbjerglunddk/</link>
+    <description>Recent content in Emiltbjerglunddk on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/emiltbjerglunddk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hvordan klarer de politiske partier sig på Facebook?</title>
+      <link>/post/hvordan-klarer-de-politiske-pa/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hvordan-klarer-de-politiske-pa/</guid>
+      <description>For ganske nyligt opdagede jeg, at der er lavet en RFacebook pakke til at trække data fra Facebooks Graph API. Det blev brugt til en analyse af Donald Trump og Hillary Clintons kampagner under den seneste amerikanske&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining R and Python for data analysis</title>
+      <link>/post/combining-r-and-python-for-dat/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/combining-r-and-python-for-dat/</guid>
+      <description>As part of my PhD work I characterise nanomaterials using Energy-dispersive X-ray spectroscopy (EDX) in a Scanning Transmission Electron Microscope. We do this to obtain spatial information about the chemical composition of a sample on the nanoscale. Basically, an image is obtained by raster-scanning the electron beam and recording an X-ray spectrum in each position. This effectively gives a 3-dimensional dataset, where for each pixel a full spectrum is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Science tools for our research group</title>
+      <link>/post/open-science-tools-for-our-res/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-science-tools-for-our-res/</guid>
+      <description>Currently in the Organic Surface Chemistry group , there are large variations between our group members when it comes to the tools used for data analysis. Some people feel most comfortable in spreadsheet programs such as Origin or Excel, while others rely on a mix of Matlab, R, Python or other tools. We use a lot of different experimental techniques in our research, and therefore generate data in a lot of different&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Beginner Workshop</title>
+      <link>/post/r-beginner-workshop/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-beginner-workshop/</guid>
+      <description>I recently did a short workshop for R Beginners together with Anders Schmidt. Anders wrote a short blogpost about what we covered and the materials we used, which is available here . It was really interesting to use the learnr package, and we will probably try to extend on this for future&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonawiczgithubioblog on rscribers</title>
+    <link>/tags/leonawiczgithubioblog/</link>
+    <description>Recent content in Leonawiczgithubioblog on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/leonawiczgithubioblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tiler 0.2.0 CRAN release</title>
+      <link>/post/tiler-020-cran-release/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tiler-020-cran-release/</guid>
+      <description>The tiler package provides a map tile-generator function for creating map tile sets for use with packages such as leaflet . In addition to generating map tiles based on a common raster layer source, it also handles the non-geographic edge case, producing map tiles from arbitrary images. These map tiles, which have a “simple CRS”, a non-geographic simple Cartesian coordinate reference system, can also be used with leaflet when applying the simple CRS&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>epubr 0.4.0 CRAN release</title>
+      <link>/post/epubr-040-cran-release/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epubr-040-cran-release/</guid>
+      <description>The epubr package provides functions supporting the reading and parsing of internal e-book content from EPUB&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>trekfont</title>
+      <link>/post/trekfont/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/trekfont/</guid>
+      <description>trekfont is now available on CRAN. This is a simple data package that exposes 107 Star Trek font families. You might not want to use Star Trek fonts for work, but if you are making plots for fun and like Star Trek then these fonts are for you. This post gives a basic example of one how to load these fonts in R for use in plots. Using external font files is handled by the showtext package, which uses the sysfonts package to load the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tabr package for guitar tablature now on CRAN</title>
+      <link>/post/tabr-package-for-guitar-tablat/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tabr-package-for-guitar-tablat/</guid>
+      <description>The tabr package for creating guitar tablature (&amp;ldquo;tabs&amp;rdquo;) from R code is now available on CRAN. tabr provides programmatic music notation and a wrapper around LilyPond for creating quality guitar tablature. tabr offers functions for describing and organizing musical structures and wraps around the LilyPond backend. LilyPond is an open source music engraving program for generating high quality sheet music based on markup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing tabr</title>
+      <link>/post/introducing-tabr/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introducing-tabr/</guid>
+      <description>This post introduces a new R package I am working on called tabr for creating guitar tablature (&amp;ldquo;tabs&amp;rdquo;) from R code. The tabr package provides programmatic music notation and a wrapper around LilyPond for creating quality guitar tablature. tabr offers functions for describing and organizing musical structures and wraps around the LilyPond backend. LilyPond is an open source music engraving program for generating high quality sheet music based on markup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mix ggplot2 graphs with your favorite memes. memery 0.4.2 released.</title>
+      <link>/post/mix-ggplot2-graphs-with-your-f/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mix-ggplot2-graphs-with-your-f/</guid>
+      <description>Make memorable plots with memery. memery is an R package that generates internet memes including superimposed inset graphs and other atypical features, combining the visual impact of an attention-grabbing meme with graphic results of data analysis. Version 0.4.2 of memery is now on CRAN. The latest development version and a package vignette are available on GitHub . Changes in v0.4.2 This latest version of memery includes a demo Shiny&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Make memorable plots with memery. v0.3.0 now on CRAN.</title>
+      <link>/post/make-memorable-plots-with-meme/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/make-memorable-plots-with-meme/</guid>
+      <description>Make memorable plots with memery. memery is an R package that generates internet memes including superimposed inset graphs and other atypical features, combining the visual impact of an attention-grabbing meme with graphic results of data analysis. Version 0.3.0 of memery is now on CRAN. The latest development version and a package vignette are available on GitHub . Below is an example interleaving a semi-transparent ggplot2 graph between a meme image backdrop and overlying meme text&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>apputils 0.5.0 released</title>
+      <link>/post/apputils-050-released/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/apputils-050-released/</guid>
+      <description>Version 0.5.0 of the apputils R package has been released on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Climate explorer update</title>
+      <link>/post/climate-explorer-update/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/climate-explorer-update/</guid>
+      <description>The SNAP Climate Analytics Shiny app has been updated. Previously, the app included seasonally and annually aggregated data. With the recent inclusion of monthly data, the number of conditional spatio-temporal climate probability distributions has now increased from a base set of about 13 million unique distributions to over 46&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny app</title>
+      <link>/post/shiny-app/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-app/</guid>
+      <description>There is a new version of my Distributions of Random Variables Shiny app available. This is a cleaned up modern revision of my original 2013 app series involving random variable probability distributions. The primary change is a switch to ggplot2 from base&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Assorted Shiny apps collection, full code and data</title>
+      <link>/post/assorted-shiny-apps-collection/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/assorted-shiny-apps-collection/</guid>
+      <description>Here is an assortment of R Shiny apps that you may find useful for exploration if you are in the process of learning Shiny and looking for something different. Some of these apps are very small and simple whereas others are large and complex. This repository provides full code and any necessary accompanying data sets. The repo also links to the apps hosted online at shinyapps.io so that you can run apps in your browser without having to download the entire collection repo to run apps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Custom images for Shiny dashboard valueBox icons</title>
+      <link>/post/custom-images-for-shiny-dashbo/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/custom-images-for-shiny-dashbo/</guid>
+      <description>The shinydashboard package provides functions like valueBox that conveniently display basic information like summary statistics. In addition to presenting a value and subtitle on a colored background, an icon may be included as well. However, the icon must come from either the Font Awesome or Glyphicon icon libraries and cannot be image files. I&amp;rsquo;ve provided a gist that shows how to achieve the use of custom icons with local image files stored in an app&amp;rsquo;s www/&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

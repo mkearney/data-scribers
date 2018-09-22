@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noahlandesbergcom on rscribers</title>
+    <link>/tags/noahlandesbergcom/</link>
+    <description>Recent content in Noahlandesbergcom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/noahlandesbergcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8 Analytics Books I Read in 2017</title>
+      <link>/post/8-analytics-books-i-read-in-20/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/8-analytics-books-i-read-in-20/</guid>
+      <description>This year I made a concerted effort to read more books related to my interests in analytics, math, and data science. I had the pleasure of reading most of these books with a group of people at work, and we met on a regular basis to discuss and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing rhymer</title>
+      <link>/post/introducing-rhymer/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introducing-rhymer/</guid>
+      <description>I’m proud to announce that I have published my first R package, rhymer ! Version 1.0 is now available on CRAN . You can view the source code on github , and see the website for the package here . The goal of rhymer is to provide an R interface to the Datamuse API in order to find rhyming words. The core function of rhymer is get_rhyme() , which can be used in a variety of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building my website with Blogdown</title>
+      <link>/post/building-my-website-with-blogd/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-my-website-with-blogd/</guid>
+      <description>I used to have a website on Squarespace. It was nice, but it cost ~$90 a year, and I wasn&amp;rsquo;t really using it for much. So&amp;hellip; enter blogdown ! blogdown is an R package that allows you to make websites using a bunch of technologies in concert. This site uses R and Markdown and R Markdown and Hugo and Netlify and Git and Github and on and&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

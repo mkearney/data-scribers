@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fishsciencesgithubio on rscribers</title>
+    <link>/tags/fishsciencesgithubio/</link>
+    <description>Recent content in Fishsciencesgithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fishsciencesgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing Fish Encounter Histories</title>
+      <link>/post/visualizing-fish-encounter-his/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-fish-encounter-his/</guid>
+      <description>Project Prep Packages you’ll need: tidyverse (or individual components therein: readr , dplyr , ggplot2 ). Suggested package(s): extrafont , hrbrthemes . What is an encounter history? When working with tagged fish swimming in a river, we often generate a record of each fish’s “encounters” with the autonomous monitors in an underwater&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Practical Pisces (a blog mostly about fish and science)</title>
+      <link>/post/welcome-to-the-practical-pisce/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome-to-the-practical-pisce/</guid>
+      <description>Well hello! Welcome to the Cramer Fish Sciences data science blog, the product of a handful of nerds at Cramer Fish Sciences . We’re here to share things about fish, fish science, coding, data visualization, and statistics. Myfanwy will be the one who can’t stop talking about fishy viz (visualization of fish data). Travis likes to think and write about simulation models and R workflows for fish sciences. Kevin is actually a tree geek, but we let him talk about fish&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

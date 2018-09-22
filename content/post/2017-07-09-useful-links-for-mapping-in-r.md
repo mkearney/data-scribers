@@ -1,0 +1,13 @@
+---
+title: "Useful links for mapping in R"
+author: 'www.mytinyshinys.com'
+date: '2017-07-09'
+slug: useful-links-for-mapping-in-r
+categories:
+  - 
+tags:
+  - mytinyshinyscom
+---
+
+[Geography was not my favourite subject as a high-schooler: maybe having a teacher who smoked a pipe in the classroom had somethiing to do with...<click to read more>](https://www.mytinyshinys.com/2017/07/09/mapl/)
+

@@ -1,0 +1,13 @@
+---
+title: "New Package Releases"
+author: 'mailund.github.io/r-programmer-blog'
+date: '2018-04-27'
+slug: new-package-releases
+categories:
+  - 
+tags:
+  - mailundgithubiorprogrammerblog
+---
+
+[I have just released version 0.1.0 of foolbox and version 0.1.2 of tailr. I haven't actually done much on the packages the last three weeks, and they have been very close to these releases for a while, but now I had the spare time and energy to actually send them...<click to read more>](https://mailund.github.io/r-programmer-blog/2018/04/27/new-package-releases-foolbox-and-tailr/)
+

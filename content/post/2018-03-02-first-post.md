@@ -1,0 +1,13 @@
+---
+title: "First Post"
+author: 'mailund.github.io/r-programmer-blog'
+date: '2018-03-02'
+slug: first-post
+categories:
+  - rstats
+tags:
+  - mailundgithubiorprogrammerblog
+---
+
+[This is my first attempt at a Hugo+Blogdown blog. I got tired of struggling with formatting R code on my Wordpress blog, so figured it would make sense to use RMarkdown to write about R...<click to read more>](https://mailund.github.io/r-programmer-blog/2018/03/01/first-post/)
+

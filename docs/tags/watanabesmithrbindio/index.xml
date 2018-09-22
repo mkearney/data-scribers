@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watanabesmithrbindio on rscribers</title>
+    <link>/tags/watanabesmithrbindio/</link>
+    <description>Recent content in Watanabesmithrbindio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/watanabesmithrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If Ranked-choice voting decided the (second) BEST Black Mirror episode</title>
+      <link>/post/if-rankedchoice-voting-decided/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/if-rankedchoice-voting-decided/</guid>
+      <description>On a recent FiveThirtyEight Politics Podcast the hosts discussed ranked-choice voting in the Maine primary elections, and the difficulty of explaining the process to voters. While ranked-choice voting is far from simple, I think part of the complexity comes from the either obscure names of third-tier politicians or the arbitrary theoretical examples we&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Behind the Viz</title>
+      <link>/post/behind-the-viz/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/behind-the-viz/</guid>
+      <description>My latest blog post covered using Ranked-Choice voting and reddit user rankings to determine the (second) best Black Mirror Episode. The key visualization was the Sankey diagram, and in this vignette I’ll walk through my R code for how the chart was made. Libraries and&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

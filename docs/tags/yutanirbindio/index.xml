@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yutanirbindio on rscribers</title>
+    <link>/tags/yutanirbindio/</link>
+    <description>Recent content in Yutanirbindio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/yutanirbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Double dispatch of S3 method</title>
+      <link>/post/double-dispatch-of-s3-method/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/double-dispatch-of-s3-method/</guid>
+      <description>When I tried to define an S3 class that contains multiple ggplot objects, I&amp;rsquo;ve faced the lessor-know mechanism of S3 method dispatch, double dispatch . Problem Take a look at this example. manyplot class contains many plots, and displays them nicely when&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gghighlight 0.1.0 Is Released!</title>
+      <link>/post/gghighlight-010-is-released/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gghighlight-010-is-released/</guid>
+      <description>gghighlight 0.1.0 is on CRAN now! New features As I&amp;rsquo;ve introduced on the previous post , gghighlight now can highlight any Geoms with gghighlight() . Since this function supersedes the previous functions, gghighlight_line() and gghighlight_point() are now deprecated. A Vignette One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous post: Introduction to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Re-introduction to gghighlight</title>
+      <link>/post/reintroduction-to-gghighlight/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reintroduction-to-gghighlight/</guid>
+      <description>Half a year ago, I&amp;rsquo;ve introduced gghighlight package. I didn&amp;rsquo;t expect so much R people get interested in my package. Thanks for your attention! But, please forget about that gghighlight; gghighlight has become far more powerful and simple! So, let me re-introduce about gghighlight. (Note that this version of gghighlight is not yet on CRAN at the time of this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plot geom_sf() On OpenStreetMap Tiles</title>
+      <link>/post/plot-geomsf-on-openstreetmap-t/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/plot-geomsf-on-openstreetmap-t/</guid>
+      <description>mapview is a very nice package to explore an sf object. It can overlay sf object on the map&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of gghighlight</title>
+      <link>/post/anatomy-of-gghighlight/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/anatomy-of-gghighlight/</guid>
+      <description>I&amp;rsquo;m overhauling my gghighlight package toward the upcoming release of ggplot2 2.3.0. I think I will introduce about the new gghighlight() soon, but before that, I want to write out the ideas behind gghighlight. Note that what I&amp;rsquo;ll write here contains few new things, as the basic idea is already covered by this great post: Plotting background data for groups with ggplot2 My post is mainly for organizing my thought, yet I hope someone find this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ICYMI</title>
+      <link>/post/icymi/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/icymi/</guid>
+      <description>Since the version 0.6.0 (published on Nov 16, 2017), rtweet package no longer requires the users to create their own apps . Did you notice? I didn&amp;rsquo;t know this until the author, Michael W. Kearney, kindly answered to my silly question on GitHub . I really appreciate that he is always eager not only to maintain the code but also to communicate with lazy users like me. Then, I did a quick poll (sorry, in Japanese) about how well known is the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>dplyr Doesn&#39;t Provide Full Support For S4 (For Now?)</title>
+      <link>/post/dplyr-doesnt-provide-full-supp/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dplyr-doesnt-provide-full-supp/</guid>
+      <description>I&amp;rsquo;ve seen sooo many (duplicated) issues on this topic were opened on dplyr&amp;rsquo;s repo and lubridate&amp;rsquo;s repo. For example, you cannot filter() interval s. Consider the data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Example Usage of ggplot_add()</title>
+      <link>/post/an-example-usage-of-ggplotadd/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an-example-usage-of-ggplotadd/</guid>
+      <description>A generic function ggplotadd() was added to ggplot2 by this PR: Allow addition of custom objects by thomasp85 · Pull Request #2309 · tidyverse/ggplot2 I think creating a custom Geom or Stat and its constructor ( geom() or stat_() ) is enough for the most of the extension packages of ggplot2, but some people, including me, need this. Why are there no geom_highlight() ? Here is an example code of my package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Publish R Markdown to Medium via An RStudio Addin</title>
+      <link>/post/publish-r-markdown-to-medium-v/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/publish-r-markdown-to-medium-v/</guid>
+      <description>I created an experimental package to work with Medium API . mediumr: https://github.com/yutannihilation/mediumr/ mediumr allows you to knit and post R Markdown to Medium. Installation You can install mediumr from github&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Not To Knit All Rmd Files With Blogdown</title>
+      <link>/post/how-not-to-knit-all-rmd-files-/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-not-to-knit-all-rmd-files-/</guid>
+      <description>Blogdown is a cool package. But, if I complain about one thing, it will be the default behaviour of build_site() , which every blogdownners should execute everytime they wants to publish a new article. As stated in the documentation, build_site() will Compile all Rmd files and build the site through Hugo. ( ?build_site ) Compiling all Rmd files is &amp;ldquo;safe&amp;rdquo; in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>dplyr</title>
+      <link>/post/dplyr/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dplyr/</guid>
+      <description>Some of my friends didn&amp;rsquo;t aware that dplyr now accepts characters. Did you? For example, this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Confession</title>
+      <link>/post/confession/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/confession/</guid>
+      <description>You may notice that diffs of .Rd files are suppressed by default on GitHub since some time. Do you wonder who did this? It&amp;rsquo;s me, yay! This is my pull request: Ignore roxygen2 generated files by yutannihilation · Pull Request #3373 · github/linguist Though I thought I&amp;rsquo;ve done the right thing at that time, now I&amp;rsquo;m afraid this change may be bad for some cases&amp;hellip; After the relese of roxygen2 6.</description>
+    </item>
+    
+    <item>
+      <title>Use CircleCI for R Projects</title>
+      <link>/post/use-circleci-for-r-projects/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-circleci-for-r-projects/</guid>
+      <description>Why CircleCI? Yes, I know using Travis CI is this easy, thanks to devtools&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to gghighlight</title>
+      <link>/post/introduction-to-gghighlight/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-gghighlight/</guid>
+      <description>( Update : The functions introduced here is deprecated now. Please use gghighlight() , which is far nicer one) Suppose we have a data that has too many series like&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

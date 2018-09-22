@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sumprainnetlifycom on rscribers</title>
+    <link>/tags/sumprainnetlifycom/</link>
+    <description>Recent content in Sumprainnetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sumprainnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bleeding and Thrombosis</title>
+      <link>/post/bleeding-and-thrombosis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bleeding-and-thrombosis/</guid>
+      <description>Click here for the manuscript of the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Results from Clinical Research</title>
+      <link>/post/interpreting-results-from-clin/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interpreting-results-from-clin/</guid>
+      <description>Introduction Practicing Evidence Based Medicine (EBM) has become the norm in Clinical Medicine for past few decades. Generating evidences by carrying out and publishing clinical research of various types (clinical trials, observational studies) have become a norm. It has been observed that around 80% of the clinical research findings and interpretations are not replicable, implicating that wrong clinical decisions are made based on the false&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/post/publications/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/publications/</guid>
+      <description>Gupta A, Sashindran VK, Kumar S . Correlation of Intra Vascular Cannula Insertion Technique and Ward Practices with Local Site Infection. Med J Armed Forces India. 2010 Apr;66(2):113-6. doi: 10.1016/S0377-1237(10)80120-0. Epub 2011 Jul 21. Sood P, Seth T, Kapil A, Sharma V, Dayama A, Sharma S, Kumar S , Singh AK, Mishra P, Mahapatra M. Emergence of multidrug resistant acinetobacter blood stream infections in febrile neutropenia patients with haematological cancers and bone marrow failure&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Batch modification of PDF pages with magick package</title>
+      <link>/post/batch-modification-of-pdf-page/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/batch-modification-of-pdf-page/</guid>
+      <description>Introduction I was recently working on a PDF file with 60 odd pages and I had to crop the lower border of the pages. ImageMagick ImageMagick is GNU image editing program in Linux. Recently a package named magick has been created by rOpenSci . Steps of batch manipulation of PDF pages Loading PDF pages The PDF pages are loaded as vector of image&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notes on Thrombotic Microangiopathy</title>
+      <link>/post/notes-on-thrombotic-microangio/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/notes-on-thrombotic-microangio/</guid>
+      <description>Background Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. Introduction TMA are of diverse etiologies but have unified manifestation a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) TMA has unified pathogenesis a. Endothelial dysfunction b. Microinfarcts Approach to treatment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Confounding and collinearity</title>
+      <link>/post/confounding-and-collinearity/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/confounding-and-collinearity/</guid>
+      <description>Introduction In this article, I will discuss about the bias introduced in estimation of coefficient of a given explanatory variable due to the presence of confounding&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Jugular Venous Waveforms and Carotid Pulsations in Tachyarrhythmia Diagnosis</title>
+      <link>/post/jugular-venous-waveforms-and-c/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jugular-venous-waveforms-and-c/</guid>
+      <description>Background The content of this post was written by me few years ago. It builds conceptual framework on JVP and carotid wave analysis for tachyarrhythmia diagnosis. Many concepts written in this post are practical with a bit of practice and spending time with patients. The techniques written here can be used as important adjunct to 12 lead surface ECG tracing in diagnosing tachyarrythmia. Introduction Tachyarrhythmia diagnosis is a challenge that all of us face as daily&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Nomogram</title>
+      <link>/post/predictive-nomogram/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/predictive-nomogram/</guid>
+      <description>Introduction Using prediction nomogram is another way to apply the predictive model. You can download the nomogram as image file by right clicking the image and saving it and use it in your bedside by taking printouts of the same. How to use the nomogram For each variable, get points by drawing a vertical line up from the value in variable axis to the point&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

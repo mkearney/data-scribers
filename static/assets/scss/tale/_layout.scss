@@ -14,7 +14,8 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 3px 1px, rgba(0, 0, 0, 0.1) 0 1px 3px 1px, rgba(0, 0, 0, 0.2) 0 1px 1px -1px;
+  background-color: #f5f5f5 !important;
   overflow: auto;
 
   &-container {
@@ -68,6 +69,7 @@ footer,
 
 @media (min-width: 600px) {
   .nav {
+    background-color: #f0f0f0;
     &-container {
       text-align: left;
     }

@@ -1,0 +1,13 @@
+---
+title: "On the interpretation of regression coefficients"
+author: 'www.jamesuanhoro.com'
+date: '2017-08-11'
+slug: on-the-interpretation-of-regre
+categories:
+  - linear-model
+tags:
+  - jamesuanhorocom
+---
+
+[TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill's Data analysis using regression and multilevel/hierarchical models.1 So I started reading it and it's a good book. A useful piece of advice they give is to interpret regression coefficients in a predictive manner...<click to read more>](https://www.jamesuanhoro.com/post/2017/08/11/on-the-interpretation-of-regression-coefficients/)
+

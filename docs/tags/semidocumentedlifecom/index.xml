@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semidocumentedlifecom on rscribers</title>
+    <link>/tags/semidocumentedlifecom/</link>
+    <description>Recent content in Semidocumentedlifecom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/semidocumentedlifecom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>comparing audio features from my monthly playlists, using spotifyr</title>
+      <link>/post/comparing-audio-features-from-/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-audio-features-from-/</guid>
+      <description>The NYT has a fun interactive up this week, looking at audio features to see if popular summer songs have the same sort of “signature”. After attending a presentation earlier this year, I discovered that these same sorts of features are accessible through Spotify’s API! How people curate their collections and approach listening to music usually tells you something about them, and since seeing the presentation I’ve been wanting to take a dive into my own listening&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>how should I get started with R?</title>
+      <link>/post/how-should-i-get-started-with-/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-should-i-get-started-with-/</guid>
+      <description>Here’s some evergreen advice from David Robinson: When you’ve written the same code 3 times, write a function When you’ve given the same in-person advice 3 times, write a blog post - David Robinson (@drob) November 9,&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

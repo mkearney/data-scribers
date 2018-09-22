@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openplantpathologyorg on rscribers</title>
+    <link>/tags/openplantpathologyorg/</link>
+    <description>Recent content in Openplantpathologyorg on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/openplantpathologyorg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OPP Interviews</title>
+      <link>/post/opp-interviews/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/opp-interviews/</guid>
+      <description>In this OPP series we will be interviewing scientists in Plant Pathology or related areas who has embraced open science and contributed knowledge and tools to advance the field. Our first OPP interview features Dr. Niklaus Grünwald ( @PhytophthoraLab on Twitter ), a plant pathologist with USDA ARS, Corvallis, OR, USA. Nik is well recognized by his research on population genetics and genomics of plant pathogens - mainly on oomycetes of major importance to global&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>/post/talk/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/talk/</guid>
+      <description>References JJ Allaire, Yihui Xie, Jonathan McPherson, Javier Luraschi, Kevin Ushey, Aron Atkins, Hadley Wickham, Joe Cheng and Winston Chang (2018). rmarkdown: Dynamic Documents for R. R package version 1.10. https://CRAN.R-project.org/package=rmarkdown Ben Marwick (2018). rrtools: Creates a reproducible research compendium. R package version 0.1.0. https://github.com/benmarwick/rrtools RStudio Team (2016). RStudio: Integrated Development for R. RStudio, Inc., Boston,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>/post/talk/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/talk/</guid>
+      <description>References Bond-Lamberty, B., Smith, A.P., &amp;amp; Bailey, V. 2016: Running an open experiment: transparency and reproducibility in soil and ecosystem science. Environ. Res. Lett., 11:084004. Del Ponte, E.M.: Reproducible report: Meta-analysis of relationships between white mold and soybean yield. [WWW document] URL https://emdelponte.github.io/paper-white-mold-meta-analysis . Cited 22 May. 2018. Del Ponte&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What is going on in OPP? a quick summary of the first five months</title>
+      <link>/post/what-is-going-on-in-opp-a-quic/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-is-going-on-in-opp-a-quic/</guid>
+      <description>We founded OPP in early January this year without too much ambition and zero&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

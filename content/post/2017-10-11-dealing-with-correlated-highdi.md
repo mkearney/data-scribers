@@ -1,0 +1,13 @@
+---
+title: "Dealing with Correlated High-Dimensional Data"
+author: 'www.gokhanciflikli.com'
+date: '2017-10-11'
+slug: dealing-with-correlated-highdi
+categories:
+  - 
+tags:
+  - gokhancifliklicom
+---
+
+[Theory to Application 1 I recently realized my review of Michael Alvarez’s edited volume Computational Social Science: Discovery and Prediction went online a while ago. If memory serves, used to be the case that book reviews were freely available; alas now even a 400-word long piece is behind a paywall. I initially planned to do a post covering the whole book—at least the application part, as the volume is neatly segregated on theory...<click to read more>](https://www.gokhan.io/post/fuzzy-forest/)
+

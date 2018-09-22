@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roelandtnframaio on rscribers</title>
+    <link>/tags/roelandtnframaio/</link>
+    <description>Recent content in Roelandtnframaio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/roelandtnframaio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple mapping with {sf}</title>
+      <link>/post/simple-mapping-with-sf/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simple-mapping-with-sf/</guid>
+      <description>This post is based on a notebook I started about R spatial analysis for the project OSGeoLive It aims to provide a quick introduction to R spatial analysis and cartography and will be extended. R is a language dedicated to statistics and data analysis. It has also a lot of strong packages for spatial analysis. Recent packages like {sf} allows easy Simple Features manipulation. This document aims to complete the R Overview and R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>September 2018 datascience goals</title>
+      <link>/post/september-2018-datascience-goa/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/september-2018-datascience-goa/</guid>
+      <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree. I don’t know what I will do at that time but I know what I want to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Problematic, data source, and variables selection</title>
+      <link>/post/problematic-data-source-and-va/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/problematic-data-source-and-va/</guid>
+      <description>This is the first part of a series of blog post regarding a project I did with 2 master degree colleagues. The main entry to this series is here. Today, we will discuss the problematic, the data and the variables selection from those data in respect of the problematic. Althought it is not really technical post, it provides some context and elements do someone who wants to redo the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Update for the Mexico project</title>
+      <link>/post/update-for-the-mexico-project/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/update-for-the-mexico-project/</guid>
+      <description>Hello, the project that I was talking about earlier is finally over. But it tooks me (and my colleagues) so much time to do that I wasn&amp;rsquo;t able to post about it. Anyway, the project website is online and can be seen there: http://m2_projet_mexique.frama.io/website/ Ok, it is in French but, first, it is for a French diploma in a French university, so&amp;hellip; And second, I&amp;rsquo;ll make translations of the posts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>saveRDS() vs write_csv() - a newbie introduction</title>
+      <link>/post/saverds-vs-writecsv-a-newbie-i/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/saverds-vs-writecsv-a-newbie-i/</guid>
+      <description>Last week, I came across this blog post from Yihui-down called save() vs saveRDS(). It was issued after a response from Jenny Bryan on Twitter. So when more experimented people like them advise to use a tool, it is for a reason. So I decided to give it a try. Not to compare save() and saveRDS, but saveRDS to write_csv(). This is not a complete review as I lack the knowledge, but a short intro to something I found very&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>French Urban Population growth between 2010 and 2014</title>
+      <link>/post/french-urban-population-growth/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/french-urban-population-growth/</guid>
+      <description>Hi all ! Sorry this map is in French but it was a school assessment, so… French it is. Disclaimer: You might encounter a lot of french words and links to french webpages. You are warned. The main goal was to work wih PostgreSQL and PostGIS on census data. Franc had around 36 000 communes which is the smallest administrative unit. Since it is too small to represent on a map, we worked on the Unités&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Virtualbox images resizing</title>
+      <link>/post/virtualbox-images-resizing/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/virtualbox-images-resizing/</guid>
+      <description>I add to resize an OSGeoLive virtual machine because after a couple postgresql workshops with quite big datasets (less than 1 GB each but still), the default size was not enough. So I followed the instructions from here (in French): http://blogf.leunens.fr/2015/1306/agrandir-la-taille-dun-disque-virtualbox.html Please note that,by default, OSGeoLive cames into a vmdk file so you need to convert it to a VDI to increase the volume size. If you already use a VDI file, not need to do that&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Social division of the residential space of the Greater Mexico City</title>
+      <link>/post/social-division-of-the-residen/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/social-division-of-the-residen/</guid>
+      <description>EDIT: I provided a quick update here, and it will be the main entrance of a post series regarding this subject, cheers ! https://roelandtn.frama.io/post/update-for-the-mexico-project/ Hello there ! It has been a long time since my last post. That’s because of a great project I’m working on for my Master degree. Explanations can be messy, we are at an early stage, just collecting data and try to select the most useful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>liftr (Rmarkdown using docker)</title>
+      <link>/post/liftr-rmarkdown-using-docker/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/liftr-rmarkdown-using-docker/</guid>
+      <description>I recently discover a R package, called liftr package. It allows the build of pdf document (and html files, but i didn&amp;rsquo;t test it) from a Rmarkdown file. Fully integrated in RStudio, the R code is executed (and other code as well, I tried python) and results are displayed. You don&amp;rsquo;t even need to have LaTeX on your computer, since the document compilation take place in a docker&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GeoServer, CentOS and Tomcat are on a boat</title>
+      <link>/post/geoserver-centos-and-tomcat-ar/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geoserver-centos-and-tomcat-ar/</guid>
+      <description>I&amp;rsquo;m currently working on a small part of a project for my new compagny involving VRT, Geoserver and Tomcat on a CentOS VM. Easy, you should say, not to easy when it is your first time with all those components (except for GeoServer that I tried already). So everything was new to me. Here is my notes on installing it and some configuration tips. Sorry it is in French, but I didn&amp;rsquo;t had time to translate it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pepper et Carrot</title>
+      <link>/post/pepper-et-carrot/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pepper-et-carrot/</guid>
+      <description>Today I went to the library A livr&amp;rsquo;Ouvert because there was a sign session with David Revoy. It is an artist that I really like for two reasons: his stories are fun and he has really nice drawing; he used free and opensource software to produce his art and his artwork is licenced with a Creative Commons Attribution 4.0 licence; People who like Ubuntu MATE can&amp;rsquo;t be bad people (well, I&amp;rsquo;m not really&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UbuntuCon Europe 2017</title>
+      <link>/post/ubuntucon-europe-2017/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ubuntucon-europe-2017/</guid>
+      <description>I just came home from this UbuntuCon Europe 2017, who was held in La Cité des Sciences et de l&amp;rsquo;Industrie, in Paris. SO I was able to attend it, although I followed one talk, about privacy on internet. I met great people, starting by my friend Marcos Costales, a spanish developper known for uNav, THE gps application for Ubuntu Touch or Gufw, a minimalist firewall. I was able to meet Martin Wimpress (known for Ubuntu MATE) or Alan&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>/post/holidays/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/holidays/</guid>
+      <description>Finally I was able to take some holidays in late august. One week visiting friends before getting back to school in early september. And starting my new job in september 5th. To be honest, I had one week of holidays in July. But it was for the FOSS4G-Eu 2017, as an organizer, so it was not really relaxing (but so enriching). I should make a blog post about that. So since I&amp;rsquo;m visiting friends, I might not be able to work as much as I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pandoc and Xelatex in docker</title>
+      <link>/post/pandoc-and-xelatex-in-docker/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pandoc-and-xelatex-in-docker/</guid>
+      <description>This side project attends to use a docker image for pandoc and LaTex related stuff. TexLive is not very easy to maintain even on Ubuntu. Especially to update, since Texlive freeze every year and Ubuntu LTS versions have some retard (e.g on Ubuntu 16.04, source packages are about TexLive 2015, but TexLive servers provides 2017 packages). Plus, TexLive is really big and take a huge place in the root&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OSGeo-Live Project</title>
+      <link>/post/osgeolive-project/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/osgeolive-project/</guid>
+      <description>OSGeo-Live is a self-containing ISO with around 50 FOSS dedicated to GIS. A virtual macine archive is also provided. I join the project in November (or early December) 2015, as I was already a librist when I was a became a GIS technician. As I started a Bachelor degree in GIS, I need GIS tools to do assingnements, and they often needed FOSS like QGIS and/or PostgreSQL/PostGIS, or a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/post/resume/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/resume/</guid>
+      <description>Here in some times a detailled resume ! Sorry for the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First post !</title>
+      <link>/post/first-post-/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-post-/</guid>
+      <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs. Cheers !&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

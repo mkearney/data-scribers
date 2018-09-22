@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessemaegancom on rscribers</title>
+    <link>/tags/jessemaegancom/</link>
+    <description>Recent content in Jessemaegancom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jessemaegancom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R4DS (v1 &amp; v2)</title>
+      <link>/post/r4ds-v1-v2/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r4ds-v1-v2/</guid>
+      <description>Introduction As all amazing opportunities in my life are wont to do, it started with a tweet: …which resulted in me spending last Friday talking data science education with some of the great folks at JHU, largely centered on work happening with the Chromebook Data Science project. It’s rare that I find myself dealing with imposter syndrome, but I did spend Thursday night eating all of my feelings of doubt and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn</title>
+      <link>/post/learning-to-learn/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learning-to-learn/</guid>
+      <description>Learning to learn can be… well, challenging I find myself on social media for the longest stretches of time when I’m just beginning a project. Social media is a fantastic distraction from getting started, because burying yourself in the seratonin hits from a Like or :heart: is far more pleasant than staring at the sheer amount of project yet to do . It doesn’t even have to be a big project to send us into a perpetual state of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When in doubt, optimize for joy</title>
+      <link>/post/when-in-doubt-optimize-for-joy/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-in-doubt-optimize-for-joy/</guid>
+      <description>When in Doubt My summer started with a bang: The end of a long-term relationship A surprisingly difficult - but completely treatable - medical diagnosis The illness and eventual passing of a beloved family member Each of these items paced themselves perfectly and provided an ongoing (and most welcome!) sense of relief that beautifully masked my growing disinterest and discontent with my place in the R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kaggle panel recap</title>
+      <link>/post/kaggle-panel-recap/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kaggle-panel-recap/</guid>
+      <description>Introduction This past March I had the distinct pleasure of participating in a panel about making the career transition to data science as part of Kaggle’s CareerCon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ymmv-nonprofit-data-science/</guid>
+      <description>(YMMV = your mileage may vary) Introduction Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: want to build data science experience? reach out to a local non-profit you&amp;#39;re interested in, and ask them if you can volunteer with data collection, cleaning, and basic analysis and reporting. you get experience, the NPO gets a product they desperately need, and everyone wins. - Jesse Mostipak (@kierisi) March 30,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R4DS April Challenge</title>
+      <link>/post/r4ds-april-challenge/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r4ds-april-challenge/</guid>
+      <description>Introduction April is such a fantastic time of the year - the weather starts to warm up, trees and flowers start blooming, and many of us start in on some spring&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GIF it, GIF it real good</title>
+      <link>/post/gif-it-gif-it-real-good/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gif-it-gif-it-real-good/</guid>
+      <description>We’re going to walk through the basics of posting GIFs on your blogdown website using imgur and GIPHY . Introduction Blogdown is an amazing tool for - wait for it - blogging. I recently made the jump to blogdown, and after working out all of my self-inflicted initial “OMG what happened now ?!” issues, blogdown has become part of my daily&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>So you’ve been asked to make a reprex</title>
+      <link>/post/so-youve-been-asked-to-make-a-/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/so-youve-been-asked-to-make-a-/</guid>
+      <description>Introduction If you’ve found yourself here, you’ve probably been asked to create a re producible ex ample, or reprex , in response to a question you asked on the RStudio Community&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R4DS: the next iteration</title>
+      <link>/post/r4ds-the-next-iteration/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r4ds-the-next-iteration/</guid>
+      <description>Background In August of 2017 I launched an experiment, referred to as the R for Data Science Online Learning Community , with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science text. Like most online learning endeavors, we had a massive surge of interest at the onset, with exponential drop-offs week after week as we progressively worked through each chapter based on an established&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

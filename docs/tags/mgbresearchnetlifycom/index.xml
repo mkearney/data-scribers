@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mgbresearchnetlifycom on rscribers</title>
+    <link>/tags/mgbresearchnetlifycom/</link>
+    <description>Recent content in Mgbresearchnetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mgbresearchnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Multilevel Model with Missing Data Complete Workflow (Part 2 of 3)</title>
+      <link>/post/bayesian-multilevel-model-with/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bayesian-multilevel-model-with/</guid>
+      <description>Overview: This is the second post in a three-part blog series I am putting together. If you have not read the first post in this series, you may want to go back and check it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Alive! First Evidence that IBI VizEdit Works</title>
+      <link>/post/its-alive-first-evidence-that-/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/its-alive-first-evidence-that-/</guid>
+      <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works. Or at least, early indicators are in, and based on 22 cases, some of which required a great deal of manual editing, the program is returning estimates in line with expectations. Backing up, as I trip a little over my excitement, IBI VizEdit is an Rshiny application I created to help our lab process and edit heart rate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RMarkdown is the Most Powerful Codebook Maker You Can Find for Your Datasets</title>
+      <link>/post/rmarkdown-is-the-most-powerful/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rmarkdown-is-the-most-powerful/</guid>
+      <description>You worked hard to collect, clean, and process your data. Now your dataset is finally ready for that final step. That put a bow on it and send it to all your colleagues phase. You are at that moment when you release a deep sigh of relief at the end of the hard (sometimes underappreciated) work of data wrangling. Now you have to make something that communicates all that you have done.</description>
+    </item>
+    
+    <item>
+      <title>Interaction Plots with Continuous Moderators in R</title>
+      <link>/post/interaction-plots-with-continu/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interaction-plots-with-continu/</guid>
+      <description>Long ago (the first half of my grad school life), I created a model for a manuscript I submitted. The paper was focused on adolescents’ appraisals of their relationships with their mothers, fathers, and best&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Multilevel Model with Missing Data</title>
+      <link>/post/bayesian-multilevel-model-with/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bayesian-multilevel-model-with/</guid>
+      <description>Overview: This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data. The second post in the series will focus on running and evaluating the imputation model itself after having identified the appropriate covariates that help account for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Power Analyses for an Unconditional Growth Model using {lmer}</title>
+      <link>/post/power-analyses-for-an-uncondit/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/power-analyses-for-an-uncondit/</guid>
+      <description>Recently, I was asked to knock together a quick power analysis for a linear growth model with approximately 120&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Imputation/Forecast Models</title>
+      <link>/post/gaussian-process-imputationfor/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gaussian-process-imputationfor/</guid>
+      <description>A well-established set of problems emerges when attempting to analyze non-stationary univariate time series (i.e., the signal’s mean and/or variance changes over time). A common approach is to impose some stationarity on the data so that certain modeling techniques can provide allow a research to make some predictions (e.g., ARIMA&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

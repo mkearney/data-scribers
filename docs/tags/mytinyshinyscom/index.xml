@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mytinyshinyscom on rscribers</title>
+    <link>/tags/mytinyshinyscom/</link>
+    <description>Recent content in Mytinyshinyscom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mytinyshinyscom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding Codes</title>
+      <link>/post/coding-codes/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/coding-codes/</guid>
+      <description>One of my sons has signed up with the S.H.O.E. Academy a fun site for espionage fans. One of the regular tasks is to decipher messages using a code wheel The is made up of two concentric circles each made up the letters of the alphabet with the outer ring in regular order and the inner ring, which you can spin, effectively randomized The challenge for the agent is to find which letter in the inner ring to use to align with the ‘A’ in the outer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>epldata Package</title>
+      <link>/post/epldata-package/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epldata-package/</guid>
+      <description>I have been collating data from the English Premier League since it began in 1992 and have a complete database of every players appearances in league games, details of goals scored and assists made. This has formed the backend of both the premiersoccerstats shiny web site and the weekly blog posts on this site for the 38 rounds of thw 2017&amp;frasl;18&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 38</title>
+      <link>/post/epl-week-38/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-38/</guid>
+      <description>Match of the DayVery little to play for - other than stacks of place money Well at least we got a nine goal thriller. And Lamela scored twice! Lucas Moura records the 50th 4-assist game in EPL history on the final day of the season, matching Spurs teammate Eriksen who did the same trick on the last day of 2016/17Man City RecordsCity set a plethora of records including for wins, points and goals in an EPL&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 37</title>
+      <link>/post/epl-week-37/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-37/</guid>
+      <description>Match of the DayOnly one point from the top four this week-end means Chelsea still have chance to catch Liverpool and Spurs. Stoke first condemned to the drop Liverpool’s five goals haul is the 66th time a team has done this since Manchester United last achieved&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 36</title>
+      <link>/post/epl-week-36/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-36/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DaySigns of life from the botton three with wins for WBA and Southampton and a draw for Stoke at&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 35</title>
+      <link>/post/epl-week-35/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-35/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayWBA, Stoke and Southampton edge ever closer to the drop What with hitting the woodwork three times the Watford v Palace 0-0 matchup saw some records&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 34</title>
+      <link>/post/epl-week-34/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-34/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayBit of a damp squib with Man. Utd. handing City the title but at least the, abot to become, Champions put in a better performance at Wembley to take some of the pain off the Liverpool trouncing in the Champion’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Networks</title>
+      <link>/post/visualizing-networks/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-networks/</guid>
+      <description>Armed with a free month of Data Camp, I have been taking a look at one or two areas I am pretty uninformed about, including Social Networks The course is run by fellow ex-pat and soccer/football enthusiast, James Curley. He is the author of the slightly- understated engsoccerdata package His course is concentrated around the igraph package but touches on others including visNetwork for which I found this blog post by Jesse Sandler, particularly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 33</title>
+      <link>/post/epl-week-33/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-33/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayCity’s title celebrations put on ice as the Manchester derby provides 5 goals and 9 bookings whilst the Liverpool one cannot provide one of either Rooney has only completed 5 of his 23&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 32</title>
+      <link>/post/epl-week-32/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-32/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayAlthough Stoke and Southampton did themselves no favours, at least there is a relegation battle. Champs and top 4 now look sorted after Spurs’ come-from-behind victory at Stamford Bridge WBA pick up the first 8 game losing sequence by any club entirely within this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tabulating File Information</title>
+      <link>/post/tabulating-file-information/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tabulating-file-information/</guid>
+      <description>I have been a bit lazy with regard to deploying this blog and am not sure of the best way of dealing with it As you may know, the package I use, blogdown, you create all the files within a public directory which you can then deploy the files to your server of choice. I have my own site and upload all the files to replace the existing ones The problem I have is that some of the files on the site are very large and so the process can take a long&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Geofacetting South African style</title>
+      <link>/post/geofacetting-south-african-sty/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geofacetting-south-african-sty/</guid>
+      <description>Ryan Hafens has recently started what is promised to be a series of blog posts about his geofacet package. In the first post, he argues the case for where this approach has advantages over other forms of choropleth. I have previously looked at the hexmap approach - which may or may not be still working It is possible to create one’s own map to apply to geofacetting but luckily one has already been created for the nine provinces of South Africa - where I am currently&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where should I live?</title>
+      <link>/post/where-should-i-live/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/where-should-i-live/</guid>
+      <description>After a long spate of just soccer posts, it is a relief(delayed pun intended) to turn to a quick look at a relatively new package, weathercan released under the https://ropensci.org/ banner by @steffilazerte, who has written a comprehensive blog post about it The package provides historical weather data from Environment and Climate Change Canada’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 30</title>
+      <link>/post/epl-week-30/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-30/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayRashford schools Alex-Arnold Palace joined WBA with a league-leading ninth one-goal defeat. Every team has suffered at least one such occurrence this season. Surprisingly Huddersfield have lost by a single goal just once in their 15 defeatsManager changesSeveral teams have changed manager’s this season in an attempt to acquire a ‘New manger&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 29</title>
+      <link>/post/epl-week-29/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-29/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayIn 273 league appearances with Manchester United Patrice Evra was part of a line up that conceded 4 or more goals on 5 occasions (1.8%). For West Ham, he is 2 for 2 (100%)Rod off Burnley’s backAs many of you have heard, Burnley finally won a Premier Leaague match under Sean Dyche after going&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 28</title>
+      <link>/post/epl-week-28/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-28/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayAshley Young needs to play just over 3 full games to record the most minutes in a season wearing a Man. Utd. shirt/p&amp;gt; Top CombosOptaJoe recently tweeted that the Martial and Lukaku had combined for 6 Premier League goals (each with 3 goals and 3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 27</title>
+      <link>/post/epl-week-27/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-27/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the Day/p&amp;gt; Aguero-a-go-goWith the signing of Jesus last season and the pursuit of Alexis Sanchez in the recent transfer window, it appears as though Sergio Aguero is no longer the favourite son at Manchester&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 26</title>
+      <link>/post/epl-week-26/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-26/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts This week’s crisis team, Chelsea. Match of the DayJordon Ibe has picked up 3 assists in his most recent two&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 25</title>
+      <link>/post/epl-week-25/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-25/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts Spurs score early - but should have more often - against a lack-lustre Manchester United sporting their shiny new toy, Alexis Sanchez Match of the DayOne that got away, notRiyad Mahrez stayed at Leicester, in spite of a transfer request and rumours that Manchester City were willing to spend somewhere around 75 million on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 23</title>
+      <link>/post/epl-week-23/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-23/</guid>
+      <description>Man City’s unbeaten run ended by a Coutinho-less Liverpool in seven goal thriller Match of the DaySubsOn Saturday an oddity occurred. The kind of ‘Dog didn’t bark in the night’ sort. Roy Hodgson, with his team hanging on to a precious three points for what would make a ’massive win&amp;rdquo; failed to make a substitution: a norm for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 20</title>
+      <link>/post/epl-week-20/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-20/</guid>
+      <description>Match of the DayPardew BounceAlan Pardew has a rep as someone who gives a team an instant return, extended runs (good and bad) and ultimate disappointment Well stage one hasn’t happened with WBA as they have yet to win a game in six but how true is it of his four other Premier managerships. Zoom into bottom left hand corner to view first six&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 19</title>
+      <link>/post/epl-week-19/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-19/</guid>
+      <description>Match of the DayArsenal and Liverpool showing why they are fun to watch but won’t be winning major trophies Kane is AbleSome eyebrows were raised when Harry Kane was rated by a Guardian poll of 169 experts as the fifth best player in the world for 2017 but he certainly did his best to justify that ranking with a hat-trick at high-flying&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 18</title>
+      <link>/post/epl-week-18/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-18/</guid>
+      <description>Match of the DayFour teams win away from home by at least three goal margins - surprisingly Huddersfield, West Ham and Crystal Palace join Liverpool Who is your TalismanSome players are regarded as more essential to their teams than others - Pogba at Manchester United or Zaha at Crystal Palace spring to mind. As a crude way of assessing this, we can look at the average points per game the team has secured with their services when they are playing or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 17</title>
+      <link>/post/epl-week-17/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-17/</guid>
+      <description>Match of the DaySecond time recently, Watford have removed Deeney late in winning position only to end up with no points Watford were ahead of Crystal Palace for 85 minutes in Tuesday’s game - 15 minutes more than Palace have led in matches the whole season to dateYet Another Man City ChartWith Man. City racking up another four goals away from home, they are well on course to break Chelsea’s season record of 103 in 2009&amp;frasl;10, when Drogba (29) and Lampard (22) led the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 16</title>
+      <link>/post/epl-week-16/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-16/</guid>
+      <description>Match of the DayBizarrely, the top two teams contrive to score three cock-up goals City dominanceWith an eleven point lead over their nearest rivals, Man City are looking home and hosed for the title. Their 46 point tally after 16 games is an EPL record, three greater than Chelsea 2005&amp;frasl;6, but is actually not the largest margin at this stage of a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 15</title>
+      <link>/post/epl-week-15/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-15/</guid>
+      <description>Match of the DayThe big-six contest, Arsenal v Man. Utd. illustrated once again that de Gea may be the finest goalkeeper in the world Club in Crisis - SpursAfter being praised to the heights by the press, things at Spurs are unravelling fairly quickly. Their lack of good squad depth has been shown up by the sale of Walker, stand-off with Rose and injuries to Wanyama and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 14</title>
+      <link>/post/epl-week-14/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-14/</guid>
+      <description>Match of the DayAllardyce is beaming. Everton are close to top half of table and he has three long-term-injured players back soon: Boalsie, Barkley and Coleman Rooney RocketI do not collect the number of goals scored from own-half but that final goal of his hat-trick was the 28th in his EPL career from outside of the area - good for 7th&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 12</title>
+      <link>/post/epl-week-12/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-12/</guid>
+      <description>Match of the DayFollowing a defeat to North London rivals, Spurs now talking top 4, not title Pulis is outStodgy football and a points-per-game average lower than Steve Clarke will do that for you. His spell at WBA ended with the lowest ppg average of any of his three clubs. The Welsh managership may come calling See the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 11</title>
+      <link>/post/epl-week-11/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-11/</guid>
+      <description>Match of the DayMourinho still can’t buy a result away against big clubs The Spanish connectionMorata connected up with Azpilicueta’s cross for Chelsea’s winner against Manchester United and he has now assisted on five of the striker’s seven league goals this season, only topped by six of the 52 goals Diego Costa scored for the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 10</title>
+      <link>/post/epl-week-10/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-10/</guid>
+      <description>Match of the DayKane-less Spurs lose to Pogba-less United and trail City by 8 points Final Top 6?The accepted ‘top six’ i.e Chelsea, Spurs, Man City, Liverpool, Arsenal and Man Utd. were generally expected to comprise the first half-dozen come the end of the season for the second year running. Only Everton had come within 23 points of them last year - and it is clear they will be now be happy to finish outside of the bottom&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 9</title>
+      <link>/post/epl-week-9/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-9/</guid>
+      <description>Match of the DaySunday games rule; as Arsenal consign Koeman to the dustbin and Klopp may start to worry Managers OutThere have already been three dismissals with less than a quarter of the season gone Crystal Palace: de Boer - not matching playing styles to player skillsLeicester City: Shakespeare - board were reluctant in first placeEverton: Koeman - poor results after big summer spending spreeGiven that all the promoted clubs have performed well, several others will be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Archer Memes</title>
+      <link>/post/archer-memes/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/archer-memes/</guid>
+      <description>I have rather belatedly gotten around to viewing the adult animated series, Archer, on Netflix. If you have not read up about the show, wikipedia has good coverage and there is an in-depth viz project -A data driven exploration of Archer - by Mara Averick and Elijah Meeks The subtitles often shout-out for a meme and I have clipped several, initially from Series 1 Ep&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 8</title>
+      <link>/post/epl-week-8/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-8/</guid>
+      <description>Game of the week Crystal Palace 2 - 2 ChelseaChampions lose to previously goalless, pointless London rivals &amp;ndash;Julian Speroni and Gareth McAuley made their first appearances of the season becoming the oldest player and oldest outfielder, respectively, to appear in this campaignMo’s MOIt is a well known that Jose Mourinho’s modus operandi in away games against top sides is to play very&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Searching Stack Overflow</title>
+      <link>/post/searching-stack-overflow/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/searching-stack-overflow/</guid>
+      <description>Rstudio has recently launched a community site and it seems to be providing a great forum already. One of the topics with over 60 contributions is Choosing between this sitre and StackOverflow for posting a question As long threads tend to do, it went off at a bit of a tangent and following a comment I made, Edward Visel produced some code for reporting on recent posts on ’tidyverse which I have generalized into a shiny app - shown&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Guardian Film Reviews</title>
+      <link>/post/guardian-film-reviews/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/guardian-film-reviews/</guid>
+      <description>From being an avid daytime moviehouse attendee. I have retreated to the occasional Netflix viewing at home. Although the ‘Because you watched’ algorithm works fairly well The Matching on Netflix does not work for me so I’d kinda like to get a rating from a reputable source maybe along with a review As I’m a Guardian reader, a recent post by Maelle Salmon on extracting data from their Experience columns gave me a nudge to do something and I have used her code as a template for my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 7</title>
+      <link>/post/epl-week-7/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-7/</guid>
+      <description>Game of the week WBA 2 - 2 WatfordThese teams probably won’t feature much but Watford deservedly fought back from a two goal deficit Widening gap in classIt was generally forecast that the top-six of last season would repeat again in this campaign - though probably not in the same order. After just seven games, we are already just one diverted Joselu strike away from Liverpool joining the other top five from last year in the leading&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>World Bank Data with data360r</title>
+      <link>/post/world-bank-data-with-data360r/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/world-bank-data-with-data360r/</guid>
+      <description>NB This is a revamp of a previous post The World Bank is a great source of economic and social data. A couple of years ago, I used it to create a shiny app which still appears to work! Earlier this year, the World Bank launched a new open data platform which collates more than 2000 indices from 40+ data sources many external to the World&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 6</title>
+      <link>/post/epl-week-6/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-6/</guid>
+      <description>Game of the week West Ham 2-3 TottenhamThe star of this week’s post, Christian Eriksen, gets involved in all three goals for Spurs After six games, Manchester Utd. can already boast eight names on the scoresheet. In 42 games in 1993&amp;frasl;4, Arsenal mustered just sixTop v BottomMan City’s destruction of Crystal Palace ensured those two sides produced the biggest ever difference in Goals Scored after six games of a Premier League season,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GG what!</title>
+      <link>/post/gg-what/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gg-what/</guid>
+      <description>The ggplot2 package and its extensions dominate the R visualization landscape, particularly for static charts It got me thinking about how rare was that combination of two ’g’s to start a word - at least in the English language. Luckily, there is a source on github extracted from an infochimps source Not exactly a mind-blowing exercise, but a useful way to use a few techniques from the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 5</title>
+      <link>/post/epl-week-5/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-5/</guid>
+      <description>Game of the week Watford 0-6 Manchester CitySecond time Man City have won by 5+ goals in consecutive games against same team. They have also done it Derby. Only achieved on two other occasions in English league top tier with WBA figuring twice: crushing local rivals, Birmingham, and suffering at the hands of Liverpool Unfortunately, no video available so you’ll have to settle for this home-made Huddesfield v Leicester&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Canadian Census</title>
+      <link>/post/canadian-census/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/canadian-census/</guid>
+      <description>A few weeks ago I did a post on the StatCan API I have since come across the new cancensus package, a wrapper function for CensusMapper API, in beta and not yet available on CRAN . These has been developed by the Vancouver team at MountainMath featuring Jens von Bergmann. His blog, Mountain Doodles is well worth a read - and, usefully, includes his twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Shortcodes</title>
+      <link>/post/hugo-shortcodes/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-shortcodes/</guid>
+      <description>One of the delights of using blogdown to create blogs or websites is that it allows access to Hogo shortcodes which automatically create an HTML snippet based on the parameters you provide. You can even create your own, if you are up to it Here are a few examples for use in RMarkdown. Check out the blogdown package and Hugo documentation for more detail YoutubeI tend to use the vembedr package but this is an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 4</title>
+      <link>/post/epl-week-4/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-4/</guid>
+      <description>Game of the week Stoke City 2-2 Manchester UnitedUnited’s first real test. Still look going forward but defensive frailties may be exposed by top opposition It must be September - Kane starts scoringThe first one was a bit of a fluke but he reaches the 80 goal mark at a younger age than any who have reached that level in fewer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 3</title>
+      <link>/post/epl-week-3/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-3/</guid>
+      <description>Game of the weekA slightly fortuitous win for Manchester City. View the highlights with a Russian commentary Arsenal leaking goalsArsenal have gone from edging a seven-goal thriller against Leicester to a pummelling at the hands of Liverpool, via an unhappy trip to Stoke. Over this period, they have conceded eight goals. How does that stack up over any three game stretch for them or any other&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 2</title>
+      <link>/post/epl-week-2/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-2/</guid>
+      <description>Round 2Not so many shocks in Round 2. Three teams remain with 100% records. Manchester United have looked the most impressive and it is not until week 8 that they meet any of the five teams that finished above them last year. Huddersfield manager David Wagner will probably just be grateful to have six points in the bag so soon and Tony Pulis will be looking to put his feet up even earlier than usual as his WBA teams tend to do once they reach the 40 point safety&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 1</title>
+      <link>/post/epl-week-1/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-1/</guid>
+      <description>Round 1Well we’re back with an exciting start to the new season. Manchester United turned in their best performance in years and Huddersfield had a dream return to the top tier. Some things remain the same though with Dele Alli conning Shelvey into a dismissal and Liverpool conceding from corners Game of the WeekArsenal and Leicester swapping blows with the Gunners emerging&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL 2017/18</title>
+      <link>/post/epl-201718/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-201718/</guid>
+      <description>With the new Premier League season kicking off, I plan to produce plenty of posts over the coming months I have yet to organize it all but the idea is to present tables and charts without embedded code. Hopefully, I will get around to publishing it on Github So let’s start of with a couple of different areas of interest Starting survivors220 keen players will start the season - but how often does the Game one starting lineup reflect who plays most for the team throughout the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>StatCan API&#39;s Discovered</title>
+      <link>/post/statcan-apis-discovered/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statcan-apis-discovered/</guid>
+      <description>My last post was a first look at StatCan data which highlighted that there was a lot of data available but that it was not necessarily easily available or perfectly presented Since then (and apologies where due), I have come across a couple of APIs First-off, StatCan do have a developers page one of which provides access to hundreds of indicators in JSON&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bournemouth to bash on?</title>
+      <link>/post/bournemouth-to-bash-on/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bournemouth-to-bash-on/</guid>
+      <description>I have plans to hive off the soccer/football section off to a separate blog as many sports readers will not be interested in code but until then, here is my latest effort As the new season is now upon us it was time to post a new article. I have also been intending to pen something based around James Curley’s excellent engsoccerdata package which anyone interested in R and European football should definitely check&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pimping the StatCan Blog</title>
+      <link>/post/pimping-the-statcan-blog/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pimping-the-statcan-blog/</guid>
+      <description>Statistics Canada make available masses of useful data from Censuses and Surveys. One way they communicate is via twitter e.g. library(blogdown) shortcode(&amp;ldquo;tweet&amp;rdquo;, &amp;ldquo;891757886011002883&amp;rdquo;)In 2001, 31% of young adults (aged 20 to 34) were still living with their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When Babe Ruth met Kandinsky</title>
+      <link>/post/when-babe-ruth-met-kandinsky/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-babe-ruth-met-kandinsky/</guid>
+      <description>When Babe Ruth first retired from baseball he found it tough. Without the protection of the Yankees PR department his various, and widespread, indiscretions were fodder for the yellow press and the reluctance of anyone to give him a managerial position was humiliating So he became a virtual recluse mainly fly-fishing, painting water-colours and studying the lives of contemporary&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated congratulatory tweet to Twitter Friends</title>
+      <link>/post/automated-congratulatory-tweet/</link>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automated-congratulatory-tweet/</guid>
+      <description>On the front page of my premiersoccerstats site, I have a Player Milestones table which highlights players who have reached certain levels in the Premier League’s latest round of games e.g. 100 Appearances This requires comparing two datasets and subsetting the rows with differences in the variable of interest. To this end, I use the daff package which was the subject of a presentation at the recent R User 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>User2017- padr package example</title>
+      <link>/post/user2017-padr-package-example/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/user2017-padr-package-example/</guid>
+      <description>Of course, it is not the same as actually being there, but as a good fall-back the videos of the talks for the R User 2017 conference are now available on channel 9. I’ll be dipping into them over the next few weeks and reporting on any I find of interest. Let’s kick-off with the padr package from Edwin Thoen. It is on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Weather plots for any US location</title>
+      <link>/post/weather-plots-for-any-us-locat/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/weather-plots-for-any-us-locat/</guid>
+      <description>There are issues with packages in this post. Here are author comments weatherData“All, yes looks like WU is no longer making it easy to get CSV files without API’s. If anyone figures out a URL for directly fetching CSV’s, I will modify the package. But until then, we are stuck” ggjoy“All code has been moved over to package ggridges. As of this version, ggjoy simply calls ggridges and re-exports relevant functions under the old&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping Eurostat information Part 1</title>
+      <link>/post/mapping-eurostat-information-p/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mapping-eurostat-information-p/</guid>
+      <description>Keeping up with the theme of utilizing official government open data to map via an R package I will now turn to the eurostat package which accesses data - via an API - from the European Commission. First released in 2015, there is an article (wuth R code) by its authors in the most recent issue of the R Journal,9&amp;frasl;1 which makes for an interesting read covering a variety of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Useful links for mapping in R</title>
+      <link>/post/useful-links-for-mapping-in-r/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/useful-links-for-mapping-in-r/</guid>
+      <description>Geography was not my favourite subject as a high-schooler: maybe having a teacher who smoked a pipe in the classroom had somethiing to do with&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First look at Tidycensus</title>
+      <link>/post/first-look-at-tidycensus/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-look-at-tidycensus/</guid>
+      <description>The whole future of the US census has been coming under scrutiny recently, but, thankfully, we are getting more tools to scrutinise both its decennial data and that of its sister-source, the American Community service (ACS). Specifically, Kyle Walker’s tidycensus and tigris packages which return data-frames (including shape-files as list-columns, if required) from the census API and Edzer Pebesma’s sf, simple features,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Baby Names in the UK and USA</title>
+      <link>/post/baby-names-in-the-uk-and-usa/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/baby-names-in-the-uk-and-usa/</guid>
+      <description>Lost in the realms of time when reshape2 and ggvis were flavour of the month (i.e 20 months ago), I apparantly created a shiny app built around Hadley Wickham’s babynames data package With the recent release of a UK equivalent from Thomas Leeper and an intriguing plot on tennis world ranked number ones, I have decided to play around with the data both old and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ages by England &amp; Wales constituency</title>
+      <link>/post/ages-by-england-wales-constitu/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ages-by-england-wales-constitu/</guid>
+      <description>There is are a lot of opportunities for data visualizations in journalism and R is beginning to get a toehold in this arena I recently came across a for-loop tutorial from the R for journalists blog and decided to reprocess it using tidyverse packages whilst adding a plot and map The article uses some GB office of National Statistics data to calculate the estimated mean age of the population of each of the England and Wales parliamentary&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Theme Update</title>
+      <link>/post/theme-update/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/theme-update/</guid>
+      <description>Yow will have noticed a new look to the site, now based on the Hugo Icarus theme The major reason for introducing this is that the previous theme I used was unable to render certain htmlwidgets I wanted to use to illustrate my code. The code may also be a bit more legible For those of you interested in creating a similar styled blog, please refer to Yihui Xie &amp;amp; Amber Thomas’s detailed documentation and a useful blog post by Ed Borasky on setting up a similar-themed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Integrating dplyr with Remote databases</title>
+      <link>/post/integrating-dplyr-with-remote-/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/integrating-dplyr-with-remote-/</guid>
+      <description>A recent RViews article covers the use of the dplyr package to interact with SQL databases All the code can be written in R, which dplyr then translates into SQL queries to harness the power of a database You will probably want to read the article if interested in extending the process to your own data but here is a taster from some of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RcppRoll package for swift moving averages</title>
+      <link>/post/rcpproll-package-for-swift-mov/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rcpproll-package-for-swift-mov/</guid>
+      <description>Bob Rudis always keeps his pulse on the best packages and recently bemoaned the fact that Kevin Ushey’s RcppRoll package which Provides Routines for the efficient computation of windowed mean, median,sum, product, minimum, maximum, standard deviation and variance are provided.has not had enough praise One reason is probably the lack of examples available - even in the vignette I have therefore done a swift illustration using just one of the functions,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s News?</title>
+      <link>/post/whats-news/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/whats-news/</guid>
+      <description>newsflash packagePolymath, Bob Rudis (aka hrbrmstr) has recently released the newsflash package which is a “set of tools to Work with the Internet Archive and GDELT Television Explorer”&amp;rdquo; In a recent blog post, based on a gdelt project creator article, he details the coverage of Hillary Clinton’s email server woes, with the, unsurprising, fact that FOX News spent more time on the issue than other&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UK 2015 Election Mapped</title>
+      <link>/post/uk-2015-election-mapped/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/uk-2015-election-mapped/</guid>
+      <description>Just providing a quick update to the previous post. Since that was done a few weeks ago, Evan Odell has been doing some great work on enhancing his Hansard package details of which you can view here. I plan to do some more work on this incredible resource in the future but for now am just looking at some&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Twitter Followers Collage</title>
+      <link>/post/twitter-followers-collage/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/twitter-followers-collage/</guid>
+      <description>A relatively new, but extremely welcome, additon to the R blogosphere is Maëlle Salmon She recently posted Faces of #rstats Twitter, which describes how to get a collage of 50x50px images of tweeters with ‘rstats’ in their profile Here is the end-product There are around 450 images, which happens to match my current number of followers so I thought I would adapt her code accordingly I have set the code to eval=FALSE to obviate a yet-to-be-resolved error when I remove a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Spotify - all 20 million tracks</title>
+      <link>/post/spotify-all-20-million-tracks/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spotify-all-20-million-tracks/</guid>
+      <description>I have consistently been interested in assessing music information in R, for example my - somewhat dormant -charts dashboard A recent, excellent, blog post by RCharlie featuring the Spotify and Genius APIs to determine a ‘Gloom Index’ for Radiohead tracks piqued my interest. It also incorporates some illuminating code using the purrr package The Spotify,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wikipedia Page Views</title>
+      <link>/post/wikipedia-page-views/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wikipedia-page-views/</guid>
+      <description>This is the first in a category of retreads where I look again at past work which could do with some loving care. This might be as they are broken, could do with some updating or be usefully enhanced One of my first shiny projects was using the wikipediatrend package to monitor daily page views on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notebook Collaboration</title>
+      <link>/post/notebook-collaboration/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/notebook-collaboration/</guid>
+      <description>Wild boars amongst usOne of the great virtues of R Notebooks is the ease of collaboration and Tuija Sonkkila recently kindly made hers on wild boars available As - in a former existence - I was a pork buyer for a grocery chain, this piqued (almost-pun intended) my interest. So I just hit the code &amp;gt; Download Rmd button, and opened the resulting notebook file in RStudio to play&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Analysis</title>
+      <link>/post/exploratory-analysis/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploratory-analysis/</guid>
+      <description>Analyzing some Premier League dataI recently had some fan-mail! The author suggested I write a book on the “practical considerations when building shiny”. That’s not going to happen, but I thought I would go into an example (warts and all) of how I proceed from an idea to an output which might end up as a tweet, flexdashboard, blog post or just plain binned (and not in the histogram&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

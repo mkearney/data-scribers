@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peerchristensennetlifycom on rscribers</title>
+    <link>/tags/peerchristensennetlifycom/</link>
+    <description>Recent content in Peerchristensennetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/peerchristensennetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fair is foul, and foul is fair</title>
+      <link>/post/fair-is-foul-and-foul-is-fair/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fair-is-foul-and-foul-is-fair/</guid>
+      <description>Sentiment analysis can be used for many purposes and applied to all kinds of texts. In this exploratory analysis, we’ll use a tidytext approach to examine the use of sentiment words in the tragedies written by William Shakespeare. I’ve previously used Python for scraping and mining texts. However, I recently stumbled upon the tidytext R package by Julia Silge and David Robinson as well as their excellent book and ressource on combining tidytext with other tidy tools in&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rdatagennet on rscribers</title>
+    <link>/tags/rdatagennet/</link>
+    <description>Recent content in Rdatagennet on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rdatagennet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Binary, beta, beta-binomial</title>
+      <link>/post/binary-beta-betabinomial/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/binary-beta-betabinomial/</guid>
+      <description>I’ve been working on updates for the simstudy package. In the past few weeks, a couple of folks independently reached out to me about generating correlated binary data. One user was not impressed by the copula algorithm that is already implemented. I’ve added an option to use an algorithm developed by Emrich and Piedmonte in 1991, and will be incorporating that option soon in the functions genCorGen and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The power of stepped-wedge designs</title>
+      <link>/post/the-power-of-steppedwedge-desi/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-power-of-steppedwedge-desi/</guid>
+      <description>Just before heading out on vacation last month, I put up a post that purported to compare stepped-wedge study designs with more traditional cluster randomized trials. Either because I rushed or was just lazy, I didn’t exactly do what I set out to do. I did confirm that a multi-site randomized clinical trial can be more efficient than a cluster randomized trial when there is variability across&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multivariate ordinal categorical data generation</title>
+      <link>/post/multivariate-ordinal-categoric/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/multivariate-ordinal-categoric/</guid>
+      <description>An economist contacted me about the ability of simstudy to generate correlated ordinal categorical outcomes. He is trying to generate data as an aide to teaching cost-effectiveness analysis, and is hoping to simulate responses to a quality-of-life survey instrument, the EQ-5D. The particular instrument has five questions related to mobility, self-care, activities, pain, and anxiety. Each item has three possible responses: (1) no problems, (2) some problems, and (3) a lot of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Randomize by, or within, cluster?</title>
+      <link>/post/randomize-by-or-within-cluster/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/randomize-by-or-within-cluster/</guid>
+      <description>I am involved with a stepped-wedge designed study that is exploring whether we can improve care for patients with end-stage disease who show up in the emergency room. The plan is to train nurses and physicians in palliative care. (A while ago, I described what the stepped wedge design is.) Under this design, 33 sites around the country will receive the training at some point, which is no small task (and fortunately as the statistician, this is a part of the study I have little&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How the odds ratio confounds</title>
+      <link>/post/how-the-odds-ratio-confounds/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-the-odds-ratio-confounds/</guid>
+      <description>The odds ratio always confounds: while it may be constant across different groups or clusters, the risk ratios or risk differences across those groups may vary quite substantially. This makes it really hard to interpret an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Re-referencing factor levels to estimate standard errors when there is interaction turns out to be a really simple solution</title>
+      <link>/post/rereferencing-factor-levels-to/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rereferencing-factor-levels-to/</guid>
+      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Late anniversary edition redux</title>
+      <link>/post/late-anniversary-edition-redux/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/late-anniversary-edition-redux/</guid>
+      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A little function to help generate ICCs in simple clustered data</title>
+      <link>/post/a-little-function-to-help-gene/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-little-function-to-help-gene/</guid>
+      <description>In health services research, experiments are often conducted at the provider or site level rather than the patient level. However, we might still be interested in the outcome at the patient level. For example, we could be interested in understanding the effect of a training program for physicians on their patients. It would be very difficult to randomize patients to be exposed or not to the training if a group of patients all see the same&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is non-inferiority on par with superiority?</title>
+      <link>/post/is-noninferiority-on-par-with-/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/is-noninferiority-on-par-with-/</guid>
+      <description>It is grant season around here (actually, it is pretty much always grant season), which means another series of problems to tackle. Even with the most straightforward study designs, there is almost always some interesting twist, or an approach that presents a subtle issue or two. In this case, the investigator wants compare two interventions, but doesn’t feel the need to show that one is better than the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How efficient are multifactorial experiments?</title>
+      <link>/post/how-efficient-are-multifactori/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-efficient-are-multifactori/</guid>
+      <description>I recently described why we might want to conduct a multi-factorial experiment, and I alluded to the fact that this approach can be quite efficient. It is efficient in the sense that it is possible to test simultaneously the impact of multiple interventions using an overall sample size that would be required to test a single intervention in a more traditional&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing multiple interventions in a single experiment</title>
+      <link>/post/testing-multiple-interventions/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testing-multiple-interventions/</guid>
+      <description>A reader recently inquired about functions in simstudy that could generate data for a balanced multi-factorial design. I had to report that nothing really exists. A few weeks later, a colleague of mine asked if I could help estimate the appropriate sample size for a study that plans to use a multi-factorial design to choose among a set of interventions to improve rates of smoking&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring the underlying theory of the chi-square test through simulation - part 2</title>
+      <link>/post/exploring-the-underlying-theor/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-the-underlying-theor/</guid>
+      <description>In the last post , I tried to provide a little insight into the chi-square test. In particular, I used simulation to demonstrate the relationship between the Poisson distribution of counts and the chi-squared distribution. The key point in that post was the role conditioning plays in that relationship by reducing variance. To motivate some of the key issues, I talked a bit about recycling. I asked you to imagine a set of bins placed in different locations to collect glass&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring the underlying theory of the chi-square test through simulation - part 1</title>
+      <link>/post/exploring-the-underlying-theor/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-the-underlying-theor/</guid>
+      <description>Kids today are so sophisticated (at least they are in New York City, where I live). While I didn’t hear about the chi-square test of independence until my first stint in graduate school, they’re already talking about it in high school. When my kids came home and started talking about it, I did what I usually do when they come home asking about a new statistical concept. I opened up R and started generating some&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another reason to be careful about what you control for</title>
+      <link>/post/another-reason-to-be-careful-a/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/another-reason-to-be-careful-a/</guid>
+      <description>Modeling data without any underlying causal theory can sometimes lead you down the wrong path, particularly if you are interested in understanding the way things work rather than making predictions. A while back, I described what can go wrong when you control for a mediator when you are interested in an exposure and an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“I have to randomize by cluster. Is it OK if I only have 6 sites?&#39;</title>
+      <link>/post/i-have-to-randomize-by-cluster/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/i-have-to-randomize-by-cluster/</guid>
+      <description>The answer is probably no, because there is a not-so-low chance (perhaps considerably higher than 5%) you will draw the wrong conclusions from the study. I have heard variations on this question not so infrequently, so I thought it would be useful (of course) to do a few quick simulations to see what happens when we try to conduct a study under these&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Have you ever asked yourself, &#39;how should I approach the classic pre-post analysis?&#39;</title>
+      <link>/post/have-you-ever-asked-yourself-h/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/have-you-ever-asked-yourself-h/</guid>
+      <description>Well, maybe you haven’t, but this seems to come up all the time. An investigator wants to assess the effect of an intervention on a outcome. Study participants are randomized either to receive the intervention (could be a new drug, new protocol, behavioral intervention, whatever) or treatment as usual. For each participant, the outcome measure is recorded at baseline - this is the pre in pre/post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Importance sampling adds an interesting twist to Monte Carlo simulation</title>
+      <link>/post/importance-sampling-adds-an-in/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/importance-sampling-adds-an-in/</guid>
+      <description>I’m contemplating the idea of teaching a course on simulation next fall, so I have been exploring various topics that I might include. (If anyone has great ideas either because you have taught such a course or taken one, definitely drop me a note.) Monte Carlo (MC) simulation is an obvious one. I like the idea of talking about importance sampling , because it sheds light on the idea that not all MC simulations are created&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data</title>
+      <link>/post/simulating-a-costeffectiveness/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simulating-a-costeffectiveness/</guid>
+      <description>My dissertation work (which I only recently completed - in 2012 - even though I am not exactly young, a whole story on its own) focused on inverse probability weighting methods to estimate a causal cost-effectiveness model. I don’t really do any cost-effectiveness analysis (CEA) anymore, but it came up very recently when some folks in the Netherlands contacted me about using simstudy to generate correlated (and clustered) data to compare different approaches to estimating&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When there&#39;s a fork in the road, take it. Or, taking a look at marginal structural models.</title>
+      <link>/post/when-theres-a-fork-in-the-road/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-theres-a-fork-in-the-road/</guid>
+      <description>I am going to cut right to the chase, since this is the third of three posts related to confounding and weighting, and it’s kind of a long one. (If you want to catch up, the first two are here and here .) My aim with these three posts is to provide a basic explanation of the marginal structural model (MSM) and how we should interpret the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When you use inverse probability weighting for estimation, what are the weights actually doing?</title>
+      <link>/post/when-you-use-inverse-probabili/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-you-use-inverse-probabili/</guid>
+      <description>Towards the end of Part 1 of this short series on confounding, IPW, and (hopefully) marginal structural models, I talked a little bit about the fact that inverse probability weighting (IPW) can provide unbiased estimates of marginal causal effects in the context of confounding just as more traditional regression models like OLS can. I used an example based on a normally distributed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Characterizing the variance for clustered data that are Gamma distributed</title>
+      <link>/post/characterizing-the-variance-fo/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/characterizing-the-variance-fo/</guid>
+      <description>Way back when I was studying algebra and wrestling with one word problem after another (I think now they call them story problems), I complained to my father. He laughed and told me to get used to it. “Life is one big word problem,” is how he put&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing how confounding biases estimates of population-wide (or marginal) average causal effects</title>
+      <link>/post/visualizing-how-confounding-bi/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-how-confounding-bi/</guid>
+      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A simstudy update provides an excuse to generate and display Likert-type data</title>
+      <link>/post/a-simstudy-update-provides-an-/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-simstudy-update-provides-an-/</guid>
+      <description>I just updated simstudy to version 0.1.7. It is available on CRAN. To mark the occasion, I wanted to highlight a new function, genOrdCat , which puts into practice some code that I presented a little while back as part of a discussion of ordinal logistic regression . The new function was motivated by a reader/researcher who came across my blog while wrestling with a simulation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thinking about different ways to analyze sub-groups in an RCT</title>
+      <link>/post/thinking-about-different-ways-/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thinking-about-different-ways-/</guid>
+      <description>Here’s the scenario: we have an intervention that we think will improve outcomes for a particular&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Who knew likelihood functions could be so pretty?</title>
+      <link>/post/who-knew-likelihood-functions-/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/who-knew-likelihood-functions-/</guid>
+      <description>I just released a new iteration of simstudy (version 0.1.6), which fixes a bug or two and adds several spline related routines (available on CRAN ). The previous post focused on using spline curves to generate data, so I won’t repeat myself here. And, apropos of nothing really - I thought I’d take the opportunity to do a simple simulation to briefly explore the likelihood&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Can we use B-splines to generate non-linear data?</title>
+      <link>/post/can-we-use-bsplines-to-generat/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/can-we-use-bsplines-to-generat/</guid>
+      <description>I’m exploring the idea of adding a function or set of functions to the simstudy package that would make it possible to easily generate non-linear data. One way to do this would be using B-splines. Typically, one uses splines to fit a curve to data, but I thought it might be useful to switch things around a bit to use the underlying splines to generate data. This would facilitate exploring models where we know the assumption of linearity is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A minor update to simstudy provides an excuse to talk a bit about the negative binomial and Poisson distributions</title>
+      <link>/post/a-minor-update-to-simstudy-pro/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-minor-update-to-simstudy-pro/</guid>
+      <description>I just updated simstudy to version 0.1.5 (available on CRAN ) so that it now includes several new distributions - exponential , discrete uniform , and negative binomial . As part of the release, I thought I’d explore the negative binomial just a bit, particularly as it relates to the Poisson distribution. The Poisson distribution is a discrete (integer) distribution of outcomes of non-negative values that is often used to describe count&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CACE closed</title>
+      <link>/post/cace-closed/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cace-closed/</guid>
+      <description>This is the third, and probably last, of a series of posts touching on the estimation of complier average causal effects (CACE) and latent variable modeling techniques using an expectation-maximization (EM)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A simstudy update provides an excuse to talk a little bit about latent class regression and the EM algorithm</title>
+      <link>/post/a-simstudy-update-provides-an-/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-simstudy-update-provides-an-/</guid>
+      <description>I was just going to make a quick announcement to let folks know that I’ve updated the simstudy package to version 0.1.4 (now available on CRAN) to include functions that allow conversion of columns to factors, creation of dummy variables, and most importantly, specification of outcomes that are more flexibly conditional on previously defined&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Complier average causal effect? Exploring what we learn from an RCT with participants who don&#39;t do what they are told</title>
+      <link>/post/complier-average-causal-effect/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/complier-average-causal-effect/</guid>
+      <description>Inspired by a free online course titled Complier Average Causal Effects (CACE) Analysis and taught by Booil Jo and Elizabeth Stuart (through Johns Hopkins University), I’ve decided to explore the topic a little bit. My goal here isn’t to explain CACE analysis in extensive detail (you should definitely go take the course for that), but to describe the problem generally and then (of course) simulate some data. A plot of the simulated data gives a sense of what we are estimating and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Further considerations of a hidden process underlying categorical responses</title>
+      <link>/post/further-considerations-of-a-hi/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/further-considerations-of-a-hi/</guid>
+      <description>In my previous post , I described a continuous data generating process that can be used to generate discrete, categorical outcomes. In that post, I focused largely on binary outcomes and simple logistic regression just because things are always easier to follow when there are fewer moving parts. Here, I am going to focus on a situation where we have multiple outcomes, but with a slight twist - these groups of interest can be interpreted in an ordered&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A hidden process behind binary or other categorical outcomes?</title>
+      <link>/post/a-hidden-process-behind-binary/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-hidden-process-behind-binary/</guid>
+      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Be careful not to control for a post-exposure covariate</title>
+      <link>/post/be-careful-not-to-control-for-/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/be-careful-not-to-control-for-/</guid>
+      <description>A researcher was presenting an analysis of the impact various types of childhood trauma might have on subsequent substance abuse in adulthood. Obviously, a very interesting and challenging research question. The statistical model included adjustments for several factors that are plausible confounders of the relationship between trauma and substance use, such as childhood&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Should we be concerned about incidence - prevalence bias?</title>
+      <link>/post/should-we-be-concerned-about-i/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/should-we-be-concerned-about-i/</guid>
+      <description>Recently, we were planning a study to evaluate the effect of an intervention on outcomes for very sick patients who show up in the emergency department. My collaborator had concerns about a phenomenon that she had observed in other studies that might affect the results - patients measured earlier in the study tend to be sicker than those measured later in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using simulation for power analysis</title>
+      <link>/post/using-simulation-for-power-ana/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-simulation-for-power-ana/</guid>
+      <description>Simulation can be super helpful for estimating power or sample size requirements when the study design is complex. This approach has some advantages over an analytic one (i.e. one based on a formula), particularly the flexibility it affords in setting up the specific assumptions in the planned study, such as time trends, patterns of missingness, or effects of different levels of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>simstudy update</title>
+      <link>/post/simstudy-update/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simstudy-update/</guid>
+      <description>In an earlier post , I described in a fair amount of detail an algorithm to generate correlated binary or Poisson data. I mentioned that I would be updating simstudy with functions that would make generating these kind of data relatively painless. Well, I have managed to do that, and the updated package (version 0.1.3) is available for download from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Balancing on multiple factors when the sample is too small to stratify </title>
+      <link>/post/balancing-on-multiple-factors-/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/balancing-on-multiple-factors-/</guid>
+      <description>Ideally, a study that uses randomization provides a balance of characteristics that might be associated with the outcome being studied. This way, we can be more confident that any differences in outcomes between the groups are due to the group assignments and not to differences in characteristics. Unfortunately, randomization does not guarantee balance, especially with smaller sample&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Copulas and correlated data generation</title>
+      <link>/post/copulas-and-correlated-data-ge/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/copulas-and-correlated-data-ge/</guid>
+      <description>Using the simstudy package, it’s possible to generate correlated data from a normal distribution using the function genCorData . I’ve wanted to extend the functionality so that we can generate correlated data from other sorts of distributions; I thought it would be a good idea to begin with binary and Poisson distributed data, since those come up so frequently in my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When marginal and conditional logistic model estimates diverge</title>
+      <link>/post/when-marginal-and-conditional-/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-marginal-and-conditional-/</guid>
+      <description>Say we have an intervention that is assigned at a group or cluster level but the outcome is measured at an individual level (e.g. students in different schools, eyes on different individuals). And, say this outcome is binary; that is, something happens, or it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It can be easy to explore data generating mechanisms with the simstudy package</title>
+      <link>/post/it-can-be-easy-to-explore-data/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/it-can-be-easy-to-explore-data/</guid>
+      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to teach. Sure - I’ll use the occasional formula when one exists, but I always feel the need to check it with&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Everyone knows that loops in R are to be avoided, but vectorization is not always possible</title>
+      <link>/post/everyone-knows-that-loops-in-r/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/everyone-knows-that-loops-in-r/</guid>
+      <description>It goes without saying that there are always many ways to solve a problem in R, but clearly some ways are better (for example, faster) than others. Recently, I found myself in a situation where I could not find a way to avoid using a loop, and I was immediately concerned, knowing that I would want this code to be flexible enough to run with a very large number of observations, possibly over many observations.</description>
+    </item>
+    
+  </channel>
+</rss>

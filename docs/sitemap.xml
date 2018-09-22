@@ -13,43 +13,2373 @@
   </url>
   
   <url>
-    <loc>/post/use-circleci-for-r-projec/</loc>
+    <loc>/post/data-science-in-mental-health/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/labelling-dataviz/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/scoping-rules-and-nse/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualzing-results-of-german-e/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing-debkeepr/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/double-dispatch-of-s3-method/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tick-marks-variable-names-and-/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r4ds-v1-v2/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/slow-ggplot/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/binary-beta-betabinomial/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/generate-animated-tracking-map/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/measuring-the-level-and-inequa/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-paper-submission/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sabre/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/i-graduated/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bayesian-multilevel-model-with/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/age-distributions-in-samples-f/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-temperature-rise-i/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-does-collinearity-influenc/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/moving-beyond-patternbased-ana/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my-first-gganimate-exploring-c/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-power-of-steppedwedge-desi/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/opp-interviews/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/reliability-of-survey-estimate/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-an-r-package-from-scra/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/analyzing-tweets-of-the-ecpr-g/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-post-in-new-rtastic/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/oslobnb/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/geopat-2/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tidytext-analysis-of-ted-talks/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/most-underrated-advice-for-gra/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/reanimating-the-datasaurus/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/its-alive-first-evidence-that-/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simple-mapping-with-sf/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/multivariate-ordinal-categoric/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/validating-survey-data/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/learning-to-learn/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-burger-king-pandemic/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/comparing-audio-features-from-/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/highlights-from-appning-and-is/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tools-for-getting-started-with/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an-argument-for-eating-that-pi/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/modistsp-approved-on-ropensci/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dot-plot-challenge/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rmarkdown-is-the-most-powerful/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/shiny-app-for-exploring-harmon/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-the-dataset-of-surve/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/uk-population-pyramid/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nothing-to-see-yet/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/reading-vintage-magazines-with/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/polite/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interactive-premier-league-tab/</loc>
+    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/text-mining/</loc>
+    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/global-changes-in-landscapes-b/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualization-of-spatial-cross/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/isa-world-congress-2018/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/late-start/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/layered-presentation-of-graphi/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/randomize-by-or-within-cluster/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-in-doubt-optimize-for-joy/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/elevation-gain-run-data-analys/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/where-should-you-declare-aesth/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-should-i-get-started-with-/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/generate-a-reproducible-map-fo/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/talk/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interaction-plots-with-continu/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-the-odds-ratio-confounds/</loc>
+    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/talk/</loc>
+    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tuition-increases-for-tidy-tue/</loc>
+    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/contact/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/research/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/strava-time-vs-distance-data-a/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-note-on-ggplot-code-style/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/linear-models/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/wide-data-to-long-using-the-ti/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/about-me/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bayesian-multilevel-model-with/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/life-expectancy-animated/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-r-conference/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gghighlight-010-is-released/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rereferencing-factor-levels-to/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/selection-effects/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/solution-to-a-frustrating-rjav/</loc>
+    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/multiple-sclerosis-and-exercis/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/naming-things/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/coding-codes/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-visual-taming-of-a-paradox/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/if-rankedchoice-voting-decided/</loc>
+    <lastmod>2018-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/behind-the-viz/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/federalist-papers/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/reintroduction-to-gghighlight/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-i-wish-id-known/</loc>
+    <lastmod>2018-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/covariance-a-visual-walk-throu/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/late-anniversary-edition-redux/</loc>
+    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/eat-near-the-big-ben-that-will/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/naniar-031/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/modistsp-v-134-is-out-now-allo/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-fetching-json/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tiler-020-cran-release/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/plot-geomsf-on-openstreetmap-t/</loc>
+    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/article-round-up-june-2018/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fair-is-foul-and-foul-is-fair/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/power-analyses-for-an-uncondit/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/athletes-foot-and-its-treatmen/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/one-year-anniversary/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/animating-changes-in-football-/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epubr-040-cran-release/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/anatomy-of-gghighlight/</loc>
+    <lastmod>2018-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-note-on-factors-in-regressio/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an-overfit-representation-of-i/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/running-races-and-waste/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-some-tricks-for-blogdown-hug/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epldata-package/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-troubleshooting-blogdown-hug/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-little-function-to-help-gene/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/favorite-trail-race/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/trekfont/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gaussian-process-imputationfor/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-is-going-on-in-opp-a-quic/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gettbinr-054-now-on-cran-new-d/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-38/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/is-noninferiority-on-par-with-/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/is-your-hospital-closer-to-a-d/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my-first-half-marathon-and-its/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-37/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/modeling-the-error-variance-to/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simulating-data-from-regressio/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-efficient-are-multifactori/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-36/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/where-are-the-students-who-are/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/if-youre-having-trouble-progra/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-package-releases/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-35/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/testing-multiple-interventions/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/yet-another-caret-workshop/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tabr-package-for-guitar-tablat/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/animated-directional-chord-dia/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/driving-factors-of-asian-inter/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-34/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-shiny-app-to-visualize-and-s/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-networks/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/performance-benchmarking-for-d/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-tuberculosis-monitor/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/insights-from-intensive-water-/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/longterm-temporal-variation-of/</loc>
+    <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bleeding-and-thrombosis/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/describing-landscapes-by-stati/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-33/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tidytuesday-a-weekly-social-da/</loc>
+    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/kaggle-panel-recap/</loc>
+    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-32/</loc>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing-git-github/</loc>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-new-rstudio-addin-to-facilit/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/note-to-self/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ymmv-nonprofit-data-science/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/california-school-dashboards-p/</loc>
+    <lastmod>2018-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/plotting-multiple-lines-on-the/</loc>
+    <lastmod>2018-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/september-2018-datascience-goa/</loc>
+    <lastmod>2018-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/yet-another-titanic-solve/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/optional-types-using-pmatch/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/great-circles-with-r/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lots-of-function-transformatio/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tabulating-file-information/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/geofacetting-south-african-sty/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r4ds-april-challenge/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-the-underlying-theor/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/1st-lse-css-hackathon-london-1/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pmatch-013/</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing-tabr/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/california-school-dashboards-p/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-the-underlying-theor/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/functional-programming-in-r-wi/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/prime-hints-for-running-a-data/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/transforming-functions-with-ca/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/building-a-package-that-uses-p/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tailr-v011/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-gentle-guide-to-tidy-statist/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/contra-jfk-use-r-because-it-is/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/where-should-i-live/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-30/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/making-maps-of-the-usa-with-r/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an-exploration-of-simple-featu/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/redblack-trees-in-matchbox/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/linked-lists-in-matchbox/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/making-this-website/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/problems-with-higher-order-fun/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-29/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/matchbox-and-cmd-check/</loc>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/another-reason-to-be-careful-a/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/help-me-choose-a-package-name/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/variable-bindings-with-pattern/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-relative-volumes-matter/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/another-approach-to-evaluating/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/comments/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/evaluating-dynprog-expressions/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tickmarks-for-log10-axis/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/designing-a-dsl-for-dynamic-pr/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-28/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blog-setup/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-post/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/purpose-of-this-blog/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tailr-tail-recursion-optimisat/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interpretable-machine-learning/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/training-courses-for-mlr/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rtip/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-estimates-of-the-tub/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fundamentos-de-inferencia-esta/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gif-it-gif-it-real-good/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/brief-introduction-of-storm-hy/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/econothemes/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stem-cell-policy/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/preferential-spatial-gene-expr/</loc>
+    <lastmod>2018-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/i-have-to-randomize-by-cluster/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simulating-ab-testing-and-expe/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/speeding-up-spatial-analyses-b/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-bother-with-covariates-in-/</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-canada-audit-with-r/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/football-fans/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/measuring-url-health-in-r/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/coclinical-trials/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/scraping-nih-pis-with-rvest/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/parliaments-gender-problem/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/supervised-vs-unsupervised-lea/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jesse-tweedle/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/books-i-reference/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mix-ggplot2-graphs-with-your-f/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-27/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/icymi/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/so-youve-been-asked-to-make-a-/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/using-binary-regression-softwa/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dplyr-doesnt-provide-full-supp/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/biathlon-data-analysis/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-26/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/finding-and-playing-with-peaks/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/california-school-dashboards-p/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/high-frequency-measurements-in/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introduction-to-gis-with-r/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/acknowledgements/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/boston-limited-english-profici/</loc>
+    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/triathlon-pubmed-analysis/</loc>
+    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-fish-encounter-his/</loc>
+    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-25/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bayesian-model-selection-with-/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/scraping-wikipedia-tables-from/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/transforming-denitrifying-bior/</loc>
+    <lastmod>2018-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/have-you-ever-asked-yourself-h/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/turning-dataset-codes-to-words/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-foray-into-shiny/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jalen-v-shaq-as-baby-names/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/trump-vs-clinton-interpretable/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/geocomputation-with-r-the-inte/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hellow-world/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/linear-models/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/problematic-data-source-and-va/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/elementos-de-estad%C3%ADstica-infer/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/socioeconomic-factors-of-poor-/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/predicting-conflict-duration-w/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/figure-skating-athletes-person/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-figure-skating-analysis/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stancon-highlights/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/welcome/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/changing-internal-migration-fl/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/importance-sampling-adds-an-in/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/curated-collection-of-teaching/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interpreting-results-from-clin/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/customer-churn-eda/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-23/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploring-global-trends-in-tub/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rstudio-addin-manager/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/update-for-the-mexico-project/</loc>
+    <lastmod>2018-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-effect-of-temporary-coloca/</loc>
+    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-to-expect-at-winter-olymp/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-flight-data-with-g/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/8-analytics-books-i-read-in-20/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-history-of-skiing/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hello-world/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my-favorite-sports-youtube-cha/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/quantitative-story-telling-wit/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stepwise-bayesian-optimization/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/crimes-in-somerville-time-seri/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/publications/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/public-school-data-is-great-bu/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simulating-a-costeffectiveness/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/batch-modification-of-pdf-page/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/notes-on-thrombotic-microangio/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/confounding-and-collinearity/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/income-along-the-boston-t-blue/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jugular-venous-waveforms-and-c/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mapping-terror-attacks-with-hi/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mapping-your-2017-geolocations/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/predictive-nomogram/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/welcome-to-the-practical-pisce/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/income-along-the-boston-t-gree/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/using-glmer-to-perform-rasch-a/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-dog-diet-base-rate-fallacy/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-20/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/end-of-year-thoughts/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-data-viz-that-asks-questions/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualising-us-voting-records-/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/saverds-vs-writecsv-a-newbie-i/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-19/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-do-arab-muslims-think-abo/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/friends-title-generator-part-2/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/random-sampling/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/friends-title-generator-part-1/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing-rhymer/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/thank-you-blogdown-ppl/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/postselection-inference-on-fri/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r4ds-the-next-iteration/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/income-along-the-boston-t-red-/</loc>
+    <lastmod>2017-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mining-game-of-thrones-scripts/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-18/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/french-urban-population-growth/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/virtualbox-images-resizing/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rvest-imdb-explore-friends-epi/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/functional-programming-rstats/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/star-wars-vs-star-trek-word-ba/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/team-rtus-wins-munich-re-datat/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-17/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/income-along-the-boston-t-oran/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-16/</loc>
+    <lastmod>2017-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-theres-a-fork-in-the-road/</loc>
+    <lastmod>2017-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nitrate-concentrationdrainage-/</loc>
+    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-15/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-you-use-inverse-probabili/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-tidytext-analysis-of-the-wei/</loc>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/comparing-home-and-away-wins-o/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-14/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/characterizing-the-variance-fo/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/estimates-of-global-bilateral-/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/liverpool-fcs-managers/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-access-mandates/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-12/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/social-division-of-the-residen/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-chisquare-test-of-close-fit-/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-how-confounding-bi/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/make-memorable-plots-with-meme/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-simstudy-update-provides-an-/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an-example-usage-of-ggplotadd/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/automated-and-unmysterious-mac/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tidyverse-case-study/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-11/</loc>
+    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gis-with-r-how-to-start/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/thinking-about-different-ways-/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bringing-together-people-and-p/</loc>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-10/</loc>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tuberculosis-incidence-and-int/</loc>
+    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/misspecification-and-fit-indic/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-9/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/so-youve-decided-to-change-you/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/archer-memes/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/publish-r-markdown-to-medium-v/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/extending-slackr/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-not-to-knit-all-rmd-files-/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introduction-to-network-analys/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dplyr/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/apputils-050-released/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/climate-explorer-update/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/who-knew-likelihood-functions-/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/automatic-timeseries-forecasti/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/liftr-rmarkdown-using-docker/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/confession/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/use-circleci-for-r-projects/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/introduction-to-gghighlig/</loc>
+    <loc>/post/epl-week-8/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bayesian-estimation-of-signal-/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/can-we-use-bsplines-to-generat/</loc>
+    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/academic/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/building-my-website-with-blogd/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/geocoding-with-r/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/shiny-app/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dealing-with-correlated-highdi/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/searching-stack-overflow/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/guardian-film-reviews/</loc>
+    <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introduction-to-gghighlight/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/combining-github-traffic-/</loc>
+    <loc>/post/a-minor-update-to-simstudy-pro/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-7/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/combining-github-traffic-plots/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/regular-expression-search/</loc>
+    <loc>/post/excel-vs-r/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/world-bank-data-with-data360r/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cace-closed/</loc>
+    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-6/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/performance-benchmarking-for-d/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/regular-expression-searching-w/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/what-is-the-appropriate-p/</loc>
+    <loc>/post/what-is-the-appropriate-popula/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/automating-roxygen2-packa/</loc>
+    <loc>/post/a-pesky-piping-bug-with-rstudi/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/littles-mcar-test-at-different/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/theilsen-regression-in-r/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-simstudy-update-provides-an-/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/gg-what/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-5/</loc>
+    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hvordan-klarer-de-politiske-pa/</loc>
+    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/linear-regression-with-violati/</loc>
+    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/automating-roxygen2-package-do/</loc>
     <lastmod>2017-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/about/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <loc>/post/geoserver-centos-and-tomcat-ar/</loc>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/sinew/</loc>
-    <lastmod>2017-05-03T00:00:00+00:00</lastmod>
+    <loc>/post/purrify-your-carets/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/canadian-census/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/complier-average-causal-effect/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hugo-shortcodes/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pepper-et-carrot/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-4/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ubuntucon-europe-2017/</loc>
+    <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/further-considerations-of-a-hi/</loc>
+    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/openml-workshop-2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-3/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-hidden-process-behind-binary/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/holidays/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pandoc-and-xelatex-in-docker/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/osgeolive-project/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-2/</loc>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/resume/</loc>
+    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/be-careful-not-to-control-for-/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-post-/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my-approach-to-digital-humanit/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/modistsp-133-is-out-speeding-t/</loc>
+    <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-kinds-of-projects/</loc>
+    <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-week-1/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/friendships-among-top-rtwitter/</loc>
+    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/on-the-interpretation-of-regre/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/epl-201718/</loc>
+    <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/geocomputation-with-r-the-begi/</loc>
+    <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sharing-r-products/</loc>
+    <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/should-we-be-concerned-about-i/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/statcan-apis-discovered/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bournemouth-to-bash-on/</loc>
+    <lastmod>2017-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/combining-r-and-python-for-dat/</loc>
+    <lastmod>2017-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-would-you-bet-lessons-from/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sips-2017-conference-tweets/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pimping-the-statcan-blog/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-guide-to-awesome-slides/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an%C3%A1lisis-de-varianza-anova/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-babe-ruth-met-kandinsky/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-new-modistsp-website-based/</loc>
+    <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/automated-congratulatory-tweet/</loc>
+    <lastmod>2017-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-is-the-best-time-to-play-/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/parameter-tuning-with-mlrhyper/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/user2017-padr-package-example/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/correlated-psychological-varia/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/weather-plots-for-any-us-locat/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualizing-varying-effects-po/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mapping-eurostat-information-p/</loc>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-science-tools-for-our-res/</loc>
+    <lastmod>2017-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/using-simulation-for-power-ana/</loc>
+    <lastmod>2017-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/useful-links-for-mapping-in-r/</loc>
+    <lastmod>2017-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/chinese-internal-migration-flo/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simstudy-update/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mapping-ada-voting-scores-1947/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-look-at-tidycensus/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/investment-strategy-diversific/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/balancing-on-multiple-factors-/</loc>
+    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/thinking-about-workflow/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/baby-names-in-the-uk-and-usa/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-beginner-workshop/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/copulas-and-correlated-data-ge/</loc>
+    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hello-world/</loc>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/in-the-media/</loc>
+    <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/when-marginal-and-conditional-/</loc>
+    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/by-way-of-introduction/</loc>
+    <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/monthly-report-may-2017/</loc>
+    <lastmod>2017-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ages-by-england-wales-constitu/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/animated-plots-as-part-of-expl/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/luck-in-rebalance-timing/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/theme-update/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/integrating-dplyr-with-remote-/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/it-can-be-easy-to-explore-data/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/shinymlr/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/everyone-knows-that-loops-in-r/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rcpproll-package-for-swift-mov/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/you-should-make-an-r-package-f/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/intro-to-r-workshop/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/text-analysis-of-amazon-shareh/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/assorted-shiny-apps-collection/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/simple-trick-to-speed-up-ode-i/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/modistsp-v-132-is-on-cran-/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/building-a-predictive-typing-m/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,8 +2388,78 @@
   </url>
   
   <url>
+    <loc>/post/whats-news/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/about-me/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/analysing-the-words-i-write-in/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/ggedit-020/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/most-popular-learners-in-mlr/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/uk-2015-election-mapped/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/multilabel-classification-with/</loc>
+    <lastmod>2017-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-mlr-logo/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/parallel-benchmarking-with-ope/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/use-mlrmbo-to-optimize-via-com/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/twitter-followers-collage/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-release-of-mlrmbo-the-to/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/being-successful-on-kaggle-usi/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/openml-tutorial-at-user2017-br/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/spotify-all-20-million-tracks/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,18 +2468,328 @@
   </url>
   
   <url>
-    <loc>/post/empirical-methods-worksho/</loc>
+    <loc>/post/call-me-anytime/</loc>
+    <lastmod>2017-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/best-batsmen-in-cricket-at-pre/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mlr-210/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mlr-google-summer-of-code-2017/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mlr-workshop-2017/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/top-batsmen-in-cricket/</loc>
+    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/wikipedia-page-views/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-brief-history-of-cricket/</loc>
+    <lastmod>2017-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/finite-mixture-modeling-using-/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/notebook-collaboration/</loc>
+    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/custom-images-for-shiny-dashbo/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/magic-reprex/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/exploratory-analysis/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/empirical-methods-workshop/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducci%C3%B3n-a-la-neuroimagen-/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ddriveno/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ellockegithubio/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/emiltbjerglunddk/</loc>
+    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/emitanakagithubio/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evangelinereynoldsnetlifycom/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/favstatsnetlifycom/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fishsciencesgithubio/</loc>
+    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gokhancifliklicom/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gtierneygithubio/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/guyabelcom/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jamesuanhorocom/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jennadallencom/</loc>
+    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jessemaegancom/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jessesadlercom/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jessetw/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lbusettnetlifycom/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/leonawiczgithubioblog/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/linear-model/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mailundgithubiorprogrammerblog/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/martakolczynskacom/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mgbresearchnetlifycom/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mikewkcom/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mlrblognetlifycom/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mouseimagingcentregithubioblog/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mytinyshinyscom/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/niklasjohannescom/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nitingupta2githubio/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/njtierneycom/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/noahlandesbergcom/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nowosadgithubio/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/openplantpathologyorg/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/peerchristensennetlifycom/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rdatagennet/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rmageddonnetlifycom/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/roelandtnframaio/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rsangolenetlifycom/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,26 +2806,134 @@
   </url>
   
   <url>
+    <loc>/categories/rstats/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rtasticcouk/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ryanestrelladonetlifycom/</loc>
+    <lastmod>2018-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/saidejprbindio/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/samabbottcouk/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sarahromanesgithubio/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sciathlongithubio/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/semidocumentedlifecom/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sjfoxgithubio/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sumprainnetlifycom/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/wytham.rbind.io/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>/tags/thedatawitchcom/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/yonicd.netlify.com/</loc>
-    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+    <loc>/tags/thomasmocknetlifycom/</loc>
+    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/yutani.rbind.io/</loc>
-    <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+    <loc>/tags/tojyousogithubio/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/translatedmedicinecom/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vuorrenetlifycom/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/watanabesmithrbindio/</loc>
+    <lastmod>2018-06-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/webbedfeetnetlifycom/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wenlongliugithubio/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wythamrbindio/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/yonicdnetlifycom/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/yutanirbindio/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

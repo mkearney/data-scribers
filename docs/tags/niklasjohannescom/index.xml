@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niklasjohannescom on rscribers</title>
+    <link>/tags/niklasjohannescom/</link>
+    <description>Recent content in Niklasjohannescom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/niklasjohannescom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools for getting started with your PhD</title>
+      <link>/post/tools-for-getting-started-with/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tools-for-getting-started-with/</guid>
+      <description>What this post is about Reference Manager Note-taking Keep track of the literature Follow blogs Join Twitter Give podcasts a try Familiarize yourself with preregistration and open science Learn R Freshen up your stats Closing remarks What this post is about The new academic semester is almost upon us, and that means lots of new grad&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Nothing to see yet</title>
+      <link>/post/nothing-to-see-yet/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nothing-to-see-yet/</guid>
+      <description>Thanks for popping by my website. I just created it, so expect to see the first post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/post/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/example-talk/</guid>
+      <description>Embed your slides or video here using shortcodes . Further details can easily be added using Markdown and $\rm \LaTeX$ math&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

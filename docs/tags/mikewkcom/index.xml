@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikewkcom on rscribers</title>
+    <link>/tags/mikewkcom/</link>
+    <description>Recent content in Mikewkcom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mikewkcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Labelling dataviz</title>
+      <link>/post/labelling-dataviz/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/labelling-dataviz/</guid>
+      <description>I still remember how hard it was to learn {ggplot2} after only knowing a little about R 1 . Sure, the plots seemed pretty. But compared to the ways I had used R before, {ggplot2} &amp;rsquo;s syntax seemed almost counter-intuitive. Its pipe-like + workflow–building layer-by-layer– was like nothing I had ever used&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tick marks, variable names, and ggplot2</title>
+      <link>/post/tick-marks-variable-names-and-/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tick-marks-variable-names-and-/</guid>
+      <description>A popular workflow in R uses {dplyr} to group_by() and then summarise() 1 variables. It&amp;rsquo;s an intuitive and easy way to aggregate and describe data, especially along multiple dimensions. The cost of being both powerful and user-friendly, however, is its arguably inconvenient default method for assigning names to summarized values. As the code illustrates below, users can provide their own names when using&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vuorrenetlifycom on rscribers</title>
+    <link>/tags/vuorrenetlifycom/</link>
+    <description>Recent content in Vuorrenetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vuorrenetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Access Mandates</title>
+      <link>/post/open-access-mandates/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-access-mandates/</guid>
+      <description>1 Deposit manuscripts upon acceptance 2 Require refereed and accepted manuscript deposit 3 Require uploading manuscripts to institutional repositories 4 Deposits as prerequisite for performance evaluation 5 Repository must implement copy-request button 6 Immediate-deposit need not be immediate-Open Access Notes I recently came across Stevan Harnad’s 6 “essential features of an effective Green OA&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 3</title>
+      <link>/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bayesian-estimation-of-signal-/</guid>
+      <description>Introduction Example data: Rating task EVSDT: one subject’s rating responses UVSDT: one subject’s rating responses References This post is the third part in a series of blog posts on Signal Detection models: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sharing R products</title>
+      <link>/post/sharing-r-products/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sharing-r-products/</guid>
+      <description>How to share R data and code Absolute file paths Relative file paths Share products, not files References How to share R data and code Sharing R data (.rda) and R code (.R) files is becoming more common in the social&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SIPS 2017 Conference Tweets</title>
+      <link>/post/sips-2017-conference-tweets/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sips-2017-conference-tweets/</guid>
+      <description>Obtaining Data Timeline of Tweets Top tweets Top Hashtags Who mentioned who in their tweets? References The second annual meeting of the Society for the Improvement of Psychological Science ( SIPS ) is over, sadly. The event was actively tweeted with #SIPS2017 , so we can use R to explore the tweets related to the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Correlated Psychological Variables, Uncertainty, and Bayesian Estimation</title>
+      <link>/post/correlated-psychological-varia/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/correlated-psychological-varia/</guid>
+      <description>Psychological Variables Example data Possible models Independent Generalized Linear Models Hierarchical GLM Estimating GLMM with Maximum Likelihood Methods Bayesian estimation of GLMM Comparing models Conclusion Update References Assessing the correlations between psychological variabless, such as abilities and improvements, is one essential goal of psychological&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing varying effects&#39; posteriors with joyplots</title>
+      <link>/post/visualizing-varying-effects-po/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-varying-effects-po/</guid>
+      <description>Joy Plots ggjoy References Joy Plots In a previous blog post , I introduced a helper function for drawing “better” forest plots from Bayesian meta-analyses estimated with the brms R package (Buerkner&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

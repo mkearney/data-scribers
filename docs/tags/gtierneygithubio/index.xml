@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gtierneygithubio on rscribers</title>
+    <link>/tags/gtierneygithubio/</link>
+    <description>Recent content in Gtierneygithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gtierneygithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science in Mental Health</title>
+      <link>/post/data-science-in-mental-health/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-in-mental-health/</guid>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Article Round Up June 2018</title>
+      <link>/post/article-round-up-june-2018/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/article-round-up-june-2018/</guid>
+      <description>This is my second article round up. The first is over at my old blog here . In this post, I’ll briefly cover two Atlantic articles related to economic inequality and the differing economic expectations of democrats and&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

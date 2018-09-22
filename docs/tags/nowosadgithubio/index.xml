@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nowosadgithubio on rscribers</title>
+    <link>/tags/nowosadgithubio/</link>
+    <description>Recent content in Nowosadgithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nowosadgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sabre</title>
+      <link>/post/sabre/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sabre/</guid>
+      <description>Creating or determination of regions is a useful way to describe the world. Regionalization does not only allow for a quicker understanding of spatial patterns but also can influence how regions are managed. Regions are created in various disciplines. We can delineate regions based on a single property (e.g. landform regions or climate regions) or several factors (e.g. ecoregions). There are also political regions divided by borders that are established through political or social&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Moving beyond pattern-based analysis</title>
+      <link>/post/moving-beyond-patternbased-ana/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/moving-beyond-patternbased-ana/</guid>
+      <description>This is the sixth and the last blog post in the series introducing GeoPAT 2 - a software for pattern-based spatial and temporal analysis . In the previous one we presented the pattern-based spatial segmentation - a method for creating regions of homogenous&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GeoPAT 2</title>
+      <link>/post/geopat-2/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geopat-2/</guid>
+      <description>Slides: https://nowosad.github.io/geostat18/geostat18_nowosad . They contain installation instructions and links to the required datasets. GeoPAT 2 (Geospatial Pattern Analysis Toolbox) is a standalone suite of modules written in C dedicated to the analysis of large Earth Science datasets in their entirety using spatial and/or temporal patterns. GeoPAT’s core idea is to tessellate global spatial data into a grid of square blocks of original cells&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Global changes in landscapes between 1992 and 2015</title>
+      <link>/post/global-changes-in-landscapes-b/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/global-changes-in-landscapes-b/</guid>
+      <description>Poster: https://zenodo.org/record/1323780 Land-cover change is a pervasive phenomenon caused by climate change, and, in recent decades, by the rapid population growth and accelerated industrialization. Therefore, the assessment of land cover changes is of prime importance for planing and management of natural resources. It provides necessary information for making decisions on trade-off between development and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Life (expectancy), animated</title>
+      <link>/post/life-expectancy-animated/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/life-expectancy-animated/</guid>
+      <description>Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Describing Landscapes by Statistics of Local Pattern Features</title>
+      <link>/post/describing-landscapes-by-stati/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/describing-landscapes-by-stati/</guid>
+      <description>Slides: https://zenodo.org/record/1209418 Landscape metrics quantify various aspects of a pattern and are well-suited for comparing landscapes from a focused perspective, for example, a landscape&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making maps of the USA with R</title>
+      <link>/post/making-maps-of-the-usa-with-r/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/making-maps-of-the-usa-with-r/</guid>
+      <description>Introduction Maps of United States often focus only on the contiguous 48 states. In many maps Alaska and Hawaii are simply not shown or are displayed at different geographic scales than the main map. This article shows how to create inset maps of the USA, building on a chapter in the in-development book Geocomputation with R that shows all its states and ensures relative sizes are preserved. It requires up-to-date versions of the following packages to be loaded:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Geocomputation with R - the intermission</title>
+      <link>/post/geocomputation-with-r-the-inte/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geocomputation-with-r-the-inte/</guid>
+      <description>Hello everybody! A lot of things have changed since the last blogpost about Geocomputation with R . In this post I’ll give an update of our progress and our plans for the next chapters. Third author Probably the most important change is having a third author - Jannes Muenchow . He is a GIScientist based at the University of Jena with a keen interest in spatial and geostatistical modeling, algorithm automation and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GIS with R: how to start?</title>
+      <link>/post/gis-with-r-how-to-start/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gis-with-r-how-to-start/</guid>
+      <description>Slides, code and data The slides could be seen here The slides, code, and data are available&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Geocomputation with R - the beginnings</title>
+      <link>/post/geocomputation-with-r-the-begi/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geocomputation-with-r-the-begi/</guid>
+      <description>Just over one year ago, I met Robin in Poznan, Poland, who was teaching as part of the GEOCENTRUM project at the Adam Mickiewicz University. To our surprise, we found that we shared an idea of writing a book explaining how to use R for spatial data analysis. The timing worked well. Over the next few months, Robin finished Phase II of his project ( the Propensity to Cycle Tool (PCT) ) and I completed my PhD and moved to Cincinnati to work in Space Informatics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Intro to R workshop</title>
+      <link>/post/intro-to-r-workshop/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro-to-r-workshop/</guid>
+      <description>Last week, I had a pleasure to conduct a workshop for graduate students and faculty in the Department of Geography and GIS at the University of Cincinnati. In two afternoons, a group of mostly beginners, learned a little bit about R, RStudio, data processing, and visualisation, as well as about spatial data analysis in R. The workshop had four parts: Intro to R . It introduces basics of R, such as assignment operator, functions, objects, classes, and data&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

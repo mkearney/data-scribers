@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sciathlongithubio on rscribers</title>
+    <link>/tags/sciathlongithubio/</link>
+    <description>Recent content in Sciathlongithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sciathlongithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elevation gain run data analysis</title>
+      <link>/post/elevation-gain-run-data-analys/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/elevation-gain-run-data-analys/</guid>
+      <description>Hey everyone! This article is part 2 (see part 1) of last week&amp;rsquo;s piece about analysing my running data from strava, and this time it is about my elevation gain data. Again, I am using the rStrava package. If you&amp;rsquo;re wondering why I have additional data from last week&amp;rsquo;s article, it&amp;rsquo;s because I had a bunch of runs on &amp;ldquo;private&amp;rdquo;, so I just unprivated most of them so I have more complete&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Strava time vs distance data analysis</title>
+      <link>/post/strava-time-vs-distance-data-a/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/strava-time-vs-distance-data-a/</guid>
+      <description>Hello everybody, I have a new run data analysis today: from my own strava data! I have been much slower recently on the posts, I will probably be until the end of july, because of work for my PhD, so I&amp;rsquo;m sorry about that. I am using the rStrava package and the tutorial in its readme file to get my strava data and see how much my running has changed since a year ago when I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multiple Sclerosis and exercise</title>
+      <link>/post/multiple-sclerosis-and-exercis/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/multiple-sclerosis-and-exercis/</guid>
+      <description>Hi athletes. I recently went to a Multiple Sclerosis (MS) conference in Paris organized by the ARSEP foundation, mostly to see what people are doing on the immunology side of the disease, and I started looking into the foundation a bit more and that&amp;rsquo;s how I started doing this article. Multiple sclerosis is an inflammatory disease of the Central Nervous System (CNS). It is an auto-immune disease which means that our own immune system attacks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Athlete&#39;s foot and its treatment</title>
+      <link>/post/athletes-foot-and-its-treatmen/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/athletes-foot-and-its-treatmen/</guid>
+      <description>Hi athletes, today we will be looking at data about a health issue that affects many athletes: athlete&amp;rsquo;s foot. It&amp;rsquo;s not a very glamorous subject but it&amp;rsquo;s still interesting, and I find fungi really fascinating, they are warrior eukaryotes that survive everywhere! Most of you probably would rather never hear about it&amp;hellip; but you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Running races and waste</title>
+      <link>/post/running-races-and-waste/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/running-races-and-waste/</guid>
+      <description>Hi everyone! I am tackling a new topic today, which is: waste generated during races. I&amp;rsquo;ll tell you why this is coming up now. I started the racing season with a road 10km called Asparun which was a relatively small race, 354 runners on the 10k plus probably as many on the 5k, which is more people than I usually see at my small local races, and I saw so many people just throwing their water goblets not IN the trash but sometimes 500 meters away, and it shocked&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Favorite trail race</title>
+      <link>/post/favorite-trail-race/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/favorite-trail-race/</guid>
+      <description>Hi everyone! I am continuing my journey to learn awk and I finally managed to process (almost) an entire file today so let&amp;rsquo;s analyse the 2018 Tencin trail race. It was my first trail race of the season, and it kicks off the &amp;ldquo;challenge intercommunal du grésivaudan&amp;rdquo;, which is a set of 11 races in this region called the Grésivaudan which is a valley in between the two mountains of Belledonne and Chartreuse in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My first half marathon and its data analysis</title>
+      <link>/post/my-first-half-marathon-and-its/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-first-half-marathon-and-its/</guid>
+      <description>Hi everyone! I ran my first half marathon this spring and wanted to talk about my experience. I also analyzed the results of the race which I found on the Grenoble-Vizille website, so scroll down if you want to only look at the data science part of this article. I&amp;rsquo;ve only been running regularly for a year, and I&amp;rsquo;d been dreaming about this day since I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Biathlon data analysis</title>
+      <link>/post/biathlon-data-analysis/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/biathlon-data-analysis/</guid>
+      <description>The 2018 Winter Olympics finally kicked off! In honor of this, I asked a friend of mine who loves sports what data he would be interested in seeing in the sports that are in the winter Olympics and he answered &amp;ldquo;biathlon.&amp;rdquo; I found a website that collects lots of data on the sport called biathlonresults.com. I was really looking forward to the olympics this year, and France has a very famous biathlete, Martin Fourcade, so that makes me keen to look more into this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Triathlon pubmed analysis</title>
+      <link>/post/triathlon-pubmed-analysis/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/triathlon-pubmed-analysis/</guid>
+      <description>Today I am using the RISmed package for R to analyze publications about triathlon. It is an amazing package to look through the Pubmed database for what they have on a certain subject. Pubmed is a NIH (USA) funded database which hosts articles about medicine and biology. Today, I am looking at studies that have been done on injuries, disease and human physiology that have to do with triathlon. I am not a triathlete yet, I am just focusing on running this year but it is on my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Figure skating athletes&#39; personal best</title>
+      <link>/post/figure-skating-athletes-person/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/figure-skating-athletes-person/</guid>
+      <description>Today I am writing another piece about figure skating, also another piece about data analysis in this event. But I am not focusing solely on the Olympics this time but on the best scoring athletes and the best scoring event of each&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R figure skating analysis</title>
+      <link>/post/r-figure-skating-analysis/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-figure-skating-analysis/</guid>
+      <description>Analysing medals won per athlete/per country with R Today I am introducing a sneaky little data analysis using R on figure skating in the olympics. I have already written a piece on Figure skating and what I think is going to happen in the upcoming olympics. But I also want to look back at athletes who have competed and won a medal in the past Olympics. If you&amp;rsquo;ve never heard of data science, this is how you can make very easy analysis of your favorite things in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What to Expect at Winter Olympics 2018 for figure skating</title>
+      <link>/post/what-to-expect-at-winter-olymp/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-to-expect-at-winter-olymp/</guid>
+      <description>The winter olympics are coming! It is an exciting time to celebrate our favorite sports and feel inspired to do better ourselves. It is going to be interesting this year with the doping ban for Russia as well as many unfortunate injuries and retirements. Figure skating is my favorite event because it is an incredibly beautiful and hard sport that I practised for a few years when I was&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A History of Skiing</title>
+      <link>/post/a-history-of-skiing/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-history-of-skiing/</guid>
+      <description>I started skiing at the age of 3 at the station in the Alps called the &amp;ldquo;Sept Laux&amp;rdquo; next to Grenoble, France. It was natural to me, but until now I never wondered for how long people have done it. Here is a brief history of how it all began. The word ski comes from old Norse, a germanic language that was spoken in Scandinavia from the 8th to the late 14th&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>Hello athletes, welcome on my new platform Sciathlon. The goal for this website is to share findings in sports science and technology. I am a biologist so I am interested in everything related with an athlete&amp;rsquo;s health such as nutrition, genetics, injuries and conditions related to the kind of activity we do. Some sports involve animals, so I will also be covering their health in this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My favorite Sports Youtube Channels</title>
+      <link>/post/my-favorite-sports-youtube-cha/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-favorite-sports-youtube-cha/</guid>
+      <description>Hi everyone! Today I am listing my favorite sports-related youtube channels, in no particular order, make sure to check them out, they deserve it! TheGingerRunner If you are interested in running and want to learn more about trails, races, athletes, training, gear, nutrition, there are amazing ressources out there that will teach and inspire you. I have compiled a little list of my favorite youtube channels that I have been following for&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

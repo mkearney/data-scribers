@@ -5,8 +5,6 @@ description = "Links to posts about #rstats"
 theme = "tale-hugo"
 canonifyurls = true
 publishDir = "docs"
+assetDir = "static/assets"
+paginate = 50
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-[author]
-  name = "Michael W. Kearney"
-  homepage = "https://mikewk.com"

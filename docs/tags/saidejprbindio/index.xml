@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saidejprbindio on rscribers</title>
+    <link>/tags/saidejprbindio/</link>
+    <description>Recent content in Saidejprbindio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/saidejprbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundamentos de Inferencia Estadística</title>
+      <link>/post/fundamentos-de-inferencia-esta/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fundamentos-de-inferencia-esta/</guid>
+      <description>Introducción A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Elementos de Estadística Inferencial en R</title>
+      <link>/post/elementos-de-estad%C3%ADstica-infer/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/elementos-de-estad%C3%ADstica-infer/</guid>
+      <description>Descripción: Curso de nivel básico para el análisis estadístico en Psicología mediante el lenguaje de programación&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic Factors of Poor Physical and Mental Health</title>
+      <link>/post/socioeconomic-factors-of-poor-/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/socioeconomic-factors-of-poor-/</guid>
+      <description>Setup Load&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Análisis de Varianza (ANOVA)</title>
+      <link>/post/an%C3%A1lisis-de-varianza-anova/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an%C3%A1lisis-de-varianza-anova/</guid>
+      <description>Curso intersemestral impartido en el verano de 2017 por&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducción a la neuroimagen computacional - Modelos de Conectividad Efectiva</title>
+      <link>/post/introducci%C3%B3n-a-la-neuroimagen-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introducci%C3%B3n-a-la-neuroimagen-/</guid>
+      <description>Charlando sobre la conectividad cerebral estudiada con fMRI en el @INPRFM . Básicamente, mi conclusión y la de @fMRIstats es que la conectividad es un concepto estadístico y como tal, la potencia, los supuestos y las estimaciones de interés son más importantes que la etiqueta. pic.twitter.com/U8cPxThzd3 - Said Jiménez (@said_meid) 13 de diciembre de&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

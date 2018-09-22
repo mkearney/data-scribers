@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sjfoxgithubio on rscribers</title>
+    <link>/tags/sjfoxgithubio/</link>
+    <description>Recent content in Sjfoxgithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sjfoxgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing flight data with ggplot2</title>
+      <link>/post/visualizing-flight-data-with-g/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-flight-data-with-g/</guid>
+      <description>Between travel and finishing up a couple of projects the past two semesters, I wasn’t able to blog as much as I’d like. Rather than jumping straing into research after the holidays, it seemed like a nice time to blog about my favorite figure from the past semester. It was the striking image associated with this paper , though I can’t seem to find a link for it online, so here it is: To start go here , to download an amazing open flight and airport&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A pesky piping bug with RStudio and the tidyverse</title>
+      <link>/post/a-pesky-piping-bug-with-rstudi/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-pesky-piping-bug-with-rstudi/</guid>
+      <description>Today I encountered an error in the tidyverse that took me a while to figure out, so I wanted to document it for others. I’m also not sure where this error originates, so I wasn’t positive which package to post it in (or with RStudio) - I’d be happy to submit a bug report if anyone can point me in the right direction :) The Scenario You have a data frame you want to alter using piping, something like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In the media</title>
+      <link>/post/in-the-media/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/in-the-media/</guid>
+      <description>Pandemic Flu Risk New york times - The Next Flu Pandemic Will Appear When You Least Expect It Austin local&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>You should make an R package for your paper</title>
+      <link>/post/you-should-make-an-r-package-f/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/you-should-make-an-r-package-f/</guid>
+      <description>Introduction I had wanted to get into R package creation for a while now, but finally got a chance to do so for my lab’s recent Zika paper, Assessing Real-time Zika Risk in the United States . If you’re interested in learning about the content from that paper you can check out the blogpost hosted on the BMC Infectious Diseases blog . I’ve also given an introduction to the package on the rtZIKVrisk&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple trick to speed up ODE integration in R</title>
+      <link>/post/simple-trick-to-speed-up-ode-i/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simple-trick-to-speed-up-ode-i/</guid>
+      <description>Introduction I recently was doing model fitting on a ton of simulations, and needed to figure out a way to speed things up. My first instinct was to get out of the R environment and write CSnippets for the pomp package (more on this in a later blog), or to use RCpp , but I used the profvis package to help diagnose the speed issues, and found a really simple change that can save a ton of time depending on your model.</description>
+    </item>
+    
+  </channel>
+</rss>

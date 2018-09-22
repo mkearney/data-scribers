@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Njtierneycom on rscribers</title>
+    <link>/tags/njtierneycom/</link>
+    <description>Recent content in Njtierneycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/njtierneycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Paper Submission</title>
+      <link>/post/new-paper-submission/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-paper-submission/</guid>
+      <description>I&amp;rsquo;m really happy to say that Di Cook and I recently submitted our paper: &amp;ldquo;Expanding tidy data principles to facilitate missing data exploration, visualization and assessment of imputations&amp;rdquo; to JCGS . You can read the paper on arxiv here . This paper builds on the principles of tidy data to create a framework for handling, exploring, and imputing missing values. It represents the fundamental ideas that underpin the packages naniar and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I graduated!</title>
+      <link>/post/i-graduated/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/i-graduated/</guid>
+      <description>Some exciting news: I finally walked across the floor and graduated from my PhD in Statistical Sciences from QUT! The graduations was live streamed onto the TVs in our department at QUT - here&amp;rsquo;s a photo of me at the exact moment my brother yelled out &amp;ldquo;YEEAAAAHHHH NIIIICCCKK YYEEEAAAAHH&amp;rdquo; in the acoustically well designed Concert Hall at&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A note on ggplot code style</title>
+      <link>/post/a-note-on-ggplot-code-style/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-note-on-ggplot-code-style/</guid>
+      <description>I&amp;rsquo;ve got some opinions about how to write ggplot code. They are based off of the official style guide , with a few of my own additions specific to ggplot2. Starting with argument names / newlines So, if there are more than two sections in a function, these should be separated on a newline. Ideally, all functions should have their argument names&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Naming Things</title>
+      <link>/post/naming-things/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/naming-things/</guid>
+      <description>There are only two hard things in Computer Science: cache invalidation and naming thing - Phil Karlton ( seen in r-packages ) I&amp;rsquo;m not really sure what cache invalidation is, but I certainly agree that naming things is pretty damn hard. I thought it would be interesting to share some thoughts and discussion that I&amp;rsquo;ve been having about naming packages. There was some recent discussion on tidy names on Twitter, and I felt like this was a good time to discuss this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What I wish I&#39;d known</title>
+      <link>/post/what-i-wish-id-known/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-i-wish-id-known/</guid>
+      <description>This is a reposting from the SSA Newletter for April 2018 Something I never tire of hearing is the story of how someone arrived at where they are&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>naniar 0.3.1</title>
+      <link>/post/naniar-031/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/naniar-031/</guid>
+      <description>naniar version 0.3.1 &amp;ldquo;Strawberry&amp;rsquo;s Adventure&amp;rdquo; is now on CRAN , hooray! Strawberry the cab horse turning into Fledge, the Pegasus, the first talking animal of Narnia naniar is an R package that makes it easier to explore, analyse, and visualise missing data and imputed values. It is designed to be tidyverse -friendly, so it works fluidly in an analysis workflow. I encountered some pretty gnarly missing data when I first started my PhD, which was really&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>r-tip</title>
+      <link>/post/rtip/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rtip/</guid>
+      <description>I write in rmarkdown (check out that link, it&amp;rsquo;s to the new Rmarkdown book!) most days, and I&amp;rsquo;ve been using it for the past few years. I&amp;rsquo;ve picked up a few tips along the way, and I wanted to share a couple of things I think give you a nice return on investment. Tip number 1: Save the images that you create You want to make sure that you save images you create in your rmarkdown&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Acknowledgements</title>
+      <link>/post/acknowledgements/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/acknowledgements/</guid>
+      <description>Last week (specifically, the 1st Feb) I got &amp;ldquo;the letter&amp;rdquo; from QUT that basically says &amp;ldquo;You, Nicholas Tierney, are a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidyverse Case Study</title>
+      <link>/post/tidyverse-case-study/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidyverse-case-study/</guid>
+      <description>Data packages are something that have been on my mind a bit lately , having recently worked on the ozroaddeaths data access package at the rOpenSci&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bringing Together People and Projects at ozunconf17</title>
+      <link>/post/bringing-together-people-and-p/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bringing-together-people-and-p/</guid>
+      <description>Note: This is cross-posted from rOpenSci&amp;rsquo;s blog post Just last week we organised the 2nd rOpenSci ozunconference , the sibling rOpenSci unconference, held in Australia. Last year it was held in Brisbane , this time around, the ozunconf was hosted in Melbourne, from October 27-27,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>So, you’ve decided to change your r package name</title>
+      <link>/post/so-youve-decided-to-change-you/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/so-youve-decided-to-change-you/</guid>
+      <description>I&amp;rsquo;ve had to change my R package names a few times. ggmissing became naniar. naniar became narnia. narnia went back to naniar. Every time I&amp;rsquo;ve had to do this, there were a few things I had to remember to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A guide to awesome slides</title>
+      <link>/post/a-guide-to-awesome-slides/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-guide-to-awesome-slides/</guid>
+      <description>Recently on Twitter I saw Jenny Bryan post this guide to slide design by Melinda Seckington If this spares me but one beamer presentation, it is worth it 😬 The Art of Slide Design @mseckington ht @sjackman https://t.co/EWOsJyzbKZ - Jenny Bryan (@JennyBryan) July 29,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Magic reprex</title>
+      <link>/post/magic-reprex/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/magic-reprex/</guid>
+      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

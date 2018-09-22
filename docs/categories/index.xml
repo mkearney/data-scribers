@@ -1,22 +1,1768 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on rscribers</title>
+    <title>rscribers</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on rscribers</description>
+    <description>Recent content on rscribers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Rscribers</title>
-      <link>/categories/rscribers/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Measuring the level and inequality of political participation with survey data</title>
+      <link>/post/measuring-the-level-and-inequa/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/rscribers/</guid>
-      <description></description>
+      <guid>/post/measuring-the-level-and-inequa/</guid>
+      <description>Political participation in the ESS Country levels of political participation Inequality of political participation Democracy indicators Economic inequality Matrix scatter plots How to measure political inequality? The Variaties of Democracy project (V-Dem) has a set of political equality indicators that capture the extent to which political power is distributed according to wealth and income, membership in a particular social group, gender or sexual orientation (cf. V-Dem Codebook&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I graduated!</title>
+      <link>/post/i-graduated/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/i-graduated/</guid>
+      <description>Some exciting news: I finally walked across the floor and graduated from my PhD in Statistical Sciences from QUT! The graduations was live streamed onto the TVs in our department at QUT - here&amp;rsquo;s a photo of me at the exact moment my brother yelled out &amp;ldquo;YEEAAAAHHHH NIIIICCCKK YYEEEAAAAHH&amp;rdquo; in the acoustically well designed Concert Hall at&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Age distributions in samples from cross-national survey projects</title>
+      <link>/post/age-distributions-in-samples-f/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/age-distributions-in-samples-f/</guid>
+      <description>Cross-national survey projects conduct surveys on representative samples of adult populations. How do the distributions of respondents’ age vary across surveys carried out in the same country in different years and different projects? Like in a couple of previous posts (here, here and here) I use data from the Survey Data Recycling dataset (SDR) version 1.0, which includes selected harmonized variables from 22 cross-national survey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reliability of survey estimates</title>
+      <link>/post/reliability-of-survey-estimate/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reliability-of-survey-estimate/</guid>
+      <description>Data Differences within country-years Differences by groups Gender Age Urban/rural residence Education Sampling scheme The growth in cross-national survey projects in the last decades leads to situations when two or more surveys are carried out in the same country and the same year but in different projects, and contain overlapping sets of survey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GeoPAT 2</title>
+      <link>/post/geopat-2/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geopat-2/</guid>
+      <description>Slides: https://nowosad.github.io/geostat18/geostat18_nowosad . They contain installation instructions and links to the required datasets. GeoPAT 2 (Geospatial Pattern Analysis Toolbox) is a standalone suite of modules written in C dedicated to the analysis of large Earth Science datasets in their entirety using spatial and/or temporal patterns. GeoPAT’s core idea is to tessellate global spatial data into a grid of square blocks of original cells&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tidytext analysis of TED talks</title>
+      <link>/post/tidytext-analysis-of-ted-talks/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidytext-analysis-of-ted-talks/</guid>
+      <description>Setup tidy TED talks Applause, LOL Sentiment This year I spent two weeks of the summer attending the Summer Institute for Computational Social Science Parter Site (SICSS) in Tvärminne and Helsinki, Finland, organized by Matti Nelimarkka from Aalto University and the University of Helsinki, assisted by two TAs: Juho Pääkkönen and Pihla Toivanen from the University of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Validating survey data</title>
+      <link>/post/validating-survey-data/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/validating-survey-data/</guid>
+      <description>Educational attainment data OECD data SDR data Cleaning and merging SDR and OECD data Results The curious case of ISSP Switzerland Conclusion Appendix with Przemek Powałko General population surveys with representative samples should have a similar education structure as shown by data from administrative sources, especially if survey weights are&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Burger King Pandemic</title>
+      <link>/post/the-burger-king-pandemic/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-burger-king-pandemic/</guid>
+      <description>Whilst I was rooting around for inspiration, my girlfriend suggested I should do a post about food, quickly followed up by “burgers!!!”. So a few google searches later and I decided to create an animated map, showing all the countries of the world that had at least one Burger King store. I’m particularly chuffed that I’ve managed to combine a multitude of really cool packages in this post. We’ve&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Highlights From APPNING and ISMRM 2018</title>
+      <link>/post/highlights-from-appning-and-is/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/highlights-from-appning-and-is/</guid>
+      <description>Jacob’s Highlights I recently attended the Workshop on Animal Population Imaging (APPNING 2018) held after the ISMRM conference in Paris. It was a well run workshop highlighting the benefits and troubles with large scale animal population imaging (https://appning2018.sciencesconf.org/). Several Highlights from the workshop: Quantitative Connectomic Histology Presented by GA Johnson from Duke University Used Diffusion Tensor Imaging to assess how the brain was connected in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny app for exploring harmonized cross-national survey data (SDR v.1.0)</title>
+      <link>/post/shiny-app-for-exploring-harmon/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-app-for-exploring-harmon/</guid>
+      <description>Instructions References In the previous post I wrote about downloading and exploring the Survey Data Recycling (SDR), version 1.0 dataset, which consists of selected harmonized variables from 22 survey projects, 1966-2013. The SDR project will develop a website for browsing, subsetting, downloading, and visualizing data from the SDR project. This website is currently under&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring the dataset of survey datasets</title>
+      <link>/post/exploring-the-dataset-of-surve/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-the-dataset-of-surve/</guid>
+      <description>Introduction Downloading the SDR data Exploring SDR: availability of variables by project Exploring SDR: availability of variables with different formulations Identifying surveys containing selected variables Subsetting the Master File Country coverage plot Combining data from different survey projects creates new opportunities for research, alas, at the cost of increased volume (obviously) and complexity of the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UK Population Pyramid</title>
+      <link>/post/uk-population-pyramid/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/uk-population-pyramid/</guid>
+      <description>On my journey to creating my animated Premier League table in my previous post, I noticed a lot of examples for creating gifs using the magick package. The gist behind the majority of these examples was to create a sequence of snapshots which could be combined together to create animations. Whilst not quite as seamless as gganimate, it appears to be much more versatile. So I thought I would try and make&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Nothing to see yet</title>
+      <link>/post/nothing-to-see-yet/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nothing-to-see-yet/</guid>
+      <description>Thanks for popping by my website. I just created it, so expect to see the first post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>polite</title>
+      <link>/post/polite/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/polite/</guid>
+      <description>Basic information about the package and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interactive Premier League Table</title>
+      <link>/post/interactive-premier-league-tab/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interactive-premier-league-tab/</guid>
+      <description>For my inaugural blog post I decided I would step into the world of animated graphics for the first time. I was inspired by the presentation that Thomas Lin Pedersen gave at the useR! conference on gganimate and was motivated to create my very first gif. I rooted around for ideas and decided upon creating an animated table of the Premier League for the last season, with the clubs being depicted by their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Global changes in landscapes between 1992 and 2015</title>
+      <link>/post/global-changes-in-landscapes-b/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/global-changes-in-landscapes-b/</guid>
+      <description>Poster: https://zenodo.org/record/1323780 Land-cover change is a pervasive phenomenon caused by climate change, and, in recent decades, by the rapid population growth and accelerated industrialization. Therefore, the assessment of land cover changes is of prime importance for planing and management of natural resources. It provides necessary information for making decisions on trade-off between development and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ISA World Congress 2018</title>
+      <link>/post/isa-world-congress-2018/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/isa-world-congress-2018/</guid>
+      <description>Getting data from Twitter Tweets over time Text analysis Tweets by ISA Resesarch Committee The International Sociological Association 19th World Congress of Sociology in Toronto (15-21 July) has received quite some Twitter coverage. Waiting to board the flight back to Warsaw, I wanted to take a look at these Twitter data and apply the newly acquired skills in text analysis (thanks to the Summer Institute for Computational Social Science, SICSS, Partner Site in Tvärminne and Helsinki,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Elevation gain run data analysis</title>
+      <link>/post/elevation-gain-run-data-analys/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/elevation-gain-run-data-analys/</guid>
+      <description>Hey everyone! This article is part 2 (see part 1) of last week&amp;rsquo;s piece about analysing my running data from strava, and this time it is about my elevation gain data. Again, I am using the rStrava package. If you&amp;rsquo;re wondering why I have additional data from last week&amp;rsquo;s article, it&amp;rsquo;s because I had a bunch of runs on &amp;ldquo;private&amp;rdquo;, so I just unprivated most of them so I have more complete&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/post/contact/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/contact/</guid>
+      <description>e-mail: mkolczynska(at)ifispan.waw.pl&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/post/research/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/research/</guid>
+      <description>Political Inequality I&amp;rsquo;m currently working as a post-doc in the project Political Voice and Economic Inequality across Nations and Time led by dr. Joshua K. Dubrow. In this project I use my knowledge of cross-national surveys and methodology to investigate how economic and educational inequality translates into political marginalization – a topic of renewed relevance in the current turbulent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Strava time vs distance data analysis</title>
+      <link>/post/strava-time-vs-distance-data-a/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/strava-time-vs-distance-data-a/</guid>
+      <description>Hello everybody, I have a new run data analysis today: from my own strava data! I have been much slower recently on the posts, I will probably be until the end of july, because of work for my PhD, so I&amp;rsquo;m sorry about that. I am using the rStrava package and the tutorial in its readme file to get my strava data and see how much my running has changed since a year ago when I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why R Conference</title>
+      <link>/post/why-r-conference/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-r-conference/</guid>
+      <description>This July we had the great honor to present mlr and its ecosystem at the WhyR 2018 Conference in Wroclaw in Poland. You can find the slides here. We want to thank the organizers for inviting us, providing us with great food and coffee and also many thanks all participants for showing great interest in mlr, We hope this could spark further improvement and new features as a result of the many interesting discussions we had with the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multiple Sclerosis and exercise</title>
+      <link>/post/multiple-sclerosis-and-exercis/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/multiple-sclerosis-and-exercis/</guid>
+      <description>Hi athletes. I recently went to a Multiple Sclerosis (MS) conference in Paris organized by the ARSEP foundation, mostly to see what people are doing on the immunology side of the disease, and I started looking into the foundation a bit more and that&amp;rsquo;s how I started doing this article. Multiple sclerosis is an inflammatory disease of the Central Nervous System (CNS). It is an auto-immune disease which means that our own immune system attacks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Coding Codes</title>
+      <link>/post/coding-codes/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/coding-codes/</guid>
+      <description>One of my sons has signed up with the S.H.O.E. Academy a fun site for espionage fans. One of the regular tasks is to decipher messages using a code wheel The is made up of two concentric circles each made up the letters of the alphabet with the outer ring in regular order and the inner ring, which you can spin, effectively randomized The challenge for the agent is to find which letter in the inner ring to use to align with the ‘A’ in the outer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>[R] Fetching JSON</title>
+      <link>/post/r-fetching-json/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-fetching-json/</guid>
+      <description>[1 The Setting 2 Inspect a Website’s DOM &amp;amp; HTTP Requests 3 Extract JSON 3.1 Quick: JSON from File (copy &amp;amp; paste) 3.1.1 It’s all about [[1]] 3.1.2 Two Lines, Pt. 1
+3.2 Robust: Fetch JSON from API with GET 3.3 Parse JSON
+4 From JSON to Tidy 4.1 Tidy Date #1 with lubridate 4.2 Tidy Date #2: type_convert() to the Rescue / Two Lines, Pt. 2
+5 Plots&amp;hellip;](https://ellocke.github.io/post/r-fetching-json-data-on-the-github-to-gitlab-exodus-from-june-2018/)</description>
+    </item>
+    
+    <item>
+      <title>Athlete&#39;s foot and its treatment</title>
+      <link>/post/athletes-foot-and-its-treatmen/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/athletes-foot-and-its-treatmen/</guid>
+      <description>Hi athletes, today we will be looking at data about a health issue that affects many athletes: athlete&amp;rsquo;s foot. It&amp;rsquo;s not a very glamorous subject but it&amp;rsquo;s still interesting, and I find fungi really fascinating, they are warrior eukaryotes that survive everywhere! Most of you probably would rather never hear about it&amp;hellip; but you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An overfit representation of ICLR 2018</title>
+      <link>/post/an-overfit-representation-of-i/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an-overfit-representation-of-i/</guid>
+      <description>I was recently extremely fortunate to attend ICLR 2018, albeit as something of an interloper. Accordingly, what follows is surely a rather atypical highlight reel. All pedantry and any inaccuracy is, of course, due to my own limited understanding of these elegant topics and the breadth of their application. Causal reasoning and graphical models There is a well-developed modern theory of causal inference and reasoning based on graphical models developed by Judea Pearl and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Running races and waste</title>
+      <link>/post/running-races-and-waste/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/running-races-and-waste/</guid>
+      <description>Hi everyone! I am tackling a new topic today, which is: waste generated during races. I&amp;rsquo;ll tell you why this is coming up now. I started the racing season with a road 10km called Asparun which was a relatively small race, 354 runners on the 10k plus probably as many on the 5k, which is more people than I usually see at my small local races, and I saw so many people just throwing their water goblets not IN the trash but sometimes 500 meters away, and it shocked&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>[R] Some Tricks for Blogdown &amp; Hugo (Working Draft)</title>
+      <link>/post/r-some-tricks-for-blogdown-hug/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-some-tricks-for-blogdown-hug/</guid>
+      <description>[1 Fix your Table of Contents / TOC (with .Rmd) 1.1 Numbering 1.2 Custom TOC &amp;amp; Numbering CSS 1.3 TOC-Heading (i.e. “Outline”) 1.4 TOC &amp;amp; Summary
+2 Summary / {{ .Summary}} 3 Shortcuts / Shortcodes 3.1 Images / img 3.2 Links 3.3 Blockquote
+4 TODO 5 Done
+1 Fix your Table of Contents / TOC (with .Rmd) If for your theme the TOC is not working as expected or you simply want back the familiar Knitr-style&amp;hellip;](https://ellocke.</description>
+    </item>
+    
+    <item>
+      <title>[R] Troubleshooting Blogdown &amp; Hugo for (Windows) Dummies</title>
+      <link>/post/r-troubleshooting-blogdown-hug/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-troubleshooting-blogdown-hug/</guid>
+      <description>[1 When blogdown::serve_site() stops working 2 My Problem Space Working Enivironment 3 How to Debug Hugo (esp. on Windows) 3.1 Where is Carmen Sandiego Hugo? 3.2 The 3 Methods to run hugo -v 3.2.1 Quick &amp;amp; Dirty 3.2.2 Stable 3.2.3 Sophisticated with “Windows.Linux”&amp;rdquo;
+4 Some other common Errors / Troubles with Blogdown/Hugo 4.1 seImpl() 4.2 tomlparseImpl() 4.3 render_page(f)
+TL;DR: I had to figure out how to debug() Hugo / my Blogdown page on Windows 10 and came up with 3&amp;hellip;](https://ellocke.</description>
+    </item>
+    
+    <item>
+      <title>Favorite trail race</title>
+      <link>/post/favorite-trail-race/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/favorite-trail-race/</guid>
+      <description>Hi everyone! I am continuing my journey to learn awk and I finally managed to process (almost) an entire file today so let&amp;rsquo;s analyse the 2018 Tencin trail race. It was my first trail race of the season, and it kicks off the &amp;ldquo;challenge intercommunal du grésivaudan&amp;rdquo;, which is a set of 11 races in this region called the Grésivaudan which is a valley in between the two mountains of Belledonne and Chartreuse in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 38</title>
+      <link>/post/epl-week-38/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-38/</guid>
+      <description>Match of the DayVery little to play for - other than stacks of place money Well at least we got a nine goal thriller. And Lamela scored twice! Lucas Moura records the 50th 4-assist game in EPL history on the final day of the season, matching Spurs teammate Eriksen who did the same trick on the last day of 2016/17Man City RecordsCity set a plethora of records including for wins, points and goals in an EPL&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My first half marathon and its data analysis</title>
+      <link>/post/my-first-half-marathon-and-its/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-first-half-marathon-and-its/</guid>
+      <description>Hi everyone! I ran my first half marathon this spring and wanted to talk about my experience. I also analyzed the results of the race which I found on the Grenoble-Vizille website, so scroll down if you want to only look at the data science part of this article. I&amp;rsquo;ve only been running regularly for a year, and I&amp;rsquo;d been dreaming about this day since I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 37</title>
+      <link>/post/epl-week-37/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-37/</guid>
+      <description>Match of the DayOnly one point from the top four this week-end means Chelsea still have chance to catch Liverpool and Spurs. Stoke first condemned to the drop Liverpool’s five goals haul is the 66th time a team has done this since Manchester United last achieved&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 36</title>
+      <link>/post/epl-week-36/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-36/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DaySigns of life from the botton three with wins for WBA and Southampton and a draw for Stoke at&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where are the students who are English Learners in MA?</title>
+      <link>/post/where-are-the-students-who-are/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/where-are-the-students-who-are/</guid>
+      <description>Inspired by my wife’s work in educating students who are English Learners, this post visualizes the English Learners across Massachusetts. The Massachusetts Department of Education publishes a large amount of education data from across the state. It provides yearly percentages of enrolled student and their characteristics, including English Learners. English Learners are defined as students age 3-21 who were not born in the US or whose native language is not&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>If you&#39;re having trouble programming data file imports, try RStudio&#39;s code preview</title>
+      <link>/post/if-youre-having-trouble-progra/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/if-youre-having-trouble-progra/</guid>
+      <description>When it comes to importing flat data files stored locally on your computer, such as csv’s or xls’s, you might be uncertain which method to use. It can also be hard to remember how to do it or the options that are available for various file types. Thankfully, RStudio will suggest code to use to import the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Package Releases</title>
+      <link>/post/new-package-releases/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-package-releases/</guid>
+      <description>I have just released version 0.1.0 of foolbox and version 0.1.2 of tailr. I haven&amp;rsquo;t actually done much on the packages the last three weeks, and they have been very close to these releases for a while, but now I had the spare time and energy to actually send them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 35</title>
+      <link>/post/epl-week-35/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-35/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayWBA, Stoke and Southampton edge ever closer to the drop What with hitting the woodwork three times the Watford v Palace 0-0 matchup saw some records&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Driving Factors of Asian International Migration Flows</title>
+      <link>/post/driving-factors-of-asian-inter/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/driving-factors-of-asian-inter/</guid>
+      <description>I will be talking at #PAA2018 today (8:30 AM Plaza Ballroom A) on the drivers of international #migration flows in #Asia - work with @Jamesraymeranu - using estimates from https://t.co/a2rXr7lJxb pic.twitter.com/dIqV8tfrg8 - Guy Abel 鄭蓋堡 (@guyabelguyabel) April 26,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 34</title>
+      <link>/post/epl-week-34/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-34/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayBit of a damp squib with Man. Utd. handing City the title but at least the, abot to become, Champions put in a better performance at Wembley to take some of the pain off the Liverpool trouncing in the Champion’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Networks</title>
+      <link>/post/visualizing-networks/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-networks/</guid>
+      <description>Armed with a free month of Data Camp, I have been taking a look at one or two areas I am pretty uninformed about, including Social Networks The course is run by fellow ex-pat and soccer/football enthusiast, James Curley. He is the author of the slightly- understated engsoccerdata package His course is concentrated around the igraph package but touches on others including visNetwork for which I found this blog post by Jesse Sandler, particularly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Performance Benchmarking for Date-Time conversions</title>
+      <link>/post/performance-benchmarking-for-d/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/performance-benchmarking-for-d/</guid>
+      <description>Motivation Performance comparison Packages compared Results Motivation Once more, there’s was an opportunity at work to optimize code and reduce run-time. The last time was for dummy-variable creation. Upon querying large data from our hive tables, the returned dataframe contains values of class character. Thus, everything has to be first type converted before any processing can be done. The most time consuming of these has been character to date-time conversion for which I traditionally used&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Insights from intensive water quality sampling in a drained agriculutral field</title>
+      <link>/post/insights-from-intensive-water-/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/insights-from-intensive-water-/</guid>
+      <description>Preferred citation: Liu, W , B Maxwell, F Birgand, M Youssef, GM Chescheir. “Insights from intensive water quality sampling in a drained agriculutral field” Agricultural Drainage Management Systems Task Force/NCERA 217, Raleigh, April 11-12,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Long-term temporal variation of nitrate concentration-stream discharge (C-Q) relationship for an agrcultural watershed in Midwest USA</title>
+      <link>/post/longterm-temporal-variation-of/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/longterm-temporal-variation-of/</guid>
+      <description>Preferred citation: Liu, W , S Tian, M Youssef, F Birgand, GM Chescheir. “Long-term temporal variation of nitrate concentration-stream discharge (C-Q) relationship for an agrcultural watershed in Midwest USA” Agricultural Drainage Management Systems Task Force/NCERA 217, Raleigh, April 11-12,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bleeding and Thrombosis</title>
+      <link>/post/bleeding-and-thrombosis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bleeding-and-thrombosis/</guid>
+      <description>Click here for the manuscript of the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Describing Landscapes by Statistics of Local Pattern Features</title>
+      <link>/post/describing-landscapes-by-stati/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/describing-landscapes-by-stati/</guid>
+      <description>Slides: https://zenodo.org/record/1209418 Landscape metrics quantify various aspects of a pattern and are well-suited for comparing landscapes from a focused perspective, for example, a landscape&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 33</title>
+      <link>/post/epl-week-33/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-33/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayCity’s title celebrations put on ice as the Manchester derby provides 5 goals and 9 bookings whilst the Liverpool one cannot provide one of either Rooney has only completed 5 of his 23&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 32</title>
+      <link>/post/epl-week-32/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-32/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayAlthough Stoke and Southampton did themselves no favours, at least there is a relegation battle. Champs and top 4 now look sorted after Spurs’ come-from-behind victory at Stamford Bridge WBA pick up the first 8 game losing sequence by any club entirely within this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 3</title>
+      <link>/post/california-school-dashboards-p/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/california-school-dashboards-p/</guid>
+      <description>This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Optional” types using pmatch</title>
+      <link>/post/optional-types-using-pmatch/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/optional-types-using-pmatch/</guid>
+      <description>Some programming languages, e.g. Swift, have special &amp;ldquo;optional&amp;rdquo; types. These are types the represent elements that either contain a value of some other type or contain nothing at all. It is a way of computing with the possibility that some operations cannot be done and then propagating that along in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lots of Function Transformations</title>
+      <link>/post/lots-of-function-transformatio/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lots-of-function-transformatio/</guid>
+      <description>The last couple of days I&amp;rsquo;ve been doing a lot of experimenting with a package for function rewriting: foolbox. I am doing some function transformations in both pmatch and tailr and they look very much alike, so I figured I should collect the shared functionality in a separate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tabulating File Information</title>
+      <link>/post/tabulating-file-information/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tabulating-file-information/</guid>
+      <description>I have been a bit lazy with regard to deploying this blog and am not sure of the best way of dealing with it As you may know, the package I use, blogdown, you create all the files within a public directory which you can then deploy the files to your server of choice. I have my own site and upload all the files to replace the existing ones The problem I have is that some of the files on the site are very large and so the process can take a long&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Geofacetting South African style</title>
+      <link>/post/geofacetting-south-african-sty/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geofacetting-south-african-sty/</guid>
+      <description>Ryan Hafens has recently started what is promised to be a series of blog posts about his geofacet package. In the first post, he argues the case for where this approach has advantages over other forms of choropleth. I have previously looked at the hexmap approach - which may or may not be still working It is possible to create one’s own map to apply to geofacetting but luckily one has already been created for the nine provinces of South Africa - where I am currently&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>1st LSE CSS Hackathon! London 17-19 April</title>
+      <link>/post/1st-lse-css-hackathon-london-1/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1st-lse-css-hackathon-london-1/</guid>
+      <description>It’s Happening, Folks! Whew! Less than a month left and I still haven’t publicised this on my blog. People, we are hosting the 1st Computational Social Science Hackathon at the London School of Economics and you are invited! It’s completely free and open to all. With that said, we will prioritise students/recent graduates and participants from the under-represented segments of the society. Unfortunately, we do not have the funds for providing travel&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>pmatch 0.1.3</title>
+      <link>/post/pmatch-013/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pmatch-013/</guid>
+      <description>I have just released version 0.1.3 of pmatch to CRAN. There are not a lot of changes to this version compared to 0.1.2, but enough that I felt it would be good to get a version out before I pull the entire package apart to make it dependent on toolbox for its transformation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 2</title>
+      <link>/post/california-school-dashboards-p/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/california-school-dashboards-p/</guid>
+      <description>This is part two of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, at this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Transforming functions with cases calls</title>
+      <link>/post/transforming-functions-with-ca/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/transforming-functions-with-ca/</guid>
+      <description>The issue with byte-compilation I wrote about yesterday can indeed be fixed by transforming functions that call cases. And that was very easy to implement since I already had all the bits and pieces I needed for it from the tailr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tailr v0.1.1</title>
+      <link>/post/tailr-v011/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tailr-v011/</guid>
+      <description>As I wrote about here and here, I had a problem in tailr with higher-order functions. In the transformation for tail-recursion optimisation, I need to know which actual functions each name refer to, in order to apply user-defined transformations, but with higher-order functions, those are not known until&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where should I live?</title>
+      <link>/post/where-should-i-live/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/where-should-i-live/</guid>
+      <description>After a long spate of just soccer posts, it is a relief(delayed pun intended) to turn to a quick look at a relatively new package, weathercan released under the https://ropensci.org/ banner by @steffilazerte, who has written a comprehensive blog post about it The package provides historical weather data from Environment and Climate Change Canada’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Red-black trees in matchbox</title>
+      <link>/post/redblack-trees-in-matchbox/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/redblack-trees-in-matchbox/</guid>
+      <description>I&amp;rsquo;m working on implementing red-black search trees in matchbox and have managed most of it by now. I still need to implement deletion and the re-balancing code for handling those, but I have insertion up and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making this website</title>
+      <link>/post/making-this-website/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/making-this-website/</guid>
+      <description>Using blogdown to make this website was an absolute joy. My only advice is to follow the great instructions from Alison Premanes Hill and her related set of slides &amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Problems With Higher Order Functions in tailr</title>
+      <link>/post/problems-with-higher-order-fun/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/problems-with-higher-order-fun/</guid>
+      <description>Ok, there is a problem with higher-order functions in my tailr package that I ran into while writing linked list functions for my matchbox package.1 If you write a tail-recursive function that uses a parameter-function, the tailr package will complain that it doesn&amp;rsquo;t see that function in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 29</title>
+      <link>/post/epl-week-29/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-29/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayIn 273 league appearances with Manchester United Patrice Evra was part of a line up that conceded 4 or more goals on 5 occasions (1.8%). For West Ham, he is 2 for 2 (100%)Rod off Burnley’s backAs many of you have heard, Burnley finally won a Premier Leaague match under Sean Dyche after going&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matchbox and CMD CHECK</title>
+      <link>/post/matchbox-and-cmd-check/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/matchbox-and-cmd-check/</guid>
+      <description>Ok, first, the package I wrote about yesterday will be called matchbox, following Dmytro Perepolkin&amp;rsquo;s suggestion (thanks!). You can get it at GitHub. There isn&amp;rsquo;t much to it yet since I haven&amp;rsquo;t really started implementing the data structures I want to put in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Variable bindings with pattern matching</title>
+      <link>/post/variable-bindings-with-pattern/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/variable-bindings-with-pattern/</guid>
+      <description>I just added a new feature to my pmatch package. You will need the development version to get it, until I make a new release, and I have a few more features planned before&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why Relative Volumes Matter</title>
+      <link>/post/why-relative-volumes-matter/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-relative-volumes-matter/</guid>
+      <description>Intro Figuring out how one group’s brain is different from another’s is a big part of neuroscience. MRI-neuroanatomy – the study of the sizes of brain regions – is a wonderful tool for this job and makes up a sizeable chunk of what we study. MRI operates in a lovely middle ground in the scales of neuroscience. It is strongly related to macroscale features of the organism, including sex, behaviour, etc; but can also inform us about the effects of microscale factors – such as gene&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another approach to evaluating dynprog expressions</title>
+      <link>/post/another-approach-to-evaluating/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/another-approach-to-evaluating/</guid>
+      <description>In the approach to evaluating dynamic-programming expressions, that I wrote about yesterday, I used ranges- and recursion-specifications to build a loop for updating a table and then evaluated that loop inside an environment where local variables would over-scope the quosure environment from the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>/post/comments/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comments/</guid>
+      <description>Ok, if this is working, it should now be possible to comment on posts here. I was a bit slow in trying this out, because I had a hellish time setting up the blog in the first place, and I expected adding comments support with Disqus would be just as hard, but if this is working, it was a simple matter of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Evaluating dynprog expressions</title>
+      <link>/post/evaluating-dynprog-expressions/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/evaluating-dynprog-expressions/</guid>
+      <description>I think I now have a complete implementation of the dynamic programming DSL I wrote about the other day. You can install it from the GitHub repository if you want to experiment with&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tick-marks for log10 axis</title>
+      <link>/post/tickmarks-for-log10-axis/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tickmarks-for-log10-axis/</guid>
+      <description>For the tailr post I needed to plot some benchmark results. I still haven&amp;rsquo;t figure out how I can get plots from RMarkdown automatically moved to the right directory here, but that’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 28</title>
+      <link>/post/epl-week-28/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-28/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayAshley Young needs to play just over 3 full games to record the most minutes in a season wearing a Man. Utd. shirt/p&amp;gt; Top CombosOptaJoe recently tweeted that the Martial and Lukaku had combined for 6 Premier League goals (each with 3 goals and 3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Blog Setup</title>
+      <link>/post/blog-setup/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blog-setup/</guid>
+      <description>Ok, I hadn&amp;rsquo;t planned to write any more about how the blog is set up, since that isn&amp;rsquo;t that interesting to me and probably isn&amp;rsquo;t to you — either you know a lot more about this than me, in which case I have nothing to teach you, or you just don&amp;rsquo;t care, which I can relate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Purpose of this blog</title>
+      <link>/post/purpose-of-this-blog/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/purpose-of-this-blog/</guid>
+      <description>Since I already have a blog, you might be asking, &amp;ldquo;why another one?&amp;rdquo;. It&amp;rsquo;s a fair question, and I am not creating a new blog just to make you follow two instead of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stem cell policy</title>
+      <link>/post/stem-cell-policy/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/stem-cell-policy/</guid>
+      <description>Joint with Joe&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Preferential Spatial Gene Expression in Neuroanatomy</title>
+      <link>/post/preferential-spatial-gene-expr/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/preferential-spatial-gene-expr/</guid>
+      <description>Intro In this post I will demonstrate how to use my package ABIgeneRMINC to download, read and analyze mouse brain gene expression data from the Allen Brain Institute. The Allen Brain Institute (ABI) has acquired and released genome-wide spatial gene expression maps for the mouse brain. The data is generated using in situ hybridization experiments (ISH), where nucleotide probes for specific genes bind directly to mouse brain&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulating A/B testing and experiment data</title>
+      <link>/post/simulating-ab-testing-and-expe/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simulating-ab-testing-and-expe/</guid>
+      <description>Simulating data is super useful for testing methods and data science interview prep Simulation is a great way to study statistics. If you’re picking up a method for the first time, (e.g., from the Udacity AB testing course) it’s too easy to convince yourself you know what’s going on without actually doing the math or programming. For example, when I see binary treatments and outcomes, I wonder “would I get the same answer if I do binomial proportion test&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why bother with covariates in A/B testing?</title>
+      <link>/post/why-bother-with-covariates-in-/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-bother-with-covariates-in-/</guid>
+      <description>Motivation I’ll skip the part where I tell you why A/B testing is important. Just look at any data science team in tech, Microsoft, Airbnb, Twitter, Facebook, etc. etc. And I’m starting to see this statement often: The variance that pre-experiment data can explain in a metric is unrelated to any effects of the experiment and can, therefore, be removed. (Source: CUPED.) Economists spend their lives trying to get observational data to behave like they randomly assigned&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Canada 🇨🇦 Audit with R</title>
+      <link>/post/open-canada-audit-with-r/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-canada-audit-with-r/</guid>
+      <description>Motivation Open data is an important way to get information in the hands of citizens. Not only for government transparency, but also to make it easier for citizens to access data that has been available for years behind poor user interface design (don’t get me started on CANSIM). Canada has put this into words with open data principles and a plan for open government partnership; a good first step, otherwise how would I know how to judge&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Co-Clinical Trials</title>
+      <link>/post/coclinical-trials/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/coclinical-trials/</guid>
+      <description>Why co-clinical trials? Here at the Mouse Imaging Centre, a large portion of our research is related to neurodevelopmental disorders. Ultimately the goal of such research is to improve health outcomes for individuals with these disorders. One clear way to impact health outcomes for individuals with neurodevelopmental disorders is to develop new&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parliament&#39;s gender problem</title>
+      <link>/post/parliaments-gender-problem/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parliaments-gender-problem/</guid>
+      <description>(Preface: I’m 🇨🇦 but idk anything about parliament and dk what a hansard was before I started&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>&gt;Jesse Tweedle</title>
+      <link>/post/jesse-tweedle/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jesse-tweedle/</guid>
+      <description>🤓 Econometrics + data science. See full version. Employment 💸 Research Economist - Statistics Canada, 2014-Current Education 🎒 PhD, Economics - University of Calgary, 2018 Publications 📘 &amp;ldquo;Correlated shocks within firms&amp;rdquo;. Economics Letters, Volume 163, February 2018, Pages 95-97. &amp;ldquo;A Hotelling style model of spatial competition for a convenience good&amp;rdquo;, with B. Curtis Eaton. 2012. The Annals of Regional Science, Vol. 49, Issue 2, 2012, pp&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 27</title>
+      <link>/post/epl-week-27/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-27/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the Day/p&amp;gt; Aguero-a-go-goWith the signing of Jesus last season and the pursuit of Alexis Sanchez in the recent transfer window, it appears as though Sergio Aguero is no longer the favourite son at Manchester&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Biathlon data analysis</title>
+      <link>/post/biathlon-data-analysis/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/biathlon-data-analysis/</guid>
+      <description>The 2018 Winter Olympics finally kicked off! In honor of this, I asked a friend of mine who loves sports what data he would be interested in seeing in the sports that are in the winter Olympics and he answered &amp;ldquo;biathlon.&amp;rdquo; I found a website that collects lots of data on the sport called biathlonresults.com. I was really looking forward to the olympics this year, and France has a very famous biathlete, Martin Fourcade, so that makes me keen to look more into this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 26</title>
+      <link>/post/epl-week-26/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-26/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts This week’s crisis team, Chelsea. Match of the DayJordon Ibe has picked up 3 assists in his most recent two&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding and playing with peaks in RMINC</title>
+      <link>/post/finding-and-playing-with-peaks/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/finding-and-playing-with-peaks/</guid>
+      <description>So, peaks. When producing a statistical map, it’s good to get a report of the peaks (i.e. most significant findings). RMINC has had this support for a while now, though it has remained somewhat hidden. Here’s a bit of an intro, then. I will walk through the example we used from the Mouse Imaging Summer School in 2017, which is data from this paper: de Guzman AE, Gazdzinski LM, Alsop RJ, Stewart JM, Jaffray DA, Wong CS, Nieman&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 1</title>
+      <link>/post/california-school-dashboards-p/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/california-school-dashboards-p/</guid>
+      <description>This is part one of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. Introduction: It’s Ok to Skip Around I’m writing this series for data scientists, public school educators, and data scientists who are also public school&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>High frequency measurements in a drained agricultural field</title>
+      <link>/post/high-frequency-measurements-in/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/high-frequency-measurements-in/</guid>
+      <description>In order to further investigate the water movement and nutrient transport from agricultural fields, we developed equipment and algorithms to zoom in the hydrograph and chemograph both spatially and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Boston Limited English Proficient Population</title>
+      <link>/post/boston-limited-english-profici/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/boston-limited-english-profici/</guid>
+      <description>Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the area. So, I started with the Spanish LEP population here we&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 25</title>
+      <link>/post/epl-week-25/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-25/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts Spurs score early - but should have more often - against a lack-lustre Manchester United sporting their shiny new toy, Alexis Sanchez Match of the DayOne that got away, notRiyad Mahrez stayed at Leicester, in spite of a transfer request and rumours that Manchester City were willing to spend somewhere around 75 million on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Model Selection with PSIS-LOO</title>
+      <link>/post/bayesian-model-selection-with-/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bayesian-model-selection-with-/</guid>
+      <description>Pitch In this post I’d like to provide an overview of Pareto-Smoothed Importance Sampling (PSIS-LOO) and how it can be used for bayesian model selection. Everything I discuss regarding this technique can be found in more detail in Vehtari, Gelman, and Gabry (2016). To lead up to PSIS-LOO I will introduce Akaike’s Information Criterion (AIC) to lay the foundation for model selection in general, then cover the expected log predictive density, the corner stone of bayesian model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scraping Wikipedia Tables from Lists for Visualisation</title>
+      <link>/post/scraping-wikipedia-tables-from/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scraping-wikipedia-tables-from/</guid>
+      <description>Get WikiTables from Lists Recently I was asked to submit a short take-home challenge and I thought what better excuse for writing a quick blog post! It was on short notice so initially I stayed within the confines of my comfort zone and went for something safe and bland. However, I alleviated that rather fast; I guess you want to stand out a bit in a competitive setting. Note that it was a visualisation task, so the data scraping was just a necessary&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Transforming denitrifying bioreactors research and application</title>
+      <link>/post/transforming-denitrifying-bior/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/transforming-denitrifying-bior/</guid>
+      <description>Preferred citation: Birgand, F, B Maxwell, S Tian, W Liu , L Negm, M Youssef, G Chescheir, L Schipper, L Christianson, M Helmers, D Williams. &amp;ldquo;Transforming denitrifying bioreactors research and application: unveiling the inside of the blackbox&amp;rdquo; USDA NIFA and NSF Water and Soils Meeting, Project Director Meeting, Jan. 29-31,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Turning Dataset Codes to Words With R</title>
+      <link>/post/turning-dataset-codes-to-words/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/turning-dataset-codes-to-words/</guid>
+      <description>Note: I include a lot of code in this post so my fellow data scientists can either learn from it or give me feedback about how to make it better. It’s totally ok to skip over all that and just check out the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Jalen v. Shaq as baby names</title>
+      <link>/post/jalen-v-shaq-as-baby-names/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jalen-v-shaq-as-baby-names/</guid>
+      <description>Was Jalen Rose really the first Jalen? He claims his mother was the first to make up the name, a combo of his father’s (the NBA player Jimmie Walker) and uncle’s (Leonard) names. And now we see them everywhere: Jalen Hurts (the Alabama QB that was benched in the national title game a few weeks ago) and Jalen Ramsey (Jags cornerback). Was he really? On the other hand, Shaq is an equally distinct name, what happened after he got&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hellow world!</title>
+      <link>/post/hellow-world/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hellow-world/</guid>
+      <description>Since Jan. 2018, my brand new website is published online. The website is powered by Blogdown and Hugo-academic , and deployed by Github Pages . All the codes are open to public and available at my github repository . I build this website to achieve two goals: helping others know more about my professional achievements, and presenting my most latest output (with details) to persons of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Problematic, data source, and variables selection</title>
+      <link>/post/problematic-data-source-and-va/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/problematic-data-source-and-va/</guid>
+      <description>This is the first part of a series of blog post regarding a project I did with 2 master degree colleagues. The main entry to this series is here. Today, we will discuss the problematic, the data and the variables selection from those data in respect of the problematic. Althought it is not really technical post, it provides some context and elements do someone who wants to redo the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Figure skating athletes&#39; personal best</title>
+      <link>/post/figure-skating-athletes-person/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/figure-skating-athletes-person/</guid>
+      <description>Today I am writing another piece about figure skating, also another piece about data analysis in this event. But I am not focusing solely on the Olympics this time but on the best scoring athletes and the best scoring event of each&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>StanCon Highlights</title>
+      <link>/post/stancon-highlights/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/stancon-highlights/</guid>
+      <description>Hi readers, Recently I got back from StanCon 2018 Ansilomar. I had a little time waiting for one of my flights and I thought I’d reflect on the conference. Last year I was lucky enough to go to the first StanCon and it was nice to be able to see how the conference has grown. This year it was three days of tutorials, talks, and networking. I had a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>Hello World! Welcome to the new Mouse Imaging Centre Blog. We created this blog as a place to share things we’ve been thinking about lately. This blog will feature a mixture of technical writing about things we do in our lab including imaging, statistics, and biology. The blog will feature contributions from our staff, students, and PIs. We hope you enjoy our writings. To learn more about us please visit our website at&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Results from Clinical Research</title>
+      <link>/post/interpreting-results-from-clin/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interpreting-results-from-clin/</guid>
+      <description>Introduction Practicing Evidence Based Medicine (EBM) has become the norm in Clinical Medicine for past few decades. Generating evidences by carrying out and publishing clinical research of various types (clinical trials, observational studies) have become a norm. It has been observed that around 80% of the clinical research findings and interpretations are not replicable, implicating that wrong clinical decisions are made based on the false&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 23</title>
+      <link>/post/epl-week-23/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-23/</guid>
+      <description>Man City’s unbeaten run ended by a Coutinho-less Liverpool in seven goal thriller Match of the DaySubsOn Saturday an oddity occurred. The kind of ‘Dog didn’t bark in the night’ sort. Roy Hodgson, with his team hanging on to a precious three points for what would make a ’massive win&amp;rdquo; failed to make a substitution: a norm for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Update for the Mexico project</title>
+      <link>/post/update-for-the-mexico-project/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/update-for-the-mexico-project/</guid>
+      <description>Hello, the project that I was talking about earlier is finally over. But it tooks me (and my colleagues) so much time to do that I wasn&amp;rsquo;t able to post about it. Anyway, the project website is online and can be seen there: http://m2_projet_mexique.frama.io/website/ Ok, it is in French but, first, it is for a French diploma in a French university, so&amp;hellip; And second, I&amp;rsquo;ll make translations of the posts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Temporary Colocation on Knowledge Flows</title>
+      <link>/post/the-effect-of-temporary-coloca/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-effect-of-temporary-coloca/</guid>
+      <description>I study the effect of temporary colocation on scientific collaboration and knowledge flows. I use service on NIH study sections to obtain quasi-random variation in interactions between pairs of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What to Expect at Winter Olympics 2018 for figure skating</title>
+      <link>/post/what-to-expect-at-winter-olymp/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-to-expect-at-winter-olymp/</guid>
+      <description>The winter olympics are coming! It is an exciting time to celebrate our favorite sports and feel inspired to do better ourselves. It is going to be interesting this year with the doping ban for Russia as well as many unfortunate injuries and retirements. Figure skating is my favorite event because it is an incredibly beautiful and hard sport that I practised for a few years when I was&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A History of Skiing</title>
+      <link>/post/a-history-of-skiing/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-history-of-skiing/</guid>
+      <description>I started skiing at the age of 3 at the station in the Alps called the &amp;ldquo;Sept Laux&amp;rdquo; next to Grenoble, France. It was natural to me, but until now I never wondered for how long people have done it. Here is a brief history of how it all began. The word ski comes from old Norse, a germanic language that was spoken in Scandinavia from the 8th to the late 14th&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>Hello athletes, welcome on my new platform Sciathlon. The goal for this website is to share findings in sports science and technology. I am a biologist so I am interested in everything related with an athlete&amp;rsquo;s health such as nutrition, genetics, injuries and conditions related to the kind of activity we do. Some sports involve animals, so I will also be covering their health in this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My favorite Sports Youtube Channels</title>
+      <link>/post/my-favorite-sports-youtube-cha/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-favorite-sports-youtube-cha/</guid>
+      <description>Hi everyone! Today I am listing my favorite sports-related youtube channels, in no particular order, make sure to check them out, they deserve it! TheGingerRunner If you are interested in running and want to learn more about trails, races, athletes, training, gear, nutrition, there are amazing ressources out there that will teach and inspire you. I have compiled a little list of my favorite youtube channels that I have been following for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Story Telling with Shiny</title>
+      <link>/post/quantitative-story-telling-wit/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/quantitative-story-telling-wit/</guid>
+      <description>LSE IR Gender and Diversity Project Two shinydashboard posts in a row, that’s a first. As I mentioned on Twitter, I’m not really this productive; rather, the apps had been on the proverbial shelf for a while and I’m just releasing them now. In fact, this is one of my earlier works: quantifying the gender imbalance as it manifests itself in the LSE International Relations (IR) reading lists. You can access the app&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stepwise Bayesian Optimization with mlrMBO</title>
+      <link>/post/stepwise-bayesian-optimization/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/stepwise-bayesian-optimization/</guid>
+      <description>With the release of the new version of mlrMBO we added some minor fixes and added a practical feature called Human-in-the-loop MBO. It enables you to sequentially visualize the state of the surrogate model, obtain the suggested parameter configuration for the next iteration and update the surrogate model with arbitrary evaluations. In the following we will demonstrate this feature on a simple example. First we need an objective function we want to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Public School Data is Great, But You Have to Clean It First</title>
+      <link>/post/public-school-data-is-great-bu/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/public-school-data-is-great-bu/</guid>
+      <description>Using public school data can help school districts see the bigger picture of what is going on. So why don’t we see more districts taking advantage of this information gold&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notes on Thrombotic Microangiopathy</title>
+      <link>/post/notes-on-thrombotic-microangio/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/notes-on-thrombotic-microangio/</guid>
+      <description>Background Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. Introduction TMA are of diverse etiologies but have unified manifestation a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) TMA has unified pathogenesis a. Endothelial dysfunction b. Microinfarcts Approach to treatment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Income Along the Boston T [Blue Line]</title>
+      <link>/post/income-along-the-boston-t-blue/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/income-along-the-boston-t-blue/</guid>
+      <description>In the first three parts of this series, we looked at the changes in income along the The Orange Line, The Red Line, and The Green Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For the final post, we take a look at the The Blue Line. Below you will see median household income along each of the four lines of the Boston Blue&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Jugular Venous Waveforms and Carotid Pulsations in Tachyarrhythmia Diagnosis</title>
+      <link>/post/jugular-venous-waveforms-and-c/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jugular-venous-waveforms-and-c/</guid>
+      <description>Background The content of this post was written by me few years ago. It builds conceptual framework on JVP and carotid wave analysis for tachyarrhythmia diagnosis. Many concepts written in this post are practical with a bit of practice and spending time with patients. The techniques written here can be used as important adjunct to 12 lead surface ECG tracing in diagnosing tachyarrythmia. Introduction Tachyarrhythmia diagnosis is a challenge that all of us face as daily&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Nomogram</title>
+      <link>/post/predictive-nomogram/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/predictive-nomogram/</guid>
+      <description>Introduction Using prediction nomogram is another way to apply the predictive model. You can download the nomogram as image file by right clicking the image and saving it and use it in your bedside by taking printouts of the same. How to use the nomogram For each variable, get points by drawing a vertical line up from the value in variable axis to the point&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Income Along the Boston T [Green Line]</title>
+      <link>/post/income-along-the-boston-t-gree/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/income-along-the-boston-t-gree/</guid>
+      <description>In the first two parts of this series, we looked at the changes in income along the The Orange Line and The Red Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For this post, we take a look at the The Green Line. Below you will see median household income along each of the four lines of the Boston Green&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A dog diet base rate fallacy</title>
+      <link>/post/a-dog-diet-base-rate-fallacy/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-dog-diet-base-rate-fallacy/</guid>
+      <description>🐶&amp;gt;💩 I have a dog. He&amp;rsquo;s cute and crazy. And he has constant diarrhea (shout out to the pet parents and human baby parents out there, you get used to talking about 💩 real quick). It turns out part of the reason was his diet. The vet just shrugged when I asked how to fix it. Google suggested raw diets like RMB raw meaty bones or BARF bones and raw food, or biologically appropriate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 20</title>
+      <link>/post/epl-week-20/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-20/</guid>
+      <description>Match of the DayPardew BounceAlan Pardew has a rep as someone who gives a team an instant return, extended runs (good and bad) and ultimate disappointment Well stage one hasn’t happened with WBA as they have yet to win a game in six but how true is it of his four other Premier managerships. Zoom into bottom left hand corner to view first six&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A data viz that asks questions</title>
+      <link>/post/a-data-viz-that-asks-questions/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-data-viz-that-asks-questions/</guid>
+      <description>I don’t design to answer questions, I design to ask them1 There are an incredible range of data visualizations. They’re great, really. Sometimes they are very pretty pictures. Which is great, unless the goal wasn’t to draw a pretty picture. If all you [the dataviz expert] have is a hammer [webgl/d3/gg], every problem&amp;rsquo;s a nail. &amp;ndash; But I find the most memorable (beyond “wow cool, next”) data visualizations take the Scher approach: the readers don’t find answers, they find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualising US Voting Records with shinydashboard</title>
+      <link>/post/visualising-us-voting-records-/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualising-us-voting-records-/</guid>
+      <description>Introducing adavis My second ever post on this blog was on introducing adamap, a Shiny app that maps Americans for Democratic Action voting scores (the so-called Liberal Quotient) between 1947-2015. It was built with highcharter, and hence it was nicely interactive but quite slow. I wanted to switch to another package since, and when I eventually ran into statebins, I knew what had to be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>saveRDS() vs write_csv() - a newbie introduction</title>
+      <link>/post/saverds-vs-writecsv-a-newbie-i/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/saverds-vs-writecsv-a-newbie-i/</guid>
+      <description>Last week, I came across this blog post from Yihui-down called save() vs saveRDS(). It was issued after a response from Jenny Bryan on Twitter. So when more experimented people like them advise to use a tool, it is for a reason. So I decided to give it a try. Not to compare save() and saveRDS, but saveRDS to write_csv(). This is not a complete review as I lack the knowledge, but a short intro to something I found very&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 19</title>
+      <link>/post/epl-week-19/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-19/</guid>
+      <description>Match of the DayArsenal and Liverpool showing why they are fun to watch but won’t be winning major trophies Kane is AbleSome eyebrows were raised when Harry Kane was rated by a Guardian poll of 169 experts as the fifth best player in the world for 2017 but he certainly did his best to justify that ranking with a hat-trick at high-flying&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friends Title Generator, Part 2</title>
+      <link>/post/friends-title-generator-part-2/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/friends-title-generator-part-2/</guid>
+      <description>We’re back on the Friends script grind. titles % select(-director, -writers) titles ## # A tibble: 236 x 5 ## season episode title rating n_ratings ## ## 1 1. 1. The One Where Monica Gets a Roommate 8.50 4317. ## 2 1. 2. The One with the Sonogram at the End 8.20 3107. ## 3 1. 3. The One with the Thumb 8.30&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Random sampling</title>
+      <link>/post/random-sampling/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/random-sampling/</guid>
+      <description>The problem: you want to generate a random collection of letters. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) ## [1] &amp;ldquo;dlcz&amp;rdquo; Great. Now do it 10 times. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) %&amp;gt;% rep(8) ## [1] &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; 😖. Why am I like this. Ok, rep copies the object 8 times. It doesn’t draw 8 samples. So just write a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friends Title Generator, Part 1</title>
+      <link>/post/friends-title-generator-part-1/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/friends-title-generator-part-1/</guid>
+      <description>To fulfill my lifelong desire to write Friends scripts, I’ll start by writing a Friends episode title. By that I mean a script that writes a Friends episode title. If you’re like me, you want to be creative, but I want to study artists and writers and distill their creativity into a recipe, and then just repeat it over and over. Isn’t that how artistic success works? Start with episode data from the first Friends&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thank you blogdown ppl</title>
+      <link>/post/thank-you-blogdown-ppl/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thank-you-blogdown-ppl/</guid>
+      <description>Hardest problem: understanding Hugo structures / getting a theme I’m happy with. Easiest problems: Netlify, emoji, gifs, actually writing posts (ty blogdown). A list of things I found useful when making this blog. Alison Presmanes Hill @apreshill: blogdown + these slides&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mining Game of Thrones Scripts with R</title>
+      <link>/post/mining-game-of-thrones-scripts/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mining-game-of-thrones-scripts/</guid>
+      <description>Quantitative Text Analysis Part II I meant to showcase the quanteda package in my previous post on the Weinstein Effect but had to switch to tidytext at the last minute. Today I will make good on that promise. quanteda is developed by Ken Benoit and maintained by Kohei Watanabe - go LSE! On that note, the first 2018 LondonR meeting will be taking place at the LSE on January 16, so do drop by if you happen to be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 18</title>
+      <link>/post/epl-week-18/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-18/</guid>
+      <description>Match of the DayFour teams win away from home by at least three goal margins - surprisingly Huddersfield, West Ham and Crystal Palace join Liverpool Who is your TalismanSome players are regarded as more essential to their teams than others - Pogba at Manchester United or Zaha at Crystal Palace spring to mind. As a crude way of assessing this, we can look at the average points per game the team has secured with their services when they are playing or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>French Urban Population growth between 2010 and 2014</title>
+      <link>/post/french-urban-population-growth/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/french-urban-population-growth/</guid>
+      <description>Hi all ! Sorry this map is in French but it was a school assessment, so… French it is. Disclaimer: You might encounter a lot of french words and links to french webpages. You are warned. The main goal was to work wih PostgreSQL and PostGIS on census data. Franc had around 36 000 communes which is the smallest administrative unit. Since it is too small to represent on a map, we worked on the Unités&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Virtualbox images resizing</title>
+      <link>/post/virtualbox-images-resizing/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/virtualbox-images-resizing/</guid>
+      <description>I add to resize an OSGeoLive virtual machine because after a couple postgresql workshops with quite big datasets (less than 1 GB each but still), the default size was not enough. So I followed the instructions from here (in French): http://blogf.leunens.fr/2015/1306/agrandir-la-taille-dun-disque-virtualbox.html Please note that,by default, OSGeoLive cames into a vmdk file so you need to convert it to a VDI to increase the volume size. If you already use a VDI file, not need to do that&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 17</title>
+      <link>/post/epl-week-17/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-17/</guid>
+      <description>Match of the DaySecond time recently, Watford have removed Deeney late in winning position only to end up with no points Watford were ahead of Crystal Palace for 85 minutes in Tuesday’s game - 15 minutes more than Palace have led in matches the whole season to dateYet Another Man City ChartWith Man. City racking up another four goals away from home, they are well on course to break Chelsea’s season record of 103 in 2009&amp;frasl;10, when Drogba (29) and Lampard (22) led the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Income Along the Boston T [Orange Line]</title>
+      <link>/post/income-along-the-boston-t-oran/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/income-along-the-boston-t-oran/</guid>
+      <description>As a native New Yorker, I was recently intrigued by a visualization of household income in NY highlight inequality ( New Yorker ). Having lived in Boston for going on 9 years, I’ve started to call this place home. Could I make a similar representation of income in Boston? That was my challenge! PART I: The Orange Line To start I used these&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 16</title>
+      <link>/post/epl-week-16/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-16/</guid>
+      <description>Match of the DayBizarrely, the top two teams contrive to score three cock-up goals City dominanceWith an eleven point lead over their nearest rivals, Man City are looking home and hosed for the title. Their 46 point tally after 16 games is an EPL record, three greater than Chelsea 2005&amp;frasl;6, but is actually not the largest margin at this stage of a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Nitrate concentration-drainage flow (C-Q) relationship for a drained agricultural field in Eastern North Carolina Plain</title>
+      <link>/post/nitrate-concentrationdrainage-/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nitrate-concentrationdrainage-/</guid>
+      <description>Preferred citation: Liu, W , M Youssef, F Birgand, GM Chescheir, B Maxwell, S Tian. “Nitrate concentration-drainage flow (C-Q) relationship for a drained agricultural field in Eastern North Carolina Plain” AGU fall meeting, New Orleans, December 11-15,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 15</title>
+      <link>/post/epl-week-15/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-15/</guid>
+      <description>Match of the DayThe big-six contest, Arsenal v Man. Utd. illustrated once again that de Gea may be the finest goalkeeper in the world Club in Crisis - SpursAfter being praised to the heights by the press, things at Spurs are unravelling fairly quickly. Their lack of good squad depth has been shown up by the sale of Walker, stand-off with Rose and injuries to Wanyama and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparing Home and Away Wins of Kenny Dalglish’s Managerial Runs (Also, Did It Matter?)</title>
+      <link>/post/comparing-home-and-away-wins-o/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-home-and-away-wins-o/</guid>
+      <description>After my first post, @HighlandDataSci on Twitter had a great question: Was Kenny Dalglish’s home and away win odds ratio different during his first run as manager than his&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 14</title>
+      <link>/post/epl-week-14/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-14/</guid>
+      <description>Match of the DayAllardyce is beaming. Everton are close to top half of table and he has three long-term-injured players back soon: Boalsie, Barkley and Coleman Rooney RocketI do not collect the number of goals scored from own-half but that final goal of his hat-trick was the 28th in his EPL career from outside of the area - good for 7th&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Estimates of Global Bilateral Migration Flows by Gender between 1960 and 2015</title>
+      <link>/post/estimates-of-global-bilateral-/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/estimates-of-global-bilateral-/</guid>
+      <description>Further Notes Please contact me if cannot access the full paper and would like a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Liverpool FC&#39;s Managers</title>
+      <link>/post/liverpool-fcs-managers/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/liverpool-fcs-managers/</guid>
+      <description>Anfield in Liverpool is one of the legendary stadiums of English football. Fortress Anfield has been the home to many historic games, including Liverpool’s 4-3 win against Newcastle in 1996 and my personal favorite, Liverpool’s 3-1 win against Olympiacos to go through to the Champions League’s last&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Access Mandates</title>
+      <link>/post/open-access-mandates/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-access-mandates/</guid>
+      <description>1 Deposit manuscripts upon acceptance 2 Require refereed and accepted manuscript deposit 3 Require uploading manuscripts to institutional repositories 4 Deposits as prerequisite for performance evaluation 5 Repository must implement copy-request button 6 Immediate-deposit need not be immediate-Open Access Notes I recently came across Stevan Harnad’s 6 “essential features of an effective Green OA&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Social division of the residential space of the Greater Mexico City</title>
+      <link>/post/social-division-of-the-residen/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/social-division-of-the-residen/</guid>
+      <description>EDIT: I provided a quick update here, and it will be the main entrance of a post series regarding this subject, cheers ! https://roelandtn.frama.io/post/update-for-the-mexico-project/ Hello there ! It has been a long time since my last post. That’s because of a great project I’m working on for my Master degree. Explanations can be messy, we are at an early stage, just collecting data and try to select the most useful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Chi-Square test of close fit in covariance-based SEM</title>
+      <link>/post/a-chisquare-test-of-close-fit-/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-chisquare-test-of-close-fit-/</guid>
+      <description>TLDR: If you can assume close fit for the RMSEA, there is no reason why you cannot for a Chi-Square test in SEMs. The method to do this is relatively simple, and may cause SEM practitioners to reconsider the Chi-Square test. When assessing the fit of structural equation models, it is common for applied researchers to dismiss the $\chi^2$ test because it will almost always detect a statistically significant discrepancy between your model and the data, given a large enough sample&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 11</title>
+      <link>/post/epl-week-11/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-11/</guid>
+      <description>Match of the DayMourinho still can’t buy a result away against big clubs The Spanish connectionMorata connected up with Azpilicueta’s cross for Chelsea’s winner against Manchester United and he has now assisted on five of the striker’s seven league goals this season, only topped by six of the 52 goals Diego Costa scored for the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GIS with R: how to start?</title>
+      <link>/post/gis-with-r-how-to-start/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gis-with-r-how-to-start/</guid>
+      <description>Slides, code and data The slides could be seen here The slides, code, and data are available&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 10</title>
+      <link>/post/epl-week-10/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-10/</guid>
+      <description>Match of the DayKane-less Spurs lose to Pogba-less United and trail City by 8 points Final Top 6?The accepted ‘top six’ i.e Chelsea, Spurs, Man City, Liverpool, Arsenal and Man Utd. were generally expected to comprise the first half-dozen come the end of the season for the second year running. Only Everton had come within 23 points of them last year - and it is clear they will be now be happy to finish outside of the bottom&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL week 9</title>
+      <link>/post/epl-week-9/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-9/</guid>
+      <description>Match of the DaySunday games rule; as Arsenal consign Koeman to the dustbin and Klopp may start to worry Managers OutThere have already been three dismissals with less than a quarter of the season gone Crystal Palace: de Boer - not matching playing styles to player skillsLeicester City: Shakespeare - board were reluctant in first placeEverton: Koeman - poor results after big summer spending spreeGiven that all the promoted clubs have performed well, several others will be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Archer Memes</title>
+      <link>/post/archer-memes/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/archer-memes/</guid>
+      <description>I have rather belatedly gotten around to viewing the adult animated series, Archer, on Netflix. If you have not read up about the show, wikipedia has good coverage and there is an in-depth viz project -A data driven exploration of Archer - by Mara Averick and Elijah Meeks The subtitles often shout-out for a meme and I have clipped several, initially from Series 1 Ep&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Climate explorer update</title>
+      <link>/post/climate-explorer-update/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/climate-explorer-update/</guid>
+      <description>The SNAP Climate Analytics Shiny app has been updated. Previously, the app included seasonally and annually aggregated data. With the recent inclusion of monthly data, the number of conditional spatio-temporal climate probability distributions has now increased from a base set of about 13 million unique distributions to over 46&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automatic Time-Series Forecasting with Prophet</title>
+      <link>/post/automatic-timeseries-forecasti/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automatic-timeseries-forecasti/</guid>
+      <description>Seasonality and Trends Time-series analysis is a battle on multiple fronts by definition. One has to deal with (dynamic) trends, seasonality effects, and good old noise. A general formula can be given as y = level + trend + seasonality + noise However, the relationships between these factors can be realized in many, and sometimes quite complex, ways. It is easy to over-fit noise, and the window for accurate prediction can be quite small (think of funnel-shaped confidence&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 8</title>
+      <link>/post/epl-week-8/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-8/</guid>
+      <description>Game of the week Crystal Palace 2 - 2 ChelseaChampions lose to previously goalless, pointless London rivals &amp;ndash;Julian Speroni and Gareth McAuley made their first appearances of the season becoming the oldest player and oldest outfielder, respectively, to appear in this campaignMo’s MOIt is a well known that Jose Mourinho’s modus operandi in away games against top sides is to play very&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/post/academic/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/academic/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Correlated High-Dimensional Data</title>
+      <link>/post/dealing-with-correlated-highdi/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dealing-with-correlated-highdi/</guid>
+      <description>Theory to Application 1 I recently realized my review of Michael Alvarez’s edited volume Computational Social Science: Discovery and Prediction went online a while ago. If memory serves, used to be the case that book reviews were freely available; alas now even a 400-word long piece is behind a paywall. I initially planned to do a post covering the whole book—at least the application part, as the volume is neatly segregated on theory&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Guardian Film Reviews</title>
+      <link>/post/guardian-film-reviews/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/guardian-film-reviews/</guid>
+      <description>From being an avid daytime moviehouse attendee. I have retreated to the occasional Netflix viewing at home. Although the ‘Because you watched’ algorithm works fairly well The Matching on Netflix does not work for me so I’d kinda like to get a rating from a reputable source maybe along with a review As I’m a Guardian reader, a recent post by Maelle Salmon on extracting data from their Experience columns gave me a nudge to do something and I have used her code as a template for my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 7</title>
+      <link>/post/epl-week-7/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-7/</guid>
+      <description>Game of the week WBA 2 - 2 WatfordThese teams probably won’t feature much but Watford deservedly fought back from a two goal deficit Widening gap in classIt was generally forecast that the top-six of last season would repeat again in this campaign - though probably not in the same order. After just seven games, we are already just one diverted Joselu strike away from Liverpool joining the other top five from last year in the leading&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>World Bank Data with data360r</title>
+      <link>/post/world-bank-data-with-data360r/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/world-bank-data-with-data360r/</guid>
+      <description>NB This is a revamp of a previous post The World Bank is a great source of economic and social data. A couple of years ago, I used it to create a shiny app which still appears to work! Earlier this year, the World Bank launched a new open data platform which collates more than 2000 indices from 40+ data sources many external to the World&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 6</title>
+      <link>/post/epl-week-6/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-6/</guid>
+      <description>Game of the week West Ham 2-3 TottenhamThe star of this week’s post, Christian Eriksen, gets involved in all three goals for Spurs After six games, Manchester Utd. can already boast eight names on the scoresheet. In 42 games in 1993&amp;frasl;4, Arsenal mustered just sixTop v BottomMan City’s destruction of Crystal Palace ensured those two sides produced the biggest ever difference in Goals Scored after six games of a Premier League season,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 5</title>
+      <link>/post/epl-week-5/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-5/</guid>
+      <description>Game of the week Watford 0-6 Manchester CitySecond time Man City have won by 5+ goals in consecutive games against same team. They have also done it Derby. Only achieved on two other occasions in English league top tier with WBA figuring twice: crushing local rivals, Birmingham, and suffering at the hands of Liverpool Unfortunately, no video available so you’ll have to settle for this home-made Huddesfield v Leicester&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GeoServer, CentOS and Tomcat are on a boat</title>
+      <link>/post/geoserver-centos-and-tomcat-ar/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geoserver-centos-and-tomcat-ar/</guid>
+      <description>I&amp;rsquo;m currently working on a small part of a project for my new compagny involving VRT, Geoserver and Tomcat on a CentOS VM. Easy, you should say, not to easy when it is your first time with all those components (except for GeoServer that I tried already). So everything was new to me. Here is my notes on installing it and some configuration tips. Sorry it is in French, but I didn&amp;rsquo;t had time to translate it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Canadian Census</title>
+      <link>/post/canadian-census/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/canadian-census/</guid>
+      <description>A few weeks ago I did a post on the StatCan API I have since come across the new cancensus package, a wrapper function for CensusMapper API, in beta and not yet available on CRAN . These has been developed by the Vancouver team at MountainMath featuring Jens von Bergmann. His blog, Mountain Doodles is well worth a read - and, usefully, includes his twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Shortcodes</title>
+      <link>/post/hugo-shortcodes/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-shortcodes/</guid>
+      <description>One of the delights of using blogdown to create blogs or websites is that it allows access to Hogo shortcodes which automatically create an HTML snippet based on the parameters you provide. You can even create your own, if you are up to it Here are a few examples for use in RMarkdown. Check out the blogdown package and Hugo documentation for more detail YoutubeI tend to use the vembedr package but this is an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pepper et Carrot</title>
+      <link>/post/pepper-et-carrot/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pepper-et-carrot/</guid>
+      <description>Today I went to the library A livr&amp;rsquo;Ouvert because there was a sign session with David Revoy. It is an artist that I really like for two reasons: his stories are fun and he has really nice drawing; he used free and opensource software to produce his art and his artwork is licenced with a Creative Commons Attribution 4.0 licence; People who like Ubuntu MATE can&amp;rsquo;t be bad people (well, I&amp;rsquo;m not really&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 4</title>
+      <link>/post/epl-week-4/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-4/</guid>
+      <description>Game of the week Stoke City 2-2 Manchester UnitedUnited’s first real test. Still look going forward but defensive frailties may be exposed by top opposition It must be September - Kane starts scoringThe first one was a bit of a fluke but he reaches the 80 goal mark at a younger age than any who have reached that level in fewer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UbuntuCon Europe 2017</title>
+      <link>/post/ubuntucon-europe-2017/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ubuntucon-europe-2017/</guid>
+      <description>I just came home from this UbuntuCon Europe 2017, who was held in La Cité des Sciences et de l&amp;rsquo;Industrie, in Paris. SO I was able to attend it, although I followed one talk, about privacy on internet. I met great people, starting by my friend Marcos Costales, a spanish developper known for uNav, THE gps application for Ubuntu Touch or Gufw, a minimalist firewall. I was able to meet Martin Wimpress (known for Ubuntu MATE) or Alan&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 3</title>
+      <link>/post/epl-week-3/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-3/</guid>
+      <description>Game of the weekA slightly fortuitous win for Manchester City. View the highlights with a Russian commentary Arsenal leaking goalsArsenal have gone from edging a seven-goal thriller against Leicester to a pummelling at the hands of Liverpool, via an unhappy trip to Stoke. Over this period, they have conceded eight goals. How does that stack up over any three game stretch for them or any other&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>/post/holidays/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/holidays/</guid>
+      <description>Finally I was able to take some holidays in late august. One week visiting friends before getting back to school in early september. And starting my new job in september 5th. To be honest, I had one week of holidays in July. But it was for the FOSS4G-Eu 2017, as an organizer, so it was not really relaxing (but so enriching). I should make a blog post about that. So since I&amp;rsquo;m visiting friends, I might not be able to work as much as I&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pandoc and Xelatex in docker</title>
+      <link>/post/pandoc-and-xelatex-in-docker/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pandoc-and-xelatex-in-docker/</guid>
+      <description>This side project attends to use a docker image for pandoc and LaTex related stuff. TexLive is not very easy to maintain even on Ubuntu. Especially to update, since Texlive freeze every year and Ubuntu LTS versions have some retard (e.g on Ubuntu 16.04, source packages are about TexLive 2015, but TexLive servers provides 2017 packages). Plus, TexLive is really big and take a huge place in the root&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 2</title>
+      <link>/post/epl-week-2/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-2/</guid>
+      <description>Round 2Not so many shocks in Round 2. Three teams remain with 100% records. Manchester United have looked the most impressive and it is not until week 8 that they meet any of the five teams that finished above them last year. Huddersfield manager David Wagner will probably just be grateful to have six points in the bag so soon and Tony Pulis will be looking to put his feet up even earlier than usual as his WBA teams tend to do once they reach the 40 point safety&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/post/resume/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/resume/</guid>
+      <description>Here in some times a detailled resume ! Sorry for the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 1</title>
+      <link>/post/epl-week-1/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-week-1/</guid>
+      <description>Round 1Well we’re back with an exciting start to the new season. Manchester United turned in their best performance in years and Huddersfield had a dream return to the top tier. Some things remain the same though with Dele Alli conning Shelvey into a dismissal and Liverpool conceding from corners Game of the WeekArsenal and Leicester swapping blows with the Gunners emerging&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL 2017/18</title>
+      <link>/post/epl-201718/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/epl-201718/</guid>
+      <description>With the new Premier League season kicking off, I plan to produce plenty of posts over the coming months I have yet to organize it all but the idea is to present tables and charts without embedded code. Hopefully, I will get around to publishing it on Github So let’s start of with a couple of different areas of interest Starting survivors220 keen players will start the season - but how often does the Game one starting lineup reflect who plays most for the team throughout the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>StatCan API&#39;s Discovered</title>
+      <link>/post/statcan-apis-discovered/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statcan-apis-discovered/</guid>
+      <description>My last post was a first look at StatCan data which highlighted that there was a lot of data available but that it was not necessarily easily available or perfectly presented Since then (and apologies where due), I have come across a couple of APIs First-off, StatCan do have a developers page one of which provides access to hundreds of indicators in JSON&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When Babe Ruth met Kandinsky</title>
+      <link>/post/when-babe-ruth-met-kandinsky/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-babe-ruth-met-kandinsky/</guid>
+      <description>When Babe Ruth first retired from baseball he found it tough. Without the protection of the Yankees PR department his various, and widespread, indiscretions were fodder for the yellow press and the reluctance of anyone to give him a managerial position was humiliating So he became a virtual recluse mainly fly-fishing, painting water-colours and studying the lives of contemporary&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When is the best time to play your wildcard?</title>
+      <link>/post/when-is-the-best-time-to-play-/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-is-the-best-time-to-play-/</guid>
+      <description>I love football. It’s the greatest sport ever. And I mean real football not what is played in America. I wanted to be a footballer for ages but now I’m 28 and I still haven’t signed any multi million pound contracts, I think I’ll give up on that. The next best thing is watching football and I do that, a lot. Particularly the red half of Manchester as quite a few Londoners do :p.</description>
+    </item>
+    
+    <item>
+      <title>Parameter tuning with mlrHyperopt</title>
+      <link>/post/parameter-tuning-with-mlrhyper/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parameter-tuning-with-mlrhyper/</guid>
+      <description>Hyperparameter tuning with mlr is rich in options as they are multiple tuning methods: Simple Random Search Grid Search Iterated F-Racing (via irace) Sequential Model-Based Optimization (via mlrMBO) Also the search space is easily definable and customizable for each of the 60+ learners of mlr using the ParamSets from the ParamHelpers Package. The only drawback and shortcoming of mlr in comparison to caret in this regard is that mlr itself does not have defaults for the search&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Weather plots for any US location</title>
+      <link>/post/weather-plots-for-any-us-locat/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/weather-plots-for-any-us-locat/</guid>
+      <description>There are issues with packages in this post. Here are author comments weatherData“All, yes looks like WU is no longer making it easy to get CSV files without API’s. If anyone figures out a URL for directly fetching CSV’s, I will modify the package. But until then, we are stuck” ggjoy“All code has been moved over to package ggridges. As of this version, ggjoy simply calls ggridges and re-exports relevant functions under the old&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Useful links for mapping in R</title>
+      <link>/post/useful-links-for-mapping-in-r/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/useful-links-for-mapping-in-r/</guid>
+      <description>Geography was not my favourite subject as a high-schooler: maybe having a teacher who smoked a pipe in the classroom had somethiing to do with&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Baby Names in the UK and USA</title>
+      <link>/post/baby-names-in-the-uk-and-usa/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/baby-names-in-the-uk-and-usa/</guid>
+      <description>Lost in the realms of time when reshape2 and ggvis were flavour of the month (i.e 20 months ago), I apparantly created a shiny app built around Hadley Wickham’s babynames data package With the recent release of a UK equivalent from Thomas Leeper and an intriguing plot on tennis world ranked number ones, I have decided to play around with the data both old and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>Introduction Hello, and welcome to my new website. I will briefly lay out my MO in this post. The primary reason why I switched from my old academic website in favor of a more functional (modern?) version is one of pure convenience. Nowadays, I have been building interactive web applications, mainly Shiny apps and dashboards, for work and as a hobby. Consequently, I needed a central hub to host all the apps in one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In the media</title>
+      <link>/post/in-the-media/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/in-the-media/</guid>
+      <description>Pandemic Flu Risk New york times - The Next Flu Pandemic Will Appear When You Least Expect It Austin local&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>By Way of Introduction</title>
+      <link>/post/by-way-of-introduction/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/by-way-of-introduction/</guid>
+      <description>In this introductory post I want to lay out the reasons for the creation of this website, to discuss some content that I will be looking to create, and to set some goals for the site. First though, I should first introduce myself. I am a historian of early modern Europe. My research investigates merchant families and the social basis of trade, politics, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Monthly Report: May 2017</title>
+      <link>/post/monthly-report-may-2017/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/monthly-report-may-2017/</guid>
+      <description>This is my review of May 2017. I hope to make this a regular occurrence and I want to publish something at the end of each month. I’ve been putting this off for quite some time because it’s not where I want it to be but I’m just going ahead and doing it. You can call this the MVP. In the coming months, it will get better and I will add more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Theme Update</title>
+      <link>/post/theme-update/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/theme-update/</guid>
+      <description>Yow will have noticed a new look to the site, now based on the Hugo Icarus theme The major reason for introducing this is that the previous theme I used was unable to render certain htmlwidgets I wanted to use to illustrate my code. The code may also be a bit more legible For those of you interested in creating a similar styled blog, please refer to Yihui Xie &amp;amp; Amber Thomas’s detailed documentation and a useful blog post by Ed Borasky on setting up a similar-themed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RcppRoll package for swift moving averages</title>
+      <link>/post/rcpproll-package-for-swift-mov/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rcpproll-package-for-swift-mov/</guid>
+      <description>Bob Rudis always keeps his pulse on the best packages and recently bemoaned the fact that Kevin Ushey’s RcppRoll package which Provides Routines for the efficient computation of windowed mean, median,sum, product, minimum, maximum, standard deviation and variance are provided.has not had enough praise One reason is probably the lack of examples available - even in the vignette I have therefore done a swift illustration using just one of the functions,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multilabel Classification with mlr</title>
+      <link>/post/multilabel-classification-with/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/multilabel-classification-with/</guid>
+      <description>Multilabel classification has lately gained growing interest in the research community. We implemented several methods, which make use of the standardized mlr framework. Every available binary learner can be used for multilabel problem transformation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New mlr Logo</title>
+      <link>/post/new-mlr-logo/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-mlr-logo/</guid>
+      <description>We at mlr are currently deciding on a new logo, and in the spirit of open-source, we would like to involve the community in the voting process! You can vote for your favorite logo on GitHub by reacting to the logo with a +1. Thanks to Hannah Atkin for designing the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First release of mlrMBO - the toolbox for (Bayesian) Black-Box Optimization</title>
+      <link>/post/first-release-of-mlrmbo-the-to/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-release-of-mlrmbo-the-to/</guid>
+      <description>We are happy to finally announce the first release of mlrMBO on cran after a quite long development time. For the theoretical background and a nearly complete overview of mlrMBOs capabilities you can check our paper on mlrMBO that we presubmitted to arxiv. The key features of mlrMBO are: Global optimization of expensive Black-Box functions. Multi-Criteria Optimization. Parallelization through multi-point proposals. Support for optimization over categorical variables using random forests as a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Call Me Anytime</title>
+      <link>/post/call-me-anytime/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/call-me-anytime/</guid>
+      <description>It was two o’clock on a Tuesday afternoon and Abigail* was in the emergency room for the third time this month. I was able to step away from the day-to-day struggles of the general inpatient medicine floors to see her in the emergency department. I had promised to keep her out of the hospital, and I had failed again. As I entered the commotion of the emergency room, I scanned above each door looking for room 33, Abigail’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr 2.10</title>
+      <link>/post/mlr-210/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mlr-210/</guid>
+      <description>mlr 2.10 is now on CRAN. Please update your package if you haven’t done so in a while. Here is an overview of the changes: functions - general fixed bug in resample when using predict = “train” (issue #1284) update to irace 2.0 – there are algorithmic changes in irace that may affect performance generateFilterValuesData: fixed a bug wrt feature ordering imputeLearner: fixed a bug when data actually contained no NAs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr Workshop 2017</title>
+      <link>/post/mlr-workshop-2017/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mlr-workshop-2017/</guid>
+      <description>When and Where? In 2017, we are hosting the workshop at LMU Munich. The workshop will run from 6 March to 10 March 2017 (potentially including the sunday before and the saturday at the end), hosted by the Ludwig-Maximilians-University Munich. Important Dates: Address: Geschwister-Scholl-Platz 1, Room: M203. Start: 6th of March: 10:00 AM. It is also possible to arrive on Saturday or Sunday, as we already have the rooms and are able to work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Top batsmen in cricket</title>
+      <link>/post/top-batsmen-in-cricket/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/top-batsmen-in-cricket/</guid>
+      <description>In a previous post , I used data from Statsguru and looked at a brief history of cricket with respect to debut years and career spans of players. In this post, I use detailed player statistics from the same dataset to select top batsmen who have played this game. Distribution of matches played by all players Let’s take a look at the summary statistics of number of matches played by all players in each format of the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wikipedia Page Views</title>
+      <link>/post/wikipedia-page-views/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wikipedia-page-views/</guid>
+      <description>This is the first in a category of retreads where I look again at past work which could do with some loving care. This might be as they are broken, could do with some updating or be usefully enhanced One of my first shiny projects was using the wikipediatrend package to monitor daily page views on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Analysis</title>
+      <link>/post/exploratory-analysis/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploratory-analysis/</guid>
+      <description>Analyzing some Premier League dataI recently had some fan-mail! The author suggested I write a book on the “practical considerations when building shiny”. That’s not going to happen, but I thought I would go into an example (warts and all) of how I proceed from an idea to an output which might end up as a tweet, flexdashboard, blog post or just plain binned (and not in the histogram&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/post/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/example-talk/</guid>
+      <description>Embed your slides or video here using shortcodes . Further details can easily be added using Markdown and $\rm \LaTeX$ math&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducción a la neuroimagen computacional - Modelos de Conectividad Efectiva</title>
+      <link>/post/introducci%C3%B3n-a-la-neuroimagen-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introducci%C3%B3n-a-la-neuroimagen-/</guid>
+      <description>Charlando sobre la conectividad cerebral estudiada con fMRI en el @INPRFM . Básicamente, mi conclusión y la de @fMRIstats es que la conectividad es un concepto estadístico y como tal, la potencia, los supuestos y las estimaciones de interés son más importantes que la etiqueta. pic.twitter.com/U8cPxThzd3 - Said Jiménez (@said_meid) 13 de diciembre de&amp;hellip;</description>
     </item>
     
   </channel>

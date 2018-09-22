@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmageddonnetlifycom on rscribers</title>
+    <link>/tags/rmageddonnetlifycom/</link>
+    <description>Recent content in Rmageddonnetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rmageddonnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing an R package from scratch</title>
+      <link>/post/writing-an-r-package-from-scra/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-an-r-package-from-scra/</guid>
+      <description>Anyone who has created their own R package has probably come across Hilary Parker’s awesome blogpost, that walks you through creating your very first R package. The comprehensive detail on everything R packages can be found in Hadley Wickham’s superb book. In this post I am going to walk through some of the developments in the package development space since Hilary wrote her blog four years ago, in particular focussing on the relatively recent usethis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reanimating the Datasaurus</title>
+      <link>/post/reanimating-the-datasaurus/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reanimating-the-datasaurus/</guid>
+      <description>Whilst browsing twitter last night I came upon this tweet by the currrent author of gganimate: I&amp;rsquo;ve started a gganimate wiki page in order to collect examples. If you want to showcase your animations and help others learn in the process, consider submitting an issue as described on the main page #rstats https://t.co/VrT5IV2izr — Thomas Lin Pedersen (@thomasp85) August 16, 2018 Now I’ve been experimenting a lot with creating animations with R, and I absolutely love using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Burger King Pandemic</title>
+      <link>/post/the-burger-king-pandemic/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-burger-king-pandemic/</guid>
+      <description>Whilst I was rooting around for inspiration, my girlfriend suggested I should do a post about food, quickly followed up by “burgers!!!”. So a few google searches later and I decided to create an animated map, showing all the countries of the world that had at least one Burger King store. I’m particularly chuffed that I’ve managed to combine a multitude of really cool packages in this post. We’ve&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UK Population Pyramid</title>
+      <link>/post/uk-population-pyramid/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/uk-population-pyramid/</guid>
+      <description>On my journey to creating my animated Premier League table in my previous post, I noticed a lot of examples for creating gifs using the magick package. The gist behind the majority of these examples was to create a sequence of snapshots which could be combined together to create animations. Whilst not quite as seamless as gganimate, it appears to be much more versatile. So I thought I would try and make&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interactive Premier League Table</title>
+      <link>/post/interactive-premier-league-tab/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interactive-premier-league-tab/</guid>
+      <description>For my inaugural blog post I decided I would step into the world of animated graphics for the first time. I was inspired by the presentation that Thomas Lin Pedersen gave at the useR! conference on gganimate and was motivated to create my very first gif. I rooted around for ideas and decided upon creating an animated table of the Premier League for the last season, with the clubs being depicted by their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/post/about-me/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/about-me/</guid>
+      <description>I&amp;rsquo;m a data scientist for the UK Government. I enjoy football, reading, video games, and anything R related. I began this blog in 2018 to share some of the awesome things I have picked up over the years using R. Thanks for&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

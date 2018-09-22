@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomasmocknetlifycom on rscribers</title>
+    <link>/tags/thomasmocknetlifycom/</link>
+    <description>Recent content in Thomasmocknetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/thomasmocknetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TidyTuesday - A weekly social data project in R</title>
+      <link>/post/tidytuesday-a-weekly-social-da/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidytuesday-a-weekly-social-da/</guid>
+      <description>Over the past month or so, the r4ds online learning community founded by Jesse Maegan has been developing projects intended to help connect mentors and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Functional programming in R with Purrr</title>
+      <link>/post/functional-programming-in-r-wi/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/functional-programming-in-r-wi/</guid>
+      <description>When you first started in R you likely were writing simple code to generate one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A gentle guide to Tidy statistics in R</title>
+      <link>/post/a-gentle-guide-to-tidy-statist/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-gentle-guide-to-tidy-statist/</guid>
+      <description>While data analysis in R can seem intimidating, we will explore how to use it effectively and clearly! Introduction After a great discussion started by Jesse Maegan ( @kiersi ) on Twitter, I decided to post a workthrough of some (fake) experimental treatment data. These data correspond to a new (fake) research drug called AD-x37, a theoretical drug that has been shown to have beneficial outcomes on cognitive decline in mouse models of Alzheimer’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn - EDA</title>
+      <link>/post/customer-churn-eda/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/customer-churn-eda/</guid>
+      <description>Executive Summary Tenure is the biggest driver of churn, where ~42% of customer churn occurs during the first 6 months and 71.1% occurs within the first 12 months. Interestingly, 99.5% of the customer churn in the first 6 months and 98.9% in the first 12 months are customers on a month-to-month&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

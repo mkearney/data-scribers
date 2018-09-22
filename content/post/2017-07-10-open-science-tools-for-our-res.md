@@ -4,12 +4,11 @@ author: 'emil.tbjerglund.dk'
 date: '2017-07-10'
 slug: open-science-tools-for-our-res
 categories:
-  - rstats
-  - python
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - emiltbjerglunddk
 ---
 
-[Currently in the Organic Surface Chemistry group , there are large variations between our group members when it comes to the tools used for data analysis. Some people feel most comfortable in spreadsheet programs such as Origin or Excel, while others rely on a mix of Matlab, R, Python or other tools. We use a lot of different experimental techniques in our research, and therefore generate data in a lot of different...<click to read more>](https://emil.tbjerglund.dk/post/open-science-tools-for-our-research-group/)
+[I have been considering how to apply this thinking to our research. I am confident that it could be made more efficient and well-documented if R was adopted as a general tool for data analysis. If you recieve a spreadsheet from someone, containing some data analysis it can be very hard to decipher the thinking of the original author (and to be honest, analysis done by yourself 6 monts ago might as well have been done by a complete...<click to read more>](https://emil.tbjerglund.dk/post/open-science-tools-for-our-research-group/)
 

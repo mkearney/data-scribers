@@ -4,8 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-05-24'
 slug: a-little-function-to-help-gene
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---

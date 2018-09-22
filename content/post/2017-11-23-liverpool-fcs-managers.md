@@ -4,7 +4,7 @@ author: 'ryanestrellado.netlify.com'
 date: '2017-11-23'
 slug: liverpool-fcs-managers
 categories:
-  - 
+  - bloglink
 tags:
   - ryanestrelladonetlifycom
 ---

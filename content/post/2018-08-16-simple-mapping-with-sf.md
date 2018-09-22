@@ -4,8 +4,9 @@ author: 'roelandtn.frama.io'
 date: '2018-08-16'
 slug: simple-mapping-with-sf
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - roelandtnframaio
 ---
 

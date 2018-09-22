@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2018-02-21'
 slug: i-have-to-randomize-by-cluster
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[The answer is probably no, because there is a not-so-low chance (perhaps considerably higher than 5%) you will draw the wrong conclusions from the study. I have heard variations on this question not so infrequently, so I thought it would be useful (of course) to do a few quick simulations to see what happens when we try to conduct a study under these...<click to read more>](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
+[Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than...<click to read more>](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
 

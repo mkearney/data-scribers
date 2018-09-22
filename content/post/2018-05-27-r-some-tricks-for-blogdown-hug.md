@@ -1,10 +1,10 @@
 ---
-title: "[R] Some Tricks for Blogdown & Hugo (Working Draft)"
+title: "(R) Some Tricks for Blogdown & Hugo (Working Draft)"
 author: 'ellocke.github.io'
 date: '2018-05-27'
 slug: r-some-tricks-for-blogdown-hug
 categories:
-  - 
+  - bloglink
 tags:
   - ellockegithubio
 ---

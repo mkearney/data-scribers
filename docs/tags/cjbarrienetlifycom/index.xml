@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cjbarrienetlifycom on rscribers</title>
+    <link>/tags/cjbarrienetlifycom/</link>
+    <description>Recent content in Cjbarrienetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cjbarrienetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Younger electorates vote independent in Tunisian Municipal Elections</title>
+      <link>/post/younger-electorates-vote-indep/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/younger-electorates-vote-indep/</guid>
+      <description>Municipalities with a greater number of younger registered voters saw a higher vote share for independent lists. Similarly, younger electorates were less likely to vote for established parties. The first local elections to be held in post-revolution Tunisia were particularly notable for the success of independent lists. In all, independent lists managed to win some 32% of the overall vote, beating into second and third place established political forces such as Ennahdha and Nidaa&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Youth and competition boost turnout in Tunisian Municipal Elections</title>
+      <link>/post/youth-and-competition-boost-tu/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/youth-and-competition-boost-tu/</guid>
+      <description>Municipalities with a greater number of younger registered voters experienced higher turnout. Municipalities with more candidates proportional to the size of the electorate witnessed substantially increased turnout. On May 6, Tunisia held its first municipal elections since the 2011 Revolution. While the country has now witnessed two rounds of free and fair national elections, municipal elections have been subject to multiple&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Tunisian Revolution</title>
+      <link>/post/mapping-the-tunisian-revolutio/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mapping-the-tunisian-revolutio/</guid>
+      <description>R provides a growing number of mapping packages. In this post I document my workflow for producing a map of the diffusion of protest during the Tunisian Revolution. The following packages will be required for anyone who has similar mapping requirements and wishes to follow the same steps: But that was in January and I hadn’t yet been introduced to the potential of R for mapping tasks. The map serves a purpose but there are problems with&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

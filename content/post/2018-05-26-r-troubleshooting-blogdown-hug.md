@@ -1,10 +1,10 @@
 ---
-title: "[R] Troubleshooting Blogdown & Hugo for (Windows) Dummies"
+title: "(R) Troubleshooting Blogdown & Hugo for (Windows) Dummies"
 author: 'ellocke.github.io'
 date: '2018-05-26'
 slug: r-troubleshooting-blogdown-hug
 categories:
-  - 
+  - bloglink
 tags:
   - ellockegithubio
 ---

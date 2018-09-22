@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2017-12-04'
 slug: when-you-use-inverse-probabili
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 
-[Towards the end of Part 1 of this short series on confounding, IPW, and (hopefully) marginal structural models, I talked a little bit about the fact that inverse probability weighting (IPW) can provide unbiased estimates of marginal causal effects in the context of confounding just as more traditional regression models like OLS can. I used an example based on a normally distributed...<click to read more>](https://www.rdatagen.net/post/inverse-probability-weighting-when-the-outcome-is-binary/)
+[Because binary outcomes are less amenable to visual illustration, I am going to stick with model estimation to see how this plays out: We can look directly at the potential outcomes to see the true causal effect, measured as a log odds ratio (LOR): In the linear regression context, the conditional effect measured using observed data from the exposed and unexposed subgroups was in fact a good estimate of the marginal effect in the...<click to read more>](https://www.rdatagen.net/post/inverse-probability-weighting-when-the-outcome-is-binary/)
 

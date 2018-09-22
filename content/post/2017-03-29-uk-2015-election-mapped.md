@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-03-29'
 slug: uk-2015-election-mapped
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

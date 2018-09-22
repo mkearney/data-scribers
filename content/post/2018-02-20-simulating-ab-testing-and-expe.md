@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2018-02-20'
 slug: simulating-ab-testing-and-expe
 categories:
-  - 
+  - bloglink
 tags:
   - jessetw
 ---

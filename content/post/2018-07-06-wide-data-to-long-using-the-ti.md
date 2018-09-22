@@ -4,9 +4,9 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-07-06'
 slug: wide-data-to-long-using-the-ti
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - evangelinereynoldsnetlifycom
 ---
 

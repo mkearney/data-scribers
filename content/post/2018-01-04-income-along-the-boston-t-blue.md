@@ -1,10 +1,10 @@
 ---
-title: "Income Along the Boston T [Blue Line]"
+title: "Income Along the Boston T (Blue Line)"
 author: 'translatedmedicine.com'
 date: '2018-01-04'
 slug: income-along-the-boston-t-blue
 categories:
-  - 
+  - bloglink
 tags:
   - translatedmedicinecom
 ---

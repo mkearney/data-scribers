@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-10-10'
 slug: searching-stack-overflow
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

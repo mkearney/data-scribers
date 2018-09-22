@@ -4,11 +4,11 @@ author: 'wenlong-liu.github.io'
 date: '2018-09-11'
 slug: generate-animated-tracking-map
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - wenlongliugithubio
 ---
 
-[As of now, Sep. 11th, 2018, Hurricane Florence (Category 4) is approaching to eastern coastal areas of United States. There are many ways to track the path of hurricanes (or typhoons) to conduct further analysis, such as flash flooding, ocean surge and property damages. In this blog, the author tries to plot the tracking of hurricanes, using both stastic and animated maps, with the help of R and related packages. Specifically, this blog is a reproducible...<click to read more>](https://wenlong-liu.github.io/post/generate-animated-tracking-maps-for-hurricanes-and-typhoons/)
+[Further data cleaning is needed to reformat the datetime and rename a column. We can also save the animation into gif files, instead of embedding the animation. R and related packages are able to conveniently draw both static and animated maps for tracking hurricanes or typhoons. Further analysis, such as real-time tracking of hurricanes, will be conducted in the...<click to read more>](https://wenlong-liu.github.io/post/generate-animated-tracking-maps-for-hurricanes-and-typhoons/)
 

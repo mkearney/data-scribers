@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2018-09-11'
 slug: binary-beta-betabinomial
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 
-[I’ve been working on updates for the simstudy package. In the past few weeks, a couple of folks independently reached out to me about generating correlated binary data. One user was not impressed by the copula algorithm that is already implemented. I’ve added an option to use an algorithm developed by Emrich and Piedmonte in 1991, and will be incorporating that option soon in the functions genCorGen and...<click to read more>](https://www.rdatagen.net/post/binary-beta-beta-binomial/)
+[A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling error. With individual level binary outcomes (as opposed to count data we were working with before), GEE models are...<click to read more>](https://www.rdatagen.net/post/binary-beta-beta-binomial/)
 

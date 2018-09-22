@@ -4,9 +4,10 @@ author: 'www.njtierney.com'
 date: '2017-01-11'
 slug: magic-reprex
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - njtierneycom
 ---
 

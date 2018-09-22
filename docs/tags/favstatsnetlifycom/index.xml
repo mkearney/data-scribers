@@ -6,19 +6,10 @@
     <description>Recent content in Favstatsnetlifycom on rscribers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/favstatsnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Visualzing Results of German Elections (2013 and 2017)</title>
-      <link>/post/visualzing-results-of-german-e/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/visualzing-results-of-german-e/</guid>
-      <description>Data Sources: https://www.govdata.de/web/guest/apps/-/details/bundestagswahl-2017 https://www.bundeswahlleiter.de/bundestagswahlen/2017/strukturdaten.html Settings, Packages and&amp;hellip;</description>
-    </item>
     
     <item>
       <title>Visualizing Temperature Rise in Stuttgart, Germany over Time</title>
@@ -26,7 +17,7 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-temperature-rise-i/</guid>
-      <description>This is a quick use-case of gganimate to visualize the rise of average temperature in my home town, Stuttgart, Germany. Get&amp;hellip;</description>
+      <description>This is a quick use-case of gganimate to visualize the rise of average temperature in my home town, Stuttgart, Germany. The German Weather Service (DWD) provides climate data for more than 70 observation stations from the measurement network in Germany. The stations provide scheduled, daily and monthly readings of temperatures, rainfall, sunshine duration, wind speed, humidity, barometric pressure and cloud cover, which are updated&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +26,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-does-collinearity-influenc/</guid>
-      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Overview: Packages Simulation Function Simulate and Save Data Visualizing the Influence of Collinearity Standard Errors T-Statistic and P-Values B-Coefficients Animation Standardized Packages Load the necessary&amp;hellip;</description>
+      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it. Now, consider the following linear regression: y ~ x1 +&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +35,7 @@
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-tweets-of-the-ecpr-g/</guid>
-      <description>This is a short notebook outlining the code used to scrape tweets related to the ECPR Conference 2018 in Hamburg. Packages Load the necessary&amp;hellip;</description>
+      <description>This is a short notebook outlining the code used to scrape tweets related to the ECPR Conference 2018 in Hamburg. Load the necessary packages Lets first look at the data structure and column names. Twitter returns over 1,200 unique tweets. The top ten retweeted tweets. What was the best time to&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +44,7 @@
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mapping-terror-attacks-with-hi/</guid>
-      <description>A few days ago someone asked me whether I could visualize the terror attacks of recent years in Europe. Here is an attempt to do exactly this. The code for this blogpost can be found in this GitHub Repository . Getting Started First I need data about terror attacks. For this I downloaded the Global Terrorism Database . Now in Rstudio, I load in the needed&amp;hellip;</description>
+      <description>A few days ago someone asked me whether I could visualize the terror attacks of recent years in Europe. Here is an attempt to do exactly this. Now in Rstudio, I load in the needed packages: The&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,16 +53,7 @@
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mapping-your-2017-geolocations/</guid>
-      <description>A few days ago I stumbled upon an instagram user who created a cool map of his geolocations. You can get his code here . I had to reproduce these cool maps myself and why not also make a blogpost while doing so? The code for this blogpost can be found in this GitHub Repository . Getting Started First I need my geolocation data. If you use Google and own an Android cell phone, you can download yours here .</description>
-    </item>
-    
-    <item>
-      <title>What do Arab Muslims think about ISIS (Daesh)?</title>
-      <link>/post/what-do-arab-muslims-think-abo/</link>
-      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/what-do-arab-muslims-think-abo/</guid>
-      <description>Welcome to my very first blogpost . Here I want to dive a little bit into how Arab Muslims see Daesh ( a term for ISIS often used by Arab speakers ). The data I will be using is from the Arab Barometer Wave 4 , released just a few weeks ago. I will also be using the Arab Barometer in the future because it has a lot of interesting questions asked, including a small sample size of Syrian&amp;hellip;</description>
+      <description>Now in Rstudio, I load in the needed packages: We could also zoom out and get a map from all of Germany If we wanted to save the map on our computer, we could use the following&amp;hellip;</description>
     </item>
     
   </channel>

@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-01-19'
 slug: stancon-highlights
 categories:
-  - 
+  - bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

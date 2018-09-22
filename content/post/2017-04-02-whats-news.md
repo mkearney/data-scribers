@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-04-02'
 slug: whats-news
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - mytinyshinyscom
 ---
 

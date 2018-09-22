@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-02-03'
 slug: boston-limited-english-profici
 categories:
-  - 
+  - bloglink
 tags:
   - translatedmedicinecom
 ---

@@ -17,7 +17,16 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/data-science-in-mental-health/</guid>
-      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media&amp;hellip;</description>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Record linkage</title>
+      <link>/post/record-linkage/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/record-linkage/</guid>
+      <description>I recently encountered a problem that had a surprisingly elegant solution. I struggled a lot with solving this issue, so hopefully in writing this post I can save someone else the trouble! For reasons that are irrelevant, I wanted to track the performance of youth fencers across time. National ranking lists are posted each year, but the fencers’ names frequently change from year to&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +35,16 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/article-round-up-june-2018/</guid>
-      <description>This is my second article round up. The first is over at my old blog here . In this post, I’ll briefly cover two Atlantic articles related to economic inequality and the differing economic expectations of democrats and&amp;hellip;</description>
+      <description>The first article is quite long, but easily skim-able. It focuses on not the super wealthy but the elite professionals that make up the upper class and the pernicious ways that group has convinced itself that membership is meritocratic when in reality parental wealth is inherited to a high&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Genetics of Magic</title>
+      <link>/post/the-genetics-of-magic/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-genetics-of-magic/</guid>
+      <description>Last spring, I took a class on Bayesian statistics at the University of Chicago that had several exercises focused on building a model to classify species based on their genome. The basic setup was that you were given a data set of salmon, their genome sequencing data, and which sub-population they belonged to. From this data, we needed to build a model to classify new salmon into the&amp;hellip;</description>
     </item>
     
   </channel>

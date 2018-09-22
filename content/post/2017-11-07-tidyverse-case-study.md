@@ -4,11 +4,11 @@ author: 'www.njtierney.com'
 date: '2017-11-07'
 slug: tidyverse-case-study
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - njtierneycom
 ---
 
-[Data packages are something that have been on my mind a bit lately , having recently worked on the ozroaddeaths data access package at the rOpenSci...<click to read more>](https://www.njtierney.com/post/2017/11/07/tidyverse-billboard/)
+[... data sets regarding songs on the Billboard Hot 100 list from 1960 to 2016, including ranks for the given year, musical features, and lyrics. So, this blogpost walks through how you might start to unpack the data, clean it, and draw some interesting conclusions. I also wanted to avoid the "draw the rest of the fucking owl" problem. This means that we don't start with a perfectly clean dataset, and I try to take a bit of time to walk through some of the...<click to read more>](https://www.njtierney.com/post/2017/11/07/tidyverse-billboard/)
 

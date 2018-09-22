@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2018-01-25'
 slug: problematic-data-source-and-va
 categories:
-  - 
+  - bloglink
 tags:
   - roelandtnframaio
 ---

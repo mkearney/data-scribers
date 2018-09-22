@@ -4,12 +4,13 @@ author: 'www.jessemaegan.com'
 date: '2018-04-01'
 slug: ymmv-nonprofit-data-science
 categories:
+  - bloglink
+tags:
   - python
   - machine-learning
-  - linear-model
-tags:
+  - modeling
   - jessemaegancom
 ---
 
-[(YMMV = your mileage may vary) Introduction Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: want to build data science experience? reach out to a local non-profit you&#39;re interested in, and ask them if you can volunteer with data collection, cleaning, and basic analysis and reporting. you get experience, the NPO gets a product they desperately need, and everyone wins. - Jesse Mostipak (@kierisi) March 30,...<click to read more>](https://www.jessemaegan.com/post/ymmv-non-profit-data-science/)
+[Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization...<click to read more>](https://www.jessemaegan.com/post/ymmv-non-profit-data-science/)
 

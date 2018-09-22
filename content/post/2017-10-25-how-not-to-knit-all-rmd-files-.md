@@ -4,11 +4,10 @@ author: 'yutani.rbind.io'
 date: '2017-10-25'
 slug: how-not-to-knit-all-rmd-files-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - yutanirbindio
 ---
 
-[Blogdown is a cool package. But, if I complain about one thing, it will be the default behaviour of build_site() , which every blogdownners should execute everytime they wants to publish a new article. As stated in the documentation, build_site() will Compile all Rmd files and build the site through Hugo. ( ?build_site ) Compiling all Rmd files is "safe" in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some...<click to read more>](https://yutani.rbind.io/post/2017-10-25-blogdown-custom/)
+[Compiling all Rmd files is "safe" in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some package. But, it may be time-consuming and can be a problem for those who have a lot of .Rmd files. (I guess this script is incomplete to handle htmlwidgets correctly. I will improve this someday...) If we leave the protection of blogdown, we have to face with the complexity of paths by...<click to read more>](https://yutani.rbind.io/post/2017-10-25-blogdown-custom/)
 

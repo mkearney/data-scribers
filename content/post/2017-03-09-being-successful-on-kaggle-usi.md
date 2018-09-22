@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-09'
 slug: being-successful-on-kaggle-usi
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mlrblognetlifycom
 ---
 

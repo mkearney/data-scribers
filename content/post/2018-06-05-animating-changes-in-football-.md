@@ -4,10 +4,10 @@ author: 'guyabel.com'
 date: '2018-06-05'
 slug: animating-changes-in-football-
 categories:
-  - rstats
+  - bloglink
 tags:
   - guyabelcom
 ---
 
-[Background I’m loving the magick package at the moment. Reading through the vignette I spotted the image_morph()...<click to read more>](https://guyabel.com/post/football-kits/)
+[This bit of code can take a while to execute if the are many frames (see my comments towards the end of the post). I could then run the same code as above to scrape the images, annotate the year and copyright information and build the...<click to read more>](https://guyabel.com/post/football-kits/)
 

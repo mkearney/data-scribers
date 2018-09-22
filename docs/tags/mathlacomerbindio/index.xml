@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathlacomerbindio on rscribers</title>
+    <link>/tags/mathlacomerbindio/</link>
+    <description>Recent content in Mathlacomerbindio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readiness or Between-player normalisation</title>
+      <link>/post/readiness-or-betweenplayer-nor/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/readiness-or-betweenplayer-nor/</guid>
+      <description>We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database. Now we can see how my database is done. It is a rectangular base with 1 column for position group, one for the drill category, one for the date, the Player name or Id and my GPS variables - I chose only the distance covered above the maximal aerobic velocity and mechanical&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>I’m Mathieu Lacome, a sports scientist working in elite football with over 10 years of experience in team-sport. A part of my job is to think about how we can improve the way we are collecting data, what we can do with it and how to report findings to the coaching staff or players. We then store these data in databases that can be as simple as excel sheet to more complex and powerful databases such as&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

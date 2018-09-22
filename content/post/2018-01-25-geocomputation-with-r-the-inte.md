@@ -4,11 +4,11 @@ author: 'nowosad.github.io'
 date: '2018-01-25'
 slug: geocomputation-with-r-the-inte
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - nowosadgithubio
 ---
 
-[Hello everybody! A lot of things have changed since the last blogpost about Geocomputation with R . In this post I’ll give an update of our progress and our plans for the next chapters. Third author Probably the most important change is having a third author - Jannes Muenchow . He is a GIScientist based at the University of Jena with a keen interest in spatial and geostatistical modeling, algorithm automation and...<click to read more>](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
+[Both chapters apply command-line based geocomputation introduced in chapters 1-6 to the real world, and answer relevant questions in a reproducible manner with the help of open data and...<click to read more>](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
 

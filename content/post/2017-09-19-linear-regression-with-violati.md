@@ -4,9 +4,10 @@ author: 'www.jamesuanhoro.com'
 date: '2017-09-19'
 slug: linear-regression-with-violati
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - jamesuanhorocom
 ---
 

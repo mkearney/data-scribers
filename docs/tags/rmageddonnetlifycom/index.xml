@@ -56,14 +56,5 @@
       <description>For my inaugural blog post I decided I would step into the world of animated graphics for the first time. I was inspired by the presentation that Thomas Lin Pedersen gave at the useR! conference on gganimate and was motivated to create my very first gif. I rooted around for ideas and decided upon creating an animated table of the Premier League for the last season, with the clubs being depicted by their&amp;hellip;</description>
     </item>
     
-    <item>
-      <title>About Me</title>
-      <link>/post/about-me/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/about-me/</guid>
-      <description>I&amp;rsquo;m a data scientist for the UK Government. I enjoy football, reading, video games, and anything R related. I began this blog in 2018 to share some of the awesome things I have picked up over the years using R. Thanks for&amp;hellip;</description>
-    </item>
-    
   </channel>
 </rss>

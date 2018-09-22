@@ -4,10 +4,10 @@ author: 'www.noahlandesberg.com'
 date: '2018-01-10'
 slug: 8-analytics-books-i-read-in-20
 categories:
-  - rstats
+  - bloglink
 tags:
   - noahlandesbergcom
 ---
 
-[This year I made a concerted effort to read more books related to my interests in analytics, math, and data science. I had the pleasure of reading most of these books with a group of people at work, and we met on a regular basis to discuss and...<click to read more>](https://noahlandesberg.com/post/8-analytics-books-i-read-in-2017/)
+[This year I made a concerted effort to read more books related to my interests in analytics, math, and data science. I had the pleasure of reading most of these books with a group of people at work, and we met on a regular basis to discuss and gab. These books are casual, and not meant to be as strictly educational (or tedious) as reading a textbook. Without further ado... here are 8 analytics books I read this year: Dataclysm explores the data underlying human connections and...<click to read more>](https://noahlandesberg.com/post/8-analytics-books-i-read-in-2017/)
 

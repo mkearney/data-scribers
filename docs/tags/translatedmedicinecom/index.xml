@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>The Digital Divide in the U.S.</title>
+      <link>/post/the-digital-divide-in-the-us/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-digital-divide-in-the-us/</guid>
+      <description>With the release of the American Community Survey, there was an opportunity to take a look at the digital divide in 2016. I was inspired to make a tilegram map similar to those create by NPR. I used the tilegramsR package by Bhaskar Karambelkar. First, here are the packages for the&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Crimes in Somerville (Time Series)</title>
       <link>/post/crimes-in-somerville-time-seri/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
@@ -48,7 +57,7 @@
     </item>
     
     <item>
-      <title>Income Along the Boston T [Blue Line]</title>
+      <title>Income Along the Boston T (Blue Line)</title>
       <link>/post/income-along-the-boston-t-blue/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -57,7 +66,7 @@
     </item>
     
     <item>
-      <title>Income Along the Boston T [Green Line]</title>
+      <title>Income Along the Boston T (Green Line)</title>
       <link>/post/income-along-the-boston-t-gree/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -66,16 +75,16 @@
     </item>
     
     <item>
-      <title>Income Along the Boston T [Red Line]</title>
+      <title>Income Along the Boston T (Red Line)</title>
       <link>/post/income-along-the-boston-t-red-/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/income-along-the-boston-t-red-/</guid>
-      <description>In the first part of this series, I went through my approach for creating a New Yorker inspired visualization of income along The Orange Line on the Boston T. For this post, we take a look at the The Red Line. Below you will see median household income along both lines of the Boston Red&amp;hellip;</description>
+      <description>In the first part of this series, I went through my approach for creating a New Yorker inspired visualization of income along The Orange Line on the Boston T. For this post, we take a look at the The Red Line. Below you will see median household income along both lines of the Boston Red Line. Ashmont/Mattapan Red Line ,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Median Household Income Along the Red Line&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Income Along the Boston T [Orange Line]</title>
+      <title>Income Along the Boston T (Orange Line)</title>
       <link>/post/income-along-the-boston-t-oran/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
       

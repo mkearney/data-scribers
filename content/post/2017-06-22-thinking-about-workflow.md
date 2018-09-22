@@ -1,11 +1,12 @@
 ---
 title: "Thinking about Workflow"
-author: 'jessesadler.com'
+author: 'www.jessesadler.com'
 date: '2017-06-22'
 slug: thinking-about-workflow
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - jessesadlercom
 ---
 

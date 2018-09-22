@@ -4,12 +4,11 @@ author: 'mgb-research.netlify.com'
 date: '2018-05-21'
 slug: gaussian-process-imputationfor
 categories:
-  - rstats
-  - python
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - mgbresearchnetlifycom
 ---
 
-[A well-established set of problems emerges when attempting to analyze non-stationary univariate time series (i.e., the signal’s mean and/or variance changes over time). A common approach is to impose some stationarity on the data so that certain modeling techniques can provide allow a research to make some predictions (e.g., ARIMA...<click to read more>](https://mgb-research.netlify.com/post/gaussian-process-imputation-models/)
+[As a toy problem, I am going to focus on the application of a Gaussian process model to forecasting future monthly passengers. This is not the only way one could try to solve this prediction problem. I offer it as a means of understanding the potential power that exists in using these sorts of models for prediction and imputation problems involving univariate time series data. First, the data need a bit of prepping to be fed into a Stan program. With the data prepped, I will run the first of two...<click to read more>](https://mgb-research.netlify.com/post/gaussian-process-imputation-models/)
 

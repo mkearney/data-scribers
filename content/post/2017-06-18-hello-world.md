@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-06-18'
 slug: hello-world
 categories:
-  - 
+  - bloglink
 tags:
   - gokhancifliklicom
 ---

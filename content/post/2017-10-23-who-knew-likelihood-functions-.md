@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2017-10-23'
 slug: who-knew-likelihood-functions-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 
-[I just released a new iteration of simstudy (version 0.1.6), which fixes a bug or two and adds several spline related routines (available on CRAN ). The previous post focused on using spline curves to generate data, so I won’t repeat myself here. And, apropos of nothing really - I thought I’d take the opportunity to do a simple simulation to briefly explore the likelihood...<click to read more>](https://www.rdatagen.net/post/mle-can-be-pretty/)
+[We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”...<click to read more>](https://www.rdatagen.net/post/mle-can-be-pretty/)
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernestoramirezcom on rscribers</title>
+    <link>/tags/ernestoramirezcom/</link>
+    <description>Recent content in Ernestoramirezcom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ernestoramirezcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Examining Variability in Physical Activity Data with R</title>
+      <link>/post/examining-variability-in-physi/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/examining-variability-in-physi/</guid>
+      <description>Earlier this summer, while I was traveling to a conference I came across an interesting paper published by a group from the University of South Florida that explored strategies for interpreting highly variable data from long-term use of a Fitbit. I’ll let them explain: It’s an interesting paper, with some general, easy-to-use, methods of visualizing daily-scale time series data. While reading it, I got to thinking that all of the methods they explored should be able to be easily reproducible in&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

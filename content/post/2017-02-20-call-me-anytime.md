@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2017-02-20'
 slug: call-me-anytime
 categories:
-  - 
+  - bloglink
 tags:
   - translatedmedicinecom
 ---

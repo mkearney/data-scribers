@@ -4,9 +4,10 @@ author: 'www.jamesuanhoro.com'
 date: '2017-09-21'
 slug: littles-mcar-test-at-different
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - jamesuanhorocom
 ---
 

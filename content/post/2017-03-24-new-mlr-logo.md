@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-24'
 slug: new-mlr-logo
 categories:
-  - 
+  - bloglink
 tags:
   - mlrblognetlifycom
 ---

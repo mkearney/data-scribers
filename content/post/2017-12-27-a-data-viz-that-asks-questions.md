@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-27'
 slug: a-data-viz-that-asks-questions
 categories:
-  - 
+  - bloglink
 tags:
   - jessetw
 ---

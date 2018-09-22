@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2017-05-10'
 slug: everyone-knows-that-loops-in-r
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - rdatagennet
 ---
 
-[It goes without saying that there are always many ways to solve a problem in R, but clearly some ways are better (for example, faster) than others. Recently, I found myself in a situation where I could not find a way to avoid using a loop, and I was immediately concerned, knowing that I would want this code to be flexible enough to run with a very large number of observations, possibly over many observations. Two tools immediately came to mind: data.table and...<click to read more>](https://www.rdatagen.net/post/first-blog-entry/)
+[Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly faster. And here is a more complete comparison of the fastest version with this additional...<click to read more>](https://www.rdatagen.net/post/first-blog-entry/)
 

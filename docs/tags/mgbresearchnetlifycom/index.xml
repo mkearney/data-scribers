@@ -17,7 +17,7 @@
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-multilevel-model-with/</guid>
-      <description>Overview: This is the second post in a three-part blog series I am putting together. If you have not read the first post in this series, you may want to go back and check it&amp;hellip;</description>
+      <description>Having satisfied myself that there are no lingering convergence issues I can create some initial plots. First, I need to re-structure the data to make it a bit easier to plot. Okay now we can plot the results. The good news is that the imputed values largely follow the same distribution as the original values. Having assessed convergence and now the actual imputation results, I feel pretty good about the&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/rmarkdown-is-the-most-powerful/</guid>
-      <description>You worked hard to collect, clean, and process your data. Now your dataset is finally ready for that final step. That put a bow on it and send it to all your colleagues phase. You are at that moment when you release a deep sigh of relief at the end of the hard (sometimes underappreciated) work of data wrangling. Now you have to make something that communicates all that you have done.</description>
+      <description>Or… You could create a manual that is complete, easy to you use, readily tweakable, completely reproducible, and 100% shareable. Having made a couple of manuals in my time as a former camp director and current Ph.D. candidate, I appreciate well-put-together informational resources that I can consult to quickly find the answer I&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-multilevel-model-with/</guid>
-      <description>Overview: This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data. The second post in the series will focus on running and evaluating the imputation model itself after having identified the appropriate covariates that help account for&amp;hellip;</description>
+      <description>This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data. The second post in the series will focus on running and evaluating the imputation model itself after having identified the appropriate covariates that help account for&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/power-analyses-for-an-uncondit/</guid>
-      <description>Recently, I was asked to knock together a quick power analysis for a linear growth model with approximately 120&amp;hellip;</description>
+      <description>We collected measures of these variables at three time points, approximately evenly spaced apart, and, for the purposes of these analyses, I decided to treat the data as if they were collected at precisely the same equally spaced interval for all participants. Though this is not technically true, it is sufficiently true for the purposes of these&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gaussian-process-imputationfor/</guid>
-      <description>A well-established set of problems emerges when attempting to analyze non-stationary univariate time series (i.e., the signal’s mean and/or variance changes over time). A common approach is to impose some stationarity on the data so that certain modeling techniques can provide allow a research to make some predictions (e.g., ARIMA&amp;hellip;</description>
+      <description>As a toy problem, I am going to focus on the application of a Gaussian process model to forecasting future monthly passengers. This is not the only way one could try to solve this prediction problem. I offer it as a means of understanding the potential power that exists in using these sorts of models for prediction and imputation problems involving univariate time series data. First, the data need a bit of prepping to be fed into a Stan program.</description>
     </item>
     
   </channel>

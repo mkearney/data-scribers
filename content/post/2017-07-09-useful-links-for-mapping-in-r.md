@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-09'
 slug: useful-links-for-mapping-in-r
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

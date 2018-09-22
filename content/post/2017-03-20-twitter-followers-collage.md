@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-03-20'
 slug: twitter-followers-collage
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

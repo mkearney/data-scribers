@@ -1,10 +1,10 @@
 ---
-title: "Income Along the Boston T [Green Line]"
+title: "Income Along the Boston T (Green Line)"
 author: 'translatedmedicine.com'
 date: '2018-01-02'
 slug: income-along-the-boston-t-gree
 categories:
-  - 
+  - bloglink
 tags:
   - translatedmedicinecom
 ---

@@ -4,8 +4,9 @@ author: 'www.jennadallen.com'
 date: '2018-02-17'
 slug: football-fans
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - jennadallencom
 ---
 

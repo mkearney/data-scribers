@@ -4,8 +4,9 @@ author: 'www.jamesuanhoro.com'
 date: '2018-02-12'
 slug: using-binary-regression-softwa
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - jamesuanhorocom
 ---
 

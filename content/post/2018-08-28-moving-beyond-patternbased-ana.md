@@ -4,13 +4,11 @@ author: 'nowosad.github.io'
 date: '2018-08-28'
 slug: moving-beyond-patternbased-ana
 categories:
-  - rstats
-  - python
-  - machine-learning
-  - linear-model
+  - bloglink
 tags:
+  - machine-learning
   - nowosadgithubio
 ---
 
-[This is the sixth and the last blog post in the series introducing GeoPAT 2 - a software for pattern-based spatial and temporal analysis . In the previous one we presented the pattern-based spatial segmentation - a method for creating regions of homogenous...<click to read more>](https://nowosad.github.io/post/geopat-2-extend/)
+[GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps. However, that is not the end of GeoPAT 2 capabilities - it is also possible to extract spatial signature or calculate distance matrix and use these outputs in further analysis outside of GeoPAT...<click to read more>](https://nowosad.github.io/post/geopat-2-extend/)
 

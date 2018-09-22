@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-05-23'
 slug: integrating-dplyr-with-remote-
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

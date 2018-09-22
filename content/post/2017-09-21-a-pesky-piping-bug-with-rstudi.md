@@ -4,10 +4,11 @@ author: 'sjfox.github.io'
 date: '2017-09-21'
 slug: a-pesky-piping-bug-with-rstudi
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - sjfoxgithubio
 ---
 
-[Today I encountered an error in the tidyverse that took me a while to figure out, so I wanted to document it for others. I’m also not sure where this error originates, so I wasn’t positive which package to post it in (or with RStudio) - I’d be happy to submit a bug report if anyone can point me in the right direction :) The Scenario You have a data frame you want to alter using piping, something like...<click to read more>](https://sjfox.github.io/post/piping_bug/)
+[You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive code. Do you get the same errors as I do? If so, should it be fixed, or is there a purpose I’m not...<click to read more>](https://sjfox.github.io/post/piping_bug/)
 

@@ -1,10 +1,10 @@
 ---
-title: "Income Along the Boston T [Orange Line]"
+title: "Income Along the Boston T (Orange Line)"
 author: 'translatedmedicine.com'
 date: '2017-12-12'
 slug: income-along-the-boston-t-oran
 categories:
-  - 
+  - bloglink
 tags:
   - translatedmedicinecom
 ---

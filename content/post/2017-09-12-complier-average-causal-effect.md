@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2017-09-12'
 slug: complier-average-causal-effect
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[Inspired by a free online course titled Complier Average Causal Effects (CACE) Analysis and taught by Booil Jo and Elizabeth Stuart (through Johns Hopkins University), I’ve decided to explore the topic a little bit. My goal here isn’t to explain CACE analysis in extensive detail (you should definitely go take the course for that), but to describe the problem generally and then (of course) simulate some data. A plot of the simulated data gives a sense of what we are estimating and...<click to read more>](https://www.rdatagen.net/post/cace-explored/)
+[Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and assumptions). However, those investigators may not have as much control over the actual treatments that study participants...<click to read more>](https://www.rdatagen.net/post/cace-explored/)
 

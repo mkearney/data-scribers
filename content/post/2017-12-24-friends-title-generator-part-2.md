@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-24'
 slug: friends-title-generator-part-2
 categories:
-  - 
+  - bloglink
 tags:
   - jessetw
 ---

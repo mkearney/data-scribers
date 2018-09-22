@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-01-31'
 slug: bayesian-model-selection-with-
 categories:
-  - 
+  - bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

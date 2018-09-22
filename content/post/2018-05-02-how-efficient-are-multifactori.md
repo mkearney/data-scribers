@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2018-05-02'
 slug: how-efficient-are-multifactori
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[I recently described why we might want to conduct a multi-factorial experiment, and I alluded to the fact that this approach can be quite efficient. It is efficient in the sense that it is possible to test simultaneously the impact of multiple interventions using an overall sample size that would be required to test a single intervention in a more traditional...<click to read more>](https://www.rdatagen.net/post/so-how-efficient-are-multifactorial-experiments-part/)
+[In the second scenario, each successive exposure continues to add to the effect, but each additional intervention adds a little less. The first intervention adds 0.8, the second adds 0.6, the third adds 0.4, and the fourth adds 0.2. This is a form of interaction. This is what a plot of the means might look like for each of the...<click to read more>](https://www.rdatagen.net/post/so-how-efficient-are-multifactorial-experiments-part/)
 

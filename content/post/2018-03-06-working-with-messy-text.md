@@ -1,0 +1,14 @@
+---
+title: "Working With Messy Text"
+author: 'www.aggieerin.com'
+date: '2018-03-06'
+slug: working-with-messy-text
+categories:
+  - bloglink
+tags:
+  - rstats
+  - aggieerincom
+---
+
+[Heyo! I am doing my best to procrastinate here on a blustery Tuesday afternoon. So, I decided to share some code I've put together that solves problems in R that I used to do in perl. HTML or C++ was probably my first real language, but I love the heck out of perl. It's never done me wrong (unlike you PHP). Anyways! The context of this project is that we are developing a dictionary of words to complement the work done by Jonathan Haidt and Jesse Graham - learn...<click to read more>](https://doomlab.github.io/post/working-with-messy-text/)
+

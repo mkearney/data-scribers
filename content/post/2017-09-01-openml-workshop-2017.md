@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2017-09-01'
 slug: openml-workshop-2017
 categories:
-  - machine-learning
+  - bloglink
 tags:
+  - machine-learning
   - mlrblognetlifycom
 ---
 

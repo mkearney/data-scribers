@@ -1,0 +1,13 @@
+---
+title: "Docker on Windows"
+author: 'cevo.com.au'
+date: '2018-07-27'
+slug: docker-on-windows
+categories:
+  - bloglink
+tags:
+  - cevocomau
+---
+
+[Since my recently published blog post When Docker meets Make, a few of my mates commented they couldn't get Docker and GNU Make working on their shiny new Windows PCs. Being a non Windows user, I didn't have a definitive answer, but suggested trying the Ubuntu app (the one that comes as a 'Linux Subsystem' on Windows 10). It turns out that, whilst it's cool, this just added another set of challenges in terms of getting Docker...<click to read more>](https://cevo.com.au/post/2018-07-27-docker-on-windows/)
+

@@ -17,7 +17,7 @@
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/hvordan-klarer-de-politiske-pa/</guid>
-      <description>For ganske nyligt opdagede jeg, at der er lavet en RFacebook pakke til at trække data fra Facebooks Graph API. Det blev brugt til en analyse af Donald Trump og Hillary Clintons kampagner under den seneste amerikanske&amp;hellip;</description>
+      <description>På de respektive facebook-sider kan vi naturligvis også finde antallet af følgere - dem gemmer vi også lige, da vi skal bruge dem senere. Vi har altså en del data på hvert post - hvornår den er afsendt, hvilken type post (video, tekst, billede) samt hvor mange likes, kommentarer og delinger der er. Især den sidste del er interessant for at undersøge hvor godt de forskellige partier præsterer på Facebook. Med disse data i hånden er det nu en smal sag at begynde selve&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/combining-r-and-python-for-dat/</guid>
-      <description>As part of my PhD work I characterise nanomaterials using Energy-dispersive X-ray spectroscopy (EDX) in a Scanning Transmission Electron Microscope. We do this to obtain spatial information about the chemical composition of a sample on the nanoscale. Basically, an image is obtained by raster-scanning the electron beam and recording an X-ray spectrum in each position. This effectively gives a 3-dimensional dataset, where for each pixel a full spectrum is&amp;hellip;</description>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown document. I do this to keep the final product together and get a completely reproducible analysis in my R Markdown document.</description>
     </item>
     
     <item>
@@ -35,16 +35,7 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/open-science-tools-for-our-res/</guid>
-      <description>Currently in the Organic Surface Chemistry group , there are large variations between our group members when it comes to the tools used for data analysis. Some people feel most comfortable in spreadsheet programs such as Origin or Excel, while others rely on a mix of Matlab, R, Python or other tools. We use a lot of different experimental techniques in our research, and therefore generate data in a lot of different&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>R Beginner Workshop</title>
-      <link>/post/r-beginner-workshop/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-beginner-workshop/</guid>
-      <description>I recently did a short workshop for R Beginners together with Anders Schmidt. Anders wrote a short blogpost about what we covered and the materials we used, which is available here . It was really interesting to use the learnr package, and we will probably try to extend on this for future&amp;hellip;</description>
+      <description>I have been considering how to apply this thinking to our research. I am confident that it could be made more efficient and well-documented if R was adopted as a general tool for data analysis. If you recieve a spreadsheet from someone, containing some data analysis it can be very hard to decipher the thinking of the original author (and to be honest, analysis done by yourself 6 monts ago might as well have been done by a complete&amp;hellip;</description>
     </item>
     
   </channel>

@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-02-23'
 slug: preferential-spatial-gene-expr
 categories:
-  - 
+  - bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

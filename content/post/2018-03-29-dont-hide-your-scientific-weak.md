@@ -1,0 +1,13 @@
+---
+title: "Don’t hide your (scientific) weaknesses"
+author: 'thestudyofthehousehold.com'
+date: '2018-03-29'
+slug: dont-hide-your-scientific-weak
+categories:
+  - bloglink
+tags:
+  - thestudyofthehouseholdcom
+---
+
+[What are your weaknesses as a scientist? What should we do when we become aware of those weaknesses, or when someone makes us aware? Backstory: Several months ago I started doing Crossfit here in France1. It’s been a fun way to meet new people and get some exercise. It also lets me work out one muscle that I really need to improve: my French skills. Of course all of the coaching and instruction happens in French, with the result that I am sometimes only 80% sure I understand a complicated...<click to read more>](http://thestudyofthehousehold.com/2018/03/29/2018-03-29-don-t-hide-your-scientific-weaknesses/)
+

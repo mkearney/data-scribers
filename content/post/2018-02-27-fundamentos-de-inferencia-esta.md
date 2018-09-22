@@ -4,11 +4,11 @@ author: 'saidejp.rbind.io'
 date: '2018-02-27'
 slug: fundamentos-de-inferencia-esta
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - saidejprbindio
 ---
 
-[Introducción A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas...<click to read more>](https://saidejp.rbind.io/post/fundamentos-de-inferencia/)
+[A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas centrales. Dado que no soy estadístico, probablemente hayan imprecisiones, en todo caso me asumo responsable y los invito a leer de manera crítica el...<click to read more>](https://saidejp.rbind.io/post/fundamentos-de-inferencia/)
 

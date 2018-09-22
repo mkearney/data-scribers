@@ -4,10 +4,10 @@ author: 'www.jessemaegan.com'
 date: '2018-02-12'
 slug: so-youve-been-asked-to-make-a-
 categories:
-  - rstats
+  - bloglink
 tags:
   - jessemaegancom
 ---
 
-[Introduction If you’ve found yourself here, you’ve probably been asked to create a re producible ex ample, or reprex , in response to a question you asked on the RStudio Community...<click to read more>](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/)
+[Reprexes are significantly easier to read, as well as copy and paste. This means that the people helping you solve your error(s) are going to spend less time: No one can force you to make a reprex, but they can decide not to answer your question when you don’t provide a...<click to read more>](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/)
 

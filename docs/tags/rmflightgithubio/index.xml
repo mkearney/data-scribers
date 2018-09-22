@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmflightgithubio on rscribers</title>
+    <link>/tags/rmflightgithubio/</link>
+    <description>Recent content in Rmflightgithubio on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rmflightgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t do PCA After Statistical Testing!</title>
+      <link>/post/dont-do-pca-after-statistical-/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dont-do-pca-after-statistical-/</guid>
+      <description>I have seen this published at least once (in a Diabetes metabolomics paper, if anyone knows it, please send it to me so I can link it), and have seen collaborators do this after coaching from others in non-statistical departments. The problem is that PCA is just looking at either feature-feature covariances or sample-sample&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding Modes Using Kernel Density Estimates</title>
+      <link>/post/finding-modes-using-kernel-den/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/finding-modes-using-kernel-den/</guid>
+      <description>First, lets do this in R. Need some values to work with. Plot the density estimate with the mode location. Lets do something similar in Python. Start by generating a set of random values. Plot to show indeed we have it right. Note we sort the values first so the PDF looks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Split - Unsplit Anti-Pattern</title>
+      <link>/post/split-unsplit-antipattern/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/split-unsplit-antipattern/</guid>
+      <description>Not bad for the test data. But can we do&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using IRanges for Non-Integer Overlaps</title>
+      <link>/post/using-iranges-for-noninteger-o/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-iranges-for-noninteger-o/</guid>
+      <description>Lets actually test differences in speed by counting how many overlapping points there&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Turn Robert&#39;s Beard Purple!</title>
+      <link>/post/turn-roberts-beard-purple/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/turn-roberts-beard-purple/</guid>
+      <description>Links: I decided to participate in the Walk To End Alzheimer’s this year, coming up on August 25th here in Lexington. I will be walking the 2 miles in support of my Mom, who was diagnosed with early onset Alzheimer’s some time ago (she will turn 68 this summer). Why am I walking?? Because I’ve seen a little bit of what Alzheimer’s does, and although my Mom won’t benefit from new treatments, we need to find effective treatments for this devastating&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>knitrProgressBar Package</title>
+      <link>/post/knitrprogressbar-package/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knitrprogressbar-package/</guid>
+      <description>These are pretty easy to setup and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Licensing R Packages that Include Others Code</title>
+      <link>/post/licensing-r-packages-that-incl/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/licensing-r-packages-that-incl/</guid>
+      <description>If you include others code in your own R package, list them as contributors with comments about what they contributed, and add a license statement in the file that includes their code. Note that all significant contributors must be included: if you wrote an R wrapper for the work of others included in the src directory, you are not the sole (and maybe not even the main) author. I am the main author and maintainer of the new package, that is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Custom Deployment Script</title>
+      <link>/post/custom-deployment-script/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/custom-deployment-script/</guid>
+      <description>Here is the simple script I ended up&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I was Part of the Problem</title>
+      <link>/post/i-was-part-of-the-problem/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/i-was-part-of-the-problem/</guid>
+      <description>I’ve never had a woman tell me she was assaulted by anyone either, but given my past behavior, even if someone I knew had, I don’t think my actions made me someone that a woman would trust to tell. Let me give you some examples of my behavior. Just so we are clear, none of this got me any dates in grade school. Now I’ve graduated high-school, I’m heading off to a local university, with lots of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Criticizing a Publication, and Lying About It</title>
+      <link>/post/criticizing-a-publication-and-/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/criticizing-a-publication-and-/</guid>
+      <description>Also of note, the proteins with aberrant zinc geometries showed enrichment for different types of enzyme classifications than those with canonical zinc geometries. Finally, no one from RWJ2016 ever contacted our research group to see if the results might be available. Finally, I really don’t know what happened in the peer review of RWJ2016. The first major claim was that our data wasn’t available, it should have taken a reviewer 10 minutes to verify and debunk that&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

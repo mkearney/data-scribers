@@ -1,0 +1,13 @@
+---
+title: "Python as a cloud glue language"
+author: 'cevo.com.au'
+date: '2018-09-18'
+slug: python-as-a-cloud-glue-languag
+categories:
+  - bloglink
+tags:
+  - cevocomau
+---
+
+[One promise of the cloud is that you have less moving parts to manage. No longer do you need to worry about drives or servers, or even networks. Just package up your application and deploy it to the cloud. For those of you working in the cloud, you'll know it's not that simple. While a lot of heavy lifting has been done for you, nothing is quite as easy as it...<click to read more>](https://cevo.com.au/post/2018-09-18-python-as-a-cloud-glue-language/)
+

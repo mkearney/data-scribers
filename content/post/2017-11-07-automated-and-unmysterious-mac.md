@@ -4,13 +4,11 @@ author: 'r-tastic.co.uk'
 date: '2017-11-07'
 slug: automated-and-unmysterious-mac
 categories:
-  - rstats
-  - python
-  - machine-learning
-  - linear-model
+  - bloglink
 tags:
+  - machine-learning
   - rtasticcouk
 ---
 
-[I get bored from doing two things: i) spot-checking + optimising parameters of my predictive models and ii) reading about how 'black box' machine learning (particularly deep learning) models are and how little we can do to better understand how they learn (or not learn, for example when they take a panda bear for a...<click to read more>](https://r-tastic.co.uk/post/automated-and-unmysterious-machine-learning-in-cancer-detection/)
+[First, let's load the data: .. and do some data cleaning: change column names, get rid of the order in factor levels and remove rows with empty cells: That's better! Now, let's set up the local H2O instance... ... and split the data into training, validation and testing datasets. Neural network wins, followed by gradient boost models - no surprise here! Finally, you can use the Leader to predict labels of the testing set: ... and more detailed performance of the...<click to read more>](https://r-tastic.co.uk/post/automated-and-unmysterious-machine-learning-in-cancer-detection/)
 

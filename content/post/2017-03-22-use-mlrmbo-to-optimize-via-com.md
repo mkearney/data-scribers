@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-22'
 slug: use-mlrmbo-to-optimize-via-com
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mlrblognetlifycom
 ---
 

@@ -4,9 +4,10 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-22'
 slug: parallel-benchmarking-with-ope
 categories:
-  - machine-learning
-  - linear-model
+  - bloglink
 tags:
+  - machine-learning
+  - modeling
   - mlrblognetlifycom
 ---
 

@@ -4,11 +4,10 @@ author: 'yutani.rbind.io'
 date: '2018-06-09'
 slug: plot-geomsf-on-openstreetmap-t
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - yutanirbindio
 ---
 
-[mapview is a very nice package to explore an sf object. It can overlay sf object on the map...<click to read more>](https://yutani.rbind.io/post/2018-06-09-plot-osm-tiles/)
+[Clearly display license attribution. For "Technical Usage Requirements" section, I have to read this more carefully. Let's look at the requirements one by one. Valid HTTP User-Agent identifying application. Faking another app's User-Agent WILL get you blocked. If known, a valid HTTP Referer. DO NOT send no-cache headers. ("Cache-Control: no-cache", "Pragma: no-cache" etc.) I do nothing other than swearing I'll never use this...<click to read more>](https://yutani.rbind.io/post/2018-06-09-plot-osm-tiles/)
 

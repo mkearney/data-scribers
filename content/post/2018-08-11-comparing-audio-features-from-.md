@@ -4,10 +4,10 @@ author: 'www.semidocumentedlife.com'
 date: '2018-08-11'
 slug: comparing-audio-features-from-
 categories:
-  - rstats
+  - bloglink
 tags:
   - semidocumentedlifecom
 ---
 
-[The NYT has a fun interactive up this week, looking at audio features to see if popular summer songs have the same sort of “signature”. After attending a presentation earlier this year, I discovered that these same sorts of features are accessible through Spotify’s API! How people curate their collections and approach listening to music usually tells you something about them, and since seeing the presentation I’ve been wanting to take a dive into my own listening...<click to read more>](https://www.semidocumentedlife.com/post/monthly-audio-features-spotifyr/)
+[Spotify’s API functionality seems pretty straightforward. Tracks are curated as playlists by users, and tracks have a bunch of metadata (artist, album, etc.). Each of these entities (tracks, albums, artists, users) has an ID, allowing you to organize and jump between them. The first thing I need are all the tracks from each playlist I’ve created. Once I have them, it’s just one more line of code to get the audio features that Spotify makes...<click to read more>](https://www.semidocumentedlife.com/post/monthly-audio-features-spotifyr/)
 

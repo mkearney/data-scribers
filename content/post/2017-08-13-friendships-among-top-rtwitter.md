@@ -4,10 +4,11 @@ author: 'r-tastic.co.uk'
 date: '2017-08-13'
 slug: friendships-among-top-rtwitter
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - rtasticcouk
 ---
 
-[Have you ever wondered whether the most active/popular R-twitterers are virtual friends? :) And by friends here I simply mean mutual followers on Twitter. In this post, I score and pick top 30 #rstats twitter users and analyse their Twitter friends'...<click to read more>](https://r-tastic.co.uk/post/friendships-among-top-twitterers/)
+[After loading my precious packages... Now, let's extract some useful information about those users: You'll notice, that created data frame holds information about number of followers, friends (users they follow), lists they belong to, number of tweets (statuses) or how many times sometimes marked those tweets as their favourite. And these variables I use for building my 'top score': I simply calculate a percentile for each of those variables and sum it...<click to read more>](https://r-tastic.co.uk/post/friendships-among-top-twitterers/)
 

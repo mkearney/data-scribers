@@ -1,0 +1,13 @@
+---
+title: "Quick Guide to Gene Name Conversion"
+author: 'davemcg.github.io'
+date: '2018-06-18'
+slug: quick-guide-to-gene-name-conve
+categories:
+  - bloglink
+tags:
+  - davemcggithubio
+---
+
+[There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step. But it can convert just about anything to...<click to read more>](http://davemcg.github.io/./post/quick-guide-to-gene-name-conversion/)
+

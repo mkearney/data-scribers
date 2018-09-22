@@ -17,7 +17,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/generate-animated-tracking-map/</guid>
-      <description>As of now, Sep. 11th, 2018, Hurricane Florence (Category 4) is approaching to eastern coastal areas of United States. There are many ways to track the path of hurricanes (or typhoons) to conduct further analysis, such as flash flooding, ocean surge and property damages. In this blog, the author tries to plot the tracking of hurricanes, using both stastic and animated maps, with the help of R and related packages. Specifically, this blog is a reproducible&amp;hellip;</description>
+      <description>Further data cleaning is needed to reformat the datetime and rename a column. We can also save the animation into gif files, instead of embedding the animation. R and related packages are able to conveniently draw both static and animated maps for tracking hurricanes or typhoons. Further analysis, such as real-time tracking of hurricanes, will be conducted in the&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,25 +26,7 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/generate-a-reproducible-map-fo/</guid>
-      <description>Introduction and motivation Nutrient input to agricultural watersheds is a very popular topic among researchers, engineers and stakeholders. Researchers in United State Geographic Services (USGS) spent a considerable amount of time and efforts to generate fertilizr estimation dataset from synthetic fertilizer and&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Insights from intensive water quality sampling in a drained agriculutral field</title>
-      <link>/post/insights-from-intensive-water-/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/insights-from-intensive-water-/</guid>
-      <description>Preferred citation: Liu, W , B Maxwell, F Birgand, M Youssef, GM Chescheir. “Insights from intensive water quality sampling in a drained agriculutral field” Agricultural Drainage Management Systems Task Force/NCERA 217, Raleigh, April 11-12,&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Long-term temporal variation of nitrate concentration-stream discharge (C-Q) relationship for an agrcultural watershed in Midwest USA</title>
-      <link>/post/longterm-temporal-variation-of/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/longterm-temporal-variation-of/</guid>
-      <description>Preferred citation: Liu, W , S Tian, M Youssef, F Birgand, GM Chescheir. “Long-term temporal variation of nitrate concentration-stream discharge (C-Q) relationship for an agrcultural watershed in Midwest USA” Agricultural Drainage Management Systems Task Force/NCERA 217, Raleigh, April 11-12,&amp;hellip;</description>
+      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes. After installing all the libraries, we should include them in the R session to run the following codes. The map actually is a ggplot2 object and users can modified most of the components using ggplot2&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,25 +35,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/brief-introduction-of-storm-hy/</guid>
-      <description>What are storm hysteresis effects? Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>High frequency measurements in a drained agricultural field</title>
-      <link>/post/high-frequency-measurements-in/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/high-frequency-measurements-in/</guid>
-      <description>In order to further investigate the water movement and nutrient transport from agricultural fields, we developed equipment and algorithms to zoom in the hydrograph and chemograph both spatially and&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Transforming denitrifying bioreactors research and application</title>
-      <link>/post/transforming-denitrifying-bior/</link>
-      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/transforming-denitrifying-bior/</guid>
-      <description>Preferred citation: Birgand, F, B Maxwell, S Tian, W Liu , L Negm, M Youssef, G Chescheir, L Schipper, L Christianson, M Helmers, D Williams. &amp;ldquo;Transforming denitrifying bioreactors research and application: unveiling the inside of the blackbox&amp;rdquo; USDA NIFA and NSF Water and Soils Meeting, Project Director Meeting, Jan. 29-31,&amp;hellip;</description>
+      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed outlet. As the temporal dynamics of discharge and solute concentration is an integration of complex hydrological and biochemical processes, the relationship between solute concentration and discharge, hereafter called C-Q relationship, is mostly&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,16 +44,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hellow-world/</guid>
-      <description>Since Jan. 2018, my brand new website is published online. The website is powered by Blogdown and Hugo-academic , and deployed by Github Pages . All the codes are open to public and available at my github repository . I build this website to achieve two goals: helping others know more about my professional achievements, and presenting my most latest output (with details) to persons of&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Nitrate concentration-drainage flow (C-Q) relationship for a drained agricultural field in Eastern North Carolina Plain</title>
-      <link>/post/nitrate-concentrationdrainage-/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/nitrate-concentrationdrainage-/</guid>
-      <description>Preferred citation: Liu, W , M Youssef, F Birgand, GM Chescheir, B Maxwell, S Tian. “Nitrate concentration-drainage flow (C-Q) relationship for a drained agricultural field in Eastern North Carolina Plain” AGU fall meeting, New Orleans, December 11-15,&amp;hellip;</description>
+      <description>I build this website to achieve two goals: helping others know more about my professional achievements, and presenting my most latest output (with details) to persons of interest. Therefore, I will list my publications, including journal articles, conference presentations and proceedings, and book chapters (if any) here. In addition, the post section will briefly introduce my new ideas, experiences or findings. I will also upload some interesting pictures to draw more&amp;hellip;</description>
     </item>
     
   </channel>

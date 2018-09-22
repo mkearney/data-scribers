@@ -4,11 +4,11 @@ author: 'yutani.rbind.io'
 date: '2017-10-26'
 slug: publish-r-markdown-to-medium-v
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - yutanirbindio
 ---
 
-[I created an experimental package to work with Medium API . mediumr: https://github.com/yutannihilation/mediumr/ mediumr allows you to knit and post R Markdown to Medium. Installation You can install mediumr from github...<click to read more>](https://yutani.rbind.io/post/2017-10-26-post-to-medium/)
+[mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click "Publish": After successfully uploading the content to Medium, the addin launches a web browser and jumps to the...<click to read more>](https://yutani.rbind.io/post/2017-10-26-post-to-medium/)
 

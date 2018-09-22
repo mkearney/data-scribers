@@ -4,7 +4,7 @@ author: 'r-mageddon.netlify.com'
 date: '2018-08-02'
 slug: uk-population-pyramid
 categories:
-  - 
+  - bloglink
 tags:
   - rmageddonnetlifycom
 ---

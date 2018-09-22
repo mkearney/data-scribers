@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2018-01-08'
 slug: simulating-a-costeffectiveness
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 
-[My dissertation work (which I only recently completed - in 2012 - even though I am not exactly young, a whole story on its own) focused on inverse probability weighting methods to estimate a causal cost-effectiveness model. I don’t really do any cost-effectiveness analysis (CEA) anymore, but it came up very recently when some folks in the Netherlands contacted me about using simstudy to generate correlated (and clustered) data to compare different approaches to estimating...<click to read more>](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
+[In the simulation scenario I’ve concocted, the goal is to increase the number of patients that come in for an important test. A group of public health professionals have developed a new outreach program that they think will be able to draw in more patients. The study is conducted at the site level - some sites will implement the new approach, and the others, serving as controls, will continue with the existing approach. The cost for the new approach is expected to be higher, and will vary by...<click to read more>](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
 

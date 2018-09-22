@@ -4,9 +4,10 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-01-25'
 slug: linear-models
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - mouseimagingcentregithubioblog
 ---
 

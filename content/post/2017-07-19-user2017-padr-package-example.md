@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-19'
 slug: user2017-padr-package-example
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

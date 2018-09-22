@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-03-28'
 slug: tabulating-file-information
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-09-26'
 slug: what-is-the-appropriate-popula
 categories:
-  - rstats
+  - bloglink
 tags:
   - yonicdnetlifycom
 ---

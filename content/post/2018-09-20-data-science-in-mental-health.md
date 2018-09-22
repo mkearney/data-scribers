@@ -4,11 +4,12 @@ author: 'g-tierney.github.io'
 date: '2018-09-20'
 slug: data-science-in-mental-health
 categories:
-  - machine-learning
-  - linear-model
+  - bloglink
 tags:
+  - machine-learning
+  - modeling
   - gtierneygithubio
 ---
 
-[I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media...<click to read more>](https://g-tierney.github.io/post/2018_09_mental_health/)
+[I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or...<click to read more>](https://g-tierney.github.io/post/2018_09_mental_health/)
 

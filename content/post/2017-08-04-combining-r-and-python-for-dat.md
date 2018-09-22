@@ -4,12 +4,13 @@ author: 'emil.tbjerglund.dk'
 date: '2017-08-04'
 slug: combining-r-and-python-for-dat
 categories:
+  - bloglink
+tags:
   - rstats
   - python
-  - linear-model
-tags:
+  - modeling
   - emiltbjerglunddk
 ---
 
-[As part of my PhD work I characterise nanomaterials using Energy-dispersive X-ray spectroscopy (EDX) in a Scanning Transmission Electron Microscope. We do this to obtain spatial information about the chemical composition of a sample on the nanoscale. Basically, an image is obtained by raster-scanning the electron beam and recording an X-ray spectrum in each position. This effectively gives a 3-dimensional dataset, where for each pixel a full spectrum is...<click to read more>](https://emil.tbjerglund.dk/post/combining-r-and-python-for-data-analysis/)
+[The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown document. I do this to keep the final product together and get a completely reproducible analysis in my R Markdown document. We can examine the data folder from R, and see that the images were...<click to read more>](https://emil.tbjerglund.dk/post/combining-r-and-python-for-data-analysis/)
 

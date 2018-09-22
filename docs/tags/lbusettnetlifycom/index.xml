@@ -6,28 +6,10 @@
     <description>Recent content in Lbusettnetlifycom on rscribers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/lbusettnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>MODIStsp approved on rOpenSci!</title>
-      <link>/post/modistsp-approved-on-ropensci/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/modistsp-approved-on-ropensci/</guid>
-      <description>We are happy to report that our MODIStsp package for automatic preprocessing of MODIS time series has been recently approved for being included in the rOpenSci ecosystem of R packages for reproducible science! We wish to thank reviewers Leah Wasser and Jeffrey Hanson for providing really valuable insights during the onboarding review&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>MODIStsp v. 1.3.4 is out ! Now allowing interactive definition of processing extent!</title>
-      <link>/post/modistsp-v-134-is-out-now-allo/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/modistsp-v-134-is-out-now-allo/</guid>
-      <description>We are happy to report that a new version of MODIStsp (1.3.4) is on CRAN as of today ! The new version introduces a strongly improved GUI (thanks mainly to @lwasser comments in her review for MODIStsp onboarding on ropensci ). The new GUI facilitates the selection of layers to be processed, and allows interactive selection of the processing spatial extent over a map (thanks to @timsalabim and @timelyportfolio for implementing some changes on mapview to allow&amp;hellip;</description>
-    </item>
     
     <item>
       <title>A new RStudio addin to facilitate inserting tables in Rmarkdown documents</title>
@@ -35,7 +17,16 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-new-rstudio-addin-to-facilit/</guid>
-      <description>In the last months, I started increasingly using Rmd documents for preparing scientific reports, blog posts, etcetera. While I really like the flexibility offered by the system, one thing that I thought could be improved is the support for easily inserting&amp;hellip;</description>
+      <description>After struggling a bit due to my rather nonexistent shiny skills, in the end I managed to obtain a “basic but useful” (IMO) addin. Let’s see how it works: I hope someone else will find this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automatically importing publications from bibtex to a hugo-academic blog</title>
+      <link>/post/automatically-importing-public/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automatically-importing-public/</guid>
+      <description>All is left is to run the script: Running the script will give you files like this one: , where I tweaked a bit the hugo-academic format to include bibliographic info such as volume, number, pages and doi link. The files can then be further customized to include, for example, links to pdfs, images,&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,16 +35,16 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/speeding-up-spatial-analyses-b/</guid>
-      <description>The problem Last week, I replied to this interesting question posted by @Tim_K over&amp;hellip;</description>
+      <description>However, this starts to have problems over really large datasets, because the total number of comparisons to be done still rapidly increase besides the use of spatial indexes. A test done by changing the number of points in the above example in the range 25000 - 475000 shows for example this kind of behavior, for two different values of maxdist (500 and 2000 m): On the test dataset, the relationships are almost perfectly quadratic (due to the uniform distribution of&amp;hellip;</description>
     </item>
     
     <item>
-      <title>MODIStsp 1.3.3 is out - Speeding things up and squashing some bugs !</title>
-      <link>/post/modistsp-133-is-out-speeding-t/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Building a website with `pkgdown`</title>
+      <link>/post/building-a-website-with-pkgdow/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/modistsp-133-is-out-speeding-t/</guid>
-      <description>A new version of MODIStsp (1.3.3) is on CRAN as of today ! Below, you can find a short description of the main improvements. Processing speed improvements Processing of MODIS layers after download (i.e., scale and offset calibration, computation of Spectral Indexes and Quality Indicators) is now much faster . As you can see in the figure, processing time was almost halved on my (not so fast)&amp;hellip;</description>
+      <guid>/post/building-a-website-with-pkgdow/</guid>
+      <description>Assuming you are using RStudio, and that you didn&amp;rsquo;t already do this, open the project corresponding to your package and (as a minimum) run: Other possibly useful commands (depending on the status of your package) may be: The resulting website will look more or less like this: In MODIStsp website, we are using the right side of the top menu bar to provide access to: , but if you are more fluent than me in _css _and _js _you can probably tweak appearance a lot&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +53,7 @@
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/the-new-modistsp-website-based/</guid>
-      <description>The MODIStsp website, which lay abandoned since several months on github pages, recently underwent a major overhaul thanks to&amp;hellip;</description>
+      <description>We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +62,7 @@
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/modistsp-v-132-is-on-cran-/</guid>
-      <description>We are glad to report that MODIStsp is now also available on CRAN ! From now on, you can therefore install it by simply using: install.packages(&amp;ldquo;MODIStsp&amp;rdquo;) In v 1.3.2 we also added the functionality to automatically apply scale and offset coefficients on MODIS original values according with the specifications of single MODIS&amp;hellip;</description>
+      <description>In this case, for example, Land Surface Temperature values in the output rasters will be in °K, and spectral indices will be floating point values (e.g., NDVI will be between -1 and 1 instead than between -10000 and&amp;hellip;</description>
     </item>
     
   </channel>

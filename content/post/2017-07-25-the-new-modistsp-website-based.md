@@ -4,11 +4,10 @@ author: 'lbusett.netlify.com'
 date: '2017-07-25'
 slug: the-new-modistsp-website-based
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - lbusettnetlifycom
 ---
 
-[The MODIStsp website, which lay abandoned since several months on github pages, recently underwent a major overhaul thanks to...<click to read more>](https://lbusett.netlify.com/post/the-new-modistsp-website-based-on-pkgdown-is-online/)
+[We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp...<click to read more>](https://lbusett.netlify.com/post/the-new-modistsp-website-based-on-pkgdown-is-online/)
 

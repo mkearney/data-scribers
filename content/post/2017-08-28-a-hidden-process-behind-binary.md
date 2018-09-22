@@ -4,9 +4,9 @@ author: 'www.rdatagen.net'
 date: '2017-08-28'
 slug: a-hidden-process-behind-binary
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 

@@ -4,8 +4,9 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-11'
 slug: linked-lists-in-matchbox
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mailundgithubiorprogrammerblog
 ---
 

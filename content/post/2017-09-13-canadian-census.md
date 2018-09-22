@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-09-13'
 slug: canadian-census
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

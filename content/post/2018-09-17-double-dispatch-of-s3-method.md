@@ -4,10 +4,10 @@ author: 'yutani.rbind.io'
 date: '2018-09-17'
 slug: double-dispatch-of-s3-method
 categories:
-  - rstats
+  - bloglink
 tags:
   - yutanirbindio
 ---
 
-[When I tried to define an S3 class that contains multiple ggplot objects, I've faced the lessor-know mechanism of S3 method dispatch, double dispatch . Problem Take a look at this example. manyplot class contains many plots, and displays them nicely when...<click to read more>](https://yutani.rbind.io/post/double-dispatch-of-s3-method/)
+[So far, so good. But, this won't work... Here's examples to show them clearly: If you cannot wait, use S4. S4 can naturally do double dispatch because their method dispatch depends on the whole combination of types of the...<click to read more>](https://yutani.rbind.io/post/double-dispatch-of-s3-method/)
 

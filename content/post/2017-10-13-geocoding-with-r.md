@@ -1,14 +1,13 @@
 ---
 title: "Geocoding with R"
-author: 'jessesadler.com'
+author: 'www.jessesadler.com'
 date: '2017-10-13'
 slug: geocoding-with-r
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - jessesadlercom
 ---
 
-[In the previous post I discussed some reasons to use R instead of Excel to analyze and visualize data and provided a brief introduction to the R programming language. That post used an example of letters sent to the sixteenth-century merchant Daniel van der Meulen in 1585. One aspect missing from the analysis was a geographical visualization of the...<click to read more>](https://jessesadler.com/post/geocoding-with-r/)
+[The resulting map is rather sparse and does not provide much information, but it gives a good starting point from which to build a more informative map. I now have the necessary data to create a map that will distinguish between the sources of the letters and their destinations and will allow me to show the quantities of letters sent from and received in each...<click to read more>](https://jessesadler.com/post/geocoding-with-r/)
 

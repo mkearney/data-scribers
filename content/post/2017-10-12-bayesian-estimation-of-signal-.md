@@ -1,0 +1,15 @@
+---
+title: "Bayesian Estimation of Signal Detection Models, Part 2"
+author: 'vuorre.netlify.com'
+date: '2017-10-12'
+slug: bayesian-estimation-of-signal-
+categories:
+  - bloglink
+tags:
+  - rstats
+  - modeling
+  - vuorrenetlifycom
+---
+
+[This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a nonlinear Bayesian...<click to read more>](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-2/)
+

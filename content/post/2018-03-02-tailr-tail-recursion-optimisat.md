@@ -4,8 +4,9 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-02'
 slug: tailr-tail-recursion-optimisat
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mailundgithubiorprogrammerblog
 ---
 

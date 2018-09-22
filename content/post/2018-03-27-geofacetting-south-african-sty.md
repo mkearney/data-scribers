@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-03-27'
 slug: geofacetting-south-african-sty
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

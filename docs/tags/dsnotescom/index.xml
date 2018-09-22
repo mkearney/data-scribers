@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsnotescom on rscribers</title>
+    <link>/tags/dsnotescom/</link>
+    <description>Recent content in Dsnotescom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dsnotescom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benchmarking different implementations of weighted-ALS matrix factorization</title>
+      <link>/post/benchmarking-different-impleme/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/benchmarking-different-impleme/</guid>
+      <description>updated 01/08/2017 - added CG solver in reco, adjusted results As I promised in last post, I’m going to share benchmark of different implementation of matrix factorization with Weighted Alternating Least Squares. User-Item interaction matrix is made from lastfm-360K dataset. Implementations incude: My reco R package Ben Frederickson implicit python module Apache Spark implementation Quora’s qmf solver For the transparency I’ve created repository with all the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization for recommender systems (part 2)</title>
+      <link>/post/matrix-factorization-for-recom/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/matrix-factorization-for-recom/</guid>
+      <description>In previous post I explained Weigted Alternating Least Squares algorithm for matrix factorization. This post will be more practical - we will build a model which will recommend artists recommendations based on history of track listenings. Design of evaluation and cross validation Before we will go to modeling we need to discuss how we will validate our&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization for recommender systems</title>
+      <link>/post/matrix-factorization-for-recom/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/matrix-factorization-for-recom/</guid>
+      <description>Generally speaking the task for a recommender system is not to make up-sale. The real task is to keep customers engaged in your service. With loyal customers, you can monetize your service. Recommender systems is a very wide area, but in this post I won’t go into basics. Instead, I will explain collaborative filtering and more precisely - de-facto industry standard - matrix&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fitting logistic regression on 100gb dataset on a laptop</title>
+      <link>/post/fitting-logistic-regression-on/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fitting-logistic-regression-on/</guid>
+      <description>EDIT: Thanks for comments, I created repository with full end-to-end reproducible code. You can find it here - https://github.com/dselivanov/kaggle-outbrain. This is continue of Lessons learned from “Outbrain Click Prediction” kaggle competition (part 1). As a quick recap - we achieved MAP@12 ~ 0.67 which is equal to ~90-100 position on leaderboard. And we didn’t use information about page views from 100gb (30gb compressed) page_views.csv.zip&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Large data, feature hashing and online learning</title>
+      <link>/post/large-data-feature-hashing-and/</link>
+      <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/large-data-feature-hashing-and/</guid>
+      <description>EDIT: Thanks for comments, I created repository with full end-to-end reproducible code. You can find it here - https://github.com/dselivanov/kaggle-outbrain. Recently I participated in Outbrain Click Prediction kaggle competition (and no, I won’t talk about crazy xgboost stacking and blending :-) ). Competition was interesting for me mainly because of 2 things: Organizers provided a lot of data - around&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

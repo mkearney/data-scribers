@@ -4,8 +4,9 @@ author: 'www.gokhanciflikli.com'
 date: '2017-12-03'
 slug: a-tidytext-analysis-of-the-wei
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - gokhancifliklicom
 ---
 

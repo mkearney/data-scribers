@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-02'
 slug: openml-tutorial-at-user2017-br
 categories:
-  - machine-learning
+  - bloglink
 tags:
+  - machine-learning
   - mlrblognetlifycom
 ---
 

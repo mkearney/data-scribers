@@ -17,7 +17,7 @@
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/animating-changes-in-football-/</guid>
-      <description>Background I’m loving the magick package at the moment. Reading through the vignette I spotted the image_morph()&amp;hellip;</description>
+      <description>This bit of code can take a while to execute if the are many frames (see my comments towards the end of the post). I could then run the same code as above to scrape the images, annotate the year and copyright information and build the&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,43 +26,7 @@
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/animated-directional-chord-dia/</guid>
-      <description>Background A little while ago my paper in International Migration Review on global migration flow estimates came out online . The paper includes a number of directional chord diagrams to visualize the estimates. Recently I have been playing around tweenr and the magick packages for animated population&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Driving Factors of Asian International Migration Flows</title>
-      <link>/post/driving-factors-of-asian-inter/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/driving-factors-of-asian-inter/</guid>
-      <description>I will be talking at #PAA2018 today (8:30 AM Plaza Ballroom A) on the drivers of international #migration flows in #Asia - work with @Jamesraymeranu - using estimates from https://t.co/a2rXr7lJxb pic.twitter.com/dIqV8tfrg8 - Guy Abel 鄭蓋堡 (@guyabelguyabel) April 26,&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Changing internal migration flows patterns in South Korea</title>
-      <link>/post/changing-internal-migration-fl/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/changing-internal-migration-fl/</guid>
-      <description>Further Notes Please contact me if you would like the R code to produce the&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Estimates of Global Bilateral Migration Flows by Gender between 1960 and 2015</title>
-      <link>/post/estimates-of-global-bilateral-/</link>
-      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/estimates-of-global-bilateral-/</guid>
-      <description>Further Notes Please contact me if cannot access the full paper and would like a&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Chinese Internal Migration Flows 2010–2015 </title>
-      <link>/post/chinese-internal-migration-flo/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/chinese-internal-migration-flo/</guid>
-      <description>Further Notes Please contact me if you would like the R code to produce the plot (both the English and Chinese version). Here is an additional WeChat post on the paper (in Chinese) written by Qi&amp;hellip;</description>
+      <description>The next step is to tween the data by migration corridor. (might take a few seconds to fully load) where The function can be used to derive the size of gaps in each frame for a new animated&amp;hellip;</description>
     </item>
     
   </channel>

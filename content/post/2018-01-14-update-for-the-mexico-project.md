@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2018-01-14'
 slug: update-for-the-mexico-project
 categories:
-  - 
+  - bloglink
 tags:
   - roelandtnframaio
 ---

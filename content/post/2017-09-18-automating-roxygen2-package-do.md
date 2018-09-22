@@ -4,11 +4,11 @@ author: 'yonicd.netlify.com'
 date: '2017-09-18'
 slug: automating-roxygen2-package-do
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - yonicdnetlifycom
 ---
 
-[Thinking of creating a new package? Dread the task of function documentation? Afraid to run devtools::check(build_args = '--as-cran') and get bombarded by Errors, Warnings, and Notes (oh my!) ? Wait.... breathe! After feeling all that anxiety and following all of Hadley's directions online, I felt I was doing a lot of manual labour, and that a package should be doing all lot of this for...<click to read more>](https://yonicd.netlify.com/post/2017-09-18-sinew/)
+[Quick example, run it in R: or document functions interactively with the shiny gadget: Let me explain by example... This gets me on my way, but there is information nested within the function itself that can be useful to document and manage the namespace I could just add that manually but this is just a toy example, actual functions have many parameters and you can import many functions from a number of different...<click to read more>](https://yonicd.netlify.com/post/2017-09-18-sinew/)
 

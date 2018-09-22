@@ -6,19 +6,10 @@
     <description>Recent content in Wythamrbindio on rscribers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/wythamrbindio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Most underrated advice for grad school</title>
-      <link>/post/most-underrated-advice-for-gra/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/most-underrated-advice-for-gra/</guid>
-      <description>There is a ton of grad school advice out there (e.g. see Jennifer Doleac’s wonderful collection of Twitter threads) , but what are the most underrated pieces of advice? What is something you could tell an early grad student that they are less likely to have heard from someone else? This is my highly subjective list for OSU students. Invest in your workflow If you plan to work with any sort of data, invest heavily in your&amp;hellip;</description>
-    </item>
     
     <item>
       <title>Solution to a frustrating rJava problem</title>
@@ -26,7 +17,7 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/solution-to-a-frustrating-rjav/</guid>
-      <description>Recently I wanted to use the tabulizer package, which depends on the rJava package, and came across this error message when trying to load&amp;hellip;</description>
+      <description>Go to the command line and run: According to the solution at the aforementioned link, this will “create a link to libjvm.dylib inside R’s lib folder”. I can’t tell you much more, but it took me waaaay too long to find this so I hope this post makes it easier for the next person with this&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +26,16 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-note-on-factors-in-regressio/</guid>
-      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment period. Here’s a toy&amp;hellip;</description>
+      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to make a poster in R</title>
+      <link>/post/how-to-make-a-poster-in-r/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-make-a-poster-in-r/</guid>
+      <description>The main area where I found the Rossi post lacking was on software. All the suggestions he makes (e.g. Powerpoint, Canva, Adobe Illustrator) are point-and-click. I have nothing against using point-and-click software to make a poster, so if it works for you then go ahead. I’m just so used to leaving typesetting and formatting to the computer that there are a lot of details I don’t want to worry&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-git-github/</guid>
-      <description>p.caption { font-size: 0.8em; } From “Excuse me, do you have a moment to talk about version control?” Recently, I ran a Git + Github workshop for my research group here at Ohio&amp;hellip;</description>
+      <description>Something helpful that came out of this exercise was that it really made me sit down and think about how exactly version control is useful to applied economists and how it can be made to feel as accessible as possible. If you haven’t read David’s blog posts, my takeaway from them is that the earlier you can get students to the payoff, the&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,34 +53,7 @@
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/contra-jfk-use-r-because-it-is/</guid>
-      <description>p.caption { font-size: 0.8em; } “Coding is easy” There’s an attitude that I believe is reasonably common among applied economists, that coding is the easy part of what we do and where we add the least&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Making this website</title>
-      <link>/post/making-this-website/</link>
-      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/making-this-website/</guid>
-      <description>Using blogdown to make this website was an absolute joy. My only advice is to follow the great instructions from Alison Premanes Hill and her related set of slides &amp;hellip;.</description>
-    </item>
-    
-    <item>
-      <title>Econothemes</title>
-      <link>/post/econothemes/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/econothemes/</guid>
-      <description>econothemes can be installed with the devtools package in R by executing devtools::install_github(&amp;ldquo;weiyangtham/econothemes&amp;rdquo;) . More details available on the Github&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Stem cell policy</title>
-      <link>/post/stem-cell-policy/</link>
-      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/stem-cell-policy/</guid>
-      <description>Joint with Joe&amp;hellip;</description>
+      <description>There’s an attitude that I believe is reasonably common among applied economists, that coding is the easy part of what we do and where we add the least value. If we were building a house, coding is like laying bricks - it’s the “menial” and “boring” part of the job (no slight meant against actual bricklayers) - and we add the most value as the architect by coming up with an interesting research question, thinking about endogeneity and so&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,25 +62,7 @@
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-nih-pis-with-rvest/</guid>
-      <description>1 The Big Picture 2 Scraping Investigator Names 2.1 Clean names 3 OPM data 3.1 Linking PI names to OPM payroll data 4 What can we learn about the intramural program? 4.1 Aging of the scientifc workforce 4.2 How much do scientists earn? 4.3 Gender representation in the intramural program Background: I was doing some exploratory work for a potential project looking at intramural investigators at the&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>The Effect of Temporary Colocation on Knowledge Flows</title>
-      <link>/post/the-effect-of-temporary-coloca/</link>
-      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/the-effect-of-temporary-coloca/</guid>
-      <description>I study the effect of temporary colocation on scientific collaboration and knowledge flows. I use service on NIH study sections to obtain quasi-random variation in interactions between pairs of&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Empirical methods workshop</title>
-      <link>/post/empirical-methods-workshop/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/empirical-methods-workshop/</guid>
-      <description>Various sessions introducing tools for empirical projects. Slides and additional links available on Github&amp;hellip;</description>
+      <description>Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic descriptives. I’m going to do this in two broad steps: Selectorgadget is a javascript bookmarklet that allows you to interactively figure out what css selector you need to extract desired components from a&amp;hellip;</description>
     </item>
     
   </channel>

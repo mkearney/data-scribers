@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-02'
 slug: purpose-of-this-blog
 categories:
-  - 
+  - bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

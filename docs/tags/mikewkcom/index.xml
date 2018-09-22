@@ -17,7 +17,7 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/labelling-dataviz/</guid>
-      <description>I still remember how hard it was to learn {ggplot2} after only knowing a little about R 1 . Sure, the plots seemed pretty. But compared to the ways I had used R before, {ggplot2} &amp;rsquo;s syntax seemed almost counter-intuitive. Its pipe-like + workflow–building layer-by-layer– was like nothing I had ever used&amp;hellip;</description>
+      <description>The combination of style changes and labels clearly made a big difference but, still, I don&amp;rsquo;t think the above plot is mind-blowing or overly&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tick-marks-variable-names-and-/</guid>
-      <description>A popular workflow in R uses {dplyr} to group_by() and then summarise() 1 variables. It&amp;rsquo;s an intuitive and easy way to aggregate and describe data, especially along multiple dimensions. The cost of being both powerful and user-friendly, however, is its arguably inconvenient default method for assigning names to summarized values. As the code illustrates below, users can provide their own names when using&amp;hellip;</description>
+      <description>Regardless, while it&amp;rsquo;s definitely a good idea to provide your own summary variable names, you will invariably find yourself in a situation where you would like to plot summarized variables that were named using the text of the expressions used to create them. The following section describes three common mistakes users make that result in the mapping of incorrect names. The third common mistake is to treat the summarized expression name as a&amp;hellip;</description>
     </item>
     
   </channel>

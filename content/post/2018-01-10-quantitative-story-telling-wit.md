@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2018-01-10'
 slug: quantitative-story-telling-wit
 categories:
-  - 
+  - bloglink
 tags:
   - gokhancifliklicom
 ---

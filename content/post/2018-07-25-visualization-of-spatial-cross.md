@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2018-07-25'
 slug: visualization-of-spatial-cross
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mlrblognetlifycom
 ---
 

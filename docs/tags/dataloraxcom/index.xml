@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataloraxcom on rscribers</title>
+    <link>/tags/dataloraxcom/</link>
+    <description>Recent content in Dataloraxcom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dataloraxcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Looking into #KeepFamiliesTogether</title>
+      <link>/post/looking-into-keepfamiliestoget/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/looking-into-keepfamiliestoget/</guid>
+      <description>This week I&amp;rsquo;m at the Seattle branch of the Summer Institute on Computational Social Science. Today, we discussed digital trace data and spent some time thinking about different sources of digital trace data. One of the easiest sources is twitter, and thanks to Mike Kearney, it&amp;rsquo;s easily accessible in R via the {rtweet} package! I joined a group addressing a topic I find myself dwelling on throughout the day - the immigration crisis at the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Peeking behind the curtain with {slidex}</title>
+      <link>/post/peeking-behind-the-curtain-wit/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/peeking-behind-the-curtain-wit/</guid>
+      <description>I gave a lightning talk (slides here) this past weekend at the second annual Cascadia R Conference that was focused on creating and contributing new themes to the {xaringan} package, which is essentially a really well thought out and well-organized R Markdown wrapper around the remark.js package for producing beautiful HTML&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing an R Package Basics (and why I think you should)</title>
+      <link>/post/writing-an-r-package-basics-an/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-an-r-package-basics-an/</guid>
+      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I&amp;rsquo;ll go over some of the content in that talk, and discuss why I think you should develop an R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Website Theme!</title>
+      <link>/post/new-website-theme/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-website-theme/</guid>
+      <description>This post has needed to be writtend for a little while, but I&amp;rsquo;ve been busy with the actual work of redesigning my website (in fact, I have a number of posts that are backlogged). This post will have a little bit of code (all of it CSS, rather than R), but mostly it&amp;rsquo;s just about my journey and things I&amp;rsquo;ve learned. Getting started with Blogdown In Yihui&amp;rsquo;s introduction to blogdown he advocates for simpler&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sharing some functions from my personal R package</title>
+      <link>/post/sharing-some-functions-from-my/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sharing-some-functions-from-my/</guid>
+      <description>In this post I basically just wanted to share some recent developments that I&amp;rsquo;ve made to my personal R package {sundry}. All of the recent advancements have been made to work with the tidyverse, so things like group_by should work seamlessly. If you feel like giving the package a whirl, I&amp;rsquo;d love any feedback you have or bugs you may find. At this point the package is only on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A tidyeval use case</title>
+      <link>/post/a-tidyeval-use-case/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-tidyeval-use-case/</guid>
+      <description>A relatively routine process for me is to combine multiple files into a single data frame by row. For example, the data might be stored in separate CSV files by grade and content area, but I want to load them all and treat it as a single data frame with a grade and content indicator. A good default for this sort of process, is to keep all the variables that are present in any data file, and pad with missingness for the files that don&amp;rsquo;t have that specific&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis</title>
+      <link>/post/esvis/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/esvis/</guid>
+      <description>In this post, I&amp;rsquo;d like to share one of the more unique plots from esvis - the binned effect size plot. The overall purpose of the binned effect size plot is to evaluate if the differences between two distributions are consistent across the scale. We&amp;rsquo;ll start with a quick example from the package, and then move to a simulated data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Alluvial Diagrams with ggforce</title>
+      <link>/post/alluvial-diagrams-with-ggforce/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/alluvial-diagrams-with-ggforce/</guid>
+      <description>Today I wanted to quickly share my first real attempt at making an alluvial diagram. For those not familiar (and I wasn&amp;rsquo;t previously) an alluvial diagram is a type of flow plot that is essentially equivalent to a sankey diagram. The difference is that while sankey diagrams show flow for different categorical variables, alluvial plots show change over&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping Statewide School Ratings with US Census Tracts</title>
+      <link>/post/mapping-statewide-school-ratin/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mapping-statewide-school-ratin/</guid>
+      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis: Part 1</title>
+      <link>/post/esvis-part-1/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/esvis-part-1/</guid>
+      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs. If you find any, please let me know. You can install the package like you would any other on R install.packages(&amp;ldquo;esvis&amp;rdquo;) or if you&amp;rsquo;d prefer the sometimes buggy but more feature-heavy development version, install from github with&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

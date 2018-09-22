@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2017-07-10'
 slug: using-simulation-for-power-ana
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[Simulation can be super helpful for estimating power or sample size requirements when the study design is complex. This approach has some advantages over an analytic one (i.e. one based on a formula), particularly the flexibility it affords in setting up the specific assumptions in the planned study, such as time trends, patterns of missingness, or effects of different levels of...<click to read more>](https://www.rdatagen.net/post/using-simulation-for-power-analysis-an-example/)
+[Recently, I was helping an investigator plan a stepped wedge cluster randomized trial to study the effects of modifying a physician support system on patient-level diabetes management. While analytic approaches for power calculations do exist in the context of this complex study design, it seemed worth the effort to be explicit about all of the assumptions. So in this case I opted to use simulation. The basic approach is outlined below. Below is schematic view of how a stepped wedge study is...<click to read more>](https://www.rdatagen.net/post/using-simulation-for-power-analysis-an-example/)
 

@@ -4,8 +4,9 @@ author: 'jesse.tw'
 date: '2017-12-22'
 slug: postselection-inference-on-fri
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - jessetw
 ---
 

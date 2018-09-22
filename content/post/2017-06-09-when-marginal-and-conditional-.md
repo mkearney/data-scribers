@@ -4,11 +4,12 @@ author: 'www.rdatagen.net'
 date: '2017-06-09'
 slug: when-marginal-and-conditional-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - rdatagennet
 ---
 
-[Say we have an intervention that is assigned at a group or cluster level but the outcome is measured at an individual level (e.g. students in different schools, eyes on different individuals). And, say this outcome is binary; that is, something happens, or it...<click to read more>](https://www.rdatagen.net/post/marginal-v-conditional/)
+[My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different exposures. When we look at the data visually, we get a hint that the marginal (or average) effect might not be the same as the conditional (cluster-specific)...<click to read more>](https://www.rdatagen.net/post/marginal-v-conditional/)
 

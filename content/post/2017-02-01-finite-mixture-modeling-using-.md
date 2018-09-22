@@ -4,9 +4,10 @@ author: 'rsangole.netlify.com'
 date: '2017-02-01'
 slug: finite-mixture-modeling-using-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - rsangolenetlifycom
 ---
 

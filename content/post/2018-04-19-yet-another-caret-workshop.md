@@ -4,9 +4,10 @@ author: 'www.gokhanciflikli.com'
 date: '2018-04-19'
 slug: yet-another-caret-workshop
 categories:
+  - bloglink
+tags:
   - python
   - machine-learning
-tags:
   - gokhancifliklicom
 ---
 

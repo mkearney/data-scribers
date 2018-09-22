@@ -4,8 +4,9 @@ author: 'roelandtn.frama.io'
 date: '2017-08-24'
 slug: osgeolive-project
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - roelandtnframaio
 ---
 

@@ -4,11 +4,10 @@ author: 'lbusett.netlify.com'
 date: '2018-04-01'
 slug: a-new-rstudio-addin-to-facilit
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - lbusettnetlifycom
 ---
 
-[In the last months, I started increasingly using Rmd documents for preparing scientific reports, blog posts, etcetera. While I really like the flexibility offered by the system, one thing that I thought could be improved is the support for easily inserting...<click to read more>](https://lbusett.netlify.com/post/a-new-rstudio-addin-to-facilitate-inserting-tables-in-rmarkdown-documents/)
+[After struggling a bit due to my rather nonexistent shiny skills, in the end I managed to obtain a “basic but useful” (IMO) addin. Let’s see how it works: I hope someone else will find this...<click to read more>](https://lbusett.netlify.com/post/a-new-rstudio-addin-to-facilitate-inserting-tables-in-rmarkdown-documents/)
 

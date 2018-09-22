@@ -4,8 +4,9 @@ author: 'roelandtn.frama.io'
 date: '2018-03-31'
 slug: september-2018-datascience-goa
 categories:
-  - python
+  - bloglink
 tags:
+  - python
   - roelandtnframaio
 ---
 

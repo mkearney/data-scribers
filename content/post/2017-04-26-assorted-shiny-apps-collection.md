@@ -4,10 +4,11 @@ author: 'leonawicz.github.io/blog'
 date: '2017-04-26'
 slug: assorted-shiny-apps-collection
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - leonawiczgithubioblog
 ---
 
-[Here is an assortment of R Shiny apps that you may find useful for exploration if you are in the process of learning Shiny and looking for something different. Some of these apps are very small and simple whereas others are large and complex. This repository provides full code and any necessary accompanying data sets. The repo also links to the apps hosted online at shinyapps.io so that you can run apps in your browser without having to download the entire collection repo to run apps...<click to read more>](https://leonawicz.github.io/blog/post/2017-04-26-assorted-shiny-apps/)
+[A bit of backstory. If I recall correctly, I began exploring RStudio’s Shiny package when I first heard of it in late 2012. Needless to say, a lot has changed since then, including not only all the alpha-release code-breaking changes I had to adjust to when making my first apps and what features and capabilities Shiny has grown to offer, but also simply how I go about coding apps has changed over time symbiotically with the package’s continued...<click to read more>](https://leonawicz.github.io/blog/post/2017-04-26-assorted-shiny-apps/)
 

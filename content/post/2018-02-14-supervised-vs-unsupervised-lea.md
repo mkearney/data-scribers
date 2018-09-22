@@ -4,8 +4,9 @@ author: 'www.gokhanciflikli.com'
 date: '2018-02-14'
 slug: supervised-vs-unsupervised-lea
 categories:
-  - machine-learning
+  - bloglink
 tags:
+  - machine-learning
   - gokhancifliklicom
 ---
 

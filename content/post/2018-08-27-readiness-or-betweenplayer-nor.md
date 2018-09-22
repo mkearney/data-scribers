@@ -1,0 +1,14 @@
+---
+title: "Readiness or Between-player normalisation"
+author: 'mathlacome.rbind.io'
+date: '2018-08-27'
+slug: readiness-or-betweenplayer-nor
+categories:
+  - bloglink
+tags:
+  - rstats
+  - mathlacomerbindio
+---
+
+[We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database. Now we can see how my database is done. It is a rectangular base with 1 column for position group, one for the drill category, one for the date, the Player name or Id and my GPS variables - I chose only the distance covered above the maximal aerobic velocity and mechanical...<click to read more>](http://mathlacome.rbind.io/post/readiness/)
+

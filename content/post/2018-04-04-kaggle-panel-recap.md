@@ -4,12 +4,12 @@ author: 'www.jessemaegan.com'
 date: '2018-04-04'
 slug: kaggle-panel-recap
 categories:
+  - bloglink
+tags:
   - rstats
   - python
-  - linear-model
-tags:
   - jessemaegancom
 ---
 
-[Introduction This past March I had the distinct pleasure of participating in a panel about making the career transition to data science as part of Kaggle’s CareerCon...<click to read more>](https://www.jessemaegan.com/post/kaggle-panel-recap-my-data-science-journey/)
+[Short answer: Twitter. I don’t always tweet about career transitions in data science, but I do keep my Twitter bio section pretty focused on what I do and how I got there: Short answer: sheer dumb luck. Long answer: I “found” data science when I was at an incredibly low point in my life. It was 2013, and I had just impulsively moved cross-country (from NYC to Seattle) with a boyfriend I started having second thoughts about the moment we left...<click to read more>](https://www.jessemaegan.com/post/kaggle-panel-recap-my-data-science-journey/)
 

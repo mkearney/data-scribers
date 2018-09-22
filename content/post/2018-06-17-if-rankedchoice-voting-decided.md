@@ -4,10 +4,10 @@ author: 'watanabesmith.rbind.io'
 date: '2018-06-17'
 slug: if-rankedchoice-voting-decided
 categories:
-  - rstats
+  - bloglink
 tags:
   - watanabesmithrbindio
 ---
 
-[On a recent FiveThirtyEight Politics Podcast the hosts discussed ranked-choice voting in the Maine primary elections, and the difficulty of explaining the process to voters. While ranked-choice voting is far from simple, I think part of the complexity comes from the either obscure names of third-tier politicians or the arbitrary theoretical examples we...<click to read more>](https://WatanabeSmith.rbind.io/post/ranked-black-mirror/)
+[The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite. This is something that could happen in an actual ranked-choice election, which brings us to the subject at hand. In a ranked-choice election (also called an “instant runoff” election) voters submit a ranked list of their preferred...<click to read more>](https://WatanabeSmith.rbind.io/post/ranked-black-mirror/)
 

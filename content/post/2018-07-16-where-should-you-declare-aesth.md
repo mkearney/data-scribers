@@ -4,8 +4,9 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-07-16'
 slug: where-should-you-declare-aesth
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - evangelinereynoldsnetlifycom
 ---
 

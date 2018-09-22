@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogrdatalu on rscribers</title>
+    <link>/tags/blogrdatalu/</link>
+    <description>Recent content in Blogrdatalu on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogrdatalu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BIKE SERVICES API &#43; SHINY = NICE APP</title>
+      <link>/post/bike-services-api-shiny-nice-a/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bike-services-api-shiny-nice-a/</guid>
+      <description>Hi everyone, The JCDecaux API gives the data under the following format: Hence, our shiny application gets real time information on bike stations in 27 cities. This application works better on computer than on smartphone because shiny is not fully smartphone friendly. However, Shiny has a user-friendly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Teaching Luxembourgish to my computer</title>
+      <link>/post/teaching-luxembourgish-to-my-c/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/teaching-luxembourgish-to-my-c/</guid>
+      <description>Today we reveal a project that Kevin and myself have been working on for the past 2 months, Liss. Liss is a sentiment analysis artificial intelligence; you can let Liss read single words or whole sentences, and Liss will tell you if the overall sentiment is either positive or negative. Such tools are used in marketing, to determine how people perceive a certain brand or new products for instance. The originality of Liss, is that it works on Luxembourguish&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Renert - Part 3</title>
+      <link>/post/analysis-of-the-renert-part-3/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-of-the-renert-part-3/</guid>
+      <description>Now that we have the data in a nice format, let’s make a frequency plot! First let’s load the data and the packages: Because such a list is not available in Luxembourguish, I have translated it using Google’s translate api. Here is the code to do that: For the above code to work, you need to have a Google cloud account, which you can create for free. Now, I need to merge the dictionary with the data from each&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Renert - Part 2</title>
+      <link>/post/analysis-of-the-renert-part-2/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-of-the-renert-part-2/</guid>
+      <description>So, let’s unnest the tokens: We can remove these with a couple lines of code: For my Luxembourgish-speaking compatriots, I’d be glad to get help to make this list better! This list is far from perfect, certainly contains typos, or even words that have no reason to be there! Please&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Churn Analysis - Part 2</title>
+      <link>/post/churn-analysis-part-2/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/churn-analysis-part-2/</guid>
+      <description>Hello everyone, Each customer has a score that corresponds to his probability to churn. Let’s see the score of the five first customers of our database. We draw a table where we show the maximum value for each indicator. Now we want to target a percentage of customers in our database. Let’s sort customers by their score. Then, we observe the churn rate in different percentile of our database. The best way to visualize the churn rate by percentile is to make a lift&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Churn Analysis - Part 1</title>
+      <link>/post/churn-analysis-part-1/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/churn-analysis-part-1/</guid>
+      <description>Hello everyone, We can shortly define customer churn (most commonly called “churn”) as customers that stop doing business with a company or a service. There are customer churns in different business area. In this post, we will focus on the telecom area. Here, we want to predict which customers will leave their current telecom provider. This type of studies are called churn&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Map unemployment using R with ggplot2</title>
+      <link>/post/map-unemployment-using-r-with-/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/map-unemployment-using-r-with-/</guid>
+      <description>In this blog post, I show various ways to create maps using R. You’ll need to install a lot of packages and download two data sets; the unemployment rate in Luxembourg as well as a shapefile. These lines scrape the data off STATEC’s (the national institute of statistics) public tables and puts the raw data into a tidy data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Launching your shiny app in 2 clicks</title>
+      <link>/post/launching-your-shiny-app-in-2-/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-your-shiny-app-in-2-/</guid>
+      <description>Hello everyone, It’s fast and useful if you work with colleagues that don’t have a clue about R and just want to use your shiny app. Open a text editor and write the following lines : Open a text editor and write the following lines: if it doesn’t work, check your pandoc location. And now it’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Skip errors in R loops by not writing loops</title>
+      <link>/post/skip-errors-in-r-loops-by-not-/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/skip-errors-in-r-loops-by-not-/</guid>
+      <description>You probably have encountered situations similar to this one: I hope you enjoyed this blog post, and that these functions will make your life&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing box office revenue by genre</title>
+      <link>/post/visualizing-box-office-revenue/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-box-office-revenue/</guid>
+      <description>In this post, I describe the different steps leading to the treemap: First of all we read the data. The dataset looks better. As you have seen on top of this post. We want to design a treemap chart to visualize box-office revenue by genre. Let’s see how many movie genres are present in the data frame: There are 224 combinations of genres, which is way too many combinations. We need to reduce them in a way that each movie has 2 genres at the most: A main genre and a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Functional peace of mind</title>
+      <link>/post/functional-peace-of-mind/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/functional-peace-of-mind/</guid>
+      <description>The problem with this approach, is that you cannot reuse any of the code there, even if you put it inside a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scraping data from the local elections</title>
+      <link>/post/scraping-data-from-the-local-e/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scraping-data-from-the-local-e/</guid>
+      <description>One of my journalist friend was looking at the result of the local election in Luxembourg and he was dissatisfied because he was unable to compare the results of all the communes. In fact, he wanted to compare the number of women that were candidates in each commune. So I asked him to hold on and I came back one hour later with this script that enables him to collect results of all communes in one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Easy peasy STATA-like marginal effects with R</title>
+      <link>/post/easy-peasy-statalike-marginal-/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/easy-peasy-statalike-marginal-/</guid>
+      <description>First, let’s load some packages: And it is also possible to plot the effects with base graphics: Which makes it possible to extract the effects for a list of individuals that you can create&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Barplot with ggplot2/plotly</title>
+      <link>/post/barplot-with-ggplot2plotly/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/barplot-with-ggplot2plotly/</guid>
+      <description>Hello everyones, As the french health insurance is a public institution, it may be more interesting to find a way to monitore data than finding a way to refund less drugs… Hence, it may not be readable to show the 84 categories, so I have decided to select just some of them. First of all, I wanted to make an analysis about the five drugs categories the most refunded per&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s make ggplot2 purrr again</title>
+      <link>/post/lets-make-ggplot2-purrr-again/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lets-make-ggplot2-purrr-again/</guid>
+      <description>and then load the data with: First let’s select a list of countries: As I said before, if you do not re-order the countries inside the data frame, the names of the files and the plots will not match. Try running all the code without re-ordering, you’ll&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Communication between R and d3js</title>
+      <link>/post/communication-between-r-and-d3/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/communication-between-r-and-d3/</guid>
+      <description>Hello everyone, Now it should work! You can find the whole process in this repository. We started with something simple but you can do more complex things by applyng the same logic. Now it should&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How tidyeval could make your life easier</title>
+      <link>/post/how-tidyeval-could-make-your-l/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-tidyeval-could-make-your-l/</guid>
+      <description>But maybe now you know how to use it, but not why and when you should use it… Basically, whenever you want to write a function that looks something like this:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scraping data from STATEC&#39;s public tables</title>
+      <link>/post/scraping-data-from-statecs-pub/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scraping-data-from-statecs-pub/</guid>
+      <description>After watching the video, take a look at the code below. This code does two things; first it scrapes the data, and then it puts the data in a tidy format fur further processing. As you can see, we got the data in quite a nice format, but it still needs to be cleaned a bit. Let’s do this. First, let’s use the first row as the header of the data set and then remove it: This is starting to look nice, but we need to replace the “,” with “.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,16 +17,16 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fundamentos-de-inferencia-esta/</guid>
-      <description>Introducción A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas&amp;hellip;</description>
+      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas centrales. Dado que no soy estadístico, probablemente hayan imprecisiones, en todo caso me asumo responsable y los invito a leer de manera crítica el&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Elementos de Estadística Inferencial en R</title>
-      <link>/post/elementos-de-estad%C3%ADstica-infer/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Introducción al Aprendizaje no Supervisado con R</title>
+      <link>/post/introducci%C3%B3n-al-aprendizaje-no/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/elementos-de-estad%C3%ADstica-infer/</guid>
-      <description>Descripción: Curso de nivel básico para el análisis estadístico en Psicología mediante el lenguaje de programación&amp;hellip;</description>
+      <guid>/post/introducci%C3%B3n-al-aprendizaje-no/</guid>
+      <description>El presente documento realiza una introducción al aprendizaje no supervisado, el cual se puede entender como un conjunto de técnicas estadísticas que permiten encontrar patrones o estructura en los datos, sin necesariamente contar con hipótesis. Si inspeccionamos la gráfica anterior nos damos cuenta de que hay tres grupos en todo el conjunto de&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,25 +35,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/socioeconomic-factors-of-poor-/</guid>
-      <description>Setup Load&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Análisis de Varianza (ANOVA)</title>
-      <link>/post/an%C3%A1lisis-de-varianza-anova/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/an%C3%A1lisis-de-varianza-anova/</guid>
-      <description>Curso intersemestral impartido en el verano de 2017 por&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Introducción a la neuroimagen computacional - Modelos de Conectividad Efectiva</title>
-      <link>/post/introducci%C3%B3n-a-la-neuroimagen-/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/introducci%C3%B3n-a-la-neuroimagen-/</guid>
-      <description>Charlando sobre la conectividad cerebral estudiada con fMRI en el @INPRFM . Básicamente, mi conclusión y la de @fMRIstats es que la conectividad es un concepto estadístico y como tal, la potencia, los supuestos y las estimaciones de interés son más importantes que la etiqueta. pic.twitter.com/U8cPxThzd3 - Said Jiménez (@said_meid) 13 de diciembre de&amp;hellip;</description>
+      <description>BRFSS is an ongoing surveillance system designed to measure behavioral risk factors for the non-institutionalized adult population (18 years of age and older) residing in the US. The BRFSS was initiated in 1984, with 15 states collecting surveillance data on risk behaviors through monthly telephone&amp;hellip;</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
 ---
-title: "Balancing on multiple factors when the sample is too small to stratify "
+title: "Balancing on multiple factors when the sample is too small to stratify"
 author: 'www.rdatagen.net'
 date: '2017-06-26'
 slug: balancing-on-multiple-factors-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[Ideally, a study that uses randomization provides a balance of characteristics that might be associated with the outcome being studied. This way, we can be more confident that any differences in outcomes between the groups are due to the group assignments and not to differences in characteristics. Unfortunately, randomization does not guarantee balance, especially with smaller sample...<click to read more>](https://www.rdatagen.net/post/balancing-when-sample-is-too-small-to-stratify/)
+[In this case, we have nine different combinations of the four characteristics, four of which include only a single school (rows 2, 4, 7, and 8). Stratification wouldn’t work necessarily work here if our goal was balance across all four characteristics. To start, I create all combinations of randomization schemes: Now we are ready to evaluate each of the 1,000...<click to read more>](https://www.rdatagen.net/post/balancing-when-sample-is-too-small-to-stratify/)
 

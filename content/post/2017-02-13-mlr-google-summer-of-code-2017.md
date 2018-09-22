@@ -4,8 +4,9 @@ author: 'mlr-blog.netlify.com'
 date: '2017-02-13'
 slug: mlr-google-summer-of-code-2017
 categories:
-  - machine-learning
+  - bloglink
 tags:
+  - machine-learning
   - mlrblognetlifycom
 ---
 

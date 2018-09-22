@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberthickmaneu on rscribers</title>
+    <link>/tags/roberthickmaneu/</link>
+    <description>Recent content in Roberthickmaneu on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/roberthickmaneu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sf.chlorodot mini-package</title>
+      <link>/post/sfchlorodot-minipackage/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sfchlorodot-minipackage/</guid>
+      <description>The basic idea of the dot chloropleths is to visualise not only the location clustering of each variable but the number of observations (something traditional ‘filled’ chloropleths don’t do). More importantly than this, the maps also just look really really cool. Next, download and scrape the data for the map the lanaguage data then needs to be transformed before the dot position is calculated. It must be in ‘short’ format with variables as column&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Knowledge 4th August 2018</title>
+      <link>/post/the-knowledge-4th-august-2018/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-knowledge-4th-august-2018/</guid>
+      <description>Some longer chains involving cities happened in the 1920-1921 seasons in the Second Division, but it seems like the scheduling worked differently then and teams played back to back more, so doesn’t really count. So the record for that is only slightly shorter! with Stoke and Hull City playing a range of cities in the 1919-1920 season (but see above for scheduling differences) and Carlisle United playing 5 other different Uniteds in a row in the old Fourth&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Rest of the World/UK</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Simulate World Cups</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>Now that we have the teams for each county, we want to work out how well they would do at a world cup. For this, we need to know roughly what their ranking would be compared to actual nations. Two sources of rankings of nations are the official FIFA world rankings, and also the world ELO ratings of each nation at www.eloratings.net. I scraped both of these (accurate to mid-May) and cleaned the data to match the nation names to those in the player dataset we’re&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Picking Teams</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>First, we need a list of plausible formations, and the positions they contain. There’s a handy list of the default FIFA18 formations online which we’ll scrape. -pick_players itself iterates through each formation that we&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Finding British Player&#39;s Birthplaces</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>To select our county teams, we need to know where each British player was born (and thus their ‘county’ nationality). Fortunately, wikipedia has an extremely detailed database of thousands of footballers, incluiding their birthplace (which we can assume is at least reasonably correct). First, the data needs to be filtered to include only players with British nationalities (English, Welsh, Scottish, or Northern Irish) or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - LASSOs and Player Positions</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or etc.). We need to make sure we select the best palyers for each position on a realistic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Data &amp; Scraping</title>
+      <link>/post/could-an-independent-yorkshire/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/could-an-independent-yorkshire/</guid>
+      <description>In order to calculate how good each county team would be, I needed a measure of the ability of all of the players they could field. For this I turned to the FIFA18 video game which rates players along a variety of scales. Once that’s scraped and bound we can take a peek at the data. There’s 18k players in total and 48 variables for each so we’ll just look at a few for now.</description>
+    </item>
+    
+    <item>
+      <title>Riddler 27th April 2018</title>
+      <link>/post/riddler-27th-april-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/riddler-27th-april-2018/</guid>
+      <description>Formally this is phrased as: Some number, N, of people need to pee, and there is some number, M, of urinals in a row in a men’s room. The people always follow a rule for which urinal they select: The first person goes to one on either far end of the row, and the rest try to maximize the number of urinals between them and any other person. So the second person will go on the other far end, the third person in the middle, and so&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello World! And A Small Chess Plotting Package</title>
+      <link>/post/hello-world-and-a-small-chess-/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world-and-a-small-chess-/</guid>
+      <description>To copy the readme mini-vignette provides a nice overview of the uber-function which goes from pgn -&amp;gt; gif. There&amp;rsquo;s also a load of semi-arranged smaller functions used to work out the positions of the pieces and plot the board etc. which people can play around&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

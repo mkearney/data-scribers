@@ -26,7 +26,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/note-to-self/</guid>
-      <description>This is the first post in a series where I write to myself regarding the various data science spells I’m learning. Today’s spell: dplyr’s filter function. For some reason, upon learning how to filter data with the dplyr package, I thought that function was designed to only remove or discard data, specifically columns. That is not the case and I’m writing this blog post to try and correct this automatic thinking in my&amp;hellip;</description>
+      <description>This is the first post in a series where I write to myself regarding the various data science spells I’m learning. Today’s spell: dplyr’s filter function. For some reason, upon learning how to filter data with the dplyr package, I thought that function was designed to only remove or discard data, specifically columns. That is not the case and I’m writing this blog post to try and correct this automatic thinking in my brain.</description>
     </item>
     
     <item>

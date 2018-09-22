@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-05-31'
 slug: ages-by-england-wales-constitu
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

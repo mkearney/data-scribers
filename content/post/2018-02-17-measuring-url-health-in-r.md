@@ -4,8 +4,9 @@ author: 'jesse.tw'
 date: '2018-02-17'
 slug: measuring-url-health-in-r
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - jessetw
 ---
 

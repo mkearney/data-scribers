@@ -4,10 +4,11 @@ author: 'wytham.rbind.io'
 date: '2018-06-24'
 slug: solution-to-a-frustrating-rjav
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - wythamrbindio
 ---
 
-[Recently I wanted to use the tabulizer package, which depends on the rJava package, and came across this error message when trying to load...<click to read more>](https://wytham.rbind.io/post/solution-to-a-frustrating-rjava-problem/)
+[Go to the command line and run: According to the solution at the aforementioned link, this will “create a link to libjvm.dylib inside R’s lib folder”. I can’t tell you much more, but it took me waaaay too long to find this so I hope this post makes it easier for the next person with this...<click to read more>](https://wytham.rbind.io/post/solution-to-a-frustrating-rjava-problem/)
 

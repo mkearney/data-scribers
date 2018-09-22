@@ -29,14 +29,5 @@
       <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on archive.org. A number of people picked up on the idea of checking out some of the old magazines from the time they can remeber starting with&amp;hellip;</description>
     </item>
     
-    <item>
-      <title>polite</title>
-      <link>/post/polite/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/polite/</guid>
-      <description>Basic information about the package and&amp;hellip;</description>
-    </item>
-    
   </channel>
 </rss>

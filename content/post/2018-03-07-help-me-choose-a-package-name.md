@@ -4,8 +4,9 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-07'
 slug: help-me-choose-a-package-name
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mailundgithubiorprogrammerblog
 ---
 

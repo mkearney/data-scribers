@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-05'
 slug: another-approach-to-evaluating
 categories:
-  - 
+  - bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

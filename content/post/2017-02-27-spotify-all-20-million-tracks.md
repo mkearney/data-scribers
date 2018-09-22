@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-02-27'
 slug: spotify-all-20-million-tracks
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

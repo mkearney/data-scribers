@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-02'
 slug: blog-setup
 categories:
-  - 
+  - bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

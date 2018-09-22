@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calligrossde on rscribers</title>
+    <link>/tags/calligrossde/</link>
+    <description>Recent content in Calligrossde on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/calligrossde/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Cookie Based Authentication with Shiny</title>
+      <link>/post/using-cookie-based-authenticat/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-cookie-based-authenticat/</guid>
+      <description>Introduction Authentication is one of the features the open source version of shiny-server is missing. The simplest way is to set up a proxy and let it handle the user authentication. But in some scenarios, this isn’t sufficient as you are not able to determine in shiny who is the current user and thus are e.g. unable to apply an authorization scheme. One possible solution for this problem is a cookie based&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogzenggyucomen on rscribers</title>
+    <link>/tags/blogzenggyucomen/</link>
+    <description>Recent content in Blogzenggyucomen on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogzenggyucomen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Objects in a Nutshell</title>
+      <link>/post/git-objects-in-a-nutshell/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/git-objects-in-a-nutshell/</guid>
+      <description>The main purpose of Git as a version control system is to keep track of files. The content of each file at any point in time as well as other information that is necessary to reproduce the changing history are stored as objects in a Git repository. Therefore, understanding the types of objects and how they relate is essential to understanding how Git works, and hence knowing how to use it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Usage of ANSI C Escape Sequences in Various Programing Languages</title>
+      <link>/post/the-usage-of-ansi-c-escape-seq/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-usage-of-ansi-c-escape-seq/</guid>
+      <description>An escape sequence is a sequence of characters that does not represent itself when used inside a character or string literal, but is translated into another character or a sequence of characters that may be difficult or impossible to represent directly. Escape sequences are widely used in C and many other languages, such as R, (Postgre)SQL and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting up Datagrip</title>
+      <link>/post/setting-up-datagrip/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-datagrip/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for Datagrip. Datagrip is available as a snap package on Ubuntu, which can be installed using the following command: Follow these steps: Here is a made-up TNS&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting up a Git Repository</title>
+      <link>/post/setting-up-a-git-repository/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-a-git-repository/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for setting up a git&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting to Know a Database Continued</title>
+      <link>/post/getting-to-know-a-database-con/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-to-know-a-database-con/</guid>
+      <description>All the functions are created and have been tested in PostgreSQL v10.5. However, it should be noted that the functions are intended for interactive use only and they may not cover every use case. For example: For example: Another example: For example: Another&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Different Ways to Define and Return Outputs From PL/pgSQL Functions</title>
+      <link>/post/a-comparison-of-different-ways/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-comparison-of-different-ways/</guid>
+      <description>Based on the matrix, the following pair-wise comparisons were made: The following code shows the definition of each function and how they are called. The followings are some take-away rules summarised from the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting to Know a Database</title>
+      <link>/post/getting-to-know-a-database/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-to-know-a-database/</guid>
+      <description>Recently I was introduced to a database which contains tens of thousands of tables and millions of columns. Since I don’t have much documentation at hand, I constantly have the feeling that I don’t know enough to use the database while I was exploring it. It should be mentioned that the database I encountered is managed by Greenplum, which is based on PostgreSQL. Therefore, the methods introduced in this post is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating User-Defined Functions in PostgreSQL</title>
+      <link>/post/creating-userdefined-functions/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-userdefined-functions/</guid>
+      <description>The following code has been tested with PostgreSQL 10.4 on Ubuntu 18.04. A function can have an arbitrary number of arguments (e.g., 0, 1, 2, …) as input. If there are more than two arguments, each should be separated by a comma. The arguments need not to be named (in which case they should be referenced by positional parameters in the function body), but must has a type&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Visual Studio Code</title>
+      <link>/post/setting-up-visual-studio-code/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-visual-studio-code/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for Visual Studio&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multivariate Adaptive Regression Splines in a Nutshell</title>
+      <link>/post/multivariate-adaptive-regressi/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/multivariate-adaptive-regressi/</guid>
+      <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Limitation of Accuracy of Classification Models</title>
+      <link>/post/the-limitation-of-accuracy-of-/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-limitation-of-accuracy-of-/</guid>
+      <description>It didn’t occur to me that even if a classification model can perfectly estimate the probability of an outcome, the accuracy of the prediction can still be low. This post explains the phenomenon. Some useful notes on the code that makes Figure&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Brief Introduction to Bagged Trees, Random Forest and Their Applications in R</title>
+      <link>/post/a-brief-introduction-to-bagged/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-brief-introduction-to-bagged/</guid>
+      <description>It should be noted that although the bagged trees are identically distributed, they are not necessarily independent. Since the boostrap samples used to train each individual tree come from the same data set, it is not surprising that the trees may share some similar structure. This similarity, known as tree correlation, is an essential factor that prevents further reduction of variance (hence further improvement of performance) for bagged&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up PostgreSQL</title>
+      <link>/post/setting-up-postgresql/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-postgresql/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up R</title>
+      <link>/post/setting-up-r/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-r/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for R. This post will concentrate on user- or project-specific files, so all the files mentioned below should be placed in a user’s home directory or in the working directory of a project. Global Options -&amp;gt; General:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Ubuntu</title>
+      <link>/post/setting-up-ubuntu/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting-up-ubuntu/</guid>
+      <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for Ubuntu. There are two settings that may be of particular interest: The following command can be used to update system time, but note that the program is no longer installed on Ubuntu by&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

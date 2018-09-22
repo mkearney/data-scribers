@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-04-27'
 slug: new-package-releases
 categories:
-  - 
+  - bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

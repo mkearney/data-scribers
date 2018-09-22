@@ -4,11 +4,12 @@ author: 'thomasmock.netlify.com'
 date: '2018-03-16'
 slug: a-gentle-guide-to-tidy-statist
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
+  - modeling
   - thomasmocknetlifycom
 ---
 
-[While data analysis in R can seem intimidating, we will explore how to use it effectively and clearly! Introduction After a great discussion started by Jesse Maegan ( @kiersi ) on Twitter, I decided to post a workthrough of some (fake) experimental treatment data. These data correspond to a new (fake) research drug called AD-x37, a theoretical drug that has been shown to have beneficial outcomes on cognitive decline in mouse models of Alzheimer’s...<click to read more>](https://thomasmock.netlify.com/post/a-gentle-guide-to-tidy-statistics-in-r/)
+[We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment. In a real clinical trial, many other variables would be recorded, but for the sake of a straightforward but multi-variate example we will stick to just MMSE. We will be working through loading, plotting, analyzing, and saving the outputs of our analysis through the tidyverse, an “opinionated collection of R packages” designed for data...<click to read more>](https://thomasmock.netlify.com/post/a-gentle-guide-to-tidy-statistics-in-r/)
 

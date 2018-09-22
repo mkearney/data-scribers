@@ -4,9 +4,10 @@ author: 'roelandtn.frama.io'
 date: '2017-08-20'
 slug: first-post-
 categories:
+  - bloglink
+tags:
   - rstats
   - python
-tags:
   - roelandtnframaio
 ---
 

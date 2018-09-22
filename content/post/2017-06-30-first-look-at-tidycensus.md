@@ -4,8 +4,9 @@ author: 'www.mytinyshinys.com'
 date: '2017-06-30'
 slug: first-look-at-tidycensus
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - mytinyshinyscom
 ---
 

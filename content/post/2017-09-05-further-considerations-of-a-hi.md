@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2017-09-05'
 slug: further-considerations-of-a-hi
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[In my previous post , I described a continuous data generating process that can be used to generate discrete, categorical outcomes. In that post, I focused largely on binary outcomes and simple logistic regression just because things are always easier to follow when there are fewer moving parts. Here, I am going to focus on a situation where we have multiple outcomes, but with a slight twist - these groups of interest can be interpreted in an ordered...<click to read more>](https://www.rdatagen.net/post/a-hidden-process-part-2-of-2/)
+[Certainly, group membership is not necessarily intrinsically ordered. In a general categorical or multinomial outcome, a group does not necessarily have any quantitative relationship vis a vis the other groups. For example, if we were interested in primary type of meat consumption, individuals might be grouped into those favoring (1) chicken, (2) beef, (3) pork, or (4) no meat. We might be interested in estimating the different distributions across the four groups for males and...<click to read more>](https://www.rdatagen.net/post/a-hidden-process-part-2-of-2/)
 

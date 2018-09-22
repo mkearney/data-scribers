@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-05-10'
 slug: rcpproll-package-for-swift-mov
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

@@ -4,10 +4,10 @@ author: 'fishsciences.github.io'
 date: '2018-02-03'
 slug: visualizing-fish-encounter-his
 categories:
-  - rstats
+  - bloglink
 tags:
   - fishsciencesgithubio
 ---
 
-[Project Prep Packages you’ll need: tidyverse (or individual components therein: readr , dplyr , ggplot2 ). Suggested package(s): extrafont , hrbrthemes . What is an encounter history? When working with tagged fish swimming in a river, we often generate a record of each fish’s “encounters” with the autonomous monitors in an underwater...<click to read more>](https://fishsciences.github.io/post/visualizing-fish-encounter-histories/)
+[Encounter histories are the translation of a fish’s path into a row of ones and zeros, each corresponding to a positive or negative detection record at a receiver location in the acoustic array. An encounter history data frame might look like this: A typical pattern of encounter histories for outmigrating juvenile fish is to see the detection rate decline as they migrate downstream and succumb to predation or other mortality...<click to read more>](https://fishsciences.github.io/post/visualizing-fish-encounter-histories/)
 

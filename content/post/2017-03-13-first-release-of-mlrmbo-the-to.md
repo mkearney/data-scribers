@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-13'
 slug: first-release-of-mlrmbo-the-to
 categories:
-  - 
+  - bloglink
 tags:
   - mlrblognetlifycom
 ---

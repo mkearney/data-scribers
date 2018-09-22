@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-27'
 slug: when-babe-ruth-met-kandinsky
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

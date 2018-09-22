@@ -4,8 +4,9 @@ author: 'www.jamesuanhoro.com'
 date: '2017-10-28'
 slug: misspecification-and-fit-indic
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - jamesuanhorocom
 ---
 

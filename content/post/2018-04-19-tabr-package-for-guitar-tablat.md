@@ -4,11 +4,10 @@ author: 'leonawicz.github.io/blog'
 date: '2018-04-19'
 slug: tabr-package-for-guitar-tablat
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - leonawiczgithubioblog
 ---
 
-[The tabr package for creating guitar tablature ("tabs") from R code is now available on CRAN. tabr provides programmatic music notation and a wrapper around LilyPond for creating quality guitar tablature. tabr offers functions for describing and organizing musical structures and wraps around the LilyPond backend. LilyPond is an open source music engraving program for generating high quality sheet music based on markup...<click to read more>](https://leonawicz.github.io/blog/post/tabr-package-for-guitar-tablature-now-on-cran/)
+[While music can be quite complex and a full score will be much longer, something as simple as the following code snippet produces the music notation in the accompanying image. A brief example below highlights the general workflow. Finally, specify some song metadata to reproduce the original staff: the key of D minor, common time, and the tempo. There is a rich collection of vignette tutorials available at the tabr...<click to read more>](https://leonawicz.github.io/blog/post/tabr-package-for-guitar-tablature-now-on-cran/)
 

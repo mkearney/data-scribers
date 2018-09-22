@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2018-01-27'
 slug: jalen-v-shaq-as-baby-names
 categories:
-  - 
+  - bloglink
 tags:
   - jessetw
 ---

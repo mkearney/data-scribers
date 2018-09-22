@@ -4,8 +4,9 @@ author: 'www.gokhanciflikli.com'
 date: '2018-01-22'
 slug: predicting-conflict-duration-w
 categories:
-  - machine-learning
+  - bloglink
 tags:
+  - machine-learning
   - gokhancifliklicom
 ---
 

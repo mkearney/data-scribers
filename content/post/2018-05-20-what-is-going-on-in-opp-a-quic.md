@@ -4,11 +4,11 @@ author: 'www.openplantpathology.org'
 date: '2018-05-20'
 slug: what-is-going-on-in-opp-a-quic
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - rstats
   - openplantpathologyorg
 ---
 
-[We founded OPP in early January this year without too much ambition and zero...<click to read more>](https://openplantpathology.org/post/2018-05-20-second-post-five-month-summary/)
+[To achieve this goal, OPP evolved to: We were surprised by a quick reaction and initial engagement in our Slack workspace where several channels were created to accommodate smaller groups with a specific interest including #epidemictheory, #phytopathometry, #reproducibility, #teaching and #r-pkg-dev, as among the more active. There have been a lot of interactions and collaborations are on the...<click to read more>](https://openplantpathology.org/post/2018-05-20-second-post-five-month-summary/)
 

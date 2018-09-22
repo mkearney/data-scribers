@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+
+<main>
+	<div class="catalogue">
+		{{ range (.Paginate .Pages).Pages }}
+				<div>
+				  <br>
+          <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ .PublishDate.Format "January 2, 2006 via" }}
+          </time><span><a style="color:#36d;font-style:italic" href="http://{{ .Params.Author }}">{{ .Params.Author }}</a></span>
+					<h1 class="catalogue-title">{{ .Title }}</h1>
+					<div class="catalogue-line"></div>
+
+
+					<p>
+						{{ .Content }}
+					</p>
+
+				</div>
+		{{ end }}
+	</div>
+
+	<div class="pagination">
+		{{ if .Paginator.HasPrev }}
+			<a href="{{ .Paginator.Prev.URL }}" class="left arrow">&#8592;</a>
+		{{ end }}
+		{{ if .Paginator.HasNext }}
+			<a href="{{ .Paginator.Next.URL }}" class="right arrow">&#8594;</a>
+		{{ end }}
+
+		<span>{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+	</div>
+</main>
+
+{{ partial "footer.html" . }}

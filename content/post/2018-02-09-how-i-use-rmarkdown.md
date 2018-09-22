@@ -1,0 +1,14 @@
+---
+title: "How I use Rmarkdown"
+author: 'thestudyofthehousehold.com'
+date: '2018-02-09'
+slug: how-i-use-rmarkdown
+categories:
+  - bloglink
+tags:
+  - rstats
+  - thestudyofthehouseholdcom
+---
+
+[Last week or so, I achieved a wonderous thing. A trivial thing. I acheived a wondrous, trivial thing: I wrote my most popular tweet ever: My new thing is ending every Rmd with a list of links to the forums / SO questions / blogs / github repos that I used to solve the problem #rstats pic.twitter.com/U51KT9kiym - Andrew MacDonald (@polesasunder) January 26, 2018 That’s right! Dr. MacDonald going viral on the internet by urging people to...<click to read more>](http://thestudyofthehousehold.com/2018/02/09/2018-02-09-how-i-use-rmarkdown/)
+

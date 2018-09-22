@@ -21,24 +21,6 @@
     </item>
     
     <item>
-      <title>Yet Another Titanic Solve</title>
-      <link>/post/yet-another-titanic-solve/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/yet-another-titanic-solve/</guid>
-      <description>Objectives Read in the dataset Train-Test Split Missing values analysis EDA Target Variable Predictor Variables Univariate &amp;amp; Bivariate Multivariate Analyses Data Preparation Missing Values Imputation Derived Variables Final Data Review Modeling Extreme Gradient Boosting Elastinet k-NN SVM C5.0 Averaged Neural Networks Conditional Inference Random Forests Compare models Test Set Evaluation Create test set Predict test results Kaggle Performance tl;dr: Another titanic&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Books I Reference</title>
-      <link>/post/books-i-reference/</link>
-      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/books-i-reference/</guid>
-      <description>The full list of the books in my shelf is on my Goodreads account 1. The ones I refer to the most are listed here: Deep Learning Deep Learning with R Francois Chollet Handbook Of Neural Computing Applications Alianna J Maren Deep Learning Ian Goodfellow LSTM with Python Jason Brownlee GLM Generalized Additive Models: An Introduction with R, Second Edition Simon Wood Applied Regression Modeling Iain Pardoe Generalized Linear Models John&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>First foray into Shiny</title>
       <link>/post/first-foray-into-shiny/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>

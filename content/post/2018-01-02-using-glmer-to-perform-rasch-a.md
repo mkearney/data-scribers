@@ -4,8 +4,9 @@ author: 'www.jamesuanhoro.com'
 date: '2018-01-02'
 slug: using-glmer-to-perform-rasch-a
 categories:
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - jamesuanhorocom
 ---
 

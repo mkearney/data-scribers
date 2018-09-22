@@ -4,8 +4,9 @@ author: 'rsangole.netlify.com'
 date: '2017-09-27'
 slug: performance-benchmarking-for-d
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - rsangolenetlifycom
 ---
 

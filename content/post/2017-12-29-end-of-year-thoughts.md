@@ -4,10 +4,11 @@ author: 'r-tastic.co.uk'
 date: '2017-12-29'
 slug: end-of-year-thoughts
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - rtasticcouk
 ---
 
-[Sometimes it's worth making New Year resolutions... A year ago I made one for 2017 to start an R blog using RMarkdown and Jekyll static sites. At the time, I didn't even know git that well, had no clue what static sites are and was mostly oblivious to the rich and vibrant R community on Twitter. Fast-forward one year and... the picture couldn't be any more different! I'd like to share my thoughts on writing this blog (and data science blog in general) and how it taught me about getting stuff...<click to read more>](https://r-tastic.co.uk/post/end-of-year-thoughts/)
+[I'm a list-person. Totally. I love ticking off boxes, feeling that I've achieved a lot every day. At the same time, working full time in London (meaning work + non-negligible commute) while having two small children (2 and 4 years old) leaves me with very little spare time (usually in the evenings). Fortunately, my work as a data scientist and this blog give me lots of opportunities to solve problems and deliver something tangible in defined time...<click to read more>](https://r-tastic.co.uk/post/end-of-year-thoughts/)
 

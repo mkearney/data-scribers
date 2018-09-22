@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eddjberrynetlifycom on rscribers</title>
+    <link>/tags/eddjberrynetlifycom/</link>
+    <description>Recent content in Eddjberrynetlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eddjberrynetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SparkR vs sparklyr for interacting with Spark from R</title>
+      <link>/post/sparkr-vs-sparklyr-for-interac/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sparkr-vs-sparklyr-for-interac/</guid>
+      <description>This post grew out of some notes I was making on the differences between SparkR and sparklyr, two packages that provide an R interface to Spark. I’m currently working on a project where I’ll be interacting with data in Spark, so wanted to get a sense of options using R. Those unfamiliar with sparklyr might benefit from reading the first half of this previous post, where I cover the idea of having R objects for connections to Spark&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and k-fold cross validation with sparklyr</title>
+      <link>/post/machine-learning-and-kfold-cro/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/machine-learning-and-kfold-cro/</guid>
+      <description>In this post I’m going to run through a brief example of using sparklyr in R. This package provides a way to connect to Spark from within R, while using the dplyr functions we all know and love. I was entirely new to Spark, and databases in general, before having a play with sparklyr. Seemingly its main rival is the more mature SparkR package. Interestingly, SparkR has a number of functions that look very similar to dplyr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing your thesis with bookdown</title>
+      <link>/post/writing-your-thesis-with-bookd/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-your-thesis-with-bookd/</guid>
+      <description>This post details some tips and tricks for writing a thesis/dissertation using the bookdown R package by Yihui Xie. The idea of this post is to supplement the fantastic book that Xie has written about bookdown, which can be found here. I will assume that readers know a bit about R Markdown; a decent knowledge of R Markdown is going to be essential to using bookdown. The first thing to highlight is that I’m not a pandoc or LaTeX&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Intro to R slides</title>
+      <link>/post/intro-to-r-slides/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro-to-r-slides/</guid>
+      <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub. An introduction to R In this introduction to R I focused on tools from the tidyverse, as well as trying to provide some motivation for learning R. The audience was academics and postgraduates in a psychology&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

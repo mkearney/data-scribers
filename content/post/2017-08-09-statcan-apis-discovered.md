@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-08-09'
 slug: statcan-apis-discovered
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

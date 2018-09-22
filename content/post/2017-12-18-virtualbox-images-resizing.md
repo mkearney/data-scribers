@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-12-18'
 slug: virtualbox-images-resizing
 categories:
-  - 
+  - bloglink
 tags:
   - roelandtnframaio
 ---

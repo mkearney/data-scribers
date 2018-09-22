@@ -17,7 +17,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-debkeepr/</guid>
-      <description>After an extensive period of iteration and a long but rewarding process of learning about package development, I am pleased to announce the release of my first R package. The package is called debkeepr , and it derives directly from my historical research on early modern merchants . debkeepr provides an interface for working with non-decimal currencies that use the tripartite system of pounds, shillings, and pence that was used throughout Europe in the medieval and early modern&amp;hellip;</description>
+      <description>The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts. In reading through documents that may or may not be primarily economic in nature, the researcher comes across sets of values that need to be manipulated to better understand their&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/one-year-anniversary/</guid>
-      <description>It was a year ago today that I launched this website with a post introducing myself and the goals for the blog. When I launched the site, I was at the beginning of teaching myself about digital humanities and how to code in R. Building this Hugo site was part of my learning process. I learned about the command line, Git, and GitHub, not to mention a bit of HTML and CSS to get the website up and&amp;hellip;</description>
+      <description>In a nice little coincidence this is the 11th post to the blog and pushes my first introductory post to the second page of blog entries. I am looking forward to the next year of continuing to learn more about digital humanities and R and writing about my experiences on this blog, pushing more and more posts to the second page and&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,25 +35,16 @@
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/great-circles-with-r/</guid>
-      <description>In 1569 the Flemish cartographer and mathematician Gerardus Mercator published a new world map under the title &amp;ldquo;New and more complete representation of the terrestrial globe properly adapted for use in navigation.&amp;rdquo; The title of the map points to Mercator&amp;rsquo;s main claim for its usefulness, which he expounded upon in the map&amp;rsquo;s legends. Mercator presented his map as not only an accurate representation of the known world, but also as a particularly useful map for the purposes of&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>An Exploration of Simple Features for R</title>
-      <link>/post/an-exploration-of-simple-featu/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/an-exploration-of-simple-featu/</guid>
-      <description>My previous post provided an introduction to the sp and sf packages, showing how the two packages represent spatial data in R. There I discussed the creation of Spatial and sf objects from data with longitude and latitude values and the process of making maps with the two packages. In this post I will go further into the details of the sf package by examining the structure of sf objects and how the package implements the Simple Features open&amp;hellip;</description>
+      <description>At this point, the output is not hugely informative. However, we can confirm that the process of making great circles worked by observing the curvatures of the lines. Notice that the amount of curvature differs according to distance and the bearing of the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Introduction to GIS with R</title>
       <link>/post/introduction-to-gis-with-r/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introduction-to-gis-with-r/</guid>
-      <description>The geographic visualization of data makes up one of the major branches of the Digital Humanities toolkit. There are a plethora of tools that can visualize geographic information from full-scale GIS applications such as ArcGIS and QGIS to web-based tools like Google maps to any number of programing languages. There are advantages and disadvantages to these different types of&amp;hellip;</description>
+      <description>Let&amp;rsquo;s look at the result. We can see that the data is in the format that we are looking for and that the &amp;ldquo;type&amp;rdquo; column has been correctly transformed into&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +53,7 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/introduction-to-network-analys/</guid>
-      <description>Over a wide range of fields network analysis has become an increasingly popular tool for scholars to deal with the complexity of the interrelationships between actors of all sorts. The promise of network analysis is the placement of significance on the relationships between actors, rather than seeing actors as isolated&amp;hellip;</description>
+      <description>Compare this to an adjacency matrix with the same data. We need to start as always by loading the necessary&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +62,7 @@
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/geocoding-with-r/</guid>
-      <description>In the previous post I discussed some reasons to use R instead of Excel to analyze and visualize data and provided a brief introduction to the R programming language. That post used an example of letters sent to the sixteenth-century merchant Daniel van der Meulen in 1585. One aspect missing from the analysis was a geographical visualization of the&amp;hellip;</description>
+      <description>The resulting map is rather sparse and does not provide much information, but it gives a good starting point from which to build a more informative map. I now have the necessary data to create a map that will distinguish between the sources of the letters and their destinations and will allow me to show the quantities of letters sent from and received in each&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,25 +71,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/excel-vs-r/</guid>
-      <description>Quantitative research often begins with the humble process of counting. Historical documents are never as plentiful as a historian would wish, but counting words, material objects, court cases, etc. can lead to a better understanding of the sources and the subject under study. When beginning the process of counting, the first instinct is to open a spreadsheet. The end result might be the production of tables and charts created in the very same spreadsheet&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>My Approach to Digital Humanities</title>
-      <link>/post/my-approach-to-digital-humanit/</link>
-      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/my-approach-to-digital-humanit/</guid>
-      <description>Digital humanities holds the promise of increasing the means by which scholars are able to analyze and present data. Though some sentiments about the significance of digital humanities might be overblown, there is no doubt that the more ways we have to analyze sources the better . Learning a variety of the tools that make up the rather nebulous universe of digital humanities is like learning a new&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>New kinds of Projects</title>
-      <link>/post/new-kinds-of-projects/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/new-kinds-of-projects/</guid>
-      <description>In the process of learning about how I could use digital technologies to better organize my research, I quickly started to think about how I might extend these skills to produce new kinds of outputs. 1 I was familiar with the concept of digital humanities, but the step from an internal process of organizing research and writing to production seemed both too nebulous and difficult. Digital humanities also seemed to concentrate on the&amp;hellip;</description>
+      <description>We can save the objects for later use by using the assignment operator and giving the data frames names. Now that we have the data in a better form, we can plot it by making another bar chart. The graph shows a peak in March of 1585 when Antwerp was in an extremely vulnerable position and it was more important than ever that it receive military and monetary assistance from the rebels in&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +89,7 @@
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/by-way-of-introduction/</guid>
-      <description>In this introductory post I want to lay out the reasons for the creation of this website, to discuss some content that I will be looking to create, and to set some goals for the site. First though, I should first introduce myself. I am a historian of early modern Europe. My research investigates merchant families and the social basis of trade, politics, and&amp;hellip;</description>
+      <description>Concerning, the actual content of this blog, I envision the posts falling into two general categories. In the first place, the blog will be a space for me to discuss the various projects that I am working on, both traditional history projects and those in digital humanities. Emphasis will be on the latter, since it was in the course of working on digital projects that I created this&amp;hellip;</description>
     </item>
     
   </channel>

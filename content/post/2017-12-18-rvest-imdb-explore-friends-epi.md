@@ -4,8 +4,9 @@ author: 'jesse.tw'
 date: '2017-12-18'
 slug: rvest-imdb-explore-friends-epi
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - jessetw
 ---
 

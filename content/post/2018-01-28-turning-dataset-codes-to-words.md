@@ -4,7 +4,7 @@ author: 'ryanestrellado.netlify.com'
 date: '2018-01-28'
 slug: turning-dataset-codes-to-words
 categories:
-  - 
+  - bloglink
 tags:
   - ryanestrelladonetlifycom
 ---

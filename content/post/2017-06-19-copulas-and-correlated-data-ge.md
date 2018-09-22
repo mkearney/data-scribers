@@ -4,11 +4,10 @@ author: 'www.rdatagen.net'
 date: '2017-06-19'
 slug: copulas-and-correlated-data-ge
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
   - rdatagennet
 ---
 
-[Using the simstudy package, it’s possible to generate correlated data from a normal distribution using the function genCorData . I’ve wanted to extend the functionality so that we can generate correlated data from other sorts of distributions; I thought it would be a good idea to begin with binary and Poisson distributed data, since those come up so frequently in my...<click to read more>](https://www.rdatagen.net/post/correlated-data-copula/)
+[Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty well. Using the last data set, I fit a GEE model to see how well the data generating process is recovered: We can also generate binary...<click to read more>](https://www.rdatagen.net/post/correlated-data-copula/)
 

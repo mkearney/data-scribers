@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-07-07'
 slug: strava-time-vs-distance-data-a
 categories:
-  - 
+  - bloglink
 tags:
   - sciathlongithubio
 ---

@@ -4,10 +4,10 @@ author: 'www.njtierney.com'
 date: '2017-10-31'
 slug: bringing-together-people-and-p
 categories:
-  - rstats
+  - bloglink
 tags:
   - njtierneycom
 ---
 
-[Note: This is cross-posted from rOpenSci's blog post Just last week we organised the 2nd rOpenSci ozunconference , the sibling rOpenSci unconference, held in Australia. Last year it was held in Brisbane , this time around, the ozunconf was hosted in Melbourne, from October 27-27,...<click to read more>](https://www.njtierney.com/post/2017/10/31/bring-ppl-together/)
+[What we created was a bunch of awesome individuals from 12 different countries. Before the ozunconf we discussed and dreamt up projects to work on for a few days, then met up and brought a few of them into reality. Before the ozunconf, we discussed various ideas for projects in GitHub issues. Things really started to pick up in the last week and we ended up at 41 issues - almost as many issues as...<click to read more>](https://www.njtierney.com/post/2017/10/31/bring-ppl-together/)
 

@@ -1,0 +1,13 @@
+---
+title: "How to Create a MySQL Database"
+author: 'linuxize.com'
+date: '2018-08-06'
+slug: how-to-create-a-mysql-database
+categories:
+  - bloglink
+tags:
+  - linuxizecom
+---
+
+[This tutorial explains how to create MySQL or MariaDB databases through the command line. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your system. If you don't have MySQL or MariaDB installed on your server, you can quickly install it by following some of the tutorials below: How To Install MySQL on CentOS 7, Ubuntu...<click to read more>](https://linuxize.com/post/how-to-create-a-mysql-database/)
+

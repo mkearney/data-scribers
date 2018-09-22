@@ -4,8 +4,9 @@ author: 'www.jennadallen.com'
 date: '2018-04-16'
 slug: a-shiny-app-to-visualize-and-s
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - jennadallencom
 ---
 

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on rscribers</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science in Mental Health</title>
+      <link>/post/data-science-in-mental-health/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-in-mental-health/</guid>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing in R</title>
+      <link>/post/parallel-computing-in-r/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallel-computing-in-r/</guid>
+      <description>We&amp;rsquo;re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#GI2018 - Day Two</title>
+      <link>/post/gi2018-day-two/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gi2018-day-two/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Infrastructure with R</title>
+      <link>/post/building-infrastructure-with-r/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-infrastructure-with-r/</guid>
+      <description>For this event we will explore how to build tools and infrastructure with R. 6:15-6:30pm Introductions and Social 6:30- 6:45 pm NYT announcements (Data, Tech, HR) 6:45-6:55pm R-Ladies New York Announcements 6:55-7:25pm Object Oriented Programming in R 7:25-7:55pm Big Data in R with Small Prototypes: Scaling 8:00-8:15pm Networking. In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Moving beyond pattern-based analysis</title>
+      <link>/post/moving-beyond-patternbased-ana/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/moving-beyond-patternbased-ana/</guid>
+      <description>GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps. However, that is not the end of GeoPAT 2 capabilities - it is also possible to extract spatial signature or calculate distance matrix and use these outputs in further analysis outside of GeoPAT&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Install Anaconda on Ubuntu 18.04</title>
+      <link>/post/how-to-install-anaconda-on-ubu/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-install-anaconda-on-ubu/</guid>
+      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda Navigator. This tutorial will guide you through the steps of downloading and installing Anaconda Python Distribution on Ubuntu&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Everything I Know About Machine Learning I Learned from Making Soup</title>
+      <link>/post/everything-i-know-about-machin/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/everything-i-know-about-machin/</guid>
+      <description>Introduction In this post, I’m going to make the claim that we can simplify some parts of the machine learning process by using the analogy of making soup. I think this analogy can improve how a data scientist explains machine learning to a broad audience, and it provides a helpful framework throughout the model building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing Public Git Archive</title>
+      <link>/post/announcing-public-git-archive/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/announcing-public-git-archive/</guid>
+      <description>Last week we had the honor of participating at MSR&amp;rsquo;18, where two of the members of our team, Vadim Markovtsev and Waren Long, presented the research paper they wrote on our latest dataset: Public Git Archive. Public Git Archive is the result of months of effort curating a dataset suitable for training Machine Learning on Source Code (aka MLonCode) models. Dataset Contents The dataset contains 3TB of repositories from GitHub ready to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 36-37: Concerned DALEX</title>
+      <link>/post/day-3637-concerned-dalex/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/day-3637-concerned-dalex/</guid>
+      <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find inspiration. As always, the wonderful twitter rstats folks rose to the occasion: If I’ve understood this correctly, what the figure is showing me is what happens to the model prediction as I add the predictors in one by&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to install Python 3 on CentOS 7</title>
+      <link>/post/how-to-install-python-3-on-cen/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-install-python-3-on-cen/</guid>
+      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual environment. Python is one of the most popular programming languages in the world, with its simple and easy to learn syntax Python is a great choice for beginners and experienced&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-first-post/</guid>
+      <description>Welcome to my blog! I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes. I was inspired to create a blog after reading this post by David Robinson. New blog post: &amp;ldquo;Advice to aspiring data scientists: start a blog&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Genetics of Magic</title>
+      <link>/post/the-genetics-of-magic/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-genetics-of-magic/</guid>
+      <description>Last spring, I took a class on Bayesian statistics at the University of Chicago that had several exercises focused on building a model to classify species based on their genome. The basic setup was that you were given a data set of salmon, their genome sequencing data, and which sub-population they belonged to. From this data, we needed to build a model to classify new salmon into the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing machine learning models with testthat</title>
+      <link>/post/testing-machine-learning-model/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testing-machine-learning-model/</guid>
+      <description>Automated testing is a huge part of software development. Once a project reaches a certain level of complexity, the only way that it can be maintained is if it has a set of tests that identify the main functionality and allow you to verify that functionality is intact. Without tests, it’s difficult or impossible to identify where errors are occurring, and to fix those errors without causing further&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Caret Workshop</title>
+      <link>/post/yet-another-caret-workshop/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yet-another-caret-workshop/</guid>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as well. This is not supposed to cover all aspects of caret (plus there is already this), but more of a starter-pack for those who might be migrating from Python or another machine learning library like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ymmv-nonprofit-data-science/</guid>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Are you in genomics and building models? Stop using ROC - use PR</title>
+      <link>/post/are-you-in-genomics-and-buildi/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/are-you-in-genomics-and-buildi/</guid>
+      <description>Area Under the Curve (AUC) of Receiver Operating Characteristic (ROC) is a terrible metric for a genomics problem. Do not use it. This metric also goes by AUC or AUROC. Use Precision Recall AUC. First, you do have to use them because everyone uses them and expects them, but try to move them in the supplementary figures. Eventually the field will stop expecting this and demand to see a useful metric - like AUC of Precision Recall.</description>
+    </item>
+    
+    <item>
+      <title>Let’s Plot 4</title>
+      <link>/post/lets-plot-4/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lets-plot-4/</guid>
+      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with iml and mlr</title>
+      <link>/post/interpretable-machine-learning/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interpretable-machine-learning/</guid>
+      <description>Machine learning models repeatedly outperform interpretable, parametric models like the linear regression model. The gains in performance have a price: The models operate as black boxes which are not interpretable. Fortunately, there are many methods that can make machine learning models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Training Courses for mlr</title>
+      <link>/post/training-courses-for-mlr/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/training-courses-for-mlr/</guid>
+      <description>The mlr: Machine Learning in R package provides a generic, object-oriented and extensible framework for classification, regression, survival analysis and clustering for the statistical programming language R. The package targets practitioners who want to quickly apply machine learning algorithms, as well as researchers who want to implement, benchmark, and compare their new methods in a structured environment. We are happy to announce that we now offer training courses specialized on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Supervised vs. Unsupervised Learning</title>
+      <link>/post/supervised-vs-unsupervised-lea/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/supervised-vs-unsupervised-lea/</guid>
+      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up. In social sciences, there is a definite tendency for the former; there is more or less always a target outcome or measure that we want to optimise the performance of our models for. This reminded me of a draft that I had written the code a couple of months ago but for some reason never converted into a blog post until&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Flagging toxic comments with Tidytext and Keras</title>
+      <link>/post/flagging-toxic-comments-with-t/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/flagging-toxic-comments-with-t/</guid>
+      <description>The task here is to try to determine how likely a string is to have a particular set of labels. We can take a look at the data The first step for looking at the actual text is to split up the strings into words and then remove stop words. Stop words like “the” and “a” are unlikely to provide much information about the toxicity of the comment, so we can take them out.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Conflict Duration with (gg)plots using Keras</title>
+      <link>/post/predicting-conflict-duration-w/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/predicting-conflict-duration-w/</guid>
+      <description>An Unlikely Pairing Last week, Marc Cohen from Google Cloud was on campus to give a hands-on workshop on image classification using TensorFlow. Consequently, I spent most of my time thinking about how I can incorporate image classifiers in my work. As my research is primarily on forecasting armed conflict duration, it’s not really straightforward to make a connection between the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Team Rtus wins Munich Re Datathon with mlr</title>
+      <link>/post/team-rtus-wins-munich-re-datat/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/team-rtus-wins-munich-re-datat/</guid>
+      <description>On the weekend of November 17. - 19. five brave data-knights from team “Rtus and the knights of the data.table” took on the challenge to compete in a datathon organized by Munich Re in its Munich-based innovation lab. Team Rtus was formed in April this year by a bunch of statistics students from LMU with the purpose to prove their data-skills in competitions with other teams from various&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Source Code Identifier Embeddings</title>
+      <link>/post/source-code-identifier-embeddi/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/source-code-identifier-embeddi/</guid>
+      <description>This post is related to a talk we gave in Moscow in June at our Machine Learning on Source Code (MLoSC) conference and research we did at the beginning of this year: presentation and video. Let&amp;rsquo;s start with revising what &amp;ldquo;embeddings&amp;rdquo; are, then proceed with describing approaches to word2vec, then explain how this technique can be transferred from NLP to MLoSC, present some examples of the results and finish with instructions on how to reproduce this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Explainers</title>
+      <link>/post/explainers/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/explainers/</guid>
+      <description>When working on Machine Learning for classification and predictive models we tend to use the well known packages as randomforest, caret, xgboost, gbm and such. The issue is when the user needs explanation about how we get these results. The easy part is to explain a Tree. Pretty neat is you use the FFTrees package, that gives a cool output that needs a very short explanation. When working with more complex algorithms we have no such option so you must work hard to understand what a SVM or GBM&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>/post/automated-and-unmysterious-mac/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automated-and-unmysterious-mac/</guid>
+      <description>First, let&amp;rsquo;s load the data: .. and do some data cleaning: change column names, get rid of the order in factor levels and remove rows with empty cells: That&amp;rsquo;s better! Now, let&amp;rsquo;s set up the local H2O instance&amp;hellip; &amp;hellip; and split the data into training, validation and testing datasets. Neural network wins, followed by gradient boost models - no surprise here! Finally, you can use the Leader to predict labels of the testing set: &amp;hellip; and more detailed performance of the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OpenML Workshop 2017</title>
+      <link>/post/openml-workshop-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/openml-workshop-2017/</guid>
+      <description>What is OpenML? The field of Machine Learning has grown tremendously over the last years, and is a key component of data-driven science. Data analysis algorithms are being invented and used every day, but their results and experiments are published almost exclusively in journals or separated repositories. However, data by itself has no value. It’s the ever-changing ecosystem surrounding data that gives it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Advice for non-traditional data scientists</title>
+      <link>/post/advice-for-nontraditional-data/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/advice-for-nontraditional-data/</guid>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>source{d} tech talks, Moscow 2017</title>
+      <link>/post/sourced-tech-talks-moscow-2017/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sourced-tech-talks-moscow-2017/</guid>
+      <description>On June, 3-2017, source{d} dedicated their regular source{d} tech talks to Machine Learning and we chose to host the event in Moscow, Russia. For this conference, we invited speakers from Russia and abroad and gathered about 80 neural network aficionados in a former industrial area of the city. Day&amp;rsquo;s programme To begin with, everybody joined together around a hearty welcome breakfast inside KL10CH spaces in the city&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>shinyMlr</title>
+      <link>/post/shinymlr/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shinymlr/</guid>
+      <description>shinyMlr is a web application, built with the R-package “shiny” that provides a user interface for mlr. By wrapping the main functionalities of mlr into our app, as well as implementing additional features for data visualisation and data preprocessing, we built a widely usable application for your day to day machine learning tasks, which we would like to present to you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Most Popular Learners in mlr</title>
+      <link>/post/most-popular-learners-in-mlr/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/most-popular-learners-in-mlr/</guid>
+      <description>For the development of mlr as well as for an “machine learning expert” it can be handy to know what are the most popular learners used. Not necessarily to see, what are the top notch performing methods but to see what is used “out there” in the real world. Thanks to the nice little package cranlogs from metacran you can at least get a slight estimate as I will show in the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel benchmarking with OpenML and mlr</title>
+      <link>/post/parallel-benchmarking-with-ope/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallel-benchmarking-with-ope/</guid>
+      <description>With this post I want to show you how to benchmark several learners (or learners with different parameter settings) using several data sets in a structured and parallelized fashion. For this we want to use batchtools. The data that we will use here is stored on the open machine learning platform openml.org and we can download it together with information on what to do with it in form of a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OpenML tutorial at useR!2017 Brussels</title>
+      <link>/post/openml-tutorial-at-user2017-br/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/openml-tutorial-at-user2017-br/</guid>
+      <description>What is OpenML? Conducting research openly and reproducibly is becoming the gold standard in academic research. Practicing open and reproducible research, however, is hard. OpenML.org (Open Machine Learning) is an online platform that aims at making the part of research involving data and analyses&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Proteus, keeping Go as the source of truth</title>
+      <link>/post/proteus-keeping-go-as-the-sour/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/proteus-keeping-go-as-the-sour/</guid>
+      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another player. With that in mind, we need to start thinking how to effectively and efficiently share our data models across all those languages, and others, in case we would start using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr Google Summer of Code 2017</title>
+      <link>/post/mlr-google-summer-of-code-2017/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mlr-google-summer-of-code-2017/</guid>
+      <description>We are happy to announce that we applied for a another Google Summer of Code project in 2017. Operator Based Machine Learning Pipeline Construction We aim to change the way we are currently doing data preprocessing in mlr. Have a look at the proposal linked above for more details. If you are interested in doing this project, have a look at the tests and&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

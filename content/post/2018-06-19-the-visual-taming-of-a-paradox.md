@@ -4,10 +4,11 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-19'
 slug: the-visual-taming-of-a-paradox
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - evangelinereynoldsnetlifycom
 ---
 
-[@drob has posted code to play with on Twitter today. To illustrate what he calls a veridical paradox he’s posted the set up, the code and result of a coin flipping experiment: A #tidyverse simulation to demonstrate that if you wait for two heads in a row, it takes 6 flips on average, while you wait for a heads then a tails, it takes 4 flips on average h/t @CutTheKnotMath #rstats pic.twitter.com/V0zgOmCy7t - David Robinson (@drob) June 17,...<click to read more>](https://evangelinereynolds.netlify.com/post/sequences-probabilities/)
+[@drob has posted code to play with on Twitter today. To illustrate what he calls a veridical paradox he’s posted the set up, the code and result of a coin flipping experiment: There are some good and exact explanations in the thread, for this at-first-glance puzzle. But I didn’t see a visualization that might give you quick intuition about what is going on. So I prepare one here. We’ll use the tidyverse packages and stringr. First we simulate one flip’s possible...<click to read more>](https://evangelinereynolds.netlify.com/post/sequences-probabilities/)
 

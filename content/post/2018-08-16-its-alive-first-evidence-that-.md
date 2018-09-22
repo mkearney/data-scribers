@@ -4,9 +4,9 @@ author: 'mgb-research.netlify.com'
 date: '2018-08-16'
 slug: its-alive-first-evidence-that-
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - mgbresearchnetlifycom
 ---
 

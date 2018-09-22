@@ -4,8 +4,9 @@ author: 'r-mageddon.netlify.com'
 date: '2018-08-17'
 slug: reanimating-the-datasaurus
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - rmageddonnetlifycom
 ---
 

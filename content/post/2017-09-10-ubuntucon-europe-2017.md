@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-09-10'
 slug: ubuntucon-europe-2017
 categories:
-  - 
+  - bloglink
 tags:
   - roelandtnframaio
 ---

@@ -4,7 +4,7 @@ author: 'r-mageddon.netlify.com'
 date: '2018-08-12'
 slug: the-burger-king-pandemic
 categories:
-  - 
+  - bloglink
 tags:
   - rmageddonnetlifycom
 ---

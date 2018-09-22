@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ab604netlifycom on rscribers</title>
+    <link>/tags/ab604netlifycom/</link>
+    <description>Recent content in Ab604netlifycom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ab604netlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An unmet need for data science training</title>
+      <link>/post/an-unmet-need-for-data-science/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an-unmet-need-for-data-science/</guid>
+      <description>The aim is to try to define the problem(s) a bit better and also a bit of a cry for help. I appreciate that none of this may be novel, but I needed to get it written down and out of my head. Learning R and about the related data science issues through the community has completely changed the way I work. Secondly, I&amp;rsquo;ve currently got four related soapbox issues: The first and second issues are the subject of this post as they are so closely&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

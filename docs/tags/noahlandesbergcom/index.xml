@@ -17,7 +17,7 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/8-analytics-books-i-read-in-20/</guid>
-      <description>This year I made a concerted effort to read more books related to my interests in analytics, math, and data science. I had the pleasure of reading most of these books with a group of people at work, and we met on a regular basis to discuss and&amp;hellip;</description>
+      <description>This year I made a concerted effort to read more books related to my interests in analytics, math, and data science. I had the pleasure of reading most of these books with a group of people at work, and we met on a regular basis to discuss and gab. These books are casual, and not meant to be as strictly educational (or tedious) as reading a textbook. Without further ado&amp;hellip; here are 8 analytics books I read this year: Dataclysm explores the data underlying human connections and&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,16 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-rhymer/</guid>
-      <description>I’m proud to announce that I have published my first R package, rhymer ! Version 1.0 is now available on CRAN . You can view the source code on github , and see the website for the package here . The goal of rhymer is to provide an R interface to the Datamuse API in order to find rhyming words. The core function of rhymer is get_rhyme() , which can be used in a variety of&amp;hellip;</description>
+      <description>For example, I’ve been enjoying rewriting nursery rhymes: The package includes additional functions to find other related words, including: And of course, much thanks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thinking in Systems with DiagrammeR</title>
+      <link>/post/thinking-in-systems-with-diagr/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thinking-in-systems-with-diagr/</guid>
+      <description>One of the concepts introduced in the book is stock and flow diagrams that represent basic systems. The first diagram in the book shows a basic stock with an inflow and outflow. Meadows goes on to describe the stock-and-flow diagram: stocks are shown as boxes, and flows as arrow-headed “pipes” leading into or out of the stocks. The small T on each flow signifies a “faucet;” it can be turned higher or lower, on or&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +44,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/building-my-website-with-blogd/</guid>
-      <description>I used to have a website on Squarespace. It was nice, but it cost ~$90 a year, and I wasn&amp;rsquo;t really using it for much. So&amp;hellip; enter blogdown ! blogdown is an R package that allows you to make websites using a bunch of technologies in concert. This site uses R and Markdown and R Markdown and Hugo and Netlify and Git and Github and on and&amp;hellip;</description>
+      <description>When building this site, the two resources I consulted were: It might seem complicated, but with some coffee and tenacity whole thing can be done in an&amp;hellip;</description>
     </item>
     
   </channel>

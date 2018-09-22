@@ -4,11 +4,11 @@ author: 'www.rdatagen.net'
 date: '2017-10-16'
 slug: can-we-use-bsplines-to-generat
 categories:
-  - rstats
-  - linear-model
+  - bloglink
 tags:
+  - modeling
   - rdatagennet
 ---
 
-[I’m exploring the idea of adding a function or set of functions to the simstudy package that would make it possible to easily generate non-linear data. One way to do this would be using B-splines. Typically, one uses splines to fit a curve to data, but I thought it might be useful to switch things around a bit to use the underlying splines to generate data. This would facilitate exploring models where we know the assumption of linearity is...<click to read more>](https://www.rdatagen.net/post/generating-non-linear-data-using-b-splines/)
+[Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using weights. If one is trying to fit a B-spline line to data, those weights can be estimated using regression...<click to read more>](https://www.rdatagen.net/post/generating-non-linear-data-using-b-splines/)
 

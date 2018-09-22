@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dscinomicscom on rscribers</title>
+    <link>/tags/dscinomicscom/</link>
+    <description>Recent content in Dscinomicscom on rscribers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dscinomicscom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A first taste of the common workflow language, part 2.</title>
+      <link>/post/a-first-taste-of-the-common-wo/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-first-taste-of-the-common-wo/</guid>
+      <description>First, we start with the header information: The first two lines are self-explanatory. You have to specify the version of the spec, and that this document refers to a Workflow. Because steps 1 and 2 are essentially the same, I&amp;rsquo;ll present both below, but only go over the first step. The first two steps also include the following&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A first taste of the common workflow language, part 1.</title>
+      <link>/post/a-first-taste-of-the-common-wo/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-first-taste-of-the-common-wo/</guid>
+      <description>If you go to the CWL webpage you are greeted, right at the top, by these two sentences: The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R upgrading can be a smooth process</title>
+      <link>/post/r-upgrading-can-be-a-smooth-pr/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-upgrading-can-be-a-smooth-pr/</guid>
+      <description>In this post I will cover: On a Mac, by default, this will return two paths (Linux will give you something similar): Just to make sure it all worked well, you might want to run the following: We will use that file we saved above to generate a list of packages. Take the following steps: You are in easy territory then. You need to issue the following&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

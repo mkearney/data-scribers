@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2018-01-30'
 slug: scraping-wikipedia-tables-from
 categories:
-  - 
+  - bloglink
 tags:
   - gokhancifliklicom
 ---

@@ -4,8 +4,9 @@ author: 'www.rdatagen.net'
 date: '2018-03-18'
 slug: exploring-the-underlying-theor
 categories:
-  - rstats
+  - bloglink
 tags:
+  - rstats
   - rdatagennet
 ---
 

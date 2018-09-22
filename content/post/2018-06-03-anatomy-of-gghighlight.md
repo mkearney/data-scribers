@@ -4,10 +4,10 @@ author: 'yutani.rbind.io'
 date: '2018-06-03'
 slug: anatomy-of-gghighlight
 categories:
-  - rstats
+  - bloglink
 tags:
   - yutanirbindio
 ---
 
-[I'm overhauling my gghighlight package toward the upcoming release of ggplot2 2.3.0. I think I will introduce about the new gghighlight() soon, but before that, I want to write out the ideas behind gghighlight. Note that what I'll write here contains few new things, as the basic idea is already covered by this great post: Plotting background data for groups with ggplot2 My post is mainly for organizing my thought, yet I hope someone find this...<click to read more>](https://yutani.rbind.io/post/2018-06-03-anatomy-of-gghighlight/)
+[Note that what I'll write here contains few new things, as the basic idea is already covered by this great post: My post is mainly for organizing my thought, yet I hope someone find this useful :) Suppose we have this data: If we plot the data very simply, the code would be like this: We need two layers: If we plot this, the result would be below: A highlighted layer is the fewer-data version of the above points with (not necessarily the same) colors. To create this, we need some data...<click to read more>](https://yutani.rbind.io/post/2018-06-03-anatomy-of-gghighlight/)
 

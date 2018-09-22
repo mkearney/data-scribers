@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-24'
 slug: random-sampling
 categories:
-  - 
+  - bloglink
 tags:
   - jessetw
 ---

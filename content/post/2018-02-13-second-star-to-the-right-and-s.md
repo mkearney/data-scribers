@@ -1,0 +1,14 @@
+---
+title: "Second star to the right and straight on 'til morning"
+author: 'www.jakekaupp.com'
+date: '2018-02-13'
+slug: second-star-to-the-right-and-s
+categories:
+  - bloglink
+tags:
+  - rstats
+  - jakekauppcom
+---
+
+[The strength of R doesn’t lie in a single programming paradigm, it lies within the warm, welcoming and ecclectic community of useRs. Like anyone who gets introduced to R, you start to look on the web for other like minded people. Upon doing so, you find a vibrant community with very knowledgeable and helpful people. Bob Rudis (@hrbrmstr) is one of those people, doling out R wisdom, visualization, typography, culinary and infosec goodness on the...<click to read more>](http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/)
+

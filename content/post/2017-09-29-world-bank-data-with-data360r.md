@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-09-29'
 slug: world-bank-data-with-data360r
 categories:
-  - 
+  - bloglink
 tags:
   - mytinyshinyscom
 ---

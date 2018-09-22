@@ -4,10 +4,11 @@ author: 'mlr-blog.netlify.com'
 date: '2018-02-28'
 slug: interpretable-machine-learning
 categories:
+  - bloglink
+tags:
   - rstats
   - machine-learning
-  - linear-model
-tags:
+  - modeling
   - mlrblognetlifycom
 ---
 

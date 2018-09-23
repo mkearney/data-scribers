@@ -1,7 +1,7 @@
 baseURL = "https://rscribers.mikewk.com/"
 languageCode = "en-us"
-title = "rscribers"
-description = "Links to posts about #rstats"
+title = "DATA SCrIbers"
+description = "Blog posts about data science"
 theme = "tale-hugo"
 canonifyurls = true
 publishDir = "docs"

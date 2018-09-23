@@ -7,7 +7,7 @@
 				  <br>
           <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ .PublishDate.Format "January 2, 2006 via" }}
           </time><span><a style="color:#36d;font-style:italic" href="http://{{ .Params.Author }}">{{ .Params.Author }}</a></span>
-					<h1 class="catalogue-title">{{ .Title }}</h1>
+					<a href="http://{{ .Params.Author }}"><h1 class="catalogue-title">{{ .Title }}</h1></a>
 					<div class="catalogue-line"></div>
 
 

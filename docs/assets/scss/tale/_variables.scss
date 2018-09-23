@@ -12,8 +12,8 @@ $code-color: #bf616a;
 
 // Fonts
 $serif-primary: Georgia, 'Libre Baskerville', 'Times New Roman', Times, serif;
-$serif-secondary: 'Avenir Next LT Pro', 'Helvetica Neue', Arial, sans-serif;
-$sans-serif:  'Avenir Next LT Pro', 'Helvetica Neue', Arial, sans-serif;
+$serif-secondary: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+$sans-serif: 'Roboto Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
 $monospaced: 'Fira Code', Consolas, Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {

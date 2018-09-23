@@ -11,7 +11,7 @@ body {
   padding: 0; }
 
 html {
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   overflow-y: scroll; }
   @media (min-width: 600px) {
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
   color: #444;
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   line-height: normal; }
 
 a {
@@ -100,14 +100,14 @@ pre code {
   padding: 1.5rem 0; }
   .post-info {
     color: #aab;
-    font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
     letter-spacing: 0.5px;
     text-align: center; }
     .post-info span {
       font-style: italic; }
   .post-title {
     color: #353535;
-    font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
     font-size: 2.25rem;
     margin: 1rem 0;
     text-align: center; }
@@ -126,7 +126,7 @@ pre code {
   .post img + em {
     color: #aab;
     display: block;
-    font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center; }
@@ -440,7 +440,7 @@ footer,
       opacity: 1; }
   .nav a {
     color: #444;
-    font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif; }
+    font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif; }
 
 @media (min-width: 600px) {
   .nav {
@@ -453,7 +453,7 @@ footer,
       right: 0; } }
 
 footer {
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   padding: 2rem 0;
   text-align: center; }
   footer span {
@@ -462,7 +462,7 @@ footer {
 
 .pagination {
   border-top: 0.5px solid #f0f0f0;
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
   padding-top: 1.25rem;
   position: relative;
   text-align: center; }
@@ -474,7 +474,7 @@ footer {
     -moz-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     color: #444;
-    font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
     font-size: 1.1rem;
     opacity: .6; }
     .pagination .top:hover {
@@ -506,13 +506,13 @@ footer {
 
 .catalogue-time {
   color: #aab;
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   letter-spacing: .5px; }
 
 .catalogue-title {
   color: #353535;
   display: block;
-  font-family: "Avenir Next LT Pro", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   margin: .5rem 0; }

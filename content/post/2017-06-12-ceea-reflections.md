@@ -4,7 +4,7 @@ author: 'www.jakekaupp.com'
 date: '2017-06-12'
 slug: ceea-reflections
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jakekauppcom

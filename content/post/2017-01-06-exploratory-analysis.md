@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-01-06'
 slug: exploratory-analysis
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

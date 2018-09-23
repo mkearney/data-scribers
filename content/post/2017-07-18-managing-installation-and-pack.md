@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-18'
 slug: managing-installation-and-pack
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

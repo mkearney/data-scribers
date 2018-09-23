@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-06-15'
 slug: how-to-debug-aws-application-l
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

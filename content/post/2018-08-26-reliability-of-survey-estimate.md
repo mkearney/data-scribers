@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-08-26'
 slug: reliability-of-survey-estimate
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

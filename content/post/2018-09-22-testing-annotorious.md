@@ -4,7 +4,7 @@ author: 'alaburda.rbind.io'
 date: '2018-09-22'
 slug: testing-annotorious
 categories:
-  - bloglink
+- bloglink
 tags:
   - alaburdarbindio
 ---

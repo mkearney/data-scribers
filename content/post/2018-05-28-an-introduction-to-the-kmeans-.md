@@ -4,7 +4,7 @@ author: 'bgstieber.github.io'
 date: '2018-05-28'
 slug: an-introduction-to-the-kmeans-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - bgstiebergithubio

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-24'
 slug: how-to-install-apache-on-ubunt
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

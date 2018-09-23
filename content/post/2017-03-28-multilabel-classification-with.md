@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-28'
 slug: multilabel-classification-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - mlrblognetlifycom
 ---

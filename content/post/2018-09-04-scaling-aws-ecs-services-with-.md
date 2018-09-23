@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-09-04'
 slug: scaling-aws-ecs-services-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

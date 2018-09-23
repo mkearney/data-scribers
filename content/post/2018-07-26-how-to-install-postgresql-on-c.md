@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-26'
 slug: how-to-install-postgresql-on-c
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

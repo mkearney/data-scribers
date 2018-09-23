@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-01'
 slug: set-up-a-mail-server-with-post
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

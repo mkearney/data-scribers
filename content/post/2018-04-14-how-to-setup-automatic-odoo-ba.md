@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-14'
 slug: how-to-setup-automatic-odoo-ba
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-12'
 slug: install-and-configure-roundcub
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

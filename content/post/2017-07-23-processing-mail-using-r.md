@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-23'
 slug: processing-mail-using-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

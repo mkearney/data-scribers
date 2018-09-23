@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2017-12-21'
 slug: income-along-the-boston-t-red-
 categories:
-  - bloglink
+- bloglink
 tags:
   - translatedmedicinecom
 ---

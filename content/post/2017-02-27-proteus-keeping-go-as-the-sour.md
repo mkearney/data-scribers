@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-02-27'
 slug: proteus-keeping-go-as-the-sour
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - machine-learning

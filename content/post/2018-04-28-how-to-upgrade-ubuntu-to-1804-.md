@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-28'
 slug: how-to-upgrade-ubuntu-to-1804-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

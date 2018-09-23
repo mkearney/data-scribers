@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-11'
 slug: how-to-install-postgresql-on-u
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

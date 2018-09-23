@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-03'
 slug: how-to-install-and-secure-phpm
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-01'
 slug: how-to-install-java-on-ubuntu-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

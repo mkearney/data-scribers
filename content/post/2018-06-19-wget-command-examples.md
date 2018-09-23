@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-19'
 slug: wget-command-examples
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - linuxizecom

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-30'
 slug: how-to-install-php-on-debian-9
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

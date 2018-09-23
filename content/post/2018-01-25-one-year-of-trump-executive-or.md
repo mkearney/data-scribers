@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2018-01-25'
 slug: one-year-of-trump-executive-or
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

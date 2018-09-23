@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-08-10'
 slug: highlights-from-appning-and-is
 categories:
-  - bloglink
+- bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

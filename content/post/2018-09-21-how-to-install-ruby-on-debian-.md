@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-21'
 slug: how-to-install-ruby-on-debian-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

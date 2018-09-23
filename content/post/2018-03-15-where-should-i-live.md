@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-03-15'
 slug: where-should-i-live
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

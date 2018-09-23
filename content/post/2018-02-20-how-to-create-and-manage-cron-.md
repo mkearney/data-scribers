@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-02-20'
 slug: how-to-create-and-manage-cron-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

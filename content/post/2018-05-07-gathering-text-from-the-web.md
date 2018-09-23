@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-05-07'
 slug: gathering-text-from-the-web
 categories:
-  - bloglink
+- bloglink
 tags:
   - aggieerincom
 ---

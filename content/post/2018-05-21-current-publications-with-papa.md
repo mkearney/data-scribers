@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-05-21'
 slug: current-publications-with-papa
 categories:
-  - bloglink
+- bloglink
 tags:
   - aggieerincom
 ---

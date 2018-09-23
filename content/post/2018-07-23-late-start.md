@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-07-23'
 slug: late-start
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - martakolczynskanetlifycom

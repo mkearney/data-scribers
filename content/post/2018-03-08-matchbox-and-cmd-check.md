@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-08'
 slug: matchbox-and-cmd-check
 categories:
-  - bloglink
+- bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

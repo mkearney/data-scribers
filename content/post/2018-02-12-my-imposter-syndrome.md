@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2018-02-12'
 slug: my-imposter-syndrome
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

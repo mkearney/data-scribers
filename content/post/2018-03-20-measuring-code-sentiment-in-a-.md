@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-03-20'
 slug: measuring-code-sentiment-in-a-
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

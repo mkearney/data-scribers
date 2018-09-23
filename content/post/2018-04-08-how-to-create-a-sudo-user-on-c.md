@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-08'
 slug: how-to-create-a-sudo-user-on-c
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

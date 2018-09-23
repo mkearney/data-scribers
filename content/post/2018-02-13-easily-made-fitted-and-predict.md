@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-02-13'
 slug: easily-made-fitted-and-predict
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

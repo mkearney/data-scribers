@@ -4,7 +4,7 @@ author: 'calligross.de'
 date: '2017-10-03'
 slug: using-cookie-based-authenticat
 categories:
-  - bloglink
+- bloglink
 tags:
   - calligrossde
 ---

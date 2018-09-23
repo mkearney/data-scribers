@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-02-10'
 slug: sharing-some-functions-from-my
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - dataloraxcom

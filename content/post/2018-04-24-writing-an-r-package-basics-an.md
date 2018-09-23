@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-04-24'
 slug: writing-an-r-package-basics-an
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-03-21'
 slug: comparing-git-trees-in-go
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

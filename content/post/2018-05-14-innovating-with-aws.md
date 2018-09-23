@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-05-14'
 slug: innovating-with-aws
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

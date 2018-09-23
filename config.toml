@@ -1,6 +1,6 @@
 baseURL = "https://data-scribers.mikewk.com/"
 languageCode = "en-us"
-title = "DATA SCrIbers"
+title = "{<span style='color:red'>data sc</span>r<span style='color:red'>i</span><span style='color:red'>bers}"
 description = "Blog posts about data science"
 theme = "tale-hugo"
 canonifyurls = true

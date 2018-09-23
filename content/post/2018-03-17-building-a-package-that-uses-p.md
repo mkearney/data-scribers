@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-17'
 slug: building-a-package-that-uses-p
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mailundgithubiorprogrammerblog

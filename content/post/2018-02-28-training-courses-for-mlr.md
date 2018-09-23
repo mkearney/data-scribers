@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2018-02-28'
 slug: training-courses-for-mlr
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - machine-learning

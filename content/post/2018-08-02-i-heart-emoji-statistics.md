@@ -4,7 +4,7 @@ author: 'bayesianbabes.netlify.com'
 date: '2018-08-02'
 slug: i-heart-emoji-statistics
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - bayesianbabesnetlifycom

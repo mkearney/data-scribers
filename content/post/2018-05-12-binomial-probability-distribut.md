@@ -4,7 +4,7 @@ author: 'bayesianbabes.netlify.com'
 date: '2018-05-12'
 slug: binomial-probability-distribut
 categories:
-  - bloglink
+- bloglink
 tags:
   - bayesianbabesnetlifycom
 ---

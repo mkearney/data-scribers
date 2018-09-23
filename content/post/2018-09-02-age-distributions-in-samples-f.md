@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-09-02'
 slug: age-distributions-in-samples-f
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

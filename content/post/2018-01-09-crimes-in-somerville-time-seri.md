@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-01-09'
 slug: crimes-in-somerville-time-seri
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - translatedmedicinecom

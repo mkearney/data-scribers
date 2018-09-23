@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-10-22'
 slug: automatic-timeseries-forecasti
 categories:
-  - bloglink
+- bloglink
 tags:
   - gokhancifliklicom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-08'
 slug: how-to-install-ruby-on-centos-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

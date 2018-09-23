@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-15'
 slug: how-to-deploy-rocketchat-on-ub
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

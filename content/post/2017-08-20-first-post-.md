@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-08-20'
 slug: first-post-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

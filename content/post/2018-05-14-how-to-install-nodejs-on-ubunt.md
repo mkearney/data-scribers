@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-14'
 slug: how-to-install-nodejs-on-ubunt
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

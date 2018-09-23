@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-09'
 slug: my-favorite-sports-youtube-cha
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

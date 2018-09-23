@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-10-02'
 slug: fun-math-problems
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

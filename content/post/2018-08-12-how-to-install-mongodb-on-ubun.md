@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-12'
 slug: how-to-install-mongodb-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

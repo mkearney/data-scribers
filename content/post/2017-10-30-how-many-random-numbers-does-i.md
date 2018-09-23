@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-10-30'
 slug: how-many-random-numbers-does-i
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-19'
 slug: how-to-use-scp-command-to-secu
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

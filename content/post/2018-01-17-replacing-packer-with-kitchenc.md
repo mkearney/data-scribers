@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-01-17'
 slug: replacing-packer-with-kitchenc
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

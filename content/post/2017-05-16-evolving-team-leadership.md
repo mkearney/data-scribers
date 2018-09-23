@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-05-16'
 slug: evolving-team-leadership
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

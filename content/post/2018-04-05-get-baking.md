@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-04-05'
 slug: get-baking
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

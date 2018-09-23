@@ -4,7 +4,7 @@ author: 'aebou.rbind.io'
 date: '2018-06-17'
 slug: how-i-found-myself-doing-data-
 categories:
-  - bloglink
+- bloglink
 tags:
   - aebourbindio
 ---

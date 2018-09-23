@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-02-08'
 slug: is-there-such-a-thing-as-too-m
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

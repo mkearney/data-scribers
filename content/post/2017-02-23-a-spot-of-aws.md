@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-02-23'
 slug: a-spot-of-aws
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

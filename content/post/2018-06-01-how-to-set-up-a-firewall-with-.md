@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-01'
 slug: how-to-set-up-a-firewall-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

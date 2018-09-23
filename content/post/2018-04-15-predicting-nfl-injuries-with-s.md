@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-04-15'
 slug: predicting-nfl-injuries-with-s
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - ryantravisnetlifycom

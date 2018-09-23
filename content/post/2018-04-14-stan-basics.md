@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-04-14'
 slug: stan-basics
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

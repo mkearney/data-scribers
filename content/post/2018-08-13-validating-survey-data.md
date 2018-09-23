@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-08-13'
 slug: validating-survey-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-29'
 slug: install-odoo-11-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

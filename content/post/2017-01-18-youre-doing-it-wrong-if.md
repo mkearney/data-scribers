@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-01-18'
 slug: youre-doing-it-wrong-if
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-07-10'
 slug: 3-months-into-an-allin-aws-mig
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

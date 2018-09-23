@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-09-12'
 slug: hugo-shortcodes
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

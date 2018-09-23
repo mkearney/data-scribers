@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-04'
 slug: evaluating-dynprog-expressions
 categories:
-  - bloglink
+- bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

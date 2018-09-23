@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-14'
 slug: how-to-disable-selinux-on-cent
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - linuxizecom

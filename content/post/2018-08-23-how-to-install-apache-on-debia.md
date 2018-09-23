@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-23'
 slug: how-to-install-apache-on-debia
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

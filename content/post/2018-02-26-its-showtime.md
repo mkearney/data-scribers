@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-02-26'
 slug: its-showtime
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

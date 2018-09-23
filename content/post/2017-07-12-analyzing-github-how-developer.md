@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-07-12'
 slug: analyzing-github-how-developer
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

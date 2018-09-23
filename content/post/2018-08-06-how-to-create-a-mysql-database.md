@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-06'
 slug: how-to-create-a-mysql-database
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

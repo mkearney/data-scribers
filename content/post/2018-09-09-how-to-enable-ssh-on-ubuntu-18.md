@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-09'
 slug: how-to-enable-ssh-on-ubuntu-18
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

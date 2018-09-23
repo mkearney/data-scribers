@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-06'
 slug: how-to-install-yarn-on-ubuntu-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

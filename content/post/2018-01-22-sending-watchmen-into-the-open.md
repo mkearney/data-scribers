@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-01-22'
 slug: sending-watchmen-into-the-open
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-18'
 slug: how-to-install-and-use-docker-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

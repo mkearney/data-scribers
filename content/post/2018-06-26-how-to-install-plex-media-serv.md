@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-26'
 slug: how-to-install-plex-media-serv
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

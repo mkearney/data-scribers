@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-03'
 slug: how-to-install-mongodb-on-cent
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

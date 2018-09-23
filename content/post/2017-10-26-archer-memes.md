@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-10-26'
 slug: archer-memes
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

@@ -4,7 +4,7 @@ author: 'rsangole.netlify.com'
 date: '2017-09-17'
 slug: purrify-your-carets
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rsangolenetlifycom

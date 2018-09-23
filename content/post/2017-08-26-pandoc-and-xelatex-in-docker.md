@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-08-26'
 slug: pandoc-and-xelatex-in-docker
 categories:
-  - bloglink
+- bloglink
 tags:
   - roelandtnframaio
 ---

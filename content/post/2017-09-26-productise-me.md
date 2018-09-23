@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-09-26'
 slug: productise-me
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

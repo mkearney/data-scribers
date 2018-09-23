@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-07'
 slug: how-to-install-go-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

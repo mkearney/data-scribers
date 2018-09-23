@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-25'
 slug: how-to-show-mysql-users
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

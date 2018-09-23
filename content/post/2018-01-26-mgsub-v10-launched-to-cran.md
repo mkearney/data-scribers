@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2018-01-26'
 slug: mgsub-v10-launched-to-cran
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

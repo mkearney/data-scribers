@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2018-05-29'
 slug: my-favourite-snippets
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

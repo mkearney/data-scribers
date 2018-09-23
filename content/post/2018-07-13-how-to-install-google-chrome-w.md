@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-13'
 slug: how-to-install-google-chrome-w
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

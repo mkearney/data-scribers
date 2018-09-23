@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-04'
 slug: how-to-install-postgresql-on-d
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

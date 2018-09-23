@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-31'
 slug: how-to-install-tomcat-85-on-ce
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

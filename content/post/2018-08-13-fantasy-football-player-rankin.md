@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-08-13'
 slug: fantasy-football-player-rankin
 categories:
-  - bloglink
+- bloglink
 tags:
   - ryantravisnetlifycom
 ---

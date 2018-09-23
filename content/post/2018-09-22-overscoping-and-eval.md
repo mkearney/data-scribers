@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-09-22'
 slug: overscoping-and-eval
 categories:
-  - bloglink
+- bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

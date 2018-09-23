@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-20'
 slug: figure-skating-athletes-person
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

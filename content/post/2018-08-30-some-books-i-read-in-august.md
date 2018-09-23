@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-08-30'
 slug: some-books-i-read-in-august
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - ryantravisnetlifycom

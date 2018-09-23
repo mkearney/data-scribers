@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-13'
 slug: how-to-install-pip-on-ubuntu-1
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

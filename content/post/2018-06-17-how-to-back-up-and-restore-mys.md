@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-17'
 slug: how-to-back-up-and-restore-mys
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

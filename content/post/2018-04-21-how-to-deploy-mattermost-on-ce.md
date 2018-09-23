@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-21'
 slug: how-to-deploy-mattermost-on-ce
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-15'
 slug: install-php-7-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

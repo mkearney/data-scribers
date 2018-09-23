@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-02'
 slug: how-to-install-mysql-on-debian
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

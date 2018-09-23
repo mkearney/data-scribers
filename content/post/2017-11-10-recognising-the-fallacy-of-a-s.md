@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-11-10'
 slug: recognising-the-fallacy-of-a-s
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

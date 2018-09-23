@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-08-08'
 slug: sourced-tech-talks-frontend-se
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

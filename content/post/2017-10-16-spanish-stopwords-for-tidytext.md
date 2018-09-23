@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-10-16'
 slug: spanish-stopwords-for-tidytext
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - jveranetlifycom

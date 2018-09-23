@@ -4,7 +4,7 @@ author: 'eddjberry.netlify.com'
 date: '2017-01-31'
 slug: intro-to-r-slides
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

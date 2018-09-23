@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-02-25'
 slug: super-learning-from-scratch
 categories:
-  - bloglink
+- bloglink
 tags:
   - ryantravisnetlifycom
 ---

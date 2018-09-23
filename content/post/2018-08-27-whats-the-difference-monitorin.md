@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-08-27'
 slug: whats-the-difference-monitorin
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

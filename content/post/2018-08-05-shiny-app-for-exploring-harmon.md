@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-08-05'
 slug: shiny-app-for-exploring-harmon
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

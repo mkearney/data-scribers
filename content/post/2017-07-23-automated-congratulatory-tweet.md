@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-23'
 slug: automated-congratulatory-tweet
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

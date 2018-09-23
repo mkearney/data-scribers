@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-12-19'
 slug: french-urban-population-growth
 categories:
-  - bloglink
+- bloglink
 tags:
   - roelandtnframaio
 ---

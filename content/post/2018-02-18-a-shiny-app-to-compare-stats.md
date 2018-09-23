@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-02-18'
 slug: a-shiny-app-to-compare-stats
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - aggieerincom

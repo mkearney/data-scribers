@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-05-11'
 slug: using-the-new-resource-tagging
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

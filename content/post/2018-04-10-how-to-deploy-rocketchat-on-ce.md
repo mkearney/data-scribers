@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-10'
 slug: how-to-deploy-rocketchat-on-ce
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

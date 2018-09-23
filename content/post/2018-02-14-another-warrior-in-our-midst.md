@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-02-14'
 slug: another-warrior-in-our-midst
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-05-01'
 slug: detecting-licenses-in-code-wit
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

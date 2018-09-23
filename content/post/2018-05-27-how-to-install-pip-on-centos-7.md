@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-27'
 slug: how-to-install-pip-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

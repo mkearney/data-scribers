@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-04-30'
 slug: where-are-the-students-who-are
 categories:
-  - bloglink
+- bloglink
 tags:
   - translatedmedicinecom
 ---

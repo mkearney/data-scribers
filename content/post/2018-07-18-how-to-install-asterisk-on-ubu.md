@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-18'
 slug: how-to-install-asterisk-on-ubu
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

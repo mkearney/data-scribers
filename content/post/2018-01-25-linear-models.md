@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-01-25'
 slug: linear-models
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

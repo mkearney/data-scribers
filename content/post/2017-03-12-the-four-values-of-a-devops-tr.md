@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-03-12'
 slug: the-four-values-of-a-devops-tr
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

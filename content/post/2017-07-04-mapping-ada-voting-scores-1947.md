@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-07-04'
 slug: mapping-ada-voting-scores-1947
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - gokhancifliklicom

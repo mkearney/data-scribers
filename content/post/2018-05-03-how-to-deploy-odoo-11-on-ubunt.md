@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-03'
 slug: how-to-deploy-odoo-11-on-ubunt
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

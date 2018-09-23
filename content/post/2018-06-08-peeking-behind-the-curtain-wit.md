@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-06-08'
 slug: peeking-behind-the-curtain-wit
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - dataloraxcom

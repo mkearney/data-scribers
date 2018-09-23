@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-04-19'
 slug: prediction-assessment-with-sco
 categories:
-  - bloglink
+- bloglink
 tags:
   - ryantravisnetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-07-17'
 slug: elevation-gain-run-data-analys
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

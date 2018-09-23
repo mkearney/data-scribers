@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-09-18'
 slug: python-as-a-cloud-glue-languag
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

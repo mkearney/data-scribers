@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2017-12-14'
 slug: team-rtus-wins-munich-re-datat
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - machine-learning

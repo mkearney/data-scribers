@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-12'
 slug: redblack-trees-in-matchbox
 categories:
-  - bloglink
+- bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

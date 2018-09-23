@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-20'
 slug: how-to-install-wordpress-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

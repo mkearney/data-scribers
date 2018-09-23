@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-23'
 slug: install-mysql-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

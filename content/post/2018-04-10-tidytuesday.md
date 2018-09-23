@@ -4,7 +4,7 @@ author: 'www.jakekaupp.com'
 date: '2018-04-10'
 slug: tidytuesday
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jakekauppcom

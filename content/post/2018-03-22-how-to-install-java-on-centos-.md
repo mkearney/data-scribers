@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-22'
 slug: how-to-install-java-on-centos-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

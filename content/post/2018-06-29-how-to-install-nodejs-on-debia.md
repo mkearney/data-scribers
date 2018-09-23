@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-29'
 slug: how-to-install-nodejs-on-debia
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

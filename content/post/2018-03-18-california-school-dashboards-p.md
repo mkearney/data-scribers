@@ -4,7 +4,7 @@ author: 'ryanestrellado.netlify.com'
 date: '2018-03-18'
 slug: california-school-dashboards-p
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - ryanestrelladonetlifycom

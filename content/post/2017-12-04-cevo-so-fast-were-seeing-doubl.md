@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-12-04'
 slug: cevo-so-fast-were-seeing-doubl
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

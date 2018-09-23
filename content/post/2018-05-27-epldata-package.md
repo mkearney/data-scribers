@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-05-27'
 slug: epldata-package
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

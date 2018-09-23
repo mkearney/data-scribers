@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-12-20'
 slug: mining-game-of-thrones-scripts
 categories:
-  - bloglink
+- bloglink
 tags:
   - gokhancifliklicom
 ---

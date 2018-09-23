@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-21'
 slug: how-to-install-drupal-on-ubunt
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-17'
 slug: fourfoldplot
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-29'
 slug: a-dog-diet-base-rate-fallacy
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessetw
 ---

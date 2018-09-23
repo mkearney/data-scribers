@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-04-16'
 slug: visualizing-networks
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

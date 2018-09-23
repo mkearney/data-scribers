@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-21'
 slug: how-to-install-vagrant-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

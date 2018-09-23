@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-10'
 slug: how-to-install-go-on-ubuntu-18
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

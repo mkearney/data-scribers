@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2018-06-19'
 slug: coding-codes
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

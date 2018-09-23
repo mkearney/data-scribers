@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-28'
 slug: how-to-install-and-use-compose
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

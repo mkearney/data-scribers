@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-02-19'
 slug: a-leador-a-leader
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

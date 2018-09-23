@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-02-25'
 slug: new-publication-detect-low-qua
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - aggieerincom

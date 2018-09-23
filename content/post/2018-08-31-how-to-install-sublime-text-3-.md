@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-31'
 slug: how-to-install-sublime-text-3-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

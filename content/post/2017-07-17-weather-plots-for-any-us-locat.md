@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-17'
 slug: weather-plots-for-any-us-locat
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

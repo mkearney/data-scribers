@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2017-11-13'
 slug: mapping-statewide-school-ratin
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - dataloraxcom

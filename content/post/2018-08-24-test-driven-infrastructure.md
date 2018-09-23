@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-08-24'
 slug: test-driven-infrastructure
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

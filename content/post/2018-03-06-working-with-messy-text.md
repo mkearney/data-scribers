@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-03-06'
 slug: working-with-messy-text
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - aggieerincom

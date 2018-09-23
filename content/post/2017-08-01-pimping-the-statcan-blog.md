@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-08-01'
 slug: pimping-the-statcan-blog
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

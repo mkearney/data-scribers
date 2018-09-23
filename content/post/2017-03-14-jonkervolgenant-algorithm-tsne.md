@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-03-14'
 slug: jonkervolgenant-algorithm-tsne
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-05-18'
 slug: watchmen-on-the-radar
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

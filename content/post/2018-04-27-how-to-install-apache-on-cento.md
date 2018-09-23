@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-27'
 slug: how-to-install-apache-on-cento
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

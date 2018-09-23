@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-07'
 slug: how-to-install-the-latest-ecli
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

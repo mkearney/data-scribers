@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-07'
 slug: how-to-create-a-sudo-user-on-u
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

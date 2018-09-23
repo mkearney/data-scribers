@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-08-12'
 slug: calculating-date-diffs-per-eve
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

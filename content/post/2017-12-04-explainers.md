@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-12-04'
 slug: explainers
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - jveranetlifycom

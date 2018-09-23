@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-05-25'
 slug: jenkins-as-a-service
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

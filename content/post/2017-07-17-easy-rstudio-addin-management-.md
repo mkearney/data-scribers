@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-17'
 slug: easy-rstudio-addin-management-
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

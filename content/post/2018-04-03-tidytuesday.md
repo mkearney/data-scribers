@@ -4,7 +4,7 @@ author: 'www.frankfarach.com'
 date: '2018-04-03'
 slug: tidytuesday
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - frankfarachcom

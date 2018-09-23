@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-02-09'
 slug: biathlon-data-analysis
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

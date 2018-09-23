@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-07-23'
 slug: test-driven-infrastructure-wit
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

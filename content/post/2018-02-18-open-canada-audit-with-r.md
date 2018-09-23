@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2018-02-18'
 slug: open-canada-audit-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessetw
 ---

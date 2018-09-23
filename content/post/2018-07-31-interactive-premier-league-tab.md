@@ -4,7 +4,7 @@ author: 'r-mageddon.netlify.com'
 date: '2018-07-31'
 slug: interactive-premier-league-tab
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmageddonnetlifycom
 ---

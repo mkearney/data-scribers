@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-01-13'
 slug: notebook-collaboration
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

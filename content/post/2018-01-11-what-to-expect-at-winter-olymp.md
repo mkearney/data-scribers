@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-11'
 slug: what-to-expect-at-winter-olymp
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

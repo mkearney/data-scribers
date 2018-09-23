@@ -4,7 +4,7 @@ author: 'www.jamesuanhoro.com'
 date: '2018-05-07'
 slug: simulating-data-from-regressio
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - jamesuanhorocom

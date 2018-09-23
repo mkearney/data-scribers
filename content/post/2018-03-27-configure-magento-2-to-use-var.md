@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-27'
 slug: configure-magento-2-to-use-var
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

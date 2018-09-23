@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-03-01'
 slug: new-publications
 categories:
-  - bloglink
+- bloglink
 tags:
   - aggieerincom
 ---

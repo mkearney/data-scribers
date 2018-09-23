@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-08'
 slug: install-and-integrate-rspamd
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

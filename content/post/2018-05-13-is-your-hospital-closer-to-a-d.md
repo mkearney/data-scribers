@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-05-13'
 slug: is-your-hospital-closer-to-a-d
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - translatedmedicinecom

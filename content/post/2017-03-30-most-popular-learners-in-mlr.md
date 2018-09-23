@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2017-03-30'
 slug: most-popular-learners-in-mlr
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - mlrblognetlifycom

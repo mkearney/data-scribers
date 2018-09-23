@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-06-07'
 slug: sourced-tech-talks-moscow-2017
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - blogsourcedtech

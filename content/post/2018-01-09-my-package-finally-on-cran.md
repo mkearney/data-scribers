@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2018-01-09'
 slug: my-package-finally-on-cran
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

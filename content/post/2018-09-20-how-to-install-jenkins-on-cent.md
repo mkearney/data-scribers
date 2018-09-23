@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-20'
 slug: how-to-install-jenkins-on-cent
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

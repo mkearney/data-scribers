@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-19'
 slug: 3d-chart-using-rgl-library
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

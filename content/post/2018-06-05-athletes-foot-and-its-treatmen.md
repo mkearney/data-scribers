@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-06-05'
 slug: athletes-foot-and-its-treatmen
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

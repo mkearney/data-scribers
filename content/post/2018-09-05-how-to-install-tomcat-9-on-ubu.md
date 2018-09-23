@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-05'
 slug: how-to-install-tomcat-9-on-ubu
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

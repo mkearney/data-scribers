@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-07-27'
 slug: docker-on-windows
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

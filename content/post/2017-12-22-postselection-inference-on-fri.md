@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-22'
 slug: postselection-inference-on-fri
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - jessetw

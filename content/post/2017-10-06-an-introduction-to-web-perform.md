@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-10-06'
 slug: an-introduction-to-web-perform
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

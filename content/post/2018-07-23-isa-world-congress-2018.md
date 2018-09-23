@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-07-23'
 slug: isa-world-congress-2018
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

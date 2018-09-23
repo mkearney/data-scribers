@@ -1,20 +1,25 @@
 // Colors
-$default-color: #444;
+$default-color: #222;
 $default-shade: #353535;
-$default-tint: #aab;
+$default-tint: #aaa;
 $grey-1: #aaa;
 $grey-2: #f0f0f0;
 $grey-3: #f9f9f9;
 $white: #fff;
-$blue: #0033aa;
+$blue: #2244dd;
 $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
+$red: #cc0000;
+$base-size: 16px;
 
 // Fonts
-$serif-primary: Georgia, 'Libre Baskerville', 'Times New Roman', Times, serif;
-$serif-secondary: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+$serif-primary: serif;
+$primary-weight: 300;
+$secondary-font: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+$secondary-weight: black;
+$secondary-medium: 500;
 $sans-serif: 'Roboto Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
-$monospaced: 'Fira Code', Consolas, Menlo, Monaco, monospace;
+$monospaced: monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;

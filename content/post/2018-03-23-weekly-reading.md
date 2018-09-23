@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-03-23'
 slug: weekly-reading
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

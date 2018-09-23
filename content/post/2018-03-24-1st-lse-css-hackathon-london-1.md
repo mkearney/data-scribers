@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2018-03-24'
 slug: 1st-lse-css-hackathon-london-1
 categories:
-  - bloglink
+- bloglink
 tags:
   - gokhancifliklicom
 ---

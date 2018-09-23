@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-02-15'
 slug: coclinical-trials
 categories:
-  - bloglink
+- bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

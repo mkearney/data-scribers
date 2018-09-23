@@ -4,7 +4,7 @@ author: 'ellocke.github.io'
 date: '2018-03-06'
 slug: r-joyplots
 categories:
-  - bloglink
+- bloglink
 tags:
   - ellockegithubio
 ---

@@ -12,11 +12,13 @@ body {
 
 html {
   font-family: $sans-serif;
-  font-size: 16px;
+  font-size: $base-size;
+  font-weight: $primary-weight;
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: $base-size;
+    font-weight: $primary-weight;
   }
 }
 
@@ -31,19 +33,20 @@ h4,
 h5,
 h6 {
   color: $default-color;
-  font-family: $sans-serif;
+  font-family: $secondary-font;
+  font-weight: $secondary-weight;
   line-height: normal;
 }
 
 a {
-  color: $default-shade;
+  color: $blue;
   text-decoration: none;
 }
 
 a:hover, .post a:hover {
   text-transform: none;
   text-decoration: none;
-  color: $blue;
+  color: $red;
 }
 
 blockquote {

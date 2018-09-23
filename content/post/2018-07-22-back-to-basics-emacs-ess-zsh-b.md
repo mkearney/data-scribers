@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2018-07-22'
 slug: back-to-basics-emacs-ess-zsh-b
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

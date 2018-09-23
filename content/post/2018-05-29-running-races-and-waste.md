@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-05-29'
 slug: running-races-and-waste
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

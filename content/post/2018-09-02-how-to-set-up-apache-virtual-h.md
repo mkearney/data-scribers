@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-02'
 slug: how-to-set-up-apache-virtual-h
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

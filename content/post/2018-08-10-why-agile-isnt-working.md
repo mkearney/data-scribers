@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-08-10'
 slug: why-agile-isnt-working
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

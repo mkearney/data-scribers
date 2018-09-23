@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2018-07-05'
 slug: why-r-conference
 categories:
-  - bloglink
+- bloglink
 tags:
   - mlrblognetlifycom
 ---

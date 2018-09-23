@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-13'
 slug: how-to-install-nginx-on-centos
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

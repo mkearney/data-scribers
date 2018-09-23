@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-08-07'
 slug: dot-plot-challenge
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - martakolczynskanetlifycom

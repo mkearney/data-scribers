@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-02-28'
 slug: mixed-modelling-as-a-foreign-l
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

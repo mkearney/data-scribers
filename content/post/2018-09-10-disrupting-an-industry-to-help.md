@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-09-10'
 slug: disrupting-an-industry-to-help
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

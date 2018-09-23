@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-06-22'
 slug: multiple-sclerosis-and-exercis
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

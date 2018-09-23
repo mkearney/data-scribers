@@ -4,7 +4,7 @@ author: 'dsnotes.com'
 date: '2017-02-04'
 slug: large-data-feature-hashing-and
 categories:
-  - bloglink
+- bloglink
 tags:
   - dsnotescom
 ---

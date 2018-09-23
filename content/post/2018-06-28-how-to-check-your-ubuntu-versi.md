@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-28'
 slug: how-to-check-your-ubuntu-versi
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

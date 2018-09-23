@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-01-09'
 slug: a-tidyeval-use-case
 categories:
-  - bloglink
+- bloglink
 tags:
   - dataloraxcom
 ---

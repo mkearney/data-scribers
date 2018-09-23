@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-14'
 slug: how-to-install-visual-studio-c
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

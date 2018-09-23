@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-17'
 slug: functional-programming-rstats
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jessetw

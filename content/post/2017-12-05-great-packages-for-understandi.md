@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-12-05'
 slug: great-packages-for-understandi
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'eddjberry.netlify.com'
 date: '2017-09-25'
 slug: writing-your-thesis-with-bookd
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - eddjberrynetlifycom

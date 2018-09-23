@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-15'
 slug: some-essential-r-packages
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

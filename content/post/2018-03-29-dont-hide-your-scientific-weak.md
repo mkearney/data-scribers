@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-03-29'
 slug: dont-hide-your-scientific-weak
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

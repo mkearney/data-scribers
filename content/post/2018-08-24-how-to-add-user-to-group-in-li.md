@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-24'
 slug: how-to-add-user-to-group-in-li
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

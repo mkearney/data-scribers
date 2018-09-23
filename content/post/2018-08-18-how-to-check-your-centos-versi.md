@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-18'
 slug: how-to-check-your-centos-versi
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

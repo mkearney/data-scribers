@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-10'
 slug: how-to-install-anaconda-on-ubu
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - machine-learning

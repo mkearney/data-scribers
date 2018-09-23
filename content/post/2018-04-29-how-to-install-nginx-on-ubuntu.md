@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-29'
 slug: how-to-install-nginx-on-ubuntu
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

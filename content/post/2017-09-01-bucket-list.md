@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-09-01'
 slug: bucket-list
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thugrlife

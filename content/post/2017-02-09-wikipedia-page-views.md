@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-02-09'
 slug: wikipedia-page-views
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

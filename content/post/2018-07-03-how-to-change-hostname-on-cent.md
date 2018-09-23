@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-03'
 slug: how-to-change-hostname-on-cent
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

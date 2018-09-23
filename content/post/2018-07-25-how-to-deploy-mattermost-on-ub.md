@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-25'
 slug: how-to-deploy-mattermost-on-ub
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

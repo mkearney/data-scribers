@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-31'
 slug: docker-for-r-first-steps
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

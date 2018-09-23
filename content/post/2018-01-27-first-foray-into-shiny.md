@@ -4,7 +4,7 @@ author: 'rsangole.netlify.com'
 date: '2018-01-27'
 slug: first-foray-into-shiny
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rsangolenetlifycom

@@ -4,7 +4,7 @@ author: 'www.jamesuanhoro.com'
 date: '2017-09-21'
 slug: theilsen-regression-in-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - jamesuanhorocom

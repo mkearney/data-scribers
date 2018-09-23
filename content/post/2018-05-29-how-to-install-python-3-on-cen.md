@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-29'
 slug: how-to-install-python-3-on-cen
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - machine-learning

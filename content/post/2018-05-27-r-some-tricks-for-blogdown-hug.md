@@ -4,7 +4,7 @@ author: 'ellocke.github.io'
 date: '2018-05-27'
 slug: r-some-tricks-for-blogdown-hug
 categories:
-  - bloglink
+- bloglink
 tags:
   - ellockegithubio
 ---

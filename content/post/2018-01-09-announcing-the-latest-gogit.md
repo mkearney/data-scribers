@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-01-09'
 slug: announcing-the-latest-gogit
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

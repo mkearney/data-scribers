@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-04-03'
 slug: using-docker-coreos-for-gpu-ba
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - blogsourcedtech

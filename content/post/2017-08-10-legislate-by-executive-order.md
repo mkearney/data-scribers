@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-08-10'
 slug: legislate-by-executive-order
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

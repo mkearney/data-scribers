@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2018-02-07'
 slug: prep-your-hugo-blog-for-rblogg
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thugrlife

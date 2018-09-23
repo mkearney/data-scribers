@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-09-04'
 slug: machine-learning-on-git
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

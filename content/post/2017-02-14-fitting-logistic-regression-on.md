@@ -4,7 +4,7 @@ author: 'dsnotes.com'
 date: '2017-02-14'
 slug: fitting-logistic-regression-on
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - dsnotescom

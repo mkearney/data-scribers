@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-22'
 slug: how-to-set-up-ssh-keys-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

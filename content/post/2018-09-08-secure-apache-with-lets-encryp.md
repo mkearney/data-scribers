@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-08'
 slug: secure-apache-with-lets-encryp
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

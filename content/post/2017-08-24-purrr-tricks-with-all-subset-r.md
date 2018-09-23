@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-08-24'
 slug: purrr-tricks-with-all-subset-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - thugrlife

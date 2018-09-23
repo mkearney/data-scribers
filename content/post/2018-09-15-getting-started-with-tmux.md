@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-15'
 slug: getting-started-with-tmux
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

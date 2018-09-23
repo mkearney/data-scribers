@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-11'
 slug: how-to-change-hostname-on-debi
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

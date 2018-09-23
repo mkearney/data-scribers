@@ -4,7 +4,7 @@ author: 'www.jakekaupp.com'
 date: '2018-02-13'
 slug: second-star-to-the-right-and-s
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jakekauppcom

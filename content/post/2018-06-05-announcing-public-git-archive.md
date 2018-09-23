@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-06-05'
 slug: announcing-public-git-archive
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - blogsourcedtech

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-14'
 slug: install-mariadb-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-22'
 slug: how-to-install-jenkins-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

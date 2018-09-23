@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-02-09'
 slug: how-i-use-rmarkdown
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thestudyofthehouseholdcom

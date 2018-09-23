@@ -4,7 +4,7 @@ author: 'www.jakekaupp.com'
 date: '2018-05-01'
 slug: tidytuesday-im-gonna-be
 categories:
-  - bloglink
+- bloglink
 tags:
   - jakekauppcom
 ---

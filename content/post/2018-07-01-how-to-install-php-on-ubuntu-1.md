@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-01'
 slug: how-to-install-php-on-ubuntu-1
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

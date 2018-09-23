@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-09-18'
 slug: geoserver-centos-and-tomcat-ar
 categories:
-  - bloglink
+- bloglink
 tags:
   - roelandtnframaio
 ---

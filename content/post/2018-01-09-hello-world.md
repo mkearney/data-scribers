@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-09'
 slug: hello-world
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

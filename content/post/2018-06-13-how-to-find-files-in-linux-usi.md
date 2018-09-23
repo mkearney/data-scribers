@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-13'
 slug: how-to-find-files-in-linux-usi
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - linuxizecom

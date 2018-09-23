@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-02-18'
 slug: covariate-adjustment-for-binar
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - ryantravisnetlifycom

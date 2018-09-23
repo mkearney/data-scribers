@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-05-04'
 slug: daily-commit-activity-on-githu
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

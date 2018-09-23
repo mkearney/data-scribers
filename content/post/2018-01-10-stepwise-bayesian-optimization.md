@@ -4,7 +4,7 @@ author: 'mlr-blog.netlify.com'
 date: '2018-01-10'
 slug: stepwise-bayesian-optimization
 categories:
-  - bloglink
+- bloglink
 tags:
   - mlrblognetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-20'
 slug: r-figure-skating-analysis
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - sciathlongithubio

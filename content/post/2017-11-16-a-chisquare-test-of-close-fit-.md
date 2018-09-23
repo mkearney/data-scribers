@@ -4,7 +4,7 @@ author: 'www.jamesuanhoro.com'
 date: '2017-11-16'
 slug: a-chisquare-test-of-close-fit-
 categories:
-  - bloglink
+- bloglink
 tags:
   - jamesuanhorocom
 ---

@@ -4,7 +4,7 @@ author: 'eddjberry.netlify.com'
 date: '2017-12-05'
 slug: sparkr-vs-sparklyr-for-interac
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - eddjberrynetlifycom

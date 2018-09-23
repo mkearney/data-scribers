@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-10'
 slug: how-to-stop-and-disable-firewa
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

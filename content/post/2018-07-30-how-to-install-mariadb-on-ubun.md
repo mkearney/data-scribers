@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-30'
 slug: how-to-install-mariadb-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-03-06'
 slug: why-relative-volumes-matter
 categories:
-  - bloglink
+- bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

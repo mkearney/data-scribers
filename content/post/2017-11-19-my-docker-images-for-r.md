@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-11-19'
 slug: my-docker-images-for-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

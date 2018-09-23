@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-06-20'
 slug: announcing-babelfish
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

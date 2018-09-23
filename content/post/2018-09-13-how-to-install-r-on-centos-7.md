@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-13'
 slug: how-to-install-r-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - linuxizecom

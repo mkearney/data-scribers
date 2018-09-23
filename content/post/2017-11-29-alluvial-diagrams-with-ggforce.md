@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2017-11-29'
 slug: alluvial-diagrams-with-ggforce
 categories:
-  - bloglink
+- bloglink
 tags:
   - dataloraxcom
 ---

@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-01-02'
 slug: income-along-the-boston-t-gree
 categories:
-  - bloglink
+- bloglink
 tags:
   - translatedmedicinecom
 ---

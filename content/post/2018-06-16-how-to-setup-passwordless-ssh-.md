@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-16'
 slug: how-to-setup-passwordless-ssh-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

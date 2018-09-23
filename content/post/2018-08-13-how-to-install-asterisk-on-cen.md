@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-13'
 slug: how-to-install-asterisk-on-cen
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

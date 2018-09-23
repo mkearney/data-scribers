@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-08-03'
 slug: dynamodb-autoscaling-with-clou
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

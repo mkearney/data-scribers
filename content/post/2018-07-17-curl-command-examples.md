@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-17'
 slug: curl-command-examples
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - linuxizecom

@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-03'
 slug: tickmarks-for-log10-axis
 categories:
-  - bloglink
+- bloglink
 tags:
   - mailundgithubiorprogrammerblog
 ---

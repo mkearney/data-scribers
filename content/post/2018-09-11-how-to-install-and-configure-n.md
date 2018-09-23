@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-11'
 slug: how-to-install-and-configure-n
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

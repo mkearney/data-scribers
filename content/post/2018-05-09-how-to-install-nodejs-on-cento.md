@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-09'
 slug: how-to-install-nodejs-on-cento
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

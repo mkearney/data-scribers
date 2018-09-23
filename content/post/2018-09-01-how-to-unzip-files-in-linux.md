@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-01'
 slug: how-to-unzip-files-in-linux
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

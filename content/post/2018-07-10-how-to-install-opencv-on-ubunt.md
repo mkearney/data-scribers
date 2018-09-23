@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-10'
 slug: how-to-install-opencv-on-ubunt
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

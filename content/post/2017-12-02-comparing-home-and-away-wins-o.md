@@ -4,7 +4,7 @@ author: 'ryanestrellado.netlify.com'
 date: '2017-12-02'
 slug: comparing-home-and-away-wins-o
 categories:
-  - bloglink
+- bloglink
 tags:
   - ryanestrelladonetlifycom
 ---

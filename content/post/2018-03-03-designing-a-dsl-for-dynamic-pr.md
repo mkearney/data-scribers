@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-03'
 slug: designing-a-dsl-for-dynamic-pr
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mailundgithubiorprogrammerblog

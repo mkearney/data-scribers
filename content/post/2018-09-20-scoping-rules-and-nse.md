@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-09-20'
 slug: scoping-rules-and-nse
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mailundgithubiorprogrammerblog

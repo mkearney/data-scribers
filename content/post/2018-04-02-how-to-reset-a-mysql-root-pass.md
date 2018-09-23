@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-02'
 slug: how-to-reset-a-mysql-root-pass
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

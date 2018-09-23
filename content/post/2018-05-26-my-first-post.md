@@ -4,7 +4,7 @@ author: 'bgstieber.github.io'
 date: '2018-05-26'
 slug: my-first-post
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - bgstiebergithubio

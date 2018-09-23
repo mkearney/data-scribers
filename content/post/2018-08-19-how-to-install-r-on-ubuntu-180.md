@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-19'
 slug: how-to-install-r-on-ubuntu-180
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - linuxizecom

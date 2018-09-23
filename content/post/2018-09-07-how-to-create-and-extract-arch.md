@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-07'
 slug: how-to-create-and-extract-arch
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

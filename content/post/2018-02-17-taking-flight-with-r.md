@@ -4,7 +4,7 @@ author: 'www.frankfarach.com'
 date: '2018-02-17'
 slug: taking-flight-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - frankfarachcom

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-29'
 slug: secure-nginx-with-lets-encrypt
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

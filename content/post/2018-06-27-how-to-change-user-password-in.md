@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-27'
 slug: how-to-change-user-password-in
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

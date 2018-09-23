@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-30'
 slug: how-to-install-virtualbox-on-u
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

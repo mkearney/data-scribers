@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-12-27'
 slug: saverds-vs-writecsv-a-newbie-i
 categories:
-  - bloglink
+- bloglink
 tags:
   - roelandtnframaio
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-18'
 slug: how-to-create-python-virtual-e
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - linuxizecom

@@ -4,7 +4,7 @@ author: 'www.ddrive.no'
 date: '2018-08-01'
 slug: reading-vintage-magazines-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

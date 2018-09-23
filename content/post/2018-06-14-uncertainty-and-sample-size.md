@@ -4,7 +4,7 @@ author: 'bayesianbabes.netlify.com'
 date: '2018-06-14'
 slug: uncertainty-and-sample-size
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - bayesianbabesnetlifycom

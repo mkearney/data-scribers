@@ -4,7 +4,7 @@ author: 'dsnotes.com'
 date: '2017-06-28'
 slug: matrix-factorization-for-recom
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - dsnotescom

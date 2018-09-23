@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-04'
 slug: how-to-use-rsync-for-local-and
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

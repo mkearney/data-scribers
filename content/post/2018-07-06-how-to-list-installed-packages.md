@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-06'
 slug: how-to-list-installed-packages
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

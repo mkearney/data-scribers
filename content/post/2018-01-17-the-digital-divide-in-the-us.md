@@ -4,7 +4,7 @@ author: 'translatedmedicine.com'
 date: '2018-01-17'
 slug: the-digital-divide-in-the-us
 categories:
-  - bloglink
+- bloglink
 tags:
   - translatedmedicinecom
 ---

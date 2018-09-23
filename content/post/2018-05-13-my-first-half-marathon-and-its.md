@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-05-13'
 slug: my-first-half-marathon-and-its
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

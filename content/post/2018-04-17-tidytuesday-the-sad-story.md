@@ -4,7 +4,7 @@ author: 'www.jakekaupp.com'
 date: '2018-04-17'
 slug: tidytuesday-the-sad-story
 categories:
-  - bloglink
+- bloglink
 tags:
   - jakekauppcom
 ---

@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-01-10'
 slug: meltdown-spectre-and-linux-on-
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

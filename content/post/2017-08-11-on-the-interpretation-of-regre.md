@@ -4,7 +4,7 @@ author: 'www.jamesuanhoro.com'
 date: '2017-08-11'
 slug: on-the-interpretation-of-regre
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - jamesuanhorocom

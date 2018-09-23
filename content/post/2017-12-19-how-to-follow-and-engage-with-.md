@@ -4,7 +4,7 @@ author: 'aebou.rbind.io'
 date: '2017-12-19'
 slug: how-to-follow-and-engage-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - aebourbindio

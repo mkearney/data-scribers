@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-20'
 slug: how-to-install-mysql-on-ubuntu
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'bayesianbabes.netlify.com'
 date: '2018-06-16'
 slug: probability
 categories:
-  - bloglink
+- bloglink
 tags:
   - bayesianbabesnetlifycom
 ---

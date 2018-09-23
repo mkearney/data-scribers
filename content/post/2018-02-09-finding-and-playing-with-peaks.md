@@ -4,7 +4,7 @@ author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-02-09'
 slug: finding-and-playing-with-peaks
 categories:
-  - bloglink
+- bloglink
 tags:
   - mouseimagingcentregithubioblog
 ---

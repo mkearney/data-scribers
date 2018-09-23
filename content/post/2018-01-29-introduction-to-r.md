@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-01-29'
 slug: introduction-to-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cevocomau

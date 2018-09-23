@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-12'
 slug: how-to-install-git-on-centos-7
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

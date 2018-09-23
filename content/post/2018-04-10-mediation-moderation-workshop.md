@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-04-10'
 slug: mediation-moderation-workshop
 categories:
-  - bloglink
+- bloglink
 tags:
   - aggieerincom
 ---

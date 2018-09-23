@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-20'
 slug: filechoose-empowering-users
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

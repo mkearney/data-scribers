@@ -4,7 +4,7 @@ author: 'martakolczynska.netlify.com'
 date: '2018-08-22'
 slug: tidytext-analysis-of-ted-talks
 categories:
-  - bloglink
+- bloglink
 tags:
   - martakolczynskanetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-02-27'
 slug: why-did-i-join-sourced-frances
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

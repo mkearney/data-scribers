@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-04-06'
 slug: centering-by-group-means-part-
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

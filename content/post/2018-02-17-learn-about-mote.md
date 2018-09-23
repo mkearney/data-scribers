@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-02-17'
 slug: learn-about-mote
 categories:
-  - bloglink
+- bloglink
 tags:
   - aggieerincom
 ---

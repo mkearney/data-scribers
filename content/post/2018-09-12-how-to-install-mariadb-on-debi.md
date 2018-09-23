@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-12'
 slug: how-to-install-mariadb-on-debi
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

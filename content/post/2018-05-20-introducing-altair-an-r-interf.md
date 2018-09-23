@@ -4,7 +4,7 @@ author: 'vegawidget.rbind.io'
 date: '2018-05-20'
 slug: introducing-altair-an-r-interf
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

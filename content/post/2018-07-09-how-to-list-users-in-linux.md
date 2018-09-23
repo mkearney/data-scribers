@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-09'
 slug: how-to-list-users-in-linux
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

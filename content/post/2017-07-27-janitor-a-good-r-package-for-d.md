@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-27'
 slug: janitor-a-good-r-package-for-d
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

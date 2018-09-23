@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-01-10'
 slug: a-history-of-skiing
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

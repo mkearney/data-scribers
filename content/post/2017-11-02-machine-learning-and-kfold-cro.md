@@ -4,7 +4,7 @@ author: 'eddjberry.netlify.com'
 date: '2017-11-02'
 slug: machine-learning-and-kfold-cro
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - eddjberrynetlifycom

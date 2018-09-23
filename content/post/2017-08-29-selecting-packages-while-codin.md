@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-08-29'
 slug: selecting-packages-while-codin
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

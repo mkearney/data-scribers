@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-02-02'
 slug: triathlon-pubmed-analysis
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - sciathlongithubio

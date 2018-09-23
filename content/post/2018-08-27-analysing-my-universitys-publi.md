@@ -4,7 +4,7 @@ author: 'alaburda.rbind.io'
 date: '2018-08-27'
 slug: analysing-my-universitys-publi
 categories:
-  - bloglink
+- bloglink
 tags:
   - alaburdarbindio
 ---

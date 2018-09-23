@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-03-02'
 slug: install-and-configure-postfix-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

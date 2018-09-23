@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-10-18'
 slug: the-value-of-learning-the-basi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thugrlife

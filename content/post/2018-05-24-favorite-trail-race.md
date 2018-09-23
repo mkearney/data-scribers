@@ -4,7 +4,7 @@ author: 'sciathlon.github.io'
 date: '2018-05-24'
 slug: favorite-trail-race
 categories:
-  - bloglink
+- bloglink
 tags:
   - sciathlongithubio
 ---

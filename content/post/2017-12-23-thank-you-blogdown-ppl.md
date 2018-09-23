@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2017-12-23'
 slug: thank-you-blogdown-ppl
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessetw
 ---

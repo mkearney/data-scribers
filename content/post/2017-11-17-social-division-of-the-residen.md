@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-11-17'
 slug: social-division-of-the-residen
 categories:
-  - bloglink
+- bloglink
 tags:
   - roelandtnframaio
 ---

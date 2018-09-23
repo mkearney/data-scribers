@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-10-11'
 slug: dealing-with-correlated-highdi
 categories:
-  - bloglink
+- bloglink
 tags:
   - gokhancifliklicom
 ---

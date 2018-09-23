@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-06-10'
 slug: when-docker-meets-make
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cevocomau

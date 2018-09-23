@@ -4,7 +4,7 @@ author: 'www.gokhanciflikli.com'
 date: '2017-12-27'
 slug: visualising-us-voting-records-
 categories:
-  - bloglink
+- bloglink
 tags:
   - gokhancifliklicom
 ---

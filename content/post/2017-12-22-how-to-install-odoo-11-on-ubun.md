@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2017-12-22'
 slug: how-to-install-odoo-11-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-01-22'
 slug: configure-odoo-with-with-nginx
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-16'
 slug: how-to-install-java-on-debian-
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - linuxizecom

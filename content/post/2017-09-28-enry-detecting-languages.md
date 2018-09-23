@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-09-28'
 slug: enry-detecting-languages
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

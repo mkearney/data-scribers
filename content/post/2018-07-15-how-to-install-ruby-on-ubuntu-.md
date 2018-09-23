@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-07-15'
 slug: how-to-install-ruby-on-ubuntu-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

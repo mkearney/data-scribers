@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-11-24'
 slug: podcast-hannah-browne-chats-to
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

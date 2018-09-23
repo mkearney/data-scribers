@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-07-11'
 slug: mapping-eurostat-information-p
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

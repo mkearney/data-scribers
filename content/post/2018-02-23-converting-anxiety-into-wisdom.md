@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-02-23'
 slug: converting-anxiety-into-wisdom
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

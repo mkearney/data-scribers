@@ -4,7 +4,7 @@ author: 'www.jennadallen.com'
 date: '2018-07-31'
 slug: text-mining
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jennadallencom

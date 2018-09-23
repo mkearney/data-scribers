@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-05-26'
 slug: visualizing-insect-count-data-
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

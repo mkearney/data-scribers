@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-01'
 slug: create-a-linux-swap-file
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

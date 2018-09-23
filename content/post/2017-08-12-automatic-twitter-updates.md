@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-08-12'
 slug: automatic-twitter-updates
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

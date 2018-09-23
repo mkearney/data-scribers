@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-04-29'
 slug: how-to-set-up-nginx-server-blo
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

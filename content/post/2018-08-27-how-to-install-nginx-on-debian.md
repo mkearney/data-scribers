@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-27'
 slug: how-to-install-nginx-on-debian
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

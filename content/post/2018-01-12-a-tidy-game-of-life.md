@@ -4,7 +4,7 @@ author: 'thestudyofthehousehold.com'
 date: '2018-01-12'
 slug: a-tidy-game-of-life
 categories:
-  - bloglink
+- bloglink
 tags:
   - thestudyofthehouseholdcom
 ---

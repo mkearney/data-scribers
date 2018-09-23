@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-05'
 slug: how-to-install-tomcat-85-on-ub
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

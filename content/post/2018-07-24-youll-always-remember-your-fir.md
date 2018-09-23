@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-07-24'
 slug: youll-always-remember-your-fir
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

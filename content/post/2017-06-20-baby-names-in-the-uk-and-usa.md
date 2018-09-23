@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-06-20'
 slug: baby-names-in-the-uk-and-usa
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

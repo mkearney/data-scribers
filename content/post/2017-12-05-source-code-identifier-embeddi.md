@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-12-05'
 slug: source-code-identifier-embeddi
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - blogsourcedtech

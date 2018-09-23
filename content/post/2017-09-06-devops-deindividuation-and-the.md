@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2017-09-06'
 slug: devops-deindividuation-and-the
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

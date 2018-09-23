@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-07-12'
 slug: first-thing-first-thanks
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

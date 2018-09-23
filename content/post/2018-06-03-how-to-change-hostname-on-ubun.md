@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-03'
 slug: how-to-change-hostname-on-ubun
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

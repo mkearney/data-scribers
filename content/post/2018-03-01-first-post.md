@@ -4,7 +4,7 @@ author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-01'
 slug: first-post
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mailundgithubiorprogrammerblog

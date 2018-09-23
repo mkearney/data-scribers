@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2017-08-06'
 slug: theta-joins-in-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

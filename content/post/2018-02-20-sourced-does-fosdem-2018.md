@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-02-20'
 slug: sourced-does-fosdem-2018
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

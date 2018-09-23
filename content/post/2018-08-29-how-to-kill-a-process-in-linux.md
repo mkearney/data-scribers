@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-08-29'
 slug: how-to-kill-a-process-in-linux
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

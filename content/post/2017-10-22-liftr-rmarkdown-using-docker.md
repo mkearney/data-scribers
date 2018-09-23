@@ -4,7 +4,7 @@ author: 'roelandtn.frama.io'
 date: '2017-10-22'
 slug: liftr-rmarkdown-using-docker
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

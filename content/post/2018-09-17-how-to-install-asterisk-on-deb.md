@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-09-17'
 slug: how-to-install-asterisk-on-deb
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

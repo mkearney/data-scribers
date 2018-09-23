@@ -4,7 +4,7 @@ author: 'r-mageddon.netlify.com'
 date: '2018-08-26'
 slug: writing-an-r-package-from-scra
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rmageddonnetlifycom

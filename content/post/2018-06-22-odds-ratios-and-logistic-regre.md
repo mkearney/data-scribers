@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-06-22'
 slug: odds-ratios-and-logistic-regre
 categories:
-  - bloglink
+- bloglink
 tags:
   - ryantravisnetlifycom
 ---

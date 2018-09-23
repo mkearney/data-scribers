@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2018-05-09'
 slug: using-inotify-for-long-running
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-05-29'
 slug: theme-update
 categories:
-  - bloglink
+- bloglink
 tags:
   - mytinyshinyscom
 ---

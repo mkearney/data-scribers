@@ -4,7 +4,7 @@ author: 'jesse.tw'
 date: '2018-02-19'
 slug: why-bother-with-covariates-in-
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessetw
 ---

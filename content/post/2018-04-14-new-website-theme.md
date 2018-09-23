@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-04-14'
 slug: new-website-theme
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - dataloraxcom

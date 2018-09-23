@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2018-04-10'
 slug: calling-c-functions-from-bigqu
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

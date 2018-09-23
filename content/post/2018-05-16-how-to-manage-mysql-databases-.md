@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-05-16'
 slug: how-to-manage-mysql-databases-
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

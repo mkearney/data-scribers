@@ -4,7 +4,7 @@ author: 'ryantravis.netlify.com'
 date: '2018-08-21'
 slug: simple-example-of-fitting-spli
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - ryantravisnetlifycom

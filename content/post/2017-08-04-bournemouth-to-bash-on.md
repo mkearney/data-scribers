@@ -4,7 +4,7 @@ author: 'www.mytinyshinys.com'
 date: '2017-08-04'
 slug: bournemouth-to-bash-on
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mytinyshinyscom

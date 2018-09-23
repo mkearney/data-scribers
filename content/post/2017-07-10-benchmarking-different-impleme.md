@@ -4,7 +4,7 @@ author: 'dsnotes.com'
 date: '2017-07-10'
 slug: benchmarking-different-impleme
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

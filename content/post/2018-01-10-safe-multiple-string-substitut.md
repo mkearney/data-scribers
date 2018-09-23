@@ -4,7 +4,7 @@ author: 'thug-r.life'
 date: '2018-01-10'
 slug: safe-multiple-string-substitut
 categories:
-  - bloglink
+- bloglink
 tags:
   - thugrlife
 ---

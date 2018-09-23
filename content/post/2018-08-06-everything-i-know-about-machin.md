@@ -4,7 +4,7 @@ author: 'bgstieber.github.io'
 date: '2018-08-06'
 slug: everything-i-know-about-machin
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - bgstiebergithubio

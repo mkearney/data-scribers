@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-11-21'
 slug: geocoding-with-r-and-mapzen
 categories:
-  - bloglink
+- bloglink
 tags:
   - jveranetlifycom
 ---

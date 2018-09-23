@@ -4,7 +4,7 @@ author: 'jvera.netlify.com'
 date: '2017-10-27'
 slug: rocker-docker-for-rstats
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jveranetlifycom

@@ -4,7 +4,7 @@ author: 'cevo.com.au'
 date: '2018-03-23'
 slug: automatically-compliant
 categories:
-  - bloglink
+- bloglink
 tags:
   - cevocomau
 ---

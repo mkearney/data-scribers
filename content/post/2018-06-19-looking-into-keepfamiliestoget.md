@@ -4,7 +4,7 @@ author: 'www.datalorax.com'
 date: '2018-06-19'
 slug: looking-into-keepfamiliestoget
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - dataloraxcom

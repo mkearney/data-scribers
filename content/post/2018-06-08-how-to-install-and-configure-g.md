@@ -4,7 +4,7 @@ author: 'linuxize.com'
 date: '2018-06-08'
 slug: how-to-install-and-configure-g
 categories:
-  - bloglink
+- bloglink
 tags:
   - linuxizecom
 ---

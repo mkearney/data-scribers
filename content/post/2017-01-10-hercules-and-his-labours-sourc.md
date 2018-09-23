@@ -4,7 +4,7 @@ author: 'blog.sourced.tech'
 date: '2017-01-10'
 slug: hercules-and-his-labours-sourc
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogsourcedtech
 ---

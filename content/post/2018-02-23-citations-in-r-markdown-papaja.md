@@ -4,7 +4,7 @@ author: 'www.aggieerin.com'
 date: '2018-02-23'
 slug: citations-in-r-markdown-papaja
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - aggieerincom

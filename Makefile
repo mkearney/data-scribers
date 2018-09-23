@@ -1,9 +1,9 @@
 .PHONY: all clean
 all:
 	@echo Build all
-	Rscript -e 'blogdown::hugo_build(local = TRUE)'
-	Rscript -e 'browseURL("http://localhost:1313/")'
-	hugo server
+	Rscript R/setup.R
+	Rscript R/read.R
+	Rscript R/write.R
 clean:
 	@echo Clean all
 	rm -rf docs/*

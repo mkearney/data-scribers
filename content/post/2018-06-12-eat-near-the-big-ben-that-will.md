@@ -10,5 +10,5 @@ tags:
   - evangelinereynoldsnetlifycom
 ---
 
-[#MakeoverMonday is a fun data visualization initiative; most participants use Tableau as their preferred visualization tool. But I’ve used R and ggplot() and the organizers and participants have been very welcoming. (Recently, I’ve noticed an initiative for R has sprouted up — #TidyTuesday, with a focus on visualization and data<i class="fas fa-external-link-alt"></i>](https://evangelinereynolds.netlify.com/post/eat-near-the-big-ben-that-will-cost-you/)
+#MakeoverMonday is a fun data visualization initiative; most participants use Tableau as their preferred visualization tool. But I’ve used R and ggplot() and the organizers and participants have been very welcoming. (Recently, I’ve noticed an initiative for R has sprouted up — #TidyTuesday, with a focus on visualization and data[... <i class="fas fa-external-link-alt"></i>](https://evangelinereynolds.netlify.com/post/eat-near-the-big-ben-that-will-cost-you/)
 

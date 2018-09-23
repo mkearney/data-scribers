@@ -9,5 +9,5 @@ tags:
   - davemcggithubio
 ---
 
-[There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step. But it can convert just about anything to<i class="fas fa-external-link-alt"></i>](http://davemcg.github.io/./post/quick-guide-to-gene-name-conversion/)
+There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step. But it can convert just about anything to[... <i class="fas fa-external-link-alt"></i>](http://davemcg.github.io/./post/quick-guide-to-gene-name-conversion/)
 

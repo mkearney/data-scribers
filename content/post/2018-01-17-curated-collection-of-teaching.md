@@ -9,5 +9,5 @@ tags:
   - emitanakagithubio
 ---
 
-[That infamous<i class="fas fa-external-link-alt"></i>](https://emitanaka.github.io/post/teaching/)
+That infamous[... <i class="fas fa-external-link-alt"></i>](https://emitanaka.github.io/post/teaching/)
 

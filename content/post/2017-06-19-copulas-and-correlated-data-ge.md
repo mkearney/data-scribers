@@ -9,5 +9,5 @@ tags:
   - rdatagennet
 ---
 
-[Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty well. Using the last data set, I fit a GEE model to see how well the data generating process is recovered: We can also generate binary<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/correlated-data-copula/)
+Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/correlated-data-copula/)
 

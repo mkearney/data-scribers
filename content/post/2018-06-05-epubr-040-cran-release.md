@@ -9,5 +9,5 @@ tags:
   - leonawiczgithubioblog
 ---
 
-[E-book formatting is non-standard enough across all literature that no function can curate parsed e-book content across an arbitrary collection of e-books, in completely general form, resulting in a singular, consistently formatted output containing all the same variables. These annoyances aside, the metadata and contents can still be read into a convenient table. Text mining analyses can still be performed on the overall book, if not so easily on individual<i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/epubr-0-4-0-cran-release/)
+E-book formatting is non-standard enough across all literature that no function can curate parsed e-book content across an arbitrary collection of e-books, in completely general form, resulting in a singular, consistently formatted output containing all the same variables. These annoyances aside, the metadata and contents can still be read into a convenient[... <i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/epubr-0-4-0-cran-release/)
 

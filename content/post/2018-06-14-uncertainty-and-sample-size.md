@@ -10,5 +10,5 @@ tags:
   - bayesianbabesnetlifycom
 ---
 
-[As a hungry botanist I couldn't think of a more a-peel-ing metaphor than fruit. Let's say we have a fruit bowl consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberries, 20 blueberries, 15 raspberries, and 15 blackberries. We can simulate this delicious bowl in r by creating a vector where we repeat (rep) each fruit the number of times they occur in our true, fruit bowl<i class="fas fa-external-link-alt"></i>](https://bayesianbabes.netlify.com/post/2018-06-14-samplesize/)
+As a hungry botanist I couldn't think of a more a-peel-ing metaphor than fruit. Let's say we have a fruit bowl consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberries, 20 blueberries, 15 raspberries, and 15[... <i class="fas fa-external-link-alt"></i>](https://bayesianbabes.netlify.com/post/2018-06-14-samplesize/)
 

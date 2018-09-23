@@ -17,7 +17,7 @@
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/copula-resources/</guid>
-      <description>A number of resources I found useful while learning about</description>
+      <description>A number of resources I found useful while learning about&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tidying-excel-cash-flow-spread/</guid>
-      <description>Below is a typical cash flow statement for 1 year of performance, broken down by month. This does not fit the “tidy” data standards, but is incredibly common in the Financial world. Don’t worry too much about how hard this is to see, I’ll zoom in on relevant features as we go along. But do notice how columns C through Z are the months, and the left two columns represent main and sub-headers for the cash flow</description>
+      <description>Below is a typical cash flow statement for 1 year of performance, broken down by month. This does not fit the “tidy” data standards, but is incredibly common in the Financial world. Don’t worry too much about how hard this is to see, I’ll zoom in on relevant features as we go&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/writing-a-paper-with-rstudio/</guid>
-      <description>This semester I had to write a paper for my Financial Econometrics class. My topic was on analyzing the volatility of Bitcoin using GARCH modeling. I’m not particularly interested in Bitcoin, but with all the recent news around it, and with its highly volatile characteristics, I figured it would be a good candidate for analysis. I did the analysis in R, but I wanted to take it a step further. Could I write the entire paper in R and RStudio in a fairly professional format?</description>
+      <description>This semester I had to write a paper for my Financial Econometrics class. My topic was on analyzing the volatility of Bitcoin using GARCH modeling. I’m not particularly interested in Bitcoin, but with all the recent news around it, and with its highly volatile characteristics, I figured it would be a good candidate for analysis. I did the analysis in R, but I wanted to take it a step&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/financial-numerical-methods-pa/</guid>
-      <description>Where: Interestingly, we actually have the solution to this equation (one of the few we have analytical solutions for): More generally, this can be written as a formula providing us with the recursive equation: I was given some starting parameters: We all know loops are to be avoided when you can in R, and that you should instead vectorize the operations. At first, I thought this wasn’t going to be possible, as this is a recursive type of formula where the next value relies on the previous</description>
+      <description>Where: Interestingly, we actually have the solution to this equation (one of the few we have analytical solutions for): More generally, this can be written as a formula providing us with the recursive equation: I was given some starting parameters: We all know loops are to be avoided when you can in R, and that you should instead vectorize the&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/which-rstudio-blog-posts-pleas/</guid>
-      <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since 2011. This post will do a few things: Spoiler alert: Hadley uses “pleased”</description>
+      <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/rstudio-and-shiny-servers-with/</guid>
-      <description>After realizing how fast I can burn through my free 25 hours on shinyapps.io, I decided to repurpose my RStudio Server to also work with Shiny Server. Here’s my new setup: In case I ever have to go through this madness again, or if anyone else wants to, I’ve compiled some step by step notes on the</description>
+      <description>After realizing how fast I can burn through my free 25 hours on shinyapps.io, I decided to repurpose my RStudio Server to also work with Shiny Server. Here’s my new setup: In case I ever have to go through this madness again, or if anyone else wants to, I’ve compiled some step by step notes on the&amp;hellip;</description>
     </item>
     
     <item>

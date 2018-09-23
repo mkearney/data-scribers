@@ -10,5 +10,5 @@ tags:
   - yutanirbindio
 ---
 
-[mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click "Publish": After successfully uploading the content to Medium, the addin launches a web browser and jumps to the<i class="fas fa-external-link-alt"></i>](https://yutani.rbind.io/post/2017-10-26-post-to-medium/)
+mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click "Publish": After successfully uploading the content to Medium, the addin launches a web browser and jumps to the[... <i class="fas fa-external-link-alt"></i>](https://yutani.rbind.io/post/2017-10-26-post-to-medium/)
 

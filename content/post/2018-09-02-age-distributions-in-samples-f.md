@@ -9,5 +9,5 @@ tags:
   - martakolczynskanetlifycom
 ---
 
-[Cross-national survey projects conduct surveys on representative samples of adult populations. How do the distributions of respondents’ age vary across surveys carried out in the same country in different years and different projects? Like in a couple of previous posts (here, here and here) I use data from the Survey Data Recycling dataset (SDR) version 1.0, which includes selected harmonized variables from 22 cross-national survey<i class="fas fa-external-link-alt"></i>](https://martakolczynska.com/post/sdr-age-distributions/)
+Cross-national survey projects conduct surveys on representative samples of adult[... <i class="fas fa-external-link-alt"></i>](https://martakolczynska.com/post/sdr-age-distributions/)
 

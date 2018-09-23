@@ -10,5 +10,5 @@ tags:
   - dataloraxcom
 ---
 
-[In this post, I'd like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding<i class="fas fa-external-link-alt"></i>](http://www.dandersondata.com/post/mapping-statewide-school-ratings-with-us-census-tracts/)
+In this post, I'd like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding[... <i class="fas fa-external-link-alt"></i>](http://www.dandersondata.com/post/mapping-statewide-school-ratings-with-us-census-tracts/)
 

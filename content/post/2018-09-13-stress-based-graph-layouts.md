@@ -10,5 +10,5 @@ tags:
   - blogschochasticsnet
 ---
 
-[I academically grew up among graph drawers, that is, computer scientists and mathematicians interested in deriving two-dimensional depictions of graphs. One may despicably call it pixel science, yet a lot of hard theoretical work is put into producing pretty graph layouts. Although I am not at all an expert in this field, I have learned a thing or two about that subject. As such, I have always been surprised why one of the (potentially) best algorithms is not implemented in<i class="fas fa-external-link-alt"></i>](http://blog.schochastics.net/post/stress-based-graph-layouts/)
+I academically grew up among graph drawers, that is, computer scientists and mathematicians interested in deriving two-dimensional depictions of graphs. One may despicably call it pixel science, yet a lot of hard theoretical work is put into producing pretty graph layouts. Although I am not at all an expert in this field, I have learned a thing or two about that[... <i class="fas fa-external-link-alt"></i>](http://blog.schochastics.net/post/stress-based-graph-layouts/)
 

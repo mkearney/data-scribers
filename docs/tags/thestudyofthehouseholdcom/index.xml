@@ -17,7 +17,7 @@
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-insect-count-data-/</guid>
-      <description>Most ecologists would agree: it’s really hard to predict which animals are going to be where, and how many of them you might find when you look. Lately, there has been lots of interest in using mixed-effects models to make these predictions. The advantage is that these models are of a kind that most biologists already know about. The disadvantage is that they can be… a little larger than what we’re used</description>
+      <description>Most ecologists would agree: it’s really hard to predict which animals are going to be where, and how many of them you might find when you look. Lately, there has been lots of interest in using mixed-effects models to make these predictions. The advantage is that these models are of a kind that most biologists already know&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/centering-by-group-means-part-/</guid>
-      <description>What this post is about I have been thinking a lot lately about the importance of centering variables. This is something that has earned me eyerolls and scorn from my nearest collaborators, because it is so basic. Yet I think there is something to unpack here. To pick up on a theme of this blog – yes, it is good to recover the basics, doing stuff that everyone knows but that are basic to master before you go on to more advanced</description>
+      <description>What this post is about I have been thinking a lot lately about the importance of centering variables. This is something that has earned me eyerolls and scorn from my nearest collaborators, because it is so basic. Yet I think there is something to unpack&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dont-hide-your-scientific-weak/</guid>
-      <description>What are your weaknesses as a scientist? What should we do when we become aware of those weaknesses, or when someone makes us aware? Backstory: Several months ago I started doing Crossfit here in France1. It’s been a fun way to meet new people and get some exercise. It also lets me work out one muscle that I really need to improve: my French skills. Of course all of the coaching and instruction happens in French, with the result that I am sometimes only 80% sure I understand a complicated</description>
+      <description>What are your weaknesses as a scientist? What should we do when we become aware of those weaknesses, or when someone makes us aware? Backstory: Several months ago I started doing Crossfit here in France1. It’s been a fun way to meet new people and get some exercise. It also lets me work out one muscle that I really need to improve: my French&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/weekly-reading/</guid>
-      <description>Here&amp;rsquo;s where my reading took me this week. Some of it is ecology, but a lot of it is other, random things that came to me via Twitter or from friends. Perhaps this will become a regular post for me! Favourite paper Paine et al. on a wonderful idea of integrating demography and traits to predict community dynamics. I like the paper for its ideas - I have always enjoyed thinking about</description>
+      <description>Here&amp;rsquo;s where my reading took me this week. Some of it is ecology, but a lot of it is other, random things that came to me via Twitter or from friends. Perhaps this will become a regular post for me! Favourite paper Paine et al. on a wonderful idea of integrating demography and traits to predict community dynamics. I like the paper for its ideas - I have always enjoyed thinking about&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mixed-modelling-as-a-foreign-l/</guid>
-      <description>j’ n’y suis jamais allé quoi Ah dacc, tout s’explique donc Andrew: … pardon, mais vous avez dit combien de mots là? I have something like that interaction almost every day. French is an intricate language, and high school studying prepared me well for all the conjugations, rules, and exceptions. What I was not prepared for was the sheer number of words. The French pepper their speech with small pronouns, exclamations and phrases – which they then elide when speaking, you know – for</description>
+      <description>j’ n’y suis jamais allé quoi Ah dacc, tout s’explique donc Andrew: … pardon, mais vous avez dit combien de mots là? I have something like that interaction almost every day. French is an intricate language, and high school studying prepared me well for all the conjugations, rules, and exceptions. What I was not prepared for was the sheer number of&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/converting-anxiety-into-wisdom/</guid>
-      <description>I can be skeptical, even anxious, about ecology – particularly about methods and data quality. However, “anxiety can be cultivated into Wisdom” (McElreath, 2015). This is my mission for myself, and this post might be one of a series attempting this cultivation. I like thinking about quantitative methods, and I like giving feedback on proposed or in-progress work. Unfortunately, sometimes I fall into the role of a critic, finding “fault” – not a position I</description>
+      <description>I can be skeptical, even anxious, about ecology – particularly about methods and data quality. However, “anxiety can be cultivated into Wisdom” (McElreath, 2015). This is my mission for myself, and this post might be one of a series attempting this cultivation. I like thinking about quantitative methods, and I like giving feedback on proposed or in-progress&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/easily-made-fitted-and-predict/</guid>
-      <description>Earlier this week I wrote out a multilevel model. It had fit well (though slowly) and I spent a happy hour admiring the chains, checking the coefficients, plotting posterior values. Life was good and easy; merrily did I sail before a fair breeze and a clear sky. My next port of call was to plot some smooth fitted lines, aka “counterfactual predictions”. Ah yes. Predicitons! Wait. What kind of predictions? For the same groups I’ve already</description>
+      <description>Earlier this week I wrote out a multilevel model. It had fit well (though slowly) and I spent a happy hour admiring the chains, checking the coefficients, plotting posterior values. Life was good and easy; merrily did I sail before a fair breeze and a clear sky. My next port of call was to plot some smooth fitted lines, aka “counterfactual predictions”. Ah yes. Predicitons</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-i-use-rmarkdown/</guid>
-      <description>Last week or so, I achieved a wonderous thing. A trivial thing. I acheived a wondrous, trivial thing: I wrote my most popular tweet ever: My new thing is ending every Rmd with a list of links to the forums / SO questions / blogs / github repos that I used to solve the problem #rstats pic.twitter.com/U51KT9kiym - Andrew MacDonald (@polesasunder) January 26, 2018 That’s right! Dr. MacDonald going viral on the internet by urging people to</description>
+      <description>Last week or so, I achieved a wonderous thing. A trivial thing. I acheived a wondrous, trivial thing: I wrote my most popular tweet ever: My new thing is ending every Rmd with a list of links to the forums / SO questions / blogs / github repos that I used to solve the problem #rstats pic.twitter.com/U51KT9kiym - Andrew MacDonald (@polesasunder) January 26, 2018 That’s right</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-tidy-game-of-life/</guid>
-      <description>Ever since I moved to France for my postdoc in September 2016, I’ve tried to practice French whenever I can. One easy way to do that is by consuming YouTube channels in French – great things to put on the the background while I make food for my son, or feed my son, or clean up after feeding my son, etc. One of my favourite chaînes de Youtube is Science Etonnante, by David</description>
+      <description>Ever since I moved to France for my postdoc in September 2016, I’ve tried to practice French whenever I can. One easy way to do that is by consuming YouTube channels in French – great things to put on the the background while I make food for my son, or feed my son, or clean up after feeding my son, etc. One of my favourite chaînes de Youtube is Science Etonnante, by David&amp;hellip;</description>
     </item>
     
   </channel>

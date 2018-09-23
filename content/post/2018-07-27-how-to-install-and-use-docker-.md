@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Docker is a containerization platform that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker is de facto standard for container technology and it is an essential tool for DevOps engineers and their continuous integration and delivery pipeline. In this tutorial we will guide you through the process of installing Docker on a Debian 9 machine and explore the basic Docker concepts and<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-and-use-docker-on-debian-9/)
+Docker is a containerization platform that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker is de facto standard for container technology and it is an essential tool for DevOps engineers and their continuous integration and delivery[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-and-use-docker-on-debian-9/)
 

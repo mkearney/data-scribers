@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[As part of the release, I thought I’d explore the negative binomial just a bit, particularly as it relates to the Poisson distribution. The Poisson distribution is a discrete (integer) distribution of outcomes of non-negative values that is often used to describe count outcomes. It is characterized by a mean (or rate) and its variance equals its mean. We can see this by generating data from each distribution with mean 15, and a dispersion parameter of 0.2 for the negative<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/a-small-update-to-simstudy-neg-bin/)
+As part of the release, I thought I’d explore the negative binomial just a bit, particularly as it relates to the Poisson distribution. The Poisson distribution is a discrete (integer) distribution of outcomes of non-negative values that is often used to describe count outcomes. It is characterized by a mean (or rate) and its variance equals its[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/a-small-update-to-simstudy-neg-bin/)
 

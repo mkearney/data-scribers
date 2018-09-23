@@ -11,5 +11,5 @@ tags:
   - dataloraxcom
 ---
 
-[On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I'll go over some of the content in that talk, and discuss why I think you should develop an R<i class="fas fa-external-link-alt"></i>](http://www.dandersondata.com/post/why-i-think-you-should-write-an-r-package/)
+On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I'll go over some of the content in that talk, and discuss why I think you should develop an R[... <i class="fas fa-external-link-alt"></i>](http://www.dandersondata.com/post/why-i-think-you-should-write-an-r-package/)
 

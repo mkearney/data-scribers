@@ -9,5 +9,5 @@ tags:
   - blogsourcedtech
 ---
 
-[As every year, for the last 18 years, February is the time for FOSDEM, the Free and Open Source Software Developers' European Meeting. And for the third year in a row, most of the employees here at source{d} went all the way to freezing Brussels to participate in this amazing conference. Some were attending, others speaking, others organizing entire<i class="fas fa-external-link-alt"></i>](https://blog.sourced.tech//blog.sourced.tech/post/fosdem-2018/)
+As every year, for the last 18 years, February is the time for FOSDEM, the Free and Open Source Software Developers' European Meeting. And for the third year in a row, most of the employees here at source{d} went all the way to freezing Brussels to participate in this amazing conference. Some were attending, others speaking, others organizing entire[... <i class="fas fa-external-link-alt"></i>](https://blog.sourced.tech//blog.sourced.tech/post/fosdem-2018/)
 

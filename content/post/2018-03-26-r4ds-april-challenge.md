@@ -9,5 +9,5 @@ tags:
   - jessemaegancom
 ---
 
-[Both of these projects are the result of collaborations between Radovan, Burcu, Raul, Rosa, Jake, Thomas, & Ariel, and we’re thrilled to be sharing them with our<i class="fas fa-external-link-alt"></i>](https://www.jessemaegan.com/post/r4ds-april-challenge-time-for-some-spring-cleaning/)
+Both of these projects are the result of collaborations between Radovan, Burcu, Raul, Rosa, Jake, Thomas, & Ariel, and we’re thrilled to be sharing them with our[... <i class="fas fa-external-link-alt"></i>](https://www.jessemaegan.com/post/r4ds-april-challenge-time-for-some-spring-cleaning/)
 

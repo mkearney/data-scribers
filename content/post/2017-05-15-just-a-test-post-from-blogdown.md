@@ -10,5 +10,5 @@ tags:
   - cattleguardgithubio
 ---
 
-[So, Yihui Xie gifted the RStats world with another presentation surface. Now you can easily produce Hugo generated blogs right from RStudio! Oh, and it's pretty<i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2017/05/15/just-a-test-post-from-blogdown/)
+So, Yihui Xie gifted the RStats world with another presentation surface. Now you can easily produce Hugo generated blogs right from RStudio! Oh, and it's pretty[... <i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2017/05/15/just-a-test-post-from-blogdown/)
 

@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Drupal is one of the most popular open source CMS platforms worldwide. In this tutorial we will show you how to install Drupal 8.5 on an Ubuntu 18.04 machine. There are multiple ways to install Drupal, this tutorial covers the steps necessary for installing Drupal 8.5 using a composer template for Drupal projects called drupal-project. We'll be using Nginx as a web server, the latest PHP 7.2 and MySQL/MariaDB as a database<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-drupal-on-ubuntu-18-04/)
+Drupal is one of the most popular open source CMS platforms worldwide. In this tutorial we will show you how to install Drupal 8.5 on an Ubuntu 18.04 machine. There are multiple ways to install Drupal, this tutorial covers the steps necessary for installing Drupal 8.5 using a composer template for Drupal projects called[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-drupal-on-ubuntu-18-04/)
 

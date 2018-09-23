@@ -9,5 +9,5 @@ tags:
   - noahlandesbergcom
 ---
 
-[For example, I’ve been enjoying rewriting nursery rhymes: The package includes additional functions to find other related words, including: And of course, much thanks<i class="fas fa-external-link-alt"></i>](https://noahlandesberg.com/post/introducing-rhymer/)
+For example, I’ve been enjoying rewriting nursery rhymes: The package includes additional functions to find other related words, including: And of course, much thanks[... <i class="fas fa-external-link-alt"></i>](https://noahlandesberg.com/post/introducing-rhymer/)
 

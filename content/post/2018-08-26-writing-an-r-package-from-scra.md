@@ -10,5 +10,5 @@ tags:
   - rmageddonnetlifycom
 ---
 
-[Anyone who has created their own R package has probably come across Hilary Parker’s awesome blogpost, that walks you through creating your very first R package. The comprehensive detail on everything R packages can be found in Hadley Wickham’s superb book. In this post I am going to walk through some of the developments in the package development space since Hilary wrote her blog four years ago, in particular focussing on the relatively recent usethis<i class="fas fa-external-link-alt"></i>](https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/)
+Anyone who has created their own R package has probably come across Hilary Parker’s awesome blogpost, that walks you through creating your very first R package. The comprehensive detail on everything R packages can be found in Hadley Wickham’s superb[... <i class="fas fa-external-link-alt"></i>](https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/)
 

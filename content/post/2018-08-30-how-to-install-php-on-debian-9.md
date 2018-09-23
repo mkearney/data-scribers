@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Debian 9 ships with PHP version 7.0 will soon reach end-of-life for support and no longer receive security updates. In this tutorial, we will walk you through the steps for installing PHP 7.2 on a Debian 9 server. We will also show you how to configure Apache and Nginx to run PHP. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-php-on-debian-9/)
+Debian 9 ships with PHP version 7.0 will soon reach end-of-life for support and no longer receive security updates. In this tutorial, we will walk you through the steps for installing PHP 7.2 on a Debian 9 server. We will also show you how to configure Apache and Nginx to run PHP. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-php-on-debian-9/)
 

@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[The latest Ubuntu LTS release, Ubuntu 18.04 (Bionic Beaver), was released on April 26, 2018 and it will be supported for 5 years until April 2023. In this tutorial we will show you how to upgrade your Ubuntu 16.04 installation or later to Ubuntu 18.04 (Bionic Beaver). Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges. Backup Your Data First and foremost, make sure you backup your data before starting the major upgrade of your operating<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-upgrade-to-ubuntu-18-04-bionic-beaver/)
+The latest Ubuntu LTS release, Ubuntu 18.04 (Bionic Beaver), was released on April 26, 2018 and it will be supported for 5 years until April 2023. In this tutorial we will show you how to upgrade your Ubuntu 16.04 installation or later to Ubuntu 18.04 (Bionic Beaver). Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-upgrade-to-ubuntu-18-04-bionic-beaver/)
 

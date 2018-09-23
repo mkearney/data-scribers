@@ -9,5 +9,5 @@ tags:
   - blogzenggyucomen
 ---
 
-[Based on the matrix, the following pair-wise comparisons were made: The following code shows the definition of each function and how they are called. The followings are some take-away rules summarised from the<i class="fas fa-external-link-alt"></i>](https://blog.zenggyu.com/en/post/2018-08-12/a-comparison-of-different-ways-to-define-and-return-outputs-from-pl-pgsql-functions/)
+Based on the matrix, the following pair-wise comparisons were made: The following code shows the definition of each function and how they are called. The followings are some take-away rules summarised from the[... <i class="fas fa-external-link-alt"></i>](https://blog.zenggyu.com/en/post/2018-08-12/a-comparison-of-different-ways-to-define-and-return-outputs-from-pl-pgsql-functions/)
 

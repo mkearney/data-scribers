@@ -10,5 +10,5 @@ tags:
   - ryanestrelladonetlifycom
 ---
 
-[This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the<i class="fas fa-external-link-alt"></i>](https://ryanestrellado.netlify.com/post/california-school-dashboards-part-3-modeling-the-data/)
+This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the[... <i class="fas fa-external-link-alt"></i>](https://ryanestrellado.netlify.com/post/california-school-dashboards-part-3-modeling-the-data/)
 

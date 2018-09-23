@@ -9,5 +9,5 @@ tags:
   - rmflightgithubio
 ---
 
-[Not bad for the test data. But can we do<i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/split-unsplit-anti-pattern/)
+Not bad for the test data. But can we do[... <i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/split-unsplit-anti-pattern/)
 

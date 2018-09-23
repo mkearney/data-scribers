@@ -10,5 +10,5 @@ tags:
   - wythamrbindio
 ---
 
-[Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic descriptives. I’m going to do this in two broad steps: Selectorgadget is a javascript bookmarklet that allows you to interactively figure out what css selector you need to extract desired components from a<i class="fas fa-external-link-alt"></i>](https://wytham.rbind.io/post/scraping-nih-pis-with-rvest/)
+Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic[... <i class="fas fa-external-link-alt"></i>](https://wytham.rbind.io/post/scraping-nih-pis-with-rvest/)
 

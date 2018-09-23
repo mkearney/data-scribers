@@ -9,5 +9,5 @@ tags:
   - mouseimagingcentregithubioblog
 ---
 
-[Intro In this post I will demonstrate how to use my package ABIgeneRMINC to download, read and analyze mouse brain gene expression data from the Allen Brain Institute. The Allen Brain Institute (ABI) has acquired and released genome-wide spatial gene expression maps for the mouse brain. The data is generated using in situ hybridization experiments (ISH), where nucleotide probes for specific genes bind directly to mouse brain<i class="fas fa-external-link-alt"></i>](https://mouse-imaging-centre.github.io/blog/blog/post/2018-02-23_gene-expression/)
+Intro In this post I will demonstrate how to use my package ABIgeneRMINC to download, read and analyze mouse brain gene expression data from the Allen Brain Institute. The Allen Brain Institute (ABI) has acquired and released genome-wide spatial gene expression maps for the mouse[... <i class="fas fa-external-link-alt"></i>](https://mouse-imaging-centre.github.io/blog/blog/post/2018-02-23_gene-expression/)
 

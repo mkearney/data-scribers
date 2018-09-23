@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial will walk you through the steps of installing Ruby on a Debian 9 system. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. There are several different ways of installing Ruby on Debian. In the following sections, we will show how to install Ruby using the Rbenv and RVM script and from the default Debian<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-ruby-on-debian-9/)
+This tutorial will walk you through the steps of installing Ruby on a Debian 9 system. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. There are several different ways of installing Ruby on[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-ruby-on-debian-9/)
 

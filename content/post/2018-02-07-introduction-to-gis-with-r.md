@@ -9,5 +9,5 @@ tags:
   - jessesadlercom
 ---
 
-[Let's look at the result. We can see that the data is in the format that we are looking for and that the "type" column has been correctly transformed into<i class="fas fa-external-link-alt"></i>](https://jessesadler.com/post/gis-with-r-intro/)
+Let's look at the result. We can see that the data is in the format that we are looking for and that the "type" column has been correctly transformed into[... <i class="fas fa-external-link-alt"></i>](https://jessesadler.com/post/gis-with-r-intro/)
 

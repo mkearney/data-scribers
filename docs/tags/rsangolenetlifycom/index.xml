@@ -17,7 +17,7 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/performance-benchmarking-for-d/</guid>
-      <description>Motivation Performance comparison Packages compared Results Motivation Once more, there’s was an opportunity at work to optimize code and reduce run-time. The last time was for dummy-variable creation. Upon querying large data from our hive tables, the returned dataframe contains values of class character. Thus, everything has to be first type converted before any processing can be done. The most time consuming of these has been character to date-time conversion for which I traditionally used</description>
+      <description>Motivation Performance comparison Packages compared Results Motivation Once more, there’s was an opportunity at work to optimize code and reduce run-time. The last time was for dummy-variable creation. Upon querying large data from our hive tables, the returned dataframe contains values of class character. Thus, everything has to be first type converted before any processing can be&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/first-foray-into-shiny/</guid>
-      <description>Visualising Distributions Visualising Linear Discriminant Analysis Shiny had interested me for a while for it’s power to quickly communicate and vizualise data and models. I hadn’t delved into it due to lack of time to do so, until now. Two quick visualizations I’ve created as my 1st foray into R Shiny. Nothing earth shattering, but was helpful to learn the tool. Visualising Distributions Hosted on shinyapps for free, at link Github code</description>
+      <description>Visualising Distributions Visualising Linear Discriminant Analysis Shiny had interested me for a while for it’s power to quickly communicate and vizualise data and models. I hadn’t delved into it due to lack of time to do so, until now. Two quick visualizations I’ve created as my 1st foray into R Shiny. Nothing earth shattering, but was helpful to learn the&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/performance-benchmarking-for-d/</guid>
-      <description>Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R code. We were dealing with a fairly large dataset of roughly 500,000 observations for roughly 120 predictor</description>
+      <description>Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/purrify-your-carets/</guid>
-      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process programatically. These tools enable succinct functional programming in which a lot gets done with just a few lines of</description>
+      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/finite-mixture-modeling-using-/</guid>
-      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia. My intent here was to learn the flexmix package by replicating the results by the authors. Model Based Clustering The model based clustering on the whiskey</description>
+      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia. My intent here was to learn the flexmix package by replicating the results by the&amp;hellip;</description>
     </item>
     
   </channel>

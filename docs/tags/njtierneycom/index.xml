@@ -17,7 +17,7 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/new-paper-submission/</guid>
-      <description>This is the first full length paper I have written about software, and I am really grateful to have had the guidance of my co-author Di Cook - I&amp;rsquo;m really proud of this work. I&amp;rsquo;d also like to share the acknowledgements section of the</description>
+      <description>This is the first full length paper I have written about software, and I am really grateful to have had the guidance of my co-author Di Cook - I&amp;rsquo;m really proud of this work. I&amp;rsquo;d also like to share the acknowledgements section of the&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/i-graduated/</guid>
-      <description>Some exciting news: I finally walked across the floor and graduated from my PhD in Statistical Sciences from QUT! The graduations was live streamed onto the TVs in our department at QUT - here&amp;rsquo;s a photo of me at the exact moment my brother yelled out &amp;ldquo;YEEAAAAHHHH NIIIICCCKK YYEEEAAAAHH&amp;rdquo; in the acoustically well designed Concert Hall at QPAC. The Chancellor quietly said to me &amp;ldquo;I guess I don&amp;rsquo;t need to ask you if you have friends or family</description>
+      <description>Some exciting news: I finally walked across the floor and graduated from my PhD in Statistical Sciences from QUT! The graduations was live streamed onto the TVs in our department at QUT - here&amp;rsquo;s a photo of me at the exact moment my brother yelled out &amp;ldquo;YEEAAAAHHHH NIIIICCCKK YYEEEAAAAHH&amp;rdquo; in the acoustically well designed Concert Hall at&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-note-on-ggplot-code-style/</guid>
-      <description>I&amp;rsquo;ve got some opinions about how to write ggplot code. So, if there are more than two sections in a function, these should be separated on a newline. Ideally, all functions should have their argument names listed: Applying this same principle to ggplot2 code, we have the following, with the additional rule: But putting it onto one line, this is where I think it is not a good idea It is certainly great to be able to express the code so elegantly, but I&amp;rsquo;m just not that sold on the</description>
+      <description>I&amp;rsquo;ve got some opinions about how to write ggplot code. So, if there are more than two sections in a function, these should be separated on a&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/naming-things/</guid>
-      <description>The oldSchool namer generally mixes case in an R package, often capitalising the &amp;ldquo;R&amp;rdquo;, or going all in on ALL CAPS. Examples: Although personally I wouldn&amp;rsquo;t use this style as it can make it difficult to type, they have a certain charm, and are easy to google - provided you spell it right. And these are still seriously useful - Matrix provides extensive support for modelling, UpSetR produces great plots as an alternative to venn diagrams.</description>
+      <description>The oldSchool namer generally mixes case in an R package, often capitalising the &amp;ldquo;R&amp;rdquo;, or going all in on ALL CAPS. Examples: Although personally I wouldn&amp;rsquo;t use this style as it can make it difficult to type, they have a certain charm, and are easy to google - provided you spell it&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/what-i-wish-id-known/</guid>
-      <description>Something I never tire of hearing is the story of how someone arrived at where they are today. What were the twists and turns in the path? Did they change direction in their lives? Did they know what they wanted to be when they were younger? How has that changed? What do you wish you&amp;rsquo;d known? We were very lucky to have four great speakers: We had the pleasure of hearing the speakers talk plainly about what they wish they had known, and how they came to these</description>
+      <description>Something I never tire of hearing is the story of how someone arrived at where they are&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/naniar-031/</guid>
-      <description>There were a few things that changed in this release, some of them big, some small, and some technical, let&amp;rsquo;s break them down</description>
+      <description>There were a few things that changed in this release, some of them big, some small, and some technical, let&amp;rsquo;s break them down&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/naniar-version-020-on-cran/</guid>
-      <description>It is with great pleasure that I can say that naniar version 0.2.0 (&amp;ldquo;The First Joke and Other Matters&amp;rdquo;) is now on CRAN! It is inspired by the lampost from CS Lewis&amp;rsquo; &amp;ldquo;Narnia&amp;rdquo;, and highlights that it focusses on NA values, as well as this idea of &amp;ldquo;shining a light&amp;rdquo; on missing data, whilst containing a missing</description>
+      <description>It is with great pleasure that I can say that naniar version 0.2.0 (&amp;ldquo;The First Joke and Other Matters&amp;rdquo;) is now on CRAN! It is inspired by the lampost from CS Lewis&amp;rsquo; &amp;ldquo;Narnia&amp;rdquo;, and highlights that it focusses on NA values, as well as this idea of &amp;ldquo;shining a light&amp;rdquo; on missing data, whilst containing a missing&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/rtip/</guid>
-      <description>I&amp;rsquo;ve picked up a few tips along the way, and I wanted to share a couple of things I think give you a nice return on</description>
+      <description>I&amp;rsquo;ve picked up a few tips along the way, and I wanted to share a couple of things I think give you a nice return on&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/acknowledgements/</guid>
-      <description>Last week (specifically, the 1st Feb) I got &amp;ldquo;the letter&amp;rdquo; from QUT that basically says &amp;ldquo;You, Nicholas Tierney, are a Dr.&amp;rdquo;. Well, specifically, it says: The Queensland University of Technology’s Registrar has executively approved your degree and you are now entitled to use the title of</description>
+      <description>Last week (specifically, the 1st Feb) I got &amp;ldquo;the letter&amp;rdquo; from QUT that basically says &amp;ldquo;You, Nicholas Tierney, are a Dr.&amp;rdquo;. Well, specifically, it says: The Queensland University of Technology’s Registrar has executively approved your degree and you are now entitled to use the title of&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/tidyverse-case-study/</guid>
-      <description>&amp;hellip; data sets regarding songs on the Billboard Hot 100 list from 1960 to 2016, including ranks for the given year, musical features, and lyrics. So, this blogpost walks through how you might start to unpack the data, clean it, and draw some interesting conclusions. I also wanted to avoid the &amp;ldquo;draw the rest of the fucking owl&amp;rdquo; problem. This means that we don&amp;rsquo;t start with a perfectly clean dataset, and I try to take a bit of time to walk through some of the</description>
+      <description>&amp;hellip; data sets regarding songs on the Billboard Hot 100 list from 1960 to 2016, including ranks for the given year, musical features, and lyrics. So, this blogpost walks through how you might start to unpack the data, clean it, and draw some interesting conclusions. I also wanted to avoid the &amp;ldquo;draw the rest of the fucking owl&amp;rdquo;&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/bringing-together-people-and-p/</guid>
-      <description>What we created was a bunch of awesome individuals from 12 different countries. Before the ozunconf we discussed and dreamt up projects to work on for a few days, then met up and brought a few of them into reality. Before the ozunconf, we discussed various ideas for projects in GitHub issues. Things really started to pick up in the last week and we ended up at 41 issues - almost as many issues as</description>
+      <description>What we created was a bunch of awesome individuals from 12 different countries. Before the ozunconf we discussed and dreamt up projects to work on for a few days, then met up and brought a few of them into reality. Before the ozunconf, we discussed various ideas for projects in GitHub&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/so-youve-decided-to-change-you/</guid>
-      <description>I&amp;rsquo;ve had to change my R package names a few times. Every time I&amp;rsquo;ve had to do this, there were a few things I had to remember to do. Here&amp;rsquo;s a blog post that describes how to do that. When you change your package name, here is a list of things you need to do. And that&amp;rsquo;s basically it! Hooray, now to handle the git business. Now, with this final setup, what you want to do is go into your github repo, go to settings, then change the repo</description>
+      <description>I&amp;rsquo;ve had to change my R package names a few times. Every time I&amp;rsquo;ve had to do this, there were a few things I had to remember to do. Here&amp;rsquo;s a blog post that describes how to do that. When you change your package name, here is a list of things you need to do. And that&amp;rsquo;s basically it! Hooray, now to handle the git&amp;hellip;</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-guide-to-awesome-slides/</guid>
-      <description>I think that good design of slides is super important, and this slidedeck does a really great job of discussing good principles in a digestible manner, stating that the goal of a presentation is: To allow your audience to absort your information. BUT, if I were to take one thing from the presentation to recommend it would be this: Focus on one purpose per slide Don&amp;rsquo;t distract I find it very frustrating when a speaker loads up a page full of points that seem to exist to remind them what to</description>
+      <description>I think that good design of slides is super important, and this slidedeck does a really great job of discussing good principles in a digestible manner, stating that the goal of a presentation is: To allow your audience to absort your&amp;hellip;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/magic-reprex/</guid>
-      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much</description>
+      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
     </item>
     
   </channel>

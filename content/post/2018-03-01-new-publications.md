@@ -9,5 +9,5 @@ tags:
   - aggieerincom
 ---
 
-[Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB's website: Springer - it is free to view but not download. You can download the PDF version on OSF. We've submitted a couple new papers as well - updated those on my research publications page. I also have a couple more to get done - hoping to feature some of the cool coding work I've done this week after taking a breather from a seriously packed<i class="fas fa-external-link-alt"></i>](https://doomlab.github.io/post/new-publications/)
+Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB's website: Springer - it is free to view but not download. You can download the PDF version on OSF. We've submitted a couple new papers as well - updated those on my research publications[... <i class="fas fa-external-link-alt"></i>](https://doomlab.github.io/post/new-publications/)
 

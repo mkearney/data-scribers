@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/mle-can-be-pretty/)
+We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/mle-can-be-pretty/)
 

@@ -17,7 +17,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-altair-an-r-interf/</guid>
-      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics. The vocabulary and syntax of this grammar is different from that used by ggplot2. However, the fundamental ideas are very much the same: ggplot2 offers aesthetics, geoms, and scales; Vega-Lite offers marks, encondings, and</description>
+      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics. The vocabulary and syntax of this grammar is different from that used by&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/welcome-to-vegawidget/</guid>
-      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts. This group is named vegawidget, after the altair::vegawidget() function, which is used to render Vega and Vega-Lite chart specifications into HTML. In the not-so-distant future, this renderer will have its own package, also hosted by this</description>
+      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts. This group is named vegawidget, after the altair::vegawidget() function, which is used to render Vega and Vega-Lite chart specifications into&amp;hellip;</description>
     </item>
     
   </channel>

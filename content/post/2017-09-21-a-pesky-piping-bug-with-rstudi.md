@@ -10,5 +10,5 @@ tags:
   - sjfoxgithubio
 ---
 
-[You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive code. Do you get the same errors as I do? If so, should it be fixed, or is there a purpose I’m not<i class="fas fa-external-link-alt"></i>](https://sjfox.github.io/post/piping_bug/)
+You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive[... <i class="fas fa-external-link-alt"></i>](https://sjfox.github.io/post/piping_bug/)
 

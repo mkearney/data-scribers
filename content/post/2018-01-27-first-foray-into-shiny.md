@@ -10,5 +10,5 @@ tags:
   - rsangolenetlifycom
 ---
 
-[Visualising Distributions Visualising Linear Discriminant Analysis Shiny had interested me for a while for it’s power to quickly communicate and vizualise data and models. I hadn’t delved into it due to lack of time to do so, until now. Two quick visualizations I’ve created as my 1st foray into R Shiny. Nothing earth shattering, but was helpful to learn the tool. Visualising Distributions Hosted on shinyapps for free, at link Github code<i class="fas fa-external-link-alt"></i>](http://rsangole.netlify.com/post/first-foray-into-shiny/)
+Visualising Distributions Visualising Linear Discriminant Analysis Shiny had interested me for a while for it’s power to quickly communicate and vizualise data and models. I hadn’t delved into it due to lack of time to do so, until now. Two quick visualizations I’ve created as my 1st foray into R Shiny. Nothing earth shattering, but was helpful to learn the[... <i class="fas fa-external-link-alt"></i>](http://rsangole.netlify.com/post/first-foray-into-shiny/)
 

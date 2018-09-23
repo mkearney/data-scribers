@@ -10,5 +10,5 @@ tags:
   - blogzenggyucomen
 ---
 
-[An escape sequence is a sequence of characters that does not represent itself when used inside a character or string literal, but is translated into another character or a sequence of characters that may be difficult or impossible to represent directly. Escape sequences are widely used in C and many other languages, such as R, (Postgre)SQL and<i class="fas fa-external-link-alt"></i>](https://blog.zenggyu.com/en/post/2018-09-04/the-usage-of-ansi-c-escape-sequences-in-various-programing-languages/)
+An escape sequence is a sequence of characters that does not represent itself when used inside a character or string literal, but is translated into another character or a sequence of characters that may be difficult or impossible to represent directly. Escape sequences are widely used in C and many other languages, such as R, (Postgre)SQL and[... <i class="fas fa-external-link-alt"></i>](https://blog.zenggyu.com/en/post/2018-09-04/the-usage-of-ansi-c-escape-sequences-in-various-programing-languages/)
 

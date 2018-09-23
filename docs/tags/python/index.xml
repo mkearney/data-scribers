@@ -17,7 +17,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-python-virtual-e/</guid>
-      <description>Python virtual environment is a self-contained directory tree that includes a Python installation and number of additional packages. The main purpose of Python virtual environments is to create an isolated environment for different Python projects. This way you can install a specific version of a module on a per project basis without worrying that it will affect your other Python</description>
+      <description>Python virtual environment is a self-contained directory tree that includes a Python installation and number of additional packages. The main purpose of Python virtual environments is to create an isolated environment for different Python projects. This way you can install a specific version of a module on a per project basis without worrying that it will affect your other Python&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-anaconda-on-ubu/</guid>
-      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda Navigator. This tutorial will guide you through the steps of downloading and installing Anaconda Python Distribution on Ubuntu</description>
+      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/finding-modes-using-kernel-den/</guid>
-      <description>First, lets do this in R. Need some values to work with. Plot the density estimate with the mode location. Lets do something similar in Python. Start by generating a set of random values. Plot to show indeed we have it right. Note we sort the values first so the PDF looks</description>
+      <description>First, lets do this in R. Need some values to work with. Plot the density estimate with the mode location. Lets do something similar in Python. Start by generating a set of random values. Plot to show indeed we have it right. Note we sort the values first so the PDF looks&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-opencv-on-ubunt/</guid>
-      <description>This tutorial explains how to install OpenCV on Ubuntu 18.04. OpenCV (Open Source Computer Vision Library) is an open source computer vision library and has bindings for C++, Python and Java . It is used for a very wide range of applications including medical image analysis, stitching street view images, surveillance video, detecting and recognizing faces, tracking moving objects, extracting 3D models and much</description>
+      <description>This tutorial explains how to install OpenCV on Ubuntu 18.04. OpenCV (Open Source Computer Vision Library) is an open source computer vision library and has bindings for C++, Python and&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-debian-9/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). This tutorial will walk you through installing Python Pip on Debian 9 and teach you how to install and manage Python packages with pip. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). This tutorial will walk you through installing Python Pip on Debian 9 and teach you how to install and manage Python packages with&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-python-3-on-cen/</guid>
-      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual environment. Python is one of the most popular programming languages in the world, with its simple and easy to learn syntax Python is a great choice for beginners and experienced</description>
+      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-centos-7/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty simple. In this tutorial, we will walk through the steps required to install Python pip on CentOS 7 using the yum package manager and cover the basics of how to install and manage Python packages with</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/r4ds-june-challenge/</guid>
-      <description>No, however you are still encouraged to work through a book or course and share what you’ve learned on Twitter by using the #SoDS18 hashtag. No, but consider reaching out to the Python for Data Science</description>
+      <description>No, however you are still encouraged to work through a book or course and share what you’ve learned on Twitter by using the #SoDS18 hashtag. No, but consider reaching out to the Python for Data Science&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-altair-an-r-interf/</guid>
-      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics. The vocabulary and syntax of this grammar is different from that used by ggplot2. However, the fundamental ideas are very much the same: ggplot2 offers aesthetics, geoms, and scales; Vega-Lite offers marks, encondings, and</description>
+      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics. The vocabulary and syntax of this grammar is different from that used by&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/welcome-to-vegawidget/</guid>
-      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts. This group is named vegawidget, after the altair::vegawidget() function, which is used to render Vega and Vega-Lite chart specifications into HTML. In the not-so-distant future, this renderer will have its own package, also hosted by this</description>
+      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts. This group is named vegawidget, after the altair::vegawidget() function, which is used to render Vega and Vega-Lite chart specifications into&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-ubuntu-1/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on Ubuntu 18.04, but the installation is pretty straightforward. In this tutorial, we will show you how to install Python Pip on Ubuntu 18.04 using the apt package manager. We will also walk you through the basics of installing and managing Python packages with</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on Ubuntu 18.04, but the installation is pretty straightforward. In this tutorial, we will show you how to install Python Pip on Ubuntu 18.04 using the apt package&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-odoo-11-on-ubunt/</guid>
-      <description>Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website ,e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all seamlessly integrated. There are several ways to install Odoo depending on the required use case. This guide covers the steps necessary for installing and configuring Odoo for production using Git source and Python virtual environment on a Ubuntu</description>
+      <description>Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website ,e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all seamlessly integrated. There are several ways to install Odoo depending on the required use&amp;hellip;</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/yet-another-caret-workshop/</guid>
-      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as well. This is not supposed to cover all aspects of caret (plus there is already this), but more of a starter-pack for those who might be migrating from Python or another machine learning library like</description>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as&amp;hellip;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-setup-automatic-odoo-ba/</guid>
-      <description>In this tutorial we will walk you through the process of creating automatic daily backups of your Odoo databases. Odoo is the most popular open source ERP system written in Python and uses PostgreSQL as database back-end. All the data of your Odoo instance is stored in a PostgreSQL database. Regularly backing up the database will protect you from potentially catastrophic data loss and it is absolutely critical for anyone and everyone who has an Odoo</description>
+      <description>In this tutorial we will walk you through the process of creating automatic daily backups of your Odoo databases. Odoo is the most popular open source ERP system written in Python and uses PostgreSQL as database back-end. All the data of your Odoo instance is stored in a PostgreSQL&amp;hellip;</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/stan-basics/</guid>
-      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other languages). I figured it would be valuable for myself, and possibly others, to work through a few different problems in Stan and share my</description>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other&amp;hellip;</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/kaggle-panel-recap/</guid>
-      <description>Short answer: Twitter. I don’t always tweet about career transitions in data science, but I do keep my Twitter bio section pretty focused on what I do and how I got there: Short answer: sheer dumb luck. Long answer: I “found” data science when I was at an incredibly low point in my life. It was 2013, and I had just impulsively moved cross-country (from NYC to Seattle) with a boyfriend I started having second thoughts about the moment we left</description>
+      <description>Short answer: Twitter. I don’t always tweet about career transitions in data science, but I do keep my Twitter bio section pretty focused on what I do and how I got there: Short answer: sheer dumb luck. Long answer: I “found” data science when I was at an incredibly low point in my&amp;hellip;</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ymmv-nonprofit-data-science/</guid>
-      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization</description>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via&amp;hellip;</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/september-2018-datascience-goa/</guid>
-      <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree. I don’t know what I will do at that time but I know what I want to</description>
+      <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree. I don’t know what I will do at that time but I know what I want to&amp;hellip;</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-odoo-11-on-centos-7/</guid>
-      <description>In this tutorial, we’ll walk you through how to install Odoo 11 using Git source and Python virtual environment on your CentOS 7 machine. Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website, billing, accounting, e-Commerce, manufacturing, warehouse, project management, inventory and more. Odoo 11 requires Python 3.5 which is not available in the CentOS</description>
+      <description>In this tutorial, we’ll walk you through how to install Odoo 11 using Git source and Python virtual environment on your CentOS 7 machine. Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website, billing, accounting, e-Commerce, manufacturing, warehouse, project management, inventory and&amp;hellip;</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/something-different/</guid>
-      <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town. Cut-through, speeding,</description>
+      <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town. Cut-through, speeding,&amp;hellip;</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/liftr-rmarkdown-using-docker/</guid>
-      <description>I recently discover a R package, called liftr package. It allows the build of pdf document (and html files, but i didn&amp;rsquo;t test it) from a Rmarkdown file. Fully integrated in RStudio, the R code is executed (and other code as well, I tried python) and results are displayed. You don&amp;rsquo;t even need to have LaTeX on your computer, since the document compilation take place in a docker</description>
+      <description>I recently discover a R package, called liftr package. It allows the build of pdf document (and html files, but i didn&amp;rsquo;t test it) from a Rmarkdown file. Fully integrated in RStudio, the R code is executed (and other code as well, I tried python) and results are displayed. You don&amp;rsquo;t even need to have LaTeX on your computer, since the document compilation take place in a docker&amp;hellip;</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/spanish-stopwords-for-tidytext/</guid>
-      <description>A clever friend of mine says: the main programming language, is not Java or Python but English. So, when you&amp;rsquo;re searching for help, you&amp;rsquo;ll be much successful if searching in english. The main docs are in english, and if the topic is a bit obscure or not mainstream, you&amp;rsquo;ll be lucky if there&amp;rsquo;s some documents even in english. Searching for spanish documentation can lead you to bad translation if unlucky, or none at all at</description>
+      <description>A clever friend of mine says: the main programming language, is not Java or Python but English. So, when you&amp;rsquo;re searching for help, you&amp;rsquo;ll be much successful if searching in english. The main docs are in english, and if the topic is a bit obscure or not mainstream, you&amp;rsquo;ll be lucky if there&amp;rsquo;s some documents even in&amp;hellip;</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/advice-for-nontraditional-data/</guid>
-      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years</description>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice&amp;hellip;</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/first-post-/</guid>
-      <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs. Cheers !</description>
+      <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs. Cheers </description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/combining-r-and-python-for-dat/</guid>
-      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown document. I do this to keep the final product together and get a completely reproducible analysis in my R Markdown document.</description>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown&amp;hellip;</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/janitor-a-good-r-package-for-d/</guid>
-      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning</description>
+      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning&amp;hellip;</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/processing-mail-using-r/</guid>
-      <description>After a long time seeking for R packages to connect to a remote mailbox (not Gmail), I’ve had to admit that there’s no such feature right now in R. Tested a pair of Python scripts but too much convoluted to my needs. It’s an incredible issue that having more than 10 thousand packages available on CRAN, none of them was suitable for my needs. Some readers suggested tm.plugin.mail added to tm package, but my core feature is to connect to a remote</description>
+      <description>After a long time seeking for R packages to connect to a remote mailbox (not Gmail), I’ve had to admit that there’s no such feature right now in R. Tested a pair of Python scripts but too much convoluted to my needs. It’s an incredible issue that having more than 10 thousand packages available on CRAN, none of them was suitable for my&amp;hellip;</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/benchmarking-different-impleme/</guid>
-      <description>updated 01/08/2017 - added CG solver in reco, adjusted results As I promised in last post, I’m going to share benchmark of different implementation of matrix factorization with Weighted Alternating Least Squares. User-Item interaction matrix is made from lastfm-360K dataset. Implementations incude: My reco R package Ben Frederickson implicit python module Apache Spark implementation Quora’s qmf solver For the transparency I’ve created repository with all the</description>
+      <description>updated 01/08/2017 - added CG solver in reco, adjusted results As I promised in last post, I’m going to share benchmark of different implementation of matrix factorization with Weighted Alternating Least Squares. User-Item interaction matrix is made from lastfm-360K&amp;hellip;</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/using-docker-coreos-for-gpu-ba/</guid>
-      <description>Having confidence in your research and development environment is essential if you want to solve challenging problems. This post shows how to setup containers for deep learning, have numpy accelerated and finally speculates about hosting in the cloud vs. on-premise. To give you a bit of background, at source{d}, the ML team is running constant experiments with Python scripts and Jupyter notebooks which extensively use CUDA + NVIDIA GPUs. For</description>
+      <description>Having confidence in your research and development environment is essential if you want to solve challenging problems. This post shows how to setup containers for deep learning, have numpy accelerated and finally speculates about hosting in the cloud vs&amp;hellip;</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/proteus-keeping-go-as-the-sour/</guid>
-      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another player. With that in mind, we need to start thinking how to effectively and efficiently share our data models across all those languages, and others, in case we would start using</description>
+      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another&amp;hellip;</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/r-for-excel-users/</guid>
-      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials market. When I first started, I remember not knowing how to anything, but after a few months I became fairly proficient with the tool, and was able to build all sorts of useful</description>
+      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials&amp;hellip;</description>
     </item>
     
   </channel>

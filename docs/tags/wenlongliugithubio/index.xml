@@ -17,7 +17,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/generate-animated-tracking-map/</guid>
-      <description>Further data cleaning is needed to reformat the datetime and rename a column. We can also save the animation into gif files, instead of embedding the animation. R and related packages are able to conveniently draw both static and animated maps for tracking hurricanes or typhoons. Further analysis, such as real-time tracking of hurricanes, will be conducted in the</description>
+      <description>Further data cleaning is needed to reformat the datetime and rename a column. We can also save the animation into gif files, instead of embedding the animation. R and related packages are able to conveniently draw both static and animated maps for tracking hurricanes or typhoons. Further analysis, such as real-time tracking of hurricanes, will be conducted in the&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/generate-a-reproducible-map-fo/</guid>
-      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes. After installing all the libraries, we should include them in the R session to run the following codes. The map actually is a ggplot2 object and users can modified most of the components using ggplot2</description>
+      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes. After installing all the libraries, we should include them in the R session to run the following&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/brief-introduction-of-storm-hy/</guid>
-      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed outlet. As the temporal dynamics of discharge and solute concentration is an integration of complex hydrological and biochemical processes, the relationship between solute concentration and discharge, hereafter called C-Q relationship, is mostly</description>
+      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hellow-world/</guid>
-      <description>I build this website to achieve two goals: helping others know more about my professional achievements, and presenting my most latest output (with details) to persons of interest. Therefore, I will list my publications, including journal articles, conference presentations and proceedings, and book chapters (if any) here. In addition, the post section will briefly introduce my new ideas, experiences or findings. I will also upload some interesting pictures to draw more</description>
+      <description>I build this website to achieve two goals: helping others know more about my professional achievements, and presenting my most latest output (with details) to persons of interest. Therefore, I will list my publications, including journal articles, conference presentations and proceedings, and book chapters (if any)&amp;hellip;</description>
     </item>
     
   </channel>

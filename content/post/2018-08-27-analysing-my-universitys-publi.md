@@ -9,5 +9,5 @@ tags:
   - alaburdarbindio
 ---
 
-[Hello! I have recently finished my master’s degree and finished my summer projects! With spare time on my hands, I have finally gotten around to analysing the full list of my university’s publications. I have run into this dataset during a seminar about InCites, a tool for researchers to look into their university’s research, collaborations with other universities and even funding<i class="fas fa-external-link-alt"></i>](https://alaburda.rbind.io/post/analysing-my-university-s-publications/)
+Hello! I have recently finished my master’s degree and finished my summer projects! With spare time on my hands, I have finally gotten around to analysing the full list of my university’s publications. I have run into this dataset during a seminar about InCites, a tool for researchers to look into their university’s research, collaborations with other universities and even funding[... <i class="fas fa-external-link-alt"></i>](https://alaburda.rbind.io/post/analysing-my-university-s-publications/)
 

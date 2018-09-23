@@ -9,5 +9,5 @@ tags:
   - evangelinereynoldsnetlifycom
 ---
 
-[Every couple of weeks I like to explore data that’s brand new to me. I anticipate a one-hour, one-off project. Usually this turns out to be a beautiful lie, and the projects chew up much more time. Still, this enticing time-line is pulling me into new projects from time to time. Earlier this week, I heard about the dispute of authorship of some of the Federalist papers. I mentally flagged the topic for one a one-hour,<i class="fas fa-external-link-alt"></i>](https://evangelinereynolds.netlify.com/post/federalist-papers/)
+Every couple of weeks I like to explore data that’s brand new to me. I anticipate a one-hour, one-off project. Usually this turns out to be a beautiful lie, and the projects chew up much more time. Still, this enticing time-line is pulling me into new projects from time to time. Earlier this week, I heard about the dispute of authorship of some of the Federalist[... <i class="fas fa-external-link-alt"></i>](https://evangelinereynolds.netlify.com/post/federalist-papers/)
 

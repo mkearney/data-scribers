@@ -11,5 +11,5 @@ tags:
   - rtasticcouk
 ---
 
-[Here’s a sweet collection of packages required to run this analysis: First thing<i class="fas fa-external-link-alt"></i>](https://r-tastic.co.uk/post/exploring-london-crime-with-r-heat-maps/)
+Here’s a sweet collection of packages required to run this analysis: First thing[... <i class="fas fa-external-link-alt"></i>](https://r-tastic.co.uk/post/exploring-london-crime-with-r-heat-maps/)
 

@@ -9,5 +9,5 @@ tags:
   - watanabesmithrbindio
 ---
 
-[The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite. This is something that could happen in an actual ranked-choice election, which brings us to the subject at hand. In a ranked-choice election (also called an “instant runoff” election) voters submit a ranked list of their preferred<i class="fas fa-external-link-alt"></i>](https://WatanabeSmith.rbind.io/post/ranked-black-mirror/)
+The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite. This is something that could happen in an actual ranked-choice election, which brings us to the subject at[... <i class="fas fa-external-link-alt"></i>](https://WatanabeSmith.rbind.io/post/ranked-black-mirror/)
 

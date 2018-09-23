@@ -9,5 +9,5 @@ tags:
   - fishsciencesgithubio
 ---
 
-[Thanks for stopping<i class="fas fa-external-link-alt"></i>](https://fishsciences.github.io/post/2018-01-03-welcome/)
+Thanks for stopping[... <i class="fas fa-external-link-alt"></i>](https://fishsciences.github.io/post/2018-01-03-welcome/)
 

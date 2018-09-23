@@ -9,5 +9,5 @@ tags:
   - cevocomau
 ---
 
-[Cevo's General Manager Hannah Browne was invited to take part on this year's AWS Summit Partner panel - "Innovating with AWS". Doing her bit as the only woman on the panel (women in tech, represent!), Hannah discussed who we are at Cevo, some of the innovative work we've been doing with our customers, and briefly touched on the new concept of 'FinOps': the benefits and challenges of bringing finance and operations together for success in the new ways of<i class="fas fa-external-link-alt"></i>](https://cevo.com.au/post/2018-05-11-aws-summit-18-panel-video/)
+Cevo's General Manager Hannah Browne was invited to take part on this year's AWS Summit Partner panel - "Innovating with[... <i class="fas fa-external-link-alt"></i>](https://cevo.com.au/post/2018-05-11-aws-summit-18-panel-video/)
 

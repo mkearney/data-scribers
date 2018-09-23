@@ -9,5 +9,5 @@ tags:
   - cattleguardgithubio
 ---
 
-[Google released their CausalImpact package a few years ago and when they did my mind started racing with ideas for information security and information risk applications. Imagine if you could propose a control, policy change or process improvement with an expected effect on a response variable, which would lead you to purposefully defining a way to measure intervention outcomes. Not bad. You go on to determine a number of<i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2018/07/12/counter-factual-infosec/)
+Google released their CausalImpact package a few years ago and when they did my mind started racing with ideas for information security and information risk applications. Imagine if you could propose a control, policy change or process improvement with an expected effect on a response variable, which would lead you to purposefully defining a way to measure intervention outcomes. Not[... <i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2018/07/12/counter-factual-infosec/)
 

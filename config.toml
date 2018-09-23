@@ -1,4 +1,4 @@
-baseURL = "https://rscribers.mikewk.com/"
+baseURL = "https://data-scribers.mikewk.com/"
 languageCode = "en-us"
 title = "DATA SCrIbers"
 description = "Blog posts about data science"

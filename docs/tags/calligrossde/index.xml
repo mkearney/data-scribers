@@ -17,7 +17,7 @@
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/using-cookie-based-authenticat/</guid>
-      <description>Introduction Authentication is one of the features the open source version of shiny-server is missing. The simplest way is to set up a proxy and let it handle the user authentication. But in some scenarios, this isn’t sufficient as you are not able to determine in shiny who is the current user and thus are e.g. unable to apply an authorization scheme. One possible solution for this problem is a cookie based</description>
+      <description>Introduction Authentication is one of the features the open source version of shiny-server is missing. The simplest way is to set up a proxy and let it handle the user authentication. But in some scenarios, this isn’t sufficient as you are not able to determine in shiny who is the current user and thus are e.g. unable to apply an authorization&amp;hellip;</description>
     </item>
     
   </channel>

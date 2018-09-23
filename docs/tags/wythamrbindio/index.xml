@@ -17,7 +17,7 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/solution-to-a-frustrating-rjav/</guid>
-      <description>Go to the command line and run: According to the solution at the aforementioned link, this will “create a link to libjvm.dylib inside R’s lib folder”. I can’t tell you much more, but it took me waaaay too long to find this so I hope this post makes it easier for the next person with this</description>
+      <description>Go to the command line and run: According to the solution at the aforementioned link, this will “create a link to libjvm.dylib inside R’s lib folder”. I can’t tell you much more, but it took me waaaay too long to find this so I hope this post makes it easier for the next person with this&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-note-on-factors-in-regressio/</guid>
-      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment</description>
+      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-make-a-poster-in-r/</guid>
-      <description>The main area where I found the Rossi post lacking was on software. All the suggestions he makes (e.g. Powerpoint, Canva, Adobe Illustrator) are point-and-click. I have nothing against using point-and-click software to make a poster, so if it works for you then go ahead. I’m just so used to leaving typesetting and formatting to the computer that there are a lot of details I don’t want to worry</description>
+      <description>The main area where I found the Rossi post lacking was on software. All the suggestions he makes (e.g. Powerpoint, Canva, Adobe Illustrator) are point-and-click. I have nothing against using point-and-click software to make a poster, so if it works for you then go ahead. I’m just so used to leaving typesetting and formatting to the computer that there are a lot of details I don’t want to worry&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-git-github/</guid>
-      <description>Something helpful that came out of this exercise was that it really made me sit down and think about how exactly version control is useful to applied economists and how it can be made to feel as accessible as possible. If you haven’t read David’s blog posts, my takeaway from them is that the earlier you can get students to the payoff, the</description>
+      <description>Something helpful that came out of this exercise was that it really made me sit down and think about how exactly version control is useful to applied economists and how it can be made to feel as accessible as possible. If you haven’t read David’s blog posts, my takeaway from them is that the earlier you can get students to the payoff, the&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/contra-jfk-use-r-because-it-is/</guid>
-      <description>There’s an attitude that I believe is reasonably common among applied economists, that coding is the easy part of what we do and where we add the least value. If we were building a house, coding is like laying bricks - it’s the “menial” and “boring” part of the job (no slight meant against actual bricklayers) - and we add the most value as the architect by coming up with an interesting research question, thinking about endogeneity and so</description>
+      <description>There’s an attitude that I believe is reasonably common among applied economists, that coding is the easy part of what we do and where we add the least&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-nih-pis-with-rvest/</guid>
-      <description>Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic descriptives. I’m going to do this in two broad steps: Selectorgadget is a javascript bookmarklet that allows you to interactively figure out what css selector you need to extract desired components from a</description>
+      <description>Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic&amp;hellip;</description>
     </item>
     
   </channel>

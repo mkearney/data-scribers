@@ -17,7 +17,7 @@
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/if-rankedchoice-voting-decided/</guid>
-      <description>The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite. This is something that could happen in an actual ranked-choice election, which brings us to the subject at hand. In a ranked-choice election (also called an “instant runoff” election) voters submit a ranked list of their preferred</description>
+      <description>The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite. This is something that could happen in an actual ranked-choice election, which brings us to the subject at&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/behind-the-viz/</guid>
-      <description>Lots of packages here: The gather() function pivots the data, we name “episodes” as the key (what the column names will be called) and rankings as the values (what the data in those columns will now be called), while telling the function to not mess with the columns user, other, or id. Now that we have long data, we’ll calculate what percentage of 1st place votes each episode recieved, and then plot that in a</description>
+      <description>Lots of packages here: The gather() function pivots the data, we name “episodes” as the key (what the column names will be called) and rankings as the values (what the data in those columns will now be called), while telling the function to not mess with the columns user, other, or&amp;hellip;</description>
     </item>
     
   </channel>

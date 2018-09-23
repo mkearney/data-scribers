@@ -9,5 +9,5 @@ tags:
   - rdatagennet
 ---
 
-[Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and assumptions). However, those investigators may not have as much control over the actual treatments that study participants<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/cace-explored/)
+Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/cace-explored/)
 

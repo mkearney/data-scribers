@@ -17,7 +17,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/modeling-the-error-variance-to/</guid>
-      <description>One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of prediction. This assumption is important for OLS to be the best linear unbiased predictor</description>
+      <description>One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/simulating-data-from-regressio/</guid>
-      <description>My preferred approach to validating regression models is to simulate data from them, and see if the simulated data capture relevant features of the original data. A basic feature of interest would be the mean. I like this approach because it is extendable to the family of generalized linear models (logistic, Poisson, gamma, &amp;hellip;) and other regression models, say t-regression. It&amp;rsquo;s something Gelman and Hill cover in their regression</description>
+      <description>My preferred approach to validating regression models is to simulate data from them, and see if the simulated data capture relevant features of the original data. A basic feature of interest would be the mean. I like this approach because it is extendable to the family of generalized linear models (logistic, Poisson, gamma, &amp;hellip;) and other regression models, say&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-binary-regression-softwa/</guid>
-      <description>I have read that the most common model for analyzing ordinal data is the cumulative link logistic model, coupled with the proportional odds assumption. Essentially, you treat the outcome as if it were the categorical manifestation of a continuous latent variable. The predictor variables of this outcome influence it in one way only, so you get a single regression coefficient for each</description>
+      <description>I have read that the most common model for analyzing ordinal data is the cumulative link logistic model, coupled with the proportional odds assumption. Essentially, you treat the outcome as if it were the categorical manifestation of a continuous latent variable. The predictor variables of this outcome influence it in one way only, so you get a single regression coefficient for each&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-glmer-to-perform-rasch-a/</guid>
-      <description>I&amp;rsquo;ve been interested in the relationship between ordinal regression and item response theory (IRT) for a few months now. There are several helpful papers on the topic, here are some randomly picked ones 1 2 3 4 5, and a book.6 In this post, I focus on Rasch</description>
+      <description>I&amp;rsquo;ve been interested in the relationship between ordinal regression and item response theory (IRT) for a few months now. There are several helpful papers on the topic, here are some randomly picked ones 1 2 3 4 5, and a book.6 In this post, I focus on Rasch&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-chisquare-test-of-close-fit-/</guid>
-      <description>TLDR: If you can assume close fit for the RMSEA, there is no reason why you cannot for a Chi-Square test in SEMs. The method to do this is relatively simple, and may cause SEM practitioners to reconsider the Chi-Square test. When assessing the fit of structural equation models, it is common for applied researchers to dismiss the $\chi^2$ test because it will almost always detect a statistically significant discrepancy between your model and the data, given a large enough sample</description>
+      <description>TLDR: If you can assume close fit for the RMSEA, there is no reason why you cannot for a Chi-Square test in SEMs. The method to do this is relatively simple, and may cause SEM practitioners to reconsider the Chi-Square&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/misspecification-and-fit-indic/</guid>
-      <description>TLDR: If you have good measurement quality, conventional benchmarks for fit indices may lead to bad decisions. Additionally, global fit indices are not informative for investigating misspecification. I am working with one of my professors, Dr. Jessica Logan, on a checklist for the developmental progress of young children. We intend to take this down the IRT route (or ordinal logistic regression), but currently, this is all part of a factor analysis course</description>
+      <description>TLDR: If you have good measurement quality, conventional benchmarks for fit indices may lead to bad decisions. Additionally, global fit indices are not informative for investigating misspecification. I am working with one of my professors, Dr. Jessica Logan, on a checklist for the developmental progress of young&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/littles-mcar-test-at-different/</guid>
-      <description>TLDR: Little&amp;rsquo;s MCAR test is unable to tell data that are MCAR from data that are MAR in small samples, but maintains the nominal error rate when null is true across a wide range of sample sizes. I just found out about the R simglm package and decided to do a small simulation to test Little&amp;rsquo;s MCAR test1 under different sample sizes. I could have investigated heteroskedasticity in linear regression instead, and I probably will in the</description>
+      <description>TLDR: Little&amp;rsquo;s MCAR test is unable to tell data that are MCAR from data that are MAR in small samples, but maintains the nominal error rate when null is true across a wide range of sample sizes. I just found out about the R simglm package and decided to do a small simulation to test Little&amp;rsquo;s MCAR test1 under different sample&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/theilsen-regression-in-r/</guid>
-      <description>TLDR: When performing a simple linear regression, if you have any concern about outliers or heterosedasticity, consider the Theil-Sen estimator. A simple linear regression estimator that is not commonly used or taught in the social sciences is the Theil-Sen estimator. This is a shame given that this estimator is very intuitive, once you know what a slope</description>
+      <description>TLDR: When performing a simple linear regression, if you have any concern about outliers or heterosedasticity, consider the Theil-Sen estimator. A simple linear regression estimator that is not commonly used or taught in the social sciences is the Theil-Sen estimator. This is a shame given that this estimator is very intuitive, once you know what a slope&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-regression-with-violati/</guid>
-      <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity. The sample size for the analysis was 44. I mentioned how the regression slopes are fine under heteroskedasticity, but inference $(t, SE, pvalue)$ may be</description>
+      <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity. The sample size for the analysis was&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/on-the-interpretation-of-regre/</guid>
-      <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models.1 So I started reading it and it&amp;rsquo;s a good book. A useful piece of advice they give is to interpret regression coefficients in a predictive manner</description>
+      <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models.1 So I started reading it and it&amp;rsquo;s a good&amp;hellip;</description>
     </item>
     
   </channel>

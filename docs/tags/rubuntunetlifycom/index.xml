@@ -17,7 +17,7 @@
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/august-25th-c2d4u-update/</guid>
-      <description>64 new or updated packages on c2d4u were uploaded on August 25th. Packages are listed below. Currently on the version 3.5 c2d4u PPA, there are 4059 packages for Bionic, 3674 for Xenial, and 3673 for Trusty. As always, if something fails to install or does not play well with other packages, please let me</description>
+      <description>64 new or updated packages on c2d4u were uploaded on August 25th. Packages are listed below. Currently on the version 3.5 c2d4u PPA, there are 4059 packages for Bionic, 3674 for Xenial, and 3673 for Trusty. As always, if something fails to install or does not play well with other packages, please let me&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/changes-to-cran-ubuntu-webpage/</guid>
-      <description>One of the keys is mine, uid “Michael Rutter”. The other key, even though the date suggests otherwise, appears to be new. The uid is “Totally Legit Signing Key”. I am fairly certain that this key was placed there to demonstrate that using the short key ID is flawed, as it is easy to create a key using brute force that matches my key. This is called an key id collision.</description>
+      <description>One of the keys is mine, uid “Michael Rutter”. The other key, even though the date suggests otherwise, appears to be new. The uid is “Totally Legit Signing Key”. I am fairly certain that this key was placed there to demonstrate that using the short key ID is flawed, as it is easy to create a key using brute force that matches my key. This is called an key id&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/june-11th-2018-r-350-on-debian/</guid>
-      <description>Dirk, Michael and Johannes, June</description>
+      <description>Dirk, Michael and Johannes, June&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/june-2nd-2018-c2d4u-update/</guid>
-      <description>Small weekly update to c2d4u. 21 packages in total either updated or</description>
+      <description>Small weekly update to c2d4u. 21 packages in total either updated or&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/c2d4u-update/</guid>
-      <description>On the c2d4u PPAs, my goal is to update and add new packages (from CRAN Task Views) on a weekly basis, usually on the weekend. While I was building c2d4u3.5, I put this on hold, as I didn’t want to build new (to the PPA) packages at the same time as checking old ones. For this update, 230 R packages were either updated or added as new. At this time, I don’t provide information that distinguishes between updated or new, but that feature may be added in the</description>
+      <description>On the c2d4u PPAs, my goal is to update and add new packages (from CRAN Task Views) on a weekly basis, usually on the weekend. While I was building c2d4u3.5, I put this on hold, as I didn’t want to build new (to the PPA) packages at the same time as checking old ones. For this update, 230 R packages were either updated or added as&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/announcing-cran2deb4ubuntu35/</guid>
-      <description>Many things to consider before you add this PPA to your Ubuntu machine. The PPA supplies binaries for Trusty (14.04), Xenial (16.04), and Bionic (18.04). If you decide to utilize this PPA, please let me know if something is not working. There is no way I can test all 3,400+ packages and there are always little things that I miss. If there are issues, please contact me via email at marutter[at]gmail.</description>
+      <description>Many things to consider before you add this PPA to your Ubuntu machine. The PPA supplies binaries for Trusty (14.04), Xenial (16.04), and Bionic (18.04). If you decide to utilize this PPA, please let me know if something is not working. There is no way I can test all 3,400+ packages and there are always little things that I miss. If there are issues, please contact me via email at&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/adding-jq-library-to-trusty-an/</guid>
-      <description>One of the advantages of using Launchpad’s PPA system is that it allows you to easily use the work of others backporting packages to older</description>
+      <description>One of the advantages of using Launchpad’s PPA system is that it allows you to easily use the work of others backporting packages to older&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/replacing-weatherundergroundco/</guid>
-      <description>Combining these two data sources recreates what weatherunderground.com used to provide. It should be noted that Dark Sky has a slightly different definition of a day for their API, calculating daily averages from 4AM to 4AM, not midnight to midnight. I compared data for previous years and the differences were negligible. While not a perfect solution, it is enough to keep RoboHarry</description>
+      <description>Combining these two data sources recreates what weatherunderground.com used to provide. It should be noted that Dark Sky has a slightly different definition of a day for their API, calculating daily averages from 4AM to 4AM, not midnight to midnight. I compared data for previous years and the differences were negligible. While not a perfect solution, it is enough to keep RoboHarry&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/update-on-the-move-to-r-350/</guid>
-      <description>One of the challenges with using Launchpad is that once a package is built, it needs to be published. This takes some time (around 20 minutes). Therefore, you can’t just push a series of packages to Launchpad and walk away. In order to ensure the dependencies are built, you need to wait until they have been published in the PPA. This is on top of determining the build order based on</description>
+      <description>One of the challenges with using Launchpad is that once a package is built, it needs to be published. This takes some time (around 20 minutes). Therefore, you can’t just push a series of packages to Launchpad and walk away. In order to ensure the dependencies are built, you need to wait until they have been published in the PPA. This is on top of determining the build order based on&amp;hellip;</description>
     </item>
     
   </channel>

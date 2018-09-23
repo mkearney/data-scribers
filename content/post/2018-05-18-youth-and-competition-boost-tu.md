@@ -9,5 +9,5 @@ tags:
   - cjbarrienetlifycom
 ---
 
-[Municipalities with a greater number of younger registered voters experienced higher turnout. Municipalities with more candidates proportional to the size of the electorate witnessed substantially increased turnout. On May 6, Tunisia held its first municipal elections since the 2011 Revolution. While the country has now witnessed two rounds of free and fair national elections, municipal elections have been subject to multiple<i class="fas fa-external-link-alt"></i>](https://cjbarrie.netlify.com/post/bpost18062018/)
+Municipalities with a greater number of younger registered voters experienced higher turnout. Municipalities with more candidates proportional to the size of the electorate witnessed substantially increased turnout. On May 6, Tunisia held its first municipal elections since the 2011[... <i class="fas fa-external-link-alt"></i>](https://cjbarrie.netlify.com/post/bpost18062018/)
 

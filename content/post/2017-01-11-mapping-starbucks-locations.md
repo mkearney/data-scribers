@@ -10,5 +10,5 @@ tags:
   - seanlnguyencom
 ---
 
-[This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch. This post assumes you have R and Rstudio installed and know how to install packages. For this tutorial you will need to download tidyverse, RCurl, and leaflet which you can do in the bottom right panel of Rstudio by clicking the install<i class="fas fa-external-link-alt"></i>](http://www.seanlnguyen.com/post/mapping-starbucks-locations/)
+This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch. This post assumes you have R and Rstudio installed and know how to install[... <i class="fas fa-external-link-alt"></i>](http://www.seanlnguyen.com/post/mapping-starbucks-locations/)
 

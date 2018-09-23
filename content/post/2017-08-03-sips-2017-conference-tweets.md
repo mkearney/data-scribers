@@ -9,5 +9,5 @@ tags:
   - vuorrenetlifycom
 ---
 
-[The timeline of tweets reveals that SIPSers were most active on Twitter on Monday, and there’s a clear spike of activity at 6pm on Monday. Here are the top 5 SIPS non-retweets. Here are the top hashtags people used with the SIPS hashtag. And finally the obligatory graph: Arrows represent tweets going from someone to someone<i class="fas fa-external-link-alt"></i>](https://vuorre.netlify.com/post/2017/sips-2017-conference-tweets/)
+The timeline of tweets reveals that SIPSers were most active on Twitter on Monday, and there’s a clear spike of activity at 6pm on Monday. Here are the top 5 SIPS non-retweets. Here are the top hashtags people used with the SIPS hashtag. And finally the obligatory graph: Arrows represent tweets going from someone to someone[... <i class="fas fa-external-link-alt"></i>](https://vuorre.netlify.com/post/2017/sips-2017-conference-tweets/)
 

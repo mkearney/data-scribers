@@ -10,5 +10,5 @@ tags:
   - jessesadlercom
 ---
 
-[The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts. In reading through documents that may or may not be primarily economic in nature, the researcher comes across sets of values that need to be manipulated to better understand their<i class="fas fa-external-link-alt"></i>](https://jessesadler.com/post/debkeepr-intro/)
+The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts. In reading through documents that may or may not be primarily economic in nature, the researcher comes across sets of values that need to be manipulated to better understand their[... <i class="fas fa-external-link-alt"></i>](https://jessesadler.com/post/debkeepr-intro/)
 

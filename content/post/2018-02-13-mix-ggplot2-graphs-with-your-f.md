@@ -9,5 +9,5 @@ tags:
   - leonawiczgithubioblog
 ---
 
-[Please do share your data analyst meme creations.<i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/2018-02-09-mix-ggplot2-graphs-with-your-favorite-memes-memery-0-4-2-on-cran/)
+Please do share your data analyst meme creations[... <i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/2018-02-09-mix-ggplot2-graphs-with-your-favorite-memes-memery-0-4-2-on-cran/)
 

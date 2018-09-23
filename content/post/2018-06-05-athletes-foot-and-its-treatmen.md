@@ -9,5 +9,5 @@ tags:
   - sciathlongithubio
 ---
 
-[Hi athletes, today we will be looking at data about a health issue that affects many athletes: athlete's foot. It's not a very glamorous subject but it's still interesting, and I find fungi really fascinating, they are warrior eukaryotes that survive everywhere! Most of you probably would rather never hear about it... but you<i class="fas fa-external-link-alt"></i>](https://Sciathlon.github.io/post/athletesfoot/)
+Hi athletes, today we will be looking at data about a health issue that affects many athletes: athlete's foot. It's not a very glamorous subject but it's still interesting, and I find fungi really fascinating, they are warrior eukaryotes that survive everywhere! Most of you probably would rather never hear about it... but you[... <i class="fas fa-external-link-alt"></i>](https://Sciathlon.github.io/post/athletesfoot/)
 

@@ -17,7 +17,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-new-rstudio-addin-to-facilit/</guid>
-      <description>After struggling a bit due to my rather nonexistent shiny skills, in the end I managed to obtain a “basic but useful” (IMO) addin. Let’s see how it works: I hope someone else will find this</description>
+      <description>After struggling a bit due to my rather nonexistent shiny skills, in the end I managed to obtain a “basic but useful” (IMO) addin. Let’s see how it works: I hope someone else will find this&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/automatically-importing-public/</guid>
-      <description>All is left is to run the script: Running the script will give you files like this one: , where I tweaked a bit the hugo-academic format to include bibliographic info such as volume, number, pages and doi link. The files can then be further customized to include, for example, links to pdfs, images,</description>
+      <description>All is left is to run the script: Running the script will give you files like this one: , where I tweaked a bit the hugo-academic format to include bibliographic info such as volume, number, pages and doi link. The files can then be further customized to include, for example, links to pdfs, images,&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,16 +35,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/speeding-up-spatial-analyses-b/</guid>
-      <description>However, this starts to have problems over really large datasets, because the total number of comparisons to be done still rapidly increase besides the use of spatial indexes. A test done by changing the number of points in the above example in the range 25000 - 475000 shows for example this kind of behavior, for two different values of maxdist (500 and 2000 m): On the test dataset, the relationships are almost perfectly quadratic (due to the uniform distribution of</description>
-    </item>
-    
-    <item>
-      <title>Building a website with `pkgdown`</title>
-      <link>/post/building-a-website-with-pkgdow/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/building-a-website-with-pkgdow/</guid>
-      <description>Assuming you are using RStudio, and that you didn&amp;rsquo;t already do this, open the project corresponding to your package and (as a minimum) run: Other possibly useful commands (depending on the status of your package) may be: The resulting website will look more or less like this: In MODIStsp website, we are using the right side of the top menu bar to provide access to: , but if you are more fluent than me in _css _and _js _you can probably tweak appearance a lot</description>
+      <description>However, this starts to have problems over really large datasets, because the total number of comparisons to be done still rapidly increase besides the use of spatial&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +44,7 @@
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/the-new-modistsp-website-based/</guid>
-      <description>We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp</description>
+      <description>We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +53,7 @@
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/modistsp-v-132-is-on-cran-/</guid>
-      <description>In this case, for example, Land Surface Temperature values in the output rasters will be in °K, and spectral indices will be floating point values (e.g., NDVI will be between -1 and 1 instead than between -10000 and</description>
+      <description>In this case, for example, Land Surface Temperature values in the output rasters will be in °K, and spectral indices will be floating point values (e.g., NDVI will be between -1 and 1 instead than between -10000 and&amp;hellip;</description>
     </item>
     
   </channel>

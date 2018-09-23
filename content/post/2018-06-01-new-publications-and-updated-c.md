@@ -9,5 +9,5 @@ tags:
   - aggieerincom
 ---
 
-[Hi guys! I just wanted to post that I've updated the website to be current with some new publications I wanted to highlight: First up is two papers on psycholinguistics that were undergraduate student projects: Duncan, J., Buchanan, E.M., Marshall, C.Z., & Oberdieck, K. (accepted). But words will never hurt me, Journal of Psychology and Behavioral Sciences, X, XX-XX. PDF Forbes, F.-J., & Buchanan, E. M. (accepted). “Textisms”: The Comfort of the Recipient, Psychology of Popular Media Culture, X,<i class="fas fa-external-link-alt"></i>](https://doomlab.github.io/post/new-publications-and-updated-cv/)
+Hi guys! I just wanted to post that I've updated the website to be current with some new publications I wanted to highlight: First up is two papers on psycholinguistics that were undergraduate student projects: Duncan, J., Buchanan, E.M., Marshall, C.Z., & Oberdieck, K. (accepted). But words will never hurt me, Journal of Psychology and Behavioral Sciences, X, XX-XX. PDF Forbes, F.-J., & Buchanan, E[... <i class="fas fa-external-link-alt"></i>](https://doomlab.github.io/post/new-publications-and-updated-cv/)
 

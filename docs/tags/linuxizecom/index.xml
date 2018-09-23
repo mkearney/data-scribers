@@ -17,7 +17,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-ssh-keys-on-ubun/</guid>
-      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server and supports various authentication mechanisms. The two most popular mechanisms are passwords based authentication and public key based authentication. Using SSH keys is more secure and convenient than traditional password authentication. In this tutorial we will walk through how to generate SSH keys on Ubuntu 18.04</description>
+      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server and supports various authentication mechanisms. The two most popular mechanisms are passwords based authentication and public key based authentication. Using SSH keys is more secure and convenient than traditional password&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-ruby-on-debian-/</guid>
-      <description>This tutorial will walk you through the steps of installing Ruby on a Debian 9 system. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. There are several different ways of installing Ruby on Debian. In the following sections, we will show how to install Ruby using the Rbenv and RVM script and from the default Debian</description>
+      <description>This tutorial will walk you through the steps of installing Ruby on a Debian 9 system. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. There are several different ways of installing Ruby on&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-jenkins-on-cent/</guid>
-      <description>Jenkins is an open source, Java-based automation server that offers an easy way to set up a continuous integration and continuous delivery (CI/CD) pipeline. This tutorial will walk you through the steps of installing Jenkins on a CentOS 7 system using the official Jenkins repository. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. Installing Jenkins To install Jenkins on your CentOS system, follow the steps</description>
+      <description>Jenkins is an open source, Java-based automation server that offers an easy way to set up a continuous integration and continuous delivery (CI/CD) pipeline. This tutorial will walk you through the steps of installing Jenkins on a CentOS 7 system using the official Jenkins repository. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-use-scp-command-to-secu/</guid>
-      <description>SCP (secure copy) is a command line utility that allows you to securely copy files and directories between two locations. With scp, you can copy a file or directory: From your local system to a remote system. From a remote system to your local system. Between two remote systems from your local system. When transferring data with scp both the files and password are encrypted so that anyone snooping on the traffic doesn&amp;rsquo;t get anything</description>
+      <description>SCP (secure copy) is a command line utility that allows you to securely copy files and directories between two locations. With scp, you can copy a file or directory: From your local system to a remote system. From a remote system to your local system. Between two remote systems from your local&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-python-virtual-e/</guid>
-      <description>Python virtual environment is a self-contained directory tree that includes a Python installation and number of additional packages. The main purpose of Python virtual environments is to create an isolated environment for different Python projects. This way you can install a specific version of a module on a per project basis without worrying that it will affect your other Python</description>
+      <description>Python virtual environment is a self-contained directory tree that includes a Python installation and number of additional packages. The main purpose of Python virtual environments is to create an isolated environment for different Python projects. This way you can install a specific version of a module on a per project basis without worrying that it will affect your other Python&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-asterisk-on-deb/</guid>
-      <description>Asterisk is the most popular and widely adopted open source framework for building communications applications. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include conference calling, voicemail, music on hold, call transfer, call queuing, call recording, database store/retrieve and much more. In this tutorial we will show you how to install Asterisk 15 on Debian</description>
+      <description>Asterisk is the most popular and widely adopted open source framework for building communications applications. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include conference calling, voicemail, music on hold, call transfer, call queuing, call recording, database store/retrieve and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-configure-v/</guid>
-      <description>In this tutorial, we will walk you through the steps for installing and configuring a VNC server on a CentOS 7 system. We will also show you how to securely connect to the VNC server through an SSH tunnel. Virtual Network Computing (VNC) is a graphical desktop sharing system that allows you to use your keyboard and mouse to remotely control another computer. Prerequisites Before continuing with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>In this tutorial, we will walk you through the steps for installing and configuring a VNC server on a CentOS 7 system. We will also show you how to securely connect to the VNC server through an SSH tunnel. Virtual Network Computing (VNC) is a graphical desktop sharing system that allows you to use your keyboard and mouse to remotely control another&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/getting-started-with-tmux/</guid>
-      <description>This guide will go through the installation and basic usage of Tmux to get you up and running. What is tmux? Tmux is a terminal multiplexer an alternative to GNU Screen. In other words, it means that you can start a Tmux session and then open multiple windows inside that session. Each window occupies the entire screen and can be splitted into rectangular panes. With Tmux you can easily switch between multiple programs in one terminal, detach them and reattach them to a different</description>
+      <description>This guide will go through the installation and basic usage of Tmux to get you up and running. What is tmux? Tmux is a terminal multiplexer an alternative to GNU Screen. In other words, it means that you can start a Tmux session and then open multiple windows inside that session. Each window occupies the entire screen and can be splitted into rectangular&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-visual-studio-c/</guid>
-      <description>Visual Studio Code is an open source cross-platform code editor developed by Microsoft. It has a built-in debugging support, embedded Git control, syntax highlighting, code completion, integrated terminal, code refactoring and snippets. The easiest and recommended way to install Visual Studio Code on Ubuntu machines is to enable the VS Code repository and install the VS Code package through the command line. Although this tutorial is written for Ubuntu</description>
+      <description>Visual Studio Code is an open source cross-platform code editor developed by Microsoft. It has a built-in debugging support, embedded Git control, syntax highlighting, code completion, integrated terminal, code refactoring and&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-r-on-centos-7/</guid>
-      <description>R is a fast growing open source programming language and free environment that specializes in statistical computing and graphics representation. It is supported by the R Foundation for Statistical Computing and mainly used by statisticians and data miners for developing statistical software and performing data analysis. This tutorial will teach you how to install R on an CentOS 7 and how to install R packages from the official Comprehensive R Archive Network</description>
+      <description>R is a fast growing open source programming language and free environment that specializes in statistical computing and graphics representation. It is supported by the R Foundation for Statistical Computing and mainly used by statisticians and data miners for developing statistical software and performing data&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mariadb-on-debi/</guid>
-      <description>MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. With the release of Debian 9, MySQL was replaced with MariaDB as the default database system. In this tutorial we will show you two different methods on how to install MariaDB on your Debian 9</description>
+      <description>MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. With the release of Debian 9, MySQL was replaced with MariaDB as the default database&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-configure-n/</guid>
-      <description>Nextcloud is an open source, self-hosted file share and collaboration platform, similar to Dropbox. It comes bundled with media player, calendar and contact management. Nextcloud is extensible via apps and has desktop and mobile clients for all major platforms. In this tutorial we&amp;rsquo;ll show you how to install and configure Nextcloud with Apache on an Ubuntu 18.04 machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Nextcloud is an open source, self-hosted file share and collaboration platform, similar to Dropbox. It comes bundled with media player, calendar and contact management. Nextcloud is extensible via apps and has desktop and mobile clients for all major platforms. In this tutorial we&amp;rsquo;ll show you how to install and configure Nextcloud with Apache on an Ubuntu 18.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-stop-and-disable-firewa/</guid>
-      <description>FirewallD is a complete firewall solution that dynamically manages the trust level of network connections and interfaces. It gives you full control over what traffic is allowed or disallowed to and from the system. Starting with CentOS 7, FirewallD replaces iptables as the default firewall management tool. It is highly recommended to keep the FirewallD service enabled, but in some cases such as testing you may need to stop or disable it</description>
+      <description>FirewallD is a complete firewall solution that dynamically manages the trust level of network connections and interfaces. It gives you full control over what traffic is allowed or disallowed to and from the system. Starting with CentOS 7, FirewallD replaces iptables as the default firewall management&amp;hellip;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-enable-ssh-on-ubuntu-18/</guid>
-      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server. In this tutorial we&amp;rsquo;ll show you how to enable SSH on an Ubuntu Desktop machine. Enabling SSH will allow you to remotely connect to your Ubuntu machine and securely transfer files or perform administrative tasks. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server. In this tutorial we&amp;rsquo;ll show you how to enable SSH on an Ubuntu Desktop machine. Enabling SSH will allow you to remotely connect to your Ubuntu machine and securely transfer files or perform administrative&amp;hellip;</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secure-apache-with-lets-encryp/</guid>
-      <description>Let&amp;rsquo;s Encrypt is a free, automated and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are valid for 90 days from the issue date and are trusted by almost all browsers today. In this tutorial, we will cover the steps necessary to install a free Let&amp;rsquo;s Encrypt SSL certificate on a CentOS 7 server running Apache as a web server. We will use the certbot utility to obtain and renew Let&amp;rsquo;s Encrypt</description>
+      <description>Let&amp;rsquo;s Encrypt is a free, automated and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are valid for 90 days from the issue date and are trusted by almost all browsers today. In this tutorial, we will cover the steps necessary to install a free Let&amp;rsquo;s Encrypt SSL certificate on a CentOS 7 server running Apache as a web&amp;hellip;</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-and-extract-arch/</guid>
-      <description>In this tutorial, we will show you how to use the Tar utility to extract and create tar archives through practical examples and detailed explanations of the most common Tar options. What is Tar? The tar command is used to create tar archives by converting a group of files into an archive. It also has ability to extract tar archives, display a list of the files included in the archive, add additional files to an existing archive, as well as various other kinds of</description>
+      <description>In this tutorial, we will show you how to use the Tar utility to extract and create tar archives through practical examples and detailed explanations of the most common Tar options. What is Tar? The tar command is used to create tar archives by converting a group of files into an&amp;hellip;</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-yarn-on-ubuntu-/</guid>
-      <description>Yarn is a JavaScript package manager compatible with npm. It was created to solve a set of problems with the npm such as speeding up the packages installation process by parallelizing operations and reducing errors related to network connectivity. In this tutorial we will guide you on how to install Yarn on your Ubuntu 18.04 system via the Yarn APT package repository. The official Yarn repository is consistently maintained and provides the most up-to-date</description>
+      <description>Yarn is a JavaScript package manager compatible with npm. It was created to solve a set of problems with the npm such as speeding up the packages installation process by parallelizing operations and reducing errors related to network connectivity. In this tutorial we will guide you on how to install Yarn on your Ubuntu 18.04 system via the Yarn APT package&amp;hellip;</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-tomcat-9-on-ubu/</guid>
-      <description>Apache Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely adopted applications and web servers in the world today. Tomcat is simple to use and has a robust ecosystem of add-ons. This tutorial will show you how to install and configure Tomcat 9 on Ubuntu 18.04. Prerequisites In order to be able to install packages on your Ubuntu system, you must be logged in as a user with sudo</description>
+      <description>Apache Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely adopted applications and web servers in the world today. Tomcat is simple to use and has a robust ecosystem of add-ons. This tutorial will show you how to install and configure Tomcat 9 on Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-postgresql-on-d/</guid>
-      <description>PostgreSQL, often known simply as Postgres, is an open source general-purpose object-relational database management system. PostgreSQL has many advanced features such as online backups, point in time recovery, nested transactions, SQL and JSON querying, multi-version concurrency control (MVCC), asynchronous replication and more. In this tutorial we will show you how to install PostgreSQL on Debian 9 and explore the fundamentals of basic database</description>
+      <description>PostgreSQL, often known simply as Postgres, is an open source general-purpose object-relational database management system. PostgreSQL has many advanced features such as online backups, point in time recovery, nested transactions, SQL and JSON querying, multi-version concurrency control (MVCC), asynchronous replication and&amp;hellip;</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-secure-phpm/</guid>
-      <description>phpMyAdmin is an open source PHP application designed to handle the administration of MySQL and MariaDB servers over a web-based interface. phpMyAdmin allows you to manage MySQL databases, user accounts and privileges, execute SQL-statements, import and export data in a variety of data formats and much more. This tutorial covers the steps necessary for installing and securing phpMyAdmin with Apache on Ubuntu</description>
+      <description>phpMyAdmin is an open source PHP application designed to handle the administration of MySQL and MariaDB servers over a web-based interface. phpMyAdmin allows you to manage MySQL databases, user accounts and privileges, execute SQL-statements, import and export data in a variety of data formats and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-apache-virtual-h/</guid>
-      <description>In this tutorial, we will walk you through on how to set up Apache Virtual Hosts on Debian 9. Apache Virtual Hosts allows you to host more than one domain on a single machine. When using virtual hosts, you can specify a different document root (the directory which contains the website files) for each domain or subdomain, create a separate security policy, use different SSL certificates and much</description>
+      <description>In this tutorial, we will walk you through on how to set up Apache Virtual Hosts on Debian 9. Apache Virtual Hosts allows you to host more than one domain on a single machine. When using virtual hosts, you can specify a different document root (the directory which contains the website files) for each domain or subdomain, create a separate security policy, use different SSL certificates and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-unzip-files-in-linux/</guid>
-      <description>In this tutorial, we will show you how to unzip files in Linux systems through the command line using the unzip command. What is Unzip? Unzip is a utility that helps you list, test and extract compressed ZIP archives. Install Unzip Unzip is not installed by default in most Linux distributions, but you can easily install it using the package manager of your</description>
+      <description>In this tutorial, we will show you how to unzip files in Linux systems through the command line using the unzip command. What is Unzip? Unzip is a utility that helps you list, test and extract compressed ZIP archives. Install Unzip Unzip is not installed by default in most Linux distributions, but you can easily install it using the package manager of your&amp;hellip;</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-sublime-text-3-/</guid>
-      <description>Sublime Text is one of the most widely used text and source code editors for web and software development. It is very fast and it comes with lots of powerful features out of the box. You can enhance its functionality by installing new plugins and creating custom settings. In this tutorial we&amp;rsquo;ll show you how to install Sublime Text 3 on a Ubuntu 18.04 machine. The same steps should work on any Debian-based</description>
+      <description>Sublime Text is one of the most widely used text and source code editors for web and software development. It is very fast and it comes with lots of powerful features out of the box. You can enhance its functionality by installing new plugins and creating custom settings. In this tutorial we&amp;rsquo;ll show you how to install Sublime Text 3 on a Ubuntu 18.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-php-on-debian-9/</guid>
-      <description>Debian 9 ships with PHP version 7.0 will soon reach end-of-life for support and no longer receive security updates. In this tutorial, we will walk you through the steps for installing PHP 7.2 on a Debian 9 server. We will also show you how to configure Apache and Nginx to run PHP. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Debian 9 ships with PHP version 7.0 will soon reach end-of-life for support and no longer receive security updates. In this tutorial, we will walk you through the steps for installing PHP 7.2 on a Debian 9 server. We will also show you how to configure Apache and Nginx to run PHP. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-kill-a-process-in-linux/</guid>
-      <description>Have you ever faced the situation where you launched an application and suddenly while you are using the application it becomes unresponsive and unexpectedly crashes. You try to start the application again, but nothing happens because the original application process never truly shut down completely. Well it has happened to all of us at some point, hasn&amp;rsquo;t it? The solution is to terminate or kill the application process. But</description>
+      <description>Have you ever faced the situation where you launched an application and suddenly while you are using the application it becomes unresponsive and unexpectedly crashes. You try to start the application again, but nothing happens because the original application process never truly shut down&amp;hellip;</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-use-compose/</guid>
-      <description>Composer is a dependency manager for PHP. Composer will pull in all the required PHP packages your project depends on and manage them for you. In this tutorial we&amp;rsquo;ll show you how to install and use Composer on a Ubuntu 18.04 machine. Although this tutorial is written for Ubuntu 18.04 the same steps can be used for Ubuntu 16.04. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges and you have PHP installed on your Ubuntu</description>
+      <description>Composer is a dependency manager for PHP. Composer will pull in all the required PHP packages your project depends on and manage them for you. In this tutorial we&amp;rsquo;ll show you how to install and use Composer on a Ubuntu 18.04 machine. Although this tutorial is written for Ubuntu 18.04 the same steps can be used for Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nginx-on-debian/</guid>
-      <description>Nginx is an open-source, high-performance HTTP and reverse proxy server that powers some of the largest sites on the Internet. This tutorial will outline the steps to install and manage Nginx on a Debian machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges. Install Nginx The installation is pretty straightforward. Follow the steps below to install Nginx on your Debian</description>
+      <description>Nginx is an open-source, high-performance HTTP and reverse proxy server that powers some of the largest sites on the Internet. This tutorial will outline the steps to install and manage Nginx on a Debian machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges. Install Nginx The installation is pretty&amp;hellip;</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-show-mysql-users/</guid>
-      <description>Have you ever wanted to get a list of all users in your MySQL server? There are commands to show databases and tables, but there is no MySQL &amp;ldquo;show users&amp;rdquo; command. This tutorial explains how to list all user accounts in a MySQL database server through the command line. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your</description>
+      <description>Have you ever wanted to get a list of all users in your MySQL server? There are commands to show databases and tables, but there is no MySQL &amp;ldquo;show users&amp;rdquo; command. This tutorial explains how to list all user accounts in a MySQL database server through the command&amp;hellip;</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-add-user-to-group-in-li/</guid>
-      <description>This tutorial will show you how to add user to a group in Linux systems. Linux groups are organization units which are used to organize and administer user accounts in Linux. The main purpose of groups is to define a set of privileges such as reading, writing, or executing permission for a given resource that can be shared among the users within the group. In Linux, to add a user to a group you can use the usermod</description>
+      <description>This tutorial will show you how to add user to a group in Linux systems. Linux groups are organization units which are used to organize and administer user accounts in Linux. The main purpose of groups is to define a set of privileges such as reading, writing, or executing permission for a given resource that can be shared among the users within the&amp;hellip;</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-apache-on-debia/</guid>
-      <description>Apache HTTP server is one of the most popular web servers in the world. It is an open-source and cross-platform HTTP server that powers a large percentage of the Internet&amp;rsquo;s websites. Apache provides many powerful features that can be extended through additional modules. In this tutorial, we will go through the steps of installing Apache on a Debian 9 server. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Apache HTTP server is one of the most popular web servers in the world. It is an open-source and cross-platform HTTP server that powers a large percentage of the Internet&amp;rsquo;s websites. Apache provides many powerful features that can be extended through additional modules. In this tutorial, we will go through the steps of installing Apache on a Debian 9&amp;hellip;</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-jenkins-on-ubun/</guid>
-      <description>Jenkins is an open source automation server that offers an easy way to set up a continuous integration and continuous delivery (CI/CD) pipeline. In this tutorial we will show you how to install Jenkins on a Ubuntu 18.04 machine using the Jenkins Debian package repository. Although this tutorial is written for Ubuntu 18.04 Bionic Beaver the same steps can be used for Ubuntu 16.04 Xenial</description>
+      <description>Jenkins is an open source automation server that offers an easy way to set up a continuous integration and continuous delivery (CI/CD) pipeline. In this tutorial we will show you how to install Jenkins on a Ubuntu 18.04 machine using the Jenkins Debian package repository. Although this tutorial is written for Ubuntu 18.04 Bionic Beaver the same steps can be used for Ubuntu 16.04 Xenial&amp;hellip;</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-vagrant-on-ubun/</guid>
-      <description>Vagrant is an open source command line tool for building and managing virtual machine environments. By default Vagrant can provision machines on top of VirtualBox, Hyper-V and Docker but many other providers such as Libvirt (KVM), VMware and AWS can be installed via the Vagrant plugin system. Vagrant is mostly used by developers to easily set up a development environment, that matches the production environment. In this tutorial we&amp;rsquo;ll show you how to install Vagrant on an Ubuntu</description>
+      <description>Vagrant is an open source command line tool for building and managing virtual machine environments. By default Vagrant can provision machines on top of VirtualBox, Hyper-V and Docker but many other providers such as Libvirt (KVM), VMware and AWS can be installed via the Vagrant plugin&amp;hellip;</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-wordpress-with-/</guid>
-      <description>WordPress is by far the most popular open source blogging and CMS platform worldwide. It is based on PHP and MySQL and packs a ton of features that can be extended with free and premium plugins and themes. In this tutorial we will show you how to install WordPress on an Ubuntu 18.04 machine. It is a fairly straightforward process that takes less than ten minutes to complete. We&amp;rsquo;ll be using a LEMP stack with Nginx as a web server, SSL certificate, the latest PHP</description>
+      <description>WordPress is by far the most popular open source blogging and CMS platform worldwide. It is based on PHP and MySQL and packs a ton of features that can be extended with free and premium plugins and themes. In this tutorial we will show you how to install WordPress on an Ubuntu 18.04 machine. It is a fairly straightforward process that takes less than ten minutes to&amp;hellip;</description>
     </item>
     
     <item>
@@ -314,7 +314,7 @@
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-r-on-ubuntu-180/</guid>
-      <description>R is a fast growing open source programming language and free environment that specializes in statistical computing and graphics representation. It is supported by the R Foundation for Statistical Computing and mainly used by statisticians and data miners for developing statistical software and performing data analysis. This tutorial will guide you through the steps of installing R on an Ubuntu 18.04 machine. Prerequisites Before you get started with this tutorial, you&amp;rsquo;ll need an Ubuntu</description>
+      <description>R is a fast growing open source programming language and free environment that specializes in statistical computing and graphics representation. It is supported by the R Foundation for Statistical Computing and mainly used by statisticians and data miners for developing statistical software and performing data&amp;hellip;</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-check-your-centos-versi/</guid>
-      <description>When you login to a CentOS machine for the first time, before doing any work you might want to check what version of CentOS is running on your system. In this tutorial, we’ll show several different commands on how to check what version of CentOS is installed on your system. At the time of writing, CentOS Linux has 3 major active released branches, CentOS 5, CentOS 6, and CentOS</description>
+      <description>When you login to a CentOS machine for the first time, before doing any work you might want to check what version of CentOS is running on your system. In this tutorial, we’ll show several different commands on how to check what version of CentOS is installed on your system. At the time of writing, CentOS Linux has 3 major active released branches, CentOS 5, CentOS 6, and CentOS&amp;hellip;</description>
     </item>
     
     <item>
@@ -332,7 +332,7 @@
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-apache-virtual-h/</guid>
-      <description>Apache Virtual Hosts allows multiple websites to run on one Web server. With virtual hosts, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates for each site and much more. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to set up Apache Virtual Hosts on a CentOS 7</description>
+      <description>Apache Virtual Hosts allows multiple websites to run on one Web server. With virtual hosts, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates for each site and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-configure-v/</guid>
-      <description>This guide covers the steps necessary for installing and configuring VNC server on a Ubuntu 18.04 system. We will also show you how to securely connect to the VNC server through an SSH tunnel. Virtual Network Computing (VNC) is a graphical desktop sharing system that allows you to use your keyboard and mouse to remotely control another computer. Prerequisites Before continuing with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>This guide covers the steps necessary for installing and configuring VNC server on a Ubuntu 18.04 system. We will also show you how to securely connect to the VNC server through an SSH tunnel. Virtual Network Computing (VNC) is a graphical desktop sharing system that allows you to use your keyboard and mouse to remotely control another&amp;hellip;</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-disable-selinux-on-cent/</guid>
-      <description>SELinux (Security Enhanced Linux) is a Linux kernel security module that allows administrators and users more control over access controls. It allows access based on SELinux policy rules. SELinux policy rules specify how processes and users interact with each other as well as how processes and users interact with files. If there is no SELinux policy rule that specifically allows access, such as for a process opening a file, access is</description>
+      <description>SELinux (Security Enhanced Linux) is a Linux kernel security module that allows administrators and users more control over access controls. It allows access based on SELinux policy rules. SELinux policy rules specify how processes and users interact with each other as well as how processes and users interact with&amp;hellip;</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-asterisk-on-cen/</guid>
-      <description>Asterisk is the most popular and widely adopted open source PBX platform that powers IP PBX systems, conference servers and VoIP gateways. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include voicemail, music on hold, conference calling, call queuing, call recording, interactive voice response and much more. This tutorial will guide you through the steps required to install Asterisk 15 on CentOS</description>
+      <description>Asterisk is the most popular and widely adopted open source PBX platform that powers IP PBX systems, conference servers and VoIP gateways. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include voicemail, music on hold, conference calling, call queuing, call recording, interactive voice response and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mongodb-on-ubun/</guid>
-      <description>MongoDB is a free and open-source document database. It belongs to a family of databases called NoSQL which are different from the traditional table-based SQL databases like MySQL and PostgreSQL. In MongoDB, data is stored in flexible, JSON-like documents where fields can vary from document to document. It does not require a predefined schema and data structure can be changed over</description>
+      <description>MongoDB is a free and open-source document database. It belongs to a family of databases called NoSQL which are different from the traditional table-based SQL databases like MySQL and PostgreSQL. In MongoDB, data is stored in flexible, JSON-like documents where fields can vary from document to document. It does not require a predefined schema and data structure can be changed over&amp;hellip;</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-change-hostname-on-debi/</guid>
-      <description>This tutorial will guide you through the steps required to change the hostname on your Debian 9 system. The hostname is set at the time when the Debian operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The method described in this tutorial will work without the need of restarting your system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>This tutorial will guide you through the steps required to change the hostname on your Debian 9 system. The hostname is set at the time when the Debian operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The method described in this tutorial will work without the need of restarting your&amp;hellip;</description>
     </item>
     
     <item>
@@ -386,7 +386,7 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-anaconda-on-ubu/</guid>
-      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda Navigator. This tutorial will guide you through the steps of downloading and installing Anaconda Python Distribution on Ubuntu</description>
+      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda&amp;hellip;</description>
     </item>
     
     <item>
@@ -395,7 +395,7 @@
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-git-on-debian-9/</guid>
-      <description>This tutorial will show you how to install and configure Git on Debian 9. Git is the world&amp;rsquo;s most popular distributed version control system used by many open source and commercial projects. It allows you to keep track of your code changes, revert to previous stages, create branches and to collaborate with your fellow developers. Git is originally developed by Linus Torvalds, the creator of the Linux kernel. This tutorial was tested on Debian 9 but it should also work with any previous Debian</description>
+      <description>This tutorial will show you how to install and configure Git on Debian 9. Git is the world&amp;rsquo;s most popular distributed version control system used by many open source and commercial projects. It allows you to keep track of your code changes, revert to previous stages, create branches and to collaborate with your fellow&amp;hellip;</description>
     </item>
     
     <item>
@@ -404,7 +404,7 @@
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-ruby-on-centos-/</guid>
-      <description>In this tutorial we will show you three different ways to install Ruby on CentOS. Each has their own benefits, you can choose one of the installation method that will work best for you. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the Ruby on Rails framework. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>In this tutorial we will show you three different ways to install Ruby on CentOS. Each has their own benefits, you can choose one of the installation method that will work best for you. Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the Ruby on Rails&amp;hellip;</description>
     </item>
     
     <item>
@@ -413,7 +413,7 @@
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-the-latest-ecli/</guid>
-      <description>In this tutorial we&amp;rsquo;ll show you how to install the latest Eclipse IDE on a Ubuntu 18.04 machine. Eclipse is the most widely used Java integrated development environment (IDE). It is extensible via plugins and it may also be used for development in other programming languages such as C++, JavaScript and PHP. The Eclipse installation package (version 3.8.1) that is available in the Ubuntu repository is outdated. The easiest way is to install the latest Eclipse IDE on Ubuntu</description>
+      <description>In this tutorial we&amp;rsquo;ll show you how to install the latest Eclipse IDE on a Ubuntu 18.04 machine. Eclipse is the most widely used Java integrated development environment (IDE). It is extensible via plugins and it may also be used for development in other programming languages such as C++, JavaScript and&amp;hellip;</description>
     </item>
     
     <item>
@@ -422,7 +422,7 @@
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-a-mysql-database/</guid>
-      <description>This tutorial explains how to create MySQL or MariaDB databases through the command line. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your system. If you don&amp;rsquo;t have MySQL or MariaDB installed on your server, you can quickly install it by following some of the tutorials below: How To Install MySQL on CentOS 7, Ubuntu</description>
+      <description>This tutorial explains how to create MySQL or MariaDB databases through the command line. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your&amp;hellip;</description>
     </item>
     
     <item>
@@ -431,7 +431,7 @@
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mongodb-on-cent/</guid>
-      <description>MongoDB is a free and open-source document database. It is classified as a NoSQL database which is different than traditional table-based SQL databases like MySQL and PostgreSQL. In MongoDB, data is stored in flexible, JSON-like documents where fields can vary from document to document. It does not require a predefined schema and data structure can be changed over</description>
+      <description>MongoDB is a free and open-source document database. It is classified as a NoSQL database which is different than traditional table-based SQL databases like MySQL and PostgreSQL. In MongoDB, data is stored in flexible, JSON-like documents where fields can vary from document to document. It does not require a predefined schema and data structure can be changed over&amp;hellip;</description>
     </item>
     
     <item>
@@ -440,7 +440,7 @@
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mysql-on-debian/</guid>
-      <description>With the release of Debian 9 Stretch MySQL, the world&amp;rsquo;s most popular open source relational database management system is no longer available in the Debian&amp;rsquo;s repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of MySQL. In this tutorial we will show you how to install and secure MySQL on a Debian 9 machine from the MySQL Apt</description>
+      <description>With the release of Debian 9 Stretch MySQL, the world&amp;rsquo;s most popular open source relational database management system is no longer available in the Debian&amp;rsquo;s repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of&amp;hellip;</description>
     </item>
     
     <item>
@@ -449,7 +449,7 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-go-on-debian-9/</guid>
-      <description>Go is a modern open source programming language created by Google, used to build reliable, simple, fast and efficient software. Many popular applications, including Kubernetes, Docker, Teraform and Grafana, are written in Go. In this tutorial we&amp;rsquo;ll walk you through the steps necessary to download and install Go on a Debian 9 system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Go is a modern open source programming language created by Google, used to build reliable, simple, fast and efficient software. Many popular applications, including Kubernetes, Docker, Teraform and Grafana, are written in Go. In this tutorial we&amp;rsquo;ll walk you through the steps necessary to download and install Go on a Debian 9&amp;hellip;</description>
     </item>
     
     <item>
@@ -458,7 +458,7 @@
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secure-apache-with-lets-encryp/</guid>
-      <description>Let&amp;rsquo;s Encrypt is a certificate authority created by the Internet Security Research Group (ISRG). It provides free SSL certificates via fully automated process designed to eliminate manual certificate creation, validation, installation and renewal. Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Apache with Let&amp;rsquo;s Encrypt using the certbot tool on Ubuntu</description>
+      <description>Let&amp;rsquo;s Encrypt is a certificate authority created by the Internet Security Research Group (ISRG). It provides free SSL certificates via fully automated process designed to eliminate manual certificate creation, validation, installation and renewal. Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers&amp;hellip;</description>
     </item>
     
     <item>
@@ -467,7 +467,7 @@
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mariadb-on-ubun/</guid>
-      <description>MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. In this tutorial we will show you two different methods on how to install MariaDB on your Ubuntu 18.04</description>
+      <description>MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. In this tutorial we will show you two different methods on how to install MariaDB on your Ubuntu 18.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -476,7 +476,7 @@
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-use-docker-/</guid>
-      <description>Docker is a containerization platform that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker is de facto standard for container technology and it is an essential tool for DevOps engineers and their continuous integration and delivery pipeline. In this tutorial we will guide you through the process of installing Docker on a Debian 9 machine and explore the basic Docker concepts and</description>
+      <description>Docker is a containerization platform that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker is de facto standard for container technology and it is an essential tool for DevOps engineers and their continuous integration and delivery&amp;hellip;</description>
     </item>
     
     <item>
@@ -485,7 +485,7 @@
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-postgresql-on-c/</guid>
-      <description>PostgreSQL or Postgres is an open source general-purpose object-relational database management system with many advanced features which allows you to create complex web applications. In this tutorial we will show you two different methods on how to install PostgreSQL on your CentOS 7</description>
+      <description>PostgreSQL or Postgres is an open source general-purpose object-relational database management system with many advanced features which allows you to create complex web applications. In this tutorial we will show you two different methods on how to install PostgreSQL on your CentOS 7&amp;hellip;</description>
     </item>
     
     <item>
@@ -494,7 +494,7 @@
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-mattermost-on-ub/</guid>
-      <description>Mattermost is an enterprise grade, instant messaging platform, an open source self-hosted Slack alternative. It&amp;rsquo;s written in Golang and React and can use MySQL or PostgreSQL as a database backend. Mattermost brings all your team communication into one place and provides various features including file sharing, one-on-one and group messaging, custom emojis, video calls and more. In this tutorial, we will install Mattermost on an Ubuntu 18.04 server and configure Nginx as an SSL reverse</description>
+      <description>Mattermost is an enterprise grade, instant messaging platform, an open source self-hosted Slack alternative. It&amp;rsquo;s written in Golang and React and can use MySQL or PostgreSQL as a database backend. Mattermost brings all your team communication into one place and provides various features including file sharing, one-on-one and group messaging, custom emojis, video calls and&amp;hellip;</description>
     </item>
     
     <item>
@@ -503,7 +503,7 @@
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-apache-virtual-h/</guid>
-      <description>In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to set up Apache Virtual Hosts on Ubuntu 18.04. Apache Virtual Hosts allows you to run more than one website on a single machine. With Virtual Hosts, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates and much more. Although this tutorial is written for Ubuntu</description>
+      <description>In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to set up Apache Virtual Hosts on Ubuntu 18.04. Apache Virtual Hosts allows you to run more than one website on a single machine. With Virtual Hosts, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -512,7 +512,7 @@
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-a-firewall-with-/</guid>
-      <description>A properly configured firewall is one of the most important aspects of the overall system security. FirewallD is a complete firewall solution that manages the system&amp;rsquo;s iptables rules and provides a D-Bus interface for operating on them. Starting with CentOS 7, FirewallD replaces iptables as the default firewall management tool. In this tutorial, we show you how to set up a firewall with FirewallD on your CentOS 7 system and explain you the basic FirewallD</description>
+      <description>A properly configured firewall is one of the most important aspects of the overall system security. FirewallD is a complete firewall solution that manages the system&amp;rsquo;s iptables rules and provides a D-Bus interface for operating on them. Starting with CentOS 7, FirewallD replaces iptables as the default firewall management&amp;hellip;</description>
     </item>
     
     <item>
@@ -521,7 +521,7 @@
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-plex-media-serv/</guid>
-      <description>Plex is a streaming media server that brings all your video, music and photo collections together and stream them to your devices at anytime and from anywhere. In this tutorial, we will show you how to install and configure Plex Media Server on CentOS 7. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Plex is a streaming media server that brings all your video, music and photo collections together and stream them to your devices at anytime and from anywhere. In this tutorial, we will show you how to install and configure Plex Media Server on CentOS 7. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -530,7 +530,7 @@
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-ghost-on-ubuntu/</guid>
-      <description>Ghost is a modern source publishing platform built on top of the Node.js platform. It is fully customizable and easy to use, allowing you to publish your content with almost zero learning curve. In this tutorial we are going to show you how to deploy a secure Ghost blog on a Ubuntu 18.04 server using Nginx as a proxy, free Let&amp;rsquo;s Encrypt SSL certificate, the latest LTS version of</description>
+      <description>Ghost is a modern source publishing platform built on top of the Node.js platform. It is fully customizable and easy to use, allowing you to publish your content with almost zero learning curve. In this tutorial we are going to show you how to deploy a secure Ghost blog on a Ubuntu 18.04 server using Nginx as a proxy, free Let&amp;rsquo;s Encrypt SSL certificate, the latest LTS version of&amp;hellip;</description>
     </item>
     
     <item>
@@ -539,7 +539,7 @@
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-asterisk-on-ubu/</guid>
-      <description>Asterisk is the most popular and widely adopted open source PBX platform that powers IP PBX systems, conference servers and VoIP gateways. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include voicemail, music on hold, conference calling, call queuing, call recording, interactive voice response and much more. This tutorial will guide you through the steps required to install Asterisk 15 on Ubuntu</description>
+      <description>Asterisk is the most popular and widely adopted open source PBX platform that powers IP PBX systems, conference servers and VoIP gateways. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include voicemail, music on hold, conference calling, call queuing, call recording, interactive voice response and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -548,7 +548,7 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/curl-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the curl tool through practical examples and detailed explanations of the most common curl options. What is Curl? Curl is command line utility for transferring data from or to a server designed to work without user interaction. With curl you can download or upload data using one of the supported protocols including HTTP, HTTPS, SCP, SFTP and</description>
+      <description>In this tutorial, we will show you how to use the curl tool through practical examples and detailed explanations of the most common curl options. What is Curl? Curl is command line utility for transferring data from or to a server designed to work without user interaction. With curl you can download or upload data using one of the supported protocols including HTTP, HTTPS, SCP, SFTP and&amp;hellip;</description>
     </item>
     
     <item>
@@ -557,7 +557,7 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-ruby-on-ubuntu-/</guid>
-      <description>Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. In this tutorial we will show you three different ways to install Ruby on Ubuntu 18.04 system. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges. Installing Ruby from Ubuntu Repositories The easiest way to install Ruby on your Ubuntu system is through the apt package</description>
+      <description>Ruby is one of the most popular languages today. It has an elegant syntax and it is the language behind the powerful Ruby on Rails framework. In this tutorial we will show you three different ways to install Ruby on Ubuntu 18.04 system. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -566,7 +566,7 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-google-chrome-w/</guid>
-      <description>Google Chrome is the most widely used web browser in the world. It is fast, easy to use and secure browser built for the modern web. Chrome is not an open source browser and it is not included in the Ubuntu repositories. Google Chrome is based on Chromium, an open-source browser which is available in the default Ubuntu repositories. In this tutorial we&amp;rsquo;ll show you how to install Google Chrome web browser on Ubuntu</description>
+      <description>Google Chrome is the most widely used web browser in the world. It is fast, easy to use and secure browser built for the modern web. Chrome is not an open source browser and it is not included in the Ubuntu repositories. Google Chrome is based on Chromium, an open-source browser which is available in the default Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -575,7 +575,7 @@
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-git-on-centos-7/</guid>
-      <description>This tutorial will walk you through the installation and basic configuration of Git on CentOS 7. Git is the most popular version control system that&amp;rsquo;s being used by hundreds of thousands of projects. Git allows you to keep track of your code changes, revert to previous stages, work simultaneously on multiple branches and collaborate with your fellow developers. Git is originally developed by Linus Torvalds, the creator of the Linux</description>
+      <description>This tutorial will walk you through the installation and basic configuration of Git on CentOS 7. Git is the most popular version control system that&amp;rsquo;s being used by hundreds of thousands of projects. Git allows you to keep track of your code changes, revert to previous stages, work simultaneously on multiple branches and collaborate with your fellow&amp;hellip;</description>
     </item>
     
     <item>
@@ -584,7 +584,7 @@
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-postgresql-on-u/</guid>
-      <description>PostgreSQL or Postgres is an open source general-purpose object-relational database management system. PostgreSQL has many advanced features which allows you to create complex web applications. In this tutorial we will show you how to install PostgreSQL on Ubuntu 18.04 and explore the fundamentals of basic database administration. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>PostgreSQL or Postgres is an open source general-purpose object-relational database management system. PostgreSQL has many advanced features which allows you to create complex web applications. In this tutorial we will show you how to install PostgreSQL on Ubuntu 18.04 and explore the fundamentals of basic database&amp;hellip;</description>
     </item>
     
     <item>
@@ -593,7 +593,7 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-opencv-on-ubunt/</guid>
-      <description>This tutorial explains how to install OpenCV on Ubuntu 18.04. OpenCV (Open Source Computer Vision Library) is an open source computer vision library and has bindings for C++, Python and Java . It is used for a very wide range of applications including medical image analysis, stitching street view images, surveillance video, detecting and recognizing faces, tracking moving objects, extracting 3D models and much</description>
+      <description>This tutorial explains how to install OpenCV on Ubuntu 18.04. OpenCV (Open Source Computer Vision Library) is an open source computer vision library and has bindings for C++, Python and&amp;hellip;</description>
     </item>
     
     <item>
@@ -602,7 +602,7 @@
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-list-users-in-linux/</guid>
-      <description>Have you ever wanted to list all users in your Linux system or to count the number of users in the system? There are commands to create a user, delete a user, list logged in users, but what is the command to list all users in Linux? This tutorial will show you how to list users in Linux systems. Get a list of all users using the /etc/passwd file Local user information is stored in the /etc/passwd</description>
+      <description>Have you ever wanted to list all users in your Linux system or to count the number of users in the system? There are commands to create a user, delete a user, list logged in users, but what is the command to list all users in Linux? This tutorial will show you how to list users in Linux&amp;hellip;</description>
     </item>
     
     <item>
@@ -611,7 +611,7 @@
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-go-on-centos-7/</guid>
-      <description>Go, often referred to as golang is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker, Hugo and Caddy, are written in Go. In this tutorial we will show you how to download and install Go on a CentOS 7 system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. How to Install Go At the time of writing this article, the latest stable version of Go is version</description>
+      <description>Go, often referred to as golang is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker, Hugo and Caddy, are written in Go. In this tutorial we will show you how to download and install Go on a CentOS 7 system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -620,7 +620,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-list-installed-packages/</guid>
-      <description>In this tutorial we will show you how to list and filter installed packages on Ubuntu. Knowing how to list installed packages on your Ubuntu system can be helpful in situations where you need to install the same packages on another machine or if you want to re-install your system. We will also show you how to check whether a specific package is installed, count installed packages and find out the version of an installed</description>
+      <description>In this tutorial we will show you how to list and filter installed packages on Ubuntu. Knowing how to list installed packages on your Ubuntu system can be helpful in situations where you need to install the same packages on another machine or if you want to re-install your&amp;hellip;</description>
     </item>
     
     <item>
@@ -629,7 +629,7 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-git-on-ubuntu-1/</guid>
-      <description>This tutorial will guide you through the steps required to install Git on Ubuntu 18.04. Git is a de-facto standard for distributed version control system and is used by majority of developers nowadays. It allows you to keep track of your code changes, revert to previous stages, create branches and to collaborate with your fellow developers. Git is originally developed by Linus Torvalds, the creator of the Linux</description>
+      <description>This tutorial will guide you through the steps required to install Git on Ubuntu 18.04. Git is a de-facto standard for distributed version control system and is used by majority of developers nowadays. It allows you to keep track of your code changes, revert to previous stages, create branches and to collaborate with your fellow&amp;hellip;</description>
     </item>
     
     <item>
@@ -638,7 +638,7 @@
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-use-rsync-for-local-and/</guid>
-      <description>Rsync is a fast and versatile command line utility that synchronizes files and folders between two locations over a remote shell, or from/to a remote rsync daemon. It provides fast incremental file transfer by transferring only the differences between the source and the destination locations. Rsync can be used for mirroring data, incremental backups, copying files between systems and as a replacement for scp and cp commands for everyday</description>
+      <description>Rsync is a fast and versatile command line utility that synchronizes files and folders between two locations over a remote shell, or from/to a remote rsync daemon. It provides fast incremental file transfer by transferring only the differences between the source and the destination&amp;hellip;</description>
     </item>
     
     <item>
@@ -647,7 +647,7 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-change-hostname-on-cent/</guid>
-      <description>This tutorial guides you through the process of changing a hostname on a CentOS 7 system. The hostname is set at the time when the CentOS operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The methods described in this tutorial will work without the need of restarting your system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>This tutorial guides you through the process of changing a hostname on a CentOS 7 system. The hostname is set at the time when the CentOS operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The methods described in this tutorial will work without the need of restarting your&amp;hellip;</description>
     </item>
     
     <item>
@@ -656,7 +656,7 @@
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/linux-shutdown-command/</guid>
-      <description>In this tutorial, we will show you how to use the shutdown utility through practical examples and detailed explanations of the most common shutdown options. The shutdown command brings the system down in a secure way. When the shutdown is initiated, all logged-in users and processes are notified that the system is going down, and no further logins are allowed. You can shut down your system immediately or at the specified</description>
+      <description>In this tutorial, we will show you how to use the shutdown utility through practical examples and detailed explanations of the most common shutdown options. The shutdown command brings the system down in a secure way. When the shutdown is initiated, all logged-in users and processes are notified that the system is going down, and no further logins are&amp;hellip;</description>
     </item>
     
     <item>
@@ -665,7 +665,7 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-php-on-ubuntu-1/</guid>
-      <description>Ubuntu 18.04 LTS ships with the latest and greatest PHP version 7.2. Most of the popular PHP frameworks and applications including WordPress, Laravel, Drupal and Symfony are compatible with PHP 7.2. In this tutorial we will explain how to install PHP 7.2 on Ubuntu 18.04. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Ubuntu 18.04 LTS ships with the latest and greatest PHP version 7.2. Most of the popular PHP frameworks and applications including WordPress, Laravel, Drupal and Symfony are compatible with PHP 7.2. In this tutorial we will explain how to install PHP 7.2 on Ubuntu 18.04. Prerequisites Before starting with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -674,7 +674,7 @@
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-virtualbox-on-u/</guid>
-      <description>VirtualBox is an open source cross-platform virtualization software which allows you to run multiple guest operating systems (virtual machines) simultaneously. In this tutorial we will show you two different methods on how to install VirtualBox on your Ubuntu 18.04 machine. The first method describe the steps necessary to install VirtualBox from the Oracle repositories while the second one will show you how to install the latest version of VirtualBox from the official Ubuntu</description>
+      <description>VirtualBox is an open source cross-platform virtualization software which allows you to run multiple guest operating systems (virtual machines) simultaneously. In this tutorial we will show you two different methods on how to install VirtualBox on your Ubuntu 18.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -683,7 +683,7 @@
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nodejs-on-debia/</guid>
-      <description>In this tutorial, we will cover how to install Node.js and npm on a Debian 9 system. Node.js is an open source cross-platform JavaScript run-time environment built on Chrome&amp;rsquo;s JavaScript engine that allows server-side execution of JavaScript code. It is mainly used to build server-side applications, but it is also very popular as a full-stack and front-end solution. npm is the default package manager for Node.js and the world’s largest software</description>
+      <description>In this tutorial, we will cover how to install Node.js and npm on a Debian 9 system. Node.js is an open source cross-platform JavaScript run-time environment built on Chrome&amp;rsquo;s JavaScript engine that allows server-side execution of JavaScript code. It is mainly used to build server-side applications, but it is also very popular as a full-stack and front-end&amp;hellip;</description>
     </item>
     
     <item>
@@ -692,7 +692,7 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-check-your-ubuntu-versi/</guid>
-      <description>When you login to an Ubuntu system for the first time, before doing any work it is always a good idea to check what version of Ubuntu is running on the machine. New Ubuntu releases come out every 6 months, while LTS (Long Term Support) releases occur every two years. LTS versions are supported for 5 years on both desktop and the server, other standard releases are supported for 9</description>
+      <description>When you login to an Ubuntu system for the first time, before doing any work it is always a good idea to check what version of Ubuntu is running on the machine. New Ubuntu releases come out every 6 months, while LTS (Long Term Support) releases occur every two years. LTS versions are supported for 5 years on both desktop and the server, other standard releases are supported for 9&amp;hellip;</description>
     </item>
     
     <item>
@@ -701,7 +701,7 @@
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-change-user-password-in/</guid>
-      <description>This tutorial will show you how to change a user password in Linux. We will also cover how to force a user to change their password the next time they login. The examples provided in the tutorial should work with any Linux distribution. Introduction To change the password of a user account in Linux you can use the passwd command. The encrypted users passwords as well as other password related information are stored in the /etc/shadow</description>
+      <description>This tutorial will show you how to change a user password in Linux. We will also cover how to force a user to change their password the next time they login. The examples provided in the tutorial should work with any Linux distribution. Introduction To change the password of a user account in Linux you can use the passwd&amp;hellip;</description>
     </item>
     
     <item>
@@ -710,7 +710,7 @@
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-plex-media-serv/</guid>
-      <description>In this tutorial we&amp;rsquo;ll walk you through installing Plex Media Server on Ubuntu 18.04. Plex is a streaming media server that lets you organize your video, music, and photo collections and stream them to all of your devices at anytime and from anywhere. Although this tutorial is written for Ubuntu 18.04 Bionic Beaver the same steps can be used for Ubuntu 16.04 Xenial Xerus. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>In this tutorial we&amp;rsquo;ll walk you through installing Plex Media Server on Ubuntu 18.04. Plex is a streaming media server that lets you organize your video, music, and photo collections and stream them to all of your devices at anytime and from anywhere. Although this tutorial is written for Ubuntu 18.04 Bionic Beaver the same steps can be used for Ubuntu 16.04 Xenial&amp;hellip;</description>
     </item>
     
     <item>
@@ -719,7 +719,7 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-apache-on-ubunt/</guid>
-      <description>Apache HTTP server is the most popular web server in the world. It is a free, open-source and cross-platform HTTP server providing powerful features which can be extended by a wide variety of modules. This tutorial explains how to install and manage the Apache web server on Ubuntu 18.04. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Apache HTTP server is the most popular web server in the world. It is a free, open-source and cross-platform HTTP server providing powerful features which can be extended by a wide variety of modules. This tutorial explains how to install and manage the Apache web server on Ubuntu 18.04. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -728,7 +728,7 @@
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-a-sudo-user-on-d/</guid>
-      <description>The sudo command (short for Super-user do) is program designed to allow users to execute commands with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user on a Debian system and give it sudo access. You can use this user account to execute administrative commands without a need to logging in to your Debian server as a root</description>
+      <description>The sudo command (short for Super-user do) is program designed to allow users to execute commands with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user on a Debian system and give it sudo access. You can use this user account to execute administrative commands without a need to logging in to your Debian server as a root&amp;hellip;</description>
     </item>
     
     <item>
@@ -737,7 +737,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-debian-9/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). This tutorial will walk you through installing Python Pip on Debian 9 and teach you how to install and manage Python packages with pip. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). This tutorial will walk you through installing Python Pip on Debian 9 and teach you how to install and manage Python packages with&amp;hellip;</description>
     </item>
     
     <item>
@@ -746,7 +746,7 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-mysql-on-ubuntu/</guid>
-      <description>MySQL is the most popular open-source relational database management system. It is fast, easy to use, scalable, and an integral part of the popular LAMP and LEMP stacks. In this tutorial we will show you how to install and secure MySQL on a Ubuntu 18.04 machine. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>MySQL is the most popular open-source relational database management system. It is fast, easy to use, scalable, and an integral part of the popular LAMP and LEMP stacks. In this tutorial we will show you how to install and secure MySQL on a Ubuntu 18.04 machine. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -755,7 +755,7 @@
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/wget-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the Wget utility through practical examples and detailed explanations of the most common Wget options. What is Wget? GNU Wget is command line utility for downloading files from the web. With Wget you can download files using HTTP, HTTPS, and FTP protocols. Wget provides a number of options allowing you to download multiple files, resume downloads, limit the bandwidth, recursive downloads, download in a background, mirror a website and much</description>
+      <description>In this tutorial, we will show you how to use the Wget utility through practical examples and detailed explanations of the most common Wget options. What is Wget? GNU Wget is command line utility for downloading files from the web. With Wget you can download files using HTTP, HTTPS, and FTP&amp;hellip;</description>
     </item>
     
     <item>
@@ -764,7 +764,7 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-use-docker-/</guid>
-      <description>Docker is a containerization technology that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker has become the de facto standard for container deployment and it is an essential tool for DevOps engineers and their continuous integration and delivery pipeline. In this tutorial we&amp;rsquo;ll cover how to install Docker on a Ubuntu 18.04 and explore the basic Docker concepts and</description>
+      <description>Docker is a containerization technology that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. Docker has become the de facto standard for container deployment and it is an essential tool for DevOps engineers and their continuous integration and delivery&amp;hellip;</description>
     </item>
     
     <item>
@@ -773,7 +773,7 @@
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-back-up-and-restore-mys/</guid>
-      <description>This tutorial explains how to backup and restore MySQL or MariaDB databases from the command line using the mysqldump utility. The backup files created by the mysqldump utility are basically a set of SQL statements that can be used to recreate the original database. If you don&amp;rsquo;t backup your databases, a software bug or a hard-drive failure could be</description>
+      <description>This tutorial explains how to backup and restore MySQL or MariaDB databases from the command line using the mysqldump utility. The backup files created by the mysqldump utility are basically a set of SQL statements that can be used to recreate the original database. If you don&amp;rsquo;t backup your databases, a software bug or a hard-drive failure could be&amp;hellip;</description>
     </item>
     
     <item>
@@ -782,7 +782,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-setup-passwordless-ssh-/</guid>
-      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server and supports various authentication mechanisms. The two most popular mechanisms are passwords based authentication and public key based authentication. In this tutorial we will show you how to setup a SSH key-based authentication and connect to your Linux servers without entering a</description>
+      <description>Secure Shell (SSH) is a cryptographic network protocol used for secure connection between a client and a server and supports various authentication mechanisms. The two most popular mechanisms are passwords based authentication and public key based authentication. In this tutorial we will show you how to setup a SSH key-based authentication and connect to your Linux servers without entering a&amp;hellip;</description>
     </item>
     
     <item>
@@ -791,7 +791,7 @@
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-rocketchat-on-ub/</guid>
-      <description>Rocket.Chat is an open source team communication platform, a self-hosted Slack alternative. It is developed using Meteor framework and provides various features including helpdesk chat, file sharing, video conferencing, voice messages, API, and more. Rocket.Chat is a perfect solution for companies and communities that want to host their own chat system. In this tutorial, we will show you how to deploy Rocket.Chat on a Ubuntu 18.04 server and configure Nginx as an SSL reverse</description>
+      <description>Rocket.Chat is an open source team communication platform, a self-hosted Slack alternative. It is developed using Meteor framework and provides various features including helpdesk chat, file sharing, video conferencing, voice messages, API, and more. Rocket.Chat is a perfect solution for companies and communities that want to host their own chat&amp;hellip;</description>
     </item>
     
     <item>
@@ -800,7 +800,7 @@
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-find-files-in-linux-usi/</guid>
-      <description>Find is a command-line utility which allows you to search for files and directories in a directory hierarchy based on a user given expression and applies a user specified action on each matched file. The Linux Find command is one of the most powerful tools in the Linux system administrators arsenal. You can use the find command to search for files based on the file permissions, type, date, ownership, size and</description>
+      <description>Find is a command-line utility which allows you to search for files and directories in a directory hierarchy based on a user given expression and applies a user specified action on each matched file. The Linux Find command is one of the most powerful tools in the Linux system administrators&amp;hellip;</description>
     </item>
     
     <item>
@@ -809,7 +809,7 @@
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-use-linux-screen/</guid>
-      <description>Have you ever faced the situation where you perform a long-running task on a remote machine and suddenly your connection drops, the SSH session is terminated and your work is lost. Well it has happened to all of us at some point, hasn&amp;rsquo;t it? Luckily, there is a utility called screen that allows us to the resume our sessions. Introduction Screen or GNU Screen, is a terminal</description>
+      <description>Have you ever faced the situation where you perform a long-running task on a remote machine and suddenly your connection drops, the SSH session is terminated and your work is lost. Well it has happened to all of us at some point, hasn&amp;rsquo;t it? Luckily, there is a utility called screen that allows us to the resume our sessions. Introduction Screen or GNU Screen, is a terminal&amp;hellip;</description>
     </item>
     
     <item>
@@ -818,7 +818,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-go-on-ubuntu-18/</guid>
-      <description>Go is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker and Grafana, are written in Go. This tutorial will guide you through the steps of downloading and installing Go on an Ubuntu 18.04 machine. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. How to Install Go At the time of writing this article, the latest stable version of Go is version</description>
+      <description>Go is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker and Grafana, are written in Go. This tutorial will guide you through the steps of downloading and installing Go on an Ubuntu 18.04 machine. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -827,7 +827,7 @@
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-configure-g/</guid>
-      <description>GitLab is a web-based open source Git repository manager written in Ruby including wiki, issue management, code review, monitoring and continuous integration and deployment. It enables developers to create, review, and deploy their projects. There are three different editions of GitLab available, Community Edition (CE), Enterprise Edition (EE), and a GitLab-hosted version. GitLab is the number one choice if you want to move away from</description>
+      <description>GitLab is a web-based open source Git repository manager written in Ruby including wiki, issue management, code review, monitoring and continuous integration and deployment. It enables developers to create, review, and deploy their projects. There are three different editions of GitLab available, Community Edition (CE), Enterprise Edition (EE), and a GitLab-hosted&amp;hellip;</description>
     </item>
     
     <item>
@@ -836,7 +836,7 @@
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-tomcat-85-on-de/</guid>
-      <description>Apache Tomcat is an open source application server which supports Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely used application and web server in the world today. This tutorial will show you how to install Apache Tomcat 8.5 on Debian 9 and configure the Tomcat web management interface. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Apache Tomcat is an open source application server which supports Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely used application and web server in the world today. This tutorial will show you how to install Apache Tomcat 8.5 on Debian 9 and configure the Tomcat web management&amp;hellip;</description>
     </item>
     
     <item>
@@ -845,7 +845,7 @@
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-change-hostname-on-ubun/</guid>
-      <description>This tutorial will guide you through the process of changing the hostname on a Ubuntu 18.04 system. The hostname is set at the time when the Ubuntu operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The method described in this tutorial will work without the need of restarting your system. Although this tutorial is written for Ubuntu</description>
+      <description>This tutorial will guide you through the process of changing the hostname on a Ubuntu 18.04 system. The hostname is set at the time when the Ubuntu operating system is installed or if you are spinning up a virtual machine it is dynamically assigned to the instance at startup. The method described in this tutorial will work without the need of restarting your&amp;hellip;</description>
     </item>
     
     <item>
@@ -854,7 +854,7 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-a-firewall-with-/</guid>
-      <description>A properly configured firewall is one of the most important aspects of the overall system security. By default Ubuntu comes with a firewall configuration tool called UFW (Uncomplicated Firewall). UFW is a user-friendly front-end for managing iptables firewall rules and its main goal is to make managing iptables easier or as the name says</description>
+      <description>A properly configured firewall is one of the most important aspects of the overall system security. By default Ubuntu comes with a firewall configuration tool called UFW (Uncomplicated Firewall). UFW is a user-friendly front-end for managing iptables firewall rules and its main goal is to make managing iptables easier or as the name says&amp;hellip;</description>
     </item>
     
     <item>
@@ -863,7 +863,7 @@
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-python-3-on-cen/</guid>
-      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual environment. Python is one of the most popular programming languages in the world, with its simple and easy to learn syntax Python is a great choice for beginners and experienced</description>
+      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual&amp;hellip;</description>
     </item>
     
     <item>
@@ -872,7 +872,7 @@
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-centos-7/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty simple. In this tutorial, we will walk through the steps required to install Python pip on CentOS 7 using the yum package manager and cover the basics of how to install and manage Python packages with</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty&amp;hellip;</description>
     </item>
     
     <item>
@@ -881,7 +881,7 @@
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-mysql-on-centos-7/</guid>
-      <description>With the release of CentOS 7 MySQL, the world&amp;rsquo;s most popular open source relational database management system is no longer available in the CentOS’s repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of MySQL. In this tutorial we will show you how to install MySQL on a CentOS 7 machine. If you want to install MariaDB instead of MySQL check our tutorial for installation</description>
+      <description>With the release of CentOS 7 MySQL, the world&amp;rsquo;s most popular open source relational database management system is no longer available in the CentOS’s repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of MySQL. In this tutorial we will show you how to install MySQL on a CentOS 7&amp;hellip;</description>
     </item>
     
     <item>
@@ -890,7 +890,7 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-drupal-on-ubunt/</guid>
-      <description>Drupal is one of the most popular open source CMS platforms worldwide. In this tutorial we will show you how to install Drupal 8.5 on an Ubuntu 18.04 machine. There are multiple ways to install Drupal, this tutorial covers the steps necessary for installing Drupal 8.5 using a composer template for Drupal projects called drupal-project. We&amp;rsquo;ll be using Nginx as a web server, the latest PHP 7.2 and MySQL/MariaDB as a database</description>
+      <description>Drupal is one of the most popular open source CMS platforms worldwide. In this tutorial we will show you how to install Drupal 8.5 on an Ubuntu 18.04 machine. There are multiple ways to install Drupal, this tutorial covers the steps necessary for installing Drupal 8.5 using a composer template for Drupal projects called&amp;hellip;</description>
     </item>
     
     <item>
@@ -899,7 +899,7 @@
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-manage-mysql-databases-/</guid>
-      <description>This tutorial explains how to use the command line to create and manage MySQL or MariaDB databases and users. MySQL is the most popular open-source relational database management system. MySQL server allows us to create numerous users and databases and grant appropriate privileges, so that users can access and manage databases. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your</description>
+      <description>This tutorial explains how to use the command line to create and manage MySQL or MariaDB databases and users. MySQL is the most popular open-source relational database management system. MySQL server allows us to create numerous users and databases and grant appropriate privileges, so that users can access and manage&amp;hellip;</description>
     </item>
     
     <item>
@@ -908,7 +908,7 @@
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nodejs-on-ubunt/</guid>
-      <description>This tutorial explains how to install Node.js and npm on a Ubuntu 18.04 machine. Node.js is an open source cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code which simply means that you can run JavaScript code on your machine as a standalone application, free of any web browser. Node.js is mainly used to build back-end server-side applications, but it is also very popular as a full-stack and front-end</description>
+      <description>This tutorial explains how to install Node.js and npm on a Ubuntu 18.04 machine. Node.js is an open source cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code which simply means that you can run JavaScript code on your machine as a standalone application, free of any web&amp;hellip;</description>
     </item>
     
     <item>
@@ -917,7 +917,7 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-pip-on-ubuntu-1/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on Ubuntu 18.04, but the installation is pretty straightforward. In this tutorial, we will show you how to install Python Pip on Ubuntu 18.04 using the apt package manager. We will also walk you through the basics of installing and managing Python packages with</description>
+      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on Ubuntu 18.04, but the installation is pretty straightforward. In this tutorial, we will show you how to install Python Pip on Ubuntu 18.04 using the apt package&amp;hellip;</description>
     </item>
     
     <item>
@@ -926,7 +926,7 @@
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-and-use-docker-/</guid>
-      <description>Docker is a containerization technology that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. In this tutorial we&amp;rsquo;ll go through how to install Docker CE on CentOS 7 and explore the basic Docker concepts and commands. Prerequisites Before proceeding with this tutorial, make sure that the following prerequisites are met: CentOS 7 server You have non-root user with sudo</description>
+      <description>Docker is a containerization technology that allows you to quickly build, test and deploy applications as portable, self-sufficient containers that can run virtually everywhere. In this tutorial we&amp;rsquo;ll go through how to install Docker CE on CentOS 7 and explore the basic Docker concepts and&amp;hellip;</description>
     </item>
     
     <item>
@@ -935,7 +935,7 @@
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nodejs-on-cento/</guid>
-      <description>This tutorial walks you through the steps to install Node.js and npm on a CentOS 7 machine. Node.js is a cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code. Node.js is mainly used on the back-end, but it is also popular as a full-stack and front-end solution. npm, short for Node Package Manager is the default package manager for Node.js and the world&amp;rsquo;s largest software repository for the publishing of open-source</description>
+      <description>This tutorial walks you through the steps to install Node.js and npm on a CentOS 7 machine. Node.js is a cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code. Node.js is mainly used on the back-end, but it is also popular as a full-stack and front-end&amp;hellip;</description>
     </item>
     
     <item>
@@ -944,7 +944,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-a-sudo-user-on-u/</guid>
-      <description>The sudo command is designed to allow users to run programs with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user on a Ubuntu machine and give it sudo access. You can then use this user account to execute administrative commands without a need to logging in to your Ubuntu server as a root</description>
+      <description>The sudo command is designed to allow users to run programs with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user on a Ubuntu machine and give it sudo access. You can then use this user account to execute administrative commands without a need to logging in to your Ubuntu server as a root&amp;hellip;</description>
     </item>
     
     <item>
@@ -953,7 +953,7 @@
       <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-tomcat-85-on-ub/</guid>
-      <description>Apache Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely adopted applications and web servers in the world today. Tomcat is simple to use and has a robust ecosystem of add-ons. This tutorial demonstrates how to install Tomcat 8.5 on Ubuntu 18.04. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Apache Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. It is one of the most widely adopted applications and web servers in the world today. Tomcat is simple to use and has a robust ecosystem of add-ons. This tutorial demonstrates how to install Tomcat 8.5 on Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -962,7 +962,7 @@
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-odoo-11-on-ubunt/</guid>
-      <description>Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website ,e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all seamlessly integrated. There are several ways to install Odoo depending on the required use case. This guide covers the steps necessary for installing and configuring Odoo for production using Git source and Python virtual environment on a Ubuntu</description>
+      <description>Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website ,e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all seamlessly integrated. There are several ways to install Odoo depending on the required use&amp;hellip;</description>
     </item>
     
     <item>
@@ -971,7 +971,7 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-java-on-ubuntu-/</guid>
-      <description>This tutorial describes how to install Java on Ubuntu 18.04 and other previous versions. Java is one of the most popular programming languages in the world, used for building different types of cross platform applications. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. Java variations Java is distributed in three different editions, Standard Edition (SE), Enterprise Edition (EE), and Micro Edition</description>
+      <description>This tutorial describes how to install Java on Ubuntu 18.04 and other previous versions. Java is one of the most popular programming languages in the world, used for building different types of cross platform applications. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -980,7 +980,7 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nginx-on-ubuntu/</guid>
-      <description>Nginx pronounced &amp;ldquo;engine x&amp;rdquo; is a free, open-source, high-performance HTTP and reverse proxy server responsible for handling the load of some of the largest sites on the Internet. This tutorial will outline the steps required to install Nginx on an Ubuntu 18.04 machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges and you don&amp;rsquo;t have Apache or any other service running on port 80 or</description>
+      <description>Nginx pronounced &amp;ldquo;engine x&amp;rdquo; is a free, open-source, high-performance HTTP and reverse proxy server responsible for handling the load of some of the largest sites on the Internet. This tutorial will outline the steps required to install Nginx on an Ubuntu 18.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -989,7 +989,7 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-set-up-nginx-server-blo/</guid>
-      <description>Nginx Server Blocks allows you to run more than one website on a single machine. With Server Blocks, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates for each site and much more. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to set up Nginx server blocks (similar to Apache Virtual Hosts) on Ubuntu</description>
+      <description>Nginx Server Blocks allows you to run more than one website on a single machine. With Server Blocks, you can specify the site document root (the directory which contains the website files), create a separate security policy for each site, use different SSL certificates for each site and much&amp;hellip;</description>
     </item>
     
     <item>
@@ -998,7 +998,7 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secure-nginx-with-lets-encrypt/</guid>
-      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on Ubuntu 18.04. Prerequisites Make sure that you have met the following prerequisites before continuing with this</description>
+      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -1007,7 +1007,7 @@
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-upgrade-ubuntu-to-1804-/</guid>
-      <description>The latest Ubuntu LTS release, Ubuntu 18.04 (Bionic Beaver), was released on April 26, 2018 and it will be supported for 5 years until April 2023. In this tutorial we will show you how to upgrade your Ubuntu 16.04 installation or later to Ubuntu 18.04 (Bionic Beaver). Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges. Backup Your Data First and foremost, make sure you backup your data before starting the major upgrade of your operating</description>
+      <description>The latest Ubuntu LTS release, Ubuntu 18.04 (Bionic Beaver), was released on April 26, 2018 and it will be supported for 5 years until April 2023. In this tutorial we will show you how to upgrade your Ubuntu 16.04 installation or later to Ubuntu 18.04 (Bionic Beaver). Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -1016,7 +1016,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-apache-on-cento/</guid>
-      <description>Apache HTTP server is the most popular web server in the world. It is a free, open-source and cross-platform HTTP server providing powerful features which can be extended by a wide variety of modules. The following instructions describe how to install and manage the Apache web server on your CentOS 7 machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo</description>
+      <description>Apache HTTP server is the most popular web server in the world. It is a free, open-source and cross-platform HTTP server providing powerful features which can be extended by a wide variety of modules. The following instructions describe how to install and manage the Apache web server on your CentOS 7&amp;hellip;</description>
     </item>
     
     <item>
@@ -1025,7 +1025,7 @@
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-mattermost-on-ce/</guid>
-      <description>Mattermost is an open source, instant messaging platform, a self-hosted Slack alternative. It&amp;rsquo;s written in Golang and React and can use MySQL or PostgreSQL as a database backend. Mattermost brings all your team communication into one place and provides various features including file sharing, one-on-one and group messaging, custom emojis, video calls and more. In this tutorial, we will show you how to deploy Mattermost on a CentOS 7 server and configure Nginx as a SSL reverse</description>
+      <description>Mattermost is an open source, instant messaging platform, a self-hosted Slack alternative. It&amp;rsquo;s written in Golang and React and can use MySQL or PostgreSQL as a database backend. Mattermost brings all your team communication into one place and provides various features including file sharing, one-on-one and group messaging, custom emojis, video calls and&amp;hellip;</description>
     </item>
     
     <item>
@@ -1034,7 +1034,7 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-java-on-debian-/</guid>
-      <description>In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit</description>
+      <description>In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit&amp;hellip;</description>
     </item>
     
     <item>
@@ -1043,7 +1043,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-setup-automatic-odoo-ba/</guid>
-      <description>In this tutorial we will walk you through the process of creating automatic daily backups of your Odoo databases. Odoo is the most popular open source ERP system written in Python and uses PostgreSQL as database back-end. All the data of your Odoo instance is stored in a PostgreSQL database. Regularly backing up the database will protect you from potentially catastrophic data loss and it is absolutely critical for anyone and everyone who has an Odoo</description>
+      <description>In this tutorial we will walk you through the process of creating automatic daily backups of your Odoo databases. Odoo is the most popular open source ERP system written in Python and uses PostgreSQL as database back-end. All the data of your Odoo instance is stored in a PostgreSQL&amp;hellip;</description>
     </item>
     
     <item>
@@ -1052,7 +1052,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-deploy-rocketchat-on-ce/</guid>
-      <description>Rocket.Chat is a complete team communication platform, a self-hosted Slack alternative. It is built with Meteor and provides various features including helpdesk chat, video conferencing, file sharing, voice messages, API, and more. In this tutorial, we will show you how to install and deploy Rocket.Chat on a CentOS 7 server with Nginx as a SSL reverse proxy. Prerequisites Make sure that you have meet the following prerequisites before continuing with this</description>
+      <description>Rocket.Chat is a complete team communication platform, a self-hosted Slack alternative. It is built with Meteor and provides various features including helpdesk chat, video conferencing, file sharing, voice messages, API, and more. In this tutorial, we will show you how to install and deploy Rocket.Chat on a CentOS 7 server with Nginx as a SSL reverse&amp;hellip;</description>
     </item>
     
     <item>
@@ -1061,7 +1061,7 @@
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-a-sudo-user-on-c/</guid>
-      <description>The sudo command is designed to allow users to run programs with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user with sudo privileges on CentOS. How to create a sudo user By default on CentOS, users in the group wheel are granted with sudo access. Follow this steps to create a sudo user on your CentOS</description>
+      <description>The sudo command is designed to allow users to run programs with the security privileges of another user, by default the root user. In this guide we will show you how to create a new user with sudo privileges on CentOS. How to create a sudo user By default on CentOS, users in the group wheel are granted with sudo access. Follow this steps to create a sudo user on your CentOS&amp;hellip;</description>
     </item>
     
     <item>
@@ -1070,7 +1070,7 @@
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-reset-a-mysql-root-pass/</guid>
-      <description>Forgotten your MySQL root password? Don’t worry, it happens to all of us. In this tutorial we will show you how to reset a MySQL root password in case you have forgotten it. This guide should work with any modern Linux distribution such as Ubuntu 18.04 and CentOS 7. Prerequisites Before continuing with the steps below, make sure you are logged into your server as a user with sudo</description>
+      <description>Forgotten your MySQL root password? Don’t worry, it happens to all of us. In this tutorial we will show you how to reset a MySQL root password in case you have forgotten it. This guide should work with any modern Linux distribution such as Ubuntu 18.04 and CentOS 7. Prerequisites Before continuing with the steps below, make sure you are logged into your server as a user with sudo&amp;hellip;</description>
     </item>
     
     <item>
@@ -1079,7 +1079,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/create-a-linux-swap-file/</guid>
-      <description>Swap is a space on a disk that is used when the amount of physical RAM memory is full. When a Linux system runs out of RAM, inactive pages are moved from the RAM to the swap space. Swap space can take the form of either a dedicated swap partition or a swap file. In most cases when running Linux on a virtual machine a swap partition is not present so our only option is to create a swap</description>
+      <description>Swap is a space on a disk that is used when the amount of physical RAM memory is full. When a Linux system runs out of RAM, inactive pages are moved from the RAM to the swap space. Swap space can take the form of either a dedicated swap partition or a swap file. In most cases when running Linux on a virtual machine a swap partition is not present so our only option is to create a swap&amp;hellip;</description>
     </item>
     
     <item>
@@ -1088,7 +1088,7 @@
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-tomcat-85-on-ce/</guid>
-      <description>This tutorial shows you how to install Tomcat 8.5 on CentOS 7. Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. Prerequisites Before starting with this tutorial, make sure you are logged into your server with a user account with sudo privileges or with the root</description>
+      <description>This tutorial shows you how to install Tomcat 8.5 on CentOS 7. Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. Prerequisites Before starting with this tutorial, make sure you are logged into your server with a user account with sudo privileges or with the root&amp;hellip;</description>
     </item>
     
     <item>
@@ -1097,7 +1097,7 @@
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-odoo-11-on-centos-7/</guid>
-      <description>In this tutorial, we’ll walk you through how to install Odoo 11 using Git source and Python virtual environment on your CentOS 7 machine. Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website, billing, accounting, e-Commerce, manufacturing, warehouse, project management, inventory and more. Odoo 11 requires Python 3.5 which is not available in the CentOS</description>
+      <description>In this tutorial, we’ll walk you through how to install Odoo 11 using Git source and Python virtual environment on your CentOS 7 machine. Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website, billing, accounting, e-Commerce, manufacturing, warehouse, project management, inventory and&amp;hellip;</description>
     </item>
     
     <item>
@@ -1106,7 +1106,7 @@
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/configure-magento-2-to-use-var/</guid>
-      <description>The page speed or loading time is crucial to the success of your online store. The loading time is the total amount of time it takes the content on a specific page to load. The longer the loading time is, the lower the conversion rate. It is also one of the most important factors that Google considers to determine the search engine rankings. In the first post, we installed Magento 2 on our CentOS 7</description>
+      <description>The page speed or loading time is crucial to the success of your online store. The loading time is the total amount of time it takes the content on a specific page to load. The longer the loading time is, the lower the conversion rate. It is also one of the most important factors that Google considers to determine the search engine&amp;hellip;</description>
     </item>
     
     <item>
@@ -1115,7 +1115,7 @@
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-java-on-centos-/</guid>
-      <description>This tutorial shows you how to install Java on CentOS 7. Java is one of the most popular programming languages used to build different kinds of applications and systems. Java variations Java is distributed in three different editions, Standard Edition (SE), Enterprise Edition (EE), and Micro Edition (ME). This tutorial covers the Java SE (Standard Edition) edition. There are two different Java packages in CentOS 7, Java Runtime Environment (JRE) and the Java Development Kit</description>
+      <description>This tutorial shows you how to install Java on CentOS 7. Java is one of the most popular programming languages used to build different kinds of applications and systems. Java variations Java is distributed in three different editions, Standard Edition (SE), Enterprise Edition (EE), and Micro Edition (ME). This tutorial covers the Java SE (Standard Edition)&amp;hellip;</description>
     </item>
     
     <item>
@@ -1124,7 +1124,7 @@
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-magento-2-on-centos-7/</guid>
-      <description>This is the first post in the series How to install and configure Magento 2 on CentOS 7. In this tutorial, we will walk you through the steps of installing Magento 2 on your CentOS 7 machine. Magento is leading enterprise-class ecommerce platform built on open source technology combining powerful features with flexibility and user friendly</description>
+      <description>This is the first post in the series How to install and configure Magento 2 on CentOS 7. In this tutorial, we will walk you through the steps of installing Magento 2 on your CentOS 7 machine. Magento is leading enterprise-class ecommerce platform built on open source technology combining powerful features with flexibility and user friendly&amp;hellip;</description>
     </item>
     
     <item>
@@ -1133,7 +1133,7 @@
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-php-7-on-centos-7/</guid>
-      <description>CentOS 7 ships with PHP version 5.4 which has been officially EOL for quite some time and is no longer supported. By using PHP 7 your applications will load faster and consume less system resources. In this tutorial we will explain how to install or upgrade to PHP 7.x on a CentOS 7 system. Before installing a specific PHP 7.x version make sure that it is supported by your</description>
+      <description>CentOS 7 ships with PHP version 5.4 which has been officially EOL for quite some time and is no longer supported. By using PHP 7 your applications will load faster and consume less system resources. In this tutorial we will explain how to install or upgrade to PHP 7.x on a CentOS 7 system. Before installing a specific PHP 7.x version make sure that it is supported by your&amp;hellip;</description>
     </item>
     
     <item>
@@ -1142,7 +1142,7 @@
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-mariadb-on-centos-7/</guid>
-      <description>MariaDB is an open source relational database management system, backward compatible, binary drop-in replacement of MySQL. It is developed by some of the original developers of the MySQL and by many people in the community. With the release of CentOS 7, MySQL was replaced with MariaDB as the default database system. If for any reason you need to install MySQL, check the How to Install MySQL on CentOS 7</description>
+      <description>MariaDB is an open source relational database management system, backward compatible, binary drop-in replacement of MySQL. It is developed by some of the original developers of the MySQL and by many people in the community. With the release of CentOS 7, MySQL was replaced with MariaDB as the default database&amp;hellip;</description>
     </item>
     
     <item>
@@ -1151,7 +1151,7 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nginx-on-centos/</guid>
-      <description>Nginx pronounced engine x is a free, open-source, high-performance HTTP and reverse proxy server responsible for handling the load of some of the largest sites on the Internet. This tutorial will teach you how to install and manage Nginx on your CentOS 7 machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges and you don&amp;rsquo;t have Apache or any other service running on port 80 or</description>
+      <description>Nginx pronounced engine x is a free, open-source, high-performance HTTP and reverse proxy server responsible for handling the load of some of the largest sites on the Internet. This tutorial will teach you how to install and manage Nginx on your CentOS 7&amp;hellip;</description>
     </item>
     
     <item>
@@ -1160,7 +1160,7 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/secure-nginx-with-lets-encrypt/</guid>
-      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on CentOS 7. Prerequisites Make sure that you have met the following prerequisites before continuing with this</description>
+      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on CentOS&amp;hellip;</description>
     </item>
     
     <item>
@@ -1169,7 +1169,7 @@
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-and-configure-roundcub/</guid>
-      <description>This is the last part of the Setting up and configuring a mail server series where will cover how to install and configure Roundcube Webmail. Roundcube is a web-based IMAP email client with a very intuitive and modern user interface written in PHP. To use Roundcube you only need a Web</description>
+      <description>This is the last part of the Setting up and configuring a mail server series where will cover how to install and configure Roundcube Webmail. Roundcube is a web-based IMAP email client with a very intuitive and modern user interface written in PHP. To use Roundcube you only need a Web&amp;hellip;</description>
     </item>
     
     <item>
@@ -1178,7 +1178,7 @@
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-and-integrate-rspamd/</guid>
-      <description>This is the third part of our Setting up and configuring a mail server and in this part we will go through the installation and configuration of the Rspamd spam filtering system and its integration into our mail server and creating DKIM and DMARC DNS records. You may ask why we choose to go with Rspamd and not with Spamassassin. Rspamd is written in C and it is much faster then Spamassassin which is written in Perl and also Rspamd is more actively</description>
+      <description>This is the third part of our Setting up and configuring a mail server and in this part we will go through the installation and configuration of the Rspamd spam filtering system and its integration into our mail server and creating DKIM and DMARC DNS records. You may ask why we choose to go with Rspamd and not with&amp;hellip;</description>
     </item>
     
     <item>
@@ -1187,7 +1187,7 @@
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/install-and-configure-postfix-/</guid>
-      <description>In the second post of our Setting up and configuring a mail server series, we will show you how to install and configure Postfix and Dovecot, which are two main components of our mail system. Postfix is an open-source mail transfer agent (MTA), a service used to send and receive emails. Dovecot is an IMAP/POP3 server and in our setup it will also handle local delivery and user</description>
+      <description>In the second post of our Setting up and configuring a mail server series, we will show you how to install and configure Postfix and Dovecot, which are two main components of our mail system. Postfix is an open-source mail transfer agent (MTA), a service used to send and receive emails. Dovecot is an IMAP/POP3 server and in our setup it will also handle local delivery and user&amp;hellip;</description>
     </item>
     
     <item>
@@ -1196,7 +1196,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/set-up-a-mail-server-with-post/</guid>
-      <description>This is the first post in the series Setting up and configuring a mail server which covers creaton of all the necessary DNS records and explains how to install and configure PostfixAdmin, Nginx, PHP, MySQL and generate a free Lets Encrypt certificate. Prerequisites As the prerequisites to follow this series, you will need: Ubuntu 16.04 server The server hostname must be a FQDN, including the domain suffix, and must be</description>
+      <description>This is the first post in the series Setting up and configuring a mail server which covers creaton of all the necessary DNS records and explains how to install and configure PostfixAdmin, Nginx, PHP, MySQL and generate a free Lets Encrypt&amp;hellip;</description>
     </item>
     
     <item>
@@ -1205,7 +1205,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-create-and-manage-cron-/</guid>
-      <description>Cron is a scheduling daemon that executes tasks at specified intervals. These tasks are called cronjobs. Cron jobs are mostly used for creating periodic and recurring tasks. For example, you could set a cron job to backup your databases or data, update your system with the latest security patches, check your disk space usage, sending emails and more. Crontab Syntax and Operators Each line in the crontab file contains six fields separated by a</description>
+      <description>Cron is a scheduling daemon that executes tasks at specified intervals. These tasks are called cronjobs. Cron jobs are mostly used for creating periodic and recurring tasks. For example, you could set a cron job to backup your databases or data, update your system with the latest security patches, check your disk space usage, sending emails and&amp;hellip;</description>
     </item>
     
     <item>
@@ -1214,7 +1214,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/configure-odoo-with-with-nginx/</guid>
-      <description>Odoo is one the of most popular business softwares in the world and it is packed with multiple useful modules like customer relationship management (CRM), point of sale, project management, inventory management, automated invoicing, accounting, e-commerce, inventory management and much more. This guide provides instructions on how to use Nginx as a reverse proxy to Odoo using HTTPS. Prerequisites Make sure that you have met the following prerequisites before continuing with this</description>
+      <description>Odoo is one the of most popular business softwares in the world and it is packed with multiple useful modules like customer relationship management (CRM), point of sale, project management, inventory management, automated invoicing, accounting, e-commerce, inventory management and much more. This guide provides instructions on how to use Nginx as a reverse proxy to Odoo using&amp;hellip;</description>
     </item>
     
     <item>
@@ -1223,7 +1223,7 @@
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-nginx-on-ubuntu/</guid>
-      <description>Nginx pronounced &amp;ldquo;engine x&amp;rdquo; is a free, open-source, high-performance HTTP and reverse proxy server that powers some of the largest sites on the Internet. In this tutorial, we&amp;rsquo;ll discuss how to install and manage Nginx on your Ubuntu 16.04 machine. Prerequisites Before starting with the tutorial, make sure you are logged in as a user with sudo privileges and you don&amp;rsquo;t have Apache or any other service running on port 80 or</description>
+      <description>Nginx pronounced &amp;ldquo;engine x&amp;rdquo; is a free, open-source, high-performance HTTP and reverse proxy server that powers some of the largest sites on the Internet. In this tutorial, we&amp;rsquo;ll discuss how to install and manage Nginx on your Ubuntu 16.04&amp;hellip;</description>
     </item>
     
     <item>
@@ -1232,7 +1232,7 @@
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/secure-nginx-with-lets-encrypt/</guid>
-      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on Ubuntu 16.04. Prerequisites Make sure that you have met the following prerequisites before continuing with this</description>
+      <description>Let&amp;rsquo;s Encrypt is a free and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let&amp;rsquo;s Encrypt are trusted by almost all browsers today. In this tutorial, we&amp;rsquo;ll provide a step by step instructions about how to secure your Nginx with Let&amp;rsquo;s Encrypt using the certbot tool on Ubuntu&amp;hellip;</description>
     </item>
     
     <item>
@@ -1241,7 +1241,7 @@
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-odoo-11-on-ubun/</guid>
-      <description>There are several ways to install Odoo depending on the required use case. The easiest and quickest way to install Odoo is by using their official repositories but if you want to have more control over versions and updates or if you want to run multiple Odoo versions on your machine then this approach will not work for you because the Odoo package doesn&amp;rsquo;t allow multiple Odoo installations on a same</description>
+      <description>There are several ways to install Odoo depending on the required use&amp;hellip;</description>
     </item>
     
   </channel>

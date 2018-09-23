@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[In the simulation scenario I’ve concocted, the goal is to increase the number of patients that come in for an important test. A group of public health professionals have developed a new outreach program that they think will be able to draw in more patients. The study is conducted at the site level - some sites will implement the new approach, and the others, serving as controls, will continue with the existing approach. The cost for the new approach is expected to be higher, and will vary by<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
+In the simulation scenario I’ve concocted, the goal is to increase the number of patients that come in for an important test. A group of public health professionals have developed a new outreach program that they think will be able to draw in more[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
 

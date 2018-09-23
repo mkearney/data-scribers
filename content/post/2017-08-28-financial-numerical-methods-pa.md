@@ -10,5 +10,5 @@ tags:
   - blogdavisvaughancom
 ---
 
-[Where: Interestingly, we actually have the solution to this equation (one of the few we have analytical solutions for): More generally, this can be written as a formula providing us with the recursive equation: I was given some starting parameters: We all know loops are to be avoided when you can in R, and that you should instead vectorize the operations. At first, I thought this wasn’t going to be possible, as this is a recursive type of formula where the next value relies on the previous<i class="fas fa-external-link-alt"></i>](https://blog.davisvaughan.com/post/fin-num-methods-1/)
+Where: Interestingly, we actually have the solution to this equation (one of the few we have analytical solutions for): More generally, this can be written as a formula providing us with the recursive equation: I was given some starting parameters: We all know loops are to be avoided when you can in R, and that you should instead vectorize the[... <i class="fas fa-external-link-alt"></i>](https://blog.davisvaughan.com/post/fin-num-methods-1/)
 

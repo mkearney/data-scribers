@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/testing-many-interventions-in-a-single-experiment/)
+First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or[... <i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/testing-many-interventions-in-a-single-experiment/)
 

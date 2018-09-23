@@ -193,11 +193,6 @@
   </url>
   
   <url>
-    <loc>/post/measuring-the-level-and-inequa/</loc>
-    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/more-wrangling-tips/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -413,11 +408,6 @@
   </url>
   
   <url>
-    <loc>/post/the-power-of-steppedwedge-desi/</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/analysing-my-universitys-publi/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
@@ -479,11 +469,6 @@
   
   <url>
     <loc>/post/how-to-show-mysql-users/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/oslobnb/</loc>
     <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -745,11 +730,6 @@
   <url>
     <loc>/post/how-to-install-mongodb-on-cent/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/exploring-the-dataset-of-surve/</loc>
-    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1119,11 +1099,6 @@
   
   <url>
     <loc>/post/how-to-install-virtualbox-on-u/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/implementing-my-twitter-dashbo/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1535,11 +1510,6 @@
   <url>
     <loc>/post/epubr-040-cran-release/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/anatomy-of-gghighlight/</loc>
-    <lastmod>2018-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2025,11 +1995,6 @@
   <url>
     <loc>/post/dockerterm/</loc>
     <lastmod>2018-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/r-hires-mapping-with-r-for-not/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2983,11 +2948,6 @@
   </url>
   
   <url>
-    <loc>/post/epl-week-25/</loc>
-    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/triathlon-pubmed-analysis/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -3588,11 +3548,6 @@
   </url>
   
   <url>
-    <loc>/post/when-you-use-inverse-probabili/</loc>
-    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/a-tidytext-analysis-of-the-wei/</loc>
     <lastmod>2017-12-03T00:00:00+00:00</lastmod>
   </url>
@@ -3773,11 +3728,6 @@
   </url>
   
   <url>
-    <loc>/post/epl-week-9/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/rocker-docker-for-rstats/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
@@ -3875,11 +3825,6 @@
   <url>
     <loc>/post/use-circleci-for-r-projects/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/epl-week-8/</loc>
-    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4080,11 +4025,6 @@
   <url>
     <loc>/post/linear-regression-with-violati/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/automating-roxygen2-package-do/</loc>
-    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4313,11 +4253,6 @@
   </url>
   
   <url>
-    <loc>/post/making-this-blog/</loc>
-    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/sourced-tech-talks-frontend-se/</loc>
     <lastmod>2017-08-08T00:00:00+00:00</lastmod>
   </url>
@@ -4333,11 +4268,6 @@
   </url>
   
   <url>
-    <loc>/post/greenfields-tech-decisions/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/bournemouth-to-bash-on/</loc>
     <lastmod>2017-08-04T00:00:00+00:00</lastmod>
   </url>
@@ -4350,11 +4280,6 @@
   <url>
     <loc>/post/sips-2017-conference-tweets/</loc>
     <lastmod>2017-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/building-a-website-with-pkgdow/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4603,11 +4528,6 @@
   </url>
   
   <url>
-    <loc>/post/ages-by-england-wales-constitu/</loc>
-    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/animated-plots-as-part-of-expl/</loc>
     <lastmod>2017-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -4688,11 +4608,6 @@
   </url>
   
   <url>
-    <loc>/post/rcpproll-package-for-swift-mov/</loc>
-    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/you-should-make-an-r-package-f/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
   </url>
@@ -4768,11 +4683,6 @@
   </url>
   
   <url>
-    <loc>/post/whats-news/</loc>
-    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/analysing-the-words-i-write-in/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
@@ -4820,11 +4730,6 @@
   <url>
     <loc>/post/comparing-git-trees-in-go/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/twitter-followers-collage/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -5117,7 +5022,7 @@
   
   <url>
     <loc>/tags/ddriveno/</loc>
-    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5321,7 +5226,7 @@
   
   <url>
     <loc>/tags/martakolczynskanetlifycom/</loc>
-    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5647,10 +5552,6 @@
     <loc>/tags/yutanirbindio/</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
 </urlset>

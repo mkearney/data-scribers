@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tidytuesday-a-weekly-social-da/</guid>
-      <description>To participate in TidyTuesday, you need to do a few things: We welcome all newcomers, enthusiasts, and experts to participate, but be mindful of a few things: Everyone did such a great job! I’m posting all the ones that I can find through the hashtag, you can always tag me in your post to make sure you get noticed in the future. Here’s to next week! Good</description>
+      <description>To participate in TidyTuesday, you need to do a few things: We welcome all newcomers, enthusiasts, and experts to participate, but be mindful of a few things: Everyone did such a great job! I’m posting all the ones that I can find through the hashtag, you can always tag me in your post to make sure you get noticed in the future. Here’s to next week! Good&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/functional-programming-in-r-wi/</guid>
-      <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses. You want to see if you can find the mean of some</description>
+      <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses. You want to see if you can find the mean of some&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-gentle-guide-to-tidy-statist/</guid>
-      <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment. In a real clinical trial, many other variables would be recorded, but for the sake of a straightforward but multi-variate example we will stick to just MMSE. We will be working through loading, plotting, analyzing, and saving the outputs of our analysis through the tidyverse, an “opinionated collection of R packages” designed for data</description>
+      <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment. In a real clinical trial, many other variables would be recorded, but for the sake of a straightforward but multi-variate example we will stick to just&amp;hellip;</description>
     </item>
     
   </channel>

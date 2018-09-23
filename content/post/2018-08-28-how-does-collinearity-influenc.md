@@ -10,5 +10,5 @@ tags:
   - favstatsnetlifycom
 ---
 
-[This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it. Now, consider the following linear regression: y ~ x1 +<i class="fas fa-external-link-alt"></i>](https://favstats.netlify.com/post/multicol_sim/)
+This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it. Now, consider the following linear regression: y ~ x1 +[... <i class="fas fa-external-link-alt"></i>](https://favstats.netlify.com/post/multicol_sim/)
 

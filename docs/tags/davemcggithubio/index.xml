@@ -17,7 +17,7 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gi2018-day-three/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gi2018-day-two/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gi2018-day-one/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/quick-guide-to-gene-name-conve/</guid>
-      <description>There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step. But it can convert just about anything to</description>
+      <description>There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step. But it can convert just about anything to&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bog18-talk-notes/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-6/</guid>
-      <description>Heatmaps are a core competency for a bioinformatician. They are a compact way to visually demonstrate relationships and changes in values across</description>
+      <description>Heatmaps are a core competency for a bioinformatician. They are a compact way to visually demonstrate relationships and changes in values across&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/template-for-rmarkdown-reports/</guid>
-      <description>Since I keep opening up random recent Rmarkdown documents to copy the header to paste into my next document, I figure it would be more efficient to just make a post I could reach from anywhere (with an internet connection). # Session</description>
+      <description>Since I keep opening up random recent Rmarkdown documents to copy the header to paste into my next document, I figure it would be more efficient to just make a post I could reach from anywhere (with an internet connection). # Session&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-5/</guid>
-      <description>It contains cell area size for thousands of cells which have had a drug perturbation, split by wells in a dish. One drug per well. Several wells got the same drugs. So there are multiple plots per drug. How did I know? Because a bunch of the density plots were super wavy - which means (almost always) that the number of counts in that sample is very low. Low numbers = high</description>
+      <description>It contains cell area size for thousands of cells which have had a drug perturbation, split by wells in a dish. One drug per well. Several wells got the same drugs. So there are multiple plots per drug. How did I know? Because a bunch of the density plots were super wavy - which means (almost always) that the number of counts in that sample is very low. Low numbers = high&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/are-you-in-genomics-and-buildi/</guid>
-      <description>Area Under the Curve (AUC) of Receiver Operating Characteristic (ROC) is a terrible metric for a genomics problem. Do not use it. This metric also goes by AUC or AUROC. Use Precision Recall AUC. First, you do have to use them because everyone uses them and expects them, but try to move them in the supplementary figures. Eventually the field will stop expecting this and demand to see a useful metric - like AUC of Precision Recall.</description>
+      <description>Area Under the Curve (AUC) of Receiver Operating Characteristic (ROC) is a terrible metric for a genomics problem. Do not use it. This metric also goes by AUC or AUROC. Use Precision Recall AUC. First, you do have to use them because everyone uses them and expects them, but try to move them in the supplementary&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/something-different/</guid>
-      <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town. Cut-through, speeding,</description>
+      <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town. Cut-through, speeding,&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-4/</guid>
-      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard</description>
+      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-3/</guid>
-      <description>This is a barebones (but detailed enough, I hope) discussion of how to take a bam file, extract base pair resolution coverage data, then finagle the data into coverage plots by gene and exon. No data will be given for the below code. I’m not sharing a bam file. Also, not much point to sharing the bed, HGNC name, and gtf file, as there’s a decent chance they won’t work for your</description>
+      <description>This is a barebones (but detailed enough, I hope) discussion of how to take a bam file, extract base pair resolution coverage data, then finagle the data into coverage plots by gene and exon. No data will be given for the below code. I’m not sharing a bam file. Also, not much point to sharing the bed, HGNC name, and gtf file, as there’s a decent chance they won’t work for your&amp;hellip;</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-sleep-data-with-r/</guid>
-      <description>I’ve been using the iOS Sleep Cycle app to track my sleeping since late 2014 and have accumulated quite a bit of information about my sleeping habits. I wanted to see if I could do some exploratory data analysis and try out some different packages to clean up and visualize my data. The data from the app comes in a csv file and contains information like date, sleep quality, sleep duration, and more recently it can integrate with the pedometer so you can get the number of steps in a given</description>
+      <description>I’ve been using the iOS Sleep Cycle app to track my sleeping since late 2014 and have accumulated quite a bit of information about my sleeping habits. I wanted to see if I could do some exploratory data analysis and try out some different packages to clean up and visualize my&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/the-worlds-most-powerful-rocke/</guid>
-      <description>SpaceX launched Falcon Heavy this week and I remembered how Elon Musk noted that it would have twice the thrust of any rocket currently in existence. I was intrigued by this statement and decided to look further and compare the thrusts of other rockets of the past and rockets that are planned in the future. Next I used rvest to read scrape the information extract the text and make it into a</description>
+      <description>SpaceX launched Falcon Heavy this week and I remembered how Elon Musk noted that it would have twice the thrust of any rocket currently in existence. I was intrigued by this statement and decided to look further and compare the thrusts of other rockets of the past and rockets that are planned in the future. Next I used rvest to read scrape the information extract the text and make it into a&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mapping-starbucks-locations/</guid>
-      <description>This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch. This post assumes you have R and Rstudio installed and know how to install packages. For this tutorial you will need to download tidyverse, RCurl, and leaflet which you can do in the bottom right panel of Rstudio by clicking the install</description>
+      <description>This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch. This post assumes you have R and Rstudio installed and know how to install&amp;hellip;</description>
     </item>
     
   </channel>

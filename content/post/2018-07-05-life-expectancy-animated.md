@@ -9,5 +9,5 @@ tags:
   - nowosadgithubio
 ---
 
-[Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a map. But what about when you want to go further and (for example): In this blog post, I will show how to download, process, and present global socio-economic data, using the following packages: Here, I would like to create a time-series of a selected<i class="fas fa-external-link-alt"></i>](https://nowosad.github.io/post/life-expectancy-animated/)
+Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a[... <i class="fas fa-external-link-alt"></i>](https://nowosad.github.io/post/life-expectancy-animated/)
 

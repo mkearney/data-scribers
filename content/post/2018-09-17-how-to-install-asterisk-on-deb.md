@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Asterisk is the most popular and widely adopted open source framework for building communications applications. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include conference calling, voicemail, music on hold, call transfer, call queuing, call recording, database store/retrieve and much more. In this tutorial we will show you how to install Asterisk 15 on Debian<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-asterisk-on-debian-9/)
+Asterisk is the most popular and widely adopted open source framework for building communications applications. It is used by individuals, small businesses, large enterprises and governments worldwide. Asterisk features include conference calling, voicemail, music on hold, call transfer, call queuing, call recording, database store/retrieve and much[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-asterisk-on-debian-9/)
 

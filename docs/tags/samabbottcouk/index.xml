@@ -17,7 +17,7 @@
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-tuberculosis-monitor/</guid>
-      <description>Looking through the other tibbles they all have the same structure - we can write a function using this knowledge to speed up data extraction. We now extract data for all remaining indicators, rename variables with meaningful names, join into a single tibble and then left join onto the TB incidence rate tibble. Data is only available aggregated for all ages and genders so we also drop these variables here. Finally we clean up Timeperiod into years.</description>
+      <description>Looking through the other tibbles they all have the same structure - we can write a function using this knowledge to speed up data extraction. We now extract data for all remaining indicators, rename variables with meaningful names, join into a single tibble and then left join onto the TB incidence rate&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-estimates-of-the-tub/</guid>
-      <description>Maps can be a useful first visualisation for summarising spatial data, although they can also be misleading for more complex comparisons. Lets look at global TB incidence rates (per 100,000 population) in 2016, and the WHO estimate of the case fatality ratio in the same year. Whilst quantitative insights are hard to glean from the above maps we can see that incidence rates appear to be highest in Africa and Asia.</description>
+      <description>Maps can be a useful first visualisation for summarising spatial data, although they can also be misleading for more complex comparisons. Lets look at global TB incidence rates (per 100,000 population) in 2016, and the WHO estimate of the case fatality ratio in the same&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-global-trends-in-tub/</guid>
-      <description>For this post I will be quickly diving into global trends in Tuberculosis incidence rates and exploring whether Tuberculosis eradication is on the horizon. Now to get started, the first step is to get the package (for this post we are using the development version from GitHub) and to load the other packages required for this analysis. The package is loaded, time to get the data. We download both the data itself and it’s accompanying data</description>
+      <description>For this post I will be quickly diving into global trends in Tuberculosis incidence rates and exploring whether Tuberculosis eradication is on the horizon. Now to get started, the first step is to get the package (for this post we are using the development version from GitHub) and to load the other packages required for this analysis. The package is loaded, time to get the&amp;hellip;</description>
     </item>
     
   </channel>

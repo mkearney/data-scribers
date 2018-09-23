@@ -6,19 +6,10 @@
     <description>Recent content in Ddriveno on DATA SCrIbers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ddriveno/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>OsloBnB</title>
-      <link>/post/oslobnb/</link>
-      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/oslobnb/</guid>
-      <description>library(here) library(tidyverse) library(polite) library(rvest) library(mapview) library(sf) library(raster) library(fasterize) library(RPostgreSQL) library(rpostgis) library(mapsapi) library(patchwork) library(ggmap) library(ggrepel) library(plotly) library(lubridate) library(hrbrthemes) Challenge A friend of mine is coming over to Oslo in couple of weeks time and he asked me if I could recommend a good place for him to stay in</description>
-    </item>
     
     <item>
       <title>Reading vintage magazines with `hocr`</title>
@@ -26,7 +17,7 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/reading-vintage-magazines-with/</guid>
-      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on archive.org. A number of people picked up on the idea of checking out some of the old magazines from the time they can remeber starting with</description>
+      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on&amp;hellip;</description>
     </item>
     
   </channel>

@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial explains how to install Node.js and npm on a Ubuntu 18.04 machine. Node.js is an open source cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code which simply means that you can run JavaScript code on your machine as a standalone application, free of any web browser. Node.js is mainly used to build back-end server-side applications, but it is also very popular as a full-stack and front-end<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
+This tutorial explains how to install Node.js and npm on a Ubuntu 18.04 machine. Node.js is an open source cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code which simply means that you can run JavaScript code on your machine as a standalone application, free of any web[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 

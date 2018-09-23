@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial will walk you through the installation and basic configuration of Git on CentOS 7. Git is the most popular version control system that's being used by hundreds of thousands of projects. Git allows you to keep track of your code changes, revert to previous stages, work simultaneously on multiple branches and collaborate with your fellow developers. Git is originally developed by Linus Torvalds, the creator of the Linux<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-git-on-centos-7/)
+This tutorial will walk you through the installation and basic configuration of Git on CentOS 7. Git is the most popular version control system that's being used by hundreds of thousands of projects. Git allows you to keep track of your code changes, revert to previous stages, work simultaneously on multiple branches and collaborate with your fellow[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-git-on-centos-7/)
 

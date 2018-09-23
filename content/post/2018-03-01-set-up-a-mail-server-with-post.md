@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This is the first post in the series Setting up and configuring a mail server which covers creaton of all the necessary DNS records and explains how to install and configure PostfixAdmin, Nginx, PHP, MySQL and generate a free Lets Encrypt certificate. Prerequisites As the prerequisites to follow this series, you will need: Ubuntu 16.04 server The server hostname must be a FQDN, including the domain suffix, and must be<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
+This is the first post in the series Setting up and configuring a mail server which covers creaton of all the necessary DNS records and explains how to install and configure PostfixAdmin, Nginx, PHP, MySQL and generate a free Lets Encrypt[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
 

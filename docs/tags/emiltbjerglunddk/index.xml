@@ -17,7 +17,7 @@
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/hvordan-klarer-de-politiske-pa/</guid>
-      <description>På de respektive facebook-sider kan vi naturligvis også finde antallet af følgere - dem gemmer vi også lige, da vi skal bruge dem senere. Vi har altså en del data på hvert post - hvornår den er afsendt, hvilken type post (video, tekst, billede) samt hvor mange likes, kommentarer og delinger der er. Især den sidste del er interessant for at undersøge hvor godt de forskellige partier præsterer på Facebook. Med disse data i hånden er det nu en smal sag at begynde selve</description>
+      <description>På de respektive facebook-sider kan vi naturligvis også finde antallet af følgere - dem gemmer vi også lige, da vi skal bruge dem senere. Vi har altså en del data på hvert post - hvornår den er afsendt, hvilken type post (video, tekst, billede) samt hvor mange likes, kommentarer og delinger der&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/combining-r-and-python-for-dat/</guid>
-      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown document. I do this to keep the final product together and get a completely reproducible analysis in my R Markdown document.</description>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/open-science-tools-for-our-res/</guid>
-      <description>I have been considering how to apply this thinking to our research. I am confident that it could be made more efficient and well-documented if R was adopted as a general tool for data analysis. If you recieve a spreadsheet from someone, containing some data analysis it can be very hard to decipher the thinking of the original author (and to be honest, analysis done by yourself 6 monts ago might as well have been done by a complete</description>
+      <description>I have been considering how to apply this thinking to our research. I am confident that it could be made more efficient and well-documented if R was adopted as a general tool for data&amp;hellip;</description>
     </item>
     
   </channel>

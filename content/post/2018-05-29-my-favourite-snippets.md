@@ -11,5 +11,5 @@ tags:
   - jveranetlifycom
 ---
 
-[A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++....) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is easy. The graphical way is getting to Rstudio Tools > Global Options > Code > Enable Code Snippets (Edit<i class="fas fa-external-link-alt"></i>](http://jvera.netlify.com/post/2018/05/29/my-favourite-snippets/)
+A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++....) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is[... <i class="fas fa-external-link-alt"></i>](http://jvera.netlify.com/post/2018/05/29/my-favourite-snippets/)
 

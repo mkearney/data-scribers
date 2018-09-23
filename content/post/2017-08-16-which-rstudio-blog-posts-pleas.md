@@ -11,5 +11,5 @@ tags:
   - blogdavisvaughancom
 ---
 
-[Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since 2011. This post will do a few things: Spoiler alert: Hadley uses “pleased”<i class="fas fa-external-link-alt"></i>](https://blog.davisvaughan.com/post/hadley-pleased/)
+Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since[... <i class="fas fa-external-link-alt"></i>](https://blog.davisvaughan.com/post/hadley-pleased/)
 

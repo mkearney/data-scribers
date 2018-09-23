@@ -9,5 +9,5 @@ tags:
   - cevocomau
 ---
 
-[I’m fascinated by human interaction. If I was able to find a DeLorean I’d tell myself to fly back in time and study Psychology and not Computer Science. Deindividuation Deindividuation is a concept in social psychology that is generally thought of as the loss of self-awareness in groups. The term has been used to explain the behaviour of people that do and say things you would not normally expect them to<i class="fas fa-external-link-alt"></i>](https://cevo.com.au/culture/devops/communciation/2017/09/06/devops-deindividuation-and-the-delorean.html)
+I’m fascinated by human interaction. If I was able to find a DeLorean I’d tell myself to fly back in time and study Psychology and not Computer Science. Deindividuation Deindividuation is a concept in social psychology that is generally thought of as the loss of self-awareness in[... <i class="fas fa-external-link-alt"></i>](https://cevo.com.au/culture/devops/communciation/2017/09/06/devops-deindividuation-and-the-delorean.html)
 

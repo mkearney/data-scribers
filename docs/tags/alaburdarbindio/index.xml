@@ -17,7 +17,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/testing-annotorious/</guid>
-      <description>Lorem ipsum, code is visible in post preview. Still kind of visible. ); original_onload = window.onload || function(){}; window.onload = function() { original_onload(); anno.hideSelectionWidget(); var figures = document.getElementsByClassName(&amp;ldquo;annotatable&amp;rdquo;); for (var i = 0;</description>
+      <description>Lorem ipsum, code is visible in post preview. Still kind of visible. ); original_onload = window.onload || function(){}; window.onload = function() { original_onload(); anno.hideSelectionWidget(); var figures = document.getElementsByClassName(&amp;ldquo;annotatable&amp;rdquo;); for (var i = 0;&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analysing-my-universitys-publi/</guid>
-      <description>Hello! I have recently finished my master’s degree and finished my summer projects! With spare time on my hands, I have finally gotten around to analysing the full list of my university’s publications. I have run into this dataset during a seminar about InCites, a tool for researchers to look into their university’s research, collaborations with other universities and even funding</description>
+      <description>Hello! I have recently finished my master’s degree and finished my summer projects! With spare time on my hands, I have finally gotten around to analysing the full list of my university’s publications. I have run into this dataset during a seminar about InCites, a tool for researchers to look into their university’s research, collaborations with other universities and even funding&amp;hellip;</description>
     </item>
     
   </channel>

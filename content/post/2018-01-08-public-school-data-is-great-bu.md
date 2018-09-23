@@ -9,5 +9,5 @@ tags:
   - ryanestrelladonetlifycom
 ---
 
-[Using public school data can help school districts see the bigger picture of what is going on. So why don’t we see more districts taking advantage of this information gold<i class="fas fa-external-link-alt"></i>](https://ryanestrellado.netlify.com/post/demonstration-cleaning-your-data/)
+Using public school data can help school districts see the bigger picture of what is going on. So why don’t we see more districts taking advantage of this information gold[... <i class="fas fa-external-link-alt"></i>](https://ryanestrellado.netlify.com/post/demonstration-cleaning-your-data/)
 

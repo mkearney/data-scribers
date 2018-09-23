@@ -10,5 +10,5 @@ tags:
   - jamesuanhorocom
 ---
 
-[One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of prediction. This assumption is important for OLS to be the best linear unbiased predictor<i class="fas fa-external-link-alt"></i>](https://www.jamesuanhoro.com/post/2018/05/07/modeling-the-error-variance-to-account-for-heteroskedasticity/)
+One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of[... <i class="fas fa-external-link-alt"></i>](https://www.jamesuanhoro.com/post/2018/05/07/modeling-the-error-variance-to-account-for-heteroskedasticity/)
 

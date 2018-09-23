@@ -9,5 +9,5 @@ tags:
   - leonawiczgithubioblog
 ---
 
-[While music can be quite complex and a full score will be much longer, something as simple as the following code snippet produces the music notation in the accompanying image. A brief example below highlights the general workflow. Finally, specify some song metadata to reproduce the original staff: the key of D minor, common time, and the tempo. There is a rich collection of vignette tutorials available at the tabr<i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/tabr-package-for-guitar-tablature-now-on-cran/)
+While music can be quite complex and a full score will be much longer, something as simple as the following code snippet produces the music notation in the accompanying image. A brief example below highlights the general workflow. Finally, specify some song metadata to reproduce the original staff: the key of D minor, common time, and the[... <i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/tabr-package-for-guitar-tablature-now-on-cran/)
 

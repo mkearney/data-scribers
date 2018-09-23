@@ -10,5 +10,5 @@ tags:
   - cattleguardgithubio
 ---
 
-[If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of<i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2017/11/15/product-and-program-success-before-you-start/)
+If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of[... <i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2017/11/15/product-and-program-success-before-you-start/)
 

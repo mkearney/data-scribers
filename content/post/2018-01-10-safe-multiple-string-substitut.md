@@ -9,5 +9,5 @@ tags:
   - thugrlife
 ---
 
-[String substitutions Note - the package I wrote was originally inspired by a challenge a coworker tossed out. It also happened to provide a solution to this SO question which was really cool! Substitutions in strings are best handled with regular expressions which are an amazingly powerful and flexible tool. Regular expressions are a way of expressing patterns in strings. In the example below I want to find the four letters, “dopa” and replace them with<i class="fas fa-external-link-alt"></i>](http://thug-r.life/post/2018-01-10-safe-multiple-string-substitutions/)
+String substitutions Note - the package I wrote was originally inspired by a challenge a coworker tossed out. It also happened to provide a solution to this SO question which was really cool! Substitutions in strings are best handled with regular expressions which are an amazingly powerful and flexible tool. Regular expressions are a way of expressing patterns in[... <i class="fas fa-external-link-alt"></i>](http://thug-r.life/post/2018-01-10-safe-multiple-string-substitutions/)
 

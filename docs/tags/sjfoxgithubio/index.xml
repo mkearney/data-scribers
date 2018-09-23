@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-flight-data-with-g/</guid>
-      <description>This next part is the hard part. We need to combine and clean the two datasets. To begin we do two joins, because we need the lat and long data for both the source and the destination airports. After that I create a new column that captures the source and destination airports, remove duplicates, and create a variable to loosely capture the flights to and from Europe (You’ll see why at the</description>
+      <description>This next part is the hard part. We need to combine and clean the two datasets. To begin we do two joins, because we need the lat and long data for both the source and the destination airports. After that I create a new column that captures the source and destination airports, remove duplicates, and create a variable to loosely capture the flights to and from Europe (You’ll see why at the&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-pesky-piping-bug-with-rstudi/</guid>
-      <description>You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive code. Do you get the same errors as I do? If so, should it be fixed, or is there a purpose I’m not</description>
+      <description>You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/you-should-make-an-r-package-f/</guid>
-      <description>R packages are made up of three main things: (1) data, (2) functions, and (3) documentation. Combining them into a single, self-contained bundle, means that all of the computational work from a project can be found in one place, downloaded and installed simply, and then run with a freely availible software anyone can obtain. As an added bonus you can even add a vignette to the package, which you can use to illustrate example analyses or a sample</description>
+      <description>R packages are made up of three main things: (1) data, (2) functions, and (3) documentation. Combining them into a single, self-contained bundle, means that all of the computational work from a project can be found in one place, downloaded and installed simply, and then run with a freely availible software anyone can&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/simple-trick-to-speed-up-ode-i/</guid>
-      <description>Let’s also confirm that both models give the same</description>
+      <description>Let’s also confirm that both models give the same&amp;hellip;</description>
     </item>
     
   </channel>

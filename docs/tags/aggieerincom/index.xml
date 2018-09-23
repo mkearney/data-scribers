@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/quick-and-dirty-categorical-la/</guid>
-      <description>I was tagged today on twitter asking about categorical variables in lavaan. I will say I have not done much with categorical predictors either endogenous or exogenous. I did a quick reproducible example of exogenous variables, and I will refer you to the help guide for lavaan here. You will need both the lavaan and psych packages to reproduce this</description>
+      <description>I was tagged today on twitter asking about categorical variables in lavaan. I will say I have not done much with categorical predictors either endogenous or exogenous. I did a quick reproducible example of exogenous variables, and I will refer you to the help guide for lavaan here. You will need both the lavaan and psych packages to reproduce this&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/new-publications-and-updated-c/</guid>
-      <description>Hi guys! I just wanted to post that I&amp;rsquo;ve updated the website to be current with some new publications I wanted to highlight: First up is two papers on psycholinguistics that were undergraduate student projects: Duncan, J., Buchanan, E.M., Marshall, C.Z., &amp;amp; Oberdieck, K. (accepted). But words will never hurt me, Journal of Psychology and Behavioral Sciences, X, XX-XX. PDF Forbes, F.-J., &amp;amp; Buchanan, E. M. (accepted). “Textisms”: The Comfort of the Recipient, Psychology of Popular Media Culture, X,</description>
+      <description>Hi guys! I just wanted to post that I&amp;rsquo;ve updated the website to be current with some new publications I wanted to highlight: First up is two papers on psycholinguistics that were undergraduate student projects: Duncan, J., Buchanan, E.M., Marshall, C.Z., &amp;amp; Oberdieck, K. (accepted). But words will never hurt me, Journal of Psychology and Behavioral Sciences, X, XX-XX. PDF Forbes, F.-J., &amp;amp; Buchanan, E&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/current-publications-with-papa/</guid>
-      <description>Heyo! Frederik, the author of papaja, requested that we update him with papers written with his package. I was like, oh man, like the whole lab?! So, I decided that I could probably make it easy by making a table here. Obviously, this table is current at the moment, as I hope many of the ones under review will get accepted, and I have several others that we will start writing</description>
+      <description>Heyo! Frederik, the author of papaja, requested that we update him with papers written with his package. I was like, oh man, like the whole lab?! So, I decided that I could probably make it easy by making a table here. Obviously, this table is current at the moment, as I hope many of the ones under review will get accepted, and I have several others that we will start writing&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gathering-text-from-the-web/</guid>
-      <description>Hi everyone! I don&amp;rsquo;t really feel like working too hard today, so I decided to write a blog post about how my student Will and I used rvest to mine articles from several different news sources for a project. All the scripts and current ongoings of this project can be found on our OSF page - this project is also connected to the GitHub folder with the</description>
+      <description>Hi everyone! I don&amp;rsquo;t really feel like working too hard today, so I decided to write a blog post about how my student Will and I used rvest to mine articles from several different news sources for a project. All the scripts and current ongoings of this project can be found on our OSF page - this project is also connected to the GitHub folder with the&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/new-publication-texting/</guid>
-      <description>One more announcement! We just had a new publication accepted: &amp;ldquo;Textisms&amp;rdquo;: The Comfort of the Recipient: This paper was an undergraduate honors thesis that Flora-Jean and I finally got accepted! She did a great job making sure this paper was completed and published. You can check out the materials here: https://osf.io/8kt52/ You can view the pre-print: https://osf.io/ptf7c/ We should have the real print up soon! Just waiting on the journal</description>
+      <description>One more announcement! We just had a new publication accepted: &amp;ldquo;Textisms&amp;rdquo;: The Comfort of the Recipient: This paper was an undergraduate honors thesis that Flora-Jean and I finally got accepted! She did a great job making sure this paper was completed and&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mediation-moderation-workshop/</guid>
-      <description>Hi everyone! I have been super swamped with a bunch of due dates that all hit in April. For a small brag, and I like making lists: 9 revise and resubmits (four we&amp;rsquo;ve sent back, two have been accepted!) 4 conference posters and one invited talk 1 submitted grant (fingers crossed!) 2 invited papers 2 theses that I&amp;rsquo;m chairing, 2 that I&amp;rsquo;m on the committee for Data camp! It&amp;rsquo;s been nuts, so haven&amp;rsquo;t left the house much or done much of anything</description>
+      <description>Hi everyone! I have been super swamped with a bunch of due dates that all hit in&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/working-with-messy-text/</guid>
-      <description>Heyo! I am doing my best to procrastinate here on a blustery Tuesday afternoon. So, I decided to share some code I&amp;rsquo;ve put together that solves problems in R that I used to do in perl. HTML or C++ was probably my first real language, but I love the heck out of perl. It&amp;rsquo;s never done me wrong (unlike you PHP). Anyways! The context of this project is that we are developing a dictionary of words to complement the work done by Jonathan Haidt and Jesse Graham - learn</description>
+      <description>Heyo! I am doing my best to procrastinate here on a blustery Tuesday afternoon. So, I decided to share some code I&amp;rsquo;ve put together that solves problems in R that I used to do in perl. HTML or C++ was probably my first real language, but I love the heck out of perl. It&amp;rsquo;s never done me wrong (unlike you&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/new-publications/</guid>
-      <description>Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB&amp;rsquo;s website: Springer - it is free to view but not download. You can download the PDF version on OSF. We&amp;rsquo;ve submitted a couple new papers as well - updated those on my research publications page. I also have a couple more to get done - hoping to feature some of the cool coding work I&amp;rsquo;ve done this week after taking a breather from a seriously packed</description>
+      <description>Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB&amp;rsquo;s website: Springer - it is free to view but not download. You can download the PDF version on OSF. We&amp;rsquo;ve submitted a couple new papers as well - updated those on my research publications&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/new-publication-detect-low-qua/</guid>
-      <description>My coauthor John Scofield and I just had a publication accepted at Behavior Research Methods - you can check out the publication preprint at OSF. We thew together a website for the paper that summarizes everything we found, as well as puts all the materials together in one place - check it out. We create a really nice R function to help you detect low quality data, which you can find on GitHub, and I even made a video that explains all the parts to the function at</description>
+      <description>My coauthor John Scofield and I just had a publication accepted at Behavior Research Methods - you can check out the publication preprint at OSF. We thew together a website for the paper that summarizes everything we found, as well as puts all the materials together in one place - check it&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/citations-in-r-markdown-papaja/</guid>
-      <description>Heyo! I wanted to write a post about some of the quirky things I&amp;rsquo;ve found with writing manuscripts in R Markdown, as well as provide a solution to a problem that someone else might be having. Update: The csl file I describe below is a special formatted one, which was shared with me. You can download it from GitHub to try the suggestions below. Update 2: Turns out, potentially, the suggestions from the manual are not working correctly, as Frederik has checked it out and opened an issue on</description>
+      <description>Heyo! I wanted to write a post about some of the quirky things I&amp;rsquo;ve found with writing manuscripts in R Markdown, as well as provide a solution to a problem that someone else might be having. Update: The csl file I describe below is a special formatted one, which was shared with me. You can download it from GitHub to try the suggestions&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-shiny-app-to-compare-stats/</guid>
-      <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots. I particularly pleased with the plotly 3D graph - as I usually think that 3D graphs are impossible to read. This plot shows what we found in our study (albeit I would recommend viewing the 2D plots more): Bayes Factors and p-values follow a power function, as we</description>
+      <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots. I particularly pleased with the plotly 3D graph - as I usually think that 3D graphs are impossible to&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/learn-about-mote/</guid>
-      <description>The APA Task Force on Statistical Inference (Wilkinson &amp;amp; TFSI, 1999) has advocated the inclusion of effect sizes in journal articles as an important source of information. The fifth and current edition of the APA publication manual (2001, 2010) emphasized these findings from the task force, along with requirement of effect sizes to publish in their journals. However, Fidler et al. (2005) have conveyed that only slight increases in report rates have been found in popular</description>
+      <description>The APA Task Force on Statistical Inference (Wilkinson &amp;amp; TFSI, 1999) has advocated the inclusion of effect sizes in journal articles as an important source of information. The fifth and current edition of the APA publication manual (2001, 2010) emphasized these findings from the task force, along with requirement of effect sizes to publish in their journals. However, Fidler et&amp;hellip;</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/research-statement/</guid>
-      <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years. Psycholinguistics. My cognitive research focuses broadly on psycholinguistics and memory, particularly on the statistical properties of word</description>
+      <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years&amp;hellip;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/teaching-statement/</guid>
-      <description>Overview. My approach to teaching centers on the ideas of accessibility, association, and application. As an effective instructor, I strive to ensure that all students are able to orient to and understand material. Often, this process involves formal efforts to reduce barriers to their learning and/or facilitate a stronger grasp of material through association with things they already know. Once students are able to access information, they can begin to understand it and in turn apply it in novel</description>
+      <description>Overview. My approach to teaching centers on the ideas of accessibility, association, and application. As an effective instructor, I strive to ensure that all students are able to orient to and understand material. Often, this process involves formal efforts to reduce barriers to their learning and/or facilitate a stronger grasp of material through association with things they already&amp;hellip;</description>
     </item>
     
   </channel>

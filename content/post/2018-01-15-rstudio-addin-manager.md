@@ -9,5 +9,5 @@ tags:
   - yonicdnetlifycom
 ---
 
-[Via the command line you can manage the addins with greater<i class="fas fa-external-link-alt"></i>](https://yonicd.netlify.com/post/rsam/)
+Via the command line you can manage the addins with greater[... <i class="fas fa-external-link-alt"></i>](https://yonicd.netlify.com/post/rsam/)
 

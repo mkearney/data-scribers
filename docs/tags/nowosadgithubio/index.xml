@@ -17,7 +17,7 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/sabre/</guid>
-      <description>Creating or determination of regions is a useful way to describe the world. Regionalization does not only allow for a quicker understanding of spatial patterns but also can influence how regions are managed. Regions are created in various disciplines. We can delineate regions based on a single property (e.g. landform regions or climate regions) or several factors (e.g. ecoregions). There are also political regions divided by borders that are established through political or social</description>
+      <description>Creating or determination of regions is a useful way to describe the world. Regionalization does not only allow for a quicker understanding of spatial patterns but also can influence how regions are managed. Regions are created in various disciplines. We can delineate regions based on a single property (e.g. landform regions or climate regions) or several factors (e.g&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/moving-beyond-patternbased-ana/</guid>
-      <description>GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps. However, that is not the end of GeoPAT 2 capabilities - it is also possible to extract spatial signature or calculate distance matrix and use these outputs in further analysis outside of GeoPAT</description>
+      <description>GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps. However, that is not the end of GeoPAT 2 capabilities - it is also possible to extract spatial signature or calculate distance matrix and use these outputs in further analysis outside of GeoPAT&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/patternbased-regionalization/</guid>
-      <description>Spatial patterns are an underexplored venue of the Earth and ecological sciences. They could be both an effect of some processes and at the same time affect other ones. For example, a land cover pattern (spatial arrangement of land cover categories) could exist because of an impact of a terrain topology, soils, climate, or human action. Next, this pattern can influence abiotic (e.g. some land cover patterns can be better to prevent erosion and flood than others) and biotic</description>
+      <description>Spatial patterns are an underexplored venue of the Earth and ecological sciences. They could be both an effect of some processes and at the same time affect other ones. For example, a land cover pattern (spatial arrangement of land cover categories) could exist because of an impact of a terrain topology, soils, climate, or human action. Next, this pattern can influence abiotic&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/quantifying-temporal-change-of/</guid>
-      <description>Imagine you have two values expressing the world population in 1950 (2.5 billion people) and 2012 (7.1 billion people). How would you compare the change in the world population? The easiest (and correct) approach is just to subtract the past value from the more recent one: We can conclude that the world population between 1950 and 2015 increased by 4.6 billion people. Now, let’s move into a more spatial problem. Think about how you can compare two satellite images or raster</description>
+      <description>Imagine you have two values expressing the world population in 1950 (2.5 billion people) and 2012 (7.1 billion people). How would you compare the change in the world population? The easiest (and correct) approach is just to subtract the past value from the more recent one: We can conclude that the world population between 1950 and 2015 increased by 4.6 billion&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/finding-similar-local-landscap/</guid>
-      <description>Can you guess what are we missing in this long list? Yes, you’re (probably) right! Finding places with similar spatial patterns is not a standard spatial operation. However, it could be useful to solve many potential questions. For example, you observed some ecological process and assume that it depends on a pattern of land cover. Next, you need to find and study areas of similar land cover patterns to validate your</description>
+      <description>Can you guess what are we missing in this long list? Yes, you’re (probably) right! Finding places with similar spatial patterns is not a standard spatial operation. However, it could be useful to solve many potential questions. For example, you observed some ecological process and assume that it depends on a pattern of land&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/patternbased-spatial-analysis-/</guid>
-      <description>Take a look at the example above and compare information depicted by the compositional and co-occurrence histograms. The first one shows that each land cover category occupies a very similar proportion of the area. The second one provides more information - it counts how often different categories are adjacent to each other. These histograms also have some important properties - rotated or mirrored version of a landscape will still have the same non-spatial</description>
+      <description>Take a look at the example above and compare information depicted by the compositional and co-occurrence histograms. The first one shows that each land cover category occupies a very similar proportion of the area. The second one provides more information - it counts how often different categories are adjacent to each&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/life-expectancy-animated/</guid>
-      <description>Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a map. But what about when you want to go further and (for example): In this blog post, I will show how to download, process, and present global socio-economic data, using the following packages: Here, I would like to create a time-series of a selected</description>
+      <description>Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/geopat-2/</guid>
-      <description>Now, try to do the same with the image below representing a land cover over a part of Eastern Australia. Do you see any objects? If not, are you able to identify different types of patterns? Can you partition this image into meaningful, consistent groups of patterns? How about distinguishing spatial patterns over the data for the entire continent or the whole world? The pattern-based analysis allows for four main types of</description>
+      <description>Now, try to do the same with the image below representing a land cover over a part of Eastern&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/making-maps-of-the-usa-with-r/</guid>
-      <description>The next step is to calculate scale relations between the mainland and Hawaii as well as Alaska. To do so we can calculate areas of the bounding box of each object: Next, we can calculate the ratios between their areas: The final map is an approximation of areal relationships between the mainland, Alaska and Hawaii. This improves on maps of the United States that only show the mainland or greatly reduce the relative size of Hawaii and</description>
+      <description>The next step is to calculate scale relations between the mainland and Hawaii as well as Alaska. To do so we can calculate areas of the bounding box of each object: Next, we can calculate the ratios between their areas: The final map is an approximation of areal relationships between the mainland, Alaska and&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/geocomputation-with-r-the-inte/</guid>
-      <description>Both chapters apply command-line based geocomputation introduced in chapters 1-6 to the real world, and answer relevant questions in a reproducible manner with the help of open data and</description>
+      <description>Both chapters apply command-line based geocomputation introduced in chapters 1-6 to the real world, and answer relevant questions in a reproducible manner with the help of open data and&amp;hellip;</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/geocomputation-with-r-the-begi/</guid>
-      <description>The hard copy of the book will be published in late</description>
+      <description>The hard copy of the book will be published in late&amp;hellip;</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/intro-to-r-workshop/</guid>
-      <description>Last week, I had a pleasure to conduct a workshop for graduate students and faculty in the Department of Geography and GIS at the University of Cincinnati. In two afternoons, a group of mostly beginners, learned a little bit about R, RStudio, data processing, and visualisation, as well as about spatial data analysis in R. The workshop had four parts: Moreover, each part ends with a list of useful resources - let me know if I missed</description>
+      <description>Last week, I had a pleasure to conduct a workshop for graduate students and faculty in the Department of Geography and GIS at the University of Cincinnati. In two afternoons, a group of mostly beginners, learned a little bit about R, RStudio, data processing, and visualisation, as well as about spatial data analysis in&amp;hellip;</description>
     </item>
     
   </channel>

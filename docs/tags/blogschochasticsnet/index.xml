@@ -17,7 +17,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/stress-based-graph-layouts/</guid>
-      <description>I academically grew up among graph drawers, that is, computer scientists and mathematicians interested in deriving two-dimensional depictions of graphs. One may despicably call it pixel science, yet a lot of hard theoretical work is put into producing pretty graph layouts. Although I am not at all an expert in this field, I have learned a thing or two about that subject. As such, I have always been surprised why one of the (potentially) best algorithms is not implemented in</description>
+      <description>I academically grew up among graph drawers, that is, computer scientists and mathematicians interested in deriving two-dimensional depictions of graphs. One may despicably call it pixel science, yet a lot of hard theoretical work is put into producing pretty graph layouts. Although I am not at all an expert in this field, I have learned a thing or two about that&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fast-fiedler-vector-computatio/</guid>
-      <description>While this is easy to implement, it comes with the huge drawback of computing many unnecessary eigenvectors. We just need one, but we calculate all 100 in the example. The bigger the graph, the bigger the overheat from computing all eigenvectors. It would thus be useful to have a function that computes only a small number of eigenvectors, which should speed up the calculations considerably. The function below is an implementation to calculate the Fiedler vector for connected</description>
+      <description>While this is easy to implement, it comes with the huge drawback of computing many unnecessary eigenvectors. We just need one, but we calculate all 100 in the example. The bigger the graph, the bigger the overheat from computing all eigenvectors. It would thus be useful to have a function that computes only a small number of eigenvectors, which should speed up the calculations&amp;hellip;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-nba-player-data-iii/</guid>
-      <description>I decided to map the 70 stats into a 10 dimensional space. This “new” space supposedly preserves the intrinsic distance of the “old” space, but reduces the noise of the original data so that the differences and similarities of players become more evident. Now that we have embedded the players in a lower dimensional space, we calculate the distance among them based on this new space. Interestingly, the positions of players seem to be a strong indicator for</description>
+      <description>I decided to map the 70 stats into a 10 dimensional space. This “new” space supposedly preserves the intrinsic distance of the “old” space, but reduces the noise of the original data so that the differences and similarities of players become more evident. Now that we have embedded the players in a lower dimensional space, we calculate the distance among them based on this new&amp;hellip;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-nba-player-data-ii/</guid>
-      <description>The next step will be to reduce the noise of the data by considering only players that played more than 500 minutes in a season. This leaves us with 705 rows to analyze. To obtain our very own set of new positions, we will go through the following steps: Now we need to decide on how many components to keep. This is a very subjective matter and there does not seem to be a golden standard rule.</description>
+      <description>The next step will be to reduce the noise of the data by considering only players that played more than 500 minutes in a season. This leaves us with 705 rows to analyze. To obtain our very own set of new positions, we will go through the following steps: Now we need to decide on how many components to keep. This is a very subjective matter and there does not seem to be a golden standard&amp;hellip;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-nba-player-data-i/</guid>
-      <description>As a football (soccer) data enthusiast, I have always been jealous of the amount of available data for American sports. While much of the interesting football data is proprietary, you can can get virtually anything of interest for the NBA, MLB, NFL or NHL. In this section, we will develop a function which automatically scrapes all available player stats for a season and puts them in a nice</description>
+      <description>As a football (soccer) data enthusiast, I have always been jealous of the amount of available data for American sports. While much of the interesting football data is proprietary, you can can get virtually anything of interest for the NBA, MLB, NFL or NHL. In this section, we will develop a function which automatically scrapes all available player stats for a season and puts them in a nice&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-umap-in-r-with-rpython/</guid>
-      <description>UMAP is constructed from a theoretical framework based in Riemannian geometry and algebraic topology. The result is a practical scalable algorithm that applies to real world data. The UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time performance. This sounds promising, although the details are not so easy to comprehend. Below is a quick example using the infamous iris data.</description>
+      <description>UMAP is constructed from a theoretical framework based in Riemannian geometry and algebraic topology. The result is a practical scalable algorithm that applies to real world data. The UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/sample-entropy-with-rcpp/</guid>
-      <description>Simple. Problem is, I need to calculate the sample entropy of 150,000 time series. Can the function handle that in reasonable time? This translates to several hours for 150,000 time series, which is kind of not ok. I would prefer it a little faster. Perfect. Now let’s check if we gained some speed up. The speed up is actually ridiculous. Remember that the pracma code ran 40 seconds. The Rcpp code not even a tenth of a second.</description>
+      <description>Simple. Problem is, I need to calculate the sample entropy of 150,000 time series. Can the function handle that in reasonable time? This translates to several hours for 150,000 time series, which is kind of not ok. I would prefer it a little faster. Perfect. Now let’s check if we gained some speed up. The speed up is actually ridiculous. Remember that the pracma code ran 40&amp;hellip;</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/soms-and-ggplot/</guid>
-      <description>We will, however, only use a random sample of the 75,000 players, for computational convenience. We start by computing the SOM for the random sample. There we go! Now we can continue putting the players in the right node. I think you can see more easily how homogeneous the grid nodes are with this plot. This very much the same code as used in the package. Below is the standard plot.</description>
+      <description>We will, however, only use a random sample of the 75,000 players, for computational convenience. We start by computing the SOM for the random sample. There we go! Now we can continue putting the players in the right node. I think you can see more easily how homogeneous the grid nodes are with this plot. This very much the same code as used in the package. Below is the standard&amp;hellip;</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/traveling-beerdrinker-problem/</guid>
-      <description>Whenever I participate in a Science Slam, I try to work in an analysis of something typical for the respective city. My next gig will be in Munich, so there are two natural options: beer or football. In the end I choose both, but here I will focus on the former. In the next section, I briefly explain what we are going to do with the data. If you are already familiar with the traveling salesman problem, which in our case becomes the traveling beerdrinker problem, you can safely skip that</description>
+      <description>Whenever I participate in a Science Slam, I try to work in an analysis of something typical for the respective city. My next gig will be in Munich, so there are two natural options: beer or football. In the end I choose both, but here I will focus on the former. In the next section, I briefly explain what we are going to do with the&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-wild-r-package-appears-pokem/</guid>
-      <description>The package is only available via github so far. The Package comes with a dataset on 801 pokemon with a rich set of attributes. The package includes three main themes for ggplot. If you want to get nostalgic. If you want to get nostalgic, but not too much, use the Gameboy Advanced theme. Let’s look what all time favorite Pikachu looks like. Another thing we can do is to compare the starter Pokemon of all 7</description>
+      <description>The package is only available via github so far. The Package comes with a dataset on 801 pokemon with a rich set of attributes. The package includes three main themes for ggplot. If you want to get nostalgic. If you want to get nostalgic, but not too much, use the Gameboy Advanced theme. Let’s look what all time favorite Pikachu looks&amp;hellip;</description>
     </item>
     
   </channel>

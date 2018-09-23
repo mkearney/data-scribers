@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[The page speed or loading time is crucial to the success of your online store. The loading time is the total amount of time it takes the content on a specific page to load. The longer the loading time is, the lower the conversion rate. It is also one of the most important factors that Google considers to determine the search engine rankings. In the first post, we installed Magento 2 on our CentOS 7<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/configure-magento-2-to-use-varnish-on-centos-7/)
+The page speed or loading time is crucial to the success of your online store. The loading time is the total amount of time it takes the content on a specific page to load. The longer the loading time is, the lower the conversion rate. It is also one of the most important factors that Google considers to determine the search engine[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/configure-magento-2-to-use-varnish-on-centos-7/)
 

@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial explains how to use the command line to create and manage MySQL or MariaDB databases and users. MySQL is the most popular open-source relational database management system. MySQL server allows us to create numerous users and databases and grant appropriate privileges, so that users can access and manage databases. Before you begin Before you start with this tutorial, we are assuming that you already have MySQL or MariaDB server installed on your<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-manage-mysql-databases-and-users-from-the-command-line/)
+This tutorial explains how to use the command line to create and manage MySQL or MariaDB databases and users. MySQL is the most popular open-source relational database management system. MySQL server allows us to create numerous users and databases and grant appropriate privileges, so that users can access and manage[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-manage-mysql-databases-and-users-from-the-command-line/)
 

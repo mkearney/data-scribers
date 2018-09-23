@@ -10,5 +10,5 @@ tags:
   - linuxizecom
 ---
 
-[Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty simple. In this tutorial, we will walk through the steps required to install Python pip on CentOS 7 using the yum package manager and cover the basics of how to install and manage Python packages with<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-pip-on-centos-7/)
+Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty[... <i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-pip-on-centos-7/)
 

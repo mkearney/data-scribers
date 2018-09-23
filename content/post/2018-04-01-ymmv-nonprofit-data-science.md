@@ -12,5 +12,5 @@ tags:
   - jessemaegancom
 ---
 
-[Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization<i class="fas fa-external-link-alt"></i>](https://www.jessemaegan.com/post/ymmv-non-profit-data-science/)
+Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via[... <i class="fas fa-external-link-alt"></i>](https://www.jessemaegan.com/post/ymmv-non-profit-data-science/)
 

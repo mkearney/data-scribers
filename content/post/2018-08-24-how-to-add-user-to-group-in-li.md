@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial will show you how to add user to a group in Linux systems. Linux groups are organization units which are used to organize and administer user accounts in Linux. The main purpose of groups is to define a set of privileges such as reading, writing, or executing permission for a given resource that can be shared among the users within the group. In Linux, to add a user to a group you can use the usermod...<click to read more>](https://linuxize.com/post/how-to-add-user-to-group-in-linux/)
+[This tutorial will show you how to add user to a group in Linux systems. Linux groups are organization units which are used to organize and administer user accounts in Linux. The main purpose of groups is to define a set of privileges such as reading, writing, or executing permission for a given resource that can be shared among the users within the group. In Linux, to add a user to a group you can use the usermod<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-add-user-to-group-in-linux/)
 

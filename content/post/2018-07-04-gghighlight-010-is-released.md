@@ -9,5 +9,5 @@ tags:
   - yutanirbindio
 ---
 
-[gghighlight 0.1.0 is on CRAN now! One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous...<click to read more>](https://yutani.rbind.io/post/gghighlight-0-1-0-is-released/)
+[gghighlight 0.1.0 is on CRAN now! One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous<i class="fas fa-external-link-alt"></i>](https://yutani.rbind.io/post/gghighlight-0-1-0-is-released/)
 

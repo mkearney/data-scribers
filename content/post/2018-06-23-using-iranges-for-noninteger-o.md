@@ -9,5 +9,5 @@ tags:
   - rmflightgithubio
 ---
 
-[Lets actually test differences in speed by counting how many overlapping points there...<click to read more>](http://rmflight.github.io/post/iranges-for-non-integer-overlaps/)
+[Lets actually test differences in speed by counting how many overlapping points there<i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/iranges-for-non-integer-overlaps/)
 

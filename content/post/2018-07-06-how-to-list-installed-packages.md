@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[In this tutorial we will show you how to list and filter installed packages on Ubuntu. Knowing how to list installed packages on your Ubuntu system can be helpful in situations where you need to install the same packages on another machine or if you want to re-install your system. We will also show you how to check whether a specific package is installed, count installed packages and find out the version of an installed...<click to read more>](https://linuxize.com/post/how-to-list-installed-packages-on-ubuntu/)
+[In this tutorial we will show you how to list and filter installed packages on Ubuntu. Knowing how to list installed packages on your Ubuntu system can be helpful in situations where you need to install the same packages on another machine or if you want to re-install your system. We will also show you how to check whether a specific package is installed, count installed packages and find out the version of an installed<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-list-installed-packages-on-ubuntu/)
 

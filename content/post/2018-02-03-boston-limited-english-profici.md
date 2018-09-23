@@ -9,5 +9,5 @@ tags:
   - translatedmedicinecom
 ---
 
-[Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the area. So, I started with the Spanish LEP population here we...<click to read more>](https://translatedmedicine.netlify.com/post/boston-limited-english-proficiency-spanish/)
+[Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the area. So, I started with the Spanish LEP population here we<i class="fas fa-external-link-alt"></i>](https://translatedmedicine.netlify.com/post/boston-limited-english-proficiency-spanish/)
 

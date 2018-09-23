@@ -17,7 +17,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/simulating-ab-testing-and-expe/</guid>
-      <description>Simulating data is super useful for testing methods and data science interview prep Simulation is a great way to study statistics. If you’re picking up a method for the first time, (e.g., from the Udacity AB testing course) it’s too easy to convince yourself you know what’s going on without actually doing the math or programming. For example, when I see binary treatments and outcomes, I wonder “would I get the same answer if I do binomial proportion test&amp;hellip;</description>
+      <description>Simulating data is super useful for testing methods and data science interview prep Simulation is a great way to study statistics. If you’re picking up a method for the first time, (e.g., from the Udacity AB testing course) it’s too easy to convince yourself you know what’s going on without actually doing the math or programming. For example, when I see binary treatments and outcomes, I wonder “would I get the same answer if I do binomial proportion test</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/why-bother-with-covariates-in-/</guid>
-      <description>Motivation I’ll skip the part where I tell you why A/B testing is important. Just look at any data science team in tech, Microsoft, Airbnb, Twitter, Facebook, etc. etc. And I’m starting to see this statement often: The variance that pre-experiment data can explain in a metric is unrelated to any effects of the experiment and can, therefore, be removed. (Source: CUPED.) Economists spend their lives trying to get observational data to behave like they randomly assigned&amp;hellip;</description>
+      <description>Motivation I’ll skip the part where I tell you why A/B testing is important. Just look at any data science team in tech, Microsoft, Airbnb, Twitter, Facebook, etc. etc. And I’m starting to see this statement often: The variance that pre-experiment data can explain in a metric is unrelated to any effects of the experiment and can, therefore, be removed. (Source: CUPED.) Economists spend their lives trying to get observational data to behave like they randomly assigned</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/open-canada-audit-with-r/</guid>
-      <description>Motivation Open data is an important way to get information in the hands of citizens. Not only for government transparency, but also to make it easier for citizens to access data that has been available for years behind poor user interface design (don’t get me started on CANSIM). Canada has put this into words with open data principles and a plan for open government partnership; a good first step, otherwise how would I know how to judge&amp;hellip;</description>
+      <description>Motivation Open data is an important way to get information in the hands of citizens. Not only for government transparency, but also to make it easier for citizens to access data that has been available for years behind poor user interface design (don’t get me started on CANSIM). Canada has put this into words with open data principles and a plan for open government partnership; a good first step, otherwise how would I know how to judge</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/measuring-url-health-in-r/</guid>
-      <description>Motivation I’m working on auditing Canada’s open data portal. One issue that comes up: how to verify if a link to a dataset is useful? It may redirect, it may return 404, it may return an R error, or an R warning, and the otherwise great URL packages don’t have a simple way of getting all the possible errors and warnings in one command. Data Here are some possible URLs you’ll run in to; some work, some&amp;hellip;</description>
+      <description>Motivation I’m working on auditing Canada’s open data portal. One issue that comes up: how to verify if a link to a dataset is useful? It may redirect, it may return 404, it may return an R error, or an R warning, and the otherwise great URL packages don’t have a simple way of getting all the possible errors and warnings in one command. Data Here are some possible URLs you’ll run in to; some work, some</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/parliaments-gender-problem/</guid>
-      <description>(Preface: I’m 🇨🇦 but idk anything about parliament and dk what a hansard was before I started&amp;hellip;</description>
+      <description>(Preface: I’m 🇨🇦 but idk anything about parliament and dk what a hansard was before I started</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/jalen-v-shaq-as-baby-names/</guid>
-      <description>Was Jalen Rose really the first Jalen? He claims his mother was the first to make up the name, a combo of his father’s (the NBA player Jimmie Walker) and uncle’s (Leonard) names. And now we see them everywhere: Jalen Hurts (the Alabama QB that was benched in the national title game a few weeks ago) and Jalen Ramsey (Jags cornerback). Was he really? On the other hand, Shaq is an equally distinct name, what happened after he got&amp;hellip;</description>
+      <description>Was Jalen Rose really the first Jalen? He claims his mother was the first to make up the name, a combo of his father’s (the NBA player Jimmie Walker) and uncle’s (Leonard) names. And now we see them everywhere: Jalen Hurts (the Alabama QB that was benched in the national title game a few weeks ago) and Jalen Ramsey (Jags cornerback). Was he really? On the other hand, Shaq is an equally distinct name, what happened after he got</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-dog-diet-base-rate-fallacy/</guid>
-      <description>🐶&amp;gt;💩 I have a dog. He&amp;rsquo;s cute and crazy. And he has constant diarrhea (shout out to the pet parents and human baby parents out there, you get used to talking about 💩 real quick). It turns out part of the reason was his diet. The vet just shrugged when I asked how to fix it. Google suggested raw diets like RMB raw meaty bones or BARF bones and raw food, or biologically appropriate&amp;hellip;</description>
+      <description>🐶&amp;gt;💩 I have a dog. He&amp;rsquo;s cute and crazy. And he has constant diarrhea (shout out to the pet parents and human baby parents out there, you get used to talking about 💩 real quick). It turns out part of the reason was his diet. The vet just shrugged when I asked how to fix it. Google suggested raw diets like RMB raw meaty bones or BARF bones and raw food, or biologically appropriate</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-data-viz-that-asks-questions/</guid>
-      <description>I don’t design to answer questions, I design to ask them1 There are an incredible range of data visualizations. They’re great, really. Sometimes they are very pretty pictures. Which is great, unless the goal wasn’t to draw a pretty picture. If all you [the dataviz expert] have is a hammer [webgl/d3/gg], every problem&amp;rsquo;s a nail. &amp;ndash; But I find the most memorable (beyond “wow cool, next”) data visualizations take the Scher approach: the readers don’t find answers, they find&amp;hellip;</description>
+      <description>I don’t design to answer questions, I design to ask them1 There are an incredible range of data visualizations. They’re great, really. Sometimes they are very pretty pictures. Which is great, unless the goal wasn’t to draw a pretty picture. If all you [the dataviz expert] have is a hammer [webgl/d3/gg], every problem&amp;rsquo;s a nail. &amp;ndash; But I find the most memorable (beyond “wow cool, next”) data visualizations take the Scher approach: the readers don’t find answers, they find</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/friends-title-generator-part-2/</guid>
-      <description>We’re back on the Friends script grind. titles % select(-director, -writers) titles ## # A tibble: 236 x 5 ## season episode title rating n_ratings ## ## 1 1. 1. The One Where Monica Gets a Roommate 8.50 4317. ## 2 1. 2. The One with the Sonogram at the End 8.20 3107. ## 3 1. 3. The One with the Thumb 8.30&amp;hellip;</description>
+      <description>We’re back on the Friends script grind. titles % select(-director, -writers) titles ## # A tibble: 236 x 5 ## season episode title rating n_ratings ## ## 1 1. 1. The One Where Monica Gets a Roommate 8.50 4317. ## 2 1. 2. The One with the Sonogram at the End 8.20 3107. ## 3 1. 3. The One with the Thumb 8.30</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/random-sampling/</guid>
-      <description>The problem: you want to generate a random collection of letters. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) ## [1] &amp;ldquo;dlcz&amp;rdquo; Great. Now do it 10 times. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) %&amp;gt;% rep(8) ## [1] &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; 😖. Why am I like this. Ok, rep copies the object 8 times. It doesn’t draw 8 samples. So just write a&amp;hellip;</description>
+      <description>The problem: you want to generate a random collection of letters. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) ## [1] &amp;ldquo;dlcz&amp;rdquo; Great. Now do it 10 times. letters %&amp;gt;% sample(size = 4) %&amp;gt;% paste0(collapse = &amp;ldquo;&amp;rdquo;) %&amp;gt;% rep(8) ## [1] &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; &amp;ldquo;rwuj&amp;rdquo; 😖. Why am I like this. Ok, rep copies the object 8 times. It doesn’t draw 8 samples. So just write a</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/friends-title-generator-part-1/</guid>
-      <description>To fulfill my lifelong desire to write Friends scripts, I’ll start by writing a Friends episode title. By that I mean a script that writes a Friends episode title. If you’re like me, you want to be creative, but I want to study artists and writers and distill their creativity into a recipe, and then just repeat it over and over. Isn’t that how artistic success works? Start with episode data from the first Friends&amp;hellip;</description>
+      <description>To fulfill my lifelong desire to write Friends scripts, I’ll start by writing a Friends episode title. By that I mean a script that writes a Friends episode title. If you’re like me, you want to be creative, but I want to study artists and writers and distill their creativity into a recipe, and then just repeat it over and over. Isn’t that how artistic success works? Start with episode data from the first Friends</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/thank-you-blogdown-ppl/</guid>
-      <description>Hardest problem: understanding Hugo structures / getting a theme I’m happy with. Easiest problems: Netlify, emoji, gifs, actually writing posts (ty blogdown). A list of things I found useful when making this blog. Alison Presmanes Hill @apreshill: blogdown + these slides&amp;hellip;</description>
+      <description>Hardest problem: understanding Hugo structures / getting a theme I’m happy with. Easiest problems: Netlify, emoji, gifs, actually writing posts (ty blogdown). A list of things I found useful when making this blog. Alison Presmanes Hill @apreshill: blogdown + these slides</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/postselection-inference-on-fri/</guid>
-      <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”. But let’s&amp;hellip;</description>
+      <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”. But let’s</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/rvest-imdb-explore-friends-epi/</guid>
-      <description>I always wanted to be a scriptwriter. But my approach to doing creative things is “find the secret, program it, retire”. So what’s the secret to a successful Friends episode? [Really, I want to write/experience a gentle introduction to rvest, and later tidytext and language data science.] Get data I’ll get data on Friends episodes from IMDB via rvest (see here for tutorials and&amp;hellip;</description>
+      <description>I always wanted to be a scriptwriter. But my approach to doing creative things is “find the secret, program it, retire”. So what’s the secret to a successful Friends episode? [Really, I want to write/experience a gentle introduction to rvest, and later tidytext and language data science.] Get data I’ll get data on Friends episodes from IMDB via rvest (see here for tutorials and</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/functional-programming-rstats/</guid>
-      <description>. Your situation: you have a big data frame you want to apply a (pretty complex) function to each row you are on a Windows server For example, you know baby names are much cooler when they have no vowels and no uppercase letters. # a dataset of babynames library(babynames) # a function that drops vowels from names drop_vowels &amp;lt;- function(text) { gsub(&amp;rdquo;[aeiou]&amp;ldquo;, &amp;ldquo;&amp;rdquo;, text) } mutate_names &amp;lt;- function(tbl) { # names are cooler with no vowels and no capital&amp;hellip;</description>
+      <description>. Your situation: you have a big data frame you want to apply a (pretty complex) function to each row you are on a Windows server For example, you know baby names are much cooler when they have no vowels and no uppercase letters. # a dataset of babynames library(babynames) # a function that drops vowels from names drop_vowels &amp;lt;- function(text) { gsub(&amp;rdquo;[aeiou]&amp;ldquo;, &amp;ldquo;&amp;rdquo;, text) } mutate_names &amp;lt;- function(tbl) { # names are cooler with no vowels and no capital</description>
     </item>
     
   </channel>

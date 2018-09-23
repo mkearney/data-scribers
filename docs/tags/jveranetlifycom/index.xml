@@ -17,7 +17,7 @@
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dockerized-spacemacs-on-window/</guid>
-      <description>I was talking the other day of setting Spacemacs on Windows with no privileges. Sometimes it&amp;rsquo;s not even possible to do so, but you have Cygwin/mintty/babun + Docker engine on your machine for testing purposes. So here is the way of having a spacemacs running on Docker in no time. Main steps are: 1- install xinit and xorg on your *nix-terminal 2- set display and run dockerized spacemacs First step is easy, just install xinit and&amp;hellip;</description>
+      <description>I was talking the other day of setting Spacemacs on Windows with no privileges. Sometimes it&amp;rsquo;s not even possible to do so, but you have Cygwin/mintty/babun + Docker engine on your machine for testing purposes. So here is the way of having a spacemacs running on Docker in no time. Main steps are: 1- install xinit and xorg on your *nix-terminal 2- set display and run dockerized spacemacs First step is easy, just install xinit and</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/back-to-basics-emacs-ess-zsh-b/</guid>
-      <description>I think i&amp;rsquo;m a little bit &amp;ldquo;old school&amp;rdquo; or maybe sometimes you have to use the right tool for the task. Some time ago, i discovered I feel more productive staying away from the mouse, so terminals and text editors are my daily working environment from then. If you use linux, i&amp;rsquo;m preaching to the choir, and nearly the same if your work involved Mac OS. Sadly, sometimes you have to work using&amp;hellip;</description>
+      <description>I think i&amp;rsquo;m a little bit &amp;ldquo;old school&amp;rdquo; or maybe sometimes you have to use the right tool for the task. Some time ago, i discovered I feel more productive staying away from the mouse, so terminals and text editors are my daily working environment from then. If you use linux, i&amp;rsquo;m preaching to the choir, and nearly the same if your work involved Mac OS. Sadly, sometimes you have to work using</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-favourite-snippets/</guid>
-      <description>A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++&amp;hellip;.) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is easy. The graphical way is getting to Rstudio Tools &amp;gt; Global Options &amp;gt; Code &amp;gt; Enable Code Snippets (Edit&amp;hellip;</description>
+      <description>A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++&amp;hellip;.) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is easy. The graphical way is getting to Rstudio Tools &amp;gt; Global Options &amp;gt; Code &amp;gt; Enable Code Snippets (Edit</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-inotify-for-long-running/</guid>
-      <description>Sometimes your Rscript takes a long time to run. Not for computation requirements but for the kind of processes involved, for instance when calling APIs with time limits and such (I&amp;rsquo;d use big data architectures otherwise). Last week I was working on one of such projects, and one of the requirements was: the user must provide an excel file via web interface to Rserver, and then computation begins. At the end, the results file is emailed to&amp;hellip;</description>
+      <description>Sometimes your Rscript takes a long time to run. Not for computation requirements but for the kind of processes involved, for instance when calling APIs with time limits and such (I&amp;rsquo;d use big data architectures otherwise). Last week I was working on one of such projects, and one of the requirements was: the user must provide an excel file via web interface to Rserver, and then computation begins. At the end, the results file is emailed to</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-imposter-syndrome/</guid>
-      <description>There&amp;rsquo;s a well known issue about the psychology of the majority of people working on Data Science. They feel a&amp;hellip;</description>
+      <description>There&amp;rsquo;s a well known issue about the psychology of the majority of people working on Data Science. They feel a</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-package-finally-on-cran/</guid>
-      <description>Finally, my package &amp;ldquo;spanish&amp;rdquo; was ready for submission on CRAN and now it&amp;rsquo;s published! Not a great piece of work, just a place to gather a bunch of functions that I was unable to find anywhere else because are related to spanish data. Just one function right now, translating numerical quantities spelled in spanish to their integer counterparts. More functions in the coming months, related to Spanish Cadastral API, data cleaning, and&amp;hellip;</description>
+      <description>Finally, my package &amp;ldquo;spanish&amp;rdquo; was ready for submission on CRAN and now it&amp;rsquo;s published! Not a great piece of work, just a place to gather a bunch of functions that I was unable to find anywhere else because are related to spanish data. Just one function right now, translating numerical quantities spelled in spanish to their integer counterparts. More functions in the coming months, related to Spanish Cadastral API, data cleaning, and</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/great-packages-for-understandi/</guid>
-      <description>On the first steps of any project, the most usual task is to take a glimpse, figure how our data is distributed, and as fast as possible, be ready for next steps (wrangling and imputation). In the old days, I&amp;rsquo;ve built my own functions to accomplish this task, until some other people did this very same work distributing packages with this target in&amp;hellip;</description>
+      <description>On the first steps of any project, the most usual task is to take a glimpse, figure how our data is distributed, and as fast as possible, be ready for next steps (wrangling and imputation). In the old days, I&amp;rsquo;ve built my own functions to accomplish this task, until some other people did this very same work distributing packages with this target in</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/explainers/</guid>
-      <description>When working on Machine Learning for classification and predictive models we tend to use the well known packages as randomforest, caret, xgboost, gbm and such. The issue is when the user needs explanation about how we get these results. The easy part is to explain a Tree. Pretty neat is you use the FFTrees package, that gives a cool output that needs a very short explanation. When working with more complex algorithms we have no such option so you must work hard to understand what a SVM or GBM&amp;hellip;</description>
+      <description>When working on Machine Learning for classification and predictive models we tend to use the well known packages as randomforest, caret, xgboost, gbm and such. The issue is when the user needs explanation about how we get these results. The easy part is to explain a Tree. Pretty neat is you use the FFTrees package, that gives a cool output that needs a very short explanation. When working with more complex algorithms we have no such option so you must work hard to understand what a SVM or GBM</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/geocoding-with-r-and-mapzen/</guid>
-      <description>The most widely used service for Geocoding is Google Maps, but you&amp;rsquo;d hit the limits early in your project if you don&amp;rsquo;t have a paid account. I often place data on a map, so I need precise geocoding. It&amp;rsquo;s not unlikely you had to test some other geocodig options &amp;lsquo;til you get the budget for a Google Maps paid account. I&amp;rsquo;ve been in that situation myself a couple of&amp;hellip;</description>
+      <description>The most widely used service for Geocoding is Google Maps, but you&amp;rsquo;d hit the limits early in your project if you don&amp;rsquo;t have a paid account. I often place data on a map, so I need precise geocoding. It&amp;rsquo;s not unlikely you had to test some other geocodig options &amp;lsquo;til you get the budget for a Google Maps paid account. I&amp;rsquo;ve been in that situation myself a couple of</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/atom-for-r/</guid>
-      <description>Last week I was working on some projects involving Posix and R code. I tend to use Atom Editor for such code instead of Rstudio, and sometimes I think the one an only valid contender against Rstudio is Atom Editor. With Hydrogen, Linter, and R language Syntax/autocomplete addins is a full featured editor. Plus, dark mode rocks! One of the most useful features Atom has and Rstudio hasn&amp;rsquo;t is setting syncs via&amp;hellip;</description>
+      <description>Last week I was working on some projects involving Posix and R code. I tend to use Atom Editor for such code instead of Rstudio, and sometimes I think the one an only valid contender against Rstudio is Atom Editor. With Hydrogen, Linter, and R language Syntax/autocomplete addins is a full featured editor. Plus, dark mode rocks! One of the most useful features Atom has and Rstudio hasn&amp;rsquo;t is setting syncs via</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/my-docker-images-for-r/</guid>
-      <description>This month I reached the dreaded &amp;ldquo;2 hours limit&amp;rdquo; at Docker Hub on building my Docker images. The images are built but the message shown is &amp;ldquo;build cancelled&amp;rdquo;. You can still use it, but on the front desk, seems that I&amp;rsquo;m not doing a good job. Clearly, something to fix. So entered a hard refactoring week trying to make my images available again with no error&amp;hellip;</description>
+      <description>This month I reached the dreaded &amp;ldquo;2 hours limit&amp;rdquo; at Docker Hub on building my Docker images. The images are built but the message shown is &amp;ldquo;build cancelled&amp;rdquo;. You can still use it, but on the front desk, seems that I&amp;rsquo;m not doing a good job. Clearly, something to fix. So entered a hard refactoring week trying to make my images available again with no error</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/rocker-docker-for-rstats/</guid>
-      <description>Last Tuesday (October 24th) I was at Madrid R User Group to give a tech talk about using Docker for automating our setup with Rstudio. Using Rocker images for easy and quick deployment. Here, the slides hoping someone will find it useful&amp;hellip;.</description>
+      <description>Last Tuesday (October 24th) I was at Madrid R User Group to give a tech talk about using Docker for automating our setup with Rstudio. Using Rocker images for easy and quick deployment. Here, the slides hoping someone will find it useful.</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/spanish-stopwords-for-tidytext/</guid>
-      <description>A clever friend of mine says: the main programming language, is not Java or Python but English. So, when you&amp;rsquo;re searching for help, you&amp;rsquo;ll be much successful if searching in english. The main docs are in english, and if the topic is a bit obscure or not mainstream, you&amp;rsquo;ll be lucky if there&amp;rsquo;s some documents even in english. Searching for spanish documentation can lead you to bad translation if unlucky, or none at all at&amp;hellip;</description>
+      <description>A clever friend of mine says: the main programming language, is not Java or Python but English. So, when you&amp;rsquo;re searching for help, you&amp;rsquo;ll be much successful if searching in english. The main docs are in english, and if the topic is a bit obscure or not mainstream, you&amp;rsquo;ll be lucky if there&amp;rsquo;s some documents even in english. Searching for spanish documentation can lead you to bad translation if unlucky, or none at all at</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/selecting-packages-while-codin/</guid>
-      <description>Sometimes, you must choose a package to achieve some results while you&amp;rsquo;re coding. Let&amp;rsquo;s say, you&amp;rsquo;re wrangling data and noticed you need a quick way of getting the mode of a vector. Base R does not provides such a method/function, but we can get a package to make our life easier (mode is not a hard working function you can code, but let&amp;rsquo;s use it for the sake of the hint described&amp;hellip;</description>
+      <description>Sometimes, you must choose a package to achieve some results while you&amp;rsquo;re coding. Let&amp;rsquo;s say, you&amp;rsquo;re wrangling data and noticed you need a quick way of getting the mode of a vector. Base R does not provides such a method/function, but we can get a package to make our life easier (mode is not a hard working function you can code, but let&amp;rsquo;s use it for the sake of the hint described</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/calculating-date-diffs-per-eve/</guid>
-      <description>Sometimes you&amp;rsquo;d need to calculate rolling date diffs from a vector or a data frame when you&amp;rsquo;re manipulating repeated events from different categories. It&amp;rsquo;s very easy and I&amp;rsquo;ll show you three different methods. Using dplyr and pipes, easy peasy! Take into account that lubridate has three classes or different ways, to define time&amp;hellip;</description>
+      <description>Sometimes you&amp;rsquo;d need to calculate rolling date diffs from a vector or a data frame when you&amp;rsquo;re manipulating repeated events from different categories. It&amp;rsquo;s very easy and I&amp;rsquo;ll show you three different methods. Using dplyr and pipes, easy peasy! Take into account that lubridate has three classes or different ways, to define time</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-navigate-the-world-of-r/</guid>
-      <description>One of the most powerful features of R is the vast package echosystem. But there&amp;rsquo;s more than 11.000 packages just in CRAN, and a thousands more if you take GIT and Bioconductor into account, so the issue is to find the proper package for your needs. There’s a lot of sites to search for help if you need a hand when programming in R to choose a package. Here, a list of some of&amp;hellip;</description>
+      <description>One of the most powerful features of R is the vast package echosystem. But there&amp;rsquo;s more than 11.000 packages just in CRAN, and a thousands more if you take GIT and Bioconductor into account, so the issue is to find the proper package for your needs. There’s a lot of sites to search for help if you need a hand when programming in R to choose a package. Here, a list of some of</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/docker-for-r-first-steps/</guid>
-      <description>Sometimes, you need to replace your hard disk, upgrade your o.s. or recently bought a new laptop. When this time comes, it’s a real pain to get your Rstudio up and running with all you favourite packages and settings. Solomon Hykes, gave birth to Docker thinking on apps unattached to a machine, readily available, working the same no matter how you interface with them. i’m not going to explain what Docker is ’cause there’s a lot of information to read on the&amp;hellip;</description>
+      <description>Sometimes, you need to replace your hard disk, upgrade your o.s. or recently bought a new laptop. When this time comes, it’s a real pain to get your Rstudio up and running with all you favourite packages and settings. Solomon Hykes, gave birth to Docker thinking on apps unattached to a machine, readily available, working the same no matter how you interface with them. i’m not going to explain what Docker is ’cause there’s a lot of information to read on the</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/janitor-a-good-r-package-for-d/</guid>
-      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning&amp;hellip;</description>
+      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/processing-mail-using-r/</guid>
-      <description>After a long time seeking for R packages to connect to a remote mailbox (not Gmail), I’ve had to admit that there’s no such feature right now in R. Tested a pair of Python scripts but too much convoluted to my needs. It’s an incredible issue that having more than 10 thousand packages available on CRAN, none of them was suitable for my needs. Some readers suggested tm.plugin.mail added to tm package, but my core feature is to connect to a remote&amp;hellip;</description>
+      <description>After a long time seeking for R packages to connect to a remote mailbox (not Gmail), I’ve had to admit that there’s no such feature right now in R. Tested a pair of Python scripts but too much convoluted to my needs. It’s an incredible issue that having more than 10 thousand packages available on CRAN, none of them was suitable for my needs. Some readers suggested tm.plugin.mail added to tm package, but my core feature is to connect to a remote</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/filechoose-empowering-users/</guid>
-      <description>Sometimes when sharing your analysis, via Rmarkdown or the brand new NoteBook, the data file is located at the user’s computer, making unusable the default path from your own pc. But it’s easy to allow users to choose the data file to be imported and perform code execution using this file. it’s an easy command: myFile &amp;lt;- file.choose() a dialog will be opened for the user to browse file system and choose the&amp;hellip;</description>
+      <description>Sometimes when sharing your analysis, via Rmarkdown or the brand new NoteBook, the data file is located at the user’s computer, making unusable the default path from your own pc. But it’s easy to allow users to choose the data file to be imported and perform code execution using this file. it’s an easy command: myFile &amp;lt;- file.choose() a dialog will be opened for the user to browse file system and choose the</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/3d-chart-using-rgl-library/</guid>
-      <description>Iris is one of the most used data set in R. We’ve seen it in many formats, and broadly used for data manipulation. You could say that there’s nothing new to learn if someone use Iris. I was wondering if there’s something new, something never done to it before. Just a couple of clicks and found a way to have an interactive animated 3D chart. Just use the mouse pointer to drag and change perspective and move&amp;hellip;</description>
+      <description>Iris is one of the most used data set in R. We’ve seen it in many formats, and broadly used for data manipulation. You could say that there’s nothing new to learn if someone use Iris. I was wondering if there’s something new, something never done to it before. Just a couple of clicks and found a way to have an interactive animated 3D chart. Just use the mouse pointer to drag and change perspective and move</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/managing-installation-and-pack/</guid>
-      <description>Mentioned yesterday the useful library pacman , so a brief comment about it is due. But I&amp;rsquo;m going to recommend installR for managing updates first (packages and R itself). With a console command, and just for windows users, it&amp;rsquo;s so easy to keep your Rstudio&amp;hellip;</description>
+      <description>Mentioned yesterday the useful library pacman , so a brief comment about it is due. But I&amp;rsquo;m going to recommend installR for managing updates first (packages and R itself). With a console command, and just for windows users, it&amp;rsquo;s so easy to keep your Rstudio</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/easy-rstudio-addin-management-/</guid>
-      <description>When started using Rstudio (some time ago) I had been wondering where the Rstudio Addins were located. There’s a menu option, but It was empty on my machine. Seeking an easy way to install some addins I’ve found “addinslist” install.packages (“addinslist”) Or using pacman: pacman::p_load(addinslist) After installation, a wizard is available for everybody to choose among a lot of add-ins for Rstudio. Some of them extremely useful. You can watch videos of some of them&amp;hellip;</description>
+      <description>When started using Rstudio (some time ago) I had been wondering where the Rstudio Addins were located. There’s a menu option, but It was empty on my machine. Seeking an easy way to install some addins I’ve found “addinslist” install.packages (“addinslist”) Or using pacman: pacman::p_load(addinslist) After installation, a wizard is available for everybody to choose among a lot of add-ins for Rstudio. Some of them extremely useful. You can watch videos of some of them</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/fourfoldplot/</guid>
-      <description>Working with R, it’s high likely you end with a table regarding to dichotomous variables in your datasets no matter the specific project you’re involved in. I like the ConfusionMatrix function from caret package, that calculates a cross-tabulation of observed and predicted classes. Here an example from caret&amp;hellip;</description>
+      <description>Working with R, it’s high likely you end with a table regarding to dichotomous variables in your datasets no matter the specific project you’re involved in. I like the ConfusionMatrix function from caret package, that calculates a cross-tabulation of observed and predicted classes. Here an example from caret</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/some-essential-r-packages/</guid>
-      <description>For me, there’s a bunch of packages considered as “essential” ‘cause in the end, sooner or later I use them in any project that involved opening the RStudio regardless of the type of issue that I’m trying to address. At some point in the process I need to present preliminary data (knitr, rmarkdown, janitor), display graphs (ggplot2, ggthemes, ggThemeAssist, gridBase, grid, corrplot) or simply manipulate data (dplyr, tidyr,&amp;hellip;</description>
+      <description>For me, there’s a bunch of packages considered as “essential” ‘cause in the end, sooner or later I use them in any project that involved opening the RStudio regardless of the type of issue that I’m trying to address. At some point in the process I need to present preliminary data (knitr, rmarkdown, janitor), display graphs (ggplot2, ggthemes, ggThemeAssist, gridBase, grid, corrplot) or simply manipulate data (dplyr, tidyr,</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/first-thing-first-thanks/</guid>
-      <description>First things first. Question of etiquette, when starting a blog like this, mainly focused on Data Science with R, is to acknowledge all the people and teams that made possible that I&amp;rsquo;m writing this today. People from CRAN, Rstudio and the R consortium, for pushing forward the best language in the world for data analytics. A language I love from the first day. Today, many years ago, i still remember my goose bumps when writing R code for the first&amp;hellip;</description>
+      <description>First things first. Question of etiquette, when starting a blog like this, mainly focused on Data Science with R, is to acknowledge all the people and teams that made possible that I&amp;rsquo;m writing this today. People from CRAN, Rstudio and the R consortium, for pushing forward the best language in the world for data analytics. A language I love from the first day. Today, many years ago, i still remember my goose bumps when writing R code for the first</description>
     </item>
     
   </channel>

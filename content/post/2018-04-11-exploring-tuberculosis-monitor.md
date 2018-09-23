@@ -9,5 +9,5 @@ tags:
   - samabbottcouk
 ---
 
-[Looking through the other tibbles they all have the same structure - we can write a function using this knowledge to speed up data extraction. We now extract data for all remaining indicators, rename variables with meaningful names, join into a single tibble and then left join onto the TB incidence rate tibble. Data is only available aggregated for all ages and genders so we also drop these variables here. Finally we clean up Timeperiod into years. Next, we need to check the completeness of the...<click to read more>](http://www.samabbott.co.uk/post/cluster-england-tb/)
+[Looking through the other tibbles they all have the same structure - we can write a function using this knowledge to speed up data extraction. We now extract data for all remaining indicators, rename variables with meaningful names, join into a single tibble and then left join onto the TB incidence rate tibble. Data is only available aggregated for all ages and genders so we also drop these variables here. Finally we clean up Timeperiod into years. Next, we need to check the completeness of the<i class="fas fa-external-link-alt"></i>](http://www.samabbott.co.uk/post/cluster-england-tb/)
 

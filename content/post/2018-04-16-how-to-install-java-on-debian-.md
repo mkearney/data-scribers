@@ -10,5 +10,5 @@ tags:
   - linuxizecom
 ---
 
-[In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit...<click to read more>](https://linuxize.com/post/install-java-on-debian-9/)
+[In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/install-java-on-debian-9/)
 

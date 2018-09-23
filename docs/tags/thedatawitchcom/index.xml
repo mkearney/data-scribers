@@ -17,7 +17,7 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/if-youre-having-trouble-progra/</guid>
-      <description>When it comes to importing flat data files stored locally on your computer, such as csv’s or xls’s, you might be uncertain which method to use. It can also be hard to remember how to do it or the options that are available for various file types. Thankfully, RStudio will suggest code to use to import the&amp;hellip;</description>
+      <description>When it comes to importing flat data files stored locally on your computer, such as csv’s or xls’s, you might be uncertain which method to use. It can also be hard to remember how to do it or the options that are available for various file types. Thankfully, RStudio will suggest code to use to import the</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/plotting-multiple-lines-on-the/</guid>
-      <description>I wanted to plot the yearly sales of three different types of hybrid and electric vehicles on the same graph. The dataset was originally wide with years as columns and the types of cars as rows. After cleaning the data (making it skinner by switching cars to columns and years to rows) and saving it to the name “ev_csv_3”, it was time to plot. In order to have multiple y-axis lines, simply skip entering a y argument in the aes function in the first line of the ggplot&amp;hellip;</description>
+      <description>I wanted to plot the yearly sales of three different types of hybrid and electric vehicles on the same graph. The dataset was originally wide with years as columns and the types of cars as rows. After cleaning the data (making it skinner by switching cars to columns and years to rows) and saving it to the name “ev_csv_3”, it was time to plot. In order to have multiple y-axis lines, simply skip entering a y argument in the aes function in the first line of the ggplot</description>
     </item>
     
   </channel>

@@ -11,5 +11,5 @@ tags:
   - gtierneygithubio
 ---
 
-[I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or...<click to read more>](https://g-tierney.github.io/post/2018_09_mental_health/)
+[I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or<i class="fas fa-external-link-alt"></i>](https://g-tierney.github.io/post/2018_09_mental_health/)
 

@@ -9,5 +9,5 @@ tags:
   - blogdavisvaughancom
 ---
 
-[A number of resources I found useful while learning about...<click to read more>](https://blog.davisvaughan.com/post/copula-resources/)
+[A number of resources I found useful while learning about<i class="fas fa-external-link-alt"></i>](https://blog.davisvaughan.com/post/copula-resources/)
 

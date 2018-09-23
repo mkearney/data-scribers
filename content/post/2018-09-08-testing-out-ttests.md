@@ -10,5 +10,5 @@ tags:
   - jenrichmondrbindio
 ---
 
-[Here is what I learned about t-tests from doing the analysis below. The AFL data that comes with Dani’s book includes attendance and score information for home and away teams over regular and finals games for years and years. Disclaimer- I know nothing about AFL. Maybe we know that the average AFL team scores around 100 points in a game. Do home teams score more than 100? Interesting, on average yes, the home team does score more than...<click to read more>](http://jenrichmond.rbind.io/post/testing-out-t-tests/)
+[Here is what I learned about t-tests from doing the analysis below. The AFL data that comes with Dani’s book includes attendance and score information for home and away teams over regular and finals games for years and years. Disclaimer- I know nothing about AFL. Maybe we know that the average AFL team scores around 100 points in a game. Do home teams score more than 100? Interesting, on average yes, the home team does score more than<i class="fas fa-external-link-alt"></i>](http://jenrichmond.rbind.io/post/testing-out-t-tests/)
 

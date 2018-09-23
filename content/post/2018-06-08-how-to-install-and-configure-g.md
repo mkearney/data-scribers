@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[GitLab is a web-based open source Git repository manager written in Ruby including wiki, issue management, code review, monitoring and continuous integration and deployment. It enables developers to create, review, and deploy their projects. There are three different editions of GitLab available, Community Edition (CE), Enterprise Edition (EE), and a GitLab-hosted version. GitLab is the number one choice if you want to move away from...<click to read more>](https://linuxize.com/post/how-to-install-and-configure-gitlab-on-ubuntu-18-04/)
+[GitLab is a web-based open source Git repository manager written in Ruby including wiki, issue management, code review, monitoring and continuous integration and deployment. It enables developers to create, review, and deploy their projects. There are three different editions of GitLab available, Community Edition (CE), Enterprise Edition (EE), and a GitLab-hosted version. GitLab is the number one choice if you want to move away from<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-and-configure-gitlab-on-ubuntu-18-04/)
 

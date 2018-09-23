@@ -9,5 +9,5 @@ tags:
   - blogsourcedtech
 ---
 
-[When I was drowning in the sea of new information at NIPS 2016, colleagues pointed me at the excellent blog post by Erik Bernhardsson: The half-life of code & the ship of Theseus. It was very inspiring; Erik actually implemented something which was in my plans, too. The idea is simple: see how many lines in the source code remain unchanged over time. If you've not read that article yet, please do - I am moving...<click to read more>](https://blog.sourced.tech//blog.sourced.tech/post/hercules/)
+[When I was drowning in the sea of new information at NIPS 2016, colleagues pointed me at the excellent blog post by Erik Bernhardsson: The half-life of code & the ship of Theseus. It was very inspiring; Erik actually implemented something which was in my plans, too. The idea is simple: see how many lines in the source code remain unchanged over time. If you've not read that article yet, please do - I am moving<i class="fas fa-external-link-alt"></i>](https://blog.sourced.tech//blog.sourced.tech/post/hercules/)
 

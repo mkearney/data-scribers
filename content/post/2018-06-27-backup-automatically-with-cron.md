@@ -9,5 +9,5 @@ tags:
   - divingintogeneticsandgenomicsrbindio
 ---
 
-[cron is a Unix, solaris, Linux utility that allows tasks to be automatically run in the background at regular intervals by the cron daemon. Crontab (CRON TABle) is a file which contains the schedule of cron entries to be run and at specified times. File location varies by operating systems, See Crontab file location at the end of this document. crontab syntax It happens to me that my cron job is not running. I googled around and found a comprehensive checking list that you can do to...<click to read more>](https://divingintogeneticsandgenomics.rbind.io/post/crontab-for-backup/)
+[cron is a Unix, solaris, Linux utility that allows tasks to be automatically run in the background at regular intervals by the cron daemon. Crontab (CRON TABle) is a file which contains the schedule of cron entries to be run and at specified times. File location varies by operating systems, See Crontab file location at the end of this document. crontab syntax It happens to me that my cron job is not running. I googled around and found a comprehensive checking list that you can do to<i class="fas fa-external-link-alt"></i>](https://divingintogeneticsandgenomics.rbind.io/post/crontab-for-backup/)
 

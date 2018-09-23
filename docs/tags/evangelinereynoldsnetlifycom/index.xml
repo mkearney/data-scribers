@@ -17,7 +17,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/slow-ggplot/</guid>
-      <description>This post has lots in common with previous posts on “the layered presentation of graphics”. It is about building up plots, but now with a focus on this incramental change for teaching ggplot2. The rational is that observing the cause and effect of incremental change is easier to digest, and that the repetition in this approach means students have more chances to learn the ggplot2 functions. My recent tweet presented the technique: People reacted&amp;hellip;</description>
+      <description>This post has lots in common with previous posts on “the layered presentation of graphics”. It is about building up plots, but now with a focus on this incramental change for teaching ggplot2. The rational is that observing the cause and effect of incremental change is easier to digest, and that the repetition in this approach means students have more chances to learn the ggplot2 functions. My recent tweet presented the technique: People reacted</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-variance-and-stand/</guid>
-      <description>So this wasn’t on today’s to-do list, but there seems to be a cash prize associated with this rabbit hole due to this tweet: So here we go. I’m using the gapminder dataset which is ever-so-handy as it’s available in an R package (thanks Jenny Bryan). For the exercise I’ll just be looking at European countries in 2007, and focusing exclusively on the life expectancy variable. Let’s look at a plot of the data&amp;hellip;.</description>
+      <description>So this wasn’t on today’s to-do list, but there seems to be a cash prize associated with this rabbit hole due to this tweet: So here we go. I’m using the gapminder dataset which is ever-so-handy as it’s available in an R package (thanks Jenny Bryan). For the exercise I’ll just be looking at European countries in 2007, and focusing exclusively on the life expectancy variable. Let’s look at a plot of the data.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/national-anthems-sentiment-sco/</guid>
-      <description>This post, as indicated in the title, is about an interactive mapping of sentiment scores calculated for national anthems. Text analysis is of growing interest for political researchers, and I count myself among the interested! The interactive plot at the end of the post is, I think, an ideal introduction sentiment analysis. It highlights opportunities, and also, perhaps, some pitfalls. I want to give quick background on how this happens to be in my blog, to give plenty of credit where it is&amp;hellip;</description>
+      <description>This post, as indicated in the title, is about an interactive mapping of sentiment scores calculated for national anthems. Text analysis is of growing interest for political researchers, and I count myself among the interested! The interactive plot at the end of the post is, I think, an ideal introduction sentiment analysis. It highlights opportunities, and also, perhaps, some pitfalls. I want to give quick background on how this happens to be in my blog, to give plenty of credit where it is</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/layered-presentation-of-graphi/</guid>
-      <description>I think it is more straight forward than messing around with alpha. Several folks brought up geom_blank() having looked at the previous implementation, but I didn’t find it necessary in this case if you are using last_plot() which I think it makes sense to do in this context. Still, geom_blank is good to know about. This time around, I’ll do a little with labeling&amp;hellip;</description>
+      <description>I think it is more straight forward than messing around with alpha. Several folks brought up geom_blank() having looked at the previous implementation, but I didn’t find it necessary in this case if you are using last_plot() which I think it makes sense to do in this context. Still, geom_blank is good to know about. This time around, I’ll do a little with labeling</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/where-should-you-declare-aesth/</guid>
-      <description>Where should you declare aesthetics? Globally or in the geom_*() function? The answer to this question, in some sense is personal preference, because there are simply different ways to get the same job done in the ggplot architecture. My preference is declaring all aesthetic mappings as global unless there are conflicts. Below is an example that, I hope, will persuade you to my preference. We graph the increase in life expectancy by year for three&amp;hellip;</description>
+      <description>Where should you declare aesthetics? Globally or in the geom_*() function? The answer to this question, in some sense is personal preference, because there are simply different ways to get the same job done in the ggplot architecture. My preference is declaring all aesthetic mappings as global unless there are conflicts. Below is an example that, I hope, will persuade you to my preference. We graph the increase in life expectancy by year for three</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tuition-increases-for-tidy-tue/</guid>
-      <description>Here’s the code for my first Tidy Tuesday&amp;hellip;</description>
+      <description>Here’s the code for my first Tidy Tuesday</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/wide-data-to-long-using-the-ti/</guid>
-      <description>A wide data storage format is an efficient and compact way to store information. And this organization perhaps it makes data easier to inspect. We have wide monitors our laptops and destops. However, for visualization and analysis you generally need to transform this data from the wide format to a “tidy”, long format. We look at the case where just one variable is stored in a&amp;hellip;</description>
+      <description>A wide data storage format is an efficient and compact way to store information. And this organization perhaps it makes data easier to inspect. We have wide monitors our laptops and destops. However, for visualization and analysis you generally need to transform this data from the wide format to a “tidy”, long format. We look at the case where just one variable is stored in a</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/selection-effects/</guid>
-      <description>My limited goals: Perhaps the central difference between working in the Stata environment and in R is that in R you always have to be declaring which data frame you are working with. In Stata, you just have one active data frame and then you can refer to the variables by their names alone. The tidyverse tools with piping make working in R feel more like working in Stata in my&amp;hellip;</description>
+      <description>My limited goals: Perhaps the central difference between working in the Stata environment and in R is that in R you always have to be declaring which data frame you are working with. In Stata, you just have one active data frame and then you can refer to the variables by their names alone. The tidyverse tools with piping make working in R feel more like working in Stata in my</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/federalist-papers/</guid>
-      <description>Every couple of weeks I like to explore data that’s brand new to me. I anticipate a one-hour, one-off project. Usually this turns out to be a beautiful lie, and the projects chew up much more time. Still, this enticing time-line is pulling me into new projects from time to time. Earlier this week, I heard about the dispute of authorship of some of the Federalist papers. I mentally flagged the topic for one a one-hour,&amp;hellip;</description>
+      <description>Every couple of weeks I like to explore data that’s brand new to me. I anticipate a one-hour, one-off project. Usually this turns out to be a beautiful lie, and the projects chew up much more time. Still, this enticing time-line is pulling me into new projects from time to time. Earlier this week, I heard about the dispute of authorship of some of the Federalist papers. I mentally flagged the topic for one a one-hour,</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/covariance-a-visual-walk-throu/</guid>
-      <description>In a previous post, I’ve looked at walking through the calculation of variance and standard deviation, visualizing each step. This post is dedicated to the visualization of another statistic: covariance. Covariance is a measure of the joint variability of two random variables. And now lets apply the equation to the following case: Ready? Okay, now let’s walk through the calculation; there are 7 small steps: That’s&amp;hellip;</description>
+      <description>In a previous post, I’ve looked at walking through the calculation of variance and standard deviation, visualizing each step. This post is dedicated to the visualization of another statistic: covariance. Covariance is a measure of the joint variability of two random variables. And now lets apply the equation to the following case: Ready? Okay, now let’s walk through the calculation; there are 7 small steps: That’s</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/eat-near-the-big-ben-that-will/</guid>
-      <description>#MakeoverMonday is a fun data visualization initiative; most participants use Tableau as their preferred visualization tool. But I’ve used R and ggplot() and the organizers and participants have been very welcoming. (Recently, I’ve noticed an initiative for R has sprouted up — #TidyTuesday, with a focus on visualization and data&amp;hellip;</description>
+      <description>#MakeoverMonday is a fun data visualization initiative; most participants use Tableau as their preferred visualization tool. But I’ve used R and ggplot() and the organizers and participants have been very welcoming. (Recently, I’ve noticed an initiative for R has sprouted up — #TidyTuesday, with a focus on visualization and data</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/whats-the-igo-dataset/</guid>
-      <description>This webpage is meant provide students and the curious with an visual, explorable introduction to the dataset. The number of IGOs observed over the time period of 1815 to 2005 has dramatically increased. At the beginning of this period there were just a handful, but now they number more than 300. The number of IGO-country memberships, likewise has also grown dramatically. Individual country affiliations with IGOs numbers more than&amp;hellip;</description>
+      <description>This webpage is meant provide students and the curious with an visual, explorable introduction to the dataset. The number of IGOs observed over the time period of 1815 to 2005 has dramatically increased. At the beginning of this period there were just a handful, but now they number more than 300. The number of IGO-country memberships, likewise has also grown dramatically. Individual country affiliations with IGOs numbers more than</description>
     </item>
     
   </channel>

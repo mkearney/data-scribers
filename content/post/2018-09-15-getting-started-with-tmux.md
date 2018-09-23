@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This guide will go through the installation and basic usage of Tmux to get you up and running. What is tmux? Tmux is a terminal multiplexer an alternative to GNU Screen. In other words, it means that you can start a Tmux session and then open multiple windows inside that session. Each window occupies the entire screen and can be splitted into rectangular panes. With Tmux you can easily switch between multiple programs in one terminal, detach them and reattach them to a different...<click to read more>](https://linuxize.com/post/getting-started-with-tmux/)
+[This guide will go through the installation and basic usage of Tmux to get you up and running. What is tmux? Tmux is a terminal multiplexer an alternative to GNU Screen. In other words, it means that you can start a Tmux session and then open multiple windows inside that session. Each window occupies the entire screen and can be splitted into rectangular panes. With Tmux you can easily switch between multiple programs in one terminal, detach them and reattach them to a different<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/getting-started-with-tmux/)
 

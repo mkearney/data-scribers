@@ -9,5 +9,5 @@ tags:
   - leonawiczgithubioblog
 ---
 
-[Please do share your data analyst meme creations....<click to read more>](https://leonawicz.github.io/blog/post/2017-11-09-memery-0-3-0-on-cran/)
+[Please do share your data analyst meme creations.<i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/2017-11-09-memery-0-3-0-on-cran/)
 

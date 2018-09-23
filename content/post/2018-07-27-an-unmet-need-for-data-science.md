@@ -10,5 +10,5 @@ tags:
   - ab604netlifycom
 ---
 
-[The aim is to try to define the problem(s) a bit better and also a bit of a cry for help. I appreciate that none of this may be novel, but I needed to get it written down and out of my head. Learning R and about the related data science issues through the community has completely changed the way I work. Secondly, I've currently got four related soapbox issues: The first and second issues are the subject of this post as they are so closely...<click to read more>](https://ab604.netlify.com/post/unmet-data-science-training/)
+[The aim is to try to define the problem(s) a bit better and also a bit of a cry for help. I appreciate that none of this may be novel, but I needed to get it written down and out of my head. Learning R and about the related data science issues through the community has completely changed the way I work. Secondly, I've currently got four related soapbox issues: The first and second issues are the subject of this post as they are so closely<i class="fas fa-external-link-alt"></i>](https://ab604.netlify.com/post/unmet-data-science-training/)
 

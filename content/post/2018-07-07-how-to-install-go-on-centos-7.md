@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Go, often referred to as golang is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker, Hugo and Caddy, are written in Go. In this tutorial we will show you how to download and install Go on a CentOS 7 system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. How to Install Go At the time of writing this article, the latest stable version of Go is version...<click to read more>](https://linuxize.com/post/how-to-install-go-on-centos-7/)
+[Go, often referred to as golang is a modern open source programming language created by Google. Many popular applications, including Kubernetes, Docker, Hugo and Caddy, are written in Go. In this tutorial we will show you how to download and install Go on a CentOS 7 system. Prerequisites Before continuing with this tutorial, make sure you are logged in as a user with sudo privileges. How to Install Go At the time of writing this article, the latest stable version of Go is version<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-go-on-centos-7/)
 

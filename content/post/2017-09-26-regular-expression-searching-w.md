@@ -9,5 +9,5 @@ tags:
   - yonicdnetlifycom
 ---
 
-[This is great for long lists, since you can return multiple item simultaneously without needing to endlessly click items in a list! The shiny module works with two main...<click to read more>](https://yonicd.netlify.com/post/2017-09-26-regexselect/)
+[This is great for long lists, since you can return multiple item simultaneously without needing to endlessly click items in a list! The shiny module works with two main<i class="fas fa-external-link-alt"></i>](https://yonicd.netlify.com/post/2017-09-26-regexselect/)
 

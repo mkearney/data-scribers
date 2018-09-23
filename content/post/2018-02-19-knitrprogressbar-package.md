@@ -9,5 +9,5 @@ tags:
   - rmflightgithubio
 ---
 
-[These are pretty easy to setup and...<click to read more>](http://rmflight.github.io/post/knitrprogressbar/)
+[These are pretty easy to setup and<i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/knitrprogressbar/)
 

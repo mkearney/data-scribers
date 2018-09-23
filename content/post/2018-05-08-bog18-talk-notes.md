@@ -11,5 +11,5 @@ tags:
   - davemcggithubio
 ---
 
-[Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the...<click to read more>](http://davemcg.github.io/./post/bog18-notes/)
+[Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the<i class="fas fa-external-link-alt"></i>](http://davemcg.github.io/./post/bog18-notes/)
 

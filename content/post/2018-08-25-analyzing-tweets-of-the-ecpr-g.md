@@ -9,5 +9,5 @@ tags:
   - favstatsnetlifycom
 ---
 
-[This is a short notebook outlining the code used to scrape tweets related to the ECPR Conference 2018 in Hamburg. Load the necessary packages Lets first look at the data structure and column names. Twitter returns over 1,200 unique tweets. The top ten retweeted tweets. What was the best time to...<click to read more>](https://favstats.netlify.com/post/ecprconf18/)
+[This is a short notebook outlining the code used to scrape tweets related to the ECPR Conference 2018 in Hamburg. Load the necessary packages Lets first look at the data structure and column names. Twitter returns over 1,200 unique tweets. The top ten retweeted tweets. What was the best time to<i class="fas fa-external-link-alt"></i>](https://favstats.netlify.com/post/ecprconf18/)
 

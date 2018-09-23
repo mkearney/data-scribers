@@ -9,5 +9,5 @@ tags:
   - leonawiczgithubioblog
 ---
 
-[The key updates...<click to read more>](https://leonawicz.github.io/blog/post/apputils-0-5-0-released/)
+[The key updates<i class="fas fa-external-link-alt"></i>](https://leonawicz.github.io/blog/post/apputils-0-5-0-released/)
 

@@ -9,5 +9,5 @@ tags:
   - cattleguardgithubio
 ---
 
-[While killing time on Twitter the other day a Techlahoma tweet featuring WebVR and A-Frame grabbed my attention. If you know me, I’ve been excited about VR and AR for sometime (despite not having any VR or AR capable equipment). So, a color changing sphere that bounces is still fairly fun for me. A-Frame makes creating WebVR experiences extremely accessible. This could be great for artists and those who might otherwise miss out on the medium. For me, I’m always looking for the use...<click to read more>](https://cattleguard.github.io/2017/08/27/sarcastic-programming/)
+[While killing time on Twitter the other day a Techlahoma tweet featuring WebVR and A-Frame grabbed my attention. If you know me, I’ve been excited about VR and AR for sometime (despite not having any VR or AR capable equipment). So, a color changing sphere that bounces is still fairly fun for me. A-Frame makes creating WebVR experiences extremely accessible. This could be great for artists and those who might otherwise miss out on the medium. For me, I’m always looking for the use<i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2017/08/27/sarcastic-programming/)
 

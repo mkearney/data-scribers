@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly faster. And here is a more complete comparison of the fastest version with this additional...<click to read more>](https://www.rdatagen.net/post/first-blog-entry/)
+[Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly faster. And here is a more complete comparison of the fastest version with this additional<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/first-blog-entry/)
 

@@ -11,5 +11,5 @@ tags:
   - rdatagennet
 ---
 
-[Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to...<click to read more>](https://www.rdatagen.net/post/re-referencing-to-estimate-effects-when-there-is-interaction/)
+[Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/re-referencing-to-estimate-effects-when-there-is-interaction/)
 

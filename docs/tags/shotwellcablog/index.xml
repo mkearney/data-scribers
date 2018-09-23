@@ -17,7 +17,7 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/testing-machine-learning-model/</guid>
-      <description>Automated testing is a huge part of software development. Once a project reaches a certain level of complexity, the only way that it can be maintained is if it has a set of tests that identify the main functionality and allow you to verify that functionality is intact. Without tests, it’s difficult or impossible to identify where errors are occurring, and to fix those errors without causing further&amp;hellip;</description>
+      <description>Automated testing is a huge part of software development. Once a project reaches a certain level of complexity, the only way that it can be maintained is if it has a set of tests that identify the main functionality and allow you to verify that functionality is intact. Without tests, it’s difficult or impossible to identify where errors are occurring, and to fix those errors without causing further</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/advice-for-nontraditional-data/</guid>
-      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years&amp;hellip;</description>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/why-you-should-work-remotely-e/</guid>
-      <description>My last job was as a data scientist at Upworthy, which is a 100% remote company. Prior to starting the position I was worried about whether I could be happy and productive on a remote team. I wondered how project planning would work, whether it would be terribly lonely, and how communication would function when things got&amp;hellip;</description>
+      <description>My last job was as a data scientist at Upworthy, which is a 100% remote company. Prior to starting the position I was worried about whether I could be happy and productive on a remote team. I wondered how project planning would work, whether it would be terribly lonely, and how communication would function when things got</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/data-visualization-and-ui-desi/</guid>
-      <description>While I think the basic idea of the initial app was a good one, the implementation had a lot of problems. The user interface was confusing and there were a lot of counter-intuitive design decisions. Since I was the source of most of these decisions, I thought the release of version 2.0 of the app would be a good opportunity to write down some of the things I’ve&amp;hellip;</description>
+      <description>While I think the basic idea of the initial app was a good one, the implementation had a lot of problems. The user interface was confusing and there were a lot of counter-intuitive design decisions. Since I was the source of most of these decisions, I thought the release of version 2.0 of the app would be a good opportunity to write down some of the things I’ve</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/the-power-of-tidy-data/</guid>
-      <description>One problem with data analysis is that you often need to make critical decisions before you really understand the problem. Since data analysis is always somewhat exploratory you can often make some bad decisions in the early stages of your analysis which can cause lots of problems later on. Maybe at some point you thought that storing your data in a nested list was a good idea, but curse yourself when you try to draw a graph with that&amp;hellip;</description>
+      <description>One problem with data analysis is that you often need to make critical decisions before you really understand the problem. Since data analysis is always somewhat exploratory you can often make some bad decisions in the early stages of your analysis which can cause lots of problems later on. Maybe at some point you thought that storing your data in a nested list was a good idea, but curse yourself when you try to draw a graph with that</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/r-for-excel-users/</guid>
-      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials market. When I first started, I remember not knowing how to anything, but after a few months I became fairly proficient with the tool, and was able to build all sorts of useful&amp;hellip;</description>
+      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials market. When I first started, I remember not knowing how to anything, but after a few months I became fairly proficient with the tool, and was able to build all sorts of useful</description>
     </item>
     
   </channel>

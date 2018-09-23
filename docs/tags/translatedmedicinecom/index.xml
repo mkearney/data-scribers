@@ -17,7 +17,7 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/is-your-hospital-closer-to-a-d/</guid>
-      <description>This post is inspired by #tidytuesday. Coffee is the life force for many healthcare workers. Here too, the age old question arises: Dunkin or Starbucks? Sometimes, it just comes down to proximity. We need coffee and we need it now! So, I decided to see what chain was closest to each hospital in Massachusetts. Data Sources Starbucks locations: Dunkin locations: Hospital locations: The Packages library(tidyverse) library(tidycensus) library(jsonlite) library(geosphere) The Data starb =&amp;hellip;</description>
+      <description>This post is inspired by #tidytuesday. Coffee is the life force for many healthcare workers. Here too, the age old question arises: Dunkin or Starbucks? Sometimes, it just comes down to proximity. We need coffee and we need it now! So, I decided to see what chain was closest to each hospital in Massachusetts. Data Sources Starbucks locations: Dunkin locations: Hospital locations: The Packages library(tidyverse) library(tidycensus) library(jsonlite) library(geosphere) The Data starb =</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/where-are-the-students-who-are/</guid>
-      <description>Inspired by my wife’s work in educating students who are English Learners, this post visualizes the English Learners across Massachusetts. The Massachusetts Department of Education publishes a large amount of education data from across the state. It provides yearly percentages of enrolled student and their characteristics, including English Learners. English Learners are defined as students age 3-21 who were not born in the US or whose native language is not&amp;hellip;</description>
+      <description>Inspired by my wife’s work in educating students who are English Learners, this post visualizes the English Learners across Massachusetts. The Massachusetts Department of Education publishes a large amount of education data from across the state. It provides yearly percentages of enrolled student and their characteristics, including English Learners. English Learners are defined as students age 3-21 who were not born in the US or whose native language is not</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/boston-limited-english-profici/</guid>
-      <description>Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the area. So, I started with the Spanish LEP population here we&amp;hellip;</description>
+      <description>Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the area. So, I started with the Spanish LEP population here we</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/the-digital-divide-in-the-us/</guid>
-      <description>With the release of the American Community Survey, there was an opportunity to take a look at the digital divide in 2016. I was inspired to make a tilegram map similar to those create by NPR. I used the tilegramsR package by Bhaskar Karambelkar. First, here are the packages for the&amp;hellip;</description>
+      <description>With the release of the American Community Survey, there was an opportunity to take a look at the digital divide in 2016. I was inspired to make a tilegram map similar to those create by NPR. I used the tilegramsR package by Bhaskar Karambelkar. First, here are the packages for the</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/crimes-in-somerville-time-seri/</guid>
-      <description>I recently spotted a time series heat map. So I started on a quest to make my own. Luckily, I found some local data to start with: crimes in Somerville, MA. This data set includes selected crimes in Somerville from 2005-2017. Handy Packages library(tidyverse) library(lubridate) library(ggthemes) library(plotly) Getting the Data somerville = read.csv(&amp;ldquo;Police_-_Selected_Criminal_Incidents.csv&amp;rdquo;) Cleaning the Data Remove 2018 data since the year has just&amp;hellip;</description>
+      <description>I recently spotted a time series heat map. So I started on a quest to make my own. Luckily, I found some local data to start with: crimes in Somerville, MA. This data set includes selected crimes in Somerville from 2005-2017. Handy Packages library(tidyverse) library(lubridate) library(ggthemes) library(plotly) Getting the Data somerville = read.csv(&amp;ldquo;Police_-_Selected_Criminal_Incidents.csv&amp;rdquo;) Cleaning the Data Remove 2018 data since the year has just</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/income-along-the-boston-t-blue/</guid>
-      <description>In the first three parts of this series, we looked at the changes in income along the The Orange Line, The Red Line, and The Green Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For the final post, we take a look at the The Blue Line. Below you will see median household income along each of the four lines of the Boston Blue&amp;hellip;</description>
+      <description>In the first three parts of this series, we looked at the changes in income along the The Orange Line, The Red Line, and The Green Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For the final post, we take a look at the The Blue Line. Below you will see median household income along each of the four lines of the Boston Blue</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/income-along-the-boston-t-gree/</guid>
-      <description>In the first two parts of this series, we looked at the changes in income along the The Orange Line and The Red Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For this post, we take a look at the The Green Line. Below you will see median household income along each of the four lines of the Boston Green&amp;hellip;</description>
+      <description>In the first two parts of this series, we looked at the changes in income along the The Orange Line and The Red Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For this post, we take a look at the The Green Line. Below you will see median household income along each of the four lines of the Boston Green</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/income-along-the-boston-t-red-/</guid>
-      <description>In the first part of this series, I went through my approach for creating a New Yorker inspired visualization of income along The Orange Line on the Boston T. For this post, we take a look at the The Red Line. Below you will see median household income along both lines of the Boston Red Line. Ashmont/Mattapan Red Line ,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Median Household Income Along the Red Line&amp;hellip;</description>
+      <description>In the first part of this series, I went through my approach for creating a New Yorker inspired visualization of income along The Orange Line on the Boston T. For this post, we take a look at the The Red Line. Below you will see median household income along both lines of the Boston Red Line. Ashmont/Mattapan Red Line ,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Median Household Income Along the Red Line</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/income-along-the-boston-t-oran/</guid>
-      <description>As a native New Yorker, I was recently intrigued by a visualization of household income in NY highlight inequality ( New Yorker ). Having lived in Boston for going on 9 years, I’ve started to call this place home. Could I make a similar representation of income in Boston? That was my challenge! PART I: The Orange Line To start I used these&amp;hellip;</description>
+      <description>As a native New Yorker, I was recently intrigued by a visualization of household income in NY highlight inequality ( New Yorker ). Having lived in Boston for going on 9 years, I’ve started to call this place home. Could I make a similar representation of income in Boston? That was my challenge! PART I: The Orange Line To start I used these</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/call-me-anytime/</guid>
-      <description>It was two o’clock on a Tuesday afternoon and Abigail* was in the emergency room for the third time this month. I was able to step away from the day-to-day struggles of the general inpatient medicine floors to see her in the emergency department. I had promised to keep her out of the hospital, and I had failed again. As I entered the commotion of the emergency room, I scanned above each door looking for room 33, Abigail’s&amp;hellip;</description>
+      <description>It was two o’clock on a Tuesday afternoon and Abigail* was in the emergency room for the third time this month. I was able to step away from the day-to-day struggles of the general inpatient medicine floors to see her in the emergency department. I had promised to keep her out of the hospital, and I had failed again. As I entered the commotion of the emergency room, I scanned above each door looking for room 33, Abigail’s</description>
     </item>
     
   </channel>

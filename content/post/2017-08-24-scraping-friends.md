@@ -9,5 +9,5 @@ tags:
   - batteriesnotincludedrbindio
 ---
 
-[Now that we’re set up and ready to go, let’s take a moment to think through what we need to do in order to build out this data set. 1. Download all scripts with identifying season and episode data 2. Parse all scripts into speaker and line 3. Clean up any errors 4. Celebrate good times Seems simple enough. Let’s get started. Since we want to be respectful of the site we’re pulling data from, we need to make sure that we’re only scraping what we need as few times as...<click to read more>](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/)
+[Now that we’re set up and ready to go, let’s take a moment to think through what we need to do in order to build out this data set. 1. Download all scripts with identifying season and episode data 2. Parse all scripts into speaker and line 3. Clean up any errors 4. Celebrate good times Seems simple enough. Let’s get started. Since we want to be respectful of the site we’re pulling data from, we need to make sure that we’re only scraping what we need as few times as<i class="fas fa-external-link-alt"></i>](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/)
 

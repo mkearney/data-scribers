@@ -10,5 +10,5 @@ tags:
   - eddjberrynetlifycom
 ---
 
-[This post details some tips and tricks for writing a thesis/dissertation using the bookdown R package by Yihui Xie. The idea of this post is to supplement the fantastic book that Xie has written about bookdown, which can be found here. I will assume that readers know a bit about R Markdown; a decent knowledge of R Markdown is going to be essential to using bookdown. The first thing to highlight is that I’m not a pandoc or LaTeX...<click to read more>](https://eddjberry.netlify.com/post/writing-your-thesis-with-bookdown/)
+[This post details some tips and tricks for writing a thesis/dissertation using the bookdown R package by Yihui Xie. The idea of this post is to supplement the fantastic book that Xie has written about bookdown, which can be found here. I will assume that readers know a bit about R Markdown; a decent knowledge of R Markdown is going to be essential to using bookdown. The first thing to highlight is that I’m not a pandoc or LaTeX<i class="fas fa-external-link-alt"></i>](https://eddjberry.netlify.com/post/writing-your-thesis-with-bookdown/)
 

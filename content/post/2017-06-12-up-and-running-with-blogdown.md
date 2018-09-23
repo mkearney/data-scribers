@@ -9,5 +9,5 @@ tags:
   - apreshillrbindio
 ---
 
-[Before you start, I recommend reading the following: Finally, I did not want to learn more about a lot of things! For instance, the nitty gritty of static site generators and how domain names work. I am a new mom, and just in the process of writing all this up, I filled up my tea mug twice with ice cold water, and filled my water bottle with scalding hot water. So, where offered, I followed the advice of Yihui and...<click to read more>](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+[Before you start, I recommend reading the following: Finally, I did not want to learn more about a lot of things! For instance, the nitty gritty of static site generators and how domain names work. I am a new mom, and just in the process of writing all this up, I filled up my tea mug twice with ice cold water, and filled my water bottle with scalding hot water. So, where offered, I followed the advice of Yihui and<i class="fas fa-external-link-alt"></i>](https://alison.rbind.io/post/up-and-running-with-blogdown/)
 

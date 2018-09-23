@@ -17,7 +17,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/coursera-rprogramming/</guid>
-      <description>Over the past several weeks I have been helping students, career professionals, and people of other backgrounds learn R. During this time one this has become apparent, people are teaching the old paradigm of R and avoiding the tidyverse all together. The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for fine particulate matter (PM) air pollution at 332 locations in the United&amp;hellip;</description>
+      <description>Over the past several weeks I have been helping students, career professionals, and people of other backgrounds learn R. During this time one this has become apparent, people are teaching the old paradigm of R and avoiding the tidyverse all together. The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for fine particulate matter (PM) air pollution at 332 locations in the United</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-geniusr/</guid>
-      <description>The functions in this package enable easy access of individual song lyrics, album tracklists, and lyrics to whole albums. Load the package: This returns a tidy data frame with three columns: In this example I will extract 3 albums from Kendrick Lamar and Sara Bareilles (two of my favotire musicians). The first step is to create the tibble with artists and album&amp;hellip;</description>
+      <description>The functions in this package enable easy access of individual song lyrics, album tracklists, and lyrics to whole albums. Load the package: This returns a tidy data frame with three columns: In this example I will extract 3 albums from Kendrick Lamar and Sara Bareilles (two of my favotire musicians). The first step is to create the tibble with artists and album</description>
     </item>
     
   </channel>

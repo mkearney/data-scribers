@@ -9,5 +9,5 @@ tags:
   - rdatagennet
 ---
 
-[Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than...<click to read more>](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
+[Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
 

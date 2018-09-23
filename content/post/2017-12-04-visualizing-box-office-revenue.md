@@ -9,5 +9,5 @@ tags:
   - blogrdatalu
 ---
 
-[In this post, I describe the different steps leading to the treemap: First of all we read the data. The dataset looks better. As you have seen on top of this post. We want to design a treemap chart to visualize box-office revenue by genre. Let’s see how many movie genres are present in the data frame: There are 224 combinations of genres, which is way too many combinations. We need to reduce them in a way that each movie has 2 genres at the most: A main genre and a...<click to read more>](http://www.blog.rdata.lu/post/2017-12-04-visualizing-box-office-revenue-by-genre/)
+[In this post, I describe the different steps leading to the treemap: First of all we read the data. The dataset looks better. As you have seen on top of this post. We want to design a treemap chart to visualize box-office revenue by genre. Let’s see how many movie genres are present in the data frame: There are 224 combinations of genres, which is way too many combinations. We need to reduce them in a way that each movie has 2 genres at the most: A main genre and a<i class="fas fa-external-link-alt"></i>](http://www.blog.rdata.lu/post/2017-12-04-visualizing-box-office-revenue-by-genre/)
 

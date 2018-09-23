@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/an-academic-discussion-on-twit/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-set-up-ssh-keys-on-ubun/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/overscoping-and-eval/</loc>
     <lastmod>2018-09-22T00:00:00+00:00</lastmod>
   </url>
@@ -5119,7 +5129,7 @@
   
   <url>
     <loc>/tags/djnavarronet/</loc>
-    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5293,7 +5303,7 @@
   
   <url>
     <loc>/tags/linuxizecom/</loc>
-    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

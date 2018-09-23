@@ -10,5 +10,5 @@ tags:
   - sohlichgithubio
 ---
 
-[In the previous post the bootstrap of Angular project on Electron platform was described. In this one, the process of application packaging will be presented. One of the benefits of Electron is that it runs on all major platforms. Each platform has naturally its needs regarding to creating the distribution package. Fortunately, the packaging and all that stuff do not need to be done manually. There are few tools which will help you. But first things...<click to read more>](https://sohlich.github.io/post/angular_electron_2/)
+[In the previous post the bootstrap of Angular project on Electron platform was described. In this one, the process of application packaging will be presented. One of the benefits of Electron is that it runs on all major platforms. Each platform has naturally its needs regarding to creating the distribution package. Fortunately, the packaging and all that stuff do not need to be done manually. There are few tools which will help you. But first things<i class="fas fa-external-link-alt"></i>](https://sohlich.github.io/post/angular_electron_2/)
 

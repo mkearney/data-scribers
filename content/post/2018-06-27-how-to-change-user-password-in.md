@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[This tutorial will show you how to change a user password in Linux. We will also cover how to force a user to change their password the next time they login. The examples provided in the tutorial should work with any Linux distribution. Introduction To change the password of a user account in Linux you can use the passwd command. The encrypted users passwords as well as other password related information are stored in the /etc/shadow...<click to read more>](https://linuxize.com/post/how-to-change-user-password-in-linux/)
+[This tutorial will show you how to change a user password in Linux. We will also cover how to force a user to change their password the next time they login. The examples provided in the tutorial should work with any Linux distribution. Introduction To change the password of a user account in Linux you can use the passwd command. The encrypted users passwords as well as other password related information are stored in the /etc/shadow<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-change-user-password-in-linux/)
 

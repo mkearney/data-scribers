@@ -8,3 +8,7 @@ publishDir = "docs"
 assetDir = "static/assets"
 paginate = 50
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

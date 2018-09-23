@@ -9,5 +9,5 @@ tags:
   - divingintogeneticsandgenomicsrbindio
 ---
 
-[I used my google account. soft link does not work for me... After your transfer is complete, you need to tell the NCBI. After file transfer is complete, please e-mail GEO with the following information: - GEO account username (tangming2005@gmail.com); - Names of the directory and files deposited; - Public release date (required - up to 3 years from now - see FAQ). for paired-end sequencing data. the xls sheet requires you to fill in the average insert size and the...<click to read more>](https://divingintogeneticsandgenomics.rbind.io/post/how-to-upload-files-to-geo/)
+[I used my google account. soft link does not work for me... After your transfer is complete, you need to tell the NCBI. After file transfer is complete, please e-mail GEO with the following information: - GEO account username (tangming2005@gmail.com); - Names of the directory and files deposited; - Public release date (required - up to 3 years from now - see FAQ). for paired-end sequencing data. the xls sheet requires you to fill in the average insert size and the<i class="fas fa-external-link-alt"></i>](https://divingintogeneticsandgenomics.rbind.io/post/how-to-upload-files-to-geo/)
 

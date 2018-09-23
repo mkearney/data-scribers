@@ -10,5 +10,5 @@ tags:
   - eddjberrynetlifycom
 ---
 
-[This post grew out of some notes I was making on the differences between SparkR and sparklyr, two packages that provide an R interface to Spark. I’m currently working on a project where I’ll be interacting with data in Spark, so wanted to get a sense of options using R. Those unfamiliar with sparklyr might benefit from reading the first half of this previous post, where I cover the idea of having R objects for connections to Spark...<click to read more>](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)
+[This post grew out of some notes I was making on the differences between SparkR and sparklyr, two packages that provide an R interface to Spark. I’m currently working on a project where I’ll be interacting with data in Spark, so wanted to get a sense of options using R. Those unfamiliar with sparklyr might benefit from reading the first half of this previous post, where I cover the idea of having R objects for connections to Spark<i class="fas fa-external-link-alt"></i>](https://eddjberry.netlify.com/post/2017-12-05-sparkr-vs-sparklyr/)
 

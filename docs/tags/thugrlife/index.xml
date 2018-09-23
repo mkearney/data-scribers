@@ -17,7 +17,7 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/prep-your-hugo-blog-for-rblogg/</guid>
-      <description>Get Ready for R-Bloggers There are lots of reasons to write a technical blog. Getting practice writing, thinking through ideas, etc. are all fulfilling reasons on their own. But life is always better with an audience. Well, not always. But for a blog it is. R-bloggers is a great platform to find an audience and share your writing with the world. If you’re writing with Hugo via blogdown though, there’s a hurdle you’ll need to&amp;hellip;</description>
+      <description>Get Ready for R-Bloggers There are lots of reasons to write a technical blog. Getting practice writing, thinking through ideas, etc. are all fulfilling reasons on their own. But life is always better with an audience. Well, not always. But for a blog it is. R-bloggers is a great platform to find an audience and share your writing with the world. If you’re writing with Hugo via blogdown though, there’s a hurdle you’ll need to</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mgsub-v10-launched-to-cran/</guid>
-      <description>Official CRAN Launch Earlier this week I submitted mgsub to CRAN and after a couple of days it was accepted! Now it’s live! I’m very excited to have published my second package and one that I think is a more valuable contribution than my first. The package represented a few firsts for me. The first package that I wrote tests for, checked code coverage on and for which I wrote a&amp;hellip;</description>
+      <description>Official CRAN Launch Earlier this week I submitted mgsub to CRAN and after a couple of days it was accepted! Now it’s live! I’m very excited to have published my second package and one that I think is a more valuable contribution than my first. The package represented a few firsts for me. The first package that I wrote tests for, checked code coverage on and for which I wrote a</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/one-year-of-trump-executive-or/</guid>
-      <description>First Year Less than a week ago marked the end of Trump’s first year in office. Back in August I posted code on analyzing the issuing of Executive Orders. Today I’m just going to provide updated commentary. Notes The Federal Register takes time to actually publish Executive Orders. This window is variable but has a median value of 5 days. That’s why this post is coming out on the 25th instead of the&amp;hellip;</description>
+      <description>First Year Less than a week ago marked the end of Trump’s first year in office. Back in August I posted code on analyzing the issuing of Executive Orders. Today I’m just going to provide updated commentary. Notes The Federal Register takes time to actually publish Executive Orders. This window is variable but has a median value of 5 days. That’s why this post is coming out on the 25th instead of the</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/safe-multiple-string-substitut/</guid>
-      <description>String substitutions Note - the package I wrote was originally inspired by a challenge a coworker tossed out. It also happened to provide a solution to this SO question which was really cool! Substitutions in strings are best handled with regular expressions which are an amazingly powerful and flexible tool. Regular expressions are a way of expressing patterns in strings. In the example below I want to find the four letters, “dopa” and replace them with&amp;hellip;</description>
+      <description>String substitutions Note - the package I wrote was originally inspired by a challenge a coworker tossed out. It also happened to provide a solution to this SO question which was really cool! Substitutions in strings are best handled with regular expressions which are an amazingly powerful and flexible tool. Regular expressions are a way of expressing patterns in strings. In the example below I want to find the four letters, “dopa” and replace them with</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/how-many-random-numbers-does-i/</guid>
-      <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1. Pick a uniformly random number in [0,1] and repeat until the sum of the numbers picked is&amp;hellip;</description>
+      <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1. Pick a uniformly random number in [0,1] and repeat until the sum of the numbers picked is</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/the-value-of-learning-the-basi/</guid>
-      <description>Learning the hard way About a month ago David Robinson made a tweet that I both agree and disagree with. New blog post: “Don&amp;rsquo;t teach students the hard way first” https://t.co/X2drh1tQe5 #rstats pic.twitter.com/GXAEpx5eET — David Robinson (@drob) September 21, 2017 His example is simple enough - you’re going to a friends new house and are provided with directions involving a lot of back roads, twisting and turning. When you arrive you’re told to just take the highway back because it’s&amp;hellip;</description>
+      <description>Learning the hard way About a month ago David Robinson made a tweet that I both agree and disagree with. New blog post: “Don&amp;rsquo;t teach students the hard way first” https://t.co/X2drh1tQe5 #rstats pic.twitter.com/GXAEpx5eET — David Robinson (@drob) September 21, 2017 His example is simple enough - you’re going to a friends new house and are provided with directions involving a lot of back roads, twisting and turning. When you arrive you’re told to just take the highway back because it’s</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/fun-math-problems/</guid>
-      <description>Meme Me Up, Scotty! Every now and then on Twitter or Facebook there’s a math problem posted which challenges users to get the right answer. They’re almost always based on order of operations and the reason most people get them wrong is because they don’t remember that elementary rule. It’s hard to blame most people since a lot of math that’s used day to day doesn’t require order of&amp;hellip;</description>
+      <description>Meme Me Up, Scotty! Every now and then on Twitter or Facebook there’s a math problem posted which challenges users to get the right answer. They’re almost always based on order of operations and the reason most people get them wrong is because they don’t remember that elementary rule. It’s hard to blame most people since a lot of math that’s used day to day doesn’t require order of</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/bucket-list/</guid>
-      <description>Bucket List Most people end up having a list of things they’d like to do in their life before they ‘kick the bucket’. Often this is made up of big events - a foreign trip, some daredevil adventure. But sometimes that list is a bunch of little things. R I’ve published a package on CRAN - readOffice - which was designed to enable the importing of text from modern Microsoft Word and PowerPoint&amp;hellip;</description>
+      <description>Bucket List Most people end up having a list of things they’d like to do in their life before they ‘kick the bucket’. Often this is made up of big events - a foreign trip, some daredevil adventure. But sometimes that list is a bunch of little things. R I’ve published a package on CRAN - readOffice - which was designed to enable the importing of text from modern Microsoft Word and PowerPoint</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/purrr-tricks-with-all-subset-r/</guid>
-      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a&amp;hellip;</description>
+      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/automatic-twitter-updates/</guid>
-      <description>Automatic Twitter Updates One of my goals with this site is to have as much as possible to automatic. Because it’s a static site, each time I write a post I have to copy all the files (new and updated) to the hosting location so you, the illustrious reader, can enjoy the content I create. Then, I need to promote it. This involves the laborious process of switching to my pinned Chrome tab with Twitter open and writing a tweet remember to paste in a&amp;hellip;</description>
+      <description>Automatic Twitter Updates One of my goals with this site is to have as much as possible to automatic. Because it’s a static site, each time I write a post I have to copy all the files (new and updated) to the hosting location so you, the illustrious reader, can enjoy the content I create. Then, I need to promote it. This involves the laborious process of switching to my pinned Chrome tab with Twitter open and writing a tweet remember to paste in a</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/legislate-by-executive-order/</guid>
-      <description>Executive Orders in the USA From Wikipedia: Executive orders are orders issued by United States Presidents and directed towards officers and agencies of the U.S. federal government. Executive orders have the full force of law, based on the authority derived from statute or the Constitution itself. The ability to make such orders is also based on express or implied Acts of Congress that delegate to the President some degree of discretionary power (delegated&amp;hellip;</description>
+      <description>Executive Orders in the USA From Wikipedia: Executive orders are orders issued by United States Presidents and directed towards officers and agencies of the U.S. federal government. Executive orders have the full force of law, based on the authority derived from statute or the Constitution itself. The ability to make such orders is also based on express or implied Acts of Congress that delegate to the President some degree of discretionary power (delegated</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/making-this-blog/</guid>
-      <description>blogdown magic I made this blog using the magic of blogdown which is a framework that joins together a few technologies to make ‘static websites’ RMarkdown Hugo RMarkdown RMarkdown is an interface from R to markdown which is a way of marking up a text document with formating so other tools can convert it from a text file to a pretty format (PDF, Word, etc.) It’s a great way of documenting your code by having your narrative right next to the code that generated the&amp;hellip;</description>
+      <description>blogdown magic I made this blog using the magic of blogdown which is a framework that joins together a few technologies to make ‘static websites’ RMarkdown Hugo RMarkdown RMarkdown is an interface from R to markdown which is a way of marking up a text document with formating so other tools can convert it from a text file to a pretty format (PDF, Word, etc.) It’s a great way of documenting your code by having your narrative right next to the code that generated the</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/theta-joins-in-r/</guid>
-      <description>Theta Joins Common Joins If you’re like me, you’re looking at that diagram wondering what the heck is a ‘theta’ join?! Well, that’s the formal name for a ‘fuzzy’ join. In fact, you can read about all the different join types in this StackOverflow answer. An equi join is the most common kind of join because it leverages keys in your data source which are essential in a SQL&amp;hellip;</description>
+      <description>Theta Joins Common Joins If you’re like me, you’re looking at that diagram wondering what the heck is a ‘theta’ join?! Well, that’s the formal name for a ‘fuzzy’ join. In fact, you can read about all the different join types in this StackOverflow answer. An equi join is the most common kind of join because it leverages keys in your data source which are essential in a SQL</description>
     </item>
     
   </channel>

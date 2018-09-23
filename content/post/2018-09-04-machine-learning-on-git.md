@@ -9,5 +9,5 @@ tags:
   - blogsourcedtech
 ---
 
-[This post follows up the first one from January 2017. Please read it if you wonder why Hercules was named Hercules, what is a line burndown plot and how everything started. In short: Hercules is an open source Go command line application and a framework to mine and analyze Git repositories. It is based on go-git, the implementation of Git client and server in pure...<click to read more>](https://blog.sourced.tech//blog.sourced.tech/post/hercules.v4/)
+[This post follows up the first one from January 2017. Please read it if you wonder why Hercules was named Hercules, what is a line burndown plot and how everything started. In short: Hercules is an open source Go command line application and a framework to mine and analyze Git repositories. It is based on go-git, the implementation of Git client and server in pure<i class="fas fa-external-link-alt"></i>](https://blog.sourced.tech//blog.sourced.tech/post/hercules.v4/)
 

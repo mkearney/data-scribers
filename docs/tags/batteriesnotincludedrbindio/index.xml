@@ -17,7 +17,7 @@
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dockerterm/</guid>
-      <description>As seen in the clip above, this initial proof of concept works well, at least on my machine. There are some definite drawbacks and limitations that need to be addressed, but for the most part, I’m pleased with the initial functionality. Now, this integration between Docker and RStudio has some major (current) limitations. First and foremost, RStudio and the Docker container aren’t really aware of each&amp;hellip;</description>
+      <description>As seen in the clip above, this initial proof of concept works well, at least on my machine. There are some definite drawbacks and limitations that need to be addressed, but for the most part, I’m pleased with the initial functionality. Now, this integration between Docker and RStudio has some major (current) limitations. First and foremost, RStudio and the Docker container aren’t really aware of each</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/the-future-is-bright/</guid>
-      <description>I’ve been a (usually) silent observer of the rstats community via twitter. Occasionally I’ll jump in and share thoughts or retweet something I found particularly helpful or inspiring, but for the most part I just sit back and observe. I’ve always admired the fact that, online, the R community seems helpful, kind, and aware of one another. This conference only further solidified that view. I made it a point during the conference to find and talk to individuals who are R rockstars in my&amp;hellip;</description>
+      <description>I’ve been a (usually) silent observer of the rstats community via twitter. Occasionally I’ll jump in and share thoughts or retweet something I found particularly helpful or inspiring, but for the most part I just sit back and observe. I’ve always admired the fact that, online, the R community seems helpful, kind, and aware of one another. This conference only further solidified that view. I made it a point during the conference to find and talk to individuals who are R rockstars in my</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-friends/</guid>
-      <description>Now that we’re set up and ready to go, let’s take a moment to think through what we need to do in order to build out this data set. 1. Download all scripts with identifying season and episode data 2. Parse all scripts into speaker and line 3. Clean up any errors 4. Celebrate good times Seems simple enough. Let’s get started. Since we want to be respectful of the site we’re pulling data from, we need to make sure that we’re only scraping what we need as few times as&amp;hellip;</description>
+      <description>Now that we’re set up and ready to go, let’s take a moment to think through what we need to do in order to build out this data set. 1. Download all scripts with identifying season and episode data 2. Parse all scripts into speaker and line 3. Clean up any errors 4. Celebrate good times Seems simple enough. Let’s get started. Since we want to be respectful of the site we’re pulling data from, we need to make sure that we’re only scraping what we need as few times as</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/double-dispatch-of-s3-method/</guid>
-      <description>So far, so good. But, this won&amp;rsquo;t work&amp;hellip; Here&amp;rsquo;s examples to show them clearly: If you cannot wait, use S4. S4 can naturally do double dispatch because their method dispatch depends on the whole combination of types of the&amp;hellip;</description>
+      <description>So far, so good. But, this won&amp;rsquo;t work&amp;hellip; Here&amp;rsquo;s examples to show them clearly: If you cannot wait, use S4. S4 can naturally do double dispatch because their method dispatch depends on the whole combination of types of the</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gghighlight-010-is-released/</guid>
-      <description>gghighlight 0.1.0 is on CRAN now! One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous&amp;hellip;</description>
+      <description>gghighlight 0.1.0 is on CRAN now! One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/reintroduction-to-gghighlight/</guid>
-      <description>But, please forget about that gghighlight; gghighlight has become far more powerful and simple! So, let me re-introduce about gghighlight. What do you do when you explore a data that is too large to print? OK, good. But, what about ggplot2? For a data that has too many series, it is almost impossible to identify a series by its colour as their differences are so subtle. In my understanding, one of the main purposes of visualization is to get the overview of a&amp;hellip;</description>
+      <description>But, please forget about that gghighlight; gghighlight has become far more powerful and simple! So, let me re-introduce about gghighlight. What do you do when you explore a data that is too large to print? OK, good. But, what about ggplot2? For a data that has too many series, it is almost impossible to identify a series by its colour as their differences are so subtle. In my understanding, one of the main purposes of visualization is to get the overview of a</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/plot-geomsf-on-openstreetmap-t/</guid>
-      <description>Clearly display license attribution. For &amp;ldquo;Technical Usage Requirements&amp;rdquo; section, I have to read this more carefully. Let&amp;rsquo;s look at the requirements one by one. Valid HTTP User-Agent identifying application. Faking another app&amp;rsquo;s User-Agent WILL get you blocked. If known, a valid HTTP Referer. DO NOT send no-cache headers. (&amp;ldquo;Cache-Control: no-cache&amp;rdquo;, &amp;ldquo;Pragma: no-cache&amp;rdquo; etc.) I do nothing other than swearing I&amp;rsquo;ll never use this&amp;hellip;</description>
+      <description>Clearly display license attribution. For &amp;ldquo;Technical Usage Requirements&amp;rdquo; section, I have to read this more carefully. Let&amp;rsquo;s look at the requirements one by one. Valid HTTP User-Agent identifying application. Faking another app&amp;rsquo;s User-Agent WILL get you blocked. If known, a valid HTTP Referer. DO NOT send no-cache headers. (&amp;ldquo;Cache-Control: no-cache&amp;rdquo;, &amp;ldquo;Pragma: no-cache&amp;rdquo; etc.) I do nothing other than swearing I&amp;rsquo;ll never use this</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/icymi/</guid>
-      <description>Then, I did a quick poll (sorry, in Japanese) about how well known is the&amp;hellip;</description>
+      <description>Then, I did a quick poll (sorry, in Japanese) about how well known is the</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dplyr-doesnt-provide-full-supp/</guid>
-      <description>I&amp;rsquo;ve seen sooo many (duplicated) issues on this topic were opened on dplyr&amp;rsquo;s repo and lubridate&amp;rsquo;s repo. So, apparently, the content of this post won&amp;rsquo;t stay useful over time. But, for now, I feel this temporal &amp;ldquo;known issue&amp;rdquo; should be well-known, at least among those who suffers from this issue. I hope this post will be outdated&amp;hellip;</description>
+      <description>I&amp;rsquo;ve seen sooo many (duplicated) issues on this topic were opened on dplyr&amp;rsquo;s repo and lubridate&amp;rsquo;s repo. So, apparently, the content of this post won&amp;rsquo;t stay useful over time. But, for now, I feel this temporal &amp;ldquo;known issue&amp;rdquo; should be well-known, at least among those who suffers from this issue. I hope this post will be outdated</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/an-example-usage-of-ggplotadd/</guid>
-      <description>You may wonder why this can&amp;rsquo;t be written like this: Let me explain a bit. If ggplot2 were designed pipe-friendly, this Let&amp;rsquo;s remember this&amp;hellip;</description>
+      <description>You may wonder why this can&amp;rsquo;t be written like this: Let me explain a bit. If ggplot2 were designed pipe-friendly, this Let&amp;rsquo;s remember this</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/publish-r-markdown-to-medium-v/</guid>
-      <description>mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click &amp;ldquo;Publish&amp;rdquo;: After successfully uploading the content to Medium, the addin launches a web browser and jumps to the&amp;hellip;</description>
+      <description>mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click &amp;ldquo;Publish&amp;rdquo;: After successfully uploading the content to Medium, the addin launches a web browser and jumps to the</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/how-not-to-knit-all-rmd-files-/</guid>
-      <description>Compiling all Rmd files is &amp;ldquo;safe&amp;rdquo; in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some package. But, it may be time-consuming and can be a problem for those who have a lot of .Rmd files. (I guess this script is incomplete to handle htmlwidgets correctly. I will improve this someday&amp;hellip;) If we leave the protection of blogdown, we have to face with the complexity of paths by&amp;hellip;</description>
+      <description>Compiling all Rmd files is &amp;ldquo;safe&amp;rdquo; in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some package. But, it may be time-consuming and can be a problem for those who have a lot of .Rmd files. (I guess this script is incomplete to handle htmlwidgets correctly. I will improve this someday&amp;hellip;) If we leave the protection of blogdown, we have to face with the complexity of paths by</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/dplyr/</guid>
-      <description>Some of my friends didn&amp;rsquo;t aware that dplyr now accepts characters. Did you? For example, this expression can be also written in this way: or in this way: You may want to write some code that selects columns programmatically using&amp;hellip;</description>
+      <description>Some of my friends didn&amp;rsquo;t aware that dplyr now accepts characters. Did you? For example, this expression can be also written in this way: or in this way: You may want to write some code that selects columns programmatically using</description>
     </item>
     
     <item>

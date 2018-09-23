@@ -10,5 +10,5 @@ tags:
   - jakekauppcom
 ---
 
-[The strength of R doesn’t lie in a single programming paradigm, it lies within the warm, welcoming and ecclectic community of useRs. Like anyone who gets introduced to R, you start to look on the web for other like minded people. Upon doing so, you find a vibrant community with very knowledgeable and helpful people. Bob Rudis (@hrbrmstr) is one of those people, doling out R wisdom, visualization, typography, culinary and infosec goodness on the...<click to read more>](http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/)
+[The strength of R doesn’t lie in a single programming paradigm, it lies within the warm, welcoming and ecclectic community of useRs. Like anyone who gets introduced to R, you start to look on the web for other like minded people. Upon doing so, you find a vibrant community with very knowledgeable and helpful people. Bob Rudis (@hrbrmstr) is one of those people, doling out R wisdom, visualization, typography, culinary and infosec goodness on the<i class="fas fa-external-link-alt"></i>](http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/)
 

@@ -17,7 +17,7 @@
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-london-crime-with-r-/</guid>
-      <description>Here’s a sweet collection of packages required to run this analysis: First thing&amp;hellip;</description>
+      <description>Here’s a sweet collection of packages required to run this analysis: First thing</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/trump-vs-clinton-interpretable/</guid>
-      <description>As always, let&amp;rsquo;s start with loading necessary packages. Quick glimpse on the class balance, which looks very good, BTW. Finally, let&amp;rsquo;s clean the data a little: select only tweets text and author, change column names to something more readable and remove URLs from text. In order to build the model, we need to tokenize our data and transform it to Document Term Matrices. In this example, I&amp;rsquo;ll use word-level tokens: Now, time for the&amp;hellip;</description>
+      <description>As always, let&amp;rsquo;s start with loading necessary packages. Quick glimpse on the class balance, which looks very good, BTW. Finally, let&amp;rsquo;s clean the data a little: select only tweets text and author, change column names to something more readable and remove URLs from text. In order to build the model, we need to tokenize our data and transform it to Document Term Matrices. In this example, I&amp;rsquo;ll use word-level tokens: Now, time for the</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/end-of-year-thoughts/</guid>
-      <description>I&amp;rsquo;m a list-person. Totally. I love ticking off boxes, feeling that I&amp;rsquo;ve achieved a lot every day. At the same time, working full time in London (meaning work + non-negligible commute) while having two small children (2 and 4 years old) leaves me with very little spare time (usually in the evenings). Fortunately, my work as a data scientist and this blog give me lots of opportunities to solve problems and deliver something tangible in defined time&amp;hellip;</description>
+      <description>I&amp;rsquo;m a list-person. Totally. I love ticking off boxes, feeling that I&amp;rsquo;ve achieved a lot every day. At the same time, working full time in London (meaning work + non-negligible commute) while having two small children (2 and 4 years old) leaves me with very little spare time (usually in the evenings). Fortunately, my work as a data scientist and this blog give me lots of opportunities to solve problems and deliver something tangible in defined time</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/automated-and-unmysterious-mac/</guid>
-      <description>First, let&amp;rsquo;s load the data: .. and do some data cleaning: change column names, get rid of the order in factor levels and remove rows with empty cells: That&amp;rsquo;s better! Now, let&amp;rsquo;s set up the local H2O instance&amp;hellip; &amp;hellip; and split the data into training, validation and testing datasets. Neural network wins, followed by gradient boost models - no surprise here! Finally, you can use the Leader to predict labels of the testing set: &amp;hellip; and more detailed performance of the&amp;hellip;</description>
+      <description>First, let&amp;rsquo;s load the data: .. and do some data cleaning: change column names, get rid of the order in factor levels and remove rows with empty cells: That&amp;rsquo;s better! Now, let&amp;rsquo;s set up the local H2O instance&amp;hellip; &amp;hellip; and split the data into training, validation and testing datasets. Neural network wins, followed by gradient boost models - no surprise here! Finally, you can use the Leader to predict labels of the testing set: &amp;hellip; and more detailed performance of the</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/friendships-among-top-rtwitter/</guid>
-      <description>After loading my precious packages&amp;hellip; Now, let&amp;rsquo;s extract some useful information about those users: You&amp;rsquo;ll notice, that created data frame holds information about number of followers, friends (users they follow), lists they belong to, number of tweets (statuses) or how many times sometimes marked those tweets as their favourite. And these variables I use for building my &amp;lsquo;top score&amp;rsquo;: I simply calculate a percentile for each of those variables and sum it&amp;hellip;</description>
+      <description>After loading my precious packages&amp;hellip; Now, let&amp;rsquo;s extract some useful information about those users: You&amp;rsquo;ll notice, that created data frame holds information about number of followers, friends (users they follow), lists they belong to, number of tweets (statuses) or how many times sometimes marked those tweets as their favourite. And these variables I use for building my &amp;lsquo;top score&amp;rsquo;: I simply calculate a percentile for each of those variables and sum it</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/animated-plots-as-part-of-expl/</guid>
-      <description>Next, I only need to append identified files&amp;hellip; &amp;hellip; and we can now start! Let&amp;rsquo;s have a look at crime types and their frequencies: And a quick peek into sample sizes&amp;hellip; Not bad for two lines of code, ey! Not bad at all! We can now identify the crime hotspots, but there&amp;rsquo;s no way we can infer anything about the crime&amp;hellip;</description>
+      <description>Next, I only need to append identified files&amp;hellip; &amp;hellip; and we can now start! Let&amp;rsquo;s have a look at crime types and their frequencies: And a quick peek into sample sizes&amp;hellip; Not bad for two lines of code, ey! Not bad at all! We can now identify the crime hotspots, but there&amp;rsquo;s no way we can infer anything about the crime</description>
     </item>
     
   </channel>

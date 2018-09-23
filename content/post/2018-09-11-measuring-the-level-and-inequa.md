@@ -9,5 +9,5 @@ tags:
   - martakolczynskanetlifycom
 ---
 
-[Political participation in the ESS Country levels of political participation Inequality of political participation Democracy indicators Economic inequality Matrix scatter plots How to measure political inequality? The Variaties of Democracy project (V-Dem) has a set of political equality indicators that capture the extent to which political power is distributed according to wealth and income, membership in a particular social group, gender or sexual orientation (cf. V-Dem Codebook...<click to read more>](https://martakolczynska.com/post/participation-inequality-ess/)
+[Political participation in the ESS Country levels of political participation Inequality of political participation Democracy indicators Economic inequality Matrix scatter plots How to measure political inequality? The Variaties of Democracy project (V-Dem) has a set of political equality indicators that capture the extent to which political power is distributed according to wealth and income, membership in a particular social group, gender or sexual orientation (cf. V-Dem Codebook<i class="fas fa-external-link-alt"></i>](https://martakolczynska.com/post/participation-inequality-ess/)
 

@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[Let's Encrypt is a free, automated and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let's Encrypt are valid for 90 days from the issue date and are trusted by almost all browsers today. In this tutorial, we will cover the steps necessary to install a free Let's Encrypt SSL certificate on a CentOS 7 server running Apache as a web server. We will use the certbot utility to obtain and renew Let's Encrypt...<click to read more>](https://linuxize.com/post/secure-apache-with-let-s-encrypt-on-centos-7/)
+[Let's Encrypt is a free, automated and open certificate authority developed by the Internet Security Research Group (ISRG). Certificates issued by Let's Encrypt are valid for 90 days from the issue date and are trusted by almost all browsers today. In this tutorial, we will cover the steps necessary to install a free Let's Encrypt SSL certificate on a CentOS 7 server running Apache as a web server. We will use the certbot utility to obtain and renew Let's Encrypt<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/secure-apache-with-let-s-encrypt-on-centos-7/)
 

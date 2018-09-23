@@ -9,5 +9,5 @@ tags:
   - sjfoxgithubio
 ---
 
-[Let’s also confirm that both models give the same...<click to read more>](https://sjfox.github.io/post/2017-04-19-timesteps-lsoda-and-epidemiological-models/)
+[Let’s also confirm that both models give the same<i class="fas fa-external-link-alt"></i>](https://sjfox.github.io/post/2017-04-19-timesteps-lsoda-and-epidemiological-models/)
 

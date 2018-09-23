@@ -9,5 +9,5 @@ tags:
   - blogzenggyucomen
 ---
 
-[This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for setting up a git...<click to read more>](https://blog.zenggyu.com/en/post/2018-08-27/setting-up-a-git-repository/)
+[This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for setting up a git<i class="fas fa-external-link-alt"></i>](https://blog.zenggyu.com/en/post/2018-08-27/setting-up-a-git-repository/)
 

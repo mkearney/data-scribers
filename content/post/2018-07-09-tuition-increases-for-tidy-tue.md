@@ -9,5 +9,5 @@ tags:
   - evangelinereynoldsnetlifycom
 ---
 
-[Here’s the code for my first Tidy Tuesday...<click to read more>](https://evangelinereynolds.netlify.com/post/tuition-for-tidy-tuesday/)
+[Here’s the code for my first Tidy Tuesday<i class="fas fa-external-link-alt"></i>](https://evangelinereynolds.netlify.com/post/tuition-for-tidy-tuesday/)
 

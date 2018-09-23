@@ -17,7 +17,7 @@
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/i-heart-emoji-statistics/</guid>
-      <description>We learned so much from Hamdan Azhar&amp;rsquo;s awesome Prismoji tutorial after seeing his wonderful talk at the Southern Data Science Conference. In order to better aquaint ourselves with messy twitter data, we performed a simple search of the emojis associated with #womeninstem. There&amp;rsquo;s minimal statistics in this post, but it&amp;rsquo;s maximally adorable! # grab all the packages we&amp;rsquo;ll be using library(twitteR) #interface twitter web API library(data.table) #aggregate large data ## Warning: package&amp;hellip;</description>
+      <description>We learned so much from Hamdan Azhar&amp;rsquo;s awesome Prismoji tutorial after seeing his wonderful talk at the Southern Data Science Conference. In order to better aquaint ourselves with messy twitter data, we performed a simple search of the emojis associated with #womeninstem. There&amp;rsquo;s minimal statistics in this post, but it&amp;rsquo;s maximally adorable! # grab all the packages we&amp;rsquo;ll be using library(twitteR) #interface twitter web API library(data.table) #aggregate large data ## Warning: package</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/probability/</guid>
-      <description>Say we have a fruit bowl&amp;ndash;mmm!&amp;ndash;consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberry slices, 20 blueberries, 15 raspberries, and 15 blackberries. If each fruit has an equal probability of being selected, then the probability of selecting any one fruit is 1 out of the total number of fruit, 100. This gives us a probability of (\frac{1}{100} ) since &amp;lsquo;out of&amp;rsquo; translates to &amp;lsquo;divided&amp;hellip;</description>
+      <description>Say we have a fruit bowl&amp;ndash;mmm!&amp;ndash;consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberry slices, 20 blueberries, 15 raspberries, and 15 blackberries. If each fruit has an equal probability of being selected, then the probability of selecting any one fruit is 1 out of the total number of fruit, 100. This gives us a probability of (\frac{1}{100} ) since &amp;lsquo;out of&amp;rsquo; translates to &amp;lsquo;divided</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/uncertainty-and-sample-size/</guid>
-      <description>As a hungry botanist I couldn&amp;rsquo;t think of a more a-peel-ing metaphor than fruit. Let&amp;rsquo;s say we have a fruit bowl consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberries, 20 blueberries, 15 raspberries, and 15 blackberries. We can simulate this delicious bowl in r by creating a vector where we repeat (rep) each fruit the number of times they occur in our true, fruit bowl&amp;hellip;</description>
+      <description>As a hungry botanist I couldn&amp;rsquo;t think of a more a-peel-ing metaphor than fruit. Let&amp;rsquo;s say we have a fruit bowl consisting of strawberries, raspberries, blueberries, and blackberries. There are 50 strawberries, 20 blueberries, 15 raspberries, and 15 blackberries. We can simulate this delicious bowl in r by creating a vector where we repeat (rep) each fruit the number of times they occur in our true, fruit bowl</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/binomial-probability-distribut/</guid>
-      <description>Assume your cat just had a litter of kittens. Con-cat-ulations! However, you suspect you will soon have five different paws gently tapping your face in the morning when you are sleeping. How many of these paws will be the left paw and how many will be the right? Assume the probability of having a left-handed kitten is 25% and a right-handed kitten is&amp;hellip;</description>
+      <description>Assume your cat just had a litter of kittens. Con-cat-ulations! However, you suspect you will soon have five different paws gently tapping your face in the morning when you are sleeping. How many of these paws will be the left paw and how many will be the right? Assume the probability of having a left-handed kitten is 25% and a right-handed kitten is</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/unsupervised-categorical-distr/</guid>
-      <description>Question (1) What methods are necessary to find significant covariates? (2) How do different strata effect our coefficients? (3) Must strata be defined a priori or can we find the stratification of 5 intercept groups within our data set? Simulation To answer our question, we will simulate 1000 plants with 5 different genotypes which will vary by intercept. (These are the strata that we will try to parse out using our&amp;hellip;</description>
+      <description>Question (1) What methods are necessary to find significant covariates? (2) How do different strata effect our coefficients? (3) Must strata be defined a priori or can we find the stratification of 5 intercept groups within our data set? Simulation To answer our question, we will simulate 1000 plants with 5 different genotypes which will vary by intercept. (These are the strata that we will try to parse out using our</description>
     </item>
     
   </channel>

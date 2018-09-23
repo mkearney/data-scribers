@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[With the release of Debian 9 Stretch MySQL, the world's most popular open source relational database management system is no longer available in the Debian's repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of MySQL. In this tutorial we will show you how to install and secure MySQL on a Debian 9 machine from the MySQL Apt...<click to read more>](https://linuxize.com/post/how-to-install-mysql-on-debian-9/)
+[With the release of Debian 9 Stretch MySQL, the world's most popular open source relational database management system is no longer available in the Debian's repositories and MariaDB has become the default database system. MariaDB is a backward compatible, binary drop-in replacement of MySQL. In this tutorial we will show you how to install and secure MySQL on a Debian 9 machine from the MySQL Apt<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-mysql-on-debian-9/)
 

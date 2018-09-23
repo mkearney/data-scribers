@@ -17,7 +17,7 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/highlights-from-appning-and-is/</guid>
-      <description>Jacob’s Highlights I recently attended the Workshop on Animal Population Imaging (APPNING 2018) held after the ISMRM conference in Paris. It was a well run workshop highlighting the benefits and troubles with large scale animal population imaging (https://appning2018.sciencesconf.org/). Several Highlights from the workshop: Quantitative Connectomic Histology Presented by GA Johnson from Duke University Used Diffusion Tensor Imaging to assess how the brain was connected in the&amp;hellip;</description>
+      <description>Jacob’s Highlights I recently attended the Workshop on Animal Population Imaging (APPNING 2018) held after the ISMRM conference in Paris. It was a well run workshop highlighting the benefits and troubles with large scale animal population imaging (https://appning2018.sciencesconf.org/). Several Highlights from the workshop: Quantitative Connectomic Histology Presented by GA Johnson from Duke University Used Diffusion Tensor Imaging to assess how the brain was connected in the</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-models/</guid>
-      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical variables. Recall the general model definition: [ \mathbf{y} = \mathbf{X}\mathbf{\beta} + \mathbf{e}] where (\mathbf{X}) is the design matrix and (\mathbf{\beta}) is a ((p+1))-vector of coefficients/parameters, including the intercept&amp;hellip;</description>
+      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical variables. Recall the general model definition: [ \mathbf{y} = \mathbf{X}\mathbf{\beta} + \mathbf{e}] where (\mathbf{X}) is the design matrix and (\mathbf{\beta}) is a ((p+1))-vector of coefficients/parameters, including the intercept</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/an-overfit-representation-of-i/</guid>
-      <description>I was recently extremely fortunate to attend ICLR 2018, albeit as something of an interloper. Accordingly, what follows is surely a rather atypical highlight reel. All pedantry and any inaccuracy is, of course, due to my own limited understanding of these elegant topics and the breadth of their application. Causal reasoning and graphical models There is a well-developed modern theory of causal inference and reasoning based on graphical models developed by Judea Pearl and&amp;hellip;</description>
+      <description>I was recently extremely fortunate to attend ICLR 2018, albeit as something of an interloper. Accordingly, what follows is surely a rather atypical highlight reel. All pedantry and any inaccuracy is, of course, due to my own limited understanding of these elegant topics and the breadth of their application. Causal reasoning and graphical models There is a well-developed modern theory of causal inference and reasoning based on graphical models developed by Judea Pearl and</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/why-relative-volumes-matter/</guid>
-      <description>Intro Figuring out how one group’s brain is different from another’s is a big part of neuroscience. MRI-neuroanatomy – the study of the sizes of brain regions – is a wonderful tool for this job and makes up a sizeable chunk of what we study. MRI operates in a lovely middle ground in the scales of neuroscience. It is strongly related to macroscale features of the organism, including sex, behaviour, etc; but can also inform us about the effects of microscale factors – such as gene&amp;hellip;</description>
+      <description>Intro Figuring out how one group’s brain is different from another’s is a big part of neuroscience. MRI-neuroanatomy – the study of the sizes of brain regions – is a wonderful tool for this job and makes up a sizeable chunk of what we study. MRI operates in a lovely middle ground in the scales of neuroscience. It is strongly related to macroscale features of the organism, including sex, behaviour, etc; but can also inform us about the effects of microscale factors – such as gene</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/preferential-spatial-gene-expr/</guid>
-      <description>Intro In this post I will demonstrate how to use my package ABIgeneRMINC to download, read and analyze mouse brain gene expression data from the Allen Brain Institute. The Allen Brain Institute (ABI) has acquired and released genome-wide spatial gene expression maps for the mouse brain. The data is generated using in situ hybridization experiments (ISH), where nucleotide probes for specific genes bind directly to mouse brain&amp;hellip;</description>
+      <description>Intro In this post I will demonstrate how to use my package ABIgeneRMINC to download, read and analyze mouse brain gene expression data from the Allen Brain Institute. The Allen Brain Institute (ABI) has acquired and released genome-wide spatial gene expression maps for the mouse brain. The data is generated using in situ hybridization experiments (ISH), where nucleotide probes for specific genes bind directly to mouse brain</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/coclinical-trials/</guid>
-      <description>Why co-clinical trials? Here at the Mouse Imaging Centre, a large portion of our research is related to neurodevelopmental disorders. Ultimately the goal of such research is to improve health outcomes for individuals with these disorders. One clear way to impact health outcomes for individuals with neurodevelopmental disorders is to develop new&amp;hellip;</description>
+      <description>Why co-clinical trials? Here at the Mouse Imaging Centre, a large portion of our research is related to neurodevelopmental disorders. Ultimately the goal of such research is to improve health outcomes for individuals with these disorders. One clear way to impact health outcomes for individuals with neurodevelopmental disorders is to develop new</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/finding-and-playing-with-peaks/</guid>
-      <description>So, peaks. When producing a statistical map, it’s good to get a report of the peaks (i.e. most significant findings). RMINC has had this support for a while now, though it has remained somewhat hidden. Here’s a bit of an intro, then. I will walk through the example we used from the Mouse Imaging Summer School in 2017, which is data from this paper: de Guzman AE, Gazdzinski LM, Alsop RJ, Stewart JM, Jaffray DA, Wong CS, Nieman&amp;hellip;</description>
+      <description>So, peaks. When producing a statistical map, it’s good to get a report of the peaks (i.e. most significant findings). RMINC has had this support for a while now, though it has remained somewhat hidden. Here’s a bit of an intro, then. I will walk through the example we used from the Mouse Imaging Summer School in 2017, which is data from this paper: de Guzman AE, Gazdzinski LM, Alsop RJ, Stewart JM, Jaffray DA, Wong CS, Nieman</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-model-selection-with-/</guid>
-      <description>Pitch In this post I’d like to provide an overview of Pareto-Smoothed Importance Sampling (PSIS-LOO) and how it can be used for bayesian model selection. Everything I discuss regarding this technique can be found in more detail in Vehtari, Gelman, and Gabry (2016). To lead up to PSIS-LOO I will introduce Akaike’s Information Criterion (AIC) to lay the foundation for model selection in general, then cover the expected log predictive density, the corner stone of bayesian model&amp;hellip;</description>
+      <description>Pitch In this post I’d like to provide an overview of Pareto-Smoothed Importance Sampling (PSIS-LOO) and how it can be used for bayesian model selection. Everything I discuss regarding this technique can be found in more detail in Vehtari, Gelman, and Gabry (2016). To lead up to PSIS-LOO I will introduce Akaike’s Information Criterion (AIC) to lay the foundation for model selection in general, then cover the expected log predictive density, the corner stone of bayesian model</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-models/</guid>
-      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models. Let’s start by loading some libraries. library(ggplot2) library(datasets) Background Theory The basic idea is as follows: Given two variables, (x) and (y), for which we’ve measured a set of data points ({x_i, y_i}) with (i = 1, &amp;hellip;, n), we want to estimate a function, (f(x)), such that [y_i = f(x_i) +&amp;hellip;</description>
+      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models. Let’s start by loading some libraries. library(ggplot2) library(datasets) Background Theory The basic idea is as follows: Given two variables, (x) and (y), for which we’ve measured a set of data points ({x_i, y_i}) with (i = 1, &amp;hellip;, n), we want to estimate a function, (f(x)), such that [y_i = f(x_i) +</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/stancon-highlights/</guid>
-      <description>Hi readers, Recently I got back from StanCon 2018 Ansilomar. I had a little time waiting for one of my flights and I thought I’d reflect on the conference. Last year I was lucky enough to go to the first StanCon and it was nice to be able to see how the conference has grown. This year it was three days of tutorials, talks, and networking. I had a&amp;hellip;</description>
+      <description>Hi readers, Recently I got back from StanCon 2018 Ansilomar. I had a little time waiting for one of my flights and I thought I’d reflect on the conference. Last year I was lucky enough to go to the first StanCon and it was nice to be able to see how the conference has grown. This year it was three days of tutorials, talks, and networking. I had a</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/welcome/</guid>
-      <description>Hello World! Welcome to the new Mouse Imaging Centre Blog. We created this blog as a place to share things we’ve been thinking about lately. This blog will feature a mixture of technical writing about things we do in our lab including imaging, statistics, and biology. The blog will feature contributions from our staff, students, and PIs. We hope you enjoy our writings. To learn more about us please visit our website at&amp;hellip;</description>
+      <description>Hello World! Welcome to the new Mouse Imaging Centre Blog. We created this blog as a place to share things we’ve been thinking about lately. This blog will feature a mixture of technical writing about things we do in our lab including imaging, statistics, and biology. The blog will feature contributions from our staff, students, and PIs. We hope you enjoy our writings. To learn more about us please visit our website at</description>
     </item>
     
   </channel>

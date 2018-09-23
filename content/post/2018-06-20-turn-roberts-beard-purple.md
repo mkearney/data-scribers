@@ -9,5 +9,5 @@ tags:
   - rmflightgithubio
 ---
 
-[Links: I decided to participate in the Walk To End Alzheimer’s this year, coming up on August 25th here in Lexington. I will be walking the 2 miles in support of my Mom, who was diagnosed with early onset Alzheimer’s some time ago (she will turn 68 this summer). Why am I walking?? Because I’ve seen a little bit of what Alzheimer’s does, and although my Mom won’t benefit from new treatments, we need to find effective treatments for this devastating...<click to read more>](http://rmflight.github.io/post/turn-roberts-beard-purple/)
+[Links: I decided to participate in the Walk To End Alzheimer’s this year, coming up on August 25th here in Lexington. I will be walking the 2 miles in support of my Mom, who was diagnosed with early onset Alzheimer’s some time ago (she will turn 68 this summer). Why am I walking?? Because I’ve seen a little bit of what Alzheimer’s does, and although my Mom won’t benefit from new treatments, we need to find effective treatments for this devastating<i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/turn-roberts-beard-purple/)
 

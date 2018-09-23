@@ -9,5 +9,5 @@ tags:
   - linuxizecom
 ---
 
-[MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. In this tutorial we will show you two different methods on how to install MariaDB on your Ubuntu 18.04...<click to read more>](https://linuxize.com/post/how-to-install-mariadb-on-ubuntu-18-04/)
+[MariaDB is an open source, multi-threaded relational database management system, backward compatible replacement for MySQL. It is maintained and developed by the MariaDB Foundation including some of the original developers of the MySQL. In this tutorial we will show you two different methods on how to install MariaDB on your Ubuntu 18.04<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-mariadb-on-ubuntu-18-04/)
 

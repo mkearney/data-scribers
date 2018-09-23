@@ -9,5 +9,5 @@ tags:
   - rubuntunetlifycom
 ---
 
-[One of the advantages of using Launchpad’s PPA system is that it allows you to easily use the work of others backporting packages to older...<click to read more>](http://rubuntu.netlify.com/post/2018-05-23-adding-jq-trusty-xenial/)
+[One of the advantages of using Launchpad’s PPA system is that it allows you to easily use the work of others backporting packages to older<i class="fas fa-external-link-alt"></i>](http://rubuntu.netlify.com/post/2018-05-23-adding-jq-trusty-xenial/)
 

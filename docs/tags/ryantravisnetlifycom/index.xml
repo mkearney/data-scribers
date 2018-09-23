@@ -17,7 +17,7 @@
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/some-books-i-read-in-august/</guid>
-      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of 1917. Except for the first chapter that quickly covers the history leading up to the revolution and the final epilogue chapter, the book is organized so that each chapter represents a month starting from the overthrow of the Tsar in February to October when Lenin and the Bolsheviks take power (plus an&amp;hellip;</description>
+      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of 1917. Except for the first chapter that quickly covers the history leading up to the revolution and the final epilogue chapter, the book is organized so that each chapter represents a month starting from the overthrow of the Tsar in February to October when Lenin and the Bolsheviks take power (plus an</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/simple-example-of-fitting-spli/</guid>
-      <description>I thought it might be value to provide some code showing how splines can be fit using mixed&amp;hellip;</description>
+      <description>I thought it might be value to provide some code showing how splines can be fit using mixed</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fantasy-football-player-rankin/</guid>
-      <description>Accurate prediction of player performance is of immense value to those of use who play fantasy football. With this in mind, I was curious about how well simple prediction models could perform in this context. Conveniently, Sean J. Taylor provided some nice code to make 2017 fantasy football projections which we can use to make 2018 predictions. Looking at his predictions for 2017, I’m not overly optimistic about how the models will&amp;hellip;</description>
+      <description>Accurate prediction of player performance is of immense value to those of use who play fantasy football. With this in mind, I was curious about how well simple prediction models could perform in this context. Conveniently, Sean J. Taylor provided some nice code to make 2017 fantasy football projections which we can use to make 2018 predictions. Looking at his predictions for 2017, I’m not overly optimistic about how the models will</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/some-books-i-read-in-july/</guid>
-      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics. Some of the topics, Bolshevik military strategy during the Civil War for instance, don’t mention Lenin at all. Additionally there are chapters on terrorism in Tsarist Russia, and the work of feminist&amp;hellip;</description>
+      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics. Some of the topics, Bolshevik military strategy during the Civil War for instance, don’t mention Lenin at all. Additionally there are chapters on terrorism in Tsarist Russia, and the work of feminist</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/odds-ratios-and-logistic-regre/</guid>
-      <description>Binary outcome variables that only take on two distinct values such as alive vs. not alive are very common in medicine and elsewhere. Traditionally, relating these variables to explanatory categorical variables of interest was and often is done using what are called contingency tables. When the number of explanatory variables of interest is small and the number of categories for said predictors is few, these contingency table methods can be&amp;hellip;</description>
+      <description>Binary outcome variables that only take on two distinct values such as alive vs. not alive are very common in medicine and elsewhere. Traditionally, relating these variables to explanatory categorical variables of interest was and often is done using what are called contingency tables. When the number of explanatory variables of interest is small and the number of categories for said predictors is few, these contingency table methods can be</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/predicting-nfl-injuries-with-s/</guid>
-      <description>Previously I use data from armchair analysis to build a simple model to predict whether an NFL player would have an injury based only on their position. I restricted the analysis to QBs, RBs, TEs, and WRs. In this post I’d like to expand the model to include 3 years of injury data (which is all I have), as well as include some additional covariates such as player height, weight, and&amp;hellip;</description>
+      <description>Previously I use data from armchair analysis to build a simple model to predict whether an NFL player would have an injury based only on their position. I restricted the analysis to QBs, RBs, TEs, and WRs. In this post I’d like to expand the model to include 3 years of injury data (which is all I have), as well as include some additional covariates such as player height, weight, and</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/prediction-assessment-with-sco/</guid>
-      <description>Anyone trying to learn how to build and assess prediction models is immediately swamped with a litany of strange sounding performance metrics. In the binary outcome case you might encounter: sensitivity, specificity, precision, recall, accuracy, just to name a few. Fundamentally, all of the measures listed require the analyst to provide a category label for each element predicted. This is sometimes provided automatically with an&amp;hellip;</description>
+      <description>Anyone trying to learn how to build and assess prediction models is immediately swamped with a litany of strange sounding performance metrics. In the binary outcome case you might encounter: sensitivity, specificity, precision, recall, accuracy, just to name a few. Fundamentally, all of the measures listed require the analyst to provide a category label for each element predicted. This is sometimes provided automatically with an</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/predicting-nfl-injuries-with-s/</guid>
-      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models. I have data on all the injuries that occured during the 2017 NFL (American Football) season, courtesy of&amp;hellip;</description>
+      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models. I have data on all the injuries that occured during the 2017 NFL (American Football) season, courtesy of</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/stan-basics/</guid>
-      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other languages). I figured it would be valuable for myself, and possibly others, to work through a few different problems in Stan and share my&amp;hellip;</description>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other languages). I figured it would be valuable for myself, and possibly others, to work through a few different problems in Stan and share my</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/super-learning-from-scratch/</guid>
-      <description>Introduction Super Learning is a conceptually simple way of combining predictions from different models using cross validation. It simply uses the cross-validated results to form an optimal weighted combination of predictions. Combining predictions across models, typically refered to as stacking or stacked ensembles, is not new. I’ve seen references as far back as about 30 years, though I wouldn’t be surprised if it was much&amp;hellip;</description>
+      <description>Introduction Super Learning is a conceptually simple way of combining predictions from different models using cross validation. It simply uses the cross-validated results to form an optimal weighted combination of predictions. Combining predictions across models, typically refered to as stacking or stacked ensembles, is not new. I’ve seen references as far back as about 30 years, though I wouldn’t be surprised if it was much</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/covariate-adjustment-for-binar/</guid>
-      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by&amp;hellip;</description>
+      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by</description>
     </item>
     
   </channel>

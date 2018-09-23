@@ -9,5 +9,5 @@ tags:
   - jessetw
 ---
 
-[Hardest problem: understanding Hugo structures / getting a theme I’m happy with. Easiest problems: Netlify, emoji, gifs, actually writing posts (ty blogdown). A list of things I found useful when making this blog. Alison Presmanes Hill @apreshill: blogdown + these slides...<click to read more>](https://jesse.tw/post/thank-you-blogdown-ppl/)
+[Hardest problem: understanding Hugo structures / getting a theme I’m happy with. Easiest problems: Netlify, emoji, gifs, actually writing posts (ty blogdown). A list of things I found useful when making this blog. Alison Presmanes Hill @apreshill: blogdown + these slides<i class="fas fa-external-link-alt"></i>](https://jesse.tw/post/thank-you-blogdown-ppl/)
 

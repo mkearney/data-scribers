@@ -17,7 +17,7 @@
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/everything-i-know-about-machin/</guid>
-      <description>Introduction In this post, I’m going to make the claim that we can simplify some parts of the machine learning process by using the analogy of making soup. I think this analogy can improve how a data scientist explains machine learning to a broad audience, and it provides a helpful framework throughout the model building&amp;hellip;</description>
+      <description>Introduction In this post, I’m going to make the claim that we can simplify some parts of the machine learning process by using the analogy of making soup. I think this analogy can improve how a data scientist explains machine learning to a broad audience, and it provides a helpful framework throughout the model building</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/golf-tidy-data-and-using-data-/</guid>
-      <description>Introduction I’m going to use this post to discuss some of the aspects of data science that interest me most (tidy data as well as using data to guide strategy). I’ll be discussing these topics through the lens of a data analysis of results from a few high school golf tournaments. I’m going to take a little bit of time to talk about tidy data. When I scraped the data used for this analysis, it wasn’t really stored in a tidy format, and there’s a good reason for&amp;hellip;</description>
+      <description>Introduction I’m going to use this post to discuss some of the aspects of data science that interest me most (tidy data as well as using data to guide strategy). I’ll be discussing these topics through the lens of a data analysis of results from a few high school golf tournaments. I’m going to take a little bit of time to talk about tidy data. When I scraped the data used for this analysis, it wasn’t really stored in a tidy format, and there’s a good reason for</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/an-introduction-to-the-kmeans-/</guid>
-      <description>This post will provide an R code-heavy, math-light introduction to selecting the (k) in k means. It presents the main idea of kmeans, demonstrates how to fit a kmeans in R, provides some components of the kmeans fit, and displays some methods for selecting k. In addition, the post provides some helpful functions which may make fitting kmeans a bit easier. kmeans clustering is an example of unsupervised learning, where we do not have an output we’re explicitly trying to&amp;hellip;</description>
+      <description>This post will provide an R code-heavy, math-light introduction to selecting the (k) in k means. It presents the main idea of kmeans, demonstrates how to fit a kmeans in R, provides some components of the kmeans fit, and displays some methods for selecting k. In addition, the post provides some helpful functions which may make fitting kmeans a bit easier. kmeans clustering is an example of unsupervised learning, where we do not have an output we’re explicitly trying to</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-first-post/</guid>
-      <description>Welcome to my blog! I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes. I was inspired to create a blog after reading this post by David Robinson. New blog post: &amp;ldquo;Advice to aspiring data scientists: start a blog&amp;rdquo;&amp;hellip;</description>
+      <description>Welcome to my blog! I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes. I was inspired to create a blog after reading this post by David Robinson. New blog post: &amp;ldquo;Advice to aspiring data scientists: start a blog&amp;rdquo;</description>
     </item>
     
   </channel>

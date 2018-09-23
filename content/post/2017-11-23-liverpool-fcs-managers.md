@@ -9,5 +9,5 @@ tags:
   - ryanestrelladonetlifycom
 ---
 
-[Anfield in Liverpool is one of the legendary stadiums of English football. Fortress Anfield has been the home to many historic games, including Liverpool’s 4-3 win against Newcastle in 1996 and my personal favorite, Liverpool’s 3-1 win against Olympiacos to go through to the Champions League’s last...<click to read more>](https://ryanestrellado.netlify.com/post/lfc-home-and-away-odds/)
+[Anfield in Liverpool is one of the legendary stadiums of English football. Fortress Anfield has been the home to many historic games, including Liverpool’s 4-3 win against Newcastle in 1996 and my personal favorite, Liverpool’s 3-1 win against Olympiacos to go through to the Champions League’s last<i class="fas fa-external-link-alt"></i>](https://ryanestrellado.netlify.com/post/lfc-home-and-away-odds/)
 

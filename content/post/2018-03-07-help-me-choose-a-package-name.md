@@ -10,5 +10,5 @@ tags:
   - mailundgithubiorprogrammerblog
 ---
 
-[What's in a name? That which we call a rose By any other word would smell as sweet — William Shakespeare, Romeo and Juliet I have plans for re-implementing several of the data structures I wrote about in Functional Data Structures in...<click to read more>](https://mailund.github.io/r-programmer-blog/2018/03/07/help-me-choose-a-name/)
+[What's in a name? That which we call a rose By any other word would smell as sweet — William Shakespeare, Romeo and Juliet I have plans for re-implementing several of the data structures I wrote about in Functional Data Structures in<i class="fas fa-external-link-alt"></i>](https://mailund.github.io/r-programmer-blog/2018/03/07/help-me-choose-a-name/)
 

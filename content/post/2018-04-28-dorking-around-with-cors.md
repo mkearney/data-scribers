@@ -9,5 +9,5 @@ tags:
   - cattleguardgithubio
 ---
 
-[After tuning in to Absolute Appsec ep 2 the other day I got pretty interested in CORS security issues related to misconfiguration and dynamic origin handling. I don't know about you, but every once in a while I hear about a bug class, or maybe just a set of unintended consequences that I find particularly amusing. I've found that building a tool (no matter how poor), goes a long way toward a deeper...<click to read more>](https://cattleguard.github.io/2018/04/28/dorking-around-with-cors-and-golang/)
+[After tuning in to Absolute Appsec ep 2 the other day I got pretty interested in CORS security issues related to misconfiguration and dynamic origin handling. I don't know about you, but every once in a while I hear about a bug class, or maybe just a set of unintended consequences that I find particularly amusing. I've found that building a tool (no matter how poor), goes a long way toward a deeper<i class="fas fa-external-link-alt"></i>](https://cattleguard.github.io/2018/04/28/dorking-around-with-cors-and-golang/)
 

@@ -9,5 +9,5 @@ tags:
   - jessesadlercom
 ---
 
-[Compare this to an adjacency matrix with the same data. We need to start as always by loading the necessary...<click to read more>](https://jessesadler.com/post/network-analysis-with-r/)
+[Compare this to an adjacency matrix with the same data. We need to start as always by loading the necessary<i class="fas fa-external-link-alt"></i>](https://jessesadler.com/post/network-analysis-with-r/)
 

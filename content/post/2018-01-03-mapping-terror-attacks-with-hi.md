@@ -9,5 +9,5 @@ tags:
   - favstatsnetlifycom
 ---
 
-[A few days ago someone asked me whether I could visualize the terror attacks of recent years in Europe. Here is an attempt to do exactly this. Now in Rstudio, I load in the needed packages: The...<click to read more>](https://favstats.netlify.com/post/terror_map/)
+[A few days ago someone asked me whether I could visualize the terror attacks of recent years in Europe. Here is an attempt to do exactly this. Now in Rstudio, I load in the needed packages: The<i class="fas fa-external-link-alt"></i>](https://favstats.netlify.com/post/terror_map/)
 

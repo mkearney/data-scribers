@@ -10,5 +10,5 @@ tags:
   - ryantravisnetlifycom
 ---
 
-[I thought it might be value to provide some code showing how splines can be fit using mixed...<click to read more>](http://ryantravis.netlify.com/post/simple-example-of-fitting-splines-with-mixed-models/)
+[I thought it might be value to provide some code showing how splines can be fit using mixed<i class="fas fa-external-link-alt"></i>](http://ryantravis.netlify.com/post/simple-example-of-fitting-splines-with-mixed-models/)
 

@@ -9,5 +9,5 @@ tags:
   - lbusettnetlifycom
 ---
 
-[We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp...<click to read more>](https://lbusett.netlify.com/post/the-new-modistsp-website-based-on-pkgdown-is-online/)
+[We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp<i class="fas fa-external-link-alt"></i>](https://lbusett.netlify.com/post/the-new-modistsp-website-based-on-pkgdown-is-online/)
 

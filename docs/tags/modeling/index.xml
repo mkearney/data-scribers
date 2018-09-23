@@ -17,7 +17,7 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/data-science-in-mental-health/</guid>
-      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or&amp;hellip;</description>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way. The first was a New York Times piece about the failings of data science firms who try to identify school shootings before they happen by social media posts. The second was a Vox article about how a crisis counseling hotline successfully used data science to flag callers who are at higher risk of suicide or</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gi2018-day-three/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/parallel-computing-in-r/</guid>
-      <description>We&amp;rsquo;re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in&amp;hellip;</description>
+      <description>We&amp;rsquo;re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/gi2018-day-two/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated&amp;hellip;</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introducing-debkeepr/</guid>
-      <description>The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts. In reading through documents that may or may not be primarily economic in nature, the researcher comes across sets of values that need to be manipulated to better understand their&amp;hellip;</description>
+      <description>The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts. In reading through documents that may or may not be primarily economic in nature, the researcher comes across sets of values that need to be manipulated to better understand their</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/building-infrastructure-with-r/</guid>
-      <description>For this event we will explore how to build tools and infrastructure with R. 6:15-6:30pm Introductions and Social 6:30- 6:45 pm NYT announcements (Data, Tech, HR) 6:45-6:55pm R-Ladies New York Announcements 6:55-7:25pm Object Oriented Programming in R 7:25-7:55pm Big Data in R with Small Prototypes: Scaling 8:00-8:15pm Networking. In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project&amp;hellip;</description>
+      <description>For this event we will explore how to build tools and infrastructure with R. 6:15-6:30pm Introductions and Social 6:30- 6:45 pm NYT announcements (Data, Tech, HR) 6:45-6:55pm R-Ladies New York Announcements 6:55-7:25pm Object Oriented Programming in R 7:25-7:55pm Big Data in R with Small Prototypes: Scaling 8:00-8:15pm Networking. In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/next-up-anova/</guid>
-      <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify&amp;hellip; As always,you can shortcut that by saying Or by specifying which variables to analyse using&amp;hellip;</description>
+      <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify&amp;hellip; As always,you can shortcut that by saying Or by specifying which variables to analyse using</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/binary-beta-betabinomial/</guid>
-      <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling error. With individual level binary outcomes (as opposed to count data we were working with before), GEE models are&amp;hellip;</description>
+      <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling error. With individual level binary outcomes (as opposed to count data we were working with before), GEE models are</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/some-books-i-read-in-august/</guid>
-      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of 1917. Except for the first chapter that quickly covers the history leading up to the revolution and the final epilogue chapter, the book is organized so that each chapter represents a month starting from the overthrow of the Tsar in February to October when Lenin and the Bolsheviks take power (plus an&amp;hellip;</description>
+      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of 1917. Except for the first chapter that quickly covers the history leading up to the revolution and the final epilogue chapter, the book is organized so that each chapter represents a month starting from the overthrow of the Tsar in February to October when Lenin and the Bolsheviks take power (plus an</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-does-collinearity-influenc/</guid>
-      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it. Now, consider the following linear regression: y ~ x1 +&amp;hellip;</description>
+      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it. Now, consider the following linear regression: y ~ x1 +</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-first-gganimate-exploring-c/</guid>
-      <description>Have you ever had one of those moments whilst teaching where the content blows your mind? Today, whilst teaching MATH1005 at the University of Sydney, that exact thing happened to me. This weeks content was focused on teaching the students the introductions to linear modelling. A very strightforward topic, and one ususally understood well by first years. However, a twist in our teaching style left me with such an appreciation for the simpler explanations in&amp;hellip;</description>
+      <description>Have you ever had one of those moments whilst teaching where the content blows your mind? Today, whilst teaching MATH1005 at the University of Sydney, that exact thing happened to me. This weeks content was focused on teaching the students the introductions to linear modelling. A very strightforward topic, and one ususally understood well by first years. However, a twist in our teaching style left me with such an appreciation for the simpler explanations in</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/the-power-of-steppedwedge-desi/</guid>
-      <description>The most important assumption I am making, however, is that the investigators can introduce the intervention at a small number of sites during each time period (for example, because the intervention involves extensive training and there is a limited number of trainers.) In this case, I am assuming that at most 10 sites can start the intervention at any point in time, and we must wait at least 4 weeks until the next wave can be&amp;hellip;</description>
+      <description>The most important assumption I am making, however, is that the investigators can introduce the intervention at a small number of sites during each time period (for example, because the intervention involves extensive training and there is a limited number of trainers.) In this case, I am assuming that at most 10 sites can start the intervention at any point in time, and we must wait at least 4 weeks until the next wave can be</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-london-crime-with-r-/</guid>
-      <description>Here’s a sweet collection of packages required to run this analysis: First thing&amp;hellip;</description>
+      <description>Here’s a sweet collection of packages required to run this analysis: First thing</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/record-linkage/</guid>
-      <description>I recently encountered a problem that had a surprisingly elegant solution. I struggled a lot with solving this issue, so hopefully in writing this post I can save someone else the trouble! For reasons that are irrelevant, I wanted to track the performance of youth fencers across time. National ranking lists are posted each year, but the fencers’ names frequently change from year to&amp;hellip;</description>
+      <description>I recently encountered a problem that had a surprisingly elegant solution. I struggled a lot with solving this issue, so hopefully in writing this post I can save someone else the trouble! For reasons that are irrelevant, I wanted to track the performance of youth fencers across time. National ranking lists are posted each year, but the fencers’ names frequently change from year to</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/test-driven-infrastructure/</guid>
-      <description>Software development has embraced techniques like TDD (Test Driven Development) to help reduce the cycle time between developing code and validating it works. As application development practice evolved, we needed to respond to change faster while still maintaining our quality - the way we developed our solutions needed to change - and so did our tools. Now that we have Infrastructure as Code (IaC) a whole new range of cycle time challenges have&amp;hellip;</description>
+      <description>Software development has embraced techniques like TDD (Test Driven Development) to help reduce the cycle time between developing code and validating it works. As application development practice evolved, we needed to respond to change faster while still maintaining our quality - the way we developed our solutions needed to change - and so did our tools. Now that we have Infrastructure as Code (IaC) a whole new range of cycle time challenges have</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/its-alive-first-evidence-that-/</guid>
-      <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works. Or at least, early indicators are in, and based on 22 cases, some of which required a great deal of manual editing, the program is returning estimates in line with expectations. Backing up, as I trip a little over my excitement, IBI VizEdit is an Rshiny application I created to help our lab process and edit heart rate&amp;hellip;</description>
+      <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works. Or at least, early indicators are in, and based on 22 cases, some of which required a great deal of manual editing, the program is returning estimates in line with expectations. Backing up, as I trip a little over my excitement, IBI VizEdit is an Rshiny application I created to help our lab process and edit heart rate</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-disable-selinux-on-cent/</guid>
-      <description>SELinux (Security Enhanced Linux) is a Linux kernel security module that allows administrators and users more control over access controls. It allows access based on SELinux policy rules. SELinux policy rules specify how processes and users interact with each other as well as how processes and users interact with files. If there is no SELinux policy rule that specifically allows access, such as for a process opening a file, access is&amp;hellip;</description>
+      <description>SELinux (Security Enhanced Linux) is a Linux kernel security module that allows administrators and users more control over access controls. It allows access based on SELinux policy rules. SELinux policy rules specify how processes and users interact with each other as well as how processes and users interact with files. If there is no SELinux policy rule that specifically allows access, such as for a process opening a file, access is</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tools-for-getting-started-with/</guid>
-      <description>What do I mean with this? Well, see for yourself whether you recognize any of the following behaviors: However, if you left all of those behaviors behind you long ago, well, you can close this tab and save yourself ten minutes. Alright, enough disclaiming, here we go, in no particular order: This one might easily be the one tool that saves you the most&amp;hellip;</description>
+      <description>What do I mean with this? Well, see for yourself whether you recognize any of the following behaviors: However, if you left all of those behaviors behind you long ago, well, you can close this tab and save yourself ten minutes. Alright, enough disclaiming, here we go, in no particular order: This one might easily be the one tool that saves you the most</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/reading-vintage-magazines-with/</guid>
-      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on archive.org. A number of people picked up on the idea of checking out some of the old magazines from the time they can remeber starting with&amp;hellip;</description>
+      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on archive.org. A number of people picked up on the idea of checking out some of the old magazines from the time they can remeber starting with</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/some-books-i-read-in-july/</guid>
-      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics. Some of the topics, Bolshevik military strategy during the Civil War for instance, don’t mention Lenin at all. Additionally there are chapters on terrorism in Tsarist Russia, and the work of feminist&amp;hellip;</description>
+      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics. Some of the topics, Bolshevik military strategy during the Civil War for instance, don’t mention Lenin at all. Additionally there are chapters on terrorism in Tsarist Russia, and the work of feminist</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/curl-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the curl tool through practical examples and detailed explanations of the most common curl options. What is Curl? Curl is command line utility for transferring data from or to a server designed to work without user interaction. With curl you can download or upload data using one of the supported protocols including HTTP, HTTPS, SCP, SFTP and&amp;hellip;</description>
+      <description>In this tutorial, we will show you how to use the curl tool through practical examples and detailed explanations of the most common curl options. What is Curl? Curl is command line utility for transferring data from or to a server designed to work without user interaction. With curl you can download or upload data using one of the supported protocols including HTTP, HTTPS, SCP, SFTP and</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-should-i-get-started-with-/</guid>
-      <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started. The second thing I’d suggest is starting a GitHub account, and to begin curating some of your&amp;hellip;</description>
+      <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started. The second thing I’d suggest is starting a GitHub account, and to begin curating some of your</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/generate-a-reproducible-map-fo/</guid>
-      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes. After installing all the libraries, we should include them in the R session to run the following codes. The map actually is a ggplot2 object and users can modified most of the components using ggplot2&amp;hellip;</description>
+      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes. After installing all the libraries, we should include them in the R session to run the following codes. The map actually is a ggplot2 object and users can modified most of the components using ggplot2</description>
     </item>
     
     <item>
@@ -242,7 +242,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-models/</guid>
-      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical variables. Recall the general model definition: [ \mathbf{y} = \mathbf{X}\mathbf{\beta} + \mathbf{e}] where (\mathbf{X}) is the design matrix and (\mathbf{\beta}) is a ((p+1))-vector of coefficients/parameters, including the intercept&amp;hellip;</description>
+      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical variables. Recall the general model definition: [ \mathbf{y} = \mathbf{X}\mathbf{\beta} + \mathbf{e}] where (\mathbf{X}) is the design matrix and (\mathbf{\beta}) is a ((p+1))-vector of coefficients/parameters, including the intercept</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/wide-data-to-long-using-the-ti/</guid>
-      <description>A wide data storage format is an efficient and compact way to store information. And this organization perhaps it makes data easier to inspect. We have wide monitors our laptops and destops. However, for visualization and analysis you generally need to transform this data from the wide format to a “tidy”, long format. We look at the case where just one variable is stored in a&amp;hellip;</description>
+      <description>A wide data storage format is an efficient and compact way to store information. And this organization perhaps it makes data easier to inspect. We have wide monitors our laptops and destops. However, for visualization and analysis you generally need to transform this data from the wide format to a “tidy”, long format. We look at the case where just one variable is stored in a</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-multilevel-model-with/</guid>
-      <description>This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data. The second post in the series will focus on running and evaluating the imputation model itself after having identified the appropriate covariates that help account for&amp;hellip;</description>
+      <description>This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data. The second post in the series will focus on running and evaluating the imputation model itself after having identified the appropriate covariates that help account for</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-baby-steps/</guid>
-      <description>Before going into the regression example with a predictor, it’s worthwhile to first demonstrate quadratic approximation by just modeling the score differential with a Gaussian. First step is to visualize the score differential distribution: Not bad, but then again this was a pretty easy&amp;hellip;</description>
+      <description>Before going into the regression example with a predictor, it’s worthwhile to first demonstrate quadratic approximation by just modeling the score differential with a Gaussian. First step is to visualize the score differential distribution: Not bad, but then again this was a pretty easy</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/rereferencing-factor-levels-to/</guid>
-      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to&amp;hellip;</description>
+      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/selection-effects/</guid>
-      <description>My limited goals: Perhaps the central difference between working in the Stata environment and in R is that in R you always have to be declaring which data frame you are working with. In Stata, you just have one active data frame and then you can refer to the variables by their names alone. The tidyverse tools with piping make working in R feel more like working in Stata in my&amp;hellip;</description>
+      <description>My limited goals: Perhaps the central difference between working in the Stata environment and in R is that in R you always have to be declaring which data frame you are working with. In Stata, you just have one active data frame and then you can refer to the variables by their names alone. The tidyverse tools with piping make working in R feel more like working in Stata in my</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/wget-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the Wget utility through practical examples and detailed explanations of the most common Wget options. What is Wget? GNU Wget is command line utility for downloading files from the web. With Wget you can download files using HTTP, HTTPS, and FTP protocols. Wget provides a number of options allowing you to download multiple files, resume downloads, limit the bandwidth, recursive downloads, download in a background, mirror a website and much&amp;hellip;</description>
+      <description>In this tutorial, we will show you how to use the Wget utility through practical examples and detailed explanations of the most common Wget options. What is Wget? GNU Wget is command line utility for downloading files from the web. With Wget you can download files using HTTP, HTTPS, and FTP protocols. Wget provides a number of options allowing you to download multiple files, resume downloads, limit the bandwidth, recursive downloads, download in a background, mirror a website and much</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/multivariate-adaptive-regressi/</guid>
-      <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear&amp;hellip;</description>
+      <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear</description>
     </item>
     
     <item>
@@ -314,7 +314,7 @@
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-find-files-in-linux-usi/</guid>
-      <description>Find is a command-line utility which allows you to search for files and directories in a directory hierarchy based on a user given expression and applies a user specified action on each matched file. The Linux Find command is one of the most powerful tools in the Linux system administrators arsenal. You can use the find command to search for files based on the file permissions, type, date, ownership, size and&amp;hellip;</description>
+      <description>Find is a command-line utility which allows you to search for files and directories in a directory hierarchy based on a user given expression and applies a user specified action on each matched file. The Linux Find command is one of the most powerful tools in the Linux system administrators arsenal. You can use the find command to search for files based on the file permissions, type, date, ownership, size and</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/late-anniversary-edition-redux/</guid>
-      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog. But since it was just about a year ago that I first wrote about this topic (and started the blog), I thought I’d post this now to mark the occasion. As the variation across clusters increases, so does the discrepancy between the conditional and marginal&amp;hellip;</description>
+      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog. But since it was just about a year ago that I first wrote about this topic (and started the blog), I thought I’d post this now to mark the occasion. As the variation across clusters increases, so does the discrepancy between the conditional and marginal</description>
     </item>
     
     <item>
@@ -332,7 +332,7 @@
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tiler-020-cran-release/</guid>
-      <description>Lastly, consider the power of your system before attempting to make a ton of tiles for large images at very high resolutions. You could find that the system could hang at any one of a number of choke points. If you are attempting to make thousands of tiles for a large, high resolution image and your system is struggling, it is recommended to (1) try making tiles for only one zoom level at a time, starting from zero and then increasing while monitoring your system&amp;hellip;</description>
+      <description>Lastly, consider the power of your system before attempting to make a ton of tiles for large images at very high resolutions. You could find that the system could hang at any one of a number of choke points. If you are attempting to make thousands of tiles for a large, high resolution image and your system is struggling, it is recommended to (1) try making tiles for only one zoom level at a time, starting from zero and then increasing while monitoring your system</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
+      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/when-docker-meets-make/</guid>
-      <description>Being a DevOps engineer, it&amp;rsquo;s very common that we use tools like AWS CLI, Docker/ECS, and Ansible to build continuous deployment solutions. It is also common to use tools like JenkinsCI to fully automate the deployment of your applications. Recently I have experienced that, due to some bizarre and varied reasons, you cannot always use CI. By removing CI from the picture, we introduce other issues (e.g. you cannot run the deployment scripts as-is on any&amp;hellip;</description>
+      <description>Being a DevOps engineer, it&amp;rsquo;s very common that we use tools like AWS CLI, Docker/ECS, and Ansible to build continuous deployment solutions. It is also common to use tools like JenkinsCI to fully automate the deployment of your applications. Recently I have experienced that, due to some bizarre and varied reasons, you cannot always use CI. By removing CI from the picture, we introduce other issues (e.g. you cannot run the deployment scripts as-is on any</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>Now that we have the teams for each county, we want to work out how well they would do at a world cup. For this, we need to know roughly what their ranking would be compared to actual nations. Two sources of rankings of nations are the official FIFA world rankings, and also the world ELO ratings of each nation at www.eloratings.net. I scraped both of these (accurate to mid-May) and cleaned the data to match the nation names to those in the player dataset we’re&amp;hellip;</description>
+      <description>Now that we have the teams for each county, we want to work out how well they would do at a world cup. For this, we need to know roughly what their ranking would be compared to actual nations. Two sources of rankings of nations are the official FIFA world rankings, and also the world ELO ratings of each nation at www.eloratings.net. I scraped both of these (accurate to mid-May) and cleaned the data to match the nation names to those in the player dataset we’re</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/whats-the-igo-dataset/</guid>
-      <description>This webpage is meant provide students and the curious with an visual, explorable introduction to the dataset. The number of IGOs observed over the time period of 1815 to 2005 has dramatically increased. At the beginning of this period there were just a handful, but now they number more than 300. The number of IGO-country memberships, likewise has also grown dramatically. Individual country affiliations with IGOs numbers more than&amp;hellip;</description>
+      <description>This webpage is meant provide students and the curious with an visual, explorable introduction to the dataset. The number of IGOs observed over the time period of 1815 to 2005 has dramatically increased. At the beginning of this period there were just a handful, but now they number more than 300. The number of IGO-country memberships, likewise has also grown dramatically. Individual country affiliations with IGOs numbers more than</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/article-round-up-june-2018/</guid>
-      <description>The first article is quite long, but easily skim-able. It focuses on not the super wealthy but the elite professionals that make up the upper class and the pernicious ways that group has convinced itself that membership is meritocratic when in reality parental wealth is inherited to a high&amp;hellip;</description>
+      <description>The first article is quite long, but easily skim-able. It focuses on not the super wealthy but the elite professionals that make up the upper class and the pernicious ways that group has convinced itself that membership is meritocratic when in reality parental wealth is inherited to a high</description>
     </item>
     
     <item>
@@ -386,7 +386,7 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or etc.). We need to make sure we select the best palyers for each position on a realistic&amp;hellip;</description>
+      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or etc.). We need to make sure we select the best palyers for each position on a realistic</description>
     </item>
     
     <item>
@@ -395,7 +395,7 @@
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-brief-introduction-to-bagged/</guid>
-      <description>It should be noted that although the bagged trees are identically distributed, they are not necessarily independent. Since the boostrap samples used to train each individual tree come from the same data set, it is not surprising that the trees may share some similar structure. This similarity, known as tree correlation, is an essential factor that prevents further reduction of variance (hence further improvement of performance) for bagged&amp;hellip;</description>
+      <description>It should be noted that although the bagged trees are identically distributed, they are not necessarily independent. Since the boostrap samples used to train each individual tree come from the same data set, it is not surprising that the trees may share some similar structure. This similarity, known as tree correlation, is an essential factor that prevents further reduction of variance (hence further improvement of performance) for bagged</description>
     </item>
     
     <item>
@@ -404,7 +404,7 @@
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/day-38-algorithmic-complexity/</guid>
-      <description>can be produced with a very short R program: whereas a random-looking string like However, if I use R as the compressing language, there is a very short program that produces it: All of which is by way of background. And calling it… Not surprisingly, complexity increases as a sequence becomes longer, even if it’s the the same symbol being&amp;hellip;</description>
+      <description>can be produced with a very short R program: whereas a random-looking string like However, if I use R as the compressing language, there is a very short program that produces it: All of which is by way of background. And calling it… Not surprisingly, complexity increases as a sequence becomes longer, even if it’s the the same symbol being</description>
     </item>
     
     <item>
@@ -413,7 +413,7 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-note-on-factors-in-regressio/</guid>
-      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment&amp;hellip;</description>
+      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment</description>
     </item>
     
     <item>
@@ -422,7 +422,7 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/day-3637-concerned-dalex/</guid>
-      <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find inspiration. As always, the wonderful twitter rstats folks rose to the occasion: If I’ve understood this correctly, what the figure is showing me is what happens to the model prediction as I add the predictors in one by&amp;hellip;</description>
+      <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find inspiration. As always, the wonderful twitter rstats folks rose to the occasion: If I’ve understood this correctly, what the figure is showing me is what happens to the model prediction as I add the predictors in one by</description>
     </item>
     
     <item>
@@ -431,7 +431,7 @@
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-baby-steps/</guid>
-      <description>You’re trying to evaluate a receiver’s ability to catch a football. Let’s pretend you can take the following (completely unrealistic) strategy: you tell your quarterback to repeatedly throw the ball to your receiver in practice, recording each time whether or not they caught the ball. We’ll let C stand for catch and D stand for&amp;hellip;</description>
+      <description>You’re trying to evaluate a receiver’s ability to catch a football. Let’s pretend you can take the following (completely unrealistic) strategy: you tell your quarterback to repeatedly throw the ball to your receiver in practice, recording each time whether or not they caught the ball. We’ll let C stand for catch and D stand for</description>
     </item>
     
     <item>
@@ -440,7 +440,7 @@
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/my-favourite-snippets/</guid>
-      <description>A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++&amp;hellip;.) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is easy. The graphical way is getting to Rstudio Tools &amp;gt; Global Options &amp;gt; Code &amp;gt; Enable Code Snippets (Edit&amp;hellip;</description>
+      <description>A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++&amp;hellip;.) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration. Doing this is easy. The graphical way is getting to Rstudio Tools &amp;gt; Global Options &amp;gt; Code &amp;gt; Enable Code Snippets (Edit</description>
     </item>
     
     <item>
@@ -449,7 +449,7 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/jenkins-as-a-service/</guid>
-      <description>In this session we will work through provisioning Jenkins on AWS ECS from a set of Docker containers that allow individuals or teams to self service an immutable CI/CD setup. The presentation looks at the 3 levels of the service, Infrastructure automation, Application automation and Job configuration automation. We treat our applications with a strong &amp;lsquo;as code&amp;rsquo; approach, but often forget about the critical operational&amp;hellip;</description>
+      <description>In this session we will work through provisioning Jenkins on AWS ECS from a set of Docker containers that allow individuals or teams to self service an immutable CI/CD setup. The presentation looks at the 3 levels of the service, Infrastructure automation, Application automation and Job configuration automation. We treat our applications with a strong &amp;lsquo;as code&amp;rsquo; approach, but often forget about the critical operational</description>
     </item>
     
     <item>
@@ -467,7 +467,7 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/bog18-talk-notes/</guid>
-      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the&amp;hellip;</description>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically. Speaker (Last Author) 80+% complete for each of the</description>
     </item>
     
     <item>
@@ -476,7 +476,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/modeling-the-error-variance-to/</guid>
-      <description>One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of prediction. This assumption is important for OLS to be the best linear unbiased predictor&amp;hellip;</description>
+      <description>One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances). It implies that there is no systematic pattern to the error variance, meaning the model is equally poor at all levels of prediction. This assumption is important for OLS to be the best linear unbiased predictor</description>
     </item>
     
     <item>
@@ -485,7 +485,7 @@
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/simulating-data-from-regressio/</guid>
-      <description>My preferred approach to validating regression models is to simulate data from them, and see if the simulated data capture relevant features of the original data. A basic feature of interest would be the mean. I like this approach because it is extendable to the family of generalized linear models (logistic, Poisson, gamma, &amp;hellip;) and other regression models, say t-regression. It&amp;rsquo;s something Gelman and Hill cover in their regression&amp;hellip;</description>
+      <description>My preferred approach to validating regression models is to simulate data from them, and see if the simulated data capture relevant features of the original data. A basic feature of interest would be the mean. I like this approach because it is extendable to the family of generalized linear models (logistic, Poisson, gamma, &amp;hellip;) and other regression models, say t-regression. It&amp;rsquo;s something Gelman and Hill cover in their regression</description>
     </item>
     
     <item>
@@ -494,7 +494,7 @@
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/writing-an-r-package-basics-an/</guid>
-      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I&amp;rsquo;ll go over some of the content in that talk, and discuss why I think you should develop an R&amp;hellip;</description>
+      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I&amp;rsquo;ll go over some of the content in that talk, and discuss why I think you should develop an R</description>
     </item>
     
     <item>
@@ -503,7 +503,7 @@
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/testing-multiple-interventions/</guid>
-      <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or&amp;hellip;</description>
+      <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or</description>
     </item>
     
     <item>
@@ -512,7 +512,7 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-install-java-on-debian-/</guid>
-      <description>In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit&amp;hellip;</description>
+      <description>In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit</description>
     </item>
     
     <item>
@@ -521,7 +521,7 @@
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/predicting-nfl-injuries-with-s/</guid>
-      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models. I have data on all the injuries that occured during the 2017 NFL (American Football) season, courtesy of&amp;hellip;</description>
+      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models. I have data on all the injuries that occured during the 2017 NFL (American Football) season, courtesy of</description>
     </item>
     
     <item>
@@ -530,7 +530,7 @@
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/stan-basics/</guid>
-      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other languages). I figured it would be valuable for myself, and possibly others, to work through a few different problems in Stan and share my&amp;hellip;</description>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”. You can easily interface with Stan through R (or python or a bunch of other languages). I figured it would be valuable for myself, and possibly others, to work through a few different problems in Stan and share my</description>
     </item>
     
     <item>
@@ -539,7 +539,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ymmv-nonprofit-data-science/</guid>
-      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization&amp;hellip;</description>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization</description>
     </item>
     
     <item>
@@ -548,7 +548,7 @@
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/california-school-dashboards-p/</guid>
-      <description>This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the&amp;hellip;</description>
+      <description>This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the</description>
     </item>
     
     <item>
@@ -557,7 +557,7 @@
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/california-school-dashboards-p/</guid>
-      <description>This is part two of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, at this&amp;hellip;</description>
+      <description>This is part two of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, at this</description>
     </item>
     
     <item>
@@ -566,7 +566,7 @@
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/functional-programming-in-r-wi/</guid>
-      <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses. You want to see if you can find the mean of some&amp;hellip;</description>
+      <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses. You want to see if you can find the mean of some</description>
     </item>
     
     <item>
@@ -575,7 +575,7 @@
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-gentle-guide-to-tidy-statist/</guid>
-      <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment. In a real clinical trial, many other variables would be recorded, but for the sake of a straightforward but multi-variate example we will stick to just MMSE. We will be working through loading, plotting, analyzing, and saving the outputs of our analysis through the tidyverse, an “opinionated collection of R packages” designed for data&amp;hellip;</description>
+      <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment. In a real clinical trial, many other variables would be recorded, but for the sake of a straightforward but multi-variate example we will stick to just MMSE. We will be working through loading, plotting, analyzing, and saving the outputs of our analysis through the tidyverse, an “opinionated collection of R packages” designed for data</description>
     </item>
     
     <item>
@@ -584,7 +584,7 @@
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/epl-week-30/</guid>
-      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayRashford schools Alex-Arnold Palace joined WBA with a league-leading ninth one-goal defeat. Every team has suffered at least one such occurrence this season. Surprisingly Huddersfield have lost by a single goal just once in their 15 defeatsManager changesSeveral teams have changed manager’s this season in an attempt to acquire a ‘New manger&amp;hellip;</description>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayRashford schools Alex-Arnold Palace joined WBA with a league-leading ninth one-goal defeat. Every team has suffered at least one such occurrence this season. Surprisingly Huddersfield have lost by a single goal just once in their 15 defeatsManager changesSeveral teams have changed manager’s this season in an attempt to acquire a ‘New manger</description>
     </item>
     
     <item>
@@ -593,7 +593,7 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/interpretable-machine-learning/</guid>
-      <description>Machine learning models repeatedly outperform interpretable, parametric models like the linear regression model. The gains in performance have a price: The models operate as black boxes which are not interpretable. Fortunately, there are many methods that can make machine learning models&amp;hellip;</description>
+      <description>Machine learning models repeatedly outperform interpretable, parametric models like the linear regression model. The gains in performance have a price: The models operate as black boxes which are not interpretable. Fortunately, there are many methods that can make machine learning models</description>
     </item>
     
     <item>
@@ -602,7 +602,7 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/training-courses-for-mlr/</guid>
-      <description>The mlr: Machine Learning in R package provides a generic, object-oriented and extensible framework for classification, regression, survival analysis and clustering for the statistical programming language R. The package targets practitioners who want to quickly apply machine learning algorithms, as well as researchers who want to implement, benchmark, and compare their new methods in a structured environment. We are happy to announce that we now offer training courses specialized on&amp;hellip;</description>
+      <description>The mlr: Machine Learning in R package provides a generic, object-oriented and extensible framework for classification, regression, survival analysis and clustering for the statistical programming language R. The package targets practitioners who want to quickly apply machine learning algorithms, as well as researchers who want to implement, benchmark, and compare their new methods in a structured environment. We are happy to announce that we now offer training courses specialized on</description>
     </item>
     
     <item>
@@ -611,7 +611,7 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fundamentos-de-inferencia-esta/</guid>
-      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas centrales. Dado que no soy estadístico, probablemente hayan imprecisiones, en todo caso me asumo responsable y los invito a leer de manera crítica el&amp;hellip;</description>
+      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas centrales. Dado que no soy estadístico, probablemente hayan imprecisiones, en todo caso me asumo responsable y los invito a leer de manera crítica el</description>
     </item>
     
     <item>
@@ -620,7 +620,7 @@
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/its-showtime/</guid>
-      <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious. However sometimes teams don&amp;rsquo;t think the work they do is showcaseable, or that only &amp;lsquo;customer facing&amp;rsquo; applications should be showcased. I believe that if you are taking a product based approach to your work (which you should&amp;hellip;</description>
+      <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious. However sometimes teams don&amp;rsquo;t think the work they do is showcaseable, or that only &amp;lsquo;customer facing&amp;rsquo; applications should be showcased. I believe that if you are taking a product based approach to your work (which you should</description>
     </item>
     
     <item>
@@ -629,7 +629,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/brief-introduction-of-storm-hy/</guid>
-      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed outlet. As the temporal dynamics of discharge and solute concentration is an integration of complex hydrological and biochemical processes, the relationship between solute concentration and discharge, hereafter called C-Q relationship, is mostly&amp;hellip;</description>
+      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed outlet. As the temporal dynamics of discharge and solute concentration is an integration of complex hydrological and biochemical processes, the relationship between solute concentration and discharge, hereafter called C-Q relationship, is mostly</description>
     </item>
     
     <item>
@@ -638,7 +638,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-shiny-app-to-compare-stats/</guid>
-      <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots. I particularly pleased with the plotly 3D graph - as I usually think that 3D graphs are impossible to read. This plot shows what we found in our study (albeit I would recommend viewing the 2D plots more): Bayes Factors and p-values follow a power function, as we&amp;hellip;</description>
+      <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots. I particularly pleased with the plotly 3D graph - as I usually think that 3D graphs are impossible to read. This plot shows what we found in our study (albeit I would recommend viewing the 2D plots more): Bayes Factors and p-values follow a power function, as we</description>
     </item>
     
     <item>
@@ -647,7 +647,7 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/covariate-adjustment-for-binar/</guid>
-      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by&amp;hellip;</description>
+      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by</description>
     </item>
     
     <item>
@@ -656,7 +656,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/research-statement/</guid>
-      <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years. Psycholinguistics. My cognitive research focuses broadly on psycholinguistics and memory, particularly on the statistical properties of word&amp;hellip;</description>
+      <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years. Psycholinguistics. My cognitive research focuses broadly on psycholinguistics and memory, particularly on the statistical properties of word</description>
     </item>
     
     <item>
@@ -665,7 +665,7 @@
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/teaching-luxembourgish-to-my-c/</guid>
-      <description>Today we reveal a project that Kevin and myself have been working on for the past 2 months, Liss. Liss is a sentiment analysis artificial intelligence; you can let Liss read single words or whole sentences, and Liss will tell you if the overall sentiment is either positive or negative. Such tools are used in marketing, to determine how people perceive a certain brand or new products for instance. The originality of Liss, is that it works on Luxembourguish&amp;hellip;</description>
+      <description>Today we reveal a project that Kevin and myself have been working on for the past 2 months, Liss. Liss is a sentiment analysis artificial intelligence; you can let Liss read single words or whole sentences, and Liss will tell you if the overall sentiment is either positive or negative. Such tools are used in marketing, to determine how people perceive a certain brand or new products for instance. The originality of Liss, is that it works on Luxembourguish</description>
     </item>
     
     <item>
@@ -674,7 +674,7 @@
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-binary-regression-softwa/</guid>
-      <description>I have read that the most common model for analyzing ordinal data is the cumulative link logistic model, coupled with the proportional odds assumption. Essentially, you treat the outcome as if it were the categorical manifestation of a continuous latent variable. The predictor variables of this outcome influence it in one way only, so you get a single regression coefficient for each&amp;hellip;</description>
+      <description>I have read that the most common model for analyzing ordinal data is the cumulative link logistic model, coupled with the proportional odds assumption. Essentially, you treat the outcome as if it were the categorical manifestation of a continuous latent variable. The predictor variables of this outcome influence it in one way only, so you get a single regression coefficient for each</description>
     </item>
     
     <item>
@@ -683,7 +683,7 @@
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/california-school-dashboards-p/</guid>
-      <description>This is part one of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. Introduction: It’s Ok to Skip Around I’m writing this series for data scientists, public school educators, and data scientists who are also public school&amp;hellip;</description>
+      <description>This is part one of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. Introduction: It’s Ok to Skip Around I’m writing this series for data scientists, public school educators, and data scientists who are also public school</description>
     </item>
     
     <item>
@@ -701,7 +701,7 @@
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/have-you-ever-asked-yourself-h/</guid>
-      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for each. That is, given that there is some effect, how often is the p-value of the test less than&amp;hellip;</description>
+      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for each. That is, given that there is some effect, how often is the p-value of the test less than</description>
     </item>
     
     <item>
@@ -710,7 +710,7 @@
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-models/</guid>
-      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models. Let’s start by loading some libraries. library(ggplot2) library(datasets) Background Theory The basic idea is as follows: Given two variables, (x) and (y), for which we’ve measured a set of data points ({x_i, y_i}) with (i = 1, &amp;hellip;, n), we want to estimate a function, (f(x)), such that [y_i = f(x_i) +&amp;hellip;</description>
+      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models. Let’s start by loading some libraries. library(ggplot2) library(datasets) Background Theory The basic idea is as follows: Given two variables, (x) and (y), for which we’ve measured a set of data points ({x_i, y_i}) with (i = 1, &amp;hellip;, n), we want to estimate a function, (f(x)), such that [y_i = f(x_i) +</description>
     </item>
     
     <item>
@@ -719,7 +719,7 @@
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/importance-sampling-adds-an-in/</guid>
-      <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics. MC methods are an essential tool to understand the behavior of statistical models. In fact, I’ve probably used MC simulations in just about all of my posts - to generate repeated samples from a model to explore bias, variance, and other distributional characteristics of a particular&amp;hellip;</description>
+      <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics. MC methods are an essential tool to understand the behavior of statistical models. In fact, I’ve probably used MC simulations in just about all of my posts - to generate repeated samples from a model to explore bias, variance, and other distributional characteristics of a particular</description>
     </item>
     
     <item>
@@ -737,7 +737,7 @@
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/churn-analysis-part-1/</guid>
-      <description>Hello everyone, We can shortly define customer churn (most commonly called “churn”) as customers that stop doing business with a company or a service. There are customer churns in different business area. In this post, we will focus on the telecom area. Here, we want to predict which customers will leave their current telecom provider. This type of studies are called churn&amp;hellip;</description>
+      <description>Hello everyone, We can shortly define customer churn (most commonly called “churn”) as customers that stop doing business with a company or a service. There are customer churns in different business area. In this post, we will focus on the telecom area. Here, we want to predict which customers will leave their current telecom provider. This type of studies are called churn</description>
     </item>
     
     <item>
@@ -746,7 +746,7 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-glmer-to-perform-rasch-a/</guid>
-      <description>I&amp;rsquo;ve been interested in the relationship between ordinal regression and item response theory (IRT) for a few months now. There are several helpful papers on the topic, here are some randomly picked ones 1 2 3 4 5, and a book.6 In this post, I focus on Rasch&amp;hellip;</description>
+      <description>I&amp;rsquo;ve been interested in the relationship between ordinal regression and item response theory (IRT) for a few months now. There are several helpful papers on the topic, here are some randomly picked ones 1 2 3 4 5, and a book.6 In this post, I focus on Rasch</description>
     </item>
     
     <item>
@@ -755,7 +755,7 @@
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/postselection-inference-on-fri/</guid>
-      <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”. But let’s&amp;hellip;</description>
+      <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”. But let’s</description>
     </item>
     
     <item>
@@ -764,7 +764,7 @@
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-theres-a-fork-in-the-road/</guid>
-      <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes. Maybe we could come up with an actual randomized experiment to mimic this, but it may be difficult. More likely, we’ll have observed data that looks like this: Alternatively, we can just generate the observed data&amp;hellip;</description>
+      <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes. Maybe we could come up with an actual randomized experiment to mimic this, but it may be difficult. More likely, we’ll have observed data that looks like this: Alternatively, we can just generate the observed data</description>
     </item>
     
     <item>
@@ -782,7 +782,7 @@
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-you-use-inverse-probabili/</guid>
-      <description>Because binary outcomes are less amenable to visual illustration, I am going to stick with model estimation to see how this plays out: We can look directly at the potential outcomes to see the true causal effect, measured as a log odds ratio (LOR): In the linear regression context, the conditional effect measured using observed data from the exposed and unexposed subgroups was in fact a good estimate of the marginal effect in the&amp;hellip;</description>
+      <description>Because binary outcomes are less amenable to visual illustration, I am going to stick with model estimation to see how this plays out: We can look directly at the potential outcomes to see the true causal effect, measured as a log odds ratio (LOR): In the linear regression context, the conditional effect measured using observed data from the exposed and unexposed subgroups was in fact a good estimate of the marginal effect in the</description>
     </item>
     
     <item>
@@ -791,7 +791,7 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-how-confounding-bi/</guid>
-      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions. My goal (starting here and continuing in upcoming posts) is to think a bit about how to characterize confounding in a way that makes it possible to literally see why improperly estimating intervention effects might lead to bias. Unfortunately, in the real world, it is rarely feasible to expose an individual to multiple&amp;hellip;</description>
+      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions. My goal (starting here and continuing in upcoming posts) is to think a bit about how to characterize confounding in a way that makes it possible to literally see why improperly estimating intervention effects might lead to bias. Unfortunately, in the real world, it is rarely feasible to expose an individual to multiple</description>
     </item>
     
     <item>
@@ -800,7 +800,7 @@
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/3-keys-for-successful-products/</guid>
-      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of&amp;hellip;</description>
+      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of</description>
     </item>
     
     <item>
@@ -809,7 +809,7 @@
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mapping-statewide-school-ratin/</guid>
-      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding&amp;hellip;</description>
+      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding</description>
     </item>
     
     <item>
@@ -818,7 +818,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/firearms-sourced-and-recovered/</guid>
-      <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using R. The shiny app can be run directly We read in the data sources In the app it is easy to see that since the Sandy Hook mass shooting high regulation has caused a large net inflow of firearms into&amp;hellip;</description>
+      <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using R. The shiny app can be run directly We read in the data sources In the app it is easy to see that since the Sandy Hook mass shooting high regulation has caused a large net inflow of firearms into</description>
     </item>
     
     <item>
@@ -827,7 +827,7 @@
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/esvis-part-1/</guid>
-      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs. If you find any, please let me know. You can install the package like you would any other on R install.packages(&amp;ldquo;esvis&amp;rdquo;) or if you&amp;rsquo;d prefer the sometimes buggy but more feature-heavy development version, install from github with&amp;hellip;</description>
+      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs. If you find any, please let me know. You can install the package like you would any other on R install.packages(&amp;ldquo;esvis&amp;rdquo;) or if you&amp;rsquo;d prefer the sometimes buggy but more feature-heavy development version, install from github with</description>
     </item>
     
     <item>
@@ -836,7 +836,7 @@
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/misspecification-and-fit-indic/</guid>
-      <description>TLDR: If you have good measurement quality, conventional benchmarks for fit indices may lead to bad decisions. Additionally, global fit indices are not informative for investigating misspecification. I am working with one of my professors, Dr. Jessica Logan, on a checklist for the developmental progress of young children. We intend to take this down the IRT route (or ordinal logistic regression), but currently, this is all part of a factor analysis course&amp;hellip;</description>
+      <description>TLDR: If you have good measurement quality, conventional benchmarks for fit indices may lead to bad decisions. Additionally, global fit indices are not informative for investigating misspecification. I am working with one of my professors, Dr. Jessica Logan, on a checklist for the developmental progress of young children. We intend to take this down the IRT route (or ordinal logistic regression), but currently, this is all part of a factor analysis course</description>
     </item>
     
     <item>
@@ -845,7 +845,7 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/who-knew-likelihood-functions-/</guid>
-      <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”&amp;hellip;</description>
+      <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”</description>
     </item>
     
     <item>
@@ -863,7 +863,7 @@
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-estimation-of-signal-/</guid>
-      <description>This post is the third part in a series of blog posts on Signal Detection models: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques. In the second part, I described how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian&amp;hellip;</description>
+      <description>This post is the third part in a series of blog posts on Signal Detection models: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques. In the second part, I described how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian</description>
     </item>
     
     <item>
@@ -872,7 +872,7 @@
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/can-we-use-bsplines-to-generat/</guid>
-      <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using weights. If one is trying to fit a B-spline line to data, those weights can be estimated using regression&amp;hellip;</description>
+      <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using weights. If one is trying to fit a B-spline line to data, those weights can be estimated using regression</description>
     </item>
     
     <item>
@@ -881,7 +881,7 @@
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-estimation-of-signal-/</guid>
-      <description>This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a nonlinear Bayesian&amp;hellip;</description>
+      <description>This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a nonlinear Bayesian</description>
     </item>
     
     <item>
@@ -890,7 +890,7 @@
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/bayesian-estimation-of-signal-/</guid>
-      <description>This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a hierarchical nonlinear Bayesian&amp;hellip;</description>
+      <description>This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a hierarchical nonlinear Bayesian</description>
     </item>
     
     <item>
@@ -899,7 +899,7 @@
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/an-introduction-to-web-perform/</guid>
-      <description>This is an excerpt from a talk I gave at LASTConf Melbourne on Web Performance Optimisation. In this short video I discuss some of the benefits that web optimisation can bring to internal web pages, and what this means for our concentration and stress levels. In the full talk, (video, slides), I cover: The psychology of performance The benefits of optimisation Why we get it wrong What to measure Content optimisations Delivery optimisations The key web performance optimisation&amp;hellip;</description>
+      <description>This is an excerpt from a talk I gave at LASTConf Melbourne on Web Performance Optimisation. In this short video I discuss some of the benefits that web optimisation can bring to internal web pages, and what this means for our concentration and stress levels. In the full talk, (video, slides), I cover: The psychology of performance The benefits of optimisation Why we get it wrong What to measure Content optimisations Delivery optimisations The key web performance optimisation</description>
     </item>
     
     <item>
@@ -917,7 +917,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/littles-mcar-test-at-different/</guid>
-      <description>TLDR: Little&amp;rsquo;s MCAR test is unable to tell data that are MCAR from data that are MAR in small samples, but maintains the nominal error rate when null is true across a wide range of sample sizes. I just found out about the R simglm package and decided to do a small simulation to test Little&amp;rsquo;s MCAR test1 under different sample sizes. I could have investigated heteroskedasticity in linear regression instead, and I probably will in the&amp;hellip;</description>
+      <description>TLDR: Little&amp;rsquo;s MCAR test is unable to tell data that are MCAR from data that are MAR in small samples, but maintains the nominal error rate when null is true across a wide range of sample sizes. I just found out about the R simglm package and decided to do a small simulation to test Little&amp;rsquo;s MCAR test1 under different sample sizes. I could have investigated heteroskedasticity in linear regression instead, and I probably will in the</description>
     </item>
     
     <item>
@@ -926,7 +926,7 @@
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/theilsen-regression-in-r/</guid>
-      <description>TLDR: When performing a simple linear regression, if you have any concern about outliers or heterosedasticity, consider the Theil-Sen estimator. A simple linear regression estimator that is not commonly used or taught in the social sciences is the Theil-Sen estimator. This is a shame given that this estimator is very intuitive, once you know what a slope&amp;hellip;</description>
+      <description>TLDR: When performing a simple linear regression, if you have any concern about outliers or heterosedasticity, consider the Theil-Sen estimator. A simple linear regression estimator that is not commonly used or taught in the social sciences is the Theil-Sen estimator. This is a shame given that this estimator is very intuitive, once you know what a slope</description>
     </item>
     
     <item>
@@ -935,7 +935,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-simstudy-update-provides-an-/</guid>
-      <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each&amp;hellip;</description>
+      <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each</description>
     </item>
     
     <item>
@@ -944,7 +944,7 @@
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/linear-regression-with-violati/</guid>
-      <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity. The sample size for the analysis was 44. I mentioned how the regression slopes are fine under heteroskedasticity, but inference $(t, SE, pvalue)$ may be&amp;hellip;</description>
+      <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity. The sample size for the analysis was 44. I mentioned how the regression slopes are fine under heteroskedasticity, but inference $(t, SE, pvalue)$ may be</description>
     </item>
     
     <item>
@@ -953,7 +953,7 @@
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/purrify-your-carets/</guid>
-      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process programatically. These tools enable succinct functional programming in which a lot gets done with just a few lines of&amp;hellip;</description>
+      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process programatically. These tools enable succinct functional programming in which a lot gets done with just a few lines of</description>
     </item>
     
     <item>
@@ -962,7 +962,7 @@
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/advice-for-nontraditional-data/</guid>
-      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years&amp;hellip;</description>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice data. Over time I came to enjoy programming more than law and decided to make the switch to data work about three years</description>
     </item>
     
     <item>
@@ -971,7 +971,7 @@
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-hidden-process-behind-binary/</guid>
-      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical&amp;hellip;</description>
+      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical</description>
     </item>
     
     <item>
@@ -980,7 +980,7 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/osgeolive-project/</guid>
-      <description>OSGeo-Live is a self-containing ISO with around 50 FOSS dedicated to GIS. A virtual macine archive is also provided. I join the project in November (or early December) 2015, as I was already a librist when I was a became a GIS technician. As I started a Bachelor degree in GIS, I need GIS tools to do assingnements, and they often needed FOSS like QGIS and/or PostgreSQL/PostGIS, or a&amp;hellip;</description>
+      <description>OSGeo-Live is a self-containing ISO with around 50 FOSS dedicated to GIS. A virtual macine archive is also provided. I join the project in November (or early December) 2015, as I was already a librist when I was a became a GIS technician. As I started a Bachelor degree in GIS, I need GIS tools to do assingnements, and they often needed FOSS like QGIS and/or PostgreSQL/PostGIS, or a</description>
     </item>
     
     <item>
@@ -989,7 +989,7 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/purrr-tricks-with-all-subset-r/</guid>
-      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a&amp;hellip;</description>
+      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a</description>
     </item>
     
     <item>
@@ -998,7 +998,7 @@
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/be-careful-not-to-control-for-/</guid>
-      <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined. Under this framework, we generate data where we can find out the “true” measure of causal effect. And then we can use simple regression models to see how well (or not) they recapture these “known” causal&amp;hellip;</description>
+      <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined. Under this framework, we generate data where we can find out the “true” measure of causal effect. And then we can use simple regression models to see how well (or not) they recapture these “known” causal</description>
     </item>
     
     <item>
@@ -1016,7 +1016,7 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/which-rstudio-blog-posts-pleas/</guid>
-      <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since 2011. This post will do a few things: Spoiler alert: Hadley uses “pleased”&amp;hellip;</description>
+      <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since 2011. This post will do a few things: Spoiler alert: Hadley uses “pleased”</description>
     </item>
     
     <item>
@@ -1025,7 +1025,7 @@
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/on-the-interpretation-of-regre/</guid>
-      <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models.1 So I started reading it and it&amp;rsquo;s a good book. A useful piece of advice they give is to interpret regression coefficients in a predictive manner&amp;hellip;</description>
+      <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models.1 So I started reading it and it&amp;rsquo;s a good book. A useful piece of advice they give is to interpret regression coefficients in a predictive manner</description>
     </item>
     
     <item>
@@ -1034,7 +1034,7 @@
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/making-this-blog/</guid>
-      <description>blogdown magic I made this blog using the magic of blogdown which is a framework that joins together a few technologies to make ‘static websites’ RMarkdown Hugo RMarkdown RMarkdown is an interface from R to markdown which is a way of marking up a text document with formating so other tools can convert it from a text file to a pretty format (PDF, Word, etc.) It’s a great way of documenting your code by having your narrative right next to the code that generated the&amp;hellip;</description>
+      <description>blogdown magic I made this blog using the magic of blogdown which is a framework that joins together a few technologies to make ‘static websites’ RMarkdown Hugo RMarkdown RMarkdown is an interface from R to markdown which is a way of marking up a text document with formating so other tools can convert it from a text file to a pretty format (PDF, Word, etc.) It’s a great way of documenting your code by having your narrative right next to the code that generated the</description>
     </item>
     
     <item>
@@ -1052,7 +1052,7 @@
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/janitor-a-good-r-package-for-d/</guid>
-      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning&amp;hellip;</description>
+      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”. Data, as you surely know, is not often in the best shape, so for many people like me, one of the most appreciated tools is the one that makes cleaning</description>
     </item>
     
     <item>
@@ -1061,7 +1061,7 @@
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/correlated-psychological-varia/</guid>
-      <description>Assessing the correlations between psychological variabless, such as abilities and improvements, is one essential goal of psychological science. However, psychological variables are usually only available to the researcher as estimated parameters in mathematical and statistical models. The parameters are often estimated from small samples of observations for each research participant, which results in uncertainty (aka sampling error) about the participant-specific&amp;hellip;</description>
+      <description>Assessing the correlations between psychological variabless, such as abilities and improvements, is one essential goal of psychological science. However, psychological variables are usually only available to the researcher as estimated parameters in mathematical and statistical models. The parameters are often estimated from small samples of observations for each research participant, which results in uncertainty (aka sampling error) about the participant-specific</description>
     </item>
     
     <item>
@@ -1070,7 +1070,7 @@
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/first-look-at-tidycensus/</guid>
-      <description>The whole future of the US census has been coming under scrutiny recently, but, thankfully, we are getting more tools to scrutinise both its decennial data and that of its sister-source, the American Community service (ACS). Specifically, Kyle Walker’s tidycensus and tigris packages which return data-frames (including shape-files as list-columns, if required) from the census API and Edzer Pebesma’s sf, simple features,&amp;hellip;</description>
+      <description>The whole future of the US census has been coming under scrutiny recently, but, thankfully, we are getting more tools to scrutinise both its decennial data and that of its sister-source, the American Community service (ACS). Specifically, Kyle Walker’s tidycensus and tigris packages which return data-frames (including shape-files as list-columns, if required) from the census API and Edzer Pebesma’s sf, simple features,</description>
     </item>
     
     <item>
@@ -1079,7 +1079,7 @@
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/matrix-factorization-for-recom/</guid>
-      <description>In previous post I explained Weigted Alternating Least Squares algorithm for matrix factorization. This post will be more practical - we will build a model which will recommend artists recommendations based on history of track listenings. Design of evaluation and cross validation Before we will go to modeling we need to discuss how we will validate our&amp;hellip;</description>
+      <description>In previous post I explained Weigted Alternating Least Squares algorithm for matrix factorization. This post will be more practical - we will build a model which will recommend artists recommendations based on history of track listenings. Design of evaluation and cross validation Before we will go to modeling we need to discuss how we will validate our</description>
     </item>
     
     <item>
@@ -1088,7 +1088,7 @@
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/is-zerosum-thinking-affecting-/</guid>
-      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets. When I find these points of convergence I start looking for adjustments that reduce risk exposure and simultaneously improve the customer&amp;hellip;</description>
+      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets. When I find these points of convergence I start looking for adjustments that reduce risk exposure and simultaneously improve the customer</description>
     </item>
     
     <item>
@@ -1097,7 +1097,7 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/thinking-about-workflow/</guid>
-      <description>In the spring of 2011, I was in the middle of doing research for my dissertation. I had recently returned from my second extended trip to the archives in the Netherlands and Belgium and had accumulated a ton of notes. I knew that technology had drastically altered the possibilities for research, but the fundamentals of my own workflow were hardly different than they had been when I began undergrad in the early&amp;hellip;</description>
+      <description>In the spring of 2011, I was in the middle of doing research for my dissertation. I had recently returned from my second extended trip to the archives in the Netherlands and Belgium and had accumulated a ton of notes. I knew that technology had drastically altered the possibilities for research, but the fundamentals of my own workflow were hardly different than they had been when I began undergrad in the early</description>
     </item>
     
     <item>
@@ -1106,7 +1106,7 @@
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-marginal-and-conditional-/</guid>
-      <description>My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different exposures. When we look at the data visually, we get a hint that the marginal (or average) effect might not be the same as the conditional (cluster-specific)&amp;hellip;</description>
+      <description>My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different exposures. When we look at the data visually, we get a hint that the marginal (or average) effect might not be the same as the conditional (cluster-specific)</description>
     </item>
     
     <item>
@@ -1115,7 +1115,7 @@
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/tidytext-analysis-of-seinfeld/</guid>
-      <description>I then wrote a function that takes the URL for an episode and pulls the necessary data. Unfortunately, as the scripts were submitted to the site by different fans there is no standard format, making the scraping a little trickier. By using a combination of regular expressions and other tools, we are able to pull the necessary&amp;hellip;</description>
+      <description>I then wrote a function that takes the URL for an episode and pulls the necessary data. Unfortunately, as the scripts were submitted to the site by different fans there is no standard format, making the scraping a little trickier. By using a combination of regular expressions and other tools, we are able to pull the necessary</description>
     </item>
     
     <item>
@@ -1124,7 +1124,7 @@
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/it-can-be-easy-to-explore-data/</guid>
-      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to teach. Sure - I’ll use the occasional formula when one exists, but I always feel the need to check it with&amp;hellip;</description>
+      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to teach. Sure - I’ll use the occasional formula when one exists, but I always feel the need to check it with</description>
     </item>
     
     <item>
@@ -1133,7 +1133,7 @@
       <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-first-taste-of-the-common-wo/</guid>
-      <description>If you go to the CWL webpage you are greeted, right at the top, by these two sentences: The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC)&amp;hellip;</description>
+      <description>If you go to the CWL webpage you are greeted, right at the top, by these two sentences: The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC)</description>
     </item>
     
     <item>
@@ -1142,7 +1142,7 @@
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/whats-news/</guid>
-      <description>newsflash packagePolymath, Bob Rudis (aka hrbrmstr) has recently released the newsflash package which is a “set of tools to Work with the Internet Archive and GDELT Television Explorer”&amp;rdquo; In a recent blog post, based on a gdelt project creator article, he details the coverage of Hillary Clinton’s email server woes, with the, unsurprising, fact that FOX News spent more time on the issue than other&amp;hellip;</description>
+      <description>newsflash packagePolymath, Bob Rudis (aka hrbrmstr) has recently released the newsflash package which is a “set of tools to Work with the Internet Archive and GDELT Television Explorer”&amp;rdquo; In a recent blog post, based on a gdelt project creator article, he details the coverage of Hillary Clinton’s email server woes, with the, unsurprising, fact that FOX News spent more time on the issue than other</description>
     </item>
     
     <item>
@@ -1151,7 +1151,7 @@
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/parallel-benchmarking-with-ope/</guid>
-      <description>With this post I want to show you how to benchmark several learners (or learners with different parameter settings) using several data sets in a structured and parallelized fashion. For this we want to use batchtools. The data that we will use here is stored on the open machine learning platform openml.org and we can download it together with information on what to do with it in form of a&amp;hellip;</description>
+      <description>With this post I want to show you how to benchmark several learners (or learners with different parameter settings) using several data sets in a structured and parallelized fashion. For this we want to use batchtools. The data that we will use here is stored on the open machine learning platform openml.org and we can download it together with information on what to do with it in form of a</description>
     </item>
     
     <item>
@@ -1160,7 +1160,7 @@
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/the-four-values-of-a-devops-tr/</guid>
-      <description>A successful devops transformation sees a change in organisational culture. These changes often come in the way of adoption of specific tools or practices. However, to change culture, you need something more fundamental than just the introduction of new tools, or pushing everyone into Scrum teams. Just like the agile transformations of the past, there was a difference between ‘Doing Agile’, and ‘Being Agile’. ‘We do standups’ - therefore we are&amp;hellip;</description>
+      <description>A successful devops transformation sees a change in organisational culture. These changes often come in the way of adoption of specific tools or practices. However, to change culture, you need something more fundamental than just the introduction of new tools, or pushing everyone into Scrum teams. Just like the agile transformations of the past, there was a difference between ‘Doing Agile’, and ‘Being Agile’. ‘We do standups’ - therefore we are</description>
     </item>
     
     <item>
@@ -1169,7 +1169,7 @@
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/why/</guid>
-      <description>We all know DevOps is not about the tools or the process, it’s about a deeper cultural movement. But all too often we think about what DevOps is, and miss the focus on Why we do it in the first&amp;hellip;</description>
+      <description>We all know DevOps is not about the tools or the process, it’s about a deeper cultural movement. But all too often we think about what DevOps is, and miss the focus on Why we do it in the first</description>
     </item>
     
     <item>
@@ -1178,7 +1178,7 @@
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/r-for-excel-users/</guid>
-      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials market. When I first started, I remember not knowing how to anything, but after a few months I became fairly proficient with the tool, and was able to build all sorts of useful&amp;hellip;</description>
+      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials market. When I first started, I remember not knowing how to anything, but after a few months I became fairly proficient with the tool, and was able to build all sorts of useful</description>
     </item>
     
     <item>
@@ -1187,7 +1187,7 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/finite-mixture-modeling-using-/</guid>
-      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia. My intent here was to learn the flexmix package by replicating the results by the authors. Model Based Clustering The model based clustering on the whiskey&amp;hellip;</description>
+      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia. My intent here was to learn the flexmix package by replicating the results by the authors. Model Based Clustering The model based clustering on the whiskey</description>
     </item>
     
     <item>
@@ -1196,7 +1196,7 @@
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/intro-to-r-slides/</guid>
-      <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub. An introduction to R In this introduction to R I focused on tools from the tidyverse, as well as trying to provide some motivation for learning R. The audience was academics and postgraduates in a psychology&amp;hellip;</description>
+      <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub. An introduction to R In this introduction to R I focused on tools from the tidyverse, as well as trying to provide some motivation for learning R. The audience was academics and postgraduates in a psychology</description>
     </item>
     
     <item>
@@ -1205,7 +1205,7 @@
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/magic-reprex/</guid>
-      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
+      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much</description>
     </item>
     
   </channel>

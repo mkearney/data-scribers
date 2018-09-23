@@ -17,7 +17,7 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/rstudio-addin-manager/</guid>
-      <description>Via the command line you can manage the addins with greater&amp;hellip;</description>
+      <description>Via the command line you can manage the addins with greater</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/firearms-sourced-and-recovered/</guid>
-      <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using R. The shiny app can be run directly We read in the data sources In the app it is easy to see that since the Sandy Hook mass shooting high regulation has caused a large net inflow of firearms into&amp;hellip;</description>
+      <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using R. The shiny app can be run directly We read in the data sources In the app it is easy to see that since the Sandy Hook mass shooting high regulation has caused a large net inflow of firearms into</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/extending-slackr/</guid>
-      <description>This lets us interact with R and Slack in new ways, by getting active updates on long simulations directly to your (and your team’s) mobile device and multitask away from your computer. Create text progress bar that is sent directly to a Slack channel. This is useful for letting you know when a simulation is done, but also to be able to send to the Slack channel a relevant summary to see that the simulation did as&amp;hellip;</description>
+      <description>This lets us interact with R and Slack in new ways, by getting active updates on long simulations directly to your (and your team’s) mobile device and multitask away from your computer. Create text progress bar that is sent directly to a Slack channel. This is useful for letting you know when a simulation is done, but also to be able to send to the Slack channel a relevant summary to see that the simulation did as</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/jstree-htmlwidget/</guid>
-      <description>jsTree is a R package that is a standalone htmlwidget for the jsTree JavaScript library. It can be run from the R console directly into the Rstudio Viewer, be used in a Shiny application or be part of an Rmarkdown html output. jsTree can be used in Shiny applications and supplies observers so the Shiny can react to the&amp;hellip;</description>
+      <description>jsTree is a R package that is a standalone htmlwidget for the jsTree JavaScript library. It can be run from the R console directly into the Rstudio Viewer, be used in a Shiny application or be part of an Rmarkdown html output. jsTree can be used in Shiny applications and supplies observers so the Shiny can react to the</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/combining-github-traffic-plots/</guid>
-      <description>Fill in the relevant information for your account. The team is usually your username, but it can be different. The repos can be a vector and since we are going in the front door of the site we can access the private repositories&amp;hellip;</description>
+      <description>Fill in the relevant information for your account. The team is usually your username, but it can be different. The repos can be a vector and since we are going in the front door of the site we can access the private repositories</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/regular-expression-searching-w/</guid>
-      <description>This is great for long lists, since you can return multiple item simultaneously without needing to endlessly click items in a list! The shiny module works with two main&amp;hellip;</description>
+      <description>This is great for long lists, since you can return multiple item simultaneously without needing to endlessly click items in a list! The shiny module works with two main</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/what-is-the-appropriate-popula/</guid>
-      <description>I have been trying to decipher for myself, what is in the current (well, yesterday&amp;rsquo;s) Graham-Cassidy health care bill. I saw this image on many news outlets a few days ago and my inner hate for pie charts bubbled up. This is a zoom in on the pie chart &amp;hellip; From what I can gather, these figures are attempting to say that there are specific states that are getting relatively more of the federal health care funds under the Afordable Care Act (ACA) than their relative state&amp;hellip;</description>
+      <description>I have been trying to decipher for myself, what is in the current (well, yesterday&amp;rsquo;s) Graham-Cassidy health care bill. I saw this image on many news outlets a few days ago and my inner hate for pie charts bubbled up. This is a zoom in on the pie chart &amp;hellip; From what I can gather, these figures are attempting to say that there are specific states that are getting relatively more of the federal health care funds under the Afordable Care Act (ACA) than their relative state</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/automating-roxygen2-package-do/</guid>
-      <description>Quick example, run it in R: or document functions interactively with the shiny gadget: Let me explain by example&amp;hellip; This gets me on my way, but there is information nested within the function itself that can be useful to document and manage the namespace I could just add that manually but this is just a toy example, actual functions have many parameters and you can import many functions from a number of different&amp;hellip;</description>
+      <description>Quick example, run it in R: or document functions interactively with the shiny gadget: Let me explain by example&amp;hellip; This gets me on my way, but there is information nested within the function itself that can be useful to document and manage the namespace I could just add that manually but this is just a toy example, actual functions have many parameters and you can import many functions from a number of different</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/sinew/</guid>
-      <description>Sinew is a R package that generates a Roxygen skeleton populated with information scraped from the function script. The added value of sinew is that it scrapes the script and fills in many important holes in the documentation: Examples showing different parameter specification in makeOxygen makeOxygen also creates documentation for data.frames and tibble objects The function is written to work on single files or whole directories, like a package R&amp;hellip;</description>
+      <description>Sinew is a R package that generates a Roxygen skeleton populated with information scraped from the function script. The added value of sinew is that it scrapes the script and fills in many important holes in the documentation: Examples showing different parameter specification in makeOxygen makeOxygen also creates documentation for data.frames and tibble objects The function is written to work on single files or whole directories, like a package R</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/slickr/</guid>
-      <description>This tool helps review multiple outputs in an efficient manner and saves much needed space in documents and Shiny applications, while creating a user friendly experience. These carousels can be used directly from the R console, from RStudio, in Shiny apps and R Markdown documents. Some web scraping for the images&amp;hellip;</description>
+      <description>This tool helps review multiple outputs in an efficient manner and saves much needed space in documents and Shiny applications, while creating a user friendly experience. These carousels can be used directly from the R console, from RStudio, in Shiny apps and R Markdown documents. Some web scraping for the images</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/ggedit-011/</guid>
-      <description>In addition to the output UI the user also gets a reactive output that has all the objects that are in the regular ggedit package (plots, layers, scales, themes) both in object and script forms. This has great advantages if you want to let users edit plots while keeping track of what they are&amp;hellip;</description>
+      <description>In addition to the output UI the user also gets a reactive output that has all the objects that are in the regular ggedit package (plots, layers, scales, themes) both in object and script forms. This has great advantages if you want to let users edit plots while keeping track of what they are</description>
     </item>
     
   </channel>

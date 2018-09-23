@@ -17,7 +17,7 @@
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/yet-another-caret-workshop/</guid>
-      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as well. This is not supposed to cover all aspects of caret (plus there is already this), but more of a starter-pack for those who might be migrating from Python or another machine learning library like&amp;hellip;</description>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as well. This is not supposed to cover all aspects of caret (plus there is already this), but more of a starter-pack for those who might be migrating from Python or another machine learning library like</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/1st-lse-css-hackathon-london-1/</guid>
-      <description>It’s Happening, Folks! Whew! Less than a month left and I still haven’t publicised this on my blog. People, we are hosting the 1st Computational Social Science Hackathon at the London School of Economics and you are invited! It’s completely free and open to all. With that said, we will prioritise students/recent graduates and participants from the under-represented segments of the society. Unfortunately, we do not have the funds for providing travel&amp;hellip;</description>
+      <description>It’s Happening, Folks! Whew! Less than a month left and I still haven’t publicised this on my blog. People, we are hosting the 1st Computational Social Science Hackathon at the London School of Economics and you are invited! It’s completely free and open to all. With that said, we will prioritise students/recent graduates and participants from the under-represented segments of the society. Unfortunately, we do not have the funds for providing travel</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/supervised-vs-unsupervised-lea/</guid>
-      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up. In social sciences, there is a definite tendency for the former; there is more or less always a target outcome or measure that we want to optimise the performance of our models for. This reminded me of a draft that I had written the code a couple of months ago but for some reason never converted into a blog post until&amp;hellip;</description>
+      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up. In social sciences, there is a definite tendency for the former; there is more or less always a target outcome or measure that we want to optimise the performance of our models for. This reminded me of a draft that I had written the code a couple of months ago but for some reason never converted into a blog post until</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-wikipedia-tables-from/</guid>
-      <description>Get WikiTables from Lists Recently I was asked to submit a short take-home challenge and I thought what better excuse for writing a quick blog post! It was on short notice so initially I stayed within the confines of my comfort zone and went for something safe and bland. However, I alleviated that rather fast; I guess you want to stand out a bit in a competitive setting. Note that it was a visualisation task, so the data scraping was just a necessary&amp;hellip;</description>
+      <description>Get WikiTables from Lists Recently I was asked to submit a short take-home challenge and I thought what better excuse for writing a quick blog post! It was on short notice so initially I stayed within the confines of my comfort zone and went for something safe and bland. However, I alleviated that rather fast; I guess you want to stand out a bit in a competitive setting. Note that it was a visualisation task, so the data scraping was just a necessary</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/predicting-conflict-duration-w/</guid>
-      <description>An Unlikely Pairing Last week, Marc Cohen from Google Cloud was on campus to give a hands-on workshop on image classification using TensorFlow. Consequently, I spent most of my time thinking about how I can incorporate image classifiers in my work. As my research is primarily on forecasting armed conflict duration, it’s not really straightforward to make a connection between the&amp;hellip;</description>
+      <description>An Unlikely Pairing Last week, Marc Cohen from Google Cloud was on campus to give a hands-on workshop on image classification using TensorFlow. Consequently, I spent most of my time thinking about how I can incorporate image classifiers in my work. As my research is primarily on forecasting armed conflict duration, it’s not really straightforward to make a connection between the</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/quantitative-story-telling-wit/</guid>
-      <description>LSE IR Gender and Diversity Project Two shinydashboard posts in a row, that’s a first. As I mentioned on Twitter, I’m not really this productive; rather, the apps had been on the proverbial shelf for a while and I’m just releasing them now. In fact, this is one of my earlier works: quantifying the gender imbalance as it manifests itself in the LSE International Relations (IR) reading lists. You can access the app&amp;hellip;</description>
+      <description>LSE IR Gender and Diversity Project Two shinydashboard posts in a row, that’s a first. As I mentioned on Twitter, I’m not really this productive; rather, the apps had been on the proverbial shelf for a while and I’m just releasing them now. In fact, this is one of my earlier works: quantifying the gender imbalance as it manifests itself in the LSE International Relations (IR) reading lists. You can access the app</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/visualising-us-voting-records-/</guid>
-      <description>Introducing adavis My second ever post on this blog was on introducing adamap, a Shiny app that maps Americans for Democratic Action voting scores (the so-called Liberal Quotient) between 1947-2015. It was built with highcharter, and hence it was nicely interactive but quite slow. I wanted to switch to another package since, and when I eventually ran into statebins, I knew what had to be&amp;hellip;</description>
+      <description>Introducing adavis My second ever post on this blog was on introducing adamap, a Shiny app that maps Americans for Democratic Action voting scores (the so-called Liberal Quotient) between 1947-2015. It was built with highcharter, and hence it was nicely interactive but quite slow. I wanted to switch to another package since, and when I eventually ran into statebins, I knew what had to be</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mining-game-of-thrones-scripts/</guid>
-      <description>Quantitative Text Analysis Part II I meant to showcase the quanteda package in my previous post on the Weinstein Effect but had to switch to tidytext at the last minute. Today I will make good on that promise. quanteda is developed by Ken Benoit and maintained by Kohei Watanabe - go LSE! On that note, the first 2018 LondonR meeting will be taking place at the LSE on January 16, so do drop by if you happen to be&amp;hellip;</description>
+      <description>Quantitative Text Analysis Part II I meant to showcase the quanteda package in my previous post on the Weinstein Effect but had to switch to tidytext at the last minute. Today I will make good on that promise. quanteda is developed by Ken Benoit and maintained by Kohei Watanabe - go LSE! On that note, the first 2018 LondonR meeting will be taking place at the LSE on January 16, so do drop by if you happen to be</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-tidytext-analysis-of-the-wei/</guid>
-      <description>Quantifying He-Said, She-Said: Newspaper Reporting I have been meaning to get into quantitative text analysis for a while. I initially planned this post to feature a different package (that I wanted to showcase), however I ran into some problems with their .json parsing methods and currently waiting for the issue to be solved on their end. The great thing about doing data science with R is that there are multiple avenues leading you to the same destination, so let’s take advantage of&amp;hellip;</description>
+      <description>Quantifying He-Said, She-Said: Newspaper Reporting I have been meaning to get into quantitative text analysis for a while. I initially planned this post to feature a different package (that I wanted to showcase), however I ran into some problems with their .json parsing methods and currently waiting for the issue to be solved on their end. The great thing about doing data science with R is that there are multiple avenues leading you to the same destination, so let’s take advantage of</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/automatic-timeseries-forecasti/</guid>
-      <description>Seasonality and Trends Time-series analysis is a battle on multiple fronts by definition. One has to deal with (dynamic) trends, seasonality effects, and good old noise. A general formula can be given as y = level + trend + seasonality + noise However, the relationships between these factors can be realized in many, and sometimes quite complex, ways. It is easy to over-fit noise, and the window for accurate prediction can be quite small (think of funnel-shaped confidence&amp;hellip;</description>
+      <description>Seasonality and Trends Time-series analysis is a battle on multiple fronts by definition. One has to deal with (dynamic) trends, seasonality effects, and good old noise. A general formula can be given as y = level + trend + seasonality + noise However, the relationships between these factors can be realized in many, and sometimes quite complex, ways. It is easy to over-fit noise, and the window for accurate prediction can be quite small (think of funnel-shaped confidence</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/dealing-with-correlated-highdi/</guid>
-      <description>Theory to Application 1 I recently realized my review of Michael Alvarez’s edited volume Computational Social Science: Discovery and Prediction went online a while ago. If memory serves, used to be the case that book reviews were freely available; alas now even a 400-word long piece is behind a paywall. I initially planned to do a post covering the whole book—at least the application part, as the volume is neatly segregated on theory&amp;hellip;</description>
+      <description>Theory to Application 1 I recently realized my review of Michael Alvarez’s edited volume Computational Social Science: Discovery and Prediction went online a while ago. If memory serves, used to be the case that book reviews were freely available; alas now even a 400-word long piece is behind a paywall. I initially planned to do a post covering the whole book—at least the application part, as the volume is neatly segregated on theory</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mapping-ada-voting-scores-1947/</guid>
-      <description>Tracking Legislator Voting Patterns How do US legislators vote once they get elected? Or, perhaps more dynamically, how do they react to external shocks (e.g. the dissolution of the Soviet Union, 9&amp;frasl;11) that might blur partisan lines? More generally, how does voting behavior change across time and space? Let’s try to provide some answers to these questions using R. You can jump straight to the interactive Shiny app by clicking&amp;hellip;</description>
+      <description>Tracking Legislator Voting Patterns How do US legislators vote once they get elected? Or, perhaps more dynamically, how do they react to external shocks (e.g. the dissolution of the Soviet Union, 9&amp;frasl;11) that might blur partisan lines? More generally, how does voting behavior change across time and space? Let’s try to provide some answers to these questions using R. You can jump straight to the interactive Shiny app by clicking</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/hello-world/</guid>
-      <description>Introduction Hello, and welcome to my new website. I will briefly lay out my MO in this post. The primary reason why I switched from my old academic website in favor of a more functional (modern?) version is one of pure convenience. Nowadays, I have been building interactive web applications, mainly Shiny apps and dashboards, for work and as a hobby. Consequently, I needed a central hub to host all the apps in one&amp;hellip;</description>
+      <description>Introduction Hello, and welcome to my new website. I will briefly lay out my MO in this post. The primary reason why I switched from my old academic website in favor of a more functional (modern?) version is one of pure convenience. Nowadays, I have been building interactive web applications, mainly Shiny apps and dashboards, for work and as a hobby. Consequently, I needed a central hub to host all the apps in one</description>
     </item>
     
   </channel>

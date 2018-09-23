@@ -17,7 +17,7 @@
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/machine-learning-on-git/</guid>
-      <description>This post follows up the first one from January 2017. Please read it if you wonder why Hercules was named Hercules, what is a line burndown plot and how everything started. In short: Hercules is an open source Go command line application and a framework to mine and analyze Git repositories. It is based on go-git, the implementation of Git client and server in pure&amp;hellip;</description>
+      <description>This post follows up the first one from January 2017. Please read it if you wonder why Hercules was named Hercules, what is a line burndown plot and how everything started. In short: Hercules is an open source Go command line application and a framework to mine and analyze Git repositories. It is based on go-git, the implementation of Git client and server in pure</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/announcing-public-git-archive/</guid>
-      <description>Last week we had the honor of participating at MSR&amp;rsquo;18, where two of the members of our team, Vadim Markovtsev and Waren Long, presented the research paper they wrote on our latest dataset: Public Git Archive. Public Git Archive is the result of months of effort curating a dataset suitable for training Machine Learning on Source Code (aka MLonCode) models. Dataset Contents The dataset contains 3TB of repositories from GitHub ready to&amp;hellip;</description>
+      <description>Last week we had the honor of participating at MSR&amp;rsquo;18, where two of the members of our team, Vadim Markovtsev and Waren Long, presented the research paper they wrote on our latest dataset: Public Git Archive. Public Git Archive is the result of months of effort curating a dataset suitable for training Machine Learning on Source Code (aka MLonCode) models. Dataset Contents The dataset contains 3TB of repositories from GitHub ready to</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/detecting-licenses-in-code-wit/</guid>
-      <description>While working on Public Git Archive, we thought that it would be handy to include the license of each project in the index file, so that people could easily filter &amp;ldquo;grey&amp;rdquo; repositories without a clear license. Besides, we were curious about the licenses distribution. GitHub already detects licenses by leveraging the Ruby library benbalter/licensee and the easy solution was to query the GitHub&amp;hellip;</description>
+      <description>While working on Public Git Archive, we thought that it would be handy to include the license of each project in the index file, so that people could easily filter &amp;ldquo;grey&amp;rdquo; repositories without a clear license. Besides, we were curious about the licenses distribution. GitHub already detects licenses by leveraging the Ruby library benbalter/licensee and the easy solution was to query the GitHub</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/calling-c-functions-from-bigqu/</guid>
-      <description>Have you ever used BigQuery? If you have never used it you&amp;rsquo;re missing out on one of my favorite products of Google Cloud Platform. It has the power to query terabytes of data in seconds while exposing a familiar SQL&amp;hellip;</description>
+      <description>Have you ever used BigQuery? If you have never used it you&amp;rsquo;re missing out on one of my favorite products of Google Cloud Platform. It has the power to query terabytes of data in seconds while exposing a familiar SQL</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/measuring-code-sentiment-in-a-/</guid>
-      <description>Preamble GopherCon has happened annually in the US since 2014. Go is clearly gaining momentum, so this year we&amp;rsquo;ve got two similar conferences in Europe inspired by the original GopherCon: GopherCon Iceland in June and GopherCon Russia in March. Francesc, our VP of Developer Relations, is conducting a workshop in Iceland, while Vadim, the lead of ML team, spoke in Russia. Below is the edited version of Vadim&amp;rsquo;s talk&amp;hellip;</description>
+      <description>Preamble GopherCon has happened annually in the US since 2014. Go is clearly gaining momentum, so this year we&amp;rsquo;ve got two similar conferences in Europe inspired by the original GopherCon: GopherCon Iceland in June and GopherCon Russia in March. Francesc, our VP of Developer Relations, is conducting a workshop in Iceland, while Vadim, the lead of ML team, spoke in Russia. Below is the edited version of Vadim&amp;rsquo;s talk</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/why-did-i-join-sourced-frances/</guid>
-      <description>On November 1st I left Google and in my goodbye note I sneakily said I would &amp;ldquo;try my luck in a small startup with huge potential&amp;rdquo;. A month has passed, and the time to explain more has come. So let me tell you what I&amp;rsquo;m up to lately. I am now the VP of Developer Relations at source{d}. Maybe you&amp;rsquo;ve never heard about it, maybe you&amp;rsquo;ve heard a bit, or used some of their awesome open source libraries such as go-git, kmcuda, go-kallax, or&amp;hellip;</description>
+      <description>On November 1st I left Google and in my goodbye note I sneakily said I would &amp;ldquo;try my luck in a small startup with huge potential&amp;rdquo;. A month has passed, and the time to explain more has come. So let me tell you what I&amp;rsquo;m up to lately. I am now the VP of Developer Relations at source{d}. Maybe you&amp;rsquo;ve never heard about it, maybe you&amp;rsquo;ve heard a bit, or used some of their awesome open source libraries such as go-git, kmcuda, go-kallax, or</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/sourced-does-fosdem-2018/</guid>
-      <description>As every year, for the last 18 years, February is the time for FOSDEM, the Free and Open Source Software Developers&amp;rsquo; European Meeting. And for the third year in a row, most of the employees here at source{d} went all the way to freezing Brussels to participate in this amazing conference. Some were attending, others speaking, others organizing entire&amp;hellip;</description>
+      <description>As every year, for the last 18 years, February is the time for FOSDEM, the Free and Open Source Software Developers&amp;rsquo; European Meeting. And for the third year in a row, most of the employees here at source{d} went all the way to freezing Brussels to participate in this amazing conference. Some were attending, others speaking, others organizing entire</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/announcing-the-latest-gogit/</guid>
-      <description>After a bit over a year of intense work, we&amp;rsquo;re happy to announce the latest and best release of go-git yet! go-git v4 includes many new features, making it the most used and feature complete git library written in Go. what&amp;rsquo;s new? A year and almost 800 commits have passed since go-git v3.2.0 was released, our 55 amazing contributors have really been very busy. But all of this effort was worth it and it definitely&amp;hellip;</description>
+      <description>After a bit over a year of intense work, we&amp;rsquo;re happy to announce the latest and best release of go-git yet! go-git v4 includes many new features, making it the most used and feature complete git library written in Go. what&amp;rsquo;s new? A year and almost 800 commits have passed since go-git v3.2.0 was released, our 55 amazing contributors have really been very busy. But all of this effort was worth it and it definitely</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/source-code-identifier-embeddi/</guid>
-      <description>This post is related to a talk we gave in Moscow in June at our Machine Learning on Source Code (MLoSC) conference and research we did at the beginning of this year: presentation and video. Let&amp;rsquo;s start with revising what &amp;ldquo;embeddings&amp;rdquo; are, then proceed with describing approaches to word2vec, then explain how this technique can be transferred from NLP to MLoSC, present some examples of the results and finish with instructions on how to reproduce this&amp;hellip;</description>
+      <description>This post is related to a talk we gave in Moscow in June at our Machine Learning on Source Code (MLoSC) conference and research we did at the beginning of this year: presentation and video. Let&amp;rsquo;s start with revising what &amp;ldquo;embeddings&amp;rdquo; are, then proceed with describing approaches to word2vec, then explain how this technique can be transferred from NLP to MLoSC, present some examples of the results and finish with instructions on how to reproduce this</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/enry-detecting-languages/</guid>
-      <description>enry (⊙.☉)? If you don&amp;rsquo;t know yet what enry is, despite the name being so descriptive, it&amp;rsquo;s probably because you aren&amp;rsquo;t the kind of person keen on films. Don&amp;rsquo;t worry about it and keep reading. enry is a tool written in Go to perform programming language detection in files. It started as a port of github&amp;rsquo;s project linguist. For example, given the file hello.m: #import int main (int argc, const char * argv[]) { NSLog (@&amp;ldquo;Hello,&amp;hellip;</description>
+      <description>enry (⊙.☉)? If you don&amp;rsquo;t know yet what enry is, despite the name being so descriptive, it&amp;rsquo;s probably because you aren&amp;rsquo;t the kind of person keen on films. Don&amp;rsquo;t worry about it and keep reading. enry is a tool written in Go to perform programming language detection in files. It started as a port of github&amp;rsquo;s project linguist. For example, given the file hello.m: #import int main (int argc, const char * argv[]) { NSLog (@&amp;ldquo;Hello,</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/sourced-tech-talks-frontend-se/</guid>
-      <description>Once every few months, source{d} organizes small conferences around a very specific topics. On June 24th, the topic was frontend and the talks were hosted in our Madrid office. Almost 50 people joined us for a day full of things to learn about frontend technologies. The topics of the talks were very diverse, from animations with Ember to multi-threaded web to React styling to&amp;hellip;</description>
+      <description>Once every few months, source{d} organizes small conferences around a very specific topics. On June 24th, the topic was frontend and the talks were hosted in our Madrid office. Almost 50 people joined us for a day full of things to learn about frontend technologies. The topics of the talks were very diverse, from animations with Ember to multi-threaded web to React styling to</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/analyzing-github-how-developer/</guid>
-      <description>Have you ever been struggling with an nth obscure project, thinking : &amp;ldquo;I could do the job with this language but why not switch to another one which would be more enjoyable to work with&amp;rdquo; ? In his awesome blog post : The eigenvector of &amp;ldquo;Why we moved from language X to language Y&amp;rdquo;, Erik Bernhardsson generated an N*N contingency table of all Google queries related to changing languages. However, when I read it, I couldn&amp;rsquo;t help wondering what the proportion of people who effectively switched&amp;hellip;</description>
+      <description>Have you ever been struggling with an nth obscure project, thinking : &amp;ldquo;I could do the job with this language but why not switch to another one which would be more enjoyable to work with&amp;rdquo; ? In his awesome blog post : The eigenvector of &amp;ldquo;Why we moved from language X to language Y&amp;rdquo;, Erik Bernhardsson generated an N*N contingency table of all Google queries related to changing languages. However, when I read it, I couldn&amp;rsquo;t help wondering what the proportion of people who effectively switched</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/announcing-babelfish/</guid>
-      <description>At source{d} we believe there&amp;rsquo;s a possibility for programs to write code, and for new forms of automatic programming to emerge. Our Roadmap states the first step in this direction as: Build representations of source code, developers and projects. Today we are announcing Babelfish, the project we are developing to build these representations of source code. What&amp;rsquo;s Babelfish? Babelfish is a universal code&amp;hellip;</description>
+      <description>At source{d} we believe there&amp;rsquo;s a possibility for programs to write code, and for new forms of automatic programming to emerge. Our Roadmap states the first step in this direction as: Build representations of source code, developers and projects. Today we are announcing Babelfish, the project we are developing to build these representations of source code. What&amp;rsquo;s Babelfish? Babelfish is a universal code</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/sourced-tech-talks-moscow-2017/</guid>
-      <description>On June, 3-2017, source{d} dedicated their regular source{d} tech talks to Machine Learning and we chose to host the event in Moscow, Russia. For this conference, we invited speakers from Russia and abroad and gathered about 80 neural network aficionados in a former industrial area of the city. Day&amp;rsquo;s programme To begin with, everybody joined together around a hearty welcome breakfast inside KL10CH spaces in the city&amp;hellip;</description>
+      <description>On June, 3-2017, source{d} dedicated their regular source{d} tech talks to Machine Learning and we chose to host the event in Moscow, Russia. For this conference, we invited speakers from Russia and abroad and gathered about 80 neural network aficionados in a former industrial area of the city. Day&amp;rsquo;s programme To begin with, everybody joined together around a hearty welcome breakfast inside KL10CH spaces in the city</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/daily-commit-activity-on-githu/</guid>
-      <description>I recently stumbled upon an interesting and straightforward data exploration made by David Robinson from StackOverflow: What programming languages are used late at night?. Among other fun facts about the programming crowd, he discovered that Haskell is different from mainstream language, the SO questions&amp;rsquo; frequency grows much stronger in the evenings compared to other&amp;hellip;</description>
+      <description>I recently stumbled upon an interesting and straightforward data exploration made by David Robinson from StackOverflow: What programming languages are used late at night?. Among other fun facts about the programming crowd, he discovered that Haskell is different from mainstream language, the SO questions&amp;rsquo; frequency grows much stronger in the evenings compared to other</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/kallax/</guid>
-      <description>What is kallax Kallax is a PostgreSQL typesafe1 ORM for the Go language. Its aim is to provide a way of programmatically writing queries and interacting with a PostgreSQL database without having to write a single line of SQL, using strings to refer to columns or using values of wrong types in queries. For that reason, the first priority of kallax is to provide type safety to the data access&amp;hellip;</description>
+      <description>What is kallax Kallax is a PostgreSQL typesafe1 ORM for the Go language. Its aim is to provide a way of programmatically writing queries and interacting with a PostgreSQL database without having to write a single line of SQL, using strings to refer to columns or using values of wrong types in queries. For that reason, the first priority of kallax is to provide type safety to the data access</description>
     </item>
     
     <item>
@@ -161,7 +161,7 @@
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/using-docker-coreos-for-gpu-ba/</guid>
-      <description>Having confidence in your research and development environment is essential if you want to solve challenging problems. This post shows how to setup containers for deep learning, have numpy accelerated and finally speculates about hosting in the cloud vs. on-premise. To give you a bit of background, at source{d}, the ML team is running constant experiments with Python scripts and Jupyter notebooks which extensively use CUDA + NVIDIA GPUs. For&amp;hellip;</description>
+      <description>Having confidence in your research and development environment is essential if you want to solve challenging problems. This post shows how to setup containers for deep learning, have numpy accelerated and finally speculates about hosting in the cloud vs. on-premise. To give you a bit of background, at source{d}, the ML team is running constant experiments with Python scripts and Jupyter notebooks which extensively use CUDA + NVIDIA GPUs. For</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/comparing-git-trees-in-go/</guid>
-      <description>Introduction Do you know how Git identifies what files have changed between two commits? It is a fairly common operation you probably do every day when you review pull requests, when you check staged files&amp;hellip; It involves prefix trees and Merkle trees and many comparisons. In this blog post I will walk you through every step in the process in an intuitive way; I will skip some of the hairy details so I can focus on the main problems and solutions, and present them in a clear and understandable&amp;hellip;</description>
+      <description>Introduction Do you know how Git identifies what files have changed between two commits? It is a fairly common operation you probably do every day when you review pull requests, when you check staged files&amp;hellip; It involves prefix trees and Merkle trees and many comparisons. In this blog post I will walk you through every step in the process in an intuitive way; I will skip some of the hairy details so I can focus on the main problems and solutions, and present them in a clear and understandable</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/jonkervolgenant-algorithm-tsne/</guid>
-      <description>Before After Intrigued? Then&amp;hellip; first things first! t-SNE t-SNE is the very popular algorithm to extremely reduce the dimensionality of your data in order to visually present it. It is capable of mapping hundreds of dimensions to just 2 while preserving important data relationships, that is, when closer samples in the original space are closer in the reduced space. t-SNE works quite well for small and moderately sized real-world datasets and does not require much tuning of its&amp;hellip;</description>
+      <description>Before After Intrigued? Then&amp;hellip; first things first! t-SNE t-SNE is the very popular algorithm to extremely reduce the dimensionality of your data in order to visually present it. It is capable of mapping hundreds of dimensions to just 2 while preserving important data relationships, that is, when closer samples in the original space are closer in the reduced space. t-SNE works quite well for small and moderately sized real-world datasets and does not require much tuning of its</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/proteus-keeping-go-as-the-sour/</guid>
-      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another player. With that in mind, we need to start thinking how to effectively and efficiently share our data models across all those languages, and others, in case we would start using&amp;hellip;</description>
+      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another player. With that in mind, we need to start thinking how to effectively and efficiently share our data models across all those languages, and others, in case we would start using</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/github-contributions-graph/</guid>
-      <description>source{d} has recently published a dataset with metadata on 462,000,000 commits: data.world. It allows you to build the contributions graph. For example, these are the neighbors around Armin Ronacher: Neighbors around Armin Ronacher, 2 generations - the repositories he contributed to and their contributors. Armin is in the center. 8k nodes, 11k edges. The graph was produced with Gephi. The fans on the above image are communities around some popular open source projects,&amp;hellip;</description>
+      <description>source{d} has recently published a dataset with metadata on 462,000,000 commits: data.world. It allows you to build the contributions graph. For example, these are the neighbors around Armin Ronacher: Neighbors around Armin Ronacher, 2 generations - the repositories he contributed to and their contributors. Armin is in the center. 8k nodes, 11k edges. The graph was produced with Gephi. The fans on the above image are communities around some popular open source projects,</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/hercules-and-his-labours-sourc/</guid>
-      <description>When I was drowning in the sea of new information at NIPS 2016, colleagues pointed me at the excellent blog post by Erik Bernhardsson: The half-life of code &amp;amp; the ship of Theseus. It was very inspiring; Erik actually implemented something which was in my plans, too. The idea is simple: see how many lines in the source code remain unchanged over time. If you&amp;rsquo;ve not read that article yet, please do - I am moving&amp;hellip;</description>
+      <description>When I was drowning in the sea of new information at NIPS 2016, colleagues pointed me at the excellent blog post by Erik Bernhardsson: The half-life of code &amp;amp; the ship of Theseus. It was very inspiring; Erik actually implemented something which was in my plans, too. The idea is simple: see how many lines in the source code remain unchanged over time. If you&amp;rsquo;ve not read that article yet, please do - I am moving</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/%C5%9Biva/</guid>
-      <description>Motivation At source{d} we fetch, store and analyze millions of git repositories. Today we are covering ~16M and our goal is to cover all of them, as well as keep up with the rapid growth of code hosted online. Now, what is in a git repository? For a full explanation, you should read Pro Git book, Chapter 10, but for our purposes, there are only a few relevant&amp;hellip;</description>
+      <description>Motivation At source{d} we fetch, store and analyze millions of git repositories. Today we are covering ~16M and our goal is to cover all of them, as well as keep up with the rapid growth of code hosted online. Now, what is in a git repository? For a full explanation, you should read Pro Git book, Chapter 10, but for our purposes, there are only a few relevant</description>
     </item>
     
   </channel>

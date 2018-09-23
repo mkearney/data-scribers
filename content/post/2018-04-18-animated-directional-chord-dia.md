@@ -9,5 +9,5 @@ tags:
   - guyabelcom
 ---
 
-[The next step is to tween the data by migration corridor. (might take a few seconds to fully load) where The function can be used to derive the size of gaps in each frame for a new animated...<click to read more>](https://guyabel.com/post/animated-directional-chord-diagrams/)
+[The next step is to tween the data by migration corridor. (might take a few seconds to fully load) where The function can be used to derive the size of gaps in each frame for a new animated<i class="fas fa-external-link-alt"></i>](https://guyabel.com/post/animated-directional-chord-diagrams/)
 

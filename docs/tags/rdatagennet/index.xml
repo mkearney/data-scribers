@@ -17,7 +17,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/binary-beta-betabinomial/</guid>
-      <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling error. With individual level binary outcomes (as opposed to count data we were working with before), GEE models are&amp;hellip;</description>
+      <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling error. With individual level binary outcomes (as opposed to count data we were working with before), GEE models are</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/the-power-of-steppedwedge-desi/</guid>
-      <description>The most important assumption I am making, however, is that the investigators can introduce the intervention at a small number of sites during each time period (for example, because the intervention involves extensive training and there is a limited number of trainers.) In this case, I am assuming that at most 10 sites can start the intervention at any point in time, and we must wait at least 4 weeks until the next wave can be&amp;hellip;</description>
+      <description>The most important assumption I am making, however, is that the investigators can introduce the intervention at a small number of sites during each time period (for example, because the intervention involves extensive training and there is a limited number of trainers.) In this case, I am assuming that at most 10 sites can start the intervention at any point in time, and we must wait at least 4 weeks until the next wave can be</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/multivariate-ordinal-categoric/</guid>
-      <description>In the following examples, I assume four items each with four possible responses - which is different from the EQ-5D. In the first simulation items two and three share the same uniform distribution, and items one and four each have their own distribution: If you look at the plot in the third row and second column of this first example, the observations are mostly located near the diagonal - strong evidence of high&amp;hellip;</description>
+      <description>In the following examples, I assume four items each with four possible responses - which is different from the EQ-5D. In the first simulation items two and three share the same uniform distribution, and items one and four each have their own distribution: If you look at the plot in the third row and second column of this first example, the observations are mostly located near the diagonal - strong evidence of high</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/randomize-by-or-within-cluster/</guid>
-      <description>Under this design, 33 sites around the country will receive the training at some point, which is no small task (and fortunately as the statistician, this is a part of the study I have little involvement). After hearing about this ambitious plan, a colleague asked why we didn’t just randomize half the sites to the intervention and conduct a more standard cluster randomized trial, where a site would either get the training or&amp;hellip;</description>
+      <description>Under this design, 33 sites around the country will receive the training at some point, which is no small task (and fortunately as the statistician, this is a part of the study I have little involvement). After hearing about this ambitious plan, a colleague asked why we didn’t just randomize half the sites to the intervention and conduct a more standard cluster randomized trial, where a site would either get the training or</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-the-odds-ratio-confounds/</guid>
-      <description>My aim here is to generate a few figures that might highlight some of these issues. With a constant odds ratio of 3, the risk ratios range from 1 to 3, and the risk differences range from almost 0 to just below 0.3. The odds ratio is not exactly informative with respect to these other two measures. The plots - two takes on the same data - tell a better story: Using this same simple framework, I thought I’d see if I can illustrate the relationship between marginal and conditional odds&amp;hellip;</description>
+      <description>My aim here is to generate a few figures that might highlight some of these issues. With a constant odds ratio of 3, the risk ratios range from 1 to 3, and the risk differences range from almost 0 to just below 0.3. The odds ratio is not exactly informative with respect to these other two measures. The plots - two takes on the same data - tell a better story: Using this same simple framework, I thought I’d see if I can illustrate the relationship between marginal and conditional odds</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/rereferencing-factor-levels-to/</guid>
-      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to&amp;hellip;</description>
+      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two later. The idea is that kids who are more emotionally intelligent might be better prepared to</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/late-anniversary-edition-redux/</guid>
-      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog. But since it was just about a year ago that I first wrote about this topic (and started the blog), I thought I’d post this now to mark the occasion. As the variation across clusters increases, so does the discrepancy between the conditional and marginal&amp;hellip;</description>
+      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog. But since it was just about a year ago that I first wrote about this topic (and started the blog), I thought I’d post this now to mark the occasion. As the variation across clusters increases, so does the discrepancy between the conditional and marginal</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/a-little-function-to-help-gene/</guid>
-      <description>In health services research, experiments are often conducted at the provider or site level rather than the patient level. However, we might still be interested in the outcome at the patient level. For example, we could be interested in understanding the effect of a training program for physicians on their patients. It would be very difficult to randomize patients to be exposed or not to the training if a group of patients all see the same&amp;hellip;</description>
+      <description>In health services research, experiments are often conducted at the provider or site level rather than the patient level. However, we might still be interested in the outcome at the patient level. For example, we could be interested in understanding the effect of a training program for physicians on their patients. It would be very difficult to randomize patients to be exposed or not to the training if a group of patients all see the same</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/is-noninferiority-on-par-with-/</guid>
-      <description>In the case of an inferiority trial, we add a little twist. Really, we subtract a little twist. In this case the hypotheses are: To calculate the Type 1 error rate, we generate data under the null hypothesis, or in this case on the rightmost boundary of the null hypothesis since it is a composite&amp;hellip;</description>
+      <description>In the case of an inferiority trial, we add a little twist. Really, we subtract a little twist. In this case the hypotheses are: To calculate the Type 1 error rate, we generate data under the null hypothesis, or in this case on the rightmost boundary of the null hypothesis since it is a composite</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-efficient-are-multifactori/</guid>
-      <description>In the second scenario, each successive exposure continues to add to the effect, but each additional intervention adds a little less. The first intervention adds 0.8, the second adds 0.6, the third adds 0.4, and the fourth adds 0.2. This is a form of interaction. This is what a plot of the means might look like for each of the&amp;hellip;</description>
+      <description>In the second scenario, each successive exposure continues to add to the effect, but each additional intervention adds a little less. The first intervention adds 0.8, the second adds 0.6, the third adds 0.4, and the fourth adds 0.2. This is a form of interaction. This is what a plot of the means might look like for each of the</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/testing-multiple-interventions/</guid>
-      <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or&amp;hellip;</description>
+      <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-the-underlying-theor/</guid>
-      <description>To motivate some of the key issues, I talked a bit about recycling. I asked you to imagine a set of bins placed in different locations to collect glass bottles. I will stick with this scenario, but instead of just glass bottle bins, we now also have cardboard, plastic, and metal bins at each location. In this expanded scenario, we are interested in understanding the relationship between location and&amp;hellip;</description>
+      <description>To motivate some of the key issues, I talked a bit about recycling. I asked you to imagine a set of bins placed in different locations to collect glass bottles. I will stick with this scenario, but instead of just glass bottle bins, we now also have cardboard, plastic, and metal bins at each location. In this expanded scenario, we are interested in understanding the relationship between location and</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-the-underlying-theor/</guid>
-      <description>Kids today are so sophisticated (at least they are in New York City, where I live). While I didn’t hear about the chi-square test of independence until my first stint in graduate school, they’re already talking about it in high school. When my kids came home and started talking about it, I did what I usually do when they come home asking about a new statistical concept. I opened up R and started generating some&amp;hellip;</description>
+      <description>Kids today are so sophisticated (at least they are in New York City, where I live). While I didn’t hear about the chi-square test of independence until my first stint in graduate school, they’re already talking about it in high school. When my kids came home and started talking about it, I did what I usually do when they come home asking about a new statistical concept. I opened up R and started generating some</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/i-have-to-randomize-by-cluster/</guid>
-      <description>Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than&amp;hellip;</description>
+      <description>Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/have-you-ever-asked-yourself-h/</guid>
-      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for each. That is, given that there is some effect, how often is the p-value of the test less than&amp;hellip;</description>
+      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for each. That is, given that there is some effect, how often is the p-value of the test less than</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/importance-sampling-adds-an-in/</guid>
-      <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics. MC methods are an essential tool to understand the behavior of statistical models. In fact, I’ve probably used MC simulations in just about all of my posts - to generate repeated samples from a model to explore bias, variance, and other distributional characteristics of a particular&amp;hellip;</description>
+      <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics. MC methods are an essential tool to understand the behavior of statistical models. In fact, I’ve probably used MC simulations in just about all of my posts - to generate repeated samples from a model to explore bias, variance, and other distributional characteristics of a particular</description>
     </item>
     
     <item>
@@ -170,7 +170,7 @@
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-theres-a-fork-in-the-road/</guid>
-      <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes. Maybe we could come up with an actual randomized experiment to mimic this, but it may be difficult. More likely, we’ll have observed data that looks like this: Alternatively, we can just generate the observed data&amp;hellip;</description>
+      <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes. Maybe we could come up with an actual randomized experiment to mimic this, but it may be difficult. More likely, we’ll have observed data that looks like this: Alternatively, we can just generate the observed data</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-you-use-inverse-probabili/</guid>
-      <description>Because binary outcomes are less amenable to visual illustration, I am going to stick with model estimation to see how this plays out: We can look directly at the potential outcomes to see the true causal effect, measured as a log odds ratio (LOR): In the linear regression context, the conditional effect measured using observed data from the exposed and unexposed subgroups was in fact a good estimate of the marginal effect in the&amp;hellip;</description>
+      <description>Because binary outcomes are less amenable to visual illustration, I am going to stick with model estimation to see how this plays out: We can look directly at the potential outcomes to see the true causal effect, measured as a log odds ratio (LOR): In the linear regression context, the conditional effect measured using observed data from the exposed and unexposed subgroups was in fact a good estimate of the marginal effect in the</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/visualizing-how-confounding-bi/</guid>
-      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions. My goal (starting here and continuing in upcoming posts) is to think a bit about how to characterize confounding in a way that makes it possible to literally see why improperly estimating intervention effects might lead to bias. Unfortunately, in the real world, it is rarely feasible to expose an individual to multiple&amp;hellip;</description>
+      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions. My goal (starting here and continuing in upcoming posts) is to think a bit about how to characterize confounding in a way that makes it possible to literally see why improperly estimating intervention effects might lead to bias. Unfortunately, in the real world, it is rarely feasible to expose an individual to multiple</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-simstudy-update-provides-an-/</guid>
-      <description>The ordinal data is generated after a data set has been created with an adjustment variable. We have to provide the data.table name, the name of the adjustment variable, and the base probabilities. That’s really it. These plots show what data look like when the cumulative log odds are proportional as we move across different levels of a&amp;hellip;</description>
+      <description>The ordinal data is generated after a data set has been created with an adjustment variable. We have to provide the data.table name, the name of the adjustment variable, and the base probabilities. That’s really it. These plots show what data look like when the cumulative log odds are proportional as we move across different levels of a</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/thinking-about-different-ways-/</guid>
-      <description>Here’s the scenario: we have an intervention that we think will improve outcomes for a particular population. Furthermore, there are two sub-groups (let’s say defined by which of two medical conditions each person in the population has) and we are interested in knowing if the intervention effect is different for each&amp;hellip;</description>
+      <description>Here’s the scenario: we have an intervention that we think will improve outcomes for a particular population. Furthermore, there are two sub-groups (let’s say defined by which of two medical conditions each person in the population has) and we are interested in knowing if the intervention effect is different for each</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/who-knew-likelihood-functions-/</guid>
-      <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”&amp;hellip;</description>
+      <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating process. However, we are also quite interested in the shape of the likelihood curve itself, because that provides information about how certain we can be about our conclusions about the “true”</description>
     </item>
     
     <item>
@@ -233,7 +233,7 @@
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/can-we-use-bsplines-to-generat/</guid>
-      <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using weights. If one is trying to fit a B-spline line to data, those weights can be estimated using regression&amp;hellip;</description>
+      <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using weights. If one is trying to fit a B-spline line to data, those weights can be estimated using regression</description>
     </item>
     
     <item>
@@ -251,7 +251,7 @@
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/cace-closed/</guid>
-      <description>I am generating multiple data sets and estimating the causal effects for each using the EM and IV approaches. This gives better picture of the bias and variation under the two different scenarios (exclusion restriction &amp;amp; no exclusion restriction) and different methods (EM &amp;amp;&amp;hellip;</description>
+      <description>I am generating multiple data sets and estimating the causal effects for each using the EM and IV approaches. This gives better picture of the bias and variation under the two different scenarios (exclusion restriction &amp;amp; no exclusion restriction) and different methods (EM &amp;amp;</description>
     </item>
     
     <item>
@@ -260,7 +260,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-simstudy-update-provides-an-/</guid>
-      <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each&amp;hellip;</description>
+      <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/complier-average-causal-effect/</guid>
-      <description>Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and assumptions). However, those investigators may not have as much control over the actual treatments that study participants&amp;hellip;</description>
+      <description>Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and assumptions). However, those investigators may not have as much control over the actual treatments that study participants</description>
     </item>
     
     <item>
@@ -278,7 +278,7 @@
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/further-considerations-of-a-hi/</guid>
-      <description>Certainly, group membership is not necessarily intrinsically ordered. In a general categorical or multinomial outcome, a group does not necessarily have any quantitative relationship vis a vis the other groups. For example, if we were interested in primary type of meat consumption, individuals might be grouped into those favoring (1) chicken, (2) beef, (3) pork, or (4) no meat. We might be interested in estimating the different distributions across the four groups for males and&amp;hellip;</description>
+      <description>Certainly, group membership is not necessarily intrinsically ordered. In a general categorical or multinomial outcome, a group does not necessarily have any quantitative relationship vis a vis the other groups. For example, if we were interested in primary type of meat consumption, individuals might be grouped into those favoring (1) chicken, (2) beef, (3) pork, or (4) no meat. We might be interested in estimating the different distributions across the four groups for males and</description>
     </item>
     
     <item>
@@ -287,7 +287,7 @@
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/a-hidden-process-behind-binary/</guid>
-      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical&amp;hellip;</description>
+      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical</description>
     </item>
     
     <item>
@@ -296,7 +296,7 @@
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/be-careful-not-to-control-for-/</guid>
-      <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined. Under this framework, we generate data where we can find out the “true” measure of causal effect. And then we can use simple regression models to see how well (or not) they recapture these “known” causal&amp;hellip;</description>
+      <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined. Under this framework, we generate data where we can find out the “true” measure of causal effect. And then we can use simple regression models to see how well (or not) they recapture these “known” causal</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@
       <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/should-we-be-concerned-about-i/</guid>
-      <description>What could explain this phenomenon? The title of this post provides a hint: cases earlier in a study are more likely to be prevalent ones (i.e. they have been sick for a while), whereas later in the study cases tend to be incident (i.e. they only recently become sick). Even though both prevalent and incident cases are sick, the former may be sicker on average than the latter, simply because their condition has had more time&amp;hellip;</description>
+      <description>What could explain this phenomenon? The title of this post provides a hint: cases earlier in a study are more likely to be prevalent ones (i.e. they have been sick for a while), whereas later in the study cases tend to be incident (i.e. they only recently become sick). Even though both prevalent and incident cases are sick, the former may be sicker on average than the latter, simply because their condition has had more time</description>
     </item>
     
     <item>
@@ -323,7 +323,7 @@
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/simstudy-update/</guid>
-      <description>Here is the the estimated correlation (we would expect an estimate close to 0.3): Similarly, we can generate correlated binary data by specifying the probabilities: The gamma distribution requires two parameters - the mean and&amp;hellip;</description>
+      <description>Here is the the estimated correlation (we would expect an estimate close to 0.3): Similarly, we can generate correlated binary data by specifying the probabilities: The gamma distribution requires two parameters - the mean and</description>
     </item>
     
     <item>
@@ -332,7 +332,7 @@
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/balancing-on-multiple-factors-/</guid>
-      <description>In this case, we have nine different combinations of the four characteristics, four of which include only a single school (rows 2, 4, 7, and 8). Stratification wouldn’t work necessarily work here if our goal was balance across all four characteristics. To start, I create all combinations of randomization schemes: Now we are ready to evaluate each of the 1,000&amp;hellip;</description>
+      <description>In this case, we have nine different combinations of the four characteristics, four of which include only a single school (rows 2, 4, 7, and 8). Stratification wouldn’t work necessarily work here if our goal was balance across all four characteristics. To start, I create all combinations of randomization schemes: Now we are ready to evaluate each of the 1,000</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/copulas-and-correlated-data-ge/</guid>
-      <description>Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty well. Using the last data set, I fit a GEE model to see how well the data generating process is recovered: We can also generate binary&amp;hellip;</description>
+      <description>Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty well. Using the last data set, I fit a GEE model to see how well the data generating process is recovered: We can also generate binary</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/when-marginal-and-conditional-/</guid>
-      <description>My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different exposures. When we look at the data visually, we get a hint that the marginal (or average) effect might not be the same as the conditional (cluster-specific)&amp;hellip;</description>
+      <description>My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different exposures. When we look at the data visually, we get a hint that the marginal (or average) effect might not be the same as the conditional (cluster-specific)</description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/it-can-be-easy-to-explore-data/</guid>
-      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to teach. Sure - I’ll use the occasional formula when one exists, but I always feel the need to check it with&amp;hellip;</description>
+      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to teach. Sure - I’ll use the occasional formula when one exists, but I always feel the need to check it with</description>
     </item>
     
     <item>
@@ -368,7 +368,7 @@
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/everyone-knows-that-loops-in-r/</guid>
-      <description>Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly faster. And here is a more complete comparison of the fastest version with this additional&amp;hellip;</description>
+      <description>Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly faster. And here is a more complete comparison of the fastest version with this additional</description>
     </item>
     
   </channel>

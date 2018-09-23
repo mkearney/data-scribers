@@ -9,5 +9,5 @@ tags:
   - roberthickmaneu
 ---
 
-[Some longer chains involving cities happened in the 1920-1921 seasons in the Second Division, but it seems like the scheduling worked differently then and teams played back to back more, so doesn’t really count. So the record for that is only slightly shorter! with Stoke and Hull City playing a range of cities in the 1919-1920 season (but see above for scheduling differences) and Carlisle United playing 5 other different Uniteds in a row in the old Fourth...<click to read more>](http://www.robert-hickman.eu/post/the-knowledge-4th-august-2018/)
+[Some longer chains involving cities happened in the 1920-1921 seasons in the Second Division, but it seems like the scheduling worked differently then and teams played back to back more, so doesn’t really count. So the record for that is only slightly shorter! with Stoke and Hull City playing a range of cities in the 1919-1920 season (but see above for scheduling differences) and Carlisle United playing 5 other different Uniteds in a row in the old Fourth<i class="fas fa-external-link-alt"></i>](http://www.robert-hickman.eu/post/the-knowledge-4th-august-2018/)
 

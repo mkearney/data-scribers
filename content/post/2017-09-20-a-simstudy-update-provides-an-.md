@@ -10,5 +10,5 @@ tags:
   - rdatagennet
 ---
 
-[It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each...<click to read more>](https://www.rdatagen.net/post/simstudy-update-provides-an-excuse-to-talk-a-little-bit-about-the-em-algorithm-and-latent-class/)
+[It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster membership. At the beginning, there is little differentiation between the regression lines for each<i class="fas fa-external-link-alt"></i>](https://www.rdatagen.net/post/simstudy-update-provides-an-excuse-to-talk-a-little-bit-about-the-em-algorithm-and-latent-class/)
 

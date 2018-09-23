@@ -9,5 +9,5 @@ tags:
   - blogsourcedtech
 ---
 
-[I recently stumbled upon an interesting and straightforward data exploration made by David Robinson from StackOverflow: What programming languages are used late at night?. Among other fun facts about the programming crowd, he discovered that Haskell is different from mainstream language, the SO questions' frequency grows much stronger in the evenings compared to other...<click to read more>](https://blog.sourced.tech//blog.sourced.tech/post/activity_hours/)
+[I recently stumbled upon an interesting and straightforward data exploration made by David Robinson from StackOverflow: What programming languages are used late at night?. Among other fun facts about the programming crowd, he discovered that Haskell is different from mainstream language, the SO questions' frequency grows much stronger in the evenings compared to other<i class="fas fa-external-link-alt"></i>](https://blog.sourced.tech//blog.sourced.tech/post/activity_hours/)
 

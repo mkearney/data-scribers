@@ -9,5 +9,5 @@ tags:
   - niklasjohannescom
 ---
 
-[Thanks for popping by my website. I just created it, so expect to see the first post...<click to read more>](https://niklasjohannes.com/post/nothing-to-see-yet/)
+[Thanks for popping by my website. I just created it, so expect to see the first post<i class="fas fa-external-link-alt"></i>](https://niklasjohannes.com/post/nothing-to-see-yet/)
 

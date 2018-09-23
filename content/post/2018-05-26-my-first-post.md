@@ -10,5 +10,5 @@ tags:
   - bgstiebergithubio
 ---
 
-[Welcome to my blog!I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes. I was inspired to create a blog after reading this post by David Robinson. New blog post: "Advice to aspiring data scientists: start a blog"...<click to read more>](https://bgstieber.github.io/post/my-first-post/)
+[Welcome to my blog!I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes. I was inspired to create a blog after reading this post by David Robinson. New blog post: "Advice to aspiring data scientists: start a blog"<i class="fas fa-external-link-alt"></i>](https://bgstieber.github.io/post/my-first-post/)
 

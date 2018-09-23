@@ -17,7 +17,7 @@
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tidytuesday/</guid>
-      <description>In the first quarter of 2018, I focused my data science education on expanding my R programming skills and setting up this blog in Hugo. I developed my first R package, an API wrapper to the U.S. National Provider Identification (NPI) registry, and created an R-powered Power BI custom visual for a client. Although I still plan to continue my work on these projects, I’m ready to start a new&amp;hellip;</description>
+      <description>In the first quarter of 2018, I focused my data science education on expanding my R programming skills and setting up this blog in Hugo. I developed my first R package, an API wrapper to the U.S. National Provider Identification (NPI) registry, and created an R-powered Power BI custom visual for a client. Although I still plan to continue my work on these projects, I’m ready to start a new</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/taking-flight-with-r/</guid>
-      <description>Inspired by the current exhibit on ART ∩ MATH at Seattle’s Center on Contemporary Cart (COCA), I decided to replicate one of the pieces by the very talanted Iranian mathematical artist, Hamid Naderi Yeganeh. Yeganeh provided the full mathematical equation as a caption to his piece, “Bird,” and I thought it would be fun to give it a test flight in R. This turned out to be straightforward thanks to R’s native&amp;hellip;</description>
+      <description>Inspired by the current exhibit on ART ∩ MATH at Seattle’s Center on Contemporary Cart (COCA), I decided to replicate one of the pieces by the very talanted Iranian mathematical artist, Hamid Naderi Yeganeh. Yeganeh provided the full mathematical equation as a caption to his piece, “Bird,” and I thought it would be fun to give it a test flight in R. This turned out to be straightforward thanks to R’s native</description>
     </item>
     
   </channel>

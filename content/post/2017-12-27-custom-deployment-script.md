@@ -9,5 +9,5 @@ tags:
   - rmflightgithubio
 ---
 
-[Here is the simple script I ended up...<click to read more>](http://rmflight.github.io/post/custom-deployment-script/)
+[Here is the simple script I ended up<i class="fas fa-external-link-alt"></i>](http://rmflight.github.io/post/custom-deployment-script/)
 

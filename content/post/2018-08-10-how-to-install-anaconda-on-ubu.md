@@ -11,5 +11,5 @@ tags:
   - linuxizecom
 ---
 
-[Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda Navigator. This tutorial will guide you through the steps of downloading and installing Anaconda Python Distribution on Ubuntu...<click to read more>](https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-18-04/)
+[Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda Navigator. This tutorial will guide you through the steps of downloading and installing Anaconda Python Distribution on Ubuntu<i class="fas fa-external-link-alt"></i>](https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-18-04/)
 

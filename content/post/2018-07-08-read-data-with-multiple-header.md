@@ -9,5 +9,5 @@ tags:
   - apreshillrbindio
 ---
 
-[More options: Now we are ready to diagnose the problem! All together now: the final...<click to read more>](https://alison.rbind.io/post/read-multiple-header-rows/)
+[More options: Now we are ready to diagnose the problem! All together now: the final<i class="fas fa-external-link-alt"></i>](https://alison.rbind.io/post/read-multiple-header-rows/)
 

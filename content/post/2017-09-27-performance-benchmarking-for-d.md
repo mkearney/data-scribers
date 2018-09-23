@@ -10,5 +10,5 @@ tags:
   - rsangolenetlifycom
 ---
 
-[Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R code. We were dealing with a fairly large dataset of roughly 500,000 observations for roughly 120 predictor...<click to read more>](http://rsangole.netlify.com/post/dummy-variables-one-hot-encoding/)
+[Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R code. We were dealing with a fairly large dataset of roughly 500,000 observations for roughly 120 predictor<i class="fas fa-external-link-alt"></i>](http://rsangole.netlify.com/post/dummy-variables-one-hot-encoding/)
 

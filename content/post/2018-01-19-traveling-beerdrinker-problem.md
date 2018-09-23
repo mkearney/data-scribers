@@ -9,5 +9,5 @@ tags:
   - blogschochasticsnet
 ---
 
-[Whenever I participate in a Science Slam, I try to work in an analysis of something typical for the respective city. My next gig will be in Munich, so there are two natural options: beer or football. In the end I choose both, but here I will focus on the former. In the next section, I briefly explain what we are going to do with the data. If you are already familiar with the traveling salesman problem, which in our case becomes the traveling beerdrinker problem, you can safely skip that...<click to read more>](http://blog.schochastics.net/post/traveling-beerdrinker-problem/)
+[Whenever I participate in a Science Slam, I try to work in an analysis of something typical for the respective city. My next gig will be in Munich, so there are two natural options: beer or football. In the end I choose both, but here I will focus on the former. In the next section, I briefly explain what we are going to do with the data. If you are already familiar with the traveling salesman problem, which in our case becomes the traveling beerdrinker problem, you can safely skip that<i class="fas fa-external-link-alt"></i>](http://blog.schochastics.net/post/traveling-beerdrinker-problem/)
 

@@ -9,5 +9,5 @@ tags:
   - statcmueduryurko
 ---
 
-[Stay tuned for...<click to read more>](http://www.stat.cmu.edu/~ryurko/post/firstpost/)
+[Stay tuned for<i class="fas fa-external-link-alt"></i>](http://www.stat.cmu.edu/~ryurko/post/firstpost/)
 

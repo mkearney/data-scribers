@@ -9,5 +9,5 @@ tags:
   - sciathlongithubio
 ---
 
-[Hi everyone! I am continuing my journey to learn awk and I finally managed to process (almost) an entire file today so let's analyse the 2018 Tencin trail race. It was my first trail race of the season, and it kicks off the "challenge intercommunal du grésivaudan", which is a set of 11 races in this region called the Grésivaudan which is a valley in between the two mountains of Belledonne and Chartreuse in the...<click to read more>](https://Sciathlon.github.io/post/tencin_15k_analysis/)
+[Hi everyone! I am continuing my journey to learn awk and I finally managed to process (almost) an entire file today so let's analyse the 2018 Tencin trail race. It was my first trail race of the season, and it kicks off the "challenge intercommunal du grésivaudan", which is a set of 11 races in this region called the Grésivaudan which is a valley in between the two mountains of Belledonne and Chartreuse in the<i class="fas fa-external-link-alt"></i>](https://Sciathlon.github.io/post/tencin_15k_analysis/)
 

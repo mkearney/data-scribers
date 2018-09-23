@@ -9,5 +9,5 @@ tags:
   - rtasticcouk
 ---
 
-[As always, let's start with loading necessary packages. Quick glimpse on the class balance, which looks very good, BTW. Finally, let's clean the data a little: select only tweets text and author, change column names to something more readable and remove URLs from text. In order to build the model, we need to tokenize our data and transform it to Document Term Matrices. In this example, I'll use word-level tokens: Now, time for the...<click to read more>](https://r-tastic.co.uk/post/trump-vs-clinton-interpretable-text-classifier/)
+[As always, let's start with loading necessary packages. Quick glimpse on the class balance, which looks very good, BTW. Finally, let's clean the data a little: select only tweets text and author, change column names to something more readable and remove URLs from text. In order to build the model, we need to tokenize our data and transform it to Document Term Matrices. In this example, I'll use word-level tokens: Now, time for the<i class="fas fa-external-link-alt"></i>](https://r-tastic.co.uk/post/trump-vs-clinton-interpretable-text-classifier/)
 

@@ -9,5 +9,5 @@ tags:
   - theaknowlescom
 ---
 
-[When I come across a tweet containing information I would like future-me to take note of, I have a rather inelegant set of strategies for making sure it stays accessible (god forbid I merely rely on remembering; if it’s not down on an externally stored list somewhere outside my brain, it will never see the light of day again): And there it has sat for the last 6 weeks, gathering metaphorical dust in only the ways forgotten corners of the internet...<click to read more>](http://theaknowles.com/post/my-twitter-dashboard/)
+[When I come across a tweet containing information I would like future-me to take note of, I have a rather inelegant set of strategies for making sure it stays accessible (god forbid I merely rely on remembering; if it’s not down on an externally stored list somewhere outside my brain, it will never see the light of day again): And there it has sat for the last 6 weeks, gathering metaphorical dust in only the ways forgotten corners of the internet<i class="fas fa-external-link-alt"></i>](http://theaknowles.com/post/my-twitter-dashboard/)
 

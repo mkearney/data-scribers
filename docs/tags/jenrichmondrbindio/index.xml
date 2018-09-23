@@ -26,7 +26,7 @@
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/next-up-anova/</guid>
-      <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify&amp;hellip; As always,you can shortcut that by saying Or by specifying which variables to analyse using&amp;hellip;</description>
+      <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify&amp;hellip; As always,you can shortcut that by saying Or by specifying which variables to analyse using</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/more-wrangling-tips/</guid>
-      <description>It is definitely true that it takes much longer to get your data ready for analysis than it does to actually analyse it. Apparently up to 80% of the data analysis time is spent wrangling data (and cursing and swearing). &amp;ldquo;Classroom data are like teddy bears and real data are like a grizzly bear with salmon blood dripping out its&amp;hellip;</description>
+      <description>It is definitely true that it takes much longer to get your data ready for analysis than it does to actually analyse it. Apparently up to 80% of the data analysis time is spent wrangling data (and cursing and swearing). &amp;ldquo;Classroom data are like teddy bears and real data are like a grizzly bear with salmon blood dripping out its</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/testing-out-ttests/</guid>
-      <description>Here is what I learned about t-tests from doing the analysis below. The AFL data that comes with Dani’s book includes attendance and score information for home and away teams over regular and finals games for years and years. Disclaimer- I know nothing about AFL. Maybe we know that the average AFL team scores around 100 points in a game. Do home teams score more than 100? Interesting, on average yes, the home team does score more than&amp;hellip;</description>
+      <description>Here is what I learned about t-tests from doing the analysis below. The AFL data that comes with Dani’s book includes attendance and score information for home and away teams over regular and finals games for years and years. Disclaimer- I know nothing about AFL. Maybe we know that the average AFL team scores around 100 points in a game. Do home teams score more than 100? Interesting, on average yes, the home team does score more than</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/using-r-for-analysis/</guid>
-      <description>I am feeling more confident about my resolution to get rid of Excel and only use R for data wrangling and visualisation. Next steps&amp;hellip; analysis. I&amp;rsquo;m starting simple (I presume) with t-tests. Mostly commonly I want to determine whether there is a difference in the performance of independent groups of kids, or a difference between kids&amp;rsquo; performance on two different conditions, or whether kids are just guessing (i.e. whether their performance differs significantly&amp;hellip;</description>
+      <description>I am feeling more confident about my resolution to get rid of Excel and only use R for data wrangling and visualisation. Next steps&amp;hellip; analysis. I&amp;rsquo;m starting simple (I presume) with t-tests. Mostly commonly I want to determine whether there is a difference in the performance of independent groups of kids, or a difference between kids&amp;rsquo; performance on two different conditions, or whether kids are just guessing (i.e. whether their performance differs significantly</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/creating-data-using-rep/</guid>
-      <description>Some code that is probably going to be useful in the future: To get AAABBB use To get 1 through 8, repeated 3 times use This creates a new variable called Stimulus that grabs the 8th value of CommentName and fills the column with it. Note this only works after grouping by Participant, Block,&amp;hellip;</description>
+      <description>Some code that is probably going to be useful in the future: To get AAABBB use To get 1 through 8, repeated 3 times use This creates a new variable called Stimulus that grabs the 8th value of CommentName and fills the column with it. Note this only works after grouping by Participant, Block,</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/mutate-if-else-new-conditional/</guid>
-      <description>Most recently I needed to extract a Stimulus number from a variable called CommentName, and then turn those numbers into levels of Model and Emotion in separate&amp;hellip;</description>
+      <description>Most recently I needed to extract a Stimulus number from a variable called CommentName, and then turn those numbers into levels of Model and Emotion in separate</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lesser-known-stars-of-the-tidy/</guid>
-      <description>Tibble = modern dataframe. Use instead of printing your dataset to the console. summarise(numberNA = sum(is.na(variable)) map_df(~sum(is.na(.))) na_if(&amp;ldquo;&amp;rdquo;) When you want help, if it helpful to helpers if you create a minimal reproudicule example so that they can see and run the code using your data. www.r4ds.co.nz R for Data Science Twitter #rstats Rstats cheat sheets&amp;hellip;</description>
+      <description>Tibble = modern dataframe. Use instead of printing your dataset to the console. summarise(numberNA = sum(is.na(variable)) map_df(~sum(is.na(.))) na_if(&amp;ldquo;&amp;rdquo;) When you want help, if it helpful to helpers if you create a minimal reproudicule example so that they can see and run the code using your data. www.r4ds.co.nz R for Data Science Twitter #rstats Rstats cheat sheets</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dirty-data/</guid>
-      <description>I have been doing lots of data wrangling recently and decided a needed a quick rundown of data cleaning in R. Turns out www.DataCamp.com has a course called exactly that. Here are notes on useful things I learned. Histogram: to get an idea of the distribution of data in a particular variable use. Can use optional breaks argument to specify how many buckets the data are broken&amp;hellip;</description>
+      <description>I have been doing lots of data wrangling recently and decided a needed a quick rundown of data cleaning in R. Turns out www.DataCamp.com has a course called exactly that. Here are notes on useful things I learned. Histogram: to get an idea of the distribution of data in a particular variable use. Can use optional breaks argument to specify how many buckets the data are broken</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hotkeys/</guid>
-      <description>There are some commands that as I get more and more familiar with Rstudio I find myself typing again and again. Keyboard shortcuts are helpful (disclaimer: these mac versions). Option-Command-i will open a new Rmarkdown code chunk. Option - is a handy way of typing&amp;hellip;</description>
+      <description>There are some commands that as I get more and more familiar with Rstudio I find myself typing again and again. Keyboard shortcuts are helpful (disclaimer: these mac versions). Option-Command-i will open a new Rmarkdown code chunk. Option - is a handy way of typing</description>
     </item>
     
   </channel>

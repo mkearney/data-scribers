@@ -9,5 +9,5 @@ tags:
   - nowosadgithubio
 ---
 
-[The hard copy of the book will be published in late...<click to read more>](https://nowosad.github.io/post/2017/geocompr/)
+[The hard copy of the book will be published in late<i class="fas fa-external-link-alt"></i>](https://nowosad.github.io/post/2017/geocompr/)
 

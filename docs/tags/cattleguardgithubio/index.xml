@@ -17,7 +17,7 @@
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-to-apply-googles-causalimp/</guid>
-      <description>Google released their CausalImpact package a few years ago and when they did my mind started racing with ideas for information security and information risk applications. Imagine if you could propose a control, policy change or process improvement with an expected effect on a response variable, which would lead you to purposefully defining a way to measure intervention outcomes. Not bad. You go on to determine a number of&amp;hellip;</description>
+      <description>Google released their CausalImpact package a few years ago and when they did my mind started racing with ideas for information security and information risk applications. Imagine if you could propose a control, policy change or process improvement with an expected effect on a response variable, which would lead you to purposefully defining a way to measure intervention outcomes. Not bad. You go on to determine a number of</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/dorking-around-with-cors/</guid>
-      <description>After tuning in to Absolute Appsec ep 2 the other day I got pretty interested in CORS security issues related to misconfiguration and dynamic origin handling. I don&amp;rsquo;t know about you, but every once in a while I hear about a bug class, or maybe just a set of unintended consequences that I find particularly amusing. I&amp;rsquo;ve found that building a tool (no matter how poor), goes a long way toward a deeper&amp;hellip;</description>
+      <description>After tuning in to Absolute Appsec ep 2 the other day I got pretty interested in CORS security issues related to misconfiguration and dynamic origin handling. I don&amp;rsquo;t know about you, but every once in a while I hear about a bug class, or maybe just a set of unintended consequences that I find particularly amusing. I&amp;rsquo;ve found that building a tool (no matter how poor), goes a long way toward a deeper</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/competitive-steak-eating-and-g/</guid>
-      <description>Before we get too far down the trail on this, I’ll warn readers that this is a pink and blue post. It’s simple prediction using an interesting R package. It’s important to consider the stakes (pun intended), when “enriching” a dataset with information that might introduce bias. Here, inaccuracies can occur by simple misspelling or just a slightly higher probability for the years selected…or other things. That said, I wanted to get an idea of gender diversity in competitive steak eating&amp;hellip;</description>
+      <description>Before we get too far down the trail on this, I’ll warn readers that this is a pink and blue post. It’s simple prediction using an interesting R package. It’s important to consider the stakes (pun intended), when “enriching” a dataset with information that might introduce bias. Here, inaccuracies can occur by simple misspelling or just a slightly higher probability for the years selected…or other things. That said, I wanted to get an idea of gender diversity in competitive steak eating</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-learn-apache-drill-togeth/</guid>
-      <description>[org.apache.drill.common.exceptions.UserRemoteException: DATA_READ ERROR: Selected column &amp;lsquo;COLUMNS&amp;rsquo; must have name &amp;lsquo;columns&amp;rsquo; or must be plain &amp;lsquo;*&amp;rsquo; File Path file:_sample-data_some.csv Fragment 0:0 Error Id: 6e979344-63e0-4a9f-86ab-9bc0417637d3 on&amp;hellip;</description>
+      <description>[org.apache.drill.common.exceptions.UserRemoteException: DATA_READ ERROR: Selected column &amp;lsquo;COLUMNS&amp;rsquo; must have name &amp;lsquo;columns&amp;rsquo; or must be plain &amp;lsquo;*&amp;rsquo; File Path file:_sample-data_some.csv Fragment 0:0 Error Id: 6e979344-63e0-4a9f-86ab-9bc0417637d3 on</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/im-a-ipod-classic-man/</guid>
-      <description>Now, I look for faster playback on everything and am kind of suprised when I can&amp;rsquo;t find it. However, I use one of these for my music and podcasts. iPod Classic If you&amp;rsquo;re on OSX there are several free plist generators so that you can get it loaded by launchctl. Anyway, just a quick thing to help burn down the podcast back&amp;hellip;</description>
+      <description>Now, I look for faster playback on everything and am kind of suprised when I can&amp;rsquo;t find it. However, I use one of these for my music and podcasts. iPod Classic If you&amp;rsquo;re on OSX there are several free plist generators so that you can get it loaded by launchctl. Anyway, just a quick thing to help burn down the podcast back</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/3-keys-for-successful-products/</guid>
-      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of&amp;hellip;</description>
+      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives. If you’ve been charged with managing multiple information security projects, you might have experienced a torrent of</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/if-youre-going-to-fail-to-scal/</guid>
-      <description>People hate to wait. Now, if you’re not familiar with ramp metering here’s the gist. A stoplight is placed at the end of an on ramp which regulates how many cars are allowed onto a highway at a given time. The idea being that the number of required slowdowns and wrecks decreases as cars have appropriate distance. Waiting sucks. Unreliable waits suck more. If you only have capacity to deliver for the little green dots, maybe it’s time to consider letting the orange and red guys continue about their&amp;hellip;</description>
+      <description>People hate to wait. Now, if you’re not familiar with ramp metering here’s the gist. A stoplight is placed at the end of an on ramp which regulates how many cars are allowed onto a highway at a given time. The idea being that the number of required slowdowns and wrecks decreases as cars have appropriate distance. Waiting sucks. Unreliable waits suck more. If you only have capacity to deliver for the little green dots, maybe it’s time to consider letting the orange and red guys continue about their</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/is-zerosum-thinking-affecting-/</guid>
-      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets. When I find these points of convergence I start looking for adjustments that reduce risk exposure and simultaneously improve the customer&amp;hellip;</description>
+      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets. When I find these points of convergence I start looking for adjustments that reduce risk exposure and simultaneously improve the customer</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/tonys-coffee-guide/</guid>
-      <description>I drink quite a bit of coffee. It&amp;rsquo;s true. Occasionally it comes up in conversation. It occurs that someone is bored with their beans and wants to class up their caffeine delivery. Maybe this is you. Well, here are some of my favorites as of late. Check them out. I&amp;rsquo;ll continue to keep my notes here, but I don&amp;rsquo;t plan on spamming the RSS with updates. Check back as&amp;hellip;</description>
+      <description>I drink quite a bit of coffee. It&amp;rsquo;s true. Occasionally it comes up in conversation. It occurs that someone is bored with their beans and wants to class up their caffeine delivery. Maybe this is you. Well, here are some of my favorites as of late. Check them out. I&amp;rsquo;ll continue to keep my notes here, but I don&amp;rsquo;t plan on spamming the RSS with updates. Check back as</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/if-youre-going-to-fail-to-scal/</guid>
-      <description>Businesses that don’t deliver, don’t survive. Why should your information security program? The organization has decided to spin up an information security program and you’re in charge. How sure are you that you can handle what you’ve built? If your customers are placing orders and you don’t have inventory you’ve got two options. Put them on a wait list or reject the order. Neither instills great&amp;hellip;</description>
+      <description>Businesses that don’t deliver, don’t survive. Why should your information security program? The organization has decided to spin up an information security program and you’re in charge. How sure are you that you can handle what you’ve built? If your customers are placing orders and you don’t have inventory you’ve got two options. Put them on a wait list or reject the order. Neither instills great</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/get-sankey-sankey-diagrams-for/</guid>
-      <description>Yesterday, a tweet caught my eye. It was something that I know I’d seen before, but it somehow had escaped my memory as to what it was called or how it was constructed. Well, it bugged me enough that I had to track it down. As I am currently neck deep in writing an annual risk report it’d be easy for me to agree with the thought. So, let’s play with them in the googleVis package for&amp;hellip;</description>
+      <description>Yesterday, a tweet caught my eye. It was something that I know I’d seen before, but it somehow had escaped my memory as to what it was called or how it was constructed. Well, it bugged me enough that I had to track it down. As I am currently neck deep in writing an annual risk report it’d be easy for me to agree with the thought. So, let’s play with them in the googleVis package for</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/just-a-test-post-from-blogdown/</guid>
-      <description>So, Yihui Xie gifted the RStats world with another presentation surface. Now you can easily produce Hugo generated blogs right from RStudio! Oh, and it&amp;rsquo;s pretty&amp;hellip;</description>
+      <description>So, Yihui Xie gifted the RStats world with another presentation surface. Now you can easily produce Hugo generated blogs right from RStudio! Oh, and it&amp;rsquo;s pretty</description>
     </item>
     
   </channel>

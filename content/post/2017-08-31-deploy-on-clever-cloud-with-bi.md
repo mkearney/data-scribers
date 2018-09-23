@@ -9,5 +9,5 @@ tags:
   - sohlichgithubio
 ---
 
-[First, we need to add a Dockerfile to application folder (for the simplicity). The most simple Dockerfile could look like following one. The important step in Dockerfile is the exposing of port 8080. The Clever Cloud requires this port as a default HTTP port. If the application does not respond on this port, the monitor tool evaluates the application as non-working and the deployment fails. The binary itself will be built during the Pipelines run. We can test the Dockerfile by building the...<click to read more>](https://sohlich.github.io/post/clever_cloud_pipelines/)
+[First, we need to add a Dockerfile to application folder (for the simplicity). The most simple Dockerfile could look like following one. The important step in Dockerfile is the exposing of port 8080. The Clever Cloud requires this port as a default HTTP port. If the application does not respond on this port, the monitor tool evaluates the application as non-working and the deployment fails. The binary itself will be built during the Pipelines run. We can test the Dockerfile by building the<i class="fas fa-external-link-alt"></i>](https://sohlich.github.io/post/clever_cloud_pipelines/)
 

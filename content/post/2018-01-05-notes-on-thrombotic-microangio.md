@@ -9,5 +9,5 @@ tags:
   - sumprainnetlifycom
 ---
 
-[Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) a. Endothelial dysfunction b. Microinfarcts a. Primary TMA syndromes (ADAMTS deficiency, HUS): treatment to be of the cause b. Secondary TMA syndromes: treat the precipitating cause...<click to read more>](https://sumprain.netlify.com/post/ttp/)
+[Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) a. Endothelial dysfunction b. Microinfarcts a. Primary TMA syndromes (ADAMTS deficiency, HUS): treatment to be of the cause b. Secondary TMA syndromes: treat the precipitating cause<i class="fas fa-external-link-alt"></i>](https://sumprain.netlify.com/post/ttp/)
 

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-07-19'
 slug: randomize-by-or-within-cluster
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

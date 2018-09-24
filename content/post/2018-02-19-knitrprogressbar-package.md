@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-02-19'
 slug: knitrprogressbar-package
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

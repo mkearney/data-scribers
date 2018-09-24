@@ -4,7 +4,7 @@ author: 'theaknowles.com'
 date: '2018-02-12'
 slug: reflection
 categories:
-  - bloglink
+- bloglink
 tags:
   - theaknowlescom
 ---

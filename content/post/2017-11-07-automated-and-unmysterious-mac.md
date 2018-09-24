@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2017-11-07'
 slug: automated-and-unmysterious-mac
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - rtasticcouk

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-05-02'
 slug: how-efficient-are-multifactori
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

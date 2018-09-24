@@ -119,5 +119,14 @@
       <description>Theta Joins Common Joins If you’re like me, you’re looking at that diagram wondering what the heck is a ‘theta’ join?! Well, that’s the formal name for a ‘fuzzy’ join. In fact, you can read about all the different join types in this StackOverflow answer. An equi join is the most common kind of join because it leverages keys in your data source which are essential in a SQL&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Installing Your First Spark Cluster</title>
+      <link>/post/installing-your-first-spark-cl/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/installing-your-first-spark-cl/</guid>
+      <description>Installing your first spark cluster So, if you’re like me you’ve been using a lot of traditional tools for data science/analytics/whatever you want to call it. R is great, it’s flexible, it’s powerful but it’s slow and memory constrained. At work I’ve got a VM with 16Gb and one call can increase it. At home I’ve got an 8 Gb machine and honestly, it works fine for what I do&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

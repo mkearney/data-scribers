@@ -4,7 +4,7 @@ author: 'favstats.netlify.com'
 date: '2018-09-01'
 slug: visualizing-temperature-rise-i
 categories:
-  - bloglink
+- bloglink
 tags:
   - favstatsnetlifycom
 ---

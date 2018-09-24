@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-08-01'
 slug: day-9598-press-any-key
 categories:
-  - bloglink
+- bloglink
 tags:
   - djnavarronet
 ---

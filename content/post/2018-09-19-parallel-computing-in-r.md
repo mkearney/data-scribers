@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-09-19'
 slug: parallel-computing-in-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - machine-learning

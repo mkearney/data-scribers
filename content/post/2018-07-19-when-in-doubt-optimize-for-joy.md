@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-07-19'
 slug: when-in-doubt-optimize-for-joy
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessemaegancom
 ---

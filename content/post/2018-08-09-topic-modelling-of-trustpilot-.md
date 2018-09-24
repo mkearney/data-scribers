@@ -4,7 +4,7 @@ author: 'peerchristensen.netlify.com'
 date: '2018-08-09'
 slug: topic-modelling-of-trustpilot-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

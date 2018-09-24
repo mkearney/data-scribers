@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2018-05-01'
 slug: testing-machine-learning-model
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - shotwellcablog

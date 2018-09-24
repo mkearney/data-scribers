@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-02-11'
 slug: creating-websites-in-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rladiesnycorg
 ---

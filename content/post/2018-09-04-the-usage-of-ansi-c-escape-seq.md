@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-09-04'
 slug: the-usage-of-ansi-c-escape-seq
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogzenggyucomen

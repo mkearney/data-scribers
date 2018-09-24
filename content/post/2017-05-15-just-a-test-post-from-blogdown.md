@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-05-15'
 slug: just-a-test-post-from-blogdown
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cattleguardgithubio

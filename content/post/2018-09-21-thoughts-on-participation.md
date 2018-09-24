@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-09-21'
 slug: thoughts-on-participation
 categories:
-  - bloglink
+- bloglink
 tags:
   - djnavarronet
 ---

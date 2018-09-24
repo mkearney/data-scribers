@@ -4,7 +4,7 @@ author: 'g-tierney.github.io'
 date: '2018-09-20'
 slug: data-science-in-mental-health
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - modeling

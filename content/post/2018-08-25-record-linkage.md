@@ -4,7 +4,7 @@ author: 'g-tierney.github.io'
 date: '2018-08-25'
 slug: record-linkage
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

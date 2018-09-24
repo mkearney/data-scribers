@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2018-07-04'
 slug: gghighlight-010-is-released
 categories:
-  - bloglink
+- bloglink
 tags:
   - yutanirbindio
 ---

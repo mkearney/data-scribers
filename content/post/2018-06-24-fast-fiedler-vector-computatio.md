@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-06-24'
 slug: fast-fiedler-vector-computatio
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogschochasticsnet
 ---

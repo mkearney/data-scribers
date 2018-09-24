@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-04-01'
 slug: ymmv-nonprofit-data-science
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - machine-learning

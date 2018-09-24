@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-10-30'
 slug: bayesian-estimation-of-signal-
 categories:
-  - bloglink
+- bloglink
 tags:
   - vuorrenetlifycom
 ---

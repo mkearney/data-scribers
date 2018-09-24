@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2018-01-03'
 slug: map-unemployment-using-r-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogrdatalu

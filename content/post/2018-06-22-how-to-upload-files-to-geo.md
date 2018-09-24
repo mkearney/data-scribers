@@ -4,7 +4,7 @@ author: 'divingintogeneticsandgenomics.rbind.io'
 date: '2018-06-22'
 slug: how-to-upload-files-to-geo
 categories:
-  - bloglink
+- bloglink
 tags:
   - divingintogeneticsandgenomicsrbindio
 ---

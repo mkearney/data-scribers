@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-05-16'
 slug: it-can-be-easy-to-explore-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

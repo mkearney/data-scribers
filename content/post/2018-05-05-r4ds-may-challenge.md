@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-05-05'
 slug: r4ds-may-challenge
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jessemaegancom

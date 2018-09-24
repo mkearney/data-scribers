@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2017-10-18'
 slug: use-circleci-for-r-projects
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - yutanirbindio

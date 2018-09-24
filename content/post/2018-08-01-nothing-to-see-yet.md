@@ -4,7 +4,7 @@ author: 'www.niklasjohannes.com'
 date: '2018-08-01'
 slug: nothing-to-see-yet
 categories:
-  - bloglink
+- bloglink
 tags:
   - niklasjohannescom
 ---

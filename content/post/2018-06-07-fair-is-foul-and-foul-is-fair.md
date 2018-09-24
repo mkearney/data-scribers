@@ -4,7 +4,7 @@ author: 'peerchristensen.netlify.com'
 date: '2018-06-07'
 slug: fair-is-foul-and-foul-is-fair
 categories:
-  - bloglink
+- bloglink
 tags:
   - peerchristensennetlifycom
 ---

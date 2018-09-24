@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-01-18'
 slug: importance-sampling-adds-an-in
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

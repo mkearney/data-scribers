@@ -14,3 +14,4 @@ unlink("docs", recursive = TRUE)
 
 ## remove tmp resources dir
 unlink("resources", recursive = TRUE)
+

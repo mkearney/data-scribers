@@ -35,7 +35,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
+      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or&amp;hellip;</description>
+      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or&amp;hellip;</description>
     </item>
     
     <item>

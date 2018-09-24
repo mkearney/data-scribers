@@ -4,7 +4,7 @@ author: 'thomasmock.netlify.com'
 date: '2018-03-18'
 slug: functional-programming-in-r-wi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

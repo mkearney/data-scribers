@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2018-06-16'
 slug: reintroduction-to-gghighlight
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yutanirbindio

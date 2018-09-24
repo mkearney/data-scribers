@@ -4,7 +4,7 @@ author: 'sarahromanes.github.io'
 date: '2018-06-22'
 slug: rladies-sydney-launch
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - sarahromanesgithubio

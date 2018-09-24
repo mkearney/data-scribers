@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-07-13'
 slug: visualizing-varying-effects-po
 categories:
-  - bloglink
+- bloglink
 tags:
   - vuorrenetlifycom
 ---

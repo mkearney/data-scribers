@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-05-22'
 slug: replacing-weatherundergroundco
 categories:
-  - bloglink
+- bloglink
 tags:
   - rubuntunetlifycom
 ---

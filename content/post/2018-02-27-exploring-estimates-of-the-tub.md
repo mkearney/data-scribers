@@ -4,7 +4,7 @@ author: 'www.samabbott.co.uk'
 date: '2018-02-27'
 slug: exploring-estimates-of-the-tub
 categories:
-  - bloglink
+- bloglink
 tags:
   - samabbottcouk
 ---

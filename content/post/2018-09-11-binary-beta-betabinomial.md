@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-09-11'
 slug: binary-beta-betabinomial
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-09-06'
 slug: git-objects-in-a-nutshell
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

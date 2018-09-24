@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-11-14'
 slug: functional-peace-of-mind
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

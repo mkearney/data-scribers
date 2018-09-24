@@ -1,10 +1,10 @@
 ---
 title: "Introducing debkeepr"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2018-09-18'
 slug: introducing-debkeepr
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - jessesadlercom

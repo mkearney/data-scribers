@@ -47,5 +47,14 @@
       <description>Let’s also confirm that both models give the same&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Bootstrapping Time Series Data</title>
+      <link>/post/bootstrapping-time-series-data/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bootstrapping-time-series-data/</guid>
+      <description>This demonstration is part of a requirement for my statistical consulting class at UT Austin. I will go through the basics of bootstrapping time series data using three different resampling methods. Always a good idea to see what your data look like first: For model-based resampling, the trick is to use your model to generate new time series, and adding noise with the resampled residuals from the&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

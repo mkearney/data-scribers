@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2018-01-24'
 slug: analysis-of-the-renert-part-2
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

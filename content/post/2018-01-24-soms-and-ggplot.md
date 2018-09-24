@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-01-24'
 slug: soms-and-ggplot
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogschochasticsnet

@@ -4,7 +4,7 @@ author: 'mathlacome.rbind.io'
 date: '2018-08-27'
 slug: readiness-or-betweenplayer-nor
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mathlacomerbindio

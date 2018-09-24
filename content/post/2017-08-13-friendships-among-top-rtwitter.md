@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2017-08-13'
 slug: friendships-among-top-rtwitter
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rtasticcouk

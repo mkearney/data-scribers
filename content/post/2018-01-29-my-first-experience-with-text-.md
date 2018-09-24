@@ -4,7 +4,7 @@ author: 'asch3tti.netlify.com'
 date: '2018-01-29'
 slug: my-first-experience-with-text-
 categories:
-  - bloglink
+- bloglink
 tags:
   - asch3ttinetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'wytham.rbind.io'
 date: '2018-04-03'
 slug: introducing-git-github
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - wythamrbindio

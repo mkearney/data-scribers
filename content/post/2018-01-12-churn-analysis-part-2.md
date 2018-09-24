@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2018-01-12'
 slug: churn-analysis-part-2
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

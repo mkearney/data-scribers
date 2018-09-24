@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2017-10-31'
 slug: bringing-together-people-and-p
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

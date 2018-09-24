@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-10-24'
 slug: jstree-htmlwidget
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yonicdnetlifycom

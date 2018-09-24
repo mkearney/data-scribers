@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dicookorg on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
+    <link>/tags/dicookorg/</link>
+    <description>Recent content in Dicookorg on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dicookorg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting past the little hiccups to getting plotly animations into slides</title>
+      <link>/post/getting-past-the-little-hiccup/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-past-the-little-hiccup/</guid>
+      <description>The tourr package, elegantly crafted by Hadley Wickham, provides a broad range of tour types, and is easy to run locally on your laptop. It doesn’t play very nicely with the RStudio graphics device, so requires opening a separate device which is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analysing my energy usage</title>
+      <link>/post/analysing-my-energy-usage/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysing-my-energy-usage/</guid>
+      <description>The data is not especially nicely formatted (surprise). The main components are: The code to read the data does the following steps: Below are the calendar plots for the two meters that are running at my apartment. Meter 1 seems to be the daily activity. You can see This meter seems to show regular use, not related to our&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

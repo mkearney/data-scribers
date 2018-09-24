@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-08-28'
 slug: moving-beyond-patternbased-ana
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - nowosadgithubio

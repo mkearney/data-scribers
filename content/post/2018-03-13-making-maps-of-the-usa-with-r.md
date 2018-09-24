@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-03-13'
 slug: making-maps-of-the-usa-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

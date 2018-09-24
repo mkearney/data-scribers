@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-10-16'
 slug: can-we-use-bsplines-to-generat
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

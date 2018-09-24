@@ -4,7 +4,7 @@ author: 'sumprain.netlify.com'
 date: '2018-01-16'
 slug: interpreting-results-from-clin
 categories:
-  - bloglink
+- bloglink
 tags:
   - sumprainnetlifycom
 ---

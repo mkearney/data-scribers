@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-02-18'
 slug: parallelization-of-simulations
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rladiesnycorg

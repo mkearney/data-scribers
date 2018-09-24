@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-07-10'
 slug: how-the-odds-ratio-confounds
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

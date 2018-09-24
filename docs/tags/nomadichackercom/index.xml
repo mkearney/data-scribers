@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nomadichackercom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
+    <link>/tags/nomadichackercom/</link>
+    <description>Recent content in Nomadichackercom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nomadichackercom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Zero to GPU 2 - Squeezing Neural Network Performance on CPU</title>
+      <link>/post/from-zero-to-gpu-2-squeezing-n/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/from-zero-to-gpu-2-squeezing-n/</guid>
+      <description>Welcome to the second post in my From Zero to GPU series. Where I talk about aspects of neural network implementations. In the last post, we have: Trained a simple, feedforward network Deployed it in C++ Got abysmal performance compared to the reference implementation In this post, I&amp;rsquo;m going to investigate the different optimizations to speed up CPU&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing</title>
+      <link>/post/announcing/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/announcing/</guid>
+      <description>Richard Feynmann 1 has once said: What I cannot create, I do not understand. To understand Neural Networks, and how the recent Machine Learning evolution happened. I&amp;rsquo;ve decided to go back to basics, and write a Neural Network library from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Zero to GPU 1 - A new neural network is born</title>
+      <link>/post/from-zero-to-gpu-1-a-new-neura/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/from-zero-to-gpu-1-a-new-neura/</guid>
+      <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations. This blog post was actually finished all the way back in July, due to some unforseen delays, I&amp;rsquo;ve only gotten around to publishing it now, my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello, to a brand new World</title>
+      <link>/post/hello-to-a-brand-new-world/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-to-a-brand-new-world/</guid>
+      <description>So, after putting it off for years. I&amp;rsquo;ve finally taken the plunge into hosting my own&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

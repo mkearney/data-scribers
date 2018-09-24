@@ -4,7 +4,7 @@ author: 'mgb-research.netlify.com'
 date: '2018-05-21'
 slug: gaussian-process-imputationfor
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - mgbresearchnetlifycom

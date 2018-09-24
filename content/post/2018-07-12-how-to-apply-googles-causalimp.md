@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2018-07-12'
 slug: how-to-apply-googles-causalimp
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

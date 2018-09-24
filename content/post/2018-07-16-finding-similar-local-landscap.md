@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-07-16'
 slug: finding-similar-local-landscap
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

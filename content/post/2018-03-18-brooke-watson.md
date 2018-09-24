@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-03-18'
 slug: brooke-watson
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rladiesnycorg

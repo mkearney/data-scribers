@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-05-23'
 slug: r4ds-june-challenge
 categories:
-  - bloglink
+- bloglink
 tags:
   - python
   - jessemaegancom

@@ -4,7 +4,7 @@ author: 'davemcg.github.io'
 date: '2018-06-18'
 slug: quick-guide-to-gene-name-conve
 categories:
-  - bloglink
+- bloglink
 tags:
   - davemcggithubio
 ---

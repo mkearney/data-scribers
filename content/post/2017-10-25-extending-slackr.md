@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-10-25'
 slug: extending-slackr
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yonicdnetlifycom

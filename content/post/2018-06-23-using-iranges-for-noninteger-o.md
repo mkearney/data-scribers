@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-06-23'
 slug: using-iranges-for-noninteger-o
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

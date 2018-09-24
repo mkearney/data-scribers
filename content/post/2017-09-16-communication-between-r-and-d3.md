@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-09-16'
 slug: communication-between-r-and-d3
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

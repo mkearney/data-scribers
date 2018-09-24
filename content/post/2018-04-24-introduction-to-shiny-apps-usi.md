@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-04-24'
 slug: introduction-to-shiny-apps-usi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rladiesnycorg
 ---

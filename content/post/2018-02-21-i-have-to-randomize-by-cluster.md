@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-02-21'
 slug: i-have-to-randomize-by-cluster
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

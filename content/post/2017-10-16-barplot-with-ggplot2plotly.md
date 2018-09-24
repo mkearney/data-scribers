@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-10-16'
 slug: barplot-with-ggplot2plotly
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

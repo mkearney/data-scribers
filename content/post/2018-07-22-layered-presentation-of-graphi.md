@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-07-22'
 slug: layered-presentation-of-graphi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2017-04-26'
 slug: assorted-shiny-apps-collection
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - leonawiczgithubioblog

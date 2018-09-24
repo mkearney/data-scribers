@@ -4,7 +4,7 @@ author: 'www.samabbott.co.uk'
 date: '2018-01-15'
 slug: exploring-global-trends-in-tub
 categories:
-  - bloglink
+- bloglink
 tags:
   - samabbottcouk
 ---

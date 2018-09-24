@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-02'
 slug: setting-up-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogzenggyucomen

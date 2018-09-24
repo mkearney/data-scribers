@@ -4,7 +4,7 @@ author: 'divingintogeneticsandgenomics.rbind.io'
 date: '2018-06-30'
 slug: my-first-try-on-rmarkdown-usin
 categories:
-  - bloglink
+- bloglink
 tags:
   - divingintogeneticsandgenomicsrbindio
 ---

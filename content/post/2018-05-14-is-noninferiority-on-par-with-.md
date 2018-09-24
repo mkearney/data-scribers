@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-05-14'
 slug: is-noninferiority-on-par-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

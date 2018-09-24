@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-10-05'
 slug: a-minor-update-to-simstudy-pro
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

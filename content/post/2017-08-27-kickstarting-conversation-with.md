@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-08-27'
 slug: kickstarting-conversation-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

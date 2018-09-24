@@ -4,7 +4,7 @@ author: 'www.openplantpathology.org'
 date: '2018-08-26'
 slug: opp-interviews
 categories:
-  - bloglink
+- bloglink
 tags:
   - openplantpathologyorg
 ---

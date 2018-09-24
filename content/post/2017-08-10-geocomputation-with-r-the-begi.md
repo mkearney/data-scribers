@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2017-08-10'
 slug: geocomputation-with-r-the-begi
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

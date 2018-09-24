@@ -80,7 +80,7 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/how-i-use-rmarkdown/</guid>
-      <description>Last week or so, I achieved a wonderous thing. A trivial thing. I acheived a wondrous, trivial thing: I wrote my most popular tweet ever: My new thing is ending every Rmd with a list of links to the forums / SO questions / blogs / github repos that I used to solve the problem #rstats pic.twitter.com/U51KT9kiym - Andrew MacDonald (@polesasunder) January 26, 2018 That’s right</description>
+      <description>Last week or so, I achieved a wonderous thing. A trivial&amp;hellip;</description>
     </item>
     
     <item>
@@ -90,6 +90,33 @@
       
       <guid>/post/a-tidy-game-of-life/</guid>
       <description>Ever since I moved to France for my postdoc in September 2016, I’ve tried to practice French whenever I can. One easy way to do that is by consuming YouTube channels in French – great things to put on the the background while I make food for my son, or feed my son, or clean up after feeding my son, etc. One of my favourite chaînes de Youtube is Science Etonnante, by David&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Population growth with functional programming</title>
+      <link>/post/population-growth-with-functio/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/population-growth-with-functio/</guid>
+      <description>Today I want to tell you about an approach for functional programming in R – and then apply it to studying population growth! I have been studying some of the purrr functions lately. They are a useful family of functions for performing two common tasks in R: manipulating lists and altering the behaviour of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Twitter recommends stats books</title>
+      <link>/post/twitter-recommends-stats-books/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/twitter-recommends-stats-books/</guid>
+      <description>Yesterday I asked my beloved Twitter nerds to recommend to me their favourite quantitative texts in Ecology: my postdoc super tells me I can BUY BOOKS! 💓📚📚💓 quick sweet friends, what are your fun statistical ecology book recommendations? - Andrew MacDonald (@polesasunder) December 2, 2016 As a way of saying &amp;ldquo;Thank you!&amp;rdquo; I thought that I would put all the books in a list for anyone who is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Continuous fractions with Map and Reduce</title>
+      <link>/post/continuous-fractions-with-map-/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/continuous-fractions-with-map-/</guid>
+      <description>Over the summer, some of us here at UBC started a reading group based around Hadley Wickham’s book, Advanced R Programming. The goal was to compare our answers to the exercises and our impressions of the content. We recently read my favourite chapter, Functionals, where readers are challenged to read about some algorithms in Structure and Interpretation of Computer Programs, and implement it in&amp;hellip;</description>
     </item>
     
   </channel>

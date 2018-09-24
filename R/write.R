@@ -15,7 +15,7 @@ write_post <- function(url, pubdate, title, link, description) {
   if (is.na(pubdate) || nchar(pubdate) < 5) return(NULL)
   if (is.na(title) || nchar(title) < 5) return(NULL)
   if (is.na(link) || nchar(link) < 5) return(NULL)
-  if (is.na(pubdate) || as.Date("2017-01-01") > as.Date(pubdate)) return(NULL)
+  if (is.na(pubdate) || as.Date("2010-01-01") > as.Date(pubdate)) return(NULL)
   tag <- gsub("[[:punct:]]", "", gsub("https?://", "", url))
   tag <- sub("^www", "", tag)
   author <- sub("https?://", "", url)
@@ -81,6 +81,40 @@ write_post <- function(url, pubdate, title, link, description) {
   cat(txt, file = file.path("content/post", save_as), fill = TRUE)
 }
 
+## write function that derives file name
+slug2saveas <- function(x) {
+  slug2saveas_ <- function(title, pubdate) {
+    title <- ifelse(nchar(title) > 30 & grepl(":", title),
+      sub(":.*", "", title), title)
+    title <- gsub('"', "'", title)
+    if (grepl("about", title, ignore.case = TRUE) && nchar(title) < 7) {
+      return(NULL)
+    }
+    slug <- gsub("[[:punct:]]", "", title)
+    slug <- tolower(slug)
+    slug <- gsub("\\W+", " ", slug)
+    slug <- gsub("\\s+", "-", slug)
+    if (nchar(slug) > 30) {
+      slug <- substr(slug, 1, 30)
+    }
+    save_as <- paste0(pubdate, "-", slug, ".md")
+  }
+  purrr::map_chr(seq_len(nrow(x)), ~
+      slug2saveas_(x$title[.x], x$pubdate[.x]))
+}
+
+## vector of all file names
+new_posts <- slug2saveas(blogs_data)
+
+## files already posted
+old_posts <- list.files("content/post")
+
+## logical indicating whether rows are new posts
+new_posts <- !new_posts %in% old_posts
+
+## subset blogs data
+blogs_data <- blogs_data[new_posts, ]
+
 ## write/overwrite posts
 for (i in seq_len(nrow(blogs_data))) {
   with(blogs_data[i, ],
@@ -90,3 +124,16 @@ for (i in seq_len(nrow(blogs_data))) {
 
 ## build with hugo
 blogdown::hugo_build(local = TRUE)
+
+build_ds <- function(local = TRUE) {
+  config <- blogdown:::load_config()
+  blogdown:::hugo_cmd(c(if (local) c("-b", blogdown:::site_base_dir(), "-D", "-F"),
+    "-d", shQuote(blogdown:::publish_dir(config)), blogdown:::theme_flag(config)))
+}
+
+build_ds()
+#blogdown::serve_site()
+#blogdown::stop_server()
+
+## remove tmp resources dir
+unlink("resources", recursive = TRUE)

@@ -4,7 +4,7 @@ author: 'www.noahlandesberg.com'
 date: '2017-10-15'
 slug: building-my-website-with-blogd
 categories:
-  - bloglink
+- bloglink
 tags:
   - noahlandesbergcom
 ---

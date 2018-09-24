@@ -110,5 +110,32 @@
       <description>A bit of backstory. If I recall correctly, I began exploring RStudio’s Shiny package when I first heard of it in late&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>mapmate 0.2.0</title>
+      <link>/post/mapmate-020/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mapmate-020/</guid>
+      <description>To install the package: The first example uses a flat map. Therefore it is important to break lines at the international dateline when preparing the data. In the second example, lines cross the dateline are not split because the segments will be plotted on the globe. Again, normal usage is to just do the following and then use the saved still image sequence with full user control for whatever you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R animation</title>
+      <link>/post/r-animation/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-animation/</guid>
+      <description>I have posted a new R data animation video. It&amp;rsquo;s an example animation of modeled historical and projected global temperature change from 1850 - 2100. The data prep, analysis, full processing and generation of all sets of still frames for each layer in the video are done using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R animation</title>
+      <link>/post/r-animation/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-animation/</guid>
+      <description>For the blog readers, just a quick heads up that I have posted a new R data animation to YouTube. A complete post will follow, but for now here is the video. It displays the social network of SNAP Shiny app users over about the past year and a half using great circle trajectories on a rotating 3D Earth. It&amp;rsquo;s best in 1080p, but still somewhat degraded for&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

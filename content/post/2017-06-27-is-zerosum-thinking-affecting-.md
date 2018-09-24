@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-06-27'
 slug: is-zerosum-thinking-affecting-
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cattleguardgithubio

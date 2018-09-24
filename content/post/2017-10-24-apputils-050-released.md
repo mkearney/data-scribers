@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2017-10-24'
 slug: apputils-050-released
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

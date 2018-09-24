@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-10-09'
 slug: lets-make-ggplot2-purrr-again
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-06-20'
 slug: turn-roberts-beard-purple
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

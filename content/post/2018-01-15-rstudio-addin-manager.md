@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2018-01-15'
 slug: rstudio-addin-manager
 categories:
-  - bloglink
+- bloglink
 tags:
   - yonicdnetlifycom
 ---

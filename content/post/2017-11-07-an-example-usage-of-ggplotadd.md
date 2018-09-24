@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2017-11-07'
 slug: an-example-usage-of-ggplotadd
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yutanirbindio

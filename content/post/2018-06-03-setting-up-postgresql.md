@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-03'
 slug: setting-up-postgresql
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

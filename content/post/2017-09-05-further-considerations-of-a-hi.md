@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-09-05'
 slug: further-considerations-of-a-hi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

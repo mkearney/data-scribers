@@ -4,7 +4,7 @@ author: 'www.samabbott.co.uk'
 date: '2018-04-11'
 slug: exploring-tuberculosis-monitor
 categories:
-  - bloglink
+- bloglink
 tags:
   - samabbottcouk
 ---

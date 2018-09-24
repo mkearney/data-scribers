@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-01-25'
 slug: geocomputation-with-r-the-inte
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - nowosadgithubio

@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-08-03'
 slug: sips-2017-conference-tweets
 categories:
-  - bloglink
+- bloglink
 tags:
   - vuorrenetlifycom
 ---

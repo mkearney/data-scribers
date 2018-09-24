@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-08-12'
 slug: learning-to-learn
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessemaegancom
 ---

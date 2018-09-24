@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-01'
 slug: setting-up-ubuntu
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

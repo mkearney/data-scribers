@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2017-12-27'
 slug: custom-deployment-script
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

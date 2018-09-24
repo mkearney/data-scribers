@@ -4,7 +4,7 @@ author: 'batteriesnotincluded.rbind.io'
 date: '2017-08-29'
 slug: ad-hoc-testing
 categories:
-  - bloglink
+- bloglink
 tags:
   - batteriesnotincludedrbindio
 ---

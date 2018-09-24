@@ -4,7 +4,7 @@ author: 'divingintogeneticsandgenomics.rbind.io'
 date: '2018-09-07'
 slug: compute-averagessums-on-grange
 categories:
-  - bloglink
+- bloglink
 tags:
   - divingintogeneticsandgenomicsrbindio
 ---

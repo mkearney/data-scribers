@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-11-22'
 slug: open-access-mandates
 categories:
-  - bloglink
+- bloglink
 tags:
   - vuorrenetlifycom
 ---

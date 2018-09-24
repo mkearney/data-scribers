@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2017-02-02'
 slug: r-for-excel-users
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

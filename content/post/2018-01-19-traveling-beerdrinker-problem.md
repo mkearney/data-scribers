@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-01-19'
 slug: traveling-beerdrinker-problem
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogschochasticsnet
 ---

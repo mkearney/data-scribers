@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-06-20'
 slug: naming-things
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - njtierneycom

@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-11-15'
 slug: 3-keys-for-successful-products
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - cattleguardgithubio

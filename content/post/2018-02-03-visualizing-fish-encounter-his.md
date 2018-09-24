@@ -4,7 +4,7 @@ author: 'fishsciences.github.io'
 date: '2018-02-03'
 slug: visualizing-fish-encounter-his
 categories:
-  - bloglink
+- bloglink
 tags:
   - fishsciencesgithubio
 ---

@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2018-06-11'
 slug: tiler-020-cran-release
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - leonawiczgithubioblog

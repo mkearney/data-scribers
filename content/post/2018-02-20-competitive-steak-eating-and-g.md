@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2018-02-20'
 slug: competitive-steak-eating-and-g
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cattleguardgithubio

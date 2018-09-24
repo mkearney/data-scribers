@@ -4,7 +4,7 @@ author: 'www.robert-hickman.eu'
 date: '2018-03-21'
 slug: hello-world-and-a-small-chess-
 categories:
-  - bloglink
+- bloglink
 tags:
   - roberthickmaneu
 ---

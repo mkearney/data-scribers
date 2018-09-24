@@ -4,7 +4,7 @@ author: 'batteriesnotincluded.rbind.io'
 date: '2017-08-24'
 slug: scraping-friends
 categories:
-  - bloglink
+- bloglink
 tags:
   - batteriesnotincludedrbindio
 ---

@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-05'
 slug: a-brief-introduction-to-bagged
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - blogzenggyucomen

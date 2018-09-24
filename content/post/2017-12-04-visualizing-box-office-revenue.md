@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-12-04'
 slug: visualizing-box-office-revenue
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

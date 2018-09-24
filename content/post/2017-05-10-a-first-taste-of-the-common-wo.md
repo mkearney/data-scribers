@@ -4,7 +4,7 @@ author: 'dscinomics.com'
 date: '2017-05-10'
 slug: a-first-taste-of-the-common-wo
 categories:
-  - bloglink
+- bloglink
 tags:
   - dscinomicscom
 ---

@@ -110,5 +110,14 @@
       <description>In addition to the output UI the user also gets a reactive output that has all the objects that are in the regular ggedit package (plots, layers, scales, themes) both in object and script forms. This has great advantages if you want to let users edit plots while keeping track of what they are&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>ggedit</title>
+      <link>/post/ggedit/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ggedit/</guid>
+      <description>ggplot2 has become the standard of plotting in R for many users. New users, however, may find the learning curve steep at first, and more experienced users may find it challenging to keep track of all the options (especially in the&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

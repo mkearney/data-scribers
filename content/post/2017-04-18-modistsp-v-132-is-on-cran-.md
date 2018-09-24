@@ -4,7 +4,7 @@ author: 'lbusett.netlify.com'
 date: '2017-04-18'
 slug: modistsp-v-132-is-on-cran-
 categories:
-  - bloglink
+- bloglink
 tags:
   - lbusettnetlifycom
 ---

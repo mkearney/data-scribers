@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-02-24'
 slug: r4ds-march-challenge
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessemaegancom
 ---

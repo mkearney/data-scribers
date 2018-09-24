@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-08'
 slug: whats-the-igo-dataset
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - evangelinereynoldsnetlifycom

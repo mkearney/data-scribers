@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-04-21'
 slug: scraping-data-from-statecs-pub
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

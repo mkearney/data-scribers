@@ -4,7 +4,7 @@ author: 'sjfox.github.io'
 date: '2017-04-24'
 slug: simple-trick-to-speed-up-ode-i
 categories:
-  - bloglink
+- bloglink
 tags:
   - sjfoxgithubio
 ---

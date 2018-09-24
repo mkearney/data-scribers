@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2017-05-15'
 slug: rstudio-and-shiny-servers-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogdavisvaughancom

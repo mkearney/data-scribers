@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-12-11'
 slug: when-theres-a-fork-in-the-road
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

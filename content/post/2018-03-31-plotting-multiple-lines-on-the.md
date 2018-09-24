@@ -4,7 +4,7 @@ author: 'thedatawitch.com'
 date: '2018-03-31'
 slug: plotting-multiple-lines-on-the
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thedatawitchcom

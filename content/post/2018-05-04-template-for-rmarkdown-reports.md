@@ -4,7 +4,7 @@ author: 'davemcg.github.io'
 date: '2018-05-04'
 slug: template-for-rmarkdown-reports
 categories:
-  - bloglink
+- bloglink
 tags:
   - davemcggithubio
 ---

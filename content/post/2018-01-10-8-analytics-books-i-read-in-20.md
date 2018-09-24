@@ -4,7 +4,7 @@ author: 'www.noahlandesberg.com'
 date: '2018-01-10'
 slug: 8-analytics-books-i-read-in-20
 categories:
-  - bloglink
+- bloglink
 tags:
   - noahlandesbergcom
 ---

@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2018-03-06'
 slug: copula-resources
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogdavisvaughancom
 ---

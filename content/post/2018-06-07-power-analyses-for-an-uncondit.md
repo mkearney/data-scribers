@@ -4,7 +4,7 @@ author: 'mgb-research.netlify.com'
 date: '2018-06-07'
 slug: power-analyses-for-an-uncondit
 categories:
-  - bloglink
+- bloglink
 tags:
   - mgbresearchnetlifycom
 ---

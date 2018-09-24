@@ -4,7 +4,7 @@ author: 'mdgbeck.netlify.com'
 date: '2017-05-12'
 slug: comparison-of-nba-draft-classe
 categories:
-  - bloglink
+- bloglink
 tags:
   - mdgbecknetlifycom
 ---

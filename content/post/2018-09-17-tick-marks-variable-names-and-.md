@@ -4,7 +4,7 @@ author: 'mikewk.com'
 date: '2018-09-17'
 slug: tick-marks-variable-names-and-
 categories:
-  - bloglink
+- bloglink
 tags:
   - mikewkcom
 ---

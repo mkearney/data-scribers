@@ -4,7 +4,7 @@ author: 'saidejp.rbind.io'
 date: '2018-01-24'
 slug: socioeconomic-factors-of-poor-
 categories:
-  - bloglink
+- bloglink
 tags:
   - saidejprbindio
 ---

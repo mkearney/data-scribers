@@ -4,7 +4,7 @@ author: 'mdgbeck.netlify.com'
 date: '2017-05-22'
 slug: tidytext-analysis-of-seinfeld
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - mdgbecknetlifycom

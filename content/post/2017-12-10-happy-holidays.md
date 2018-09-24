@@ -4,7 +4,7 @@ author: 'asch3tti.netlify.com'
 date: '2017-12-10'
 slug: happy-holidays
 categories:
-  - bloglink
+- bloglink
 tags:
   - asch3ttinetlifycom
 ---

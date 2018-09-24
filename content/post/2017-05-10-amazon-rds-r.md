@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2017-05-10'
 slug: amazon-rds-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogdavisvaughancom

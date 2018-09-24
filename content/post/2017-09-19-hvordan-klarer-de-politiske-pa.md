@@ -4,7 +4,7 @@ author: 'emil.tbjerglund.dk'
 date: '2017-09-19'
 slug: hvordan-klarer-de-politiske-pa
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - emiltbjerglunddk

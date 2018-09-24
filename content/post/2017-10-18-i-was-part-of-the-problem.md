@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2017-10-18'
 slug: i-was-part-of-the-problem
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

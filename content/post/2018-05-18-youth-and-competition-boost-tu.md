@@ -4,7 +4,7 @@ author: 'cjbarrie.netlify.com'
 date: '2018-05-18'
 slug: youth-and-competition-boost-tu
 categories:
-  - bloglink
+- bloglink
 tags:
   - cjbarrienetlifycom
 ---

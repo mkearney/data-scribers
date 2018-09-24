@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2017-05-03'
 slug: why-you-should-work-remotely-e
 categories:
-  - bloglink
+- bloglink
 tags:
   - shotwellcablog
 ---

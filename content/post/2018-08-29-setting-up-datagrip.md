@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-08-29'
 slug: setting-up-datagrip
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

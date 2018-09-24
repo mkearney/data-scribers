@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-07-10'
 slug: using-simulation-for-power-ana
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-09-12'
 slug: complier-average-causal-effect
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

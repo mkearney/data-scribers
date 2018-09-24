@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2017-10-26'
 slug: publish-r-markdown-to-medium-v
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yutanirbindio

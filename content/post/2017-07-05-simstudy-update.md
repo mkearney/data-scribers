@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-07-05'
 slug: simstudy-update
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

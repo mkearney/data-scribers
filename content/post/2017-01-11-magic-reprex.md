@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2017-01-11'
 slug: magic-reprex
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

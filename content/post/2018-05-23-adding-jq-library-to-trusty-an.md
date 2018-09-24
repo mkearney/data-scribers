@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-05-23'
 slug: adding-jq-library-to-trusty-an
 categories:
-  - bloglink
+- bloglink
 tags:
   - rubuntunetlifycom
 ---

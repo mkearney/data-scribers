@@ -1,10 +1,10 @@
 ---
 title: "Geocoding with R"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2017-10-13'
 slug: geocoding-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessesadlercom
 ---

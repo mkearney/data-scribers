@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2018-06-09'
 slug: plot-geomsf-on-openstreetmap-t
 categories:
-  - bloglink
+- bloglink
 tags:
   - yutanirbindio
 ---

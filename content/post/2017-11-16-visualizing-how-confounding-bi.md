@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-11-16'
 slug: visualizing-how-confounding-bi
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

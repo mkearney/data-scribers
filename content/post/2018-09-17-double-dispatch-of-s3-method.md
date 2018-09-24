@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2018-09-17'
 slug: double-dispatch-of-s3-method
 categories:
-  - bloglink
+- bloglink
 tags:
   - yutanirbindio
 ---

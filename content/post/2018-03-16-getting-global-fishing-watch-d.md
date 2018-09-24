@@ -4,7 +4,7 @@ author: 'jsmayorga.com'
 date: '2018-03-16'
 slug: getting-global-fishing-watch-d
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jsmayorgacom

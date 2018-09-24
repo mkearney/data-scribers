@@ -4,7 +4,7 @@ author: 'thomasmock.netlify.com'
 date: '2018-04-05'
 slug: tidytuesday-a-weekly-social-da
 categories:
-  - bloglink
+- bloglink
 tags:
   - thomasmocknetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'lbusett.netlify.com'
 date: '2018-03-13'
 slug: automatically-importing-public
 categories:
-  - bloglink
+- bloglink
 tags:
   - lbusettnetlifycom
 ---

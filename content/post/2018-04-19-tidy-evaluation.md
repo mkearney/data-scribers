@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-04-19'
 slug: tidy-evaluation
 categories:
-  - bloglink
+- bloglink
 tags:
   - rladiesnycorg
 ---

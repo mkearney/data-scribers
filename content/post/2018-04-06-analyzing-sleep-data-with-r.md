@@ -4,7 +4,7 @@ author: 'www.seanlnguyen.com'
 date: '2018-04-06'
 slug: analyzing-sleep-data-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - seanlnguyencom

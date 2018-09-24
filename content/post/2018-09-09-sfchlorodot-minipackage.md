@@ -4,7 +4,7 @@ author: 'www.robert-hickman.eu'
 date: '2018-09-09'
 slug: sfchlorodot-minipackage
 categories:
-  - bloglink
+- bloglink
 tags:
   - roberthickmaneu
 ---

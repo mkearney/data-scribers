@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-02-07'
 slug: sample-entropy-with-rcpp
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogschochasticsnet
 ---

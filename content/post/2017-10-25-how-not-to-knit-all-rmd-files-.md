@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2017-10-25'
 slug: how-not-to-knit-all-rmd-files-
 categories:
-  - bloglink
+- bloglink
 tags:
   - yutanirbindio
 ---

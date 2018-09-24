@@ -47,5 +47,32 @@
       <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub. An introduction to R In this introduction to R I focused on tools from the tidyverse, as well as trying to provide some motivation for learning&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Modelling working memory precision in R</title>
+      <link>/post/modelling-working-memory-preci/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/modelling-working-memory-preci/</guid>
+      <description>I have translated Paul Bays’ Matlab functions for modeling continuous response data into R . Bays’ guide to the Matlab functions and their usage can be found here. I have a detailed guide to the R functions and their usage over on Github. A typical precision task has participants recall a feature of stimulus on a continuous scale rather than using classic correct/incorrect&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cutoff function</title>
+      <link>/post/cutoff-function/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cutoff-function/</guid>
+      <description>In R Markdown one is often faced with situations where a value that can vary substantially in automatically pulled out. For example, we might want to pull a p-value out of an linear model object. It&amp;rsquo;s a chore to have to manually edit p-values so that they conform with reporting conventions (e.g. p &amp;lt; .001). I&amp;rsquo;ve written a little function to deal with this issues by taking a value and returning,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Priors as beliefs</title>
+      <link>/post/priors-as-beliefs/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/priors-as-beliefs/</guid>
+      <description>“Language sets everyone the same traps; it is an immense network of easily accessible wrong turnings.” - Ludwig Wittgenstein, Culture &amp;amp; Value (1980) It is often said that priors in Bayesian statistics are ‘beliefs’. I maintain this analogy is misguided and&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

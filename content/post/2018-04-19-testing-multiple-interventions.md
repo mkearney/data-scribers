@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-04-19'
 slug: testing-multiple-interventions
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

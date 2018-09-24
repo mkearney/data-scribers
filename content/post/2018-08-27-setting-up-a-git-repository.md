@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-08-27'
 slug: setting-up-a-git-repository
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

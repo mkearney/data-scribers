@@ -4,7 +4,7 @@ author: 'sumprain.netlify.com'
 date: '2018-01-06'
 slug: batch-modification-of-pdf-page
 categories:
-  - bloglink
+- bloglink
 tags:
   - sumprainnetlifycom
 ---

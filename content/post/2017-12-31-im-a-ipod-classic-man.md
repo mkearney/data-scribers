@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-12-31'
 slug: im-a-ipod-classic-man
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2018-03-19'
 slug: introducing-tabr
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - leonawiczgithubioblog

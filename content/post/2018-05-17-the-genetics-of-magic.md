@@ -4,7 +4,7 @@ author: 'g-tierney.github.io'
 date: '2018-05-17'
 slug: the-genetics-of-magic
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - gtierneygithubio

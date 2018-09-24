@@ -4,7 +4,7 @@ author: 'davemcg.github.io'
 date: '2018-05-08'
 slug: bog18-talk-notes
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

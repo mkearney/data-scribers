@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-25'
 slug: selection-effects
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow/</guid>
+      <description>Explicitly naming nodes is nonessential, but can be very useful when debugging. Oftentimes, when your Tensorflow code crashes, the error trace will refer to a specific operation. If you have many operations of the same type, it can be tough to figure out which one is problematic. By explicitly naming each of your nodes, you can get much more informative error traces, and identify the issue more&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>next up anova</title>
       <link>/post/next-up-anova/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
@@ -147,12 +156,12 @@
     </item>
     
     <item>
-      <title>How to Disable SELinux on CentOS 7</title>
-      <link>/post/how-to-disable-selinux-on-cent/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Neural Processes as distributions over functions</title>
+      <link>/post/neural-processes-as-distributi/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-disable-selinux-on-cent/</guid>
-      <description>SELinux (Security Enhanced Linux) is a Linux kernel security module that allows administrators and users more control over access controls. It allows access based on SELinux policy rules. SELinux policy rules specify how processes and users interact with each other as well as how processes and users interact with&amp;hellip;</description>
+      <guid>/post/neural-processes-as-distributi/</guid>
+      <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks. In the limited data regime, GPs are preferable due to their probabilistic nature and ability to capture&amp;hellip;</description>
     </item>
     
     <item>
@@ -192,21 +201,12 @@
     </item>
     
     <item>
-      <title>Curl Command Examples</title>
-      <link>/post/curl-command-examples/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/curl-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the curl tool through practical examples and detailed explanations of the most common curl options. What is Curl? Curl is command line utility for transferring data from or to a server designed to work without user interaction. With curl you can download or upload data using one of the supported protocols including HTTP, HTTPS, SCP, SFTP and&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Day 67-81</title>
       <link>/post/day-6781/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/day-6781/</guid>
-      <description>The motivation to face the fear is similarly straightforward: my R code runs too slowly for some of the problems I care about. It doesn’t come up that often, to be honest. Most problems I work on are small enough that it really doesn’t matter that my R code is slow. Other problems are standard enough that I can rely on other people’s compiled code to do all the work&amp;hellip;</description>
+      <description>The motivation to face the fear is similarly straightforward: my R code runs too slowly for some of the problems I care about. It doesn’t come up that often, to be honest. Most problems I work on are small enough that it really doesn’t matter that my R code is&amp;hellip;</description>
     </item>
     
     <item>
@@ -282,12 +282,12 @@
     </item>
     
     <item>
-      <title>Wget Command Examples</title>
-      <link>/post/wget-command-examples/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/wget-command-examples/</guid>
-      <description>In this tutorial, we will show you how to use the Wget utility through practical examples and detailed explanations of the most common Wget options. What is Wget? GNU Wget is command line utility for downloading files from the web. With Wget you can download files using HTTP, HTTPS, and FTP&amp;hellip;</description>
+      <guid>/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward. Most Python libraries are written to be natural extensions of&amp;hellip;</description>
     </item>
     
     <item>
@@ -297,15 +297,6 @@
       
       <guid>/post/multivariate-adaptive-regressi/</guid>
       <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to Find Files in Linux Using the Command Line</title>
-      <link>/post/how-to-find-files-in-linux-usi/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-find-files-in-linux-usi/</guid>
-      <description>Find is a command-line utility which allows you to search for files and directories in a directory hierarchy based on a user given expression and applies a user specified action on each matched file. The Linux Find command is one of the most powerful tools in the Linux system administrators&amp;hellip;</description>
     </item>
     
     <item>
@@ -332,7 +323,7 @@
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
+      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs. the rest of the World* and finding the optimal teams for each, as we did&amp;hellip;</description>
     </item>
     
     <item>
@@ -377,7 +368,7 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/could-an-independent-yorkshire/</guid>
-      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or&amp;hellip;</description>
+      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position. This positional ability score is important as we can’t just select the 11 best players for each team as we might end up playing a goalkeeper and 10 defenders (or&amp;hellip;</description>
     </item>
     
     <item>
@@ -480,12 +471,12 @@
     </item>
     
     <item>
-      <title>Writing an R Package Basics (and why I think you should)</title>
-      <link>/post/writing-an-r-package-basics-an/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Road Map for Choosing Between Statistical Modeling and Machine Learning</title>
+      <link>/post/road-map-for-choosing-between-/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/writing-an-r-package-basics-an/</guid>
-      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges. In this post, I&amp;rsquo;ll go over some of the content in that talk, and discuss why I think you should develop an R&amp;hellip;</description>
+      <guid>/post/road-map-for-choosing-between-/</guid>
+      <description>Data analysis methods may be described by their areas of applications, but for this article I&amp;rsquo;m using definitions that are strictly&amp;hellip;</description>
     </item>
     
     <item>
@@ -495,15 +486,6 @@
       
       <guid>/post/testing-multiple-interventions/</guid>
       <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to install Java on Debian 9</title>
-      <link>/post/how-to-install-java-on-debian-/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-java-on-debian-/</guid>
-      <description>In this tutorial, we will walk through installing Java on Debian 9. Java is one of the most popular programming languages used to build different kinds of applications and systems. Applications developed in Java are scalable, flexible and maintainable. There are two different Java packages, Java Runtime Environment (JRE) and the Java Development Kit&amp;hellip;</description>
     </item>
     
     <item>
@@ -602,7 +584,7 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fundamentos-de-inferencia-esta/</guid>
-      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas&amp;hellip;</description>
+      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g. anova, prueba t, correlaciones), sin entender realmente las ideas&amp;hellip;</description>
     </item>
     
     <item>
@@ -692,7 +674,16 @@
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/have-you-ever-asked-yourself-h/</guid>
-      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for&amp;hellip;</description>
+      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Information Gain From Using Ordinal Instead of Binary Outcomes</title>
+      <link>/post/information-gain-from-using-or/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/information-gain-from-using-or/</guid>
+      <description>The point about the increase in power can also be made by, instead of varying the effect size, varying the effect that can be detected with a fixed power of 0.9 when the degree of granularity in Y is increased. This is all about breaking ties in Y. The more ties there are, the less statistical information is present. Why is this important in study planning? Here’s an all–too–commmon&amp;hellip;</description>
     </item>
     
     <item>
@@ -786,30 +777,12 @@
     </item>
     
     <item>
-      <title>Mapping Statewide School Ratings with US Census Tracts</title>
-      <link>/post/mapping-statewide-school-ratin/</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/mapping-statewide-school-ratin/</guid>
-      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts. Specifically, I wanted to investigate whether there was a relation between the median housing price in an area, and the statewide achievement ratings for schools in the corresponding&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Firearms Sourced and Recovered in the United States and Territories 2010-2016</title>
       <link>/post/firearms-sourced-and-recovered/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/firearms-sourced-and-recovered/</guid>
       <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>esvis: Part 1</title>
-      <link>/post/esvis-part-1/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/esvis-part-1/</guid>
-      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs. If you find any, please let me&amp;hellip;</description>
     </item>
     
     <item>
@@ -984,21 +957,21 @@
     </item>
     
     <item>
-      <title>Angular on Electron, part 2</title>
-      <link>/post/angular-on-electron-part-2/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/angular-on-electron-part-2/</guid>
-      <description>In the previous post the bootstrap of Angular project on Electron platform was described. In this one, the process of application packaging will be presented. One of the benefits of Electron is that it runs on all major platforms. Each platform has naturally its needs regarding to creating the distribution package. Fortunately, the packaging and all that stuff do not need to be done&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Which RStudio blog posts “pleased” Hadley? A tidytext &#43; web scraping analysis</title>
       <link>/post/which-rstudio-blog-posts-pleas/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/which-rstudio-blog-posts-pleas/</guid>
       <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?). Out of curiousity, and to flex my R web scraping muscles a bit, I’ve decided to analyze the 240+ blog posts that RStudio has put out since&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Office of the CTO with Greg DeMichillie</title>
+      <link>/post/office-of-the-cto-with-greg-de/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/office-of-the-cto-with-greg-de/</guid>
+      <description>Prior to joining Google, he had leadership roles at variety of companies including Adobe and Amazon, as well as a decade at Microsoft where he was a developer on the first version of Visual C++, the development manager for Microsoft’s Java tools, and lead the product team for the creation of&amp;hellip;</description>
     </item>
     
     <item>
@@ -1164,12 +1137,219 @@
     </item>
     
     <item>
+      <title>Java with Ray Tsang and Rajeev Dayal</title>
+      <link>/post/java-with-ray-tsang-and-rajeev/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/java-with-ray-tsang-and-rajeev/</guid>
+      <description>In this second episode of the year we&amp;rsquo;ll talk Java! Rajeev Dayal is an Engineering Manager at Google New York that manages the Cloud SDK and Java on GCP efforts. He&amp;rsquo;s been in the developer tools space for nearly 10 years, previously working on the Google Plugin for Eclipse and GWT (where he still has nightmares about browser quirks with Internet Explorer 6) at Google&amp;rsquo;s Atlanta&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Magic reprex</title>
       <link>/post/magic-reprex/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/magic-reprex/</guid>
       <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Simple Guide to S3 Methods</title>
+      <link>/post/a-simple-guide-to-s3-methods/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-simple-guide-to-s3-methods/</guid>
+      <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Windows and .NET with Chris Sells and Amruta Gulanikar</title>
+      <link>/post/windows-and-net-with-chris-sel/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/windows-and-net-with-chris-sel/</guid>
+      <description>At Google, Chris is the Lead PM for Cloud Developer Tools, which includes driving our tooling and libraries efforts around Windows and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Modelling working memory precision in R</title>
+      <link>/post/modelling-working-memory-preci/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/modelling-working-memory-preci/</guid>
+      <description>I have translated Paul Bays’ Matlab functions for modeling continuous response data into R . Bays’ guide to the Matlab functions and their usage can be found here. I have a detailed guide to the R functions and their usage over on Github. A typical precision task has participants recall a feature of stimulus on a continuous scale rather than using classic correct/incorrect&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cutoff function</title>
+      <link>/post/cutoff-function/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cutoff-function/</guid>
+      <description>In R Markdown one is often faced with situations where a value that can vary substantially in automatically pulled out. For example, we might want to pull a p-value out of an linear model object. It&amp;rsquo;s a chore to have to manually edit p-values so that they conform with reporting conventions (e.g. p &amp;lt; .001). I&amp;rsquo;ve written a little function to deal with this issues by taking a value and returning,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Science Meets Parliament</title>
+      <link>/post/science-meets-parliament/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science-meets-parliament/</guid>
+      <description>In February I was lucky to receive funding from SSA to attend the two-day event Science Meets Parliament, held in Canberra. Science Meets parliament brings together 200 scientists to learn about research communication, the role of research in policy, and how to engage a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PHP with Terry Ryan and Brent Shaffer</title>
+      <link>/post/php-with-terry-ryan-and-brent-/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/php-with-terry-ryan-and-brent-/</guid>
+      <description>He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology. How do I load balance WebSocket connection with a Google Cloud Load&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Migrating to AWS</title>
+      <link>/post/migrating-to-aws/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrating-to-aws/</guid>
+      <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand. MYOB helps businesses of all kinds and sizes, delivering software and services that simplify accounting, payroll, client management, websites, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hacking for the Underserved</title>
+      <link>/post/hacking-for-the-underserved/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hacking-for-the-underserved/</guid>
+      <description>What comes first: the problems, or the tools to solve them? It seems at times as if the newest technology on the block has become more important than creating actual solutions to healthcare problems. In the digital health landscape, hackathons have run counter to the tools-first&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Siri, what do my lab results mean?”</title>
+      <link>/post/siri-what-do-my-lab-results-me/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/siri-what-do-my-lab-results-me/</guid>
+      <description>Overcoming the Literacy Burden Using Voice-Mediated Interfaces The literacy and numeracy burden represents one of the major barriers to engaging patients in their health. Efforts to offer patients open access to their data afford those who are health literate an empowering opportunity. However, patients who struggle with literacy and numeracy may not&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Your First Spark Cluster</title>
+      <link>/post/installing-your-first-spark-cl/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/installing-your-first-spark-cl/</guid>
+      <description>Installing your first spark cluster So, if you’re like me you’ve been using a lot of traditional tools for data science/analytics/whatever you want to call it. R is great, it’s flexible, it’s powerful but it’s slow and memory constrained. At work I’ve got a VM with 16Gb and one call can increase it. At home I’ve got an 8 Gb machine and honestly, it works fine for what I do&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec 0.3</title>
+      <link>/post/text2vec-03/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/text2vec-03/</guid>
+      <description>updated 2016-03-31 - few functions renamed updated 2016-10-07 - see updated tutorial for text2vec 0.4 Today I&amp;rsquo;m pleased to announce preview of the new version of text2vec. It is located in the 0.3 development branch, but very soon (probably in about a week) it will be merged into&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Australian rOpenSci Unconference</title>
+      <link>/post/australian-ropensci-unconferen/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/australian-ropensci-unconferen/</guid>
+      <description>The rOpenSci Unconferene is coming to Australia and we are excited!! I was completely and unceremoniously thrown into the deep end when I first started learning R. Contrary to what I initially thought possible, I am now irreversibly converted to the ideology of open&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes 1.2 with Kelsey Hightower</title>
+      <link>/post/kubernetes-12-with-kelsey-high/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kubernetes-12-with-kelsey-high/</guid>
+      <description>Kelsey has worn every hat possible throughout his career in tech and enjoys leadership roles focused on making things happen and shipping software. Kelsey is a strong open source advocate focused on building simple tools that make people&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Big Data with Felipe Hoffa</title>
+      <link>/post/big-data-with-felipe-hoffa/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/big-data-with-felipe-hoffa/</guid>
+      <description>In 2011 Felipe Hoffa moved from Chile to San Francisco to join Google as a Software Engineer. Since 2013 he&amp;rsquo;s been a Developer Advocate on Big Data - to inspire developers around the world to leverage the Google Cloud Platform tools to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GloVe vs word2vec revisited.</title>
+      <link>/post/glove-vs-word2vec-revisited/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/glove-vs-word2vec-revisited/</guid>
+      <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump. This dataset is rather&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Developer Experience with Chris Sells</title>
+      <link>/post/google-cloud-developer-experie/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/google-cloud-developer-experie/</guid>
+      <description>Chris Sells has been a software engineer of one kind or another since he was 14 years old. He&amp;rsquo;s worked at Intel and Microsoft, has started his own companies, has written a dozen books, given countless conference talks and has done everything from QA to developer, consultant to VP, technical support to CTO, chief architect to conference&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing texts with text2vec package</title>
+      <link>/post/analyzing-texts-with-text2vec-/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analyzing-texts-with-text2vec-/</guid>
+      <description>updated 2016-10-07 - see post with updated tutorial for text2vec 0.4 In the last weeks I have actively worked on text2vec (formerly tmlite) - R package, which provides tools for fast text vectorization and state-of-the art word embeddings. This project is an experiment for me - what can a single person do in a particular area? After these hard weeks, I believe, he can do a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>IVMOOC Reflections</title>
+      <link>/post/ivmooc-reflections/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ivmooc-reflections/</guid>
+      <description>So IVMOOC has been over for quite some time now. Looking back on the experience, I consider it to be a personal success. The first half of the course was interesting, and gave a good space for practise with tools and refinement of the skill set needed for&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#IVMOOC Week 1</title>
+      <link>/post/ivmooc-week-1/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ivmooc-week-1/</guid>
+      <description>So I&amp;rsquo;ve made it through the first week of #IVMOOC. Gold stars all around! I did learn some new things, new tricks and new tools from the lectures and I&amp;rsquo;m a sucker for a good framework. Anything that can help me organize chaos in a logical, well though out manner appeals to the engineer in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rmongodb 1.8.0</title>
+      <link>/post/rmongodb-180/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rmongodb-180/</guid>
+      <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to.list() rewritten from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Grammar of Models?</title>
+      <link>/post/a-grammar-of-models/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-grammar-of-models/</guid>
+      <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Statistics Can Do Anything?</title>
+      <link>/post/statistics-can-do-anything/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statistics-can-do-anything/</guid>
+      <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
     </item>
     
   </channel>

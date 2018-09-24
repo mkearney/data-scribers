@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2018-03-18'
 slug: prime-hints-for-running-a-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rtasticcouk

@@ -4,7 +4,7 @@ author: 'sumprain.netlify.com'
 date: '2018-01-05'
 slug: notes-on-thrombotic-microangio
 categories:
-  - bloglink
+- bloglink
 tags:
   - sumprainnetlifycom
 ---

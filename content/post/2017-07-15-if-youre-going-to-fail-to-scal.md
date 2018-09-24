@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-07-15'
 slug: if-youre-going-to-fail-to-scal
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

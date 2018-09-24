@@ -4,7 +4,7 @@ author: 'sjfox.github.io'
 date: '2018-01-11'
 slug: visualizing-flight-data-with-g
 categories:
-  - bloglink
+- bloglink
 tags:
   - sjfoxgithubio
 ---

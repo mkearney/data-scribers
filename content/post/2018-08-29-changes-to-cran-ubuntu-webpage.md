@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-08-29'
 slug: changes-to-cran-ubuntu-webpage
 categories:
-  - bloglink
+- bloglink
 tags:
   - rubuntunetlifycom
 ---

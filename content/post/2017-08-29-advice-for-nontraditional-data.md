@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2017-08-29'
 slug: advice-for-nontraditional-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2017-12-09'
 slug: writing-a-paper-with-rstudio
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

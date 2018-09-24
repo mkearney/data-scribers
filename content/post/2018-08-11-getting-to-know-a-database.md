@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-08-11'
 slug: getting-to-know-a-database
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

@@ -1,10 +1,10 @@
 ---
 title: "By Way of Introduction"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2017-06-06'
 slug: by-way-of-introduction
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessesadlercom
 ---

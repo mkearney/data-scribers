@@ -4,7 +4,7 @@ author: 'dscinomics.com'
 date: '2017-04-28'
 slug: r-upgrading-can-be-a-smooth-pr
 categories:
-  - bloglink
+- bloglink
 tags:
   - dscinomicscom
 ---

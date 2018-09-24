@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-05'
 slug: i-dont-like-cats-much
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jenrichmondrbindio

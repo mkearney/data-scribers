@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-08-12'
 slug: a-comparison-of-different-ways
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-01-08'
 slug: simulating-a-costeffectiveness
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

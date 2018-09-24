@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-09-28'
 slug: cace-closed
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2018-06-05'
 slug: epubr-040-cran-release
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

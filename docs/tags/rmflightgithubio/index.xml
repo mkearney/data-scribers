@@ -101,5 +101,14 @@
       <description>Also of note, the proteins with aberrant zinc geometries showed enrichment for different types of enzyme classifications than those with canonical zinc geometries. Finally, no one from RWJ2016 ever contacted our research group to see if the results might be available. Finally, I really don’t know what happened in the peer review of&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Authentication of Key Resources for Data Analysis</title>
+      <link>/post/authentication-of-key-resource/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/authentication-of-key-resource/</guid>
+      <description>Now, this makes sense. Some sources of irreproducibility include, but are not limited to: The other measures they used in this paper are also very nice, in plotting the median correlation of a sample against all other samples, and the fraction of outlier features in a given sample (see figure 2 of Gierlinkski et al). The final measure they propose is not generally applicable to all -omics data&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

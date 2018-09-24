@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-09-20'
 slug: a-simstudy-update-provides-an-
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

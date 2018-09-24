@@ -4,7 +4,7 @@ author: 'mgb-research.netlify.com'
 date: '2018-07-11'
 slug: interaction-plots-with-continu
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - mgbresearchnetlifycom

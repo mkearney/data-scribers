@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2018-02-12'
 slug: dplyr-doesnt-provide-full-supp
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - yutanirbindio

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-06-26'
 slug: balancing-on-multiple-factors-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

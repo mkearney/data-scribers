@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-08-27'
 slug: dirty-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jenrichmondrbindio

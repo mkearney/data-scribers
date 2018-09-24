@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2017-02-16'
 slug: the-power-of-tidy-data
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - shotwellcablog

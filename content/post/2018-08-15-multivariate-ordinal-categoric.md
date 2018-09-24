@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-08-15'
 slug: multivariate-ordinal-categoric
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

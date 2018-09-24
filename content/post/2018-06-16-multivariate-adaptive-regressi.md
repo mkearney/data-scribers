@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-16'
 slug: multivariate-adaptive-regressi
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - blogzenggyucomen

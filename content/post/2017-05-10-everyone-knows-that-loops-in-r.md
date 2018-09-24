@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-05-10'
 slug: everyone-knows-that-loops-in-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rdatagennet

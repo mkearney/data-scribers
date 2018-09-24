@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-12'
 slug: next-up-anova
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

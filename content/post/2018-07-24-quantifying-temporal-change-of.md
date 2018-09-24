@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-07-24'
 slug: quantifying-temporal-change-of
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

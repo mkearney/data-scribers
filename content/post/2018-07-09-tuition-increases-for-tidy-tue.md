@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-07-09'
 slug: tuition-increases-for-tidy-tue
 categories:
-  - bloglink
+- bloglink
 tags:
   - evangelinereynoldsnetlifycom
 ---

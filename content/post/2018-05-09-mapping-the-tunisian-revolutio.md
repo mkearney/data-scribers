@@ -4,7 +4,7 @@ author: 'cjbarrie.netlify.com'
 date: '2018-05-09'
 slug: mapping-the-tunisian-revolutio
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cjbarrienetlifycom

@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-07-05'
 slug: life-expectancy-animated
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

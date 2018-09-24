@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-08-10'
 slug: sharing-r-products
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - vuorrenetlifycom

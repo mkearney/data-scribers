@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-11-01'
 slug: thinking-about-different-ways-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

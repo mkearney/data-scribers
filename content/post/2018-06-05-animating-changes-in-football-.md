@@ -4,7 +4,7 @@ author: 'guyabel.com'
 date: '2018-06-05'
 slug: animating-changes-in-football-
 categories:
-  - bloglink
+- bloglink
 tags:
   - guyabelcom
 ---

@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-01-03'
 slug: data-science-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jessemaegancom

@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-05-18'
 slug: lightning-talks
 categories:
-  - bloglink
+- bloglink
 tags:
   - rladiesnycorg
 ---

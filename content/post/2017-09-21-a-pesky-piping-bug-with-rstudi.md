@@ -4,7 +4,7 @@ author: 'sjfox.github.io'
 date: '2017-09-21'
 slug: a-pesky-piping-bug-with-rstudi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - sjfoxgithubio

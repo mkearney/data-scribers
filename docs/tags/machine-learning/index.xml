@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>DL Indaba</title>
+      <link>/post/dl-indaba/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dl-indaba/</guid>
+      <description>Vukosi and Yasin(i) share how Deep Learning Indaba is playing an important role to recognize and grow machine learning research and companies on the African continent. We also discuss Yasin(i)&amp;rsquo;s prototyped app, Tukuka, and how it won the Maathai Award which is given to individuals who are a positive force for&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Parallel Computing in R</title>
       <link>/post/parallel-computing-in-r/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
@@ -39,12 +48,39 @@
     </item>
     
     <item>
+      <title>From Zero to GPU 2 - Squeezing Neural Network Performance on CPU</title>
+      <link>/post/from-zero-to-gpu-2-squeezing-n/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/from-zero-to-gpu-2-squeezing-n/</guid>
+      <description>Welcome to the second post in my From Zero to GPU series. Where I talk about aspects of neural network implementations. In the last post, we have: Trained a simple, feedforward network Deployed it in C++ Got abysmal performance compared to the reference implementation In this post, I&amp;rsquo;m going to investigate the different optimizations to speed up CPU&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Building Infrastructure with R</title>
       <link>/post/building-infrastructure-with-r/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/building-infrastructure-with-r/</guid>
       <description>For this event we will explore how to build tools and infrastructure with R. 6:15-6:30pm Introductions and Social 6:30- 6:45 pm NYT announcements (Data, Tech, HR) 6:45-6:55pm R-Ladies New York Announcements 6:55-7:25pm Object Oriented Programming in R 7:25-7:55pm Big Data in R with Small Prototypes: Scaling 8:00-8:15pm&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow/</guid>
+      <description>Explicitly naming nodes is nonessential, but can be very useful when debugging. Oftentimes, when your Tensorflow code crashes, the error trace will refer to a specific operation. If you have many operations of the same type, it can be tough to figure out which one is problematic. By explicitly naming each of your nodes, you can get much more informative error traces, and identify the issue more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In Machine Learning Predictions for Health Care the Confusion Matrix is a Matrix of Confusion</title>
+      <link>/post/in-machine-learning-prediction/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/in-machine-learning-prediction/</guid>
+      <description>Machine Learning (ML) has already transformed e-commerce, web search, advertising, finance, intelligence, media, and more. ML is becoming ubiquitous and its centripetal gravity draws health care into the&amp;hellip;</description>
     </item>
     
     <item>
@@ -57,12 +93,12 @@
     </item>
     
     <item>
-      <title>How to Install Anaconda on Ubuntu 18.04</title>
-      <link>/post/how-to-install-anaconda-on-ubu/</link>
+      <title>Neural Processes as distributions over functions</title>
+      <link>/post/neural-processes-as-distributi/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-install-anaconda-on-ubu/</guid>
-      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda&amp;hellip;</description>
+      <guid>/post/neural-processes-as-distributi/</guid>
+      <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks. In the limited data regime, GPs are preferable due to their probabilistic nature and ability to capture&amp;hellip;</description>
     </item>
     
     <item>
@@ -75,12 +111,39 @@
     </item>
     
     <item>
-      <title>Announcing Public Git Archive</title>
-      <link>/post/announcing-public-git-archive/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      <title>More on Graph Inspection</title>
+      <link>/post/more-on-graph-inspection/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/announcing-public-git-archive/</guid>
-      <description>Last week we had the honor of participating at MSR&amp;rsquo;18, where two of the members of our team, Vadim Markovtsev and Waren Long, presented the research paper they wrote on our latest dataset: Public Git Archive. Public Git Archive is the result of months of effort curating a dataset suitable for training Machine Learning on Source Code (aka MLonCode)&amp;hellip;</description>
+      <guid>/post/more-on-graph-inspection/</guid>
+      <description>The computational graph is not just a nebulous, immaterial abstraction; it is a computational object that exists, and can be inspected. Complicated graphs are difficult to debug if we are representing them entirely in our heads, but inspecting and debugging the actual graph object makes thigs much&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing</title>
+      <link>/post/announcing/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/announcing/</guid>
+      <description>Richard Feynmann 1 has once said: What I cannot create, I do not understand. To understand Neural Networks, and how the recent Machine Learning evolution happened. I&amp;rsquo;ve decided to go back to basics, and write a Neural Network library from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Zero to GPU 1 - A new neural network is born</title>
+      <link>/post/from-zero-to-gpu-1-a-new-neura/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/from-zero-to-gpu-1-a-new-neura/</guid>
+      <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations. This blog post was actually finished all the way back in July, due to some unforseen delays, I&amp;rsquo;ve only gotten around to publishing it now, my&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward. Most Python libraries are written to be natural extensions of&amp;hellip;</description>
     </item>
     
     <item>
@@ -90,15 +153,6 @@
       
       <guid>/post/day-3637-concerned-dalex/</guid>
       <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to install Python 3 on CentOS 7</title>
-      <link>/post/how-to-install-python-3-on-cen/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-python-3-on-cen/</guid>
-      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual&amp;hellip;</description>
     </item>
     
     <item>
@@ -129,6 +183,15 @@
     </item>
     
     <item>
+      <title>Road Map for Choosing Between Statistical Modeling and Machine Learning</title>
+      <link>/post/road-map-for-choosing-between-/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/road-map-for-choosing-between-/</guid>
+      <description>Data analysis methods may be described by their areas of applications, but for this article I&amp;rsquo;m using definitions that are strictly&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Yet Another Caret Workshop</title>
       <link>/post/yet-another-caret-workshop/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -147,6 +210,24 @@
     </item>
     
     <item>
+      <title>NVIDIA and Deep Learning Research with Bryan Catanzaro</title>
+      <link>/post/nvidia-and-deep-learning-resea/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nvidia-and-deep-learning-resea/</guid>
+      <description>Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning. Bryan earned his PhD from Berkeley, where he focused on parallel computing, machine learning, and programming&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud AI with Dr. Fei-Fei Li</title>
+      <link>/post/cloud-ai-with-dr-feifei-li/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cloud-ai-with-dr-feifei-li/</guid>
+      <description>Additional sample resources on Dr. Fei-Fei Li: Where can I learn more about machine learning? Listing of some of the many resources out there in no particular order: Sample of recent women in tech events to keep on radar for next&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Are you in genomics and building models? Stop using ROC - use PR</title>
       <link>/post/are-you-in-genomics-and-buildi/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
@@ -161,7 +242,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-4/</guid>
-      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
+      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
     </item>
     
     <item>
@@ -188,7 +269,7 @@
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/supervised-vs-unsupervised-lea/</guid>
-      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up. In social sciences, there is a definite tendency for the former; there is more or less always a target outcome or measure that we want to optimise the performance of our models&amp;hellip;</description>
+      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up. In social sciences, there is a definite tendency for the former; there is more or less always a target outcome or measure that we want to optimise the performance of our models&amp;hellip;</description>
     </item>
     
     <item>
@@ -210,21 +291,21 @@
     </item>
     
     <item>
+      <title>Cloud AutoML Vision with Amy Unruh and Sara Robinson</title>
+      <link>/post/cloud-automl-vision-with-amy-u/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cloud-automl-vision-with-amy-u/</guid>
+      <description>Cloud AutoML is a suite of products enabling developers with limited ML expertise to build high quality models using transfer learning and Neural Architecture Search techniques. AutoML Vision is the first product out the gate with a focus on making it easy to train customized vision&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Team Rtus wins Munich Re Datathon with mlr</title>
       <link>/post/team-rtus-wins-munich-re-datat/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/team-rtus-wins-munich-re-datat/</guid>
       <description>On the weekend of November 17. - 19. five brave data-knights from team “Rtus and the knights of the data.table” took on the challenge to compete in a datathon organized by Munich Re in its Munich-based innovation lab. Team Rtus was formed in April this year by a bunch of statistics students from LMU with the purpose to prove their data-skills in competitions with other teams from various&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Source Code Identifier Embeddings</title>
-      <link>/post/source-code-identifier-embeddi/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/source-code-identifier-embeddi/</guid>
-      <description>This post is related to a talk we gave in Moscow in June at our Machine Learning on Source Code (MLoSC) conference and research we did at the beginning of this year: presentation and&amp;hellip;</description>
     </item>
     
     <item>
@@ -246,6 +327,15 @@
     </item>
     
     <item>
+      <title>Sydney Region with Andrew Walker and Graham Polley</title>
+      <link>/post/sydney-region-with-andrew-walk/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sydney-region-with-andrew-walk/</guid>
+      <description>Andrew is the founder of 3wks who have delivered 190 projects on Google Cloud platform for enterprise customers in Australia. He loves everything serverless, from App Engine through to BigQuery. Graham is a senior software engineer based out of Melbourne Australia, and works for Shine Solutions. Shine are a enterprise digital consultancy with offices in Melbourne &amp;amp;&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>OpenML Workshop 2017</title>
       <link>/post/openml-workshop-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
@@ -264,12 +354,12 @@
     </item>
     
     <item>
-      <title>source{d} tech talks, Moscow 2017</title>
-      <link>/post/sourced-tech-talks-moscow-2017/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Basecamp Networks with Craig Ganssle</title>
+      <link>/post/basecamp-networks-with-craig-g/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/sourced-tech-talks-moscow-2017/</guid>
-      <description>On June, 3-2017, source{d} dedicated their regular source{d} tech talks to Machine Learning and we chose to host the event in Moscow, Russia. For this conference, we invited speakers from Russia and abroad and gathered about 80 neural network aficionados in a former industrial area of the&amp;hellip;</description>
+      <guid>/post/basecamp-networks-with-craig-g/</guid>
+      <description>Craig Ganssle is the Founder and CEO of Basecamp Networks. With over 20 years in the technology industry, Craig has extensive experience developing and deploying wireless networks and designing predictive learning solutions for complex problem&amp;hellip;</description>
     </item>
     
     <item>
@@ -279,6 +369,24 @@
       
       <guid>/post/shinymlr/</guid>
       <description>shinyMlr is a web application, built with the R-package “shiny” that provides a user interface for mlr. By wrapping the main functionalities of mlr into our app, as well as implementing additional features for data visualisation and data preprocessing, we built a widely usable application for your day to day machine learning tasks, which we would like to present to you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Functions with Bret McGowen</title>
+      <link>/post/cloud-functions-with-bret-mcgo/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cloud-functions-with-bret-mcgo/</guid>
+      <description>Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He&amp;rsquo;s currently an aspiring Node.js developer. Prior to Google, Bret worked in the cloud industry at Rackspace as a software engineer building the RackConnect hybrid hosting&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Machine Learning Engine with Yufeng Guo</title>
+      <link>/post/cloud-machine-learning-engine-/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cloud-machine-learning-engine-/</guid>
+      <description>Cloud Machine Learning Engine offers a managed platform for training and serving Tensorflow models. Kubernetes 1.6: Recapping Google Next &amp;lsquo;17 by Kalev Leetaru: What are API keys and when should I use&amp;hellip;</description>
     </item>
     
     <item>
@@ -309,21 +417,111 @@
     </item>
     
     <item>
-      <title>Proteus, keeping Go as the source of truth</title>
-      <link>/post/proteus-keeping-go-as-the-sour/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/proteus-keeping-go-as-the-sour/</guid>
-      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>mlr Google Summer of Code 2017</title>
       <link>/post/mlr-google-summer-of-code-2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/mlr-google-summer-of-code-2017/</guid>
       <description>We are happy to announce that we applied for a another Google Summer of Code project in 2017. Operator Based Machine Learning Pipeline Construction We aim to change the way we are currently doing data preprocessing in mlr. Have a look at the proposal linked above for more details. If you are interested in doing this project, have a look at the tests and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SRE II with Paul Newson</title>
+      <link>/post/sre-ii-with-paul-newson/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sre-ii-with-paul-newson/</guid>
+      <description>Before joining Google, he cofounded a tiny game technology startup, sold it to Microsoft, where he then worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending some time working on interesting machine learning problems in Microsoft Research. Outside of work he enjoys rock climbing, motorcycling, and other activities that demand complete&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Year in Review</title>
+      <link>/post/a-year-in-review/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-year-in-review/</guid>
+      <description>Spotify is now on Google Cloud Platform: Kubernetes and Google Container Engine Education: Multiple General Availabilities Machine Learning and Big Data Google Cloud Platform Community Slack We&amp;rsquo;ll be back on January 18th, 2017 - See you all&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Paper published</title>
+      <link>/post/paper-published/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-published/</guid>
+      <description>We are happy to announce that we can finally answer the question on how to cite mlr properly in publications. Our paper on mlr has been published in the open-access Journal of Machine Learning Research (JMLR) and can be downloaded on the journal home page. The paper gives a brief overview of the features of mlr and also includes a comparison with similar&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr loves OpenML</title>
+      <link>/post/mlr-loves-openml/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mlr-loves-openml/</guid>
+      <description>OpenML stands for Open Machine Learning and is an online platform, which aims at supporting collaborative machine learning online. It is an Open Science project that allows its users to share data, code and machine learning experiments. At the time of writing this blog I am in Eindoven at an OpenML workshop, where developers and scientists meet to work on improving the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Descartes Labs with Tim Kelton</title>
+      <link>/post/descartes-labs-with-tim-kelton/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/descartes-labs-with-tim-kelton/</guid>
+      <description>Tim is a co-founder of Descartes Labs focuses on building distributed systems using cloud architecture to better see how the earth changes every day. Prior to Descartes Labs, Tim was a Research and Development engineer for 15 years at Los Alamos National Laboratory working on problem areas such as deep learning, space systems, nuclear non-proliferation, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to win a drone in 20 lines of R code</title>
+      <link>/post/how-to-win-a-drone-in-20-lines/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-win-a-drone-in-20-lines/</guid>
+      <description>Or a less clickbaity title: Model based optimization of machine learning models with mlr and mlrMBO. I recently participated in the #TEFDataChallenge a datathon organized by Wayra. The first price was a drone for every team member, which is a pretty awesome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring and Understanding Hyperparameter Tuning</title>
+      <link>/post/exploring-and-understanding-hy/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-and-understanding-hy/</guid>
+      <description>Learners use hyperparameters to achieve better performance on particular datasets. When we use a machine learning package to choose the best hyperparmeters, the relationship between changing the hyperparameter and performance might not be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Site Reliability Engineering with Paul Newson</title>
+      <link>/post/site-reliability-engineering-w/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/site-reliability-engineering-w/</guid>
+      <description>Before joining Google, Paul founded a startup which was acquired by Microsoft, where he worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending time working on machine learning problems at Microsoft&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow with Eli Bixby</title>
+      <link>/post/tensorflow-with-eli-bixby/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow-with-eli-bixby/</guid>
+      <description>Eli is a Developer Programs Engineer at Google. He joined in 2014 and currently develops on Google Cloud Platform&amp;rsquo;s machine learning and big data offerings, Tensorflow in particular. Eli is an all-purpose nerd, having dabbled in several research areas, including biophysics, algorithmic game theory, and computational biology, before a recent dive into machine&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Storage with Paul Newson</title>
+      <link>/post/storage-with-paul-newson/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/storage-with-paul-newson/</guid>
+      <description>Paul currently focuses on helping developers harness the power of Google Cloud Platform to solve their big data problems. Previously, he was an engineer on Google Cloud Storage. Before joining Google, Paul founded a startup which was acquired by Microsoft, where he worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending time working on machine learning problems at Microsoft&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Vision API with Ram Ramanathan</title>
+      <link>/post/cloud-vision-api-with-ram-rama/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cloud-vision-api-with-ram-rama/</guid>
+      <description>Ram Ramanathan joined Google in 2014 where he’s been working on leading the machine learning efforts for Google Cloud Platform, and has been a large part of launching the new Google Cloud Vision API. He comes with a great deal of experience in the industry after working for other big players such as GE Healthcare and&amp;hellip;</description>
     </item>
     
   </channel>

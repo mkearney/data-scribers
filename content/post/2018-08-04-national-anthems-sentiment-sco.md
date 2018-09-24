@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-08-04'
 slug: national-anthems-sentiment-sco
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

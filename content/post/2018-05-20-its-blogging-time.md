@@ -4,7 +4,7 @@ author: 'www.stat.cmu.edu/~ryurko'
 date: '2018-05-20'
 slug: its-blogging-time
 categories:
-  - bloglink
+- bloglink
 tags:
   - statcmueduryurko
 ---

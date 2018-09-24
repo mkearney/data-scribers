@@ -4,7 +4,7 @@ author: 'thomasmock.netlify.com'
 date: '2018-03-16'
 slug: a-gentle-guide-to-tidy-statist
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

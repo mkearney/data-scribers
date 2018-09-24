@@ -4,7 +4,7 @@ author: 'sjfox.github.io'
 date: '2017-05-10'
 slug: you-should-make-an-r-package-f
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - sjfoxgithubio

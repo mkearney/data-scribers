@@ -4,7 +4,7 @@ author: 'ab604.netlify.com'
 date: '2018-07-27'
 slug: an-unmet-need-for-data-science
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - ab604netlifycom

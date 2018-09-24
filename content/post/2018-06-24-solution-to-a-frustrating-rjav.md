@@ -4,7 +4,7 @@ author: 'wytham.rbind.io'
 date: '2018-06-24'
 slug: solution-to-a-frustrating-rjav
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - wythamrbindio

@@ -1,10 +1,10 @@
 ---
 title: "Introduction to GIS with R"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2018-02-07'
 slug: introduction-to-gis-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessesadlercom
 ---

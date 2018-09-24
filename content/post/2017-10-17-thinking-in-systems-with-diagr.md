@@ -4,7 +4,7 @@ author: 'www.noahlandesberg.com'
 date: '2017-10-17'
 slug: thinking-in-systems-with-diagr
 categories:
-  - bloglink
+- bloglink
 tags:
   - noahlandesbergcom
 ---

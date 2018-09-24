@@ -4,7 +4,7 @@ author: 'wytham.rbind.io'
 date: '2018-02-15'
 slug: scraping-nih-pis-with-rvest
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - wythamrbindio

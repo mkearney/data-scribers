@@ -4,7 +4,7 @@ author: 'mikewk.com'
 date: '2018-09-20'
 slug: labelling-dataviz
 categories:
-  - bloglink
+- bloglink
 tags:
   - mikewkcom
 ---

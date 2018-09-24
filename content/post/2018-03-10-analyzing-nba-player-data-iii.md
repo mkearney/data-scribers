@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-03-10'
 slug: analyzing-nba-player-data-iii
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogschochasticsnet
 ---

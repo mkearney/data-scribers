@@ -4,7 +4,7 @@ author: 'favstats.netlify.com'
 date: '2018-01-03'
 slug: mapping-terror-attacks-with-hi
 categories:
-  - bloglink
+- bloglink
 tags:
   - favstatsnetlifycom
 ---

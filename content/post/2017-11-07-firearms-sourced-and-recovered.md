@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-11-07'
 slug: firearms-sourced-and-recovered
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

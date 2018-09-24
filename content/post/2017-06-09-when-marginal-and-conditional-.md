@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-06-09'
 slug: when-marginal-and-conditional-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

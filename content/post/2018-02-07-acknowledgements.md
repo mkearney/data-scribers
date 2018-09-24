@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-02-07'
 slug: acknowledgements
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

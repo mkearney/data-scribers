@@ -4,7 +4,7 @@ author: 'www.katiescranton.com'
 date: '2018-05-31'
 slug: building-my-website-with-blogd
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - katiescrantoncom

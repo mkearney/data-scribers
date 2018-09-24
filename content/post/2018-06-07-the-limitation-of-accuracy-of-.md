@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-06-07'
 slug: the-limitation-of-accuracy-of-
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

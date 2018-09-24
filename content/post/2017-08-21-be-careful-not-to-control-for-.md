@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-08-21'
 slug: be-careful-not-to-control-for-
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

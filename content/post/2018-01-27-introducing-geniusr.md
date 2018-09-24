@@ -4,7 +4,7 @@ author: 'josiahparry.com'
 date: '2018-01-27'
 slug: introducing-geniusr
 categories:
-  - bloglink
+- bloglink
 tags:
   - josiahparrycom
 ---

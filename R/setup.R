@@ -11,6 +11,11 @@ if (!requireNamespace("rtweet", quietly = TRUE)) {
   remotes::install_github("mkearney/rtweet")
 }
 
+## install newest version of blogdown
+if (!requireNamespace("blogdown", quietly = TRUE)) {
+  remotes::install_github("rstudio/blogdown")
+}
+
 ## install tidyverse and other parsing-assisting pkgs
 tfse::install_if(c("textclean", "tidyverse", "rvest"))
 
@@ -20,5 +25,5 @@ if (!requireNamespace("mwk", quietly = TRUE)) {
     remotes::install_github("mkearney/pkgverse")
   }
   ## create mwk pkg
-  pkgverse::pkgverse("mwk", c("dplyr", "dplyr", "purrr", "tibble", "ggplot2"))
+  pkgverse::pkgverse("mwk", c("dplyr", "purrr", "tibble", "ggplot2"))
 }

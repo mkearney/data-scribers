@@ -4,7 +4,7 @@ author: 'asch3tti.netlify.com'
 date: '2017-11-19'
 slug: attractive-attractor
 categories:
-  - bloglink
+- bloglink
 tags:
   - asch3ttinetlifycom
 ---

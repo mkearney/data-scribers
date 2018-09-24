@@ -1,12 +1,12 @@
 ---
 title: "R-Ladies presentation ninja"
-author: 'apreshill.rbind.io'
+author: 'alison.rbind.io'
 date: '2017-12-18'
 slug: rladies-presentation-ninja
 categories:
-  - bloglink
+- bloglink
 tags:
-  - apreshillrbindio
+  - alisonrbindio
 ---
 
 The way to use the theme is to update the YAML like so: Some examples:[... <i class="fas fa-external-link-alt"></i>](https://alison.rbind.io/post/r-ladies-slides/)

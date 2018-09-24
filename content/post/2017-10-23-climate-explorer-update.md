@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2017-10-23'
 slug: climate-explorer-update
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

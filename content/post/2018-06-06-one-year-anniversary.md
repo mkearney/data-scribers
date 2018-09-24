@@ -1,10 +1,10 @@
 ---
 title: "One Year Anniversary"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2018-06-06'
 slug: one-year-anniversary
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jessesadlercom

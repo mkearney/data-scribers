@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2017-11-07'
 slug: tidyverse-case-study
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - njtierneycom

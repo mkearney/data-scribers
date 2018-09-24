@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-08-04'
 slug: creating-userdefined-functions
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

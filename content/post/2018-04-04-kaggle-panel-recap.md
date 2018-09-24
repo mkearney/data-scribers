@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-04-04'
 slug: kaggle-panel-recap
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

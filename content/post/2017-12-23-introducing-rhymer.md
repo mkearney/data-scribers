@@ -4,7 +4,7 @@ author: 'www.noahlandesberg.com'
 date: '2017-12-23'
 slug: introducing-rhymer
 categories:
-  - bloglink
+- bloglink
 tags:
   - noahlandesbergcom
 ---

@@ -4,7 +4,7 @@ author: 'favstats.netlify.com'
 date: '2018-08-28'
 slug: how-does-collinearity-influenc
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - favstatsnetlifycom

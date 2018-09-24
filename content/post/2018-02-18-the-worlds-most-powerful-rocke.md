@@ -4,7 +4,7 @@ author: 'www.seanlnguyen.com'
 date: '2018-02-18'
 slug: the-worlds-most-powerful-rocke
 categories:
-  - bloglink
+- bloglink
 tags:
   - seanlnguyencom
 ---

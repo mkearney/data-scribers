@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-06-19'
 slug: copulas-and-correlated-data-ge
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-08-29'
 slug: august-25th-c2d4u-update
 categories:
-  - bloglink
+- bloglink
 tags:
   - rubuntunetlifycom
 ---

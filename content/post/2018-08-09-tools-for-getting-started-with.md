@@ -4,7 +4,7 @@ author: 'www.niklasjohannes.com'
 date: '2018-08-09'
 slug: tools-for-getting-started-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - niklasjohannescom

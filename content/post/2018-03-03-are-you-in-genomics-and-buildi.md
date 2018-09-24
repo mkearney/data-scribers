@@ -4,7 +4,7 @@ author: 'davemcg.github.io'
 date: '2018-03-03'
 slug: are-you-in-genomics-and-buildi
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - davemcggithubio

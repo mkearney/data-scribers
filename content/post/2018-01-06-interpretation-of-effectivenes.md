@@ -4,7 +4,7 @@ author: 'sumprain.netlify.com'
 date: '2018-01-06'
 slug: interpretation-of-effectivenes
 categories:
-  - bloglink
+- bloglink
 tags:
   - sumprainnetlifycom
 ---

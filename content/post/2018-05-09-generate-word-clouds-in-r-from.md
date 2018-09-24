@@ -4,7 +4,7 @@ author: 'theaknowles.com'
 date: '2018-05-09'
 slug: generate-word-clouds-in-r-from
 categories:
-  - bloglink
+- bloglink
 tags:
   - theaknowlescom
 ---

@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2018-01-26'
 slug: trump-vs-clinton-interpretable
 categories:
-  - bloglink
+- bloglink
 tags:
   - rtasticcouk
 ---

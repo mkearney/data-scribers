@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2018-02-14'
 slug: teaching-luxembourgish-to-my-c
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

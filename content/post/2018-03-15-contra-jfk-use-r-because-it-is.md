@@ -4,7 +4,7 @@ author: 'wytham.rbind.io'
 date: '2018-03-15'
 slug: contra-jfk-use-r-because-it-is
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - wythamrbindio

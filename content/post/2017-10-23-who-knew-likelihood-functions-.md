@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-10-23'
 slug: who-knew-likelihood-functions-
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

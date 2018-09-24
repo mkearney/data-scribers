@@ -4,7 +4,7 @@ author: 'emil.tbjerglund.dk'
 date: '2017-07-10'
 slug: open-science-tools-for-our-res
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - emiltbjerglunddk

@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-02-14'
 slug: licensing-r-packages-that-incl
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rmflightgithubio

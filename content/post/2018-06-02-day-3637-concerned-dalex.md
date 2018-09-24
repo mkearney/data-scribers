@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-06-02'
 slug: day-3637-concerned-dalex
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - machine-learning

@@ -4,7 +4,7 @@ author: 'josiahparry.com'
 date: '2018-04-14'
 slug: coursera-rprogramming
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - josiahparrycom

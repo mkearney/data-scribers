@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-09-15'
 slug: a-personal-essay-on-bayes-fact
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - djnavarronet

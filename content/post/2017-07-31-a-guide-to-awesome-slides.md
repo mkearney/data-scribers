@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2017-07-31'
 slug: a-guide-to-awesome-slides
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

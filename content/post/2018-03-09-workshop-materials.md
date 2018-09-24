@@ -4,7 +4,7 @@ author: 'theaknowles.com'
 date: '2018-03-09'
 slug: workshop-materials
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - theaknowlescom

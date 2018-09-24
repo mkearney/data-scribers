@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Network Analysis with R"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2017-10-25'
 slug: introduction-to-network-analys
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessesadlercom
 ---

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacobbuckmancom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
+    <link>/tags/jacobbuckmancom/</link>
+    <description>Recent content in Jacobbuckmancom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jacobbuckmancom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow/</guid>
+      <description>Explicitly naming nodes is nonessential, but can be very useful when debugging. Oftentimes, when your Tensorflow code crashes, the error trace will refer to a specific operation. If you have many operations of the same type, it can be tough to figure out which one is problematic. By explicitly naming each of your nodes, you can get much more informative error traces, and identify the issue more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Five Takeaways</title>
+      <link>/post/openai-five-takeaways/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/openai-five-takeaways/</guid>
+      <description>I&amp;rsquo;m sure this series will be analyzed by people with far deeper understanding of Dota than me, but in my opinion, OpenAI Five essentially won on the back of its teamfighting ability. Good positioning and well-coordinated ability usage made it almost impossible to take 5v5 fights against the bot once it got started&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>More on Graph Inspection</title>
+      <link>/post/more-on-graph-inspection/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/more-on-graph-inspection/</guid>
+      <description>The computational graph is not just a nebulous, immaterial abstraction; it is a computational object that exists, and can be inspected. Complicated graphs are difficult to debug if we are representing them entirely in our heads, but inspecting and debugging the actual graph object makes thigs much&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward. Most Python libraries are written to be natural extensions of&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

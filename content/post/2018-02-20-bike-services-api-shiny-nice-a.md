@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2018-02-20'
 slug: bike-services-api-shiny-nice-a
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

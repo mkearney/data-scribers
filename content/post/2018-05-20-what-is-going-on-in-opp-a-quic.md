@@ -4,7 +4,7 @@ author: 'www.openplantpathology.org'
 date: '2018-05-20'
 slug: what-is-going-on-in-opp-a-quic
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - openplantpathologyorg

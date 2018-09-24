@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-08-15'
 slug: visualizing-variance-and-stand
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

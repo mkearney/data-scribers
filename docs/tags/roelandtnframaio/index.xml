@@ -129,15 +129,6 @@
     </item>
     
     <item>
-      <title>Pandoc and Xelatex in docker</title>
-      <link>/post/pandoc-and-xelatex-in-docker/</link>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/pandoc-and-xelatex-in-docker/</guid>
-      <description>This side project attends to use a docker image for pandoc and LaTex related stuff. TexLive is not very easy to maintain even on Ubuntu. Especially to update, since Texlive freeze every year and Ubuntu LTS versions have some retard (e.g on Ubuntu 16.04, source packages are about TexLive 2015, but TexLive servers provides 2017&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>OSGeo-Live Project</title>
       <link>/post/osgeolive-project/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>

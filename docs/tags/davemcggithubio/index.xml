@@ -107,16 +107,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/lets-plot-4/</guid>
-      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Let’s Plot 3</title>
-      <link>/post/lets-plot-3/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lets-plot-3/</guid>
-      <description>This is a barebones (but detailed enough, I hope) discussion of how to take a bam file, extract base pair resolution coverage data, then finagle the data into coverage plots by gene and exon. No data will be given for the below code. I’m not sharing a bam file. Also, not much point to sharing the bed, HGNC name, and gtf file, as there’s a decent chance they won’t work for your&amp;hellip;</description>
+      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are. You can add error bars, but you don’t know if you are looking at standard error or standard&amp;hellip;</description>
     </item>
     
   </channel>

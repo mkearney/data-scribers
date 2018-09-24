@@ -66,24 +66,6 @@
     </item>
     
     <item>
-      <title>naniar version 0.2.0 on CRAN</title>
-      <link>/post/naniar-version-020-on-cran/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/naniar-version-020-on-cran/</guid>
-      <description>It is with great pleasure that I can say that naniar version 0.2.0 (&amp;ldquo;The First Joke and Other Matters&amp;rdquo;) is now on CRAN! It is inspired by the lampost from CS Lewis&amp;rsquo; &amp;ldquo;Narnia&amp;rdquo;, and highlights that it focusses on NA values, as well as this idea of &amp;ldquo;shining a light&amp;rdquo; on missing data, whilst containing a missing&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>r-tip</title>
-      <link>/post/rtip/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/rtip/</guid>
-      <description>I&amp;rsquo;ve picked up a few tips along the way, and I wanted to share a couple of things I think give you a nice return on&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Acknowledgements</title>
       <link>/post/acknowledgements/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
@@ -135,6 +117,159 @@
       
       <guid>/post/magic-reprex/</guid>
       <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Simple Guide to S3 Methods</title>
+      <link>/post/a-simple-guide-to-s3-methods/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-simple-guide-to-s3-methods/</guid>
+      <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple Guide to S3 Methods</title>
+      <link>/post/simple-guide-to-s3-methods/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simple-guide-to-s3-methods/</guid>
+      <description>S3 is informal and ad hoc, but it has a certain elegance in its minimalism: you can’t take away any part of it and still have a useful [Object Oriented] system. I&amp;rsquo;m excited to see feedback from the R Journal, hopefully I didn&amp;rsquo;t miss something terribly important about S3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Science Meets Parliament</title>
+      <link>/post/science-meets-parliament/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science-meets-parliament/</guid>
+      <description>In February I was lucky to receive funding from SSA to attend the two-day event Science Meets Parliament, held in Canberra. Science Meets parliament brings together 200 scientists to learn about research communication, the role of research in policy, and how to engage a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Australian rOpenSci Unconference</title>
+      <link>/post/australian-ropensci-unconferen/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/australian-ropensci-unconferen/</guid>
+      <description>The rOpenSci Unconferene is coming to Australia and we are excited!! I was completely and unceremoniously thrown into the deep end when I first started learning R. Contrary to what I initially thought possible, I am now irreversibly converted to the ideology of open&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>WOMBAT 2016 Wrap Up</title>
+      <link>/post/wombat-2016-wrap-up/</link>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/wombat-2016-wrap-up/</guid>
+      <description>It was my first time at the Melbourne Zoo, and my first time having a conference in a Zoo. It was a pretty surreal experience briskly walking to the conference room while trying to navigate a zoo, passing monkeys, macaws, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ggplot your missing data</title>
+      <link>/post/ggplot-your-missing-data/</link>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ggplot-your-missing-data/</guid>
+      <description>This is what the Amelia package produces by default: And let&amp;rsquo;s explore the missing data using my own ggplot function: Let&amp;rsquo;s test it out It&amp;rsquo;s much cleaner, and easier to interpret. As another aside - if anyone knows how I can improve the image quality of the plots, I&amp;rsquo;m all ears. I&amp;rsquo;ve tried changing the dpi, changing it to pdf, png, svg, and even svglite but they all haven&amp;rsquo;t really solved the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How I built my website</title>
+      <link>/post/how-i-built-my-website/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-i-built-my-website/</guid>
+      <description>I&amp;rsquo;ve recently changed my website from Wordpress to Jekyll. In this post I try and succinctly describe how it happened. Basically, for the following reasons: &amp;hellip;But reading it, Yihui says: It is really easy. And that&amp;rsquo;s about it. I had a look around at a bunch of different blogs about how to build stuff, and added a few things. &amp;ldquo;By setting up the code this way, I can enable commenting on a page-by-page&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using table the dplyr way</title>
+      <link>/post/using-table-the-dplyr-way/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-table-the-dplyr-way/</guid>
+      <description>So there happen to be 50 in each of the species. This gives us a neat dataframe, where we get Species as a column, and the number of observations in each Species. So I could now do&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Package neato</title>
+      <link>/post/r-package-neato/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-package-neato/</guid>
+      <description>My workflow in R now is to make a function after I copy and paste some code more than once. Sometimes I find myself using these functions more than once, across different projects. So I decided to make an R package with a few of these functions in it. I call it &amp;ldquo;neato&amp;rdquo;, in the vain hope that one day someone will find one of these functions and say: &amp;ldquo;neato!&amp;rdquo;, because hey, it&amp;rsquo;s pretty&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Working Smoothly(er) from RMarkdown to Word.</title>
+      <link>/post/working-smoothlyer-from-rmarkd/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/working-smoothlyer-from-rmarkd/</guid>
+      <description>I&amp;rsquo;m a pretty huge fan of RMarkdown, as it is a great way for me to write my code and my text together. It seems really a rather a natural thing to do. You write about your analyses, and the code is there. You update some function or some data, and your figures and tables update with it. Method Acting is like peeing whilst wearing brown corduroy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fix for gbm.plot</title>
+      <link>/post/fix-for-gbmplot/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fix-for-gbmplot/</guid>
+      <description>Hopefully this will prove helpful to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Grammar of Models?</title>
+      <link>/post/a-grammar-of-models/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-grammar-of-models/</guid>
+      <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Statistics for Journalists</title>
+      <link>/post/statistics-for-journalists/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statistics-for-journalists/</guid>
+      <description>In November 2013 I had the opportunity to work with the Australian Science Media Centre (AusSMC) and produce a talk explaining numbers and statistics. The deal was that it was 11 concepts on numbers and stats in 20 minutes. The concepts being: This was my first time ever really seriously teaching anything to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Statistics Can Do Anything?</title>
+      <link>/post/statistics-can-do-anything/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statistics-can-do-anything/</guid>
+      <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Approximiation</title>
+      <link>/post/monte-carlo-approximiation/</link>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/monte-carlo-approximiation/</guid>
+      <description>There are a lot of explanations of Monte Carlo approximation out there. Here is one that worked for me. A famous mathematician named Stan Ulam liked solitaire. He wanted to work out the probability of getting a perfect solitaire hand. Being a mathematician, he also wanted to work this out analytically. The more trial simulations (iterations) you run, the better the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Define: Analytically</title>
+      <link>/post/define-analytically/</link>
+      <pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/define-analytically/</guid>
+      <description>Wikipedia says: &amp;ldquo;Analytic Solution&amp;rdquo; I find that such a definition relies on the reader knowing what the words &amp;lsquo;closed form&amp;rsquo;, &amp;lsquo;known functions&amp;rsquo; and &amp;lsquo;constants&amp;rsquo; are. So here&amp;rsquo;s my definition: &amp;ldquo;Analytic Solution&amp;rdquo; A solution where everything needed to solve a particular question is presented clearly and logically, with all assumptions defined. Waddaya&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Humanity</title>
+      <link>/post/humanity/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/humanity/</guid>
+      <description>It seems a strange thought at first. How do the humanities help you make money? You know, getting you a job. We&amp;rsquo;ve all got that annoying uncle or in-law or friend who plays devil&amp;rsquo;s advocate (or douchebag) when you reveal that you are studying French and&amp;hellip;</description>
     </item>
     
   </channel>

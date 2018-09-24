@@ -4,7 +4,7 @@ author: 'vuorre.netlify.com'
 date: '2017-07-18'
 slug: correlated-psychological-varia
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - vuorrenetlifycom

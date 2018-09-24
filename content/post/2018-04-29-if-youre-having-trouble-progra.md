@@ -4,7 +4,7 @@ author: 'thedatawitch.com'
 date: '2018-04-29'
 slug: if-youre-having-trouble-progra
 categories:
-  - bloglink
+- bloglink
 tags:
   - thedatawitchcom
 ---

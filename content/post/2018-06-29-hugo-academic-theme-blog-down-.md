@@ -4,7 +4,7 @@ author: 'divingintogeneticsandgenomics.rbind.io'
 date: '2018-06-29'
 slug: hugo-academic-theme-blog-down-
 categories:
-  - bloglink
+- bloglink
 tags:
   - divingintogeneticsandgenomicsrbindio
 ---

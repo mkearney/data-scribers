@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-11-17'
 slug: data-cleaning-practice-pt1-ste
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cattleguardgithubio

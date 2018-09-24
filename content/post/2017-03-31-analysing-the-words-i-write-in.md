@@ -4,7 +4,7 @@ author: 'tojyouso.github.io'
 date: '2017-03-31'
 slug: analysing-the-words-i-write-in
 categories:
-  - bloglink
+- bloglink
 tags:
   - tojyousogithubio
 ---

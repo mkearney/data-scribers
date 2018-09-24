@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-09-13'
 slug: slow-ggplot
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

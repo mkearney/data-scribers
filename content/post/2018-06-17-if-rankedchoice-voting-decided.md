@@ -4,7 +4,7 @@ author: 'watanabesmith.rbind.io'
 date: '2018-06-17'
 slug: if-rankedchoice-voting-decided
 categories:
-  - bloglink
+- bloglink
 tags:
   - watanabesmithrbindio
 ---

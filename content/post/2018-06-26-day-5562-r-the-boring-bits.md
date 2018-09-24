@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-06-26'
 slug: day-5562-r-the-boring-bits
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - djnavarronet

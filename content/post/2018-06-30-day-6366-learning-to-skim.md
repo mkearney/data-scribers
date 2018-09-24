@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-06-30'
 slug: day-6366-learning-to-skim
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - djnavarronet

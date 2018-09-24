@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-07-17'
 slug: split-unsplit-antipattern
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

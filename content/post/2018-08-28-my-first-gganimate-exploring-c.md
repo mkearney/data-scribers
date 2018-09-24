@@ -4,7 +4,7 @@ author: 'sarahromanes.github.io'
 date: '2018-08-28'
 slug: my-first-gganimate-exploring-c
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - sarahromanesgithubio

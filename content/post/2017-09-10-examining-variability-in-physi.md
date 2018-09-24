@@ -4,7 +4,7 @@ author: 'ernestoramirez.com'
 date: '2017-09-10'
 slug: examining-variability-in-physi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - ernestoramirezcom

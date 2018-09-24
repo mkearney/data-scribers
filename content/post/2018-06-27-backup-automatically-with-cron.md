@@ -4,7 +4,7 @@ author: 'divingintogeneticsandgenomics.rbind.io'
 date: '2018-06-27'
 slug: backup-automatically-with-cron
 categories:
-  - bloglink
+- bloglink
 tags:
   - divingintogeneticsandgenomicsrbindio
 ---

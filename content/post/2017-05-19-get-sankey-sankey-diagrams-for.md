@@ -5,7 +5,7 @@ author: 'cattleguard.github.io'
 date: '2017-05-19'
 slug: get-sankey-sankey-diagrams-for
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - cattleguardgithubio

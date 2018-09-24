@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-10-26'
 slug: easy-peasy-statalike-marginal-
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

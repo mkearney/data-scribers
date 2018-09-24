@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2017-12-22'
 slug: r4ds-the-next-iteration
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jessemaegancom

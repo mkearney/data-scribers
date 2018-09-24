@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2018-02-16'
 slug: tidying-excel-cash-flow-spread
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogdavisvaughancom
 ---

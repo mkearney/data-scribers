@@ -4,7 +4,7 @@ author: 'wytham.rbind.io'
 date: '2018-06-02'
 slug: a-note-on-factors-in-regressio
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - wythamrbindio

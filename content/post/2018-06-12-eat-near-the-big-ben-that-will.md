@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-12'
 slug: eat-near-the-big-ben-that-will
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

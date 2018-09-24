@@ -362,5 +362,95 @@
       <description>I&amp;rsquo;ve been around for a while, worked through different teams, across different industries and companies. Over time I have learnt a lot of lessons, some the easy way, most the hard way. While the failures have all been different, their learnings have regularly overlapped and now form a set of practices that guide me on a daily&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Mapping system couplings and dependencies for discovery and profit</title>
+      <link>/post/mapping-system-couplings-and-d/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mapping-system-couplings-and-d/</guid>
+      <description>Have you ever wondered just what would break if that system (you know the one) went down? Do you actually know what systems depend on it? How do the reports get from it to Marketing? In this post, I&amp;rsquo;ll describe a simple technique I&amp;rsquo;ve developed to surface and share all this juicy, interesting information. The Problem, Restated Systems grow and morph over time, quite&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Enterprise AWS adoption</title>
+      <link>/post/enterprise-aws-adoption/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/enterprise-aws-adoption/</guid>
+      <description>As more enterprise scale businesses migrate their workloads to AWS, the size and complexity of the solutions they are trying to manage is growing. Businesses will face a set of new challenges, many that their current organisational structure, staffing, skills, processes and practices will not be set up to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Girls In Tech</title>
+      <link>/post/girls-in-tech/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/girls-in-tech/</guid>
+      <description>On August 10th Cevo&amp;rsquo;s Hannah Browne joined Miguel Wood, Nicola Hazell and Geoff Gourley in a daring discussion hosted by Girls in Tech Australia about diversity in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Census 2.0</title>
+      <link>/post/census-20/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/census-20/</guid>
+      <description>In light of the #CensusFail the ABS delivered to us on Tuesday night, I thought I&amp;rsquo;d put a blog post where my mouth is and suggest an architecture I feel would have delivered had Cevo been involved in the creation of this years&amp;rsquo; Census&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Migrating to AWS</title>
+      <link>/post/migrating-to-aws/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrating-to-aws/</guid>
+      <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand. MYOB helps businesses of all kinds and sizes, delivering software and services that simplify accounting, payroll, client management, websites, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated provisioning with Docker</title>
+      <link>/post/automated-provisioning-with-do/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/automated-provisioning-with-do/</guid>
+      <description>Customer Overview Founded in 1993, Media Links is a leading developer and manufacturer of broadcast network infrastructure solutions. Media Links provides broadcasters and network providers with the ability to convert and move broadcast signals – whether video, audio or data – onto their multi-service IP/Ethernet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Consul of Elders</title>
+      <link>/post/the-consul-of-elders/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-consul-of-elders/</guid>
+      <description>consul members command: Node Address Status Type Build Protocol DC i-bae58774 10.10.12.144:8301 alive server 0.5.2 2 dc1 i-ace73562 10.10.11.149:8301 alive server 0.5.2 2 dc1 i-12e4866c 10.10.10.138:8301 alive server 0.5.2 2 dc1 Consul exposes a Rest API service to aid discovery. In our blockbuster movie, we use The Temple of Curl to find Lord&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My devops Journey</title>
+      <link>/post/my-devops-journey/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-devops-journey/</guid>
+      <description>One of the challenges we devops Consultants face is explaining what we do to customers, as there are so many definitions. I’m always thinking about new ways to share the incredible opportunities that a continuous delivery pipeline&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is the EC2 Container Service a bad idea?</title>
+      <link>/post/is-the-ec2-container-service-a/</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/is-the-ec2-container-service-a/</guid>
+      <description>The container revolutionaries call upon you! Are you ready to beg forgiveness for your sins of monolithic architecture and pay homage at the Church of 12 Factors? No doubt you - like so many others before you - have endured the experience of being cornered by a zealot of the new world&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s this docker thing?</title>
+      <link>/post/whats-this-docker-thing/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/whats-this-docker-thing/</guid>
+      <description>If there’s one thing industry news sources have been mentioning to you recently it would almost certainly be Docker. But is there too much hype? Should one wait before looking into&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

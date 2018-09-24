@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-08-30'
 slug: lesser-known-stars-of-the-tidy
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jenrichmondrbindio

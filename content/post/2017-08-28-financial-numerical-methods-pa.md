@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2017-08-28'
 slug: financial-numerical-methods-pa
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogdavisvaughancom

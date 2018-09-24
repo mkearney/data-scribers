@@ -4,7 +4,7 @@ author: 'batteriesnotincluded.rbind.io'
 date: '2018-02-13'
 slug: the-future-is-bright
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - batteriesnotincludedrbindio

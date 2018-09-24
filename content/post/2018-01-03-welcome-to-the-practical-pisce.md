@@ -4,7 +4,7 @@ author: 'fishsciences.github.io'
 date: '2018-01-03'
 slug: welcome-to-the-practical-pisce
 categories:
-  - bloglink
+- bloglink
 tags:
   - fishsciencesgithubio
 ---

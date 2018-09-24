@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-09-09'
 slug: i-graduated
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

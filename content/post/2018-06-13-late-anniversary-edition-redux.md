@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-06-13'
 slug: late-anniversary-edition-redux
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - rdatagennet

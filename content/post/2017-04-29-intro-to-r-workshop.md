@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2017-04-29'
 slug: intro-to-r-workshop
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - nowosadgithubio

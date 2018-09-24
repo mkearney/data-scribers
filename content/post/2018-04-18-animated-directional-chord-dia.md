@@ -4,7 +4,7 @@ author: 'guyabel.com'
 date: '2018-04-18'
 slug: animated-directional-chord-dia
 categories:
-  - bloglink
+- bloglink
 tags:
   - guyabelcom
 ---

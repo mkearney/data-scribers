@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2017-11-09'
 slug: make-memorable-plots-with-meme
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

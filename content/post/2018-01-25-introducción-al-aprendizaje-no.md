@@ -4,7 +4,7 @@ author: 'saidejp.rbind.io'
 date: '2018-01-25'
 slug: introducción-al-aprendizaje-no
 categories:
-  - bloglink
+- bloglink
 tags:
   - saidejprbindio
 ---

@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2018-06-26'
 slug: rereferencing-factor-levels-to
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

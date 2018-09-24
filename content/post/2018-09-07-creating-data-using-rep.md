@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-07'
 slug: creating-data-using-rep
 categories:
-  - bloglink
+- bloglink
 tags:
   - jenrichmondrbindio
 ---

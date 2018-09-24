@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2018-01-03'
 slug: lets-learn-apache-drill-togeth
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

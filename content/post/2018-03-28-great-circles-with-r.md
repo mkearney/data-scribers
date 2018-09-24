@@ -1,10 +1,10 @@
 ---
 title: "Great Circles with R"
-author: 'www.jessesadler.com'
+author: 'jessesadler.com'
 date: '2018-03-28'
 slug: great-circles-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessesadlercom
 ---

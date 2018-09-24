@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2017-06-25'
 slug: tonys-coffee-guide
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

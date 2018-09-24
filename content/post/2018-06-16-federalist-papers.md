@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-16'
 slug: federalist-papers
 categories:
-  - bloglink
+- bloglink
 tags:
   - evangelinereynoldsnetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2018-04-11'
 slug: how-to-proxy-go-nethttp
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

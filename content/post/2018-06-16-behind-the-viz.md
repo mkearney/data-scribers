@@ -4,7 +4,7 @@ author: 'watanabesmith.rbind.io'
 date: '2018-06-16'
 slug: behind-the-viz
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - watanabesmithrbindio

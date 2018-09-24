@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-12-26'
 slug: launching-your-shiny-app-in-2-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogrdatalu

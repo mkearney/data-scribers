@@ -4,7 +4,7 @@ author: 'emitanaka.github.io'
 date: '2018-04-06'
 slug: making-a-hexagon-sticker
 categories:
-  - bloglink
+- bloglink
 tags:
   - emitanakagithubio
 ---

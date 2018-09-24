@@ -6,28 +6,10 @@
     <description>Recent content in Python on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How to Create Python Virtual Environments on Ubuntu 18.04</title>
-      <link>/post/how-to-create-python-virtual-e/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-create-python-virtual-e/</guid>
-      <description>Python virtual environment is a self-contained directory tree that includes a Python installation and number of additional packages. The main purpose of Python virtual environments is to create an isolated environment for different Python projects. This way you can install a specific version of a module on a per project basis without worrying that it will affect your other Python&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to Install Anaconda on Ubuntu 18.04</title>
-      <link>/post/how-to-install-anaconda-on-ubu/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-anaconda-on-ubu/</guid>
-      <description>Anaconda is the most popular python data science and machine learning platform, used for large-scale data processing, predictive analytics and scientific computing. Anaconda distribution ships with more than 1,000 data packages, the conda command-line tool and with a desktop graphical user interface called Anaconda&amp;hellip;</description>
-    </item>
     
     <item>
       <title>Finding Modes Using Kernel Density Estimates</title>
@@ -39,39 +21,12 @@
     </item>
     
     <item>
-      <title>How to install OpenCV on Ubuntu 18.04</title>
-      <link>/post/how-to-install-opencv-on-ubunt/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Tensorflow</title>
+      <link>/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-install-opencv-on-ubunt/</guid>
-      <description>This tutorial explains how to install OpenCV on Ubuntu 18.04. OpenCV (Open Source Computer Vision Library) is an open source computer vision library and has bindings for C++, Python and&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to install Pip on Debian 9</title>
-      <link>/post/how-to-install-pip-on-debian-9/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-pip-on-debian-9/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). This tutorial will walk you through installing Python Pip on Debian 9 and teach you how to install and manage Python packages with&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to install Python 3 on CentOS 7</title>
-      <link>/post/how-to-install-python-3-on-cen/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-python-3-on-cen/</guid>
-      <description>This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to install Pip on CentOS 7</title>
-      <link>/post/how-to-install-pip-on-centos-7/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-pip-on-centos-7/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on CentOS 7, but the installation is pretty&amp;hellip;</description>
+      <guid>/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward. Most Python libraries are written to be natural extensions of&amp;hellip;</description>
     </item>
     
     <item>
@@ -102,39 +57,12 @@
     </item>
     
     <item>
-      <title>How to install Pip on Ubuntu 18.04</title>
-      <link>/post/how-to-install-pip-on-ubuntu-1/</link>
-      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-install-pip-on-ubuntu-1/</guid>
-      <description>Pip is a package management system that simplifies installation and management of software packages written in Python such as those found in the Python Package Index (PyPI). Pip is not installed by default on Ubuntu 18.04, but the installation is pretty straightforward. In this tutorial, we will show you how to install Python Pip on Ubuntu 18.04 using the apt package&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to deploy Odoo 11 on Ubuntu 18.04</title>
-      <link>/post/how-to-deploy-odoo-11-on-ubunt/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-deploy-odoo-11-on-ubunt/</guid>
-      <description>Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website ,e-Commerce, billing, accounting, manufacturing, warehouse, project management, inventory and much more, all seamlessly integrated. There are several ways to install Odoo depending on the required use&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Yet Another Caret Workshop</title>
       <link>/post/yet-another-caret-workshop/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/yet-another-caret-workshop/</guid>
       <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges. I put together some introductory code and started a simple GitHub repo for the participants, so I thought I’d share it here as&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>How to Setup Automatic Odoo Backup</title>
-      <link>/post/how-to-setup-automatic-odoo-ba/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/how-to-setup-automatic-odoo-ba/</guid>
-      <description>In this tutorial we will walk you through the process of creating automatic daily backups of your Odoo databases. Odoo is the most popular open source ERP system written in Python and uses PostgreSQL as database back-end. All the data of your Odoo instance is stored in a PostgreSQL&amp;hellip;</description>
     </item>
     
     <item>
@@ -171,15 +99,6 @@
       
       <guid>/post/september-2018-datascience-goa/</guid>
       <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree. I don’t know what I will do at that time but I know what I want to&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Install Odoo 11 on CentOS 7</title>
-      <link>/post/install-odoo-11-on-centos-7/</link>
-      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/install-odoo-11-on-centos-7/</guid>
-      <description>In this tutorial, we’ll walk you through how to install Odoo 11 using Git source and Python virtual environment on your CentOS 7 machine. Odoo is the most popular all-in-one business software in the world packed up a range of business applications, including CRM, website, billing, accounting, e-Commerce, manufacturing, warehouse, project management, inventory and&amp;hellip;</description>
     </item>
     
     <item>
@@ -264,21 +183,12 @@
     </item>
     
     <item>
-      <title>Using Docker &amp; CoreOS For GPU Based Deep Learning</title>
-      <link>/post/using-docker-coreos-for-gpu-ba/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Python with Jon Wayne Parrott</title>
+      <link>/post/python-with-jon-wayne-parrott/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-docker-coreos-for-gpu-ba/</guid>
-      <description>Having confidence in your research and development environment is essential if you want to solve challenging problems. This post shows how to setup containers for deep learning, have numpy accelerated and finally speculates about hosting in the cloud vs&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Proteus, keeping Go as the source of truth</title>
-      <link>/post/proteus-keeping-go-as-the-sour/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/proteus-keeping-go-as-the-sour/</guid>
-      <description>Introduction At source{d} we&amp;rsquo;ve been using Go for almost two years. Until machine learning came along, Go was the only language in which we needed to use our data models. Right now, Python is playing a bigger role in our platform and Scala is joining as another&amp;hellip;</description>
+      <guid>/post/python-with-jon-wayne-parrott/</guid>
+      <description>Jon Wayne focuses on the Python developer experience for Google Cloud Platform. He’s an active contributor to multiple open-source Python&amp;hellip;</description>
     </item>
     
     <item>
@@ -288,6 +198,51 @@
       
       <guid>/post/r-for-excel-users/</guid>
       <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bigtable with Ian Lewis</title>
+      <link>/post/bigtable-with-ian-lewis/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bigtable-with-ian-lewis/</guid>
+      <description>Ian is a Developer Advocate on the Google Cloud Platform team working out of Tokyo. Ian loves Python and Go and helps run the largest Python event in Japan, PyCon JP. Ian is also interested in Docker and Kubernetes and hopes to help Google Cloud Platform users achieve their highest potential. Resources: How to limit what users can do on the resources of your&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Cloud In Africa with Hiren Patel and Dale Humby</title>
+      <link>/post/the-cloud-in-africa-with-hiren/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-cloud-in-africa-with-hiren/</guid>
+      <description>DevOps engineer with a long history of system administration. Currently spending all my time doing a mix of backend development on GCP with python, web frontend development, and some android mobile&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec GloVe implementation details</title>
+      <link>/post/text2vec-glove-implementation-/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/text2vec-glove-implementation-/</guid>
+      <description>Before reading this post, I very recommend to read: Orignal GloVe paper Jon Gauthier&amp;rsquo;s post, which provides detailed explanation of python implementation. This post helps me a lot with C++ implementation. Word embeddings After Tomas Mikolov et al. released word2vec tool, there was a boom of articles about words vector&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GloVe vs word2vec revisited.</title>
+      <link>/post/glove-vs-word2vec-revisited/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/glove-vs-word2vec-revisited/</guid>
+      <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump. This dataset is rather&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing in R</title>
+      <link>/post/locality-sensitive-hashing-in-/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/locality-sensitive-hashing-in-/</guid>
+      <description>Introduction In the next series of posts I will try to explain base concepts Locality Sensitive Hashing technique. Note, that I will try to follow general functional programming style. So I will use R&amp;rsquo;s Higher-Order Functions instead of traditional R&amp;rsquo;s *apply functions family (I suppose this post will be more readable for non R users). Also I will use brilliant pipe operator %&amp;gt;% from magrittr&amp;hellip;</description>
     </item>
     
   </channel>

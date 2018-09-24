@@ -4,7 +4,7 @@ author: 'www.semidocumentedlife.com'
 date: '2017-07-08'
 slug: exploring-nuforc-sightings
 categories:
-  - bloglink
+- bloglink
 tags:
   - semidocumentedlifecom
 ---

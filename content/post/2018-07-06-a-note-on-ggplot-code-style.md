@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-07-06'
 slug: a-note-on-ggplot-code-style
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - njtierneycom

@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-08-27'
 slug: how-tidyeval-could-make-your-l
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

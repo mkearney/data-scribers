@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-10-27'
 slug: scraping-data-from-the-local-e
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogrdatalu

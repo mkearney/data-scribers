@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2018-02-01'
 slug: flagging-toxic-comments-with-t
 categories:
-  - bloglink
+- bloglink
 tags:
   - machine-learning
   - modeling

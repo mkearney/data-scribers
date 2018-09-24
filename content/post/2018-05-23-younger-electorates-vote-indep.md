@@ -4,7 +4,7 @@ author: 'cjbarrie.netlify.com'
 date: '2018-05-23'
 slug: younger-electorates-vote-indep
 categories:
-  - bloglink
+- bloglink
 tags:
   - cjbarrienetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'favstats.netlify.com'
 date: '2018-08-25'
 slug: analyzing-tweets-of-the-ecpr-g
 categories:
-  - bloglink
+- bloglink
 tags:
   - favstatsnetlifycom
 ---

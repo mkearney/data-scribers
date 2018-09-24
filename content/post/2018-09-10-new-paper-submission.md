@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-09-10'
 slug: new-paper-submission
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

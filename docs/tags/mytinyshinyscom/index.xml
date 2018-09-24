@@ -449,7 +449,7 @@
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/automated-congratulatory-tweet/</guid>
-      <description>On the front page of my premiersoccerstats site, I have a Player Milestones table which highlights players who have reached certain levels in the Premier League’s latest round of games e.g. 100 Appearances This requires comparing two datasets and subsetting the rows with differences in the variable of&amp;hellip;</description>
+      <description>On the front page of my premiersoccerstats site, I have a Player Milestones table which highlights players who have reached certain levels in the Premier League’s latest round of games e.g. 100 Appearances This requires comparing two datasets and subsetting the rows with differences in the variable of&amp;hellip;</description>
     </item>
     
     <item>
@@ -539,7 +539,7 @@
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/spotify-all-20-million-tracks/</guid>
-      <description>I have consistently been interested in assessing music information in R, for example my - somewhat dormant -charts dashboard A recent, excellent, blog post by RCharlie featuring the Spotify and Genius APIs to determine a ‘Gloom Index’ for Radiohead tracks piqued my interest. It also incorporates some illuminating code using the purrr package The Spotify,&amp;hellip;</description>
+      <description>I have consistently been interested in assessing music information in R, for example my - somewhat dormant -charts dashboard A recent, excellent, blog post by RCharlie featuring the Spotify and Genius APIs to determine a ‘Gloom Index’ for Radiohead tracks piqued my&amp;hellip;</description>
     </item>
     
     <item>
@@ -567,6 +567,51 @@
       
       <guid>/post/exploratory-analysis/</guid>
       <description>Analyzing some Premier League dataI recently had some fan-mail! The author suggested I write a book on the “practical considerations when building shiny”. That’s not going to happen, but I thought I would go into an example (warts and all) of how I proceed from an idea to an output which might end up as a tweet, flexdashboard, blog post or just plain binned (and not in the histogram&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cranlogs Dashboard</title>
+      <link>/post/cranlogs-dashboard/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cranlogs-dashboard/</guid>
+      <description>CRAN packagesI mentioned in an earlier post that I like to keep track of new and updated packages On average, a new package is provided to CRAN every 5 hours and updates are even more numerous CRAN provides an availablity table and there is also the informative CRANberries site plus twitter announcements but it is still hard to keep track of all the new&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Books</title>
+      <link>/post/introducing-books/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introducing-books/</guid>
+      <description>Bookdownbookdown is an R package using RMarkdown making it relatively easy to createa book available in multiple&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rstudio::Conf</title>
+      <link>/post/rstudioconf/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rstudioconf/</guid>
+      <description>Just a quick reminder that the second rstudio conference to be held in Florida in January is almost sold out (32 tickets available at time of writing) Needless to say, a great chance to network as well as take in some interesting talks Probably will not be going myself. As a white male, I might be forced to stay in the country and become a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hansard</title>
+      <link>/post/hansard/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hansard/</guid>
+      <description>UK 2015 ElectionI like to check out new and enhanced R packages, particularly those relating to socio-economic issues and sports A recent new entry is hansard, which pulls data from the UK Parliament API Other required packages, which I will make extensive use of in future code extracts, are tidyverse, for data preparation and processing, and plotly, for a wide set of interactive&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my World</title>
+      <link>/post/welcome-to-my-world/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome-to-my-world/</guid>
+      <description>It’s been a while… … since I had a blog up and running However, RStudio’s Yihui Xie continues to extend R Markdown into new areas and his latest package, blogdown, integrates well with Hugo, a static website engine to display code&amp;hellip;</description>
     </item>
     
   </channel>

@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-05-26'
 slug: announcing-cran2deb4ubuntu35
 categories:
-  - bloglink
+- bloglink
 tags:
   - rubuntunetlifycom
 ---

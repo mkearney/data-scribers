@@ -4,7 +4,7 @@ author: 'www.robert-hickman.eu'
 date: '2018-06-07'
 slug: could-an-independent-yorkshire
 categories:
-  - bloglink
+- bloglink
 tags:
   - roberthickmaneu
 ---

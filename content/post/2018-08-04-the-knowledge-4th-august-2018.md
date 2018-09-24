@@ -4,7 +4,7 @@ author: 'www.robert-hickman.eu'
 date: '2018-08-04'
 slug: the-knowledge-4th-august-2018
 categories:
-  - bloglink
+- bloglink
 tags:
   - roberthickmaneu
 ---

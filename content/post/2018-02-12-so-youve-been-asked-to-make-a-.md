@@ -4,7 +4,7 @@ author: 'www.jessemaegan.com'
 date: '2018-02-12'
 slug: so-youve-been-asked-to-make-a-
 categories:
-  - bloglink
+- bloglink
 tags:
   - jessemaegancom
 ---

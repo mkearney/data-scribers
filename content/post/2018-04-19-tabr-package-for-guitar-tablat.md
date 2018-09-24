@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2018-04-19'
 slug: tabr-package-for-guitar-tablat
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-07-19'
 slug: finding-modes-using-kernel-den
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

@@ -4,7 +4,7 @@ author: 'www.semidocumentedlife.com'
 date: '2018-07-15'
 slug: how-should-i-get-started-with-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

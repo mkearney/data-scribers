@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2018-06-15'
 slug: what-i-wish-id-known
 categories:
-  - bloglink
+- bloglink
 tags:
   - njtierneycom
 ---

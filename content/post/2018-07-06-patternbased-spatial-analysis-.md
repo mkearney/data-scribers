@@ -4,7 +4,7 @@ author: 'nowosad.github.io'
 date: '2018-07-06'
 slug: patternbased-spatial-analysis-
 categories:
-  - bloglink
+- bloglink
 tags:
   - nowosadgithubio
 ---

@@ -4,7 +4,7 @@ author: 'www.njtierney.com'
 date: '2017-10-27'
 slug: so-youve-decided-to-change-you
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - njtierneycom

@@ -191,5 +191,77 @@
       <description>When and Where? In 2017, we are hosting the workshop at LMU Munich. The workshop will run from 6 March to 10 March 2017 (potentially including the sunday before and the saturday at the end), hosted by the Ludwig-Maximilians-University Munich. Important Dates: Address: Geschwister-Scholl-Platz 1, Room: M203. Start: 6th of March: 10:00&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Paper published</title>
+      <link>/post/paper-published/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-published/</guid>
+      <description>We are happy to announce that we can finally answer the question on how to cite mlr properly in publications. Our paper on mlr has been published in the open-access Journal of Machine Learning Research (JMLR) and can be downloaded on the journal home page. The paper gives a brief overview of the features of mlr and also includes a comparison with similar&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr loves OpenML</title>
+      <link>/post/mlr-loves-openml/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mlr-loves-openml/</guid>
+      <description>OpenML stands for Open Machine Learning and is an online platform, which aims at supporting collaborative machine learning online. It is an Open Science project that allows its users to share data, code and machine learning experiments. At the time of writing this blog I am in Eindoven at an OpenML workshop, where developers and scientists meet to work on improving the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to win a drone in 20 lines of R code</title>
+      <link>/post/how-to-win-a-drone-in-20-lines/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-win-a-drone-in-20-lines/</guid>
+      <description>Or a less clickbaity title: Model based optimization of machine learning models with mlr and mlrMBO. I recently participated in the #TEFDataChallenge a datathon organized by Wayra. The first price was a drone for every team member, which is a pretty awesome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring and Understanding Hyperparameter Tuning</title>
+      <link>/post/exploring-and-understanding-hy/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-and-understanding-hy/</guid>
+      <description>Learners use hyperparameters to achieve better performance on particular datasets. When we use a machine learning package to choose the best hyperparmeters, the relationship between changing the hyperparameter and performance might not be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Result of the mlr summer workshop in Palermo</title>
+      <link>/post/result-of-the-mlr-summer-works/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/result-of-the-mlr-summer-works/</guid>
+      <description>The mlr developer team is quite international: Germany, USA, Canada. The time difference between these countries sometimes makes it hard to communicate and develop new features. The idea for this workshop or sprint was to have the possibility to talk about the project status, future and structure, exterminate imperishable bugs and start developing some fancy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking mlr (default) learners on OpenML</title>
+      <link>/post/benchmarking-mlr-default-learn/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/benchmarking-mlr-default-learn/</guid>
+      <description>There are already some benchmarking studies about different classification algorithms out there. The probably most well known and most extensive one is the Do we Need Hundreds of Classifers to Solve Real World Classication Problems? paper. They use different software and also different tuning processes to compare 179 learners on more than 121 datasets, mainly from the UCI&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Learner Predictions with Partial Dependence and Functional ANOVA</title>
+      <link>/post/exploring-learner-predictions-/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/exploring-learner-predictions-/</guid>
+      <description>Learners use features to make predictions but how those features are used is often not apparent. mlr can estimate the dependence of a learned function on a subset of the feature space using generatePartialDependenceData. Partial dependence plots reduce the potentially high dimensional function estimated by the learner, and display a marginalized version of this function in a lower dimensional&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualization of predictions</title>
+      <link>/post/visualization-of-predictions/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualization-of-predictions/</guid>
+      <description>In this post I want to shortly introduce you to the great visualization possibilities of mlr. Within the last months a lot of work has been put into that field. This post is not a tutorial but more a demonstration of how little code you have to write with mlr to get some nice plots showing the prediction behaviors for different&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

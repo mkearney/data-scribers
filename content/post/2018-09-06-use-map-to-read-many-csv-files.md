@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-06'
 slug: use-map-to-read-many-csv-files
 categories:
-  - bloglink
+- bloglink
 tags:
   - jenrichmondrbindio
 ---

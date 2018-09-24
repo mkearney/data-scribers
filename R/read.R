@@ -8,33 +8,42 @@ library(mwk)
 library(rtweet)
 
 ## read-in list of blogs
-b0 <- readRDS("~/Dropbox/list-of-blogs.rds")
+b0 <- readRDS("~/Dropbox/list-of-blogs-final.rds")
 
 ## save backup
 saveRDS(b0, "~/Dropbox/list-of-blogs-og.rds")
 
-## search for new blogs
-b <- search_tweets("python OR rstats OR keras OR tensorflow OR #R url:post",
+## search for new blog/posts about rstats, python, and machine learning
+r <- search_tweets('((rstats OR #R OR tidyverse OR ggplot2 OR ggplot OR dplyr OR tidyeval OR rstudio) OR ("R package")) url:post',
   include_rts = FALSE, n = 5000)
+p <- search_tweets('((python AND pandas) OR numpy OR #python OR pytorch OR #jupyter) OR ("python library") url:post',
+  include_rts = FALSE, n = 5000)
+m <- search_tweets('"machine learning" OR keras OR tensorflow OR "neural network" OR "neural networks" OR "deep learning" url:post',
+  include_rts = FALSE, n = 5000)
+
+## merge into single data frame
+b <- bind_rows(r, p, m)
 
 ## filter, format, and merge with original blog links
 b_links <- b %>%
-	filter(grepl("rstats|python|keras|tensorflow|\\#r\\b", text, ignore.case = TRUE)) %>%
+	filter(grepl("rstats|python|keras|tensorflow|\\#r\\b|numpy|pytorch|jupyter|neural|machine learning|ggplot|tidy|dplyr|rstudio",
+	  text, ignore.case = TRUE)) %>%
 	pull(urls_expanded_url) %>%
 	unlist() %>%
 	grep("\\/post\\/", ., value = TRUE) %>%
   grep("curiouscat|r-bloggers", ., invert = TRUE, value = TRUE) %>%
   sub("\\/post.*", "", .) %>%
+  sub("/2018/\\d{2}/\\d{2}/content", "", .) %>%
   c(b0) %>%
-	unique() %>%
+  sub("/2018/\\d{2}/\\d{2}/content", "", .) %>%
+  unique() %>%
 	sort()
 
-## drop any http duplicates of https versions
-drop <- rev(b_links) %>%
-	sub("https:", "http:", .) %>%
-	duplicated()
-b_links <- rev(b_links)[!drop]
-b_links <- sort(b_links)
+## remove duplicates
+uq <- sub("https?://", "", b_links)
+uq <- gsub("^www\\.|/$", "", uq)
+b_links <- b_links[!(grepl("netlify", b_links) & duplicated(sub("\\.netlify", "", uq))) |
+  duplicated(uq)]
 
 ## save updated b_links list
 saveRDS(b_links, "~/Dropbox/list-of-blogs-final.rds")
@@ -108,7 +117,14 @@ blogs_data$link <- ifelse(grepl("^http", blogs_data$link),
 ## filter only blog posts
 blogs_data <- blogs_data %>%
   filter(grepl("/post/|201\\d/\\d{2}/\\d{2}/\\S+", link)) %>%
-  unique()
+  unique() %>%
+  arrange(desc(pubdate))
+
+## remove duplicates
+dups <- duplicated(blogs_data$link) | duplicated(blogs_data$link, fromLast = TRUE)
+dups <- (dups & grepl("www|netflify", blogs_data$link)) |
+  (duplicated(blogs_data$link) & !grepl("www|netflify", blogs_data$link))
+blogs_data <- blogs_data[!dups, ]
 
 ## save blogs data
 saveRDS(blogs_data, "~/Dropbox/blogs_data.rds")

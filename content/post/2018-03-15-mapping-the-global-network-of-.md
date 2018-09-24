@@ -4,7 +4,7 @@ author: 'jsmayorga.com'
 date: '2018-03-15'
 slug: mapping-the-global-network-of-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jsmayorgacom

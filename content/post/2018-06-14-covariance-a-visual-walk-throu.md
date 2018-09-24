@@ -4,7 +4,7 @@ author: 'evangelinereynolds.netlify.com'
 date: '2018-06-14'
 slug: covariance-a-visual-walk-throu
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - evangelinereynoldsnetlifycom

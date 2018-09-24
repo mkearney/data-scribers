@@ -4,7 +4,7 @@ author: 'blog.davisvaughan.com'
 date: '2017-08-16'
 slug: which-rstudio-blog-posts-pleas
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

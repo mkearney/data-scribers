@@ -4,7 +4,7 @@ author: 'djnavarro.net'
 date: '2018-06-03'
 slug: day-38-algorithmic-complexity
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

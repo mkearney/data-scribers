@@ -4,7 +4,7 @@ author: 'thedatawitch.com'
 date: '2018-04-01'
 slug: note-to-self
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - thedatawitchcom

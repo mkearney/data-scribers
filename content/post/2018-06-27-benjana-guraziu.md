@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-06-27'
 slug: benjana-guraziu
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rladiesnycorg

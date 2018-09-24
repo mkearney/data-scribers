@@ -4,7 +4,7 @@ author: 'www.blog.rdata.lu'
 date: '2017-12-21'
 slug: skip-errors-in-r-loops-by-not-
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogrdatalu
 ---

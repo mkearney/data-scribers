@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2017-12-17'
 slug: a-wild-r-package-appears-pokem
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogschochasticsnet

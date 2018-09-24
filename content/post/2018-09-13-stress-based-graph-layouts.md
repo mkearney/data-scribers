@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-09-13'
 slug: stress-based-graph-layouts
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - blogschochasticsnet

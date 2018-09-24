@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2018-08-26'
 slug: exploring-london-crime-with-r-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

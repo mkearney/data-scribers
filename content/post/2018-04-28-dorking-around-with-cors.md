@@ -4,7 +4,7 @@ author: 'cattleguard.github.io'
 date: '2018-04-28'
 slug: dorking-around-with-cors
 categories:
-  - bloglink
+- bloglink
 tags:
   - cattleguardgithubio
 ---

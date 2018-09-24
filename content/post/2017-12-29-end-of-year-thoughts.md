@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2017-12-29'
 slug: end-of-year-thoughts
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rtasticcouk

@@ -4,7 +4,7 @@ author: 'blog.zenggyu.com/en'
 date: '2018-07-08'
 slug: setting-up-visual-studio-code
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogzenggyucomen
 ---

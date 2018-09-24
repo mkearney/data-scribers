@@ -4,7 +4,7 @@ author: 'www.stat.cmu.edu/~ryurko'
 date: '2018-05-30'
 slug: bayesian-baby-steps
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - statcmueduryurko

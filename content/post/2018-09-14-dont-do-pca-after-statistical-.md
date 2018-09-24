@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2018-09-14'
 slug: dont-do-pca-after-statistical-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

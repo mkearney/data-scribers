@@ -4,7 +4,7 @@ author: 'www.rdatagen.net'
 date: '2017-11-27'
 slug: characterizing-the-variance-fo
 categories:
-  - bloglink
+- bloglink
 tags:
   - rdatagennet
 ---

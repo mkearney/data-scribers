@@ -4,7 +4,7 @@ author: 'drmolina.netlify.com'
 date: '2018-03-02'
 slug: oktoberfestr
 categories:
-  - bloglink
+- bloglink
 tags:
   - drmolinanetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'rmflight.github.io'
 date: '2017-03-29'
 slug: criticizing-a-publication-and-
 categories:
-  - bloglink
+- bloglink
 tags:
   - rmflightgithubio
 ---

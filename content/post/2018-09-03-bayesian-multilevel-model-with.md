@@ -4,7 +4,7 @@ author: 'mgb-research.netlify.com'
 date: '2018-09-03'
 slug: bayesian-multilevel-model-with
 categories:
-  - bloglink
+- bloglink
 tags:
   - mgbresearchnetlifycom
 ---

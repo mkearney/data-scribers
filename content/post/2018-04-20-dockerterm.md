@@ -4,7 +4,7 @@ author: 'batteriesnotincluded.rbind.io'
 date: '2018-04-20'
 slug: dockerterm
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - batteriesnotincludedrbindio

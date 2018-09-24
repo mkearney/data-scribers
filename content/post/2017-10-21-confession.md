@@ -4,7 +4,7 @@ author: 'yutani.rbind.io'
 date: '2017-10-21'
 slug: confession
 categories:
-  - bloglink
+- bloglink
 tags:
   - yutanirbindio
 ---

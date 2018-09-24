@@ -4,7 +4,7 @@ author: 'r-tastic.co.uk'
 date: '2017-05-30'
 slug: animated-plots-as-part-of-expl
 categories:
-  - bloglink
+- bloglink
 tags:
   - rtasticcouk
 ---

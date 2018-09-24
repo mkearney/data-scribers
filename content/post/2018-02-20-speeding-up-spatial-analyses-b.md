@@ -4,7 +4,7 @@ author: 'lbusett.netlify.com'
 date: '2018-02-20'
 slug: speeding-up-spatial-analyses-b
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - lbusettnetlifycom

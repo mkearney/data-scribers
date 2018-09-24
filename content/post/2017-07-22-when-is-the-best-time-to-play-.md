@@ -4,7 +4,7 @@ author: 'tojyouso.github.io'
 date: '2017-07-22'
 slug: when-is-the-best-time-to-play-
 categories:
-  - bloglink
+- bloglink
 tags:
   - tojyousogithubio
 ---

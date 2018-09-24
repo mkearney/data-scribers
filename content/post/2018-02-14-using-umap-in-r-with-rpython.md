@@ -4,7 +4,7 @@ author: 'blog.schochastics.net'
 date: '2018-02-14'
 slug: using-umap-in-r-with-rpython
 categories:
-  - bloglink
+- bloglink
 tags:
   - blogschochasticsnet
 ---

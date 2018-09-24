@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-08'
 slug: using-r-for-analysis
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - jenrichmondrbindio

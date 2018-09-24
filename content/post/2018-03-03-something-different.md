@@ -4,7 +4,7 @@ author: 'davemcg.github.io'
 date: '2018-03-03'
 slug: something-different
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

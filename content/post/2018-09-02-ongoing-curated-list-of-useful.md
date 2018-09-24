@@ -4,7 +4,7 @@ author: 'theaknowles.com'
 date: '2018-09-02'
 slug: ongoing-curated-list-of-useful
 categories:
-  - bloglink
+- bloglink
 tags:
   - theaknowlescom
 ---

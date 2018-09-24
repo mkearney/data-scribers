@@ -4,7 +4,7 @@ author: 'leonawicz.github.io/blog'
 date: '2018-02-13'
 slug: mix-ggplot2-graphs-with-your-f
 categories:
-  - bloglink
+- bloglink
 tags:
   - leonawiczgithubioblog
 ---

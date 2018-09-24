@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-09-26'
 slug: regular-expression-searching-w
 categories:
-  - bloglink
+- bloglink
 tags:
   - yonicdnetlifycom
 ---

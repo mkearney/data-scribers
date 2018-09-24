@@ -4,7 +4,7 @@ author: 'wenlong-liu.github.io'
 date: '2018-07-13'
 slug: generate-a-reproducible-map-fo
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - modeling

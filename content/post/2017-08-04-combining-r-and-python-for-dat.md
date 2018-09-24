@@ -4,7 +4,7 @@ author: 'emil.tbjerglund.dk'
 date: '2017-08-04'
 slug: combining-r-and-python-for-dat
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - python

@@ -4,7 +4,7 @@ author: 'g-tierney.github.io'
 date: '2018-06-07'
 slug: article-round-up-june-2018
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - gtierneygithubio

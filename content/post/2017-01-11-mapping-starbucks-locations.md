@@ -4,7 +4,7 @@ author: 'www.seanlnguyen.com'
 date: '2017-01-11'
 slug: mapping-starbucks-locations
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - seanlnguyencom

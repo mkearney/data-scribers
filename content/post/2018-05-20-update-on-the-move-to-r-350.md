@@ -4,7 +4,7 @@ author: 'rubuntu.netlify.com'
 date: '2018-05-20'
 slug: update-on-the-move-to-r-350
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - rubuntunetlifycom

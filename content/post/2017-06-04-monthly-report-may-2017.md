@@ -4,7 +4,7 @@ author: 'tojyouso.github.io'
 date: '2017-06-04'
 slug: monthly-report-may-2017
 categories:
-  - bloglink
+- bloglink
 tags:
   - tojyousogithubio
 ---

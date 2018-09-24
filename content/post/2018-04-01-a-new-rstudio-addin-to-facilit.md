@@ -4,7 +4,7 @@ author: 'lbusett.netlify.com'
 date: '2018-04-01'
 slug: a-new-rstudio-addin-to-facilit
 categories:
-  - bloglink
+- bloglink
 tags:
   - lbusettnetlifycom
 ---

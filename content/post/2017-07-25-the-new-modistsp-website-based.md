@@ -4,7 +4,7 @@ author: 'lbusett.netlify.com'
 date: '2017-07-25'
 slug: the-new-modistsp-website-based
 categories:
-  - bloglink
+- bloglink
 tags:
   - lbusettnetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'jenrichmond.rbind.io'
 date: '2018-09-11'
 slug: more-wrangling-tips
 categories:
-  - bloglink
+- bloglink
 tags:
   - jenrichmondrbindio
 ---

@@ -4,7 +4,7 @@ author: 'wenlong-liu.github.io'
 date: '2018-02-25'
 slug: brief-introduction-of-storm-hy
 categories:
-  - bloglink
+- bloglink
 tags:
   - modeling
   - wenlongliugithubio

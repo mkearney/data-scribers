@@ -4,7 +4,7 @@ author: 'www.rladiesnyc.org'
 date: '2018-09-17'
 slug: building-infrastructure-with-r
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - machine-learning

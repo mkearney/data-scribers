@@ -4,7 +4,7 @@ author: 'shotwell.ca/blog'
 date: '2017-04-13'
 slug: data-visualization-and-ui-desi
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - shotwellcablog

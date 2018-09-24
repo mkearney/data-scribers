@@ -4,7 +4,7 @@ author: 'www.semidocumentedlife.com'
 date: '2017-10-01'
 slug: climbing-into-the-crater
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - semidocumentedlifecom

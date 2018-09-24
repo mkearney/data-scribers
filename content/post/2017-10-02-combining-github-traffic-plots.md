@@ -4,7 +4,7 @@ author: 'yonicd.netlify.com'
 date: '2017-10-02'
 slug: combining-github-traffic-plots
 categories:
-  - bloglink
+- bloglink
 tags:
   - yonicdnetlifycom
 ---

@@ -4,7 +4,7 @@ author: 'wenlong-liu.github.io'
 date: '2018-01-25'
 slug: hellow-world
 categories:
-  - bloglink
+- bloglink
 tags:
   - wenlongliugithubio
 ---

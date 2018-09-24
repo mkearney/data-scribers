@@ -4,7 +4,7 @@ author: 'wenlong-liu.github.io'
 date: '2018-09-11'
 slug: generate-animated-tracking-map
 categories:
-  - bloglink
+- bloglink
 tags:
   - rstats
   - wenlongliugithubio

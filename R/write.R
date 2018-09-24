@@ -144,5 +144,5 @@ build_ds <- function(local = TRUE) {
 
 ## update git
 system("git add .")
-system("git commit -m 'update'")
+system("git commit -m 'cron update'")
 system("git push")

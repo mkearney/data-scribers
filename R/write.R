@@ -6,6 +6,9 @@ if (!file.exists("data-scribers.Rproj")) {
 ## read mwk lib
 library(mwk)
 
+## git pull
+system("git pull")
+
 ## read data
 blogs_data <- readRDS("~/Dropbox/blogs_data.rds")
 

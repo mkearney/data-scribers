@@ -36,15 +36,15 @@ write_post <- function(url, pubdate, title, link, description) {
     slug <- substr(slug, 1, 30)
   }
   cats <- character()
-  if (grepl("rstats|dplyr|ggplot|tidyverse|library\\(|r-project|\\br\\b",
+  if (grepl("rstats|dplyr|ggplot|tidyverse|library\\(|r-project|\\br\\b|tidy|rstudio|package",
     description, ignore.case = TRUE)) {
     cats[length(cats) + 1] <- "rstats"
   }
-  if (grepl("python|panda|numpi|pytorch",
+  if (grepl("python|panda|numpi|pytorch|numpy|library|jupyter",
     description, ignore.case = TRUE)) {
     cats[length(cats) + 1] <- "python"
   }
-  if (grepl("neural net|machine learn|tensorflow|keras|pytorch",
+  if (grepl("neural|machine learn|tensorflow|keras|pytorch",
     description, ignore.case = TRUE)) {
     cats[length(cats) + 1] <- "machine-learning"
   }
@@ -74,9 +74,9 @@ write_post <- function(url, pubdate, title, link, description) {
   if (nchar(p1) < 20) return(NULL)
   p1 <- tfse::trim_ws(gsub("\n|\t", " ", gsub("<[^>]+>", "", p1)))
   p1 <- gsub("[[:punct:] ]+$", "", p1)
-  p1 <- substr(p1, 1, 1000)
+  p1 <- substr(p1, 1, 1200)
   p1 <- sub("\\s+\\S+$", "", p1)
-  p1 <- sub("\\.+$", "", p1)
+  p1 <- sub("\\.[^\\.]+$", "", p1)
   p1 <- paste0(p1, "[... <i class=\"fas fa-external-link-alt\"></i>](",
     link, ")\n")
   txt <- paste0(txt, p1)

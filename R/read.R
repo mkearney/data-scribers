@@ -14,19 +14,23 @@ b0 <- readRDS("~/Dropbox/list-of-blogs-final.rds")
 saveRDS(b0, "~/Dropbox/list-of-blogs-og.rds")
 
 ## search for new blog/posts about rstats, python, and machine learning
-r <- search_tweets('((rstats OR #R OR tidyverse OR ggplot2 OR ggplot OR dplyr OR tidyeval OR rstudio) OR ("R package")) url:post',
-  include_rts = FALSE, n = 5000)
-p <- search_tweets('((python AND pandas) OR numpy OR #python OR pytorch OR #jupyter) OR ("python library") url:post',
-  include_rts = FALSE, n = 5000)
-m <- search_tweets('"machine learning" OR keras OR tensorflow OR "neural network" OR "neural networks" OR "deep learning" url:post',
-  include_rts = FALSE, n = 5000)
+r <- search_tweets(paste0('((rstats OR #R OR tidyverse OR ggplot2 OR ggplot OR ',
+  'dplyr OR tidyeval OR rstudio) OR ("R package")) url:post'),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
+p <- search_tweets(paste0('((python AND pandas) OR numpy OR #python OR pytorch ',
+  'OR #jupyter) OR ("python library") url:post'),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
+m <- search_tweets(paste0('"machine learning" OR keras OR tensorflow OR "neural ',
+  'network" OR "neural networks" OR "deep learning" url:post'),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
 
 ## merge into single data frame
 b <- bind_rows(r, p, m)
 
 ## filter, format, and merge with original blog links
 b_links <- b %>%
-	filter(grepl("rstats|python|keras|tensorflow|\\#r\\b|numpy|pytorch|jupyter|neural|machine learning|ggplot|tidy|dplyr|rstudio",
+	filter(grepl(paste0("rstats|python|keras|tensorflow|\\#r\\b|numpy|pytorch',
+	  '|jupyter|neural|machine learning|ggplot|tidy|dplyr|rstudio|package|library"),
 	  text, ignore.case = TRUE)) %>%
 	pull(urls_expanded_url) %>%
 	unlist() %>%
@@ -116,9 +120,9 @@ blogs_data$link <- ifelse(grepl("^http", blogs_data$link),
 
 ## filter only blog posts
 blogs_data <- blogs_data %>%
-  filter(grepl("/post/|201\\d/\\d{2}/\\d{2}/\\S+", link)) %>%
-  unique() %>%
-  arrange(desc(pubdate))
+  arrange(desc(pubdate)) %>%
+  filter(grepl("(/post/)|(201\\d/\\d{2}/\\d{2}/\\S+)", link)) %>%
+  unique()
 
 ## remove duplicates
 dups <- duplicated(blogs_data$link) | duplicated(blogs_data$link, fromLast = TRUE)

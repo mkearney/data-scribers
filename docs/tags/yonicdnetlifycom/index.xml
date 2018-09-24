@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yonicdnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/yonicdnetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/yonicdnetlifycom/</link>
     <description>Recent content in Yonicdnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/yonicdnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/yonicdnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RStudio Addin Manager</title>
-      <link>/post/rstudio-addin-manager/</link>
+      <link>https://data-scribers.mikewk.com/post/rstudio-addin-manager/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/rstudio-addin-manager/</guid>
+      <guid>https://data-scribers.mikewk.com/post/rstudio-addin-manager/</guid>
       <description>Via the command line you can manage the addins with greater&amp;hellip;</description>
     </item>
     
     <item>
       <title>Firearms Sourced and Recovered in the United States and Territories 2010-2016</title>
-      <link>/post/firearms-sourced-and-recovered/</link>
+      <link>https://data-scribers.mikewk.com/post/firearms-sourced-and-recovered/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/firearms-sourced-and-recovered/</guid>
+      <guid>https://data-scribers.mikewk.com/post/firearms-sourced-and-recovered/</guid>
       <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms. This post will try to start to give an answer to this question using&amp;hellip;</description>
     </item>
     
     <item>
       <title>Extending slackr</title>
-      <link>/post/extending-slackr/</link>
+      <link>https://data-scribers.mikewk.com/post/extending-slackr/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/extending-slackr/</guid>
+      <guid>https://data-scribers.mikewk.com/post/extending-slackr/</guid>
       <description>This lets us interact with R and Slack in new ways, by getting active updates on long simulations directly to your (and your team’s) mobile device and multitask away from your computer. Create text progress bar that is sent directly to a Slack&amp;hellip;</description>
     </item>
     
     <item>
       <title>jsTree htmlwidget</title>
-      <link>/post/jstree-htmlwidget/</link>
+      <link>https://data-scribers.mikewk.com/post/jstree-htmlwidget/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/jstree-htmlwidget/</guid>
+      <guid>https://data-scribers.mikewk.com/post/jstree-htmlwidget/</guid>
       <description>jsTree is a R package that is a standalone htmlwidget for the jsTree JavaScript library. It can be run from the R console directly into the Rstudio Viewer, be used in a Shiny application or be part of an Rmarkdown html output. jsTree can be used in Shiny applications and supplies observers so the Shiny can react to the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Combining Github Traffic Plots Across Repositories</title>
-      <link>/post/combining-github-traffic-plots/</link>
+      <link>https://data-scribers.mikewk.com/post/combining-github-traffic-plots/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/combining-github-traffic-plots/</guid>
+      <guid>https://data-scribers.mikewk.com/post/combining-github-traffic-plots/</guid>
       <description>Fill in the relevant information for your account. The team is usually your username, but it can be different. The repos can be a vector and since we are going in the front door of the site we can access the private repositories&amp;hellip;</description>
     </item>
     
     <item>
       <title>Regular Expression Searching within Shiny Selectize Objects</title>
-      <link>/post/regular-expression-searching-w/</link>
+      <link>https://data-scribers.mikewk.com/post/regular-expression-searching-w/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/regular-expression-searching-w/</guid>
+      <guid>https://data-scribers.mikewk.com/post/regular-expression-searching-w/</guid>
       <description>This is great for long lists, since you can return multiple item simultaneously without needing to endlessly click items in a list! The shiny module works with two main&amp;hellip;</description>
     </item>
     
     <item>
       <title>What is the appropriate population scaling of the Affordable Care Act Funding?</title>
-      <link>/post/what-is-the-appropriate-popula/</link>
+      <link>https://data-scribers.mikewk.com/post/what-is-the-appropriate-popula/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/what-is-the-appropriate-popula/</guid>
+      <guid>https://data-scribers.mikewk.com/post/what-is-the-appropriate-popula/</guid>
       <description>I have been trying to decipher for myself, what is in the current (well, yesterday&amp;rsquo;s) Graham-Cassidy health care bill. I saw this image on many news outlets a few days ago and my inner hate for pie charts bubbled&amp;hellip;</description>
     </item>
     
     <item>
       <title>sinew</title>
-      <link>/post/sinew/</link>
+      <link>https://data-scribers.mikewk.com/post/sinew/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/sinew/</guid>
+      <guid>https://data-scribers.mikewk.com/post/sinew/</guid>
       <description>Sinew is a R package that generates a Roxygen skeleton populated with information scraped from the function&amp;hellip;</description>
     </item>
     
     <item>
       <title>slickR</title>
-      <link>/post/slickr/</link>
+      <link>https://data-scribers.mikewk.com/post/slickr/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/slickr/</guid>
+      <guid>https://data-scribers.mikewk.com/post/slickr/</guid>
       <description>This tool helps review multiple outputs in an efficient manner and saves much needed space in documents and Shiny applications, while creating a user friendly experience. These carousels can be used directly from the R console, from RStudio, in Shiny apps and R Markdown documents. Some web scraping for the images&amp;hellip;</description>
     </item>
     
     <item>
       <title>ggedit 0.2.0</title>
-      <link>/post/ggedit-020/</link>
+      <link>https://data-scribers.mikewk.com/post/ggedit-020/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/ggedit-020/</guid>
+      <guid>https://data-scribers.mikewk.com/post/ggedit-020/</guid>
       <description>To install the package you can call the standard R command To install the dev version: ggedit is an R package that is used to facilitate ggplot formatting. With ggedit, R users of all experience levels can easily move from creating ggplots to refining aesthetic details, all while maintaining portability for further reproducible research and&amp;hellip;</description>
     </item>
     
     <item>
       <title>ggedit 0.1.1</title>
-      <link>/post/ggedit-011/</link>
+      <link>https://data-scribers.mikewk.com/post/ggedit-011/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/ggedit-011/</guid>
+      <guid>https://data-scribers.mikewk.com/post/ggedit-011/</guid>
       <description>In addition to the output UI the user also gets a reactive output that has all the objects that are in the regular ggedit package (plots, layers, scales, themes) both in object and script forms. This has great advantages if you want to let users edit plots while keeping track of what they are&amp;hellip;</description>
     </item>
     
     <item>
       <title>ggedit</title>
-      <link>/post/ggedit/</link>
+      <link>https://data-scribers.mikewk.com/post/ggedit/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/ggedit/</guid>
+      <guid>https://data-scribers.mikewk.com/post/ggedit/</guid>
       <description>ggplot2 has become the standard of plotting in R for many users. New users, however, may find the learning curve steep at first, and more experienced users may find it challenging to keep track of all the options (especially in the&amp;hellip;</description>
     </item>
     

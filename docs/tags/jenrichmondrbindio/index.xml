@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenrichmondrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/jenrichmondrbindio/</link>
+    <link>https://data-scribers.mikewk.com/tags/jenrichmondrbindio/</link>
     <description>Recent content in Jenrichmondrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/jenrichmondrbindio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/jenrichmondrbindio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>where is here?</title>
-      <link>/post/where-is-here/</link>
+      <link>https://data-scribers.mikewk.com/post/where-is-here/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/where-is-here/</guid>
+      <guid>https://data-scribers.mikewk.com/post/where-is-here/</guid>
       <description>As I add new projects to my rstats portfolio and work collaboratively on projects with students the issue of working directories is becoming more and more&amp;hellip;</description>
     </item>
     
     <item>
       <title>next up anova</title>
-      <link>/post/next-up-anova/</link>
+      <link>https://data-scribers.mikewk.com/post/next-up-anova/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/next-up-anova/</guid>
+      <guid>https://data-scribers.mikewk.com/post/next-up-anova/</guid>
       <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify&amp;hellip; As always,you can shortcut that by saying Or by specifying which variables to analyse using&amp;hellip;</description>
     </item>
     
     <item>
       <title>more wrangling tips</title>
-      <link>/post/more-wrangling-tips/</link>
+      <link>https://data-scribers.mikewk.com/post/more-wrangling-tips/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/more-wrangling-tips/</guid>
+      <guid>https://data-scribers.mikewk.com/post/more-wrangling-tips/</guid>
       <description>It is definitely true that it takes much longer to get your data ready for analysis than it does to actually analyse it. Apparently up to 80% of the data analysis time is spent wrangling data (and cursing and swearing). &amp;ldquo;Classroom data are like teddy bears and real data are like a grizzly bear with salmon blood dripping out its&amp;hellip;</description>
     </item>
     
     <item>
       <title>testing out t-tests</title>
-      <link>/post/testing-out-ttests/</link>
+      <link>https://data-scribers.mikewk.com/post/testing-out-ttests/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing-out-ttests/</guid>
+      <guid>https://data-scribers.mikewk.com/post/testing-out-ttests/</guid>
       <description>Here is what I learned about t-tests from doing the analysis below. The AFL data that comes with Dani’s book includes attendance and score information for home and away teams over regular and finals games for years and years. Disclaimer- I know nothing about AFL. Maybe we know that the average AFL team scores around 100 points in a&amp;hellip;</description>
     </item>
     
     <item>
       <title>using R for analysis</title>
-      <link>/post/using-r-for-analysis/</link>
+      <link>https://data-scribers.mikewk.com/post/using-r-for-analysis/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-r-for-analysis/</guid>
+      <guid>https://data-scribers.mikewk.com/post/using-r-for-analysis/</guid>
       <description>I am feeling more confident about my resolution to get rid of Excel and only use R for data wrangling and visualisation. Next steps&amp;hellip; analysis. I&amp;rsquo;m starting simple (I presume) with&amp;hellip;</description>
     </item>
     
     <item>
       <title>creating data using rep()</title>
-      <link>/post/creating-data-using-rep/</link>
+      <link>https://data-scribers.mikewk.com/post/creating-data-using-rep/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/creating-data-using-rep/</guid>
+      <guid>https://data-scribers.mikewk.com/post/creating-data-using-rep/</guid>
       <description>Some code that is probably going to be useful in the future: To get AAABBB use To get 1 through 8, repeated 3 times use This creates a new variable called Stimulus that grabs the 8th value of CommentName and fills the column with it. Note this only works after grouping by Participant, Block,&amp;hellip;</description>
     </item>
     
     <item>
       <title>mutate &#43; if else = new conditional variable</title>
-      <link>/post/mutate-if-else-new-conditional/</link>
+      <link>https://data-scribers.mikewk.com/post/mutate-if-else-new-conditional/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mutate-if-else-new-conditional/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mutate-if-else-new-conditional/</guid>
       <description>Most recently I needed to extract a Stimulus number from a variable called CommentName, and then turn those numbers into levels of Model and Emotion in separate&amp;hellip;</description>
     </item>
     
     <item>
       <title>Use map to read many csv files</title>
-      <link>/post/use-map-to-read-many-csv-files/</link>
+      <link>https://data-scribers.mikewk.com/post/use-map-to-read-many-csv-files/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/use-map-to-read-many-csv-files/</guid>
+      <guid>https://data-scribers.mikewk.com/post/use-map-to-read-many-csv-files/</guid>
       <description>Get list of .csv files called files. The code below looks for files that have .csv as part of the filename in the the working directory The code below takes that list of files, pipes it to a map function that runs read_csv on each file, then pipes that to a rbind function that reduces those many files into a one dataframe called&amp;hellip;</description>
     </item>
     
     <item>
       <title>I don’t like cats much</title>
-      <link>/post/i-dont-like-cats-much/</link>
+      <link>https://data-scribers.mikewk.com/post/i-dont-like-cats-much/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/i-dont-like-cats-much/</guid>
+      <guid>https://data-scribers.mikewk.com/post/i-dont-like-cats-much/</guid>
       <description>Tom Kelly pointed me towards the @swcarpentry resources You can use dplyr::bind_rows() instead of reduce(rbind()). BUT if you want them all in one frame at the end you probably just want purrr::map_dfr(), which is a map and bind combo function. So many options! that&amp;rsquo;s actually half the problem with going&amp;hellip;</description>
     </item>
     
     <item>
       <title>lesser known stars of the tidyverse</title>
-      <link>/post/lesser-known-stars-of-the-tidy/</link>
+      <link>https://data-scribers.mikewk.com/post/lesser-known-stars-of-the-tidy/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/lesser-known-stars-of-the-tidy/</guid>
+      <guid>https://data-scribers.mikewk.com/post/lesser-known-stars-of-the-tidy/</guid>
       <description>Tibble = modern dataframe. Use instead of printing your dataset to the console. summarise(numberNA = sum(is.na(variable)) map_df(~sum(is.na(.))) na_if(&amp;ldquo;&amp;rdquo;) When you want help, if it helpful to helpers if you create a minimal reproudicule example so that they can see and run the code using your data. www.r4ds.co.nz R for Data Science Twitter #rstats Rstats cheat sheets&amp;hellip;</description>
     </item>
     
     <item>
       <title>dirty data</title>
-      <link>/post/dirty-data/</link>
+      <link>https://data-scribers.mikewk.com/post/dirty-data/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/dirty-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dirty-data/</guid>
       <description>I have been doing lots of data wrangling recently and decided a needed a quick rundown of data cleaning in R. Turns out www.DataCamp.com has a course called exactly that. Here are notes on useful things I learned. Histogram: to get an idea of the distribution of data in a particular variable use. Can use optional breaks argument to specify how many buckets the data are broken&amp;hellip;</description>
     </item>
     
     <item>
       <title>hotkeys</title>
-      <link>/post/hotkeys/</link>
+      <link>https://data-scribers.mikewk.com/post/hotkeys/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/hotkeys/</guid>
+      <guid>https://data-scribers.mikewk.com/post/hotkeys/</guid>
       <description>There are some commands that as I get more and more familiar with Rstudio I find myself typing again and again. Keyboard shortcuts are helpful (disclaimer: these mac versions). Option-Command-i will open a new Rmarkdown code chunk. Option - is a handy way of typing&amp;hellip;</description>
     </item>
     

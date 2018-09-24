@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frankfarachcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/frankfarachcom/</link>
+    <link>https://data-scribers.mikewk.com/tags/frankfarachcom/</link>
     <description>Recent content in Frankfarachcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/frankfarachcom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/frankfarachcom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TidyTuesday</title>
-      <link>/post/tidytuesday/</link>
+      <link>https://data-scribers.mikewk.com/post/tidytuesday/</link>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/tidytuesday/</guid>
+      <guid>https://data-scribers.mikewk.com/post/tidytuesday/</guid>
       <description>In the first quarter of 2018, I focused my data science education on expanding my R programming skills and setting up this blog in Hugo. I developed my first R package, an API wrapper to the U.S. National Provider Identification (NPI) registry, and created an R-powered Power BI custom visual for a client. Although I still plan to continue my work on these projects, I’m ready to start a new&amp;hellip;</description>
     </item>
     
     <item>
       <title>Taking flight with R</title>
-      <link>/post/taking-flight-with-r/</link>
+      <link>https://data-scribers.mikewk.com/post/taking-flight-with-r/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/taking-flight-with-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/taking-flight-with-r/</guid>
       <description>Inspired by the current exhibit on ART ∩ MATH at Seattle’s Center on Contemporary Cart (COCA), I decided to replicate one of the pieces by the very talanted Iranian mathematical artist, Hamid Naderi Yeganeh. Yeganeh provided the full mathematical equation as a caption to his piece, “Bird,” and I thought it would be fun to give it a test flight in&amp;hellip;</description>
     </item>
     

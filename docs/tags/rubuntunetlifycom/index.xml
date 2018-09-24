@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rubuntunetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/rubuntunetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/rubuntunetlifycom/</link>
     <description>Recent content in Rubuntunetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rubuntunetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/rubuntunetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>August 25th c2d4u Update</title>
-      <link>/post/august-25th-c2d4u-update/</link>
+      <link>https://data-scribers.mikewk.com/post/august-25th-c2d4u-update/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/august-25th-c2d4u-update/</guid>
+      <guid>https://data-scribers.mikewk.com/post/august-25th-c2d4u-update/</guid>
       <description>64 new or updated packages on c2d4u were uploaded on August 25th. Packages are listed below. Currently on the version 3.5 c2d4u PPA, there are 4059 packages for Bionic, 3674 for Xenial, and 3673 for Trusty. As always, if something fails to install or does not play well with other packages, please let me&amp;hellip;</description>
     </item>
     
     <item>
       <title>Changes to CRAN Ubuntu webpage regarding apt-secure key</title>
-      <link>/post/changes-to-cran-ubuntu-webpage/</link>
+      <link>https://data-scribers.mikewk.com/post/changes-to-cran-ubuntu-webpage/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/changes-to-cran-ubuntu-webpage/</guid>
+      <guid>https://data-scribers.mikewk.com/post/changes-to-cran-ubuntu-webpage/</guid>
       <description>One of the keys is mine, uid “Michael Rutter”. The other key, even though the date suggests otherwise, appears to be new. The uid is “Totally Legit Signing Key”. I am fairly certain that this key was placed there to demonstrate that using the short key ID is flawed, as it is easy to create a key using brute force that matches my key. This is called an key id&amp;hellip;</description>
     </item>
     
     <item>
       <title>June 11th, 2018 R 3.5.0 on Debian and Ubuntu</title>
-      <link>/post/june-11th-2018-r-350-on-debian/</link>
+      <link>https://data-scribers.mikewk.com/post/june-11th-2018-r-350-on-debian/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/june-11th-2018-r-350-on-debian/</guid>
+      <guid>https://data-scribers.mikewk.com/post/june-11th-2018-r-350-on-debian/</guid>
       <description>Dirk, Michael and Johannes, June&amp;hellip;</description>
     </item>
     
     <item>
       <title>June 2nd, 2018 c2d4u Update</title>
-      <link>/post/june-2nd-2018-c2d4u-update/</link>
+      <link>https://data-scribers.mikewk.com/post/june-2nd-2018-c2d4u-update/</link>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/june-2nd-2018-c2d4u-update/</guid>
+      <guid>https://data-scribers.mikewk.com/post/june-2nd-2018-c2d4u-update/</guid>
       <description>Small weekly update to c2d4u. 21 packages in total either updated or&amp;hellip;</description>
     </item>
     
     <item>
       <title>c2d4u Update</title>
-      <link>/post/c2d4u-update/</link>
+      <link>https://data-scribers.mikewk.com/post/c2d4u-update/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/c2d4u-update/</guid>
+      <guid>https://data-scribers.mikewk.com/post/c2d4u-update/</guid>
       <description>On the c2d4u PPAs, my goal is to update and add new packages (from CRAN Task Views) on a weekly basis, usually on the weekend. While I was building c2d4u3.5, I put this on hold, as I didn’t want to build new (to the PPA) packages at the same time as checking old ones. For this update, 230 R packages were either updated or added as&amp;hellip;</description>
     </item>
     
     <item>
       <title>Announcing cran2deb4ubuntu3.5</title>
-      <link>/post/announcing-cran2deb4ubuntu35/</link>
+      <link>https://data-scribers.mikewk.com/post/announcing-cran2deb4ubuntu35/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/announcing-cran2deb4ubuntu35/</guid>
+      <guid>https://data-scribers.mikewk.com/post/announcing-cran2deb4ubuntu35/</guid>
       <description>Many things to consider before you add this PPA to your Ubuntu machine. The PPA supplies binaries for Trusty (14.04), Xenial (16.04), and Bionic (18.04). If you decide to utilize this PPA, please let me know if something is not working. There is no way I can test all 3,400+ packages and there are always little things that I miss. If there are issues, please contact me via email at&amp;hellip;</description>
     </item>
     
     <item>
       <title>Adding jq library to Trusty and Xenial PPAs</title>
-      <link>/post/adding-jq-library-to-trusty-an/</link>
+      <link>https://data-scribers.mikewk.com/post/adding-jq-library-to-trusty-an/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/adding-jq-library-to-trusty-an/</guid>
+      <guid>https://data-scribers.mikewk.com/post/adding-jq-library-to-trusty-an/</guid>
       <description>One of the advantages of using Launchpad’s PPA system is that it allows you to easily use the work of others backporting packages to older&amp;hellip;</description>
     </item>
     
     <item>
       <title>Replacing weatherunderground.com data with...weatherunderground?</title>
-      <link>/post/replacing-weatherundergroundco/</link>
+      <link>https://data-scribers.mikewk.com/post/replacing-weatherundergroundco/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/replacing-weatherundergroundco/</guid>
+      <guid>https://data-scribers.mikewk.com/post/replacing-weatherundergroundco/</guid>
       <description>Combining these two data sources recreates what weatherunderground.com used to provide. It should be noted that Dark Sky has a slightly different definition of a day for their API, calculating daily averages from 4AM to 4AM, not midnight to midnight. I compared data for previous years and the differences were negligible. While not a perfect solution, it is enough to keep RoboHarry&amp;hellip;</description>
     </item>
     
     <item>
       <title>Update on the Move to R 3.5.0</title>
-      <link>/post/update-on-the-move-to-r-350/</link>
+      <link>https://data-scribers.mikewk.com/post/update-on-the-move-to-r-350/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/update-on-the-move-to-r-350/</guid>
+      <guid>https://data-scribers.mikewk.com/post/update-on-the-move-to-r-350/</guid>
       <description>One of the challenges with using Launchpad is that once a package is built, it needs to be published. This takes some time (around 20 minutes). Therefore, you can’t just push a series of packages to Launchpad and walk away. In order to ensure the dependencies are built, you need to wait until they have been published in the PPA. This is on top of determining the build order based on&amp;hellip;</description>
     </item>
     

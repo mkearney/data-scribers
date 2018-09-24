@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aggieerincom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/aggieerincom/</link>
+    <link>https://data-scribers.mikewk.com/tags/aggieerincom/</link>
     <description>Recent content in Aggieerincom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/aggieerincom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/aggieerincom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick and Dirty Categorical lavaan</title>
-      <link>/post/quick-and-dirty-categorical-la/</link>
+      <link>https://data-scribers.mikewk.com/post/quick-and-dirty-categorical-la/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/quick-and-dirty-categorical-la/</guid>
+      <guid>https://data-scribers.mikewk.com/post/quick-and-dirty-categorical-la/</guid>
       <description>I was tagged today on twitter asking about categorical variables in lavaan. I will say I have not done much with categorical predictors either endogenous or exogenous. I did a quick reproducible example of exogenous variables, and I will refer you to the help guide for lavaan here. You will need both the lavaan and psych packages to reproduce this&amp;hellip;</description>
     </item>
     
     <item>
       <title>New Publications and Updated CV</title>
-      <link>/post/new-publications-and-updated-c/</link>
+      <link>https://data-scribers.mikewk.com/post/new-publications-and-updated-c/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publications-and-updated-c/</guid>
+      <guid>https://data-scribers.mikewk.com/post/new-publications-and-updated-c/</guid>
       <description>Hi guys! I just wanted to post that I&amp;rsquo;ve updated the website to be current with some new publications I wanted to highlight: First up is two papers on psycholinguistics that were undergraduate student projects: Duncan, J., Buchanan, E.M., Marshall, C.Z., &amp;amp; Oberdieck, K. (accepted). But words will never hurt me, Journal of Psychology and Behavioral Sciences, X, XX-XX. PDF Forbes, F.-J., &amp;amp; Buchanan, E&amp;hellip;</description>
     </item>
     
     <item>
       <title>Current Publications with Papaja</title>
-      <link>/post/current-publications-with-papa/</link>
+      <link>https://data-scribers.mikewk.com/post/current-publications-with-papa/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/current-publications-with-papa/</guid>
+      <guid>https://data-scribers.mikewk.com/post/current-publications-with-papa/</guid>
       <description>Heyo! Frederik, the author of papaja, requested that we update him with papers written with his package. I was like, oh man, like the whole lab?! So, I decided that I could probably make it easy by making a table here. Obviously, this table is current at the moment, as I hope many of the ones under review will get accepted, and I have several others that we will start writing&amp;hellip;</description>
     </item>
     
     <item>
       <title>Gathering Text from the Web</title>
-      <link>/post/gathering-text-from-the-web/</link>
+      <link>https://data-scribers.mikewk.com/post/gathering-text-from-the-web/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/gathering-text-from-the-web/</guid>
+      <guid>https://data-scribers.mikewk.com/post/gathering-text-from-the-web/</guid>
       <description>Hi everyone! I don&amp;rsquo;t really feel like working too hard today, so I decided to write a blog post about how my student Will and I used rvest to mine articles from several different news sources for a project. All the scripts and current ongoings of this project can be found on our OSF page - this project is also connected to the GitHub folder with the&amp;hellip;</description>
     </item>
     
     <item>
       <title>New Publication: Texting</title>
-      <link>/post/new-publication-texting/</link>
+      <link>https://data-scribers.mikewk.com/post/new-publication-texting/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publication-texting/</guid>
+      <guid>https://data-scribers.mikewk.com/post/new-publication-texting/</guid>
       <description>One more announcement! We just had a new publication accepted: &amp;ldquo;Textisms&amp;rdquo;: The Comfort of the Recipient: This paper was an undergraduate honors thesis that Flora-Jean and I finally got accepted! She did a great job making sure this paper was completed and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mediation Moderation Workshop</title>
-      <link>/post/mediation-moderation-workshop/</link>
+      <link>https://data-scribers.mikewk.com/post/mediation-moderation-workshop/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mediation-moderation-workshop/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mediation-moderation-workshop/</guid>
       <description>Hi everyone! I have been super swamped with a bunch of due dates that all hit in&amp;hellip;</description>
     </item>
     
     <item>
       <title>Working With Messy Text</title>
-      <link>/post/working-with-messy-text/</link>
+      <link>https://data-scribers.mikewk.com/post/working-with-messy-text/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/working-with-messy-text/</guid>
+      <guid>https://data-scribers.mikewk.com/post/working-with-messy-text/</guid>
       <description>Heyo! I am doing my best to procrastinate here on a blustery Tuesday afternoon. So, I decided to share some code I&amp;rsquo;ve put together that solves problems in R that I used to do in perl. HTML or C++ was probably my first real language, but I love the heck out of perl. It&amp;rsquo;s never done me wrong (unlike you&amp;hellip;</description>
     </item>
     
     <item>
       <title>New Publications</title>
-      <link>/post/new-publications/</link>
+      <link>https://data-scribers.mikewk.com/post/new-publications/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publications/</guid>
+      <guid>https://data-scribers.mikewk.com/post/new-publications/</guid>
       <description>Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB&amp;rsquo;s website: Springer - it is free to view but not download. You can download the PDF version on OSF. We&amp;rsquo;ve submitted a couple new papers as well - updated those on my research publications&amp;hellip;</description>
     </item>
     
     <item>
       <title>New Publication - Detect Low Quality Data</title>
-      <link>/post/new-publication-detect-low-qua/</link>
+      <link>https://data-scribers.mikewk.com/post/new-publication-detect-low-qua/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publication-detect-low-qua/</guid>
+      <guid>https://data-scribers.mikewk.com/post/new-publication-detect-low-qua/</guid>
       <description>My coauthor John Scofield and I just had a publication accepted at Behavior Research Methods - you can check out the publication preprint at OSF. We thew together a website for the paper that summarizes everything we found, as well as puts all the materials together in one place - check it&amp;hellip;</description>
     </item>
     
     <item>
       <title>Citations in R Markdown &#43; Papaja</title>
-      <link>/post/citations-in-r-markdown-papaja/</link>
+      <link>https://data-scribers.mikewk.com/post/citations-in-r-markdown-papaja/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/citations-in-r-markdown-papaja/</guid>
+      <guid>https://data-scribers.mikewk.com/post/citations-in-r-markdown-papaja/</guid>
       <description>Heyo! I wanted to write a post about some of the quirky things I&amp;rsquo;ve found with writing manuscripts in R Markdown, as well as provide a solution to a problem that someone else might be having. Update: The csl file I describe below is a special formatted one, which was shared with me. You can download it from GitHub to try the suggestions&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Shiny App to Compare Stats</title>
-      <link>/post/a-shiny-app-to-compare-stats/</link>
+      <link>https://data-scribers.mikewk.com/post/a-shiny-app-to-compare-stats/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-shiny-app-to-compare-stats/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-shiny-app-to-compare-stats/</guid>
       <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots. I particularly pleased with the plotly 3D graph - as I usually think that 3D graphs are impossible to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Learn About MOTE</title>
-      <link>/post/learn-about-mote/</link>
+      <link>https://data-scribers.mikewk.com/post/learn-about-mote/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/learn-about-mote/</guid>
+      <guid>https://data-scribers.mikewk.com/post/learn-about-mote/</guid>
       <description>The APA Task Force on Statistical Inference (Wilkinson &amp;amp; TFSI, 1999) has advocated the inclusion of effect sizes in journal articles as an important source of information. The fifth and current edition of the APA publication manual (2001, 2010) emphasized these findings from the task force, along with requirement of effect sizes to publish in their journals. However, Fidler et&amp;hellip;</description>
     </item>
     
     <item>
       <title>Research Statement</title>
-      <link>/post/research-statement/</link>
+      <link>https://data-scribers.mikewk.com/post/research-statement/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/research-statement/</guid>
+      <guid>https://data-scribers.mikewk.com/post/research-statement/</guid>
       <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years&amp;hellip;</description>
     </item>
     
     <item>
       <title>Teaching Statement</title>
-      <link>/post/teaching-statement/</link>
+      <link>https://data-scribers.mikewk.com/post/teaching-statement/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/teaching-statement/</guid>
+      <guid>https://data-scribers.mikewk.com/post/teaching-statement/</guid>
       <description>Overview. My approach to teaching centers on the ideas of accessibility, association, and application. As an effective instructor, I strive to ensure that all students are able to orient to and understand material. Often, this process involves formal efforts to reduce barriers to their learning and/or facilitate a stronger grasp of material through association with things they already&amp;hellip;</description>
     </item>
     

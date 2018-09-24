@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kasparmartensrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/kasparmartensrbindio/</link>
+    <link>https://data-scribers.mikewk.com/tags/kasparmartensrbindio/</link>
     <description>Recent content in Kasparmartensrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/kasparmartensrbindio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/kasparmartensrbindio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neural Processes as distributions over functions</title>
-      <link>/post/neural-processes-as-distributi/</link>
+      <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/neural-processes-as-distributi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</guid>
       <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks. In the limited data regime, GPs are preferable due to their probabilistic nature and ability to capture&amp;hellip;</description>
     </item>
     

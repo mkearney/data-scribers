@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wythamrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/wythamrbindio/</link>
+    <link>https://data-scribers.mikewk.com/tags/wythamrbindio/</link>
     <description>Recent content in Wythamrbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/wythamrbindio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/wythamrbindio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Solution to a frustrating rJava problem</title>
-      <link>/post/solution-to-a-frustrating-rjav/</link>
+      <link>https://data-scribers.mikewk.com/post/solution-to-a-frustrating-rjav/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/solution-to-a-frustrating-rjav/</guid>
+      <guid>https://data-scribers.mikewk.com/post/solution-to-a-frustrating-rjav/</guid>
       <description>Go to the command line and run: According to the solution at the aforementioned link, this will “create a link to libjvm.dylib inside R’s lib folder”. I can’t tell you much more, but it took me waaaay too long to find this so I hope this post makes it easier for the next person with this&amp;hellip;</description>
     </item>
     
     <item>
       <title>A note on factors in regression (in R)</title>
-      <link>/post/a-note-on-factors-in-regressio/</link>
+      <link>https://data-scribers.mikewk.com/post/a-note-on-factors-in-regressio/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-note-on-factors-in-regressio/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-note-on-factors-in-regressio/</guid>
       <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”). A common example in economics is when you have a difference-in-differences design and you want to estimate how the treatment effect changes over time, before and after the treatment&amp;hellip;</description>
     </item>
     
     <item>
       <title>How to make a poster in R</title>
-      <link>/post/how-to-make-a-poster-in-r/</link>
+      <link>https://data-scribers.mikewk.com/post/how-to-make-a-poster-in-r/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-make-a-poster-in-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-to-make-a-poster-in-r/</guid>
       <description>The main area where I found the Rossi post lacking was on software. All the suggestions he makes (e.g. Powerpoint, Canva, Adobe Illustrator) are point-and-click. I have nothing against using point-and-click software to make a poster, so if it works for you then go ahead. I’m just so used to leaving typesetting and formatting to the computer that there are a lot of details I don’t want to worry&amp;hellip;</description>
     </item>
     
     <item>
       <title>Introducing Git &#43; Github</title>
-      <link>/post/introducing-git-github/</link>
+      <link>https://data-scribers.mikewk.com/post/introducing-git-github/</link>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/introducing-git-github/</guid>
+      <guid>https://data-scribers.mikewk.com/post/introducing-git-github/</guid>
       <description>Something helpful that came out of this exercise was that it really made me sit down and think about how exactly version control is useful to applied economists and how it can be made to feel as accessible as possible. If you haven’t read David’s blog posts, my takeaway from them is that the earlier you can get students to the payoff, the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Contra JFK, use R because it is easy, not because it is hard</title>
-      <link>/post/contra-jfk-use-r-because-it-is/</link>
+      <link>https://data-scribers.mikewk.com/post/contra-jfk-use-r-because-it-is/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/contra-jfk-use-r-because-it-is/</guid>
+      <guid>https://data-scribers.mikewk.com/post/contra-jfk-use-r-because-it-is/</guid>
       <description>There’s an attitude that I believe is reasonably common among applied economists, that coding is the easy part of what we do and where we add the least&amp;hellip;</description>
     </item>
     
     <item>
       <title>Scraping NIH PIs with rvest</title>
-      <link>/post/scraping-nih-pis-with-rvest/</link>
+      <link>https://data-scribers.mikewk.com/post/scraping-nih-pis-with-rvest/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/scraping-nih-pis-with-rvest/</guid>
+      <guid>https://data-scribers.mikewk.com/post/scraping-nih-pis-with-rvest/</guid>
       <description>Background: I was doing some exploratory work for a potential project looking at intramural investigators at the NIH. Eventually I decided to put it aside for the time being, but here is some cleaned up code that came out of it, along with some basic&amp;hellip;</description>
     </item>
     

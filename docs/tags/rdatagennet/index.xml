@@ -2,354 +2,354 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rdatagennet on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/rdatagennet/</link>
+    <link>https://data-scribers.mikewk.com/tags/rdatagennet/</link>
     <description>Recent content in Rdatagennet on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rdatagennet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/rdatagennet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Binary, beta, beta-binomial</title>
-      <link>/post/binary-beta-betabinomial/</link>
+      <link>https://data-scribers.mikewk.com/post/binary-beta-betabinomial/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/binary-beta-betabinomial/</guid>
+      <guid>https://data-scribers.mikewk.com/post/binary-beta-betabinomial/</guid>
       <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities. So, there is another level of uncertainty beyond sampling&amp;hellip;</description>
     </item>
     
     <item>
       <title>Multivariate ordinal categorical data generation</title>
-      <link>/post/multivariate-ordinal-categoric/</link>
+      <link>https://data-scribers.mikewk.com/post/multivariate-ordinal-categoric/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/multivariate-ordinal-categoric/</guid>
+      <guid>https://data-scribers.mikewk.com/post/multivariate-ordinal-categoric/</guid>
       <description>In the following examples, I assume four items each with four possible responses - which is different from the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Randomize by, or within, cluster?</title>
-      <link>/post/randomize-by-or-within-cluster/</link>
+      <link>https://data-scribers.mikewk.com/post/randomize-by-or-within-cluster/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/randomize-by-or-within-cluster/</guid>
+      <guid>https://data-scribers.mikewk.com/post/randomize-by-or-within-cluster/</guid>
       <description>Under this design, 33 sites around the country will receive the training at some point, which is no small task (and fortunately as the statistician, this is a part of the study I have little&amp;hellip;</description>
     </item>
     
     <item>
       <title>How the odds ratio confounds</title>
-      <link>/post/how-the-odds-ratio-confounds/</link>
+      <link>https://data-scribers.mikewk.com/post/how-the-odds-ratio-confounds/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-the-odds-ratio-confounds/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-the-odds-ratio-confounds/</guid>
       <description>My aim here is to generate a few figures that might highlight some of these issues. With a constant odds ratio of 3, the risk ratios range from 1 to 3, and the risk differences range from almost 0 to just below 0.3. The odds ratio is not exactly informative with respect to these other two&amp;hellip;</description>
     </item>
     
     <item>
       <title>Re-referencing factor levels to estimate standard errors when there is interaction turns out to be a really simple solution</title>
-      <link>/post/rereferencing-factor-levels-to/</link>
+      <link>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/rereferencing-factor-levels-to/</guid>
+      <guid>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</guid>
       <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer. I was recently working on a paper investigating the relationship of emotion knowledge (EK) in very young kids with academic performance a year or two&amp;hellip;</description>
     </item>
     
     <item>
       <title>Late anniversary edition redux</title>
-      <link>/post/late-anniversary-edition-redux/</link>
+      <link>https://data-scribers.mikewk.com/post/late-anniversary-edition-redux/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/late-anniversary-edition-redux/</guid>
+      <guid>https://data-scribers.mikewk.com/post/late-anniversary-edition-redux/</guid>
       <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog. But since it was just about a year ago that I first wrote about this topic (and started the blog), I thought I’d post this now to mark the&amp;hellip;</description>
     </item>
     
     <item>
       <title>A little function to help generate ICCs in simple clustered data</title>
-      <link>/post/a-little-function-to-help-gene/</link>
+      <link>https://data-scribers.mikewk.com/post/a-little-function-to-help-gene/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-little-function-to-help-gene/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-little-function-to-help-gene/</guid>
       <description>In health services research, experiments are often conducted at the provider or site level rather than the patient level. However, we might still be interested in the outcome at the patient level. For example, we could be interested in understanding the effect of a training program for physicians on their&amp;hellip;</description>
     </item>
     
     <item>
       <title>Is non-inferiority on par with superiority?</title>
-      <link>/post/is-noninferiority-on-par-with-/</link>
+      <link>https://data-scribers.mikewk.com/post/is-noninferiority-on-par-with-/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/is-noninferiority-on-par-with-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/is-noninferiority-on-par-with-/</guid>
       <description>In the case of an inferiority trial, we add a little twist. Really, we subtract a little twist. In this case the hypotheses are: To calculate the Type 1 error rate, we generate data under the null hypothesis, or in this case on the rightmost boundary of the null hypothesis since it is a composite&amp;hellip;</description>
     </item>
     
     <item>
       <title>How efficient are multifactorial experiments?</title>
-      <link>/post/how-efficient-are-multifactori/</link>
+      <link>https://data-scribers.mikewk.com/post/how-efficient-are-multifactori/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-efficient-are-multifactori/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-efficient-are-multifactori/</guid>
       <description>In the second scenario, each successive exposure continues to add to the effect, but each additional intervention adds a little less. The first intervention adds 0.8, the second adds 0.6, the third adds 0.4, and the fourth adds 0.2. This is a form of interaction. This is what a plot of the means might look like for each of the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Testing multiple interventions in a single experiment</title>
-      <link>/post/testing-multiple-interventions/</link>
+      <link>https://data-scribers.mikewk.com/post/testing-multiple-interventions/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing-multiple-interventions/</guid>
+      <guid>https://data-scribers.mikewk.com/post/testing-multiple-interventions/</guid>
       <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure. As an example, if we want to expose some material to one of three temperature settings, the variable would take on the values “cold”, “moderate”, or&amp;hellip;</description>
     </item>
     
     <item>
       <title>Exploring the underlying theory of the chi-square test through simulation - part 2</title>
-      <link>/post/exploring-the-underlying-theor/</link>
+      <link>https://data-scribers.mikewk.com/post/exploring-the-underlying-theor/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/exploring-the-underlying-theor/</guid>
+      <guid>https://data-scribers.mikewk.com/post/exploring-the-underlying-theor/</guid>
       <description>To motivate some of the key issues, I talked a bit about recycling. I asked you to imagine a set of bins placed in different locations to collect glass bottles. I will stick with this scenario, but instead of just glass bottle bins, we now also have cardboard, plastic, and metal bins at each&amp;hellip;</description>
     </item>
     
     <item>
       <title>Exploring the underlying theory of the chi-square test through simulation - part 1</title>
-      <link>/post/exploring-the-underlying-theor/</link>
+      <link>https://data-scribers.mikewk.com/post/exploring-the-underlying-theor/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/exploring-the-underlying-theor/</guid>
+      <guid>https://data-scribers.mikewk.com/post/exploring-the-underlying-theor/</guid>
       <description>Kids today are so sophisticated (at least they are in New York City, where I live). While I didn’t hear about the chi-square test of independence until my first stint in graduate school, they’re already talking about it in high school. When my kids came home and started talking about it, I did what I usually do when they come home asking about a new statistical&amp;hellip;</description>
     </item>
     
     <item>
       <title>“I have to randomize by cluster. Is it OK if I only have 6 sites?&#39;</title>
-      <link>/post/i-have-to-randomize-by-cluster/</link>
+      <link>https://data-scribers.mikewk.com/post/i-have-to-randomize-by-cluster/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/i-have-to-randomize-by-cluster/</guid>
+      <guid>https://data-scribers.mikewk.com/post/i-have-to-randomize-by-cluster/</guid>
       <description>Here is the bottom line: if there are differences between clusters that relate to the outcome, there is a good chance that we might confuse those inherent differences for treatment effects. These inherent differences could be the characteristics of people in the different clusters; for example, a health care clinic might attract healthier people than&amp;hellip;</description>
     </item>
     
     <item>
       <title>Have you ever asked yourself, &#39;how should I approach the classic pre-post analysis?&#39;</title>
-      <link>/post/have-you-ever-asked-yourself-h/</link>
+      <link>https://data-scribers.mikewk.com/post/have-you-ever-asked-yourself-h/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/have-you-ever-asked-yourself-h/</guid>
+      <guid>https://data-scribers.mikewk.com/post/have-you-ever-asked-yourself-h/</guid>
       <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does.) The plots show the three different types of analysis - follow-up measurement alone, change, or follow-up controlling for baseline: I compare the different modeling approaches by using simulation to estimate statistical power for&amp;hellip;</description>
     </item>
     
     <item>
       <title>Importance sampling adds an interesting twist to Monte Carlo simulation</title>
-      <link>/post/importance-sampling-adds-an-in/</link>
+      <link>https://data-scribers.mikewk.com/post/importance-sampling-adds-an-in/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/importance-sampling-adds-an-in/</guid>
+      <guid>https://data-scribers.mikewk.com/post/importance-sampling-adds-an-in/</guid>
       <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics. MC methods are an essential tool to understand the behavior of statistical&amp;hellip;</description>
     </item>
     
     <item>
       <title>Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data</title>
-      <link>/post/simulating-a-costeffectiveness/</link>
+      <link>https://data-scribers.mikewk.com/post/simulating-a-costeffectiveness/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/simulating-a-costeffectiveness/</guid>
+      <guid>https://data-scribers.mikewk.com/post/simulating-a-costeffectiveness/</guid>
       <description>In the simulation scenario I’ve concocted, the goal is to increase the number of patients that come in for an important test. A group of public health professionals have developed a new outreach program that they think will be able to draw in more&amp;hellip;</description>
     </item>
     
     <item>
       <title>When there&#39;s a fork in the road, take it. Or, taking a look at marginal structural models.</title>
-      <link>/post/when-theres-a-fork-in-the-road/</link>
+      <link>https://data-scribers.mikewk.com/post/when-theres-a-fork-in-the-road/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/when-theres-a-fork-in-the-road/</guid>
+      <guid>https://data-scribers.mikewk.com/post/when-theres-a-fork-in-the-road/</guid>
       <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes. Maybe we could come up with an actual randomized experiment to mimic this, but it may be&amp;hellip;</description>
     </item>
     
     <item>
       <title>Characterizing the variance for clustered data that are Gamma distributed</title>
-      <link>/post/characterizing-the-variance-fo/</link>
+      <link>https://data-scribers.mikewk.com/post/characterizing-the-variance-fo/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/characterizing-the-variance-fo/</guid>
+      <guid>https://data-scribers.mikewk.com/post/characterizing-the-variance-fo/</guid>
       <description>Way back when I was studying algebra and wrestling with one word problem after another (I think now they call them story problems), I complained to my father. He laughed and told me to get used to it. “Life is one big word problem,” is how he put it. Well, maybe one could say any statistical analysis is really just some form of multilevel data analysis, whether we treat it that way or&amp;hellip;</description>
     </item>
     
     <item>
       <title>Visualizing how confounding biases estimates of population-wide (or marginal) average causal effects</title>
-      <link>/post/visualizing-how-confounding-bi/</link>
+      <link>https://data-scribers.mikewk.com/post/visualizing-how-confounding-bi/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/visualizing-how-confounding-bi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/visualizing-how-confounding-bi/</guid>
       <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions. My goal (starting here and continuing in upcoming posts) is to think a bit about how to characterize confounding in a way that makes it possible to literally see why improperly estimating intervention effects might lead to&amp;hellip;</description>
     </item>
     
     <item>
       <title>A simstudy update provides an excuse to generate and display Likert-type data</title>
-      <link>/post/a-simstudy-update-provides-an-/</link>
+      <link>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-simstudy-update-provides-an-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</guid>
       <description>The ordinal data is generated after a data set has been created with an adjustment variable. We have to provide the data.table name, the name of the adjustment variable, and the base probabilities. That’s really it. These plots show what data look like when the cumulative log odds are proportional as we move across different levels of a&amp;hellip;</description>
     </item>
     
     <item>
       <title>Thinking about different ways to analyze sub-groups in an RCT</title>
-      <link>/post/thinking-about-different-ways-/</link>
+      <link>https://data-scribers.mikewk.com/post/thinking-about-different-ways-/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/thinking-about-different-ways-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/thinking-about-different-ways-/</guid>
       <description>Here’s the scenario: we have an intervention that we think will improve outcomes for a particular population. Furthermore, there are two sub-groups (let’s say defined by which of two medical conditions each person in the population has) and we are interested in knowing if the intervention effect is different for each&amp;hellip;</description>
     </item>
     
     <item>
       <title>Who knew likelihood functions could be so pretty?</title>
-      <link>/post/who-knew-likelihood-functions-/</link>
+      <link>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/who-knew-likelihood-functions-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</guid>
       <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating&amp;hellip;</description>
     </item>
     
     <item>
       <title>Can we use B-splines to generate non-linear data?</title>
-      <link>/post/can-we-use-bsplines-to-generat/</link>
+      <link>https://data-scribers.mikewk.com/post/can-we-use-bsplines-to-generat/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/can-we-use-bsplines-to-generat/</guid>
+      <guid>https://data-scribers.mikewk.com/post/can-we-use-bsplines-to-generat/</guid>
       <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points. Of course, these functions can be added together in infinitely different ways using&amp;hellip;</description>
     </item>
     
     <item>
       <title>A minor update to simstudy provides an excuse to talk a bit about the negative binomial and Poisson distributions</title>
-      <link>/post/a-minor-update-to-simstudy-pro/</link>
+      <link>https://data-scribers.mikewk.com/post/a-minor-update-to-simstudy-pro/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-minor-update-to-simstudy-pro/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-minor-update-to-simstudy-pro/</guid>
       <description>As part of the release, I thought I’d explore the negative binomial just a bit, particularly as it relates to the Poisson distribution. The Poisson distribution is a discrete (integer) distribution of outcomes of non-negative values that is often used to describe count outcomes. It is characterized by a mean (or rate) and its variance equals its&amp;hellip;</description>
     </item>
     
     <item>
       <title>CACE closed</title>
-      <link>/post/cace-closed/</link>
+      <link>https://data-scribers.mikewk.com/post/cace-closed/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/cace-closed/</guid>
+      <guid>https://data-scribers.mikewk.com/post/cace-closed/</guid>
       <description>I am generating multiple data sets and estimating the causal effects for each using the EM and IV approaches. This gives better picture of the bias and variation under the two different scenarios (exclusion restriction &amp;amp; no exclusion restriction) and different methods (EM &amp;amp;&amp;hellip;</description>
     </item>
     
     <item>
       <title>A simstudy update provides an excuse to talk a little bit about latent class regression and the EM algorithm</title>
-      <link>/post/a-simstudy-update-provides-an-/</link>
+      <link>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-simstudy-update-provides-an-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</guid>
       <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps. In addition, I highlight two individuals and show the estimated probabilities of cluster&amp;hellip;</description>
     </item>
     
     <item>
       <title>Complier average causal effect? Exploring what we learn from an RCT with participants who don&#39;t do what they are told</title>
-      <link>/post/complier-average-causal-effect/</link>
+      <link>https://data-scribers.mikewk.com/post/complier-average-causal-effect/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/complier-average-causal-effect/</guid>
+      <guid>https://data-scribers.mikewk.com/post/complier-average-causal-effect/</guid>
       <description>Here’s the problem. In a randomized trial, investigators control the randomization process; they determine if an individual is assigned to the treatment group or control group (I am talking about randomized trials here, but many of these issues can apply in the context of observed or quasi-experimental settings, but require more data and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Further considerations of a hidden process underlying categorical responses</title>
-      <link>/post/further-considerations-of-a-hi/</link>
+      <link>https://data-scribers.mikewk.com/post/further-considerations-of-a-hi/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/further-considerations-of-a-hi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/further-considerations-of-a-hi/</guid>
       <description>Certainly, group membership is not necessarily intrinsically ordered. In a general categorical or multinomial outcome, a group does not necessarily have any quantitative relationship vis a vis the other groups. For example, if we were interested in primary type of meat consumption, individuals might be grouped into those favoring (1) chicken, (2) beef, (3) pork, or (4) no&amp;hellip;</description>
     </item>
     
     <item>
       <title>A hidden process behind binary or other categorical outcomes?</title>
-      <link>/post/a-hidden-process-behind-binary/</link>
+      <link>https://data-scribers.mikewk.com/post/a-hidden-process-behind-binary/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-hidden-process-behind-binary/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-hidden-process-behind-binary/</guid>
       <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption. After a fairly extensive pilot study, we had determined that participants can have quite a difficult time recalling precise quantities of meat consumption, so we were forced to move to a categorical&amp;hellip;</description>
     </item>
     
     <item>
       <title>Be careful not to control for a post-exposure covariate</title>
-      <link>/post/be-careful-not-to-control-for-/</link>
+      <link>https://data-scribers.mikewk.com/post/be-careful-not-to-control-for-/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/be-careful-not-to-control-for-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/be-careful-not-to-control-for-/</guid>
       <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined. Under this framework, we generate data where we can find out the “true” measure of causal&amp;hellip;</description>
     </item>
     
     <item>
       <title>Should we be concerned about incidence - prevalence bias?</title>
-      <link>/post/should-we-be-concerned-about-i/</link>
+      <link>https://data-scribers.mikewk.com/post/should-we-be-concerned-about-i/</link>
       <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/should-we-be-concerned-about-i/</guid>
+      <guid>https://data-scribers.mikewk.com/post/should-we-be-concerned-about-i/</guid>
       <description>What could explain this phenomenon? The title of this post provides a hint: cases earlier in a study are more likely to be prevalent ones (i.e. they have been sick for a while), whereas later in the study cases tend to be incident (i.e. they only recently become&amp;hellip;</description>
     </item>
     
     <item>
       <title>Using simulation for power analysis</title>
-      <link>/post/using-simulation-for-power-ana/</link>
+      <link>https://data-scribers.mikewk.com/post/using-simulation-for-power-ana/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-simulation-for-power-ana/</guid>
+      <guid>https://data-scribers.mikewk.com/post/using-simulation-for-power-ana/</guid>
       <description>Recently, I was helping an investigator plan a stepped wedge cluster randomized trial to study the effects of modifying a physician support system on patient-level diabetes management. While analytic approaches for power calculations do exist in the context of this complex study design, it seemed worth the effort to be explicit about all of the assumptions. So in this case I opted to use&amp;hellip;</description>
     </item>
     
     <item>
       <title>simstudy update</title>
-      <link>/post/simstudy-update/</link>
+      <link>https://data-scribers.mikewk.com/post/simstudy-update/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/simstudy-update/</guid>
+      <guid>https://data-scribers.mikewk.com/post/simstudy-update/</guid>
       <description>Here is the the estimated correlation (we would expect an estimate close to 0.3): Similarly, we can generate correlated binary data by specifying the probabilities: The gamma distribution requires two parameters - the mean and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Balancing on multiple factors when the sample is too small to stratify</title>
-      <link>/post/balancing-on-multiple-factors-/</link>
+      <link>https://data-scribers.mikewk.com/post/balancing-on-multiple-factors-/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/balancing-on-multiple-factors-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/balancing-on-multiple-factors-/</guid>
       <description>In this case, we have nine different combinations of the four characteristics, four of which include only a single school (rows 2, 4, 7, and 8). Stratification wouldn’t work necessarily work here if our goal was balance across all four characteristics. To start, I create all combinations of randomization schemes: Now we are ready to evaluate each of the 1,000&amp;hellip;</description>
     </item>
     
     <item>
       <title>Copulas and correlated data generation</title>
-      <link>/post/copulas-and-correlated-data-ge/</link>
+      <link>https://data-scribers.mikewk.com/post/copulas-and-correlated-data-ge/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/copulas-and-correlated-data-ge/</guid>
+      <guid>https://data-scribers.mikewk.com/post/copulas-and-correlated-data-ge/</guid>
       <description>Here are the results for an auto-regressive (AR-1) correlation structure. (I am omitting some of the code for brevity’s sake): Again - comparing the two correlation matrices - the original normal data, and the derivative Poisson data - suggests that this can work pretty&amp;hellip;</description>
     </item>
     
     <item>
       <title>When marginal and conditional logistic model estimates diverge</title>
-      <link>/post/when-marginal-and-conditional-/</link>
+      <link>https://data-scribers.mikewk.com/post/when-marginal-and-conditional-/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/when-marginal-and-conditional-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/when-marginal-and-conditional-/</guid>
       <description>My aim is to show this through a couple of data simulations that allow us to see this visually. Now let’s generate some data and look at it: Since we have repeated measurements for each cluster (the two potential outcomes), we can transform this into a “longitudinal” data set, though the periods are not time but different&amp;hellip;</description>
     </item>
     
     <item>
       <title>It can be easy to explore data generating mechanisms with the simstudy package</title>
-      <link>/post/it-can-be-easy-to-explore-data/</link>
+      <link>https://data-scribers.mikewk.com/post/it-can-be-easy-to-explore-data/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/it-can-be-easy-to-explore-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/it-can-be-easy-to-explore-data/</guid>
       <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am. And now that I am a so-called professional, I continue to use simulation to understand models, to do sample size estimates and power calculations, and of course to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Everyone knows that loops in R are to be avoided, but vectorization is not always possible</title>
-      <link>/post/everyone-knows-that-loops-in-r/</link>
+      <link>https://data-scribers.mikewk.com/post/everyone-knows-that-loops-in-r/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/everyone-knows-that-loops-in-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/everyone-knows-that-loops-in-r/</guid>
       <description>Again, the specifics of the simulation are not important here. What is important, is the notion that the problem requires looking through individual data sequentially, something R is generally not so good at when the sequences get particularly long, and they must be repeated a large number of times. As you can see, things got markedly&amp;hellip;</description>
     </item>
     

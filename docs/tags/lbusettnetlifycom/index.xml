@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lbusettnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/lbusettnetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/lbusettnetlifycom/</link>
     <description>Recent content in Lbusettnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/lbusettnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/lbusettnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A new RStudio addin to facilitate inserting tables in Rmarkdown documents</title>
-      <link>/post/a-new-rstudio-addin-to-facilit/</link>
+      <link>https://data-scribers.mikewk.com/post/a-new-rstudio-addin-to-facilit/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-new-rstudio-addin-to-facilit/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-new-rstudio-addin-to-facilit/</guid>
       <description>After struggling a bit due to my rather nonexistent shiny skills, in the end I managed to obtain a “basic but useful” (IMO) addin. Let’s see how it works: I hope someone else will find this&amp;hellip;</description>
     </item>
     
     <item>
       <title>Automatically importing publications from bibtex to a hugo-academic blog</title>
-      <link>/post/automatically-importing-public/</link>
+      <link>https://data-scribers.mikewk.com/post/automatically-importing-public/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/automatically-importing-public/</guid>
+      <guid>https://data-scribers.mikewk.com/post/automatically-importing-public/</guid>
       <description>All is left is to run the script: Running the script will give you files like this one: , where I tweaked a bit the hugo-academic format to include bibliographic info such as volume, number, pages and doi link. The files can then be further customized to include, for example, links to pdfs, images,&amp;hellip;</description>
     </item>
     
     <item>
       <title>Speeding up spatial analyses by integrating `sf` and `data.table`</title>
-      <link>/post/speeding-up-spatial-analyses-b/</link>
+      <link>https://data-scribers.mikewk.com/post/speeding-up-spatial-analyses-b/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/speeding-up-spatial-analyses-b/</guid>
+      <guid>https://data-scribers.mikewk.com/post/speeding-up-spatial-analyses-b/</guid>
       <description>However, this starts to have problems over really large datasets, because the total number of comparisons to be done still rapidly increase besides the use of spatial&amp;hellip;</description>
     </item>
     
     <item>
       <title>The new MODIStsp website (based on pkgdown) is online !</title>
-      <link>/post/the-new-modistsp-website-based/</link>
+      <link>https://data-scribers.mikewk.com/post/the-new-modistsp-website-based/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-new-modistsp-website-based/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-new-modistsp-website-based/</guid>
       <description>We hope that the revised website will allow to navigate MODIStsp-related material much more easily than either github or the standard CRAN documentation, and will therefore help users in better and more easily exploiting MODIStsp&amp;hellip;</description>
     </item>
     
     <item>
       <title>MODIStsp (v 1.3.2) is on CRAN !</title>
-      <link>/post/modistsp-v-132-is-on-cran-/</link>
+      <link>https://data-scribers.mikewk.com/post/modistsp-v-132-is-on-cran-/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/modistsp-v-132-is-on-cran-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/modistsp-v-132-is-on-cran-/</guid>
       <description>In this case, for example, Land Surface Temperature values in the output rasters will be in °K, and spectral indices will be floating point values (e.g., NDVI will be between -1 and 1 instead than between -10000 and&amp;hellip;</description>
     </item>
     

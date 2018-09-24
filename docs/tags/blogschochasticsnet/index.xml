@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogschochasticsnet on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/blogschochasticsnet/</link>
+    <link>https://data-scribers.mikewk.com/tags/blogschochasticsnet/</link>
     <description>Recent content in Blogschochasticsnet on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blogschochasticsnet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogschochasticsnet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stress based graph layouts</title>
-      <link>/post/stress-based-graph-layouts/</link>
+      <link>https://data-scribers.mikewk.com/post/stress-based-graph-layouts/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/stress-based-graph-layouts/</guid>
+      <guid>https://data-scribers.mikewk.com/post/stress-based-graph-layouts/</guid>
       <description>I academically grew up among graph drawers, that is, computer scientists and mathematicians interested in deriving two-dimensional depictions of graphs. One may despicably call it pixel science, yet a lot of hard theoretical work is put into producing pretty graph layouts. Although I am not at all an expert in this field, I have learned a thing or two about that&amp;hellip;</description>
     </item>
     
     <item>
       <title>Fast Fiedler Vector Computation</title>
-      <link>/post/fast-fiedler-vector-computatio/</link>
+      <link>https://data-scribers.mikewk.com/post/fast-fiedler-vector-computatio/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/fast-fiedler-vector-computatio/</guid>
+      <guid>https://data-scribers.mikewk.com/post/fast-fiedler-vector-computatio/</guid>
       <description>While this is easy to implement, it comes with the huge drawback of computing many unnecessary eigenvectors. We just need one, but we calculate all 100 in the example. The bigger the graph, the bigger the overheat from computing all eigenvectors. It would thus be useful to have a function that computes only a small number of eigenvectors, which should speed up the calculations&amp;hellip;</description>
     </item>
     
     <item>
       <title>Analyzing NBA Player Data III</title>
-      <link>/post/analyzing-nba-player-data-iii/</link>
+      <link>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-iii/</link>
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/analyzing-nba-player-data-iii/</guid>
+      <guid>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-iii/</guid>
       <description>I decided to map the 70 stats into a 10 dimensional space. This “new” space supposedly preserves the intrinsic distance of the “old” space, but reduces the noise of the original data so that the differences and similarities of players become more evident. Now that we have embedded the players in a lower dimensional space, we calculate the distance among them based on this new&amp;hellip;</description>
     </item>
     
     <item>
       <title>Analyzing NBA Player Data II</title>
-      <link>/post/analyzing-nba-player-data-ii/</link>
+      <link>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-ii/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/analyzing-nba-player-data-ii/</guid>
+      <guid>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-ii/</guid>
       <description>The next step will be to reduce the noise of the data by considering only players that played more than 500 minutes in a season. This leaves us with 705 rows to analyze. To obtain our very own set of new positions, we will go through the following steps: Now we need to decide on how many components to keep. This is a very subjective matter and there does not seem to be a golden standard&amp;hellip;</description>
     </item>
     
     <item>
       <title>Analyzing NBA Player Data I</title>
-      <link>/post/analyzing-nba-player-data-i/</link>
+      <link>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-i/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/analyzing-nba-player-data-i/</guid>
+      <guid>https://data-scribers.mikewk.com/post/analyzing-nba-player-data-i/</guid>
       <description>As a football (soccer) data enthusiast, I have always been jealous of the amount of available data for American sports. While much of the interesting football data is proprietary, you can can get virtually anything of interest for the NBA, MLB, NFL or NHL. In this section, we will develop a function which automatically scrapes all available player stats for a season and puts them in a nice&amp;hellip;</description>
     </item>
     
     <item>
       <title>Using UMAP in R with rPython</title>
-      <link>/post/using-umap-in-r-with-rpython/</link>
+      <link>https://data-scribers.mikewk.com/post/using-umap-in-r-with-rpython/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-umap-in-r-with-rpython/</guid>
+      <guid>https://data-scribers.mikewk.com/post/using-umap-in-r-with-rpython/</guid>
       <description>UMAP is constructed from a theoretical framework based in Riemannian geometry and algebraic topology. The result is a practical scalable algorithm that applies to real world data. The UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sample Entropy with Rcpp</title>
-      <link>/post/sample-entropy-with-rcpp/</link>
+      <link>https://data-scribers.mikewk.com/post/sample-entropy-with-rcpp/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/sample-entropy-with-rcpp/</guid>
+      <guid>https://data-scribers.mikewk.com/post/sample-entropy-with-rcpp/</guid>
       <description>Simple. Problem is, I need to calculate the sample entropy of 150,000 time series. Can the function handle that in reasonable time? This translates to several hours for 150,000 time series, which is kind of not ok. I would prefer it a little faster. Perfect. Now let’s check if we gained some speed up. The speed up is actually ridiculous. Remember that the pracma code ran 40&amp;hellip;</description>
     </item>
     
     <item>
       <title>SOMs and ggplot</title>
-      <link>/post/soms-and-ggplot/</link>
+      <link>https://data-scribers.mikewk.com/post/soms-and-ggplot/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/soms-and-ggplot/</guid>
+      <guid>https://data-scribers.mikewk.com/post/soms-and-ggplot/</guid>
       <description>We will, however, only use a random sample of the 75,000 players, for computational convenience. We start by computing the SOM for the random sample. There we go! Now we can continue putting the players in the right node. I think you can see more easily how homogeneous the grid nodes are with this plot. This very much the same code as used in the package. Below is the standard&amp;hellip;</description>
     </item>
     
     <item>
       <title>Traveling Beerdrinker Problem</title>
-      <link>/post/traveling-beerdrinker-problem/</link>
+      <link>https://data-scribers.mikewk.com/post/traveling-beerdrinker-problem/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/traveling-beerdrinker-problem/</guid>
+      <guid>https://data-scribers.mikewk.com/post/traveling-beerdrinker-problem/</guid>
       <description>Whenever I participate in a Science Slam, I try to work in an analysis of something typical for the respective city. My next gig will be in Munich, so there are two natural options: beer or football. In the end I choose both, but here I will focus on the former. In the next section, I briefly explain what we are going to do with the&amp;hellip;</description>
     </item>
     
     <item>
       <title>A wild R package appears! Pokemon/Gameboy inspired plots in R</title>
-      <link>/post/a-wild-r-package-appears-pokem/</link>
+      <link>https://data-scribers.mikewk.com/post/a-wild-r-package-appears-pokem/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-wild-r-package-appears-pokem/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-wild-r-package-appears-pokem/</guid>
       <description>The package is only available via github so far. The Package comes with a dataset on 801 pokemon with a rich set of attributes. The package includes three main themes for ggplot. If you want to get nostalgic. If you want to get nostalgic, but not too much, use the Gameboy Advanced theme. Let’s look what all time favorite Pikachu looks&amp;hellip;</description>
     </item>
     

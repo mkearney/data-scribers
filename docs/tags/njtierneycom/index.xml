@@ -2,273 +2,273 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Njtierneycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/njtierneycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/njtierneycom/</link>
     <description>Recent content in Njtierneycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/njtierneycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/njtierneycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Paper Submission</title>
-      <link>/post/new-paper-submission/</link>
+      <link>https://data-scribers.mikewk.com/post/new-paper-submission/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-paper-submission/</guid>
+      <guid>https://data-scribers.mikewk.com/post/new-paper-submission/</guid>
       <description>This is the first full length paper I have written about software, and I am really grateful to have had the guidance of my co-author Di Cook - I&amp;rsquo;m really proud of this work. I&amp;rsquo;d also like to share the acknowledgements section of the&amp;hellip;</description>
     </item>
     
     <item>
       <title>I graduated!</title>
-      <link>/post/i-graduated/</link>
+      <link>https://data-scribers.mikewk.com/post/i-graduated/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/i-graduated/</guid>
+      <guid>https://data-scribers.mikewk.com/post/i-graduated/</guid>
       <description>Some exciting news: I finally walked across the floor and graduated from my PhD in Statistical Sciences from QUT! The graduations was live streamed onto the TVs in our department at QUT - here&amp;rsquo;s a photo of me at the exact moment my brother yelled out &amp;ldquo;YEEAAAAHHHH NIIIICCCKK YYEEEAAAAHH&amp;rdquo; in the acoustically well designed Concert Hall at&amp;hellip;</description>
     </item>
     
     <item>
       <title>A note on ggplot code style</title>
-      <link>/post/a-note-on-ggplot-code-style/</link>
+      <link>https://data-scribers.mikewk.com/post/a-note-on-ggplot-code-style/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-note-on-ggplot-code-style/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-note-on-ggplot-code-style/</guid>
       <description>I&amp;rsquo;ve got some opinions about how to write ggplot code. So, if there are more than two sections in a function, these should be separated on a&amp;hellip;</description>
     </item>
     
     <item>
       <title>Naming Things</title>
-      <link>/post/naming-things/</link>
+      <link>https://data-scribers.mikewk.com/post/naming-things/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/naming-things/</guid>
+      <guid>https://data-scribers.mikewk.com/post/naming-things/</guid>
       <description>The oldSchool namer generally mixes case in an R package, often capitalising the &amp;ldquo;R&amp;rdquo;, or going all in on ALL CAPS. Examples: Although personally I wouldn&amp;rsquo;t use this style as it can make it difficult to type, they have a certain charm, and are easy to google - provided you spell it&amp;hellip;</description>
     </item>
     
     <item>
       <title>What I wish I&#39;d known</title>
-      <link>/post/what-i-wish-id-known/</link>
+      <link>https://data-scribers.mikewk.com/post/what-i-wish-id-known/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/what-i-wish-id-known/</guid>
+      <guid>https://data-scribers.mikewk.com/post/what-i-wish-id-known/</guid>
       <description>Something I never tire of hearing is the story of how someone arrived at where they are&amp;hellip;</description>
     </item>
     
     <item>
       <title>naniar 0.3.1</title>
-      <link>/post/naniar-031/</link>
+      <link>https://data-scribers.mikewk.com/post/naniar-031/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/naniar-031/</guid>
+      <guid>https://data-scribers.mikewk.com/post/naniar-031/</guid>
       <description>There were a few things that changed in this release, some of them big, some small, and some technical, let&amp;rsquo;s break them down&amp;hellip;</description>
     </item>
     
     <item>
       <title>Acknowledgements</title>
-      <link>/post/acknowledgements/</link>
+      <link>https://data-scribers.mikewk.com/post/acknowledgements/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/acknowledgements/</guid>
+      <guid>https://data-scribers.mikewk.com/post/acknowledgements/</guid>
       <description>Last week (specifically, the 1st Feb) I got &amp;ldquo;the letter&amp;rdquo; from QUT that basically says &amp;ldquo;You, Nicholas Tierney, are a Dr.&amp;rdquo;. Well, specifically, it says: The Queensland University of Technology’s Registrar has executively approved your degree and you are now entitled to use the title of&amp;hellip;</description>
     </item>
     
     <item>
       <title>Tidyverse Case Study</title>
-      <link>/post/tidyverse-case-study/</link>
+      <link>https://data-scribers.mikewk.com/post/tidyverse-case-study/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/tidyverse-case-study/</guid>
+      <guid>https://data-scribers.mikewk.com/post/tidyverse-case-study/</guid>
       <description>&amp;hellip; data sets regarding songs on the Billboard Hot 100 list from 1960 to 2016, including ranks for the given year, musical features, and lyrics. So, this blogpost walks through how you might start to unpack the data, clean it, and draw some interesting conclusions. I also wanted to avoid the &amp;ldquo;draw the rest of the fucking owl&amp;rdquo;&amp;hellip;</description>
     </item>
     
     <item>
       <title>Bringing Together People and Projects at ozunconf17</title>
-      <link>/post/bringing-together-people-and-p/</link>
+      <link>https://data-scribers.mikewk.com/post/bringing-together-people-and-p/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/bringing-together-people-and-p/</guid>
+      <guid>https://data-scribers.mikewk.com/post/bringing-together-people-and-p/</guid>
       <description>What we created was a bunch of awesome individuals from 12 different countries. Before the ozunconf we discussed and dreamt up projects to work on for a few days, then met up and brought a few of them into reality. Before the ozunconf, we discussed various ideas for projects in GitHub&amp;hellip;</description>
     </item>
     
     <item>
       <title>So, you’ve decided to change your r package name</title>
-      <link>/post/so-youve-decided-to-change-you/</link>
+      <link>https://data-scribers.mikewk.com/post/so-youve-decided-to-change-you/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/so-youve-decided-to-change-you/</guid>
+      <guid>https://data-scribers.mikewk.com/post/so-youve-decided-to-change-you/</guid>
       <description>I&amp;rsquo;ve had to change my R package names a few times. Every time I&amp;rsquo;ve had to do this, there were a few things I had to remember to do. Here&amp;rsquo;s a blog post that describes how to do that. When you change your package name, here is a list of things you need to do. And that&amp;rsquo;s basically it! Hooray, now to handle the git&amp;hellip;</description>
     </item>
     
     <item>
       <title>A guide to awesome slides</title>
-      <link>/post/a-guide-to-awesome-slides/</link>
+      <link>https://data-scribers.mikewk.com/post/a-guide-to-awesome-slides/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-guide-to-awesome-slides/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-guide-to-awesome-slides/</guid>
       <description>I think that good design of slides is super important, and this slidedeck does a really great job of discussing good principles in a digestible manner, stating that the goal of a presentation is: To allow your audience to absort your&amp;hellip;</description>
     </item>
     
     <item>
       <title>Magic reprex</title>
-      <link>/post/magic-reprex/</link>
+      <link>https://data-scribers.mikewk.com/post/magic-reprex/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/magic-reprex/</guid>
+      <guid>https://data-scribers.mikewk.com/post/magic-reprex/</guid>
       <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Simple Guide to S3 Methods</title>
-      <link>/post/a-simple-guide-to-s3-methods/</link>
+      <link>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-simple-guide-to-s3-methods/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</guid>
       <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Simple Guide to S3 Methods</title>
-      <link>/post/simple-guide-to-s3-methods/</link>
+      <link>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/simple-guide-to-s3-methods/</guid>
+      <guid>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</guid>
       <description>S3 is informal and ad hoc, but it has a certain elegance in its minimalism: you can’t take away any part of it and still have a useful [Object Oriented] system. I&amp;rsquo;m excited to see feedback from the R Journal, hopefully I didn&amp;rsquo;t miss something terribly important about S3&amp;hellip;</description>
     </item>
     
     <item>
       <title>Science Meets Parliament</title>
-      <link>/post/science-meets-parliament/</link>
+      <link>https://data-scribers.mikewk.com/post/science-meets-parliament/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/science-meets-parliament/</guid>
+      <guid>https://data-scribers.mikewk.com/post/science-meets-parliament/</guid>
       <description>In February I was lucky to receive funding from SSA to attend the two-day event Science Meets Parliament, held in Canberra. Science Meets parliament brings together 200 scientists to learn about research communication, the role of research in policy, and how to engage a&amp;hellip;</description>
     </item>
     
     <item>
       <title>Australian rOpenSci Unconference</title>
-      <link>/post/australian-ropensci-unconferen/</link>
+      <link>https://data-scribers.mikewk.com/post/australian-ropensci-unconferen/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/australian-ropensci-unconferen/</guid>
+      <guid>https://data-scribers.mikewk.com/post/australian-ropensci-unconferen/</guid>
       <description>The rOpenSci Unconferene is coming to Australia and we are excited!! I was completely and unceremoniously thrown into the deep end when I first started learning R. Contrary to what I initially thought possible, I am now irreversibly converted to the ideology of open&amp;hellip;</description>
     </item>
     
     <item>
       <title>WOMBAT 2016 Wrap Up</title>
-      <link>/post/wombat-2016-wrap-up/</link>
+      <link>https://data-scribers.mikewk.com/post/wombat-2016-wrap-up/</link>
       <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/wombat-2016-wrap-up/</guid>
+      <guid>https://data-scribers.mikewk.com/post/wombat-2016-wrap-up/</guid>
       <description>It was my first time at the Melbourne Zoo, and my first time having a conference in a Zoo. It was a pretty surreal experience briskly walking to the conference room while trying to navigate a zoo, passing monkeys, macaws, and&amp;hellip;</description>
     </item>
     
     <item>
       <title>ggplot your missing data</title>
-      <link>/post/ggplot-your-missing-data/</link>
+      <link>https://data-scribers.mikewk.com/post/ggplot-your-missing-data/</link>
       <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/ggplot-your-missing-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/ggplot-your-missing-data/</guid>
       <description>This is what the Amelia package produces by default: And let&amp;rsquo;s explore the missing data using my own ggplot function: Let&amp;rsquo;s test it out It&amp;rsquo;s much cleaner, and easier to interpret. As another aside - if anyone knows how I can improve the image quality of the plots, I&amp;rsquo;m all ears. I&amp;rsquo;ve tried changing the dpi, changing it to pdf, png, svg, and even svglite but they all haven&amp;rsquo;t really solved the&amp;hellip;</description>
     </item>
     
     <item>
       <title>How I built my website</title>
-      <link>/post/how-i-built-my-website/</link>
+      <link>https://data-scribers.mikewk.com/post/how-i-built-my-website/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-i-built-my-website/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-i-built-my-website/</guid>
       <description>I&amp;rsquo;ve recently changed my website from Wordpress to Jekyll. In this post I try and succinctly describe how it happened. Basically, for the following reasons: &amp;hellip;But reading it, Yihui says: It is really easy. And that&amp;rsquo;s about it. I had a look around at a bunch of different blogs about how to build stuff, and added a few things. &amp;ldquo;By setting up the code this way, I can enable commenting on a page-by-page&amp;hellip;</description>
     </item>
     
     <item>
       <title>Using table the dplyr way</title>
-      <link>/post/using-table-the-dplyr-way/</link>
+      <link>https://data-scribers.mikewk.com/post/using-table-the-dplyr-way/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-table-the-dplyr-way/</guid>
+      <guid>https://data-scribers.mikewk.com/post/using-table-the-dplyr-way/</guid>
       <description>So there happen to be 50 in each of the species. This gives us a neat dataframe, where we get Species as a column, and the number of observations in each Species. So I could now do&amp;hellip;</description>
     </item>
     
     <item>
       <title>R Package neato</title>
-      <link>/post/r-package-neato/</link>
+      <link>https://data-scribers.mikewk.com/post/r-package-neato/</link>
       <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/r-package-neato/</guid>
+      <guid>https://data-scribers.mikewk.com/post/r-package-neato/</guid>
       <description>My workflow in R now is to make a function after I copy and paste some code more than once. Sometimes I find myself using these functions more than once, across different projects. So I decided to make an R package with a few of these functions in it. I call it &amp;ldquo;neato&amp;rdquo;, in the vain hope that one day someone will find one of these functions and say: &amp;ldquo;neato!&amp;rdquo;, because hey, it&amp;rsquo;s pretty&amp;hellip;</description>
     </item>
     
     <item>
       <title>Working Smoothly(er) from RMarkdown to Word.</title>
-      <link>/post/working-smoothlyer-from-rmarkd/</link>
+      <link>https://data-scribers.mikewk.com/post/working-smoothlyer-from-rmarkd/</link>
       <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/working-smoothlyer-from-rmarkd/</guid>
+      <guid>https://data-scribers.mikewk.com/post/working-smoothlyer-from-rmarkd/</guid>
       <description>I&amp;rsquo;m a pretty huge fan of RMarkdown, as it is a great way for me to write my code and my text together. It seems really a rather a natural thing to do. You write about your analyses, and the code is there. You update some function or some data, and your figures and tables update with it. Method Acting is like peeing whilst wearing brown corduroy&amp;hellip;</description>
     </item>
     
     <item>
       <title>Fix for gbm.plot</title>
-      <link>/post/fix-for-gbmplot/</link>
+      <link>https://data-scribers.mikewk.com/post/fix-for-gbmplot/</link>
       <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/fix-for-gbmplot/</guid>
+      <guid>https://data-scribers.mikewk.com/post/fix-for-gbmplot/</guid>
       <description>Hopefully this will prove helpful to&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Grammar of Models?</title>
-      <link>/post/a-grammar-of-models/</link>
+      <link>https://data-scribers.mikewk.com/post/a-grammar-of-models/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-grammar-of-models/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-grammar-of-models/</guid>
       <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
     </item>
     
     <item>
       <title>Statistics for Journalists</title>
-      <link>/post/statistics-for-journalists/</link>
+      <link>https://data-scribers.mikewk.com/post/statistics-for-journalists/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/statistics-for-journalists/</guid>
+      <guid>https://data-scribers.mikewk.com/post/statistics-for-journalists/</guid>
       <description>In November 2013 I had the opportunity to work with the Australian Science Media Centre (AusSMC) and produce a talk explaining numbers and statistics. The deal was that it was 11 concepts on numbers and stats in 20 minutes. The concepts being: This was my first time ever really seriously teaching anything to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Statistics Can Do Anything?</title>
-      <link>/post/statistics-can-do-anything/</link>
+      <link>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/statistics-can-do-anything/</guid>
+      <guid>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</guid>
       <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
     </item>
     
     <item>
       <title>Monte Carlo Approximiation</title>
-      <link>/post/monte-carlo-approximiation/</link>
+      <link>https://data-scribers.mikewk.com/post/monte-carlo-approximiation/</link>
       <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/monte-carlo-approximiation/</guid>
+      <guid>https://data-scribers.mikewk.com/post/monte-carlo-approximiation/</guid>
       <description>There are a lot of explanations of Monte Carlo approximation out there. Here is one that worked for me. A famous mathematician named Stan Ulam liked solitaire. He wanted to work out the probability of getting a perfect solitaire hand. Being a mathematician, he also wanted to work this out analytically. The more trial simulations (iterations) you run, the better the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Define: Analytically</title>
-      <link>/post/define-analytically/</link>
+      <link>https://data-scribers.mikewk.com/post/define-analytically/</link>
       <pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/define-analytically/</guid>
+      <guid>https://data-scribers.mikewk.com/post/define-analytically/</guid>
       <description>Wikipedia says: &amp;ldquo;Analytic Solution&amp;rdquo; I find that such a definition relies on the reader knowing what the words &amp;lsquo;closed form&amp;rsquo;, &amp;lsquo;known functions&amp;rsquo; and &amp;lsquo;constants&amp;rsquo; are. So here&amp;rsquo;s my definition: &amp;ldquo;Analytic Solution&amp;rdquo; A solution where everything needed to solve a particular question is presented clearly and logically, with all assumptions defined. Waddaya&amp;hellip;</description>
     </item>
     
     <item>
       <title>Humanity</title>
-      <link>/post/humanity/</link>
+      <link>https://data-scribers.mikewk.com/post/humanity/</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/post/humanity/</guid>
+      <guid>https://data-scribers.mikewk.com/post/humanity/</guid>
       <description>It seems a strange thought at first. How do the humanities help you make money? You know, getting you a job. We&amp;rsquo;ve all got that annoying uncle or in-law or friend who plays devil&amp;rsquo;s advocate (or douchebag) when you reveal that you are studying French and&amp;hellip;</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathlacomerbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/mathlacomerbindio/</link>
+    <link>https://data-scribers.mikewk.com/tags/mathlacomerbindio/</link>
     <description>Recent content in Mathlacomerbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Readiness or Between-player normalisation</title>
-      <link>/post/readiness-or-betweenplayer-nor/</link>
+      <link>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/readiness-or-betweenplayer-nor/</guid>
+      <guid>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</guid>
       <description>We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database. Now we can see how my database is&amp;hellip;</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>/post/welcome/</link>
+      <link>https://data-scribers.mikewk.com/post/welcome/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/welcome/</guid>
+      <guid>https://data-scribers.mikewk.com/post/welcome/</guid>
       <description>I’m Mathieu Lacome, a sports scientist working in elite football with over 10 years of experience in team-sport. A part of my job is to think about how we can improve the way we are collecting data, what we can do with it and how to report findings to the coaching staff or&amp;hellip;</description>
     </item>
     

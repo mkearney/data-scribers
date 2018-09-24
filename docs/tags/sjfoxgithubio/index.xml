@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sjfoxgithubio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/sjfoxgithubio/</link>
+    <link>https://data-scribers.mikewk.com/tags/sjfoxgithubio/</link>
     <description>Recent content in Sjfoxgithubio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/sjfoxgithubio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/sjfoxgithubio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualizing flight data with ggplot2</title>
-      <link>/post/visualizing-flight-data-with-g/</link>
+      <link>https://data-scribers.mikewk.com/post/visualizing-flight-data-with-g/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/visualizing-flight-data-with-g/</guid>
+      <guid>https://data-scribers.mikewk.com/post/visualizing-flight-data-with-g/</guid>
       <description>This next part is the hard part. We need to combine and clean the two datasets. To begin we do two joins, because we need the lat and long data for both the source and the destination airports. After that I create a new column that captures the source and destination airports, remove duplicates, and create a variable to loosely capture the flights to and from Europe (You’ll see why at the&amp;hellip;</description>
     </item>
     
     <item>
       <title>A pesky piping bug with RStudio and the tidyverse</title>
-      <link>/post/a-pesky-piping-bug-with-rstudi/</link>
+      <link>https://data-scribers.mikewk.com/post/a-pesky-piping-bug-with-rstudi/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-pesky-piping-bug-with-rstudi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-pesky-piping-bug-with-rstudi/</guid>
       <description>You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential. However, it took me a while to debug the error on a somewhat complicated 15 line pipe with ggplot, because of the inconsistency in the error R spat out as well as the innocuousness of the causitive&amp;hellip;</description>
     </item>
     
     <item>
       <title>You should make an R package for your paper</title>
-      <link>/post/you-should-make-an-r-package-f/</link>
+      <link>https://data-scribers.mikewk.com/post/you-should-make-an-r-package-f/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/you-should-make-an-r-package-f/</guid>
+      <guid>https://data-scribers.mikewk.com/post/you-should-make-an-r-package-f/</guid>
       <description>R packages are made up of three main things: (1) data, (2) functions, and (3) documentation. Combining them into a single, self-contained bundle, means that all of the computational work from a project can be found in one place, downloaded and installed simply, and then run with a freely availible software anyone can&amp;hellip;</description>
     </item>
     
     <item>
       <title>Simple trick to speed up ODE integration in R</title>
-      <link>/post/simple-trick-to-speed-up-ode-i/</link>
+      <link>https://data-scribers.mikewk.com/post/simple-trick-to-speed-up-ode-i/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/simple-trick-to-speed-up-ode-i/</guid>
+      <guid>https://data-scribers.mikewk.com/post/simple-trick-to-speed-up-ode-i/</guid>
       <description>Let’s also confirm that both models give the same&amp;hellip;</description>
     </item>
     
     <item>
       <title>Bootstrapping Time Series Data</title>
-      <link>/post/bootstrapping-time-series-data/</link>
+      <link>https://data-scribers.mikewk.com/post/bootstrapping-time-series-data/</link>
       <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/bootstrapping-time-series-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/bootstrapping-time-series-data/</guid>
       <description>This demonstration is part of a requirement for my statistical consulting class at UT Austin. I will go through the basics of bootstrapping time series data using three different resampling methods. Always a good idea to see what your data look like first: For model-based resampling, the trick is to use your model to generate new time series, and adding noise with the resampled residuals from the&amp;hellip;</description>
     </item>
     

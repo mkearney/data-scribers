@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emiltbjerglunddk on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/emiltbjerglunddk/</link>
+    <link>https://data-scribers.mikewk.com/tags/emiltbjerglunddk/</link>
     <description>Recent content in Emiltbjerglunddk on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/emiltbjerglunddk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/emiltbjerglunddk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hvordan klarer de politiske partier sig på Facebook?</title>
-      <link>/post/hvordan-klarer-de-politiske-pa/</link>
+      <link>https://data-scribers.mikewk.com/post/hvordan-klarer-de-politiske-pa/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/hvordan-klarer-de-politiske-pa/</guid>
+      <guid>https://data-scribers.mikewk.com/post/hvordan-klarer-de-politiske-pa/</guid>
       <description>På de respektive facebook-sider kan vi naturligvis også finde antallet af følgere - dem gemmer vi også lige, da vi skal bruge dem senere. Vi har altså en del data på hvert post - hvornår den er afsendt, hvilken type post (video, tekst, billede) samt hvor mange likes, kommentarer og delinger der&amp;hellip;</description>
     </item>
     
     <item>
       <title>Combining R and Python for data analysis</title>
-      <link>/post/combining-r-and-python-for-dat/</link>
+      <link>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/combining-r-and-python-for-dat/</guid>
+      <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
       <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy. For this reason my workflow has been to interactively explore and develop the Python code in a Jupyter Notebook, and then copy the final script to a Python chunk in an R Markdown&amp;hellip;</description>
     </item>
     
     <item>
       <title>Open Science tools for our research group</title>
-      <link>/post/open-science-tools-for-our-res/</link>
+      <link>https://data-scribers.mikewk.com/post/open-science-tools-for-our-res/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/open-science-tools-for-our-res/</guid>
+      <guid>https://data-scribers.mikewk.com/post/open-science-tools-for-our-res/</guid>
       <description>I have been considering how to apply this thinking to our research. I am confident that it could be made more efficient and well-documented if R was adopted as a general tool for data&amp;hellip;</description>
     </item>
     

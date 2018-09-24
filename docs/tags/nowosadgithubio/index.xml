@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nowosadgithubio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/nowosadgithubio/</link>
+    <link>https://data-scribers.mikewk.com/tags/nowosadgithubio/</link>
     <description>Recent content in Nowosadgithubio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/nowosadgithubio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/nowosadgithubio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sabre</title>
-      <link>/post/sabre/</link>
+      <link>https://data-scribers.mikewk.com/post/sabre/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/sabre/</guid>
+      <guid>https://data-scribers.mikewk.com/post/sabre/</guid>
       <description>Creating or determination of regions is a useful way to describe the world. Regionalization does not only allow for a quicker understanding of spatial patterns but also can influence how regions are managed. Regions are created in various disciplines. We can delineate regions based on a single property (e.g. landform regions or climate regions) or several factors (e.g&amp;hellip;</description>
     </item>
     
     <item>
       <title>Moving beyond pattern-based analysis</title>
-      <link>/post/moving-beyond-patternbased-ana/</link>
+      <link>https://data-scribers.mikewk.com/post/moving-beyond-patternbased-ana/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/moving-beyond-patternbased-ana/</guid>
+      <guid>https://data-scribers.mikewk.com/post/moving-beyond-patternbased-ana/</guid>
       <description>GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps. However, that is not the end of GeoPAT 2 capabilities - it is also possible to extract spatial signature or calculate distance matrix and use these outputs in further analysis outside of GeoPAT&amp;hellip;</description>
     </item>
     
     <item>
       <title>Pattern-based regionalization</title>
-      <link>/post/patternbased-regionalization/</link>
+      <link>https://data-scribers.mikewk.com/post/patternbased-regionalization/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/patternbased-regionalization/</guid>
+      <guid>https://data-scribers.mikewk.com/post/patternbased-regionalization/</guid>
       <description>Spatial patterns are an underexplored venue of the Earth and ecological sciences. They could be both an effect of some processes and at the same time affect other ones. For example, a land cover pattern (spatial arrangement of land cover categories) could exist because of an impact of a terrain topology, soils, climate, or human&amp;hellip;</description>
     </item>
     
     <item>
       <title>Quantifying temporal change of landscape pattern</title>
-      <link>/post/quantifying-temporal-change-of/</link>
+      <link>https://data-scribers.mikewk.com/post/quantifying-temporal-change-of/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/quantifying-temporal-change-of/</guid>
+      <guid>https://data-scribers.mikewk.com/post/quantifying-temporal-change-of/</guid>
       <description>Imagine you have two values expressing the world population in 1950 (2.5 billion people) and 2012 (7.1 billion people). How would you compare the change in the world population? The easiest (and correct) approach is just to subtract the past value from the more recent one: We can conclude that the world population between 1950 and 2015 increased by 4.6 billion&amp;hellip;</description>
     </item>
     
     <item>
       <title>Finding similar local landscapes</title>
-      <link>/post/finding-similar-local-landscap/</link>
+      <link>https://data-scribers.mikewk.com/post/finding-similar-local-landscap/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/finding-similar-local-landscap/</guid>
+      <guid>https://data-scribers.mikewk.com/post/finding-similar-local-landscap/</guid>
       <description>Can you guess what are we missing in this long list? Yes, you’re (probably) right! Finding places with similar spatial patterns is not a standard spatial operation. However, it could be useful to solve many potential questions. For example, you observed some ecological process and assume that it depends on a pattern of land&amp;hellip;</description>
     </item>
     
     <item>
       <title>Pattern-based Spatial Analysis - core ideas</title>
-      <link>/post/patternbased-spatial-analysis-/</link>
+      <link>https://data-scribers.mikewk.com/post/patternbased-spatial-analysis-/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/patternbased-spatial-analysis-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/patternbased-spatial-analysis-/</guid>
       <description>Take a look at the example above and compare information depicted by the compositional and co-occurrence histograms. The first one shows that each land cover category occupies a very similar proportion of the area. The second one provides more information - it counts how often different categories are adjacent to each&amp;hellip;</description>
     </item>
     
     <item>
       <title>Life (expectancy), animated</title>
-      <link>/post/life-expectancy-animated/</link>
+      <link>https://data-scribers.mikewk.com/post/life-expectancy-animated/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/life-expectancy-animated/</guid>
+      <guid>https://data-scribers.mikewk.com/post/life-expectancy-animated/</guid>
       <description>Global socio-economic data is easily accessible nowadays. Just type the indicator of interest and the name of the country in your preferred search engine and you can find its value, sometimes also an additional plot or a&amp;hellip;</description>
     </item>
     
     <item>
       <title>GeoPAT 2</title>
-      <link>/post/geopat-2/</link>
+      <link>https://data-scribers.mikewk.com/post/geopat-2/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/geopat-2/</guid>
+      <guid>https://data-scribers.mikewk.com/post/geopat-2/</guid>
       <description>Now, try to do the same with the image below representing a land cover over a part of Eastern&amp;hellip;</description>
     </item>
     
     <item>
       <title>Making maps of the USA with R</title>
-      <link>/post/making-maps-of-the-usa-with-r/</link>
+      <link>https://data-scribers.mikewk.com/post/making-maps-of-the-usa-with-r/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/making-maps-of-the-usa-with-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/making-maps-of-the-usa-with-r/</guid>
       <description>The next step is to calculate scale relations between the mainland and Hawaii as well as Alaska. To do so we can calculate areas of the bounding box of each object: Next, we can calculate the ratios between their areas: The final map is an approximation of areal relationships between the mainland, Alaska and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Geocomputation with R - the intermission</title>
-      <link>/post/geocomputation-with-r-the-inte/</link>
+      <link>https://data-scribers.mikewk.com/post/geocomputation-with-r-the-inte/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/geocomputation-with-r-the-inte/</guid>
+      <guid>https://data-scribers.mikewk.com/post/geocomputation-with-r-the-inte/</guid>
       <description>Both chapters apply command-line based geocomputation introduced in chapters 1-6 to the real world, and answer relevant questions in a reproducible manner with the help of open data and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Geocomputation with R - the beginnings</title>
-      <link>/post/geocomputation-with-r-the-begi/</link>
+      <link>https://data-scribers.mikewk.com/post/geocomputation-with-r-the-begi/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/geocomputation-with-r-the-begi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/geocomputation-with-r-the-begi/</guid>
       <description>The hard copy of the book will be published in late&amp;hellip;</description>
     </item>
     
     <item>
       <title>Intro to R workshop</title>
-      <link>/post/intro-to-r-workshop/</link>
+      <link>https://data-scribers.mikewk.com/post/intro-to-r-workshop/</link>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/intro-to-r-workshop/</guid>
+      <guid>https://data-scribers.mikewk.com/post/intro-to-r-workshop/</guid>
       <description>Last week, I had a pleasure to conduct a workshop for graduate students and faculty in the Department of Geography and GIS at the University of Cincinnati. In two afternoons, a group of mostly beginners, learned a little bit about R, RStudio, data processing, and visualisation, as well as about spatial data analysis in&amp;hellip;</description>
     </item>
     

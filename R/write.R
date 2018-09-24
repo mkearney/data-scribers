@@ -123,7 +123,7 @@ for (i in seq_len(nrow(blogs_data))) {
 }
 
 ## build with hugo
-blogdown::hugo_build(local = TRUE)
+blogdown::hugo_build()
 
 ## alt build fun (don't cleanup resources)
 build_ds <- function(local = TRUE) {
@@ -137,4 +137,9 @@ build_ds <- function(local = TRUE) {
 #blogdown::stop_server()
 
 ## remove tmp resources dir
-unlink("resources", recursive = TRUE)
+#unlink("resources", recursive = TRUE)
+
+## update git
+system("git add .")
+system("git commit -m 'update'")
+system("git push")

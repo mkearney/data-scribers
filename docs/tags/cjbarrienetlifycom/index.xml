@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cjbarrienetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/cjbarrienetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/cjbarrienetlifycom/</link>
     <description>Recent content in Cjbarrienetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/cjbarrienetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/cjbarrienetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Younger electorates vote independent in Tunisian Municipal Elections</title>
-      <link>/post/younger-electorates-vote-indep/</link>
+      <link>https://data-scribers.mikewk.com/post/younger-electorates-vote-indep/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/younger-electorates-vote-indep/</guid>
+      <guid>https://data-scribers.mikewk.com/post/younger-electorates-vote-indep/</guid>
       <description>Municipalities with a greater number of younger registered voters saw a higher vote share for independent lists. Similarly, younger electorates were less likely to vote for established parties. The first local elections to be held in post-revolution Tunisia were particularly notable for the success of independent&amp;hellip;</description>
     </item>
     
     <item>
       <title>Youth and competition boost turnout in Tunisian Municipal Elections</title>
-      <link>/post/youth-and-competition-boost-tu/</link>
+      <link>https://data-scribers.mikewk.com/post/youth-and-competition-boost-tu/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/youth-and-competition-boost-tu/</guid>
+      <guid>https://data-scribers.mikewk.com/post/youth-and-competition-boost-tu/</guid>
       <description>Municipalities with a greater number of younger registered voters experienced higher turnout. Municipalities with more candidates proportional to the size of the electorate witnessed substantially increased turnout. On May 6, Tunisia held its first municipal elections since the 2011&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mapping the Tunisian Revolution</title>
-      <link>/post/mapping-the-tunisian-revolutio/</link>
+      <link>https://data-scribers.mikewk.com/post/mapping-the-tunisian-revolutio/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mapping-the-tunisian-revolutio/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mapping-the-tunisian-revolutio/</guid>
       <description>R provides a growing number of mapping packages. In this post I document my workflow for producing a map of the diffusion of protest during the Tunisian Revolution. The following packages will be required for anyone who has similar mapping requirements and wishes to follow the same steps: But that was in January and I hadn’t yet been introduced to the potential of R for mapping&amp;hellip;</description>
     </item>
     

@@ -2,453 +2,453 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cevocomau on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/cevocomau/</link>
+    <link>https://data-scribers.mikewk.com/tags/cevocomau/</link>
     <description>Recent content in Cevocomau on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/cevocomau/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/cevocomau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python as a cloud glue language</title>
-      <link>/post/python-as-a-cloud-glue-languag/</link>
+      <link>https://data-scribers.mikewk.com/post/python-as-a-cloud-glue-languag/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/python-as-a-cloud-glue-languag/</guid>
+      <guid>https://data-scribers.mikewk.com/post/python-as-a-cloud-glue-languag/</guid>
       <description>One promise of the cloud is that you have less moving parts to manage. No longer do you need to worry about drives or servers, or even networks. Just package up your application and deploy it to the cloud. For those of you working in the cloud, you&amp;rsquo;ll know it&amp;rsquo;s not that simple. While a lot of heavy lifting has been done for you, nothing is quite as easy as it&amp;hellip;</description>
     </item>
     
     <item>
       <title>Disrupting an industry to help the little guys grow</title>
-      <link>/post/disrupting-an-industry-to-help/</link>
+      <link>https://data-scribers.mikewk.com/post/disrupting-an-industry-to-help/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/disrupting-an-industry-to-help/</guid>
+      <guid>https://data-scribers.mikewk.com/post/disrupting-an-industry-to-help/</guid>
       <description>Earlier this year, Simon Bond sat down for a chat with a couple of our long standing customers, CTO Greg Frye and Head of Development Nish Mahanty from iRexchange. iRexchange is a disruptive technology and distribution business, aiming to reshape the conventional supplier-wholesaler-retailer&amp;hellip;</description>
     </item>
     
     <item>
       <title>Scaling AWS ECS services with Alarms, Target tracking &amp; CloudFormation</title>
-      <link>/post/scaling-aws-ecs-services-with-/</link>
+      <link>https://data-scribers.mikewk.com/post/scaling-aws-ecs-services-with-/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/scaling-aws-ecs-services-with-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/scaling-aws-ecs-services-with-/</guid>
       <description>ECS Autoscaling It is quite hard to come up with efficient scaling policies for Amazon Elastic Container Services (ECS). The more distributed your architecture, the more issues with cascading load and increasing latency you are going to&amp;hellip;</description>
     </item>
     
     <item>
       <title>What&#39;s the Difference? Monitoring, Logging &amp; Alerting</title>
-      <link>/post/whats-the-difference-monitorin/</link>
+      <link>https://data-scribers.mikewk.com/post/whats-the-difference-monitorin/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/whats-the-difference-monitorin/</guid>
+      <guid>https://data-scribers.mikewk.com/post/whats-the-difference-monitorin/</guid>
       <description>Actually, not at all&amp;hellip; In this short video we provide a high level, introductory explanation of monitoring, logging and alerting - what each is, and does. We&amp;rsquo;ll highlight the differences and also outline the benefits the three combined bring to your organisation. With obligatory 1980s flourishes&amp;hellip;and a bot named Poy Poy! .embed-container iframe, .embed-container object,&amp;hellip;</description>
     </item>
     
     <item>
       <title>Test Driven Infrastructure</title>
-      <link>/post/test-driven-infrastructure/</link>
+      <link>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-driven-infrastructure/</guid>
+      <guid>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</guid>
       <description>Software development has embraced techniques like TDD (Test Driven Development) to help reduce the cycle time between developing code and validating it works. As application development practice evolved, we needed to respond to change faster while still maintaining our quality - the way we developed our solutions needed to change - and so did our&amp;hellip;</description>
     </item>
     
     <item>
       <title>Why Agile isn&#39;t working</title>
-      <link>/post/why-agile-isnt-working/</link>
+      <link>https://data-scribers.mikewk.com/post/why-agile-isnt-working/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/why-agile-isnt-working/</guid>
+      <guid>https://data-scribers.mikewk.com/post/why-agile-isnt-working/</guid>
       <description>Imagine your good friend asks you to come over to his house to check out his brand new Ferrari. Being only ‘slightly’ jealous you head on over. From a distance you see his prize parked majestically in the driveway and, as expected, it looks amazing. Your friend shows off his Ferrari and tells you that you can test it out if you&amp;hellip;</description>
     </item>
     
     <item>
       <title>DynamoDB Autoscaling with CloudFormation</title>
-      <link>/post/dynamodb-autoscaling-with-clou/</link>
+      <link>https://data-scribers.mikewk.com/post/dynamodb-autoscaling-with-clou/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/dynamodb-autoscaling-with-clou/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dynamodb-autoscaling-with-clou/</guid>
       <description>DynamoDB Autoscaling DynamoDB autoscaling is a feedback-loop based monitoring setup which can dynamically change provisioned capacity for the table or global secondary index. There are two ways one can define autoscaling policy for this resource: Step scaling policy Target tracking policy Step scaling policy The first kind of policy - step scaling - is based on CloudWatch&amp;hellip;</description>
     </item>
     
     <item>
       <title>Docker on Windows</title>
-      <link>/post/docker-on-windows/</link>
+      <link>https://data-scribers.mikewk.com/post/docker-on-windows/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/docker-on-windows/</guid>
+      <guid>https://data-scribers.mikewk.com/post/docker-on-windows/</guid>
       <description>Since my recently published blog post When Docker meets Make, a few of my mates commented they couldn&amp;rsquo;t get Docker and GNU Make working on their shiny new Windows PCs. Being a non Windows user, I didn&amp;rsquo;t have a definitive answer, but suggested trying the Ubuntu app (the one that comes as a &amp;lsquo;Linux Subsystem&amp;rsquo; on Windows&amp;hellip;</description>
     </item>
     
     <item>
       <title>You&#39;ll always remember your first time...open sourcing</title>
-      <link>/post/youll-always-remember-your-fir/</link>
+      <link>https://data-scribers.mikewk.com/post/youll-always-remember-your-fir/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/youll-always-remember-your-fir/</guid>
+      <guid>https://data-scribers.mikewk.com/post/youll-always-remember-your-fir/</guid>
       <description>You may have seen our previous posts regarding projects that Cevo has worked on that have gone on to be open sourced. If not, now&amp;rsquo;s a great time to catch up before we continue! Information about Watchmen can be found here and here. The second project was called Bakery, head on over here for info on that&amp;hellip;</description>
     </item>
     
     <item>
       <title>3 months into an all-in AWS migration</title>
-      <link>/post/3-months-into-an-allin-aws-mig/</link>
+      <link>https://data-scribers.mikewk.com/post/3-months-into-an-allin-aws-mig/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/3-months-into-an-allin-aws-mig/</guid>
+      <guid>https://data-scribers.mikewk.com/post/3-months-into-an-allin-aws-mig/</guid>
       <description>I’m currently Tech Lead on an all-in Amazon Web Services (AWS) migration for the Australian arm of a multinational company. Three months in, I thought that sharing my insights into our migration activity may be of benefit and interest to the wider&amp;hellip;</description>
     </item>
     
     <item>
       <title>Story time</title>
-      <link>/post/story-time/</link>
+      <link>https://data-scribers.mikewk.com/post/story-time/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/story-time/</guid>
+      <guid>https://data-scribers.mikewk.com/post/story-time/</guid>
       <description>I&amp;rsquo;ve often been asked what information should be put inside a user story, or what kind of template I use for a user story on a project. In order to provide a useful answer to this question, we must look back and see where user stories came from. The requirements promised land In the beginning, there were requirements&amp;hellip;</description>
     </item>
     
     <item>
       <title>How to debug AWS Application Load Balancers with minimal colourful vituperations</title>
-      <link>/post/how-to-debug-aws-application-l/</link>
+      <link>https://data-scribers.mikewk.com/post/how-to-debug-aws-application-l/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-to-debug-aws-application-l/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-to-debug-aws-application-l/</guid>
       <description>Introduction From the Temples of Testers, a browser bestowed a 504 gateway timeout in your newly deployed internal facing Application Load Balancer (ALB). There was a gnashing of molars and gurning of visages. Your ALB isn&amp;rsquo;t responding. Don&amp;rsquo;t panic and be &amp;ldquo;oh wow! heavy heavy heavy&amp;rdquo; like Neil from the Young Ones. Be like Blackadder below with a cunning&amp;hellip;</description>
     </item>
     
     <item>
       <title>When &#39;Docker&#39; meets &#39;Make&#39;</title>
-      <link>/post/when-docker-meets-make/</link>
+      <link>https://data-scribers.mikewk.com/post/when-docker-meets-make/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/when-docker-meets-make/</guid>
+      <guid>https://data-scribers.mikewk.com/post/when-docker-meets-make/</guid>
       <description>Being a DevOps engineer, it&amp;rsquo;s very common that we use tools like AWS CLI, Docker/ECS, and Ansible to build continuous deployment solutions. It is also common to use tools like JenkinsCI to fully automate the deployment of your applications. Recently I have experienced that, due to some bizarre and varied reasons, you cannot always use CI. By removing CI from the picture, we introduce other issues&amp;hellip;</description>
     </item>
     
     <item>
       <title>Jenkins as a Service</title>
-      <link>/post/jenkins-as-a-service/</link>
+      <link>https://data-scribers.mikewk.com/post/jenkins-as-a-service/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/jenkins-as-a-service/</guid>
+      <guid>https://data-scribers.mikewk.com/post/jenkins-as-a-service/</guid>
       <description>In this session we will work through provisioning Jenkins on AWS ECS from a set of Docker containers that allow individuals or teams to self service an immutable CI/CD setup. The presentation looks at the 3 levels of the service, Infrastructure automation, Application automation and Job configuration&amp;hellip;</description>
     </item>
     
     <item>
       <title>Watchmen on the Radar</title>
-      <link>/post/watchmen-on-the-radar/</link>
+      <link>https://data-scribers.mikewk.com/post/watchmen-on-the-radar/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/watchmen-on-the-radar/</guid>
+      <guid>https://data-scribers.mikewk.com/post/watchmen-on-the-radar/</guid>
       <description>Cevo are thrilled to see the Watchmen project receive recognition in the 2018 ThoughtWorks Technology Radar. Highly anticipated, and well regarded within the technology community, the Radar documents which trends and changes ThoughtWorks believes are interesting in software&amp;hellip;</description>
     </item>
     
     <item>
       <title>Innovating with AWS</title>
-      <link>/post/innovating-with-aws/</link>
+      <link>https://data-scribers.mikewk.com/post/innovating-with-aws/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/innovating-with-aws/</guid>
+      <guid>https://data-scribers.mikewk.com/post/innovating-with-aws/</guid>
       <description>Cevo&amp;rsquo;s General Manager Hannah Browne was invited to take part on this year&amp;rsquo;s AWS Summit Partner panel - &amp;ldquo;Innovating with&amp;hellip;</description>
     </item>
     
     <item>
       <title>Using the new Resource Tagging API in anger</title>
-      <link>/post/using-the-new-resource-tagging/</link>
+      <link>https://data-scribers.mikewk.com/post/using-the-new-resource-tagging/</link>
       <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/using-the-new-resource-tagging/</guid>
+      <guid>https://data-scribers.mikewk.com/post/using-the-new-resource-tagging/</guid>
       <description>Building quality into an automated delivery pipeline can sometimes cause a head scratcher when you have to figure out how to validate the work you&amp;rsquo;re currently doing. This happened recently as we started extending our validation of Amazon Web Services (AWS) resources to a set of Application Load Balancers (ALBs). In our AWS account we have many ALBs, across a number of different&amp;hellip;</description>
     </item>
     
     <item>
       <title>Get Baking</title>
-      <link>/post/get-baking/</link>
+      <link>https://data-scribers.mikewk.com/post/get-baking/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/get-baking/</guid>
+      <guid>https://data-scribers.mikewk.com/post/get-baking/</guid>
       <description>Accounts everywhere The team I was working with had responsibility for seven AWS accounts. Some accounts hosted production workloads, some were used for development and staging. As a result, there were several painful problems we encountered. On boarding team members When a new team member started, we had to create IAM users in every account they required access to. In most cases this was all of&amp;hellip;</description>
     </item>
     
     <item>
       <title>Automatically Compliant</title>
-      <link>/post/automatically-compliant/</link>
+      <link>https://data-scribers.mikewk.com/post/automatically-compliant/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/automatically-compliant/</guid>
+      <guid>https://data-scribers.mikewk.com/post/automatically-compliant/</guid>
       <description>While it&amp;rsquo;s possible to argue that automation can be taken too far, one area where I&amp;rsquo;m sure many people would appreciate more automation is around compliance. I recently had a great experience working for a client, where the team was sent a list of items that auditors would be focusing on for the next audit. I know, I know, how could that be a great experience? Because we didn&amp;rsquo;t have to do&amp;hellip;</description>
     </item>
     
     <item>
       <title>It&#39;s Showtime!</title>
-      <link>/post/its-showtime/</link>
+      <link>https://data-scribers.mikewk.com/post/its-showtime/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/its-showtime/</guid>
+      <guid>https://data-scribers.mikewk.com/post/its-showtime/</guid>
       <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious. However sometimes teams don&amp;rsquo;t think the work they do is showcaseable, or that only &amp;lsquo;customer facing&amp;rsquo; applications should be&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Lead...or a Leader?</title>
-      <link>/post/a-leador-a-leader/</link>
+      <link>https://data-scribers.mikewk.com/post/a-leador-a-leader/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-leador-a-leader/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-leador-a-leader/</guid>
       <description>After discussing hiring processes with friends of mine who work in IT Recruitment, I’ve noticed a common theme; hiring is quite often based on a candidate&amp;rsquo;s online profile, rather than taking a more holistic&amp;hellip;</description>
     </item>
     
     <item>
       <title>Another Warrior In Our Midst</title>
-      <link>/post/another-warrior-in-our-midst/</link>
+      <link>https://data-scribers.mikewk.com/post/another-warrior-in-our-midst/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/another-warrior-in-our-midst/</guid>
+      <guid>https://data-scribers.mikewk.com/post/another-warrior-in-our-midst/</guid>
       <description>We are delighted to announce that Cevo’s Trent Hornibrook has been selected as one of the 2018 AWS Partner Network (APN) Cloud Warriors. As a Cloud Warrior, Trent joins the ranks of AWS Certified individuals who are both deeply skilled on the AWS platform, and are strong technology&amp;hellip;</description>
     </item>
     
     <item>
       <title>Is there such a thing as too much automation?</title>
-      <link>/post/is-there-such-a-thing-as-too-m/</link>
+      <link>https://data-scribers.mikewk.com/post/is-there-such-a-thing-as-too-m/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/is-there-such-a-thing-as-too-m/</guid>
+      <guid>https://data-scribers.mikewk.com/post/is-there-such-a-thing-as-too-m/</guid>
       <description>A recent discussion at Cevo HQ came onto the topic of satellite navigation and how lost we would be without it, how in the good old days of street directories you were generally only lost the first time you travelled to a new location. This led on to a discussion of the work of David Krakauer and the concepts of complementary and competitive cognitive&amp;hellip;</description>
     </item>
     
     <item>
       <title>Introduction to R</title>
-      <link>/post/introduction-to-r/</link>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-r/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/introduction-to-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-r/</guid>
       <description>R is great for doing any kind of slicing and dicing with data. However the barrier to entry can be high, especially for people that come from a non-data background. I know that it took me quite some time to grasp just how R does its magic. When you do though, it really is a &amp;ldquo;that&amp;rsquo;s damn awesome&amp;rdquo;&amp;hellip;</description>
     </item>
     
     <item>
       <title>Sending Watchmen into the Open</title>
-      <link>/post/sending-watchmen-into-the-open/</link>
+      <link>https://data-scribers.mikewk.com/post/sending-watchmen-into-the-open/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/sending-watchmen-into-the-open/</guid>
+      <guid>https://data-scribers.mikewk.com/post/sending-watchmen-into-the-open/</guid>
       <description>Open source software is a decentralised development and distribution model that encourages collaboration in the public domain. Source code and other artefacts of the software development are made available to the public to use, copy and customise in any way to suit business&amp;hellip;</description>
     </item>
     
     <item>
       <title>Replacing Packer With KitchenCI and a Rakefile</title>
-      <link>/post/replacing-packer-with-kitchenc/</link>
+      <link>https://data-scribers.mikewk.com/post/replacing-packer-with-kitchenc/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/replacing-packer-with-kitchenc/</guid>
+      <guid>https://data-scribers.mikewk.com/post/replacing-packer-with-kitchenc/</guid>
       <description>Don&amp;rsquo;t get me wrong, I love the HashiCorp products. I&amp;rsquo;ve been a Vagrant user since way back in my BC (Before Cloud) days and have continued a strong run of success backing the use of HashiCorp product. But the biggest issue I have is ensuring that the images created through Packer are worthy of being promoted along a delivery&amp;hellip;</description>
     </item>
     
     <item>
       <title>Meltdown, Spectre and Linux on AWS</title>
-      <link>/post/meltdown-spectre-and-linux-on-/</link>
+      <link>https://data-scribers.mikewk.com/post/meltdown-spectre-and-linux-on-/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/meltdown-spectre-and-linux-on-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/meltdown-spectre-and-linux-on-/</guid>
       <description>Meltdown, Spectre and Linux on AWS: Security vs Performance? The recent announcement of the Meltdown and Spectre attacks against bugs in Intel (and other) CPUs has attracted rapid response from many vendors; Amazon Web Services&amp;rsquo; (AWS) response shows that they&amp;rsquo;ve already patched and protected their infrastructure but you still have work to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Cevo - So Fast We&#39;re Seeing Double!</title>
-      <link>/post/cevo-so-fast-were-seeing-doubl/</link>
+      <link>https://data-scribers.mikewk.com/post/cevo-so-fast-were-seeing-doubl/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/cevo-so-fast-were-seeing-doubl/</guid>
+      <guid>https://data-scribers.mikewk.com/post/cevo-so-fast-were-seeing-doubl/</guid>
       <description>Cevo are delighted to have been awarded second place in the CRN Fast50 and 40th in the Financial Review Fast Starters for 2017. The former, announced last week, places us amongst the fastest growing IT solution providers in Australia. CRN’s Editorial Director, Steven Kiernan commented &amp;ldquo;Every year the CRN Fast50 gets more&amp;hellip;</description>
     </item>
     
     <item>
       <title>Podcast - Hannah Browne chats to Wise Up</title>
-      <link>/post/podcast-hannah-browne-chats-to/</link>
+      <link>https://data-scribers.mikewk.com/post/podcast-hannah-browne-chats-to/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/podcast-hannah-browne-chats-to/</guid>
+      <guid>https://data-scribers.mikewk.com/post/podcast-hannah-browne-chats-to/</guid>
       <description>Cevo&amp;rsquo;s General Manager Hannah Browne recently chatted with Alexandra Stokes from Wise Up. In this podcast they delve into Hannah&amp;rsquo;s personal experience of what it&amp;rsquo;s like to be a woman navigating the tech scene and corporate life in general (including the gender pay gap and rise of #MeToo), her passion for the industry and the future of the Melbourne technology&amp;hellip;</description>
     </item>
     
     <item>
       <title>Recognising the fallacy of a single root cause</title>
-      <link>/post/recognising-the-fallacy-of-a-s/</link>
+      <link>https://data-scribers.mikewk.com/post/recognising-the-fallacy-of-a-s/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/recognising-the-fallacy-of-a-s/</guid>
+      <guid>https://data-scribers.mikewk.com/post/recognising-the-fallacy-of-a-s/</guid>
       <description>When something goes wrong it’s often tempting to attribute it to a single root cause: The site was down because the database crashed. The application broke because the developer pushed bad code. The machine stopped responding because it ran out of disk space. However this misses the point that many things had to align for this to situation to occur: The site was down because the database&amp;hellip;</description>
     </item>
     
     <item>
       <title>An Introduction to Web Performance Optimisation</title>
-      <link>/post/an-introduction-to-web-perform/</link>
+      <link>https://data-scribers.mikewk.com/post/an-introduction-to-web-perform/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/an-introduction-to-web-perform/</guid>
+      <guid>https://data-scribers.mikewk.com/post/an-introduction-to-web-perform/</guid>
       <description>This is an excerpt from a talk I gave at LASTConf Melbourne on Web Performance Optimisation. In this short video I discuss some of the benefits that web optimisation can bring to internal web pages, and what this means for our concentration and stress&amp;hellip;</description>
     </item>
     
     <item>
       <title>Productise me!</title>
-      <link>/post/productise-me/</link>
+      <link>https://data-scribers.mikewk.com/post/productise-me/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/productise-me/</guid>
+      <guid>https://data-scribers.mikewk.com/post/productise-me/</guid>
       <description>Sometimes a small change in approach can make a big impact on the outcome. Where we were A large client of ours had recently started their cloud migration journey. I was brought in as an iteration manager to help one of the recently renamed Cloud Foundation squads manage their work. Tom Partington from Cevo also joined the squad to add some engineering&amp;hellip;</description>
     </item>
     
     <item>
       <title>DevOps, Deindividuation and the DeLorean.</title>
-      <link>/post/devops-deindividuation-and-the/</link>
+      <link>https://data-scribers.mikewk.com/post/devops-deindividuation-and-the/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/devops-deindividuation-and-the/</guid>
+      <guid>https://data-scribers.mikewk.com/post/devops-deindividuation-and-the/</guid>
       <description>I’m fascinated by human interaction. If I was able to find a DeLorean I’d tell myself to fly back in time and study Psychology and not Computer Science. Deindividuation Deindividuation is a concept in social psychology that is generally thought of as the loss of self-awareness in&amp;hellip;</description>
     </item>
     
     <item>
       <title>Test driven infrastructure with Kitchen and InSpec</title>
-      <link>/post/test-driven-infrastructure-wit/</link>
+      <link>https://data-scribers.mikewk.com/post/test-driven-infrastructure-wit/</link>
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-driven-infrastructure-wit/</guid>
+      <guid>https://data-scribers.mikewk.com/post/test-driven-infrastructure-wit/</guid>
       <description>For a long time infrastructure was the sort of thing you pulled out of a box, plugged in and then set about configuring and testing. The cycle between needing new equipment and having it ready was measured in weeks, if not months. Modern cloud computing and infrastructure as code approaches are becoming the norm, with this cycle times on delivering new infrastructure is now measured in&amp;hellip;</description>
     </item>
     
     <item>
       <title>Evolving team leadership</title>
-      <link>/post/evolving-team-leadership/</link>
+      <link>https://data-scribers.mikewk.com/post/evolving-team-leadership/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/evolving-team-leadership/</guid>
+      <guid>https://data-scribers.mikewk.com/post/evolving-team-leadership/</guid>
       <description>There is much written about the changing roles of Development and Operations staff when organisations undergo agile/devops transformations. But what about the changing role of the Team Leader? In pre-agile environments, as a Team Lead, your role is one of structure and co-ordination; it is through you that work&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Four values of a devops transformation</title>
-      <link>/post/the-four-values-of-a-devops-tr/</link>
+      <link>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-four-values-of-a-devops-tr/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</guid>
       <description>A successful devops transformation sees a change in organisational culture. These changes often come in the way of adoption of specific tools or practices. However, to change culture, you need something more fundamental than just the introduction of new tools, or pushing everyone into Scrum&amp;hellip;</description>
     </item>
     
     <item>
       <title>Why?</title>
-      <link>/post/why/</link>
+      <link>https://data-scribers.mikewk.com/post/why/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/why/</guid>
+      <guid>https://data-scribers.mikewk.com/post/why/</guid>
       <description>We all know DevOps is not about the tools or the process, it’s about a deeper cultural movement. But all too often we think about what DevOps is, and miss the focus on Why we do it in the first&amp;hellip;</description>
     </item>
     
     <item>
       <title>A spot of AWS</title>
-      <link>/post/a-spot-of-aws/</link>
+      <link>https://data-scribers.mikewk.com/post/a-spot-of-aws/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-spot-of-aws/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-spot-of-aws/</guid>
       <description>As more enterprises start transitioning over to using AWS, cost optimisation has become a hot topic. Andy and I were recently given the opportunity to explore the potential savings of running on spot instances. What are spot instances? Spare compute capacity that Amazon Web Services (AWS) sells at a discounted price. When a user requests a spot instance, they must also provide a ‘bid&amp;hellip;</description>
     </item>
     
     <item>
       <title>You&#39;re doing it wrong if...</title>
-      <link>/post/youre-doing-it-wrong-if/</link>
+      <link>https://data-scribers.mikewk.com/post/youre-doing-it-wrong-if/</link>
       <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/youre-doing-it-wrong-if/</guid>
+      <guid>https://data-scribers.mikewk.com/post/youre-doing-it-wrong-if/</guid>
       <description>I&amp;rsquo;ve been around for a while, worked through different teams, across different industries and companies. Over time I have learnt a lot of lessons, some the easy way, most the hard way. While the failures have all been different, their learnings have regularly overlapped and now form a set of practices that guide me on a daily&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mapping system couplings and dependencies for discovery and profit</title>
-      <link>/post/mapping-system-couplings-and-d/</link>
+      <link>https://data-scribers.mikewk.com/post/mapping-system-couplings-and-d/</link>
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/mapping-system-couplings-and-d/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mapping-system-couplings-and-d/</guid>
       <description>Have you ever wondered just what would break if that system (you know the one) went down? Do you actually know what systems depend on it? How do the reports get from it to Marketing? In this post, I&amp;rsquo;ll describe a simple technique I&amp;rsquo;ve developed to surface and share all this juicy, interesting information. The Problem, Restated Systems grow and morph over time, quite&amp;hellip;</description>
     </item>
     
     <item>
       <title>Enterprise AWS adoption</title>
-      <link>/post/enterprise-aws-adoption/</link>
+      <link>https://data-scribers.mikewk.com/post/enterprise-aws-adoption/</link>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/enterprise-aws-adoption/</guid>
+      <guid>https://data-scribers.mikewk.com/post/enterprise-aws-adoption/</guid>
       <description>As more enterprise scale businesses migrate their workloads to AWS, the size and complexity of the solutions they are trying to manage is growing. Businesses will face a set of new challenges, many that their current organisational structure, staffing, skills, processes and practices will not be set up to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Girls In Tech</title>
-      <link>/post/girls-in-tech/</link>
+      <link>https://data-scribers.mikewk.com/post/girls-in-tech/</link>
       <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/girls-in-tech/</guid>
+      <guid>https://data-scribers.mikewk.com/post/girls-in-tech/</guid>
       <description>On August 10th Cevo&amp;rsquo;s Hannah Browne joined Miguel Wood, Nicola Hazell and Geoff Gourley in a daring discussion hosted by Girls in Tech Australia about diversity in&amp;hellip;</description>
     </item>
     
     <item>
       <title>Census 2.0</title>
-      <link>/post/census-20/</link>
+      <link>https://data-scribers.mikewk.com/post/census-20/</link>
       <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/census-20/</guid>
+      <guid>https://data-scribers.mikewk.com/post/census-20/</guid>
       <description>In light of the #CensusFail the ABS delivered to us on Tuesday night, I thought I&amp;rsquo;d put a blog post where my mouth is and suggest an architecture I feel would have delivered had Cevo been involved in the creation of this years&amp;rsquo; Census&amp;hellip;</description>
     </item>
     
     <item>
       <title>Migrating to AWS</title>
-      <link>/post/migrating-to-aws/</link>
+      <link>https://data-scribers.mikewk.com/post/migrating-to-aws/</link>
       <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/migrating-to-aws/</guid>
+      <guid>https://data-scribers.mikewk.com/post/migrating-to-aws/</guid>
       <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand. MYOB helps businesses of all kinds and sizes, delivering software and services that simplify accounting, payroll, client management, websites, and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Automated provisioning with Docker</title>
-      <link>/post/automated-provisioning-with-do/</link>
+      <link>https://data-scribers.mikewk.com/post/automated-provisioning-with-do/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/automated-provisioning-with-do/</guid>
+      <guid>https://data-scribers.mikewk.com/post/automated-provisioning-with-do/</guid>
       <description>Customer Overview Founded in 1993, Media Links is a leading developer and manufacturer of broadcast network infrastructure solutions. Media Links provides broadcasters and network providers with the ability to convert and move broadcast signals – whether video, audio or data – onto their multi-service IP/Ethernet&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Consul of Elders</title>
-      <link>/post/the-consul-of-elders/</link>
+      <link>https://data-scribers.mikewk.com/post/the-consul-of-elders/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-consul-of-elders/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-consul-of-elders/</guid>
       <description>consul members command: Node Address Status Type Build Protocol DC i-bae58774 10.10.12.144:8301 alive server 0.5.2 2 dc1 i-ace73562 10.10.11.149:8301 alive server 0.5.2 2 dc1 i-12e4866c 10.10.10.138:8301 alive server 0.5.2 2 dc1 Consul exposes a Rest API service to aid discovery. In our blockbuster movie, we use The Temple of Curl to find Lord&amp;hellip;</description>
     </item>
     
     <item>
       <title>My devops Journey</title>
-      <link>/post/my-devops-journey/</link>
+      <link>https://data-scribers.mikewk.com/post/my-devops-journey/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-devops-journey/</guid>
+      <guid>https://data-scribers.mikewk.com/post/my-devops-journey/</guid>
       <description>One of the challenges we devops Consultants face is explaining what we do to customers, as there are so many definitions. I’m always thinking about new ways to share the incredible opportunities that a continuous delivery pipeline&amp;hellip;</description>
     </item>
     
     <item>
       <title>Is the EC2 Container Service a bad idea?</title>
-      <link>/post/is-the-ec2-container-service-a/</link>
+      <link>https://data-scribers.mikewk.com/post/is-the-ec2-container-service-a/</link>
       <pubDate>Sun, 06 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/is-the-ec2-container-service-a/</guid>
+      <guid>https://data-scribers.mikewk.com/post/is-the-ec2-container-service-a/</guid>
       <description>The container revolutionaries call upon you! Are you ready to beg forgiveness for your sins of monolithic architecture and pay homage at the Church of 12 Factors? No doubt you - like so many others before you - have endured the experience of being cornered by a zealot of the new world&amp;hellip;</description>
     </item>
     
     <item>
       <title>What&#39;s this docker thing?</title>
-      <link>/post/whats-this-docker-thing/</link>
+      <link>https://data-scribers.mikewk.com/post/whats-this-docker-thing/</link>
       <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/whats-this-docker-thing/</guid>
+      <guid>https://data-scribers.mikewk.com/post/whats-this-docker-thing/</guid>
       <description>If there’s one thing industry news sources have been mentioning to you recently it would almost certainly be Docker. But is there too much hype? Should one wait before looking into&amp;hellip;</description>
     </item>
     

@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shotwellcablog on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/shotwellcablog/</link>
+    <link>https://data-scribers.mikewk.com/tags/shotwellcablog/</link>
     <description>Recent content in Shotwellcablog on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/shotwellcablog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/shotwellcablog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing machine learning models with testthat</title>
-      <link>/post/testing-machine-learning-model/</link>
+      <link>https://data-scribers.mikewk.com/post/testing-machine-learning-model/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing-machine-learning-model/</guid>
+      <guid>https://data-scribers.mikewk.com/post/testing-machine-learning-model/</guid>
       <description>Automated testing is a huge part of software development. Once a project reaches a certain level of complexity, the only way that it can be maintained is if it has a set of tests that identify the main functionality and allow you to verify that functionality is&amp;hellip;</description>
     </item>
     
     <item>
       <title>Flagging toxic comments with Tidytext and Keras</title>
-      <link>/post/flagging-toxic-comments-with-t/</link>
+      <link>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/flagging-toxic-comments-with-t/</guid>
+      <guid>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</guid>
       <description>The task here is to try to determine how likely a string is to have a particular set of labels. We can take a look at the data The first step for looking at the actual text is to split up the strings into words and then remove stop words. Stop words like “the” and “a” are unlikely to provide much information about the toxicity of the comment, so we can take them&amp;hellip;</description>
     </item>
     
     <item>
       <title>Advice for non-traditional data scientists</title>
-      <link>/post/advice-for-nontraditional-data/</link>
+      <link>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/advice-for-nontraditional-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</guid>
       <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law. I started programming in R during law school, partly as a way to learn more about data visualization and partly to help analyze youth criminal justice&amp;hellip;</description>
     </item>
     
     <item>
       <title>Why you should work remotely, even if you&#39;re not remote</title>
-      <link>/post/why-you-should-work-remotely-e/</link>
+      <link>https://data-scribers.mikewk.com/post/why-you-should-work-remotely-e/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/why-you-should-work-remotely-e/</guid>
+      <guid>https://data-scribers.mikewk.com/post/why-you-should-work-remotely-e/</guid>
       <description>My last job was as a data scientist at Upworthy, which is a 100% remote company. Prior to starting the position I was worried about whether I could be happy and productive on a remote team. I wondered how project planning would work, whether it would be terribly lonely, and how communication would function when things got&amp;hellip;</description>
     </item>
     
     <item>
       <title>Data Visualization and UI design</title>
-      <link>/post/data-visualization-and-ui-desi/</link>
+      <link>https://data-scribers.mikewk.com/post/data-visualization-and-ui-desi/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/data-visualization-and-ui-desi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/data-visualization-and-ui-desi/</guid>
       <description>While I think the basic idea of the initial app was a good one, the implementation had a lot of problems. The user interface was confusing and there were a lot of counter-intuitive design decisions. Since I was the source of most of these decisions, I thought the release of version 2.0 of the app would be a good opportunity to write down some of the things I’ve&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Power of Tidy Data</title>
-      <link>/post/the-power-of-tidy-data/</link>
+      <link>https://data-scribers.mikewk.com/post/the-power-of-tidy-data/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-power-of-tidy-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-power-of-tidy-data/</guid>
       <description>One problem with data analysis is that you often need to make critical decisions before you really understand the problem. Since data analysis is always somewhat exploratory you can often make some bad decisions in the early stages of your analysis which can cause lots of problems later&amp;hellip;</description>
     </item>
     
     <item>
       <title>R for Excel Users</title>
-      <link>/post/r-for-excel-users/</link>
+      <link>https://data-scribers.mikewk.com/post/r-for-excel-users/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/r-for-excel-users/</guid>
+      <guid>https://data-scribers.mikewk.com/post/r-for-excel-users/</guid>
       <description>Like most people, I first learned to work with numbers through an Excel spreadsheet. After graduating with an undergraduate philosophy degree, I somehow convinced a medical device marketing firm to give me a job writing Excel reports on the orthopedic biomaterials&amp;hellip;</description>
     </item>
     

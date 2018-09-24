@@ -2,210 +2,210 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Translatedmedicinecom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/translatedmedicinecom/</link>
+    <link>https://data-scribers.mikewk.com/tags/translatedmedicinecom/</link>
     <description>Recent content in Translatedmedicinecom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/translatedmedicinecom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/translatedmedicinecom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Is Your Hospital Closer to a Dunkin or Starbucks? (MA edition)</title>
-      <link>/post/is-your-hospital-closer-to-a-d/</link>
+      <link>https://data-scribers.mikewk.com/post/is-your-hospital-closer-to-a-d/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/is-your-hospital-closer-to-a-d/</guid>
+      <guid>https://data-scribers.mikewk.com/post/is-your-hospital-closer-to-a-d/</guid>
       <description>This post is inspired by #tidytuesday. Coffee is the life force for many healthcare workers. Here too, the age old question arises: Dunkin or Starbucks? Sometimes, it just comes down to proximity. We need coffee and we need it now! So, I decided to see what chain was closest to each hospital in&amp;hellip;</description>
     </item>
     
     <item>
       <title>Where are the students who are English Learners in MA?</title>
-      <link>/post/where-are-the-students-who-are/</link>
+      <link>https://data-scribers.mikewk.com/post/where-are-the-students-who-are/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/where-are-the-students-who-are/</guid>
+      <guid>https://data-scribers.mikewk.com/post/where-are-the-students-who-are/</guid>
       <description>Inspired by my wife’s work in educating students who are English Learners, this post visualizes the English Learners across Massachusetts. The Massachusetts Department of Education publishes a large amount of education data from across the state. It provides yearly percentages of enrolled student and their characteristics, including English&amp;hellip;</description>
     </item>
     
     <item>
       <title>Boston Limited English Proficient Population</title>
-      <link>/post/boston-limited-english-profici/</link>
+      <link>https://data-scribers.mikewk.com/post/boston-limited-english-profici/</link>
       <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/boston-limited-english-profici/</guid>
+      <guid>https://data-scribers.mikewk.com/post/boston-limited-english-profici/</guid>
       <description>Inspire by Julia Silge and the tidycensus package by Kyle Walker, I wanted to explore the limited English proficient (LEP) population in Suffolk County (which includes Boston). For those, not in the know, LEP refers people who speak English less than very well. Beyond the overall population, I wanted to get a glimpse into the language diversity of the&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Digital Divide in the U.S.</title>
-      <link>/post/the-digital-divide-in-the-us/</link>
+      <link>https://data-scribers.mikewk.com/post/the-digital-divide-in-the-us/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-digital-divide-in-the-us/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-digital-divide-in-the-us/</guid>
       <description>With the release of the American Community Survey, there was an opportunity to take a look at the digital divide in 2016. I was inspired to make a tilegram map similar to those create by NPR. I used the tilegramsR package by Bhaskar Karambelkar. First, here are the packages for the&amp;hellip;</description>
     </item>
     
     <item>
       <title>Crimes in Somerville (Time Series)</title>
-      <link>/post/crimes-in-somerville-time-seri/</link>
+      <link>https://data-scribers.mikewk.com/post/crimes-in-somerville-time-seri/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/crimes-in-somerville-time-seri/</guid>
+      <guid>https://data-scribers.mikewk.com/post/crimes-in-somerville-time-seri/</guid>
       <description>I recently spotted a time series heat map. So I started on a quest to make my own. Luckily, I found some local data to start with: crimes in Somerville, MA. This data set includes selected crimes in Somerville from&amp;hellip;</description>
     </item>
     
     <item>
       <title>Income Along the Boston T (Blue Line)</title>
-      <link>/post/income-along-the-boston-t-blue/</link>
+      <link>https://data-scribers.mikewk.com/post/income-along-the-boston-t-blue/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/income-along-the-boston-t-blue/</guid>
+      <guid>https://data-scribers.mikewk.com/post/income-along-the-boston-t-blue/</guid>
       <description>In the first three parts of this series, we looked at the changes in income along the The Orange Line, The Red Line, and The Green Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For the final post, we take a look at the The Blue Line. Below you will see median household income along each of the four lines of the Boston Blue&amp;hellip;</description>
     </item>
     
     <item>
       <title>Income Along the Boston T (Green Line)</title>
-      <link>/post/income-along-the-boston-t-gree/</link>
+      <link>https://data-scribers.mikewk.com/post/income-along-the-boston-t-gree/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/income-along-the-boston-t-gree/</guid>
+      <guid>https://data-scribers.mikewk.com/post/income-along-the-boston-t-gree/</guid>
       <description>In the first two parts of this series, we looked at the changes in income along the The Orange Line and The Red Line. I went through my approach for creating a New Yorker inspired visualization of income along the Boston T. For this post, we take a look at the The Green Line. Below you will see median household income along each of the four lines of the Boston Green&amp;hellip;</description>
     </item>
     
     <item>
       <title>Income Along the Boston T (Red Line)</title>
-      <link>/post/income-along-the-boston-t-red-/</link>
+      <link>https://data-scribers.mikewk.com/post/income-along-the-boston-t-red-/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/income-along-the-boston-t-red-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/income-along-the-boston-t-red-/</guid>
       <description>In the first part of this series, I went through my approach for creating a New Yorker inspired visualization of income along The Orange Line on the Boston T. For this post, we take a look at the The Red Line. Below you will see median household income along both lines of the Boston Red Line. Ashmont/Mattapan Red Line ,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Median Household Income Along the Red Line&amp;hellip;</description>
     </item>
     
     <item>
       <title>Income Along the Boston T (Orange Line)</title>
-      <link>/post/income-along-the-boston-t-oran/</link>
+      <link>https://data-scribers.mikewk.com/post/income-along-the-boston-t-oran/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/income-along-the-boston-t-oran/</guid>
+      <guid>https://data-scribers.mikewk.com/post/income-along-the-boston-t-oran/</guid>
       <description>As a native New Yorker, I was recently intrigued by a visualization of household income in NY highlight inequality ( New Yorker ). Having lived in Boston for going on 9 years, I’ve started to call this place home. Could I make a similar representation of income in Boston? That was my challenge! PART I: The Orange Line To start I used these&amp;hellip;</description>
     </item>
     
     <item>
       <title>Call Me Anytime</title>
-      <link>/post/call-me-anytime/</link>
+      <link>https://data-scribers.mikewk.com/post/call-me-anytime/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/call-me-anytime/</guid>
+      <guid>https://data-scribers.mikewk.com/post/call-me-anytime/</guid>
       <description>It was two o’clock on a Tuesday afternoon and Abigail* was in the emergency room for the third time this month. I was able to step away from the day-to-day struggles of the general inpatient medicine floors to see her in the emergency department. I had promised to keep her out of the hospital, and I had failed&amp;hellip;</description>
     </item>
     
     <item>
       <title>Hacking for the Underserved</title>
-      <link>/post/hacking-for-the-underserved/</link>
+      <link>https://data-scribers.mikewk.com/post/hacking-for-the-underserved/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/hacking-for-the-underserved/</guid>
+      <guid>https://data-scribers.mikewk.com/post/hacking-for-the-underserved/</guid>
       <description>What comes first: the problems, or the tools to solve them? It seems at times as if the newest technology on the block has become more important than creating actual solutions to healthcare problems. In the digital health landscape, hackathons have run counter to the tools-first&amp;hellip;</description>
     </item>
     
     <item>
       <title>Fitbit or Groceries? The Challenge of Wearables in Underserved Populations</title>
-      <link>/post/fitbit-or-groceries-the-challe/</link>
+      <link>https://data-scribers.mikewk.com/post/fitbit-or-groceries-the-challe/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/fitbit-or-groceries-the-challe/</guid>
+      <guid>https://data-scribers.mikewk.com/post/fitbit-or-groceries-the-challe/</guid>
       <description>“I haven’t been exercising as much this month.” I’d failed at inspiring yet another patient to be more active. She was a middle aged women working two jobs to help support her family. What next? Do I recommend a wearable? The choices we make everyday impact our health. Individual behaviors can lead to significant disease states including high cholesterol, obesity, and&amp;hellip;</description>
     </item>
     
     <item>
       <title>“Siri, what do my lab results mean?”</title>
-      <link>/post/siri-what-do-my-lab-results-me/</link>
+      <link>https://data-scribers.mikewk.com/post/siri-what-do-my-lab-results-me/</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/siri-what-do-my-lab-results-me/</guid>
+      <guid>https://data-scribers.mikewk.com/post/siri-what-do-my-lab-results-me/</guid>
       <description>Overcoming the Literacy Burden Using Voice-Mediated Interfaces The literacy and numeracy burden represents one of the major barriers to engaging patients in their health. Efforts to offer patients open access to their data afford those who are health literate an empowering opportunity. However, patients who struggle with literacy and numeracy may not&amp;hellip;</description>
     </item>
     
     <item>
       <title>Can We Bring Machine Translation Beyond The Hype?</title>
-      <link>/post/can-we-bring-machine-translati/</link>
+      <link>https://data-scribers.mikewk.com/post/can-we-bring-machine-translati/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/can-we-bring-machine-translati/</guid>
+      <guid>https://data-scribers.mikewk.com/post/can-we-bring-machine-translati/</guid>
       <description>20% of the U.S. population speaks a language other than English at home and 8.6% defined as being limited English proficient. How do we reach all of these patients? Google Translate! or Google Translate? Machine translation, the power behind Google Translate, offers an opportunity to reach our limited English proficiency&amp;hellip;</description>
     </item>
     
     <item>
       <title>Connected Health Symposium 2015 in Review</title>
-      <link>/post/connected-health-symposium-201/</link>
+      <link>https://data-scribers.mikewk.com/post/connected-health-symposium-201/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/connected-health-symposium-201/</guid>
+      <guid>https://data-scribers.mikewk.com/post/connected-health-symposium-201/</guid>
       <description>I recently attended the Connected Health Symposium in Boston, MA. The Symposium was filled with thought-provoking keynotes, panels and discussions. With all these great ideas, it was tough to parse through the data, but I’ve captured a few key takeaways: 1. The Future is Wearables&amp;hellip;</description>
     </item>
     
     <item>
       <title>Becoming A Virtualist</title>
-      <link>/post/becoming-a-virtualist/</link>
+      <link>https://data-scribers.mikewk.com/post/becoming-a-virtualist/</link>
       <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/becoming-a-virtualist/</guid>
+      <guid>https://data-scribers.mikewk.com/post/becoming-a-virtualist/</guid>
       <description>Between Doctors on Demand, Teladoc and other online platforms, patients are willing to get their care online, but are clinicians trained to shift from bedside manner to “webside manner?” Telemedicine has quickly risen to be a novel clinical access point for&amp;hellip;</description>
     </item>
     
     <item>
       <title>#Colonoscopy or Can Social Media Increase Cancer Screening Rates?</title>
-      <link>/post/colonoscopy-or-can-social-medi/</link>
+      <link>https://data-scribers.mikewk.com/post/colonoscopy-or-can-social-medi/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/colonoscopy-or-can-social-medi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/colonoscopy-or-can-social-medi/</guid>
       <description>Health messages can be a tough sell. Not surprisingly, we are not doing of great job at getting patients to buy into preventative services. But what if these messages showed up their on Instagram, Facebook or Twitter? (#colonoscopy, anyone?) Things we know: 1.We are not doing well at encouraging patients to get&amp;hellip;</description>
     </item>
     
     <item>
       <title>I’m a Wannabe Polyglot</title>
-      <link>/post/im-a-wannabe-polyglot/</link>
+      <link>https://data-scribers.mikewk.com/post/im-a-wannabe-polyglot/</link>
       <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/im-a-wannabe-polyglot/</guid>
+      <guid>https://data-scribers.mikewk.com/post/im-a-wannabe-polyglot/</guid>
       <description>There’s value in my patients’ words. I want to get the most direct access to them. When I was in high school I read “Cien Años de Soledad” by Gabriel Garcia Marquez. To this day, it is one of my favorite novels. I read it in Spanish and couldn’t imagine reading the translated version. I can’t get away from the feeling that something is&amp;hellip;</description>
     </item>
     
     <item>
       <title>My Patients Don’t Know Me</title>
-      <link>/post/my-patients-dont-know-me/</link>
+      <link>https://data-scribers.mikewk.com/post/my-patients-dont-know-me/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-patients-dont-know-me/</guid>
+      <guid>https://data-scribers.mikewk.com/post/my-patients-dont-know-me/</guid>
       <description>We roll deep in academic medicine. Every morning during morning rounds, there are on average 5-6 doctors at the bedside to check in on patients. I don’t know about you, but I’m terrible with names when I’m at my healthiest. Now take a patient admitted for pneumonia, urinary tract infection, heart failure, or another draining ailment, trying to remember the name of their 5-6&amp;hellip;</description>
     </item>
     
     <item>
       <title>Intubations Misunderstood</title>
-      <link>/post/intubations-misunderstood/</link>
+      <link>https://data-scribers.mikewk.com/post/intubations-misunderstood/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/intubations-misunderstood/</guid>
+      <guid>https://data-scribers.mikewk.com/post/intubations-misunderstood/</guid>
       <description>This month I have been spending my time working hard in the Intensive Care Unit–where intubations are an unfortunate necessity. I invariably started thinking about who gets intubated. We look at many factors to assess a patient’s ability to breathe, such as respiratory rate, oxygen saturation, blood gas, and, of course, their ability to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Diagnosis by History and Other Broken Records</title>
-      <link>/post/diagnosis-by-history-and-other/</link>
+      <link>https://data-scribers.mikewk.com/post/diagnosis-by-history-and-other/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/diagnosis-by-history-and-other/</guid>
+      <guid>https://data-scribers.mikewk.com/post/diagnosis-by-history-and-other/</guid>
       <description>I ran late in clinic yesterday (not uncommon), but it was worth it. Despite labs, imaging and a ton of other data, much of medicine currently relies on gathering a history, just plain talking to the patient, especially when it comes to syncope (fainting). There is so much in the nuance in which questions get asked and how the questions are asked as well as the nuance of the patient’s&amp;hellip;</description>
     </item>
     
     <item>
       <title>Dying in Another Language</title>
-      <link>/post/dying-in-another-language/</link>
+      <link>https://data-scribers.mikewk.com/post/dying-in-another-language/</link>
       <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/dying-in-another-language/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dying-in-another-language/</guid>
       <description>During one overnight in the intensive care unit, I took care of 2 patients: one was Polish speaking, who I will call Peter, and the other was Spanish speaking, who I will call Teresa. For Teresa, the night started off with pain and ended with her unexpected passing. Her nurse could tell she was in pain, but could not understand where the pain&amp;hellip;</description>
     </item>
     

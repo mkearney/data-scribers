@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thestudyofthehouseholdcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/thestudyofthehouseholdcom/</link>
+    <link>https://data-scribers.mikewk.com/tags/thestudyofthehouseholdcom/</link>
     <description>Recent content in Thestudyofthehouseholdcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/thestudyofthehouseholdcom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/thestudyofthehouseholdcom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualizing insect count data — a zero-inflated poisson model</title>
-      <link>/post/visualizing-insect-count-data-/</link>
+      <link>https://data-scribers.mikewk.com/post/visualizing-insect-count-data-/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/visualizing-insect-count-data-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/visualizing-insect-count-data-/</guid>
       <description>Most ecologists would agree: it’s really hard to predict which animals are going to be where, and how many of them you might find when you look. Lately, there has been lots of interest in using mixed-effects models to make these predictions. The advantage is that these models are of a kind that most biologists already know&amp;hellip;</description>
     </item>
     
     <item>
       <title>Centering by group means, Part I</title>
-      <link>/post/centering-by-group-means-part-/</link>
+      <link>https://data-scribers.mikewk.com/post/centering-by-group-means-part-/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/centering-by-group-means-part-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/centering-by-group-means-part-/</guid>
       <description>What this post is about I have been thinking a lot lately about the importance of centering variables. This is something that has earned me eyerolls and scorn from my nearest collaborators, because it is so basic. Yet I think there is something to unpack&amp;hellip;</description>
     </item>
     
     <item>
       <title>Don’t hide your (scientific) weaknesses</title>
-      <link>/post/dont-hide-your-scientific-weak/</link>
+      <link>https://data-scribers.mikewk.com/post/dont-hide-your-scientific-weak/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/dont-hide-your-scientific-weak/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dont-hide-your-scientific-weak/</guid>
       <description>What are your weaknesses as a scientist? What should we do when we become aware of those weaknesses, or when someone makes us aware? Backstory: Several months ago I started doing Crossfit here in France1. It’s been a fun way to meet new people and get some exercise. It also lets me work out one muscle that I really need to improve: my French&amp;hellip;</description>
     </item>
     
     <item>
       <title>Weekly Reading</title>
-      <link>/post/weekly-reading/</link>
+      <link>https://data-scribers.mikewk.com/post/weekly-reading/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/weekly-reading/</guid>
+      <guid>https://data-scribers.mikewk.com/post/weekly-reading/</guid>
       <description>Here&amp;rsquo;s where my reading took me this week. Some of it is ecology, but a lot of it is other, random things that came to me via Twitter or from friends. Perhaps this will become a regular post for me! Favourite paper Paine et al. on a wonderful idea of integrating demography and traits to predict community dynamics. I like the paper for its ideas - I have always enjoyed thinking about&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mixed modelling as a foreign language</title>
-      <link>/post/mixed-modelling-as-a-foreign-l/</link>
+      <link>https://data-scribers.mikewk.com/post/mixed-modelling-as-a-foreign-l/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mixed-modelling-as-a-foreign-l/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mixed-modelling-as-a-foreign-l/</guid>
       <description>j’ n’y suis jamais allé quoi Ah dacc, tout s’explique donc Andrew: … pardon, mais vous avez dit combien de mots là? I have something like that interaction almost every day. French is an intricate language, and high school studying prepared me well for all the conjugations, rules, and exceptions. What I was not prepared for was the sheer number of&amp;hellip;</description>
     </item>
     
     <item>
       <title>Converting Anxiety into wisdom</title>
-      <link>/post/converting-anxiety-into-wisdom/</link>
+      <link>https://data-scribers.mikewk.com/post/converting-anxiety-into-wisdom/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/converting-anxiety-into-wisdom/</guid>
+      <guid>https://data-scribers.mikewk.com/post/converting-anxiety-into-wisdom/</guid>
       <description>I can be skeptical, even anxious, about ecology – particularly about methods and data quality. However, “anxiety can be cultivated into Wisdom” (McElreath, 2015). This is my mission for myself, and this post might be one of a series attempting this cultivation. I like thinking about quantitative methods, and I like giving feedback on proposed or in-progress&amp;hellip;</description>
     </item>
     
     <item>
       <title>Easily made fitted and predicted values made easy</title>
-      <link>/post/easily-made-fitted-and-predict/</link>
+      <link>https://data-scribers.mikewk.com/post/easily-made-fitted-and-predict/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/easily-made-fitted-and-predict/</guid>
+      <guid>https://data-scribers.mikewk.com/post/easily-made-fitted-and-predict/</guid>
       <description>Earlier this week I wrote out a multilevel model. It had fit well (though slowly) and I spent a happy hour admiring the chains, checking the coefficients, plotting posterior values. Life was good and easy; merrily did I sail before a fair breeze and a clear sky. My next port of call was to plot some smooth fitted lines, aka “counterfactual predictions”. Ah yes. Predicitons</description>
     </item>
     
     <item>
       <title>How I use Rmarkdown</title>
-      <link>/post/how-i-use-rmarkdown/</link>
+      <link>https://data-scribers.mikewk.com/post/how-i-use-rmarkdown/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-i-use-rmarkdown/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-i-use-rmarkdown/</guid>
       <description>Last week or so, I achieved a wonderous thing. A trivial&amp;hellip;</description>
     </item>
     
     <item>
       <title>A tidy game of life</title>
-      <link>/post/a-tidy-game-of-life/</link>
+      <link>https://data-scribers.mikewk.com/post/a-tidy-game-of-life/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/a-tidy-game-of-life/</guid>
+      <guid>https://data-scribers.mikewk.com/post/a-tidy-game-of-life/</guid>
       <description>Ever since I moved to France for my postdoc in September 2016, I’ve tried to practice French whenever I can. One easy way to do that is by consuming YouTube channels in French – great things to put on the the background while I make food for my son, or feed my son, or clean up after feeding my son, etc. One of my favourite chaînes de Youtube is Science Etonnante, by David&amp;hellip;</description>
     </item>
     
     <item>
       <title>Population growth with functional programming</title>
-      <link>/post/population-growth-with-functio/</link>
+      <link>https://data-scribers.mikewk.com/post/population-growth-with-functio/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/population-growth-with-functio/</guid>
+      <guid>https://data-scribers.mikewk.com/post/population-growth-with-functio/</guid>
       <description>Today I want to tell you about an approach for functional programming in R – and then apply it to studying population growth! I have been studying some of the purrr functions lately. They are a useful family of functions for performing two common tasks in R: manipulating lists and altering the behaviour of&amp;hellip;</description>
     </item>
     
     <item>
       <title>Twitter recommends stats books</title>
-      <link>/post/twitter-recommends-stats-books/</link>
+      <link>https://data-scribers.mikewk.com/post/twitter-recommends-stats-books/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/twitter-recommends-stats-books/</guid>
+      <guid>https://data-scribers.mikewk.com/post/twitter-recommends-stats-books/</guid>
       <description>Yesterday I asked my beloved Twitter nerds to recommend to me their favourite quantitative texts in Ecology: my postdoc super tells me I can BUY BOOKS! 💓📚📚💓 quick sweet friends, what are your fun statistical ecology book recommendations? - Andrew MacDonald (@polesasunder) December 2, 2016 As a way of saying &amp;ldquo;Thank you!&amp;rdquo; I thought that I would put all the books in a list for anyone who is&amp;hellip;</description>
     </item>
     
     <item>
       <title>Continuous fractions with Map and Reduce</title>
-      <link>/post/continuous-fractions-with-map-/</link>
+      <link>https://data-scribers.mikewk.com/post/continuous-fractions-with-map-/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/continuous-fractions-with-map-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/continuous-fractions-with-map-/</guid>
       <description>Over the summer, some of us here at UBC started a reading group based around Hadley Wickham’s book, Advanced R Programming. The goal was to compare our answers to the exercises and our impressions of the content. We recently read my favourite chapter, Functionals, where readers are challenged to read about some algorithms in Structure and Interpretation of Computer Programs, and implement it in&amp;hellip;</description>
     </item>
     

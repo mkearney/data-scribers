@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumprainnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/sumprainnetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/sumprainnetlifycom/</link>
     <description>Recent content in Sumprainnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/sumprainnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/sumprainnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpreting Results from Clinical Research</title>
-      <link>/post/interpreting-results-from-clin/</link>
+      <link>https://data-scribers.mikewk.com/post/interpreting-results-from-clin/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/interpreting-results-from-clin/</guid>
+      <guid>https://data-scribers.mikewk.com/post/interpreting-results-from-clin/</guid>
       <description>Estimation of effect size (ES) with confidence intervals (CI) of ES are much easy to understand and carry much more informations with them making them a preferable way to present results in clinical research. Hope you like the post. Feel free to post any&amp;hellip;</description>
     </item>
     
     <item>
       <title>Batch modification of PDF pages with magick package</title>
-      <link>/post/batch-modification-of-pdf-page/</link>
+      <link>https://data-scribers.mikewk.com/post/batch-modification-of-pdf-page/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/batch-modification-of-pdf-page/</guid>
+      <guid>https://data-scribers.mikewk.com/post/batch-modification-of-pdf-page/</guid>
       <description>I was recently working on a PDF file with 60 odd pages and I had to crop the lower border of the pages. The PDF pages are loaded as vector of image object We run the following command to crop each page from below Comments are&amp;hellip;</description>
     </item>
     
     <item>
       <title>Interpretation of effectiveness between two interventions</title>
-      <link>/post/interpretation-of-effectivenes/</link>
+      <link>https://data-scribers.mikewk.com/post/interpretation-of-effectivenes/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/interpretation-of-effectivenes/</guid>
+      <guid>https://data-scribers.mikewk.com/post/interpretation-of-effectivenes/</guid>
       <description>The investigators studied the effect of adding Daratumumab with Bortezomib, Melphalan and Prednisolone in patients with freshly detected Myeloma ineligible for Autologous Bone Marrow Transplantation. The primary outcome was Progression free survival (time to progression or death, whichever was early). The outcome was measured at 12 months and 18 months post initiation of&amp;hellip;</description>
     </item>
     
     <item>
       <title>Notes on Thrombotic Microangiopathy</title>
-      <link>/post/notes-on-thrombotic-microangio/</link>
+      <link>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/notes-on-thrombotic-microangio/</guid>
+      <guid>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</guid>
       <description>Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) a. Endothelial dysfunction b. Microinfarcts a. Primary TMA syndromes (ADAMTS deficiency, HUS): treatment to be of the cause&amp;hellip;</description>
     </item>
     

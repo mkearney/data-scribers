@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ernestoramirezcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/ernestoramirezcom/</link>
+    <link>https://data-scribers.mikewk.com/tags/ernestoramirezcom/</link>
     <description>Recent content in Ernestoramirezcom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ernestoramirezcom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/ernestoramirezcom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Examining Variability in Physical Activity Data with R</title>
-      <link>/post/examining-variability-in-physi/</link>
+      <link>https://data-scribers.mikewk.com/post/examining-variability-in-physi/</link>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/examining-variability-in-physi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/examining-variability-in-physi/</guid>
       <description>Earlier this summer, while I was traveling to a conference I came across an interesting paper published by a group from the University of South Florida that explored strategies for interpreting highly variable data from long-term use of a Fitbit. I’ll let them explain: It’s an interesting paper, with some general, easy-to-use, methods of visualizing daily-scale time series&amp;hellip;</description>
     </item>
     
     <item>
       <title>How Much Fun is Maximum Fun?</title>
-      <link>/post/how-much-fun-is-maximum-fun/</link>
+      <link>https://data-scribers.mikewk.com/post/how-much-fun-is-maximum-fun/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-much-fun-is-maximum-fun/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-much-fun-is-maximum-fun/</guid>
       <description>I’m a big consumer of podcasts. Ever since I started living on my own while in graduate school I’ve found that having funny and interesting people in my ears helps me get through the day. Even now that I’m cohabiting with my wife I haven’t left my trusty podcasts&amp;hellip;</description>
     </item>
     
     <item>
       <title>I&#39;m the Doctor Now</title>
-      <link>/post/im-the-doctor-now/</link>
+      <link>https://data-scribers.mikewk.com/post/im-the-doctor-now/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/im-the-doctor-now/</guid>
+      <guid>https://data-scribers.mikewk.com/post/im-the-doctor-now/</guid>
       <description>Well, it&amp;rsquo;s finally done. Eight years after I started this crazy graduate school journey I&amp;rsquo;ve successfully defended my dissertation. It wasn&amp;rsquo;t easy, it wasn&amp;rsquo;t perfect, but it&amp;rsquo;s done and I couldn&amp;rsquo;t be happier to have accomplished this milestone. Some folks have asked to see the slides, so I thought I&amp;rsquo;d share them here. Hopefully they make sense, but don&amp;rsquo;t worry if they&amp;hellip;</description>
     </item>
     
     <item>
       <title>Visualizing Time Series Data</title>
-      <link>/post/visualizing-time-series-data/</link>
+      <link>https://data-scribers.mikewk.com/post/visualizing-time-series-data/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/visualizing-time-series-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/visualizing-time-series-data/</guid>
       <description>When working with human behavior you’ll almost always have to deal with data that is formatted as a time series. Briefly, time series data corresponds with repeated measures of a variable (or multiple variables) at consistent intervals over a period. As my dissertation analysis is ongoing, I’m using my own Fitbit data here for this example. I downloaded my step data over a two-year period from&amp;hellip;</description>
     </item>
     
     <item>
       <title>Ode to the Outshot</title>
-      <link>/post/ode-to-the-outshot/</link>
+      <link>https://data-scribers.mikewk.com/post/ode-to-the-outshot/</link>
       <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/ode-to-the-outshot/</guid>
+      <guid>https://data-scribers.mikewk.com/post/ode-to-the-outshot/</guid>
       <description>I&amp;rsquo;ve been listening to podcasts for a while. Like most people I started with the juggernaut, This American Life, but quickly opened up my catalogue to other shows and ideas. I&amp;rsquo;m sure if you were to plot my podcast listening statistics you&amp;rsquo;d see a sharp uptick in hours listened when I started my second round of graduate school almost six years ago in San&amp;hellip;</description>
     </item>
     
     <item>
       <title>Hardware is Hard</title>
-      <link>/post/hardware-is-hard/</link>
+      <link>https://data-scribers.mikewk.com/post/hardware-is-hard/</link>
       <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/hardware-is-hard/</guid>
+      <guid>https://data-scribers.mikewk.com/post/hardware-is-hard/</guid>
       <description>I guess in the end you might be asking the wrong question. Of course it is hard, building cars is hard, doing astrophysics is hard, playing the cello is hard. But here we are with hundreds of cars to choose from, new PhDs staring at the stars every night, and parents enrolling their children in music lessons. Hard will never go away, but being better is always within&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Data Dilemma</title>
-      <link>/post/the-data-dilemma/</link>
+      <link>https://data-scribers.mikewk.com/post/the-data-dilemma/</link>
       <pubDate>Tue, 11 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-data-dilemma/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-data-dilemma/</guid>
       <description>With big money at stake it&amp;rsquo;s no surprise that professional leagues and individual teams are fully embracing the big data craze. Anything and everything &amp;ldquo;for the win&amp;rdquo; has been true for centuries. Now, it&amp;rsquo;s come to include full-time statisticians, data analysts, and, in rare cases (for now), a&amp;hellip;</description>
     </item>
     
     <item>
       <title>Living With Data</title>
-      <link>/post/living-with-data/</link>
+      <link>https://data-scribers.mikewk.com/post/living-with-data/</link>
       <pubDate>Sun, 02 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/living-with-data/</guid>
+      <guid>https://data-scribers.mikewk.com/post/living-with-data/</guid>
       <description>Earlier this week an old friend of mine sent me a message outlining a request. In an effort to get back to his habit of drawing and creating he was reaching to a few of his friends for some inspiration and ideas. Simple premise. I&amp;rsquo;m inviting important people that I admire, respect, and care about to gift me one creative brief—a specific, attainable objective—to complete by my next&amp;hellip;</description>
     </item>
     

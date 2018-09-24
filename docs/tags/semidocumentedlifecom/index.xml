@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semidocumentedlifecom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/semidocumentedlifecom/</link>
+    <link>https://data-scribers.mikewk.com/tags/semidocumentedlifecom/</link>
     <description>Recent content in Semidocumentedlifecom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/semidocumentedlifecom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/semidocumentedlifecom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>comparing audio features from my monthly playlists, using spotifyr</title>
-      <link>/post/comparing-audio-features-from-/</link>
+      <link>https://data-scribers.mikewk.com/post/comparing-audio-features-from-/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/comparing-audio-features-from-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/comparing-audio-features-from-/</guid>
       <description>Spotify’s API functionality seems pretty straightforward. Tracks are curated as playlists by users, and tracks have a bunch of metadata (artist, album, etc.). Each of these entities (tracks, albums, artists, users) has an ID, allowing you to organize and jump between them. The first thing I need are all the tracks from each playlist I’ve&amp;hellip;</description>
     </item>
     
     <item>
       <title>how should I get started with R?</title>
-      <link>/post/how-should-i-get-started-with-/</link>
+      <link>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-should-i-get-started-with-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</guid>
       <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started. The second thing I’d suggest is starting a GitHub account, and to begin curating some of your&amp;hellip;</description>
     </item>
     
     <item>
       <title>climbing into the crater</title>
-      <link>/post/climbing-into-the-crater/</link>
+      <link>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/climbing-into-the-crater/</guid>
+      <guid>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</guid>
       <description>Anyways, given that more waves are available, we don’t have to look at a single comparison between 2007 and 2016, if we want to push Bruenig’s work a little further. The SCF is conducted every 3 years (typically), so we can add two more lines to Bruenig’s graphs to look at 2010 and 2013 as&amp;hellip;</description>
     </item>
     
     <item>
       <title>exploring NUFORC sightings</title>
-      <link>/post/exploring-nuforc-sightings/</link>
+      <link>https://data-scribers.mikewk.com/post/exploring-nuforc-sightings/</link>
       <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/exploring-nuforc-sightings/</guid>
+      <guid>https://data-scribers.mikewk.com/post/exploring-nuforc-sightings/</guid>
       <description>That said, the number of sightings in each state has seen a steady climb since 2000. My guess is that due to prominence of search engines, awareness of NUFORC (and thus, the likelihood of reporting) has increased. You can follow the trend with the boxplots below. Each state contributes their count for a given year, and the boxplot helps give a sense how much they vary from each&amp;hellip;</description>
     </item>
     

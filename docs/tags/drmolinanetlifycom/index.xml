@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drmolinanetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/drmolinanetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/drmolinanetlifycom/</link>
     <description>Recent content in Drmolinanetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/drmolinanetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/drmolinanetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OktoberfestR</title>
-      <link>/post/oktoberfestr/</link>
+      <link>https://data-scribers.mikewk.com/post/oktoberfestr/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/oktoberfestr/</guid>
+      <guid>https://data-scribers.mikewk.com/post/oktoberfestr/</guid>
       <description>The app takes data from the Oktoberfest since 1985 and until 2016 (so far). It has eight variables: The user can interactively make a subset of the data to visualize only a specified range of years, and can then choose from eight different&amp;hellip;</description>
     </item>
     

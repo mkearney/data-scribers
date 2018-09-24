@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rmageddonnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/rmageddonnetlifycom/</link>
+    <link>https://data-scribers.mikewk.com/tags/rmageddonnetlifycom/</link>
     <description>Recent content in Rmageddonnetlifycom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rmageddonnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/rmageddonnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Writing an R package from scratch</title>
-      <link>/post/writing-an-r-package-from-scra/</link>
+      <link>https://data-scribers.mikewk.com/post/writing-an-r-package-from-scra/</link>
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/writing-an-r-package-from-scra/</guid>
+      <guid>https://data-scribers.mikewk.com/post/writing-an-r-package-from-scra/</guid>
       <description>Anyone who has created their own R package has probably come across Hilary Parker’s awesome blogpost, that walks you through creating your very first R package. The comprehensive detail on everything R packages can be found in Hadley Wickham’s superb&amp;hellip;</description>
     </item>
     
     <item>
       <title>Reanimating the Datasaurus</title>
-      <link>/post/reanimating-the-datasaurus/</link>
+      <link>https://data-scribers.mikewk.com/post/reanimating-the-datasaurus/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/reanimating-the-datasaurus/</guid>
+      <guid>https://data-scribers.mikewk.com/post/reanimating-the-datasaurus/</guid>
       <description>Whilst browsing twitter last night I came upon this tweet by the currrent author of gganimate: I&amp;rsquo;ve started a gganimate wiki page in order to collect&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Burger King Pandemic</title>
-      <link>/post/the-burger-king-pandemic/</link>
+      <link>https://data-scribers.mikewk.com/post/the-burger-king-pandemic/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-burger-king-pandemic/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-burger-king-pandemic/</guid>
       <description>Whilst I was rooting around for inspiration, my girlfriend suggested I should do a post about food, quickly followed up by “burgers!!!”. So a few google searches later and I decided to create an animated map, showing all the countries of the world that had at least one Burger King store. I’m particularly chuffed that I’ve managed to combine a multitude of really cool packages in this post. We’ve&amp;hellip;</description>
     </item>
     
     <item>
       <title>UK Population Pyramid</title>
-      <link>/post/uk-population-pyramid/</link>
+      <link>https://data-scribers.mikewk.com/post/uk-population-pyramid/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/uk-population-pyramid/</guid>
+      <guid>https://data-scribers.mikewk.com/post/uk-population-pyramid/</guid>
       <description>On my journey to creating my animated Premier League table in my previous post, I noticed a lot of examples for creating gifs using the magick package. The gist behind the majority of these examples was to create a sequence of snapshots which could be combined together to create animations. Whilst not quite as seamless as gganimate, it appears to be much more&amp;hellip;</description>
     </item>
     
     <item>
       <title>Interactive Premier League Table</title>
-      <link>/post/interactive-premier-league-tab/</link>
+      <link>https://data-scribers.mikewk.com/post/interactive-premier-league-tab/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/interactive-premier-league-tab/</guid>
+      <guid>https://data-scribers.mikewk.com/post/interactive-premier-league-tab/</guid>
       <description>For my inaugural blog post I decided I would step into the world of animated graphics for the first time. I was inspired by the presentation that Thomas Lin Pedersen gave at the useR! conference on gganimate and was motivated to create my very first&amp;hellip;</description>
     </item>
     

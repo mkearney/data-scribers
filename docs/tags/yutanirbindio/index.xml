@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yutanirbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/yutanirbindio/</link>
+    <link>https://data-scribers.mikewk.com/tags/yutanirbindio/</link>
     <description>Recent content in Yutanirbindio on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/yutanirbindio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/yutanirbindio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Double dispatch of S3 method</title>
-      <link>/post/double-dispatch-of-s3-method/</link>
+      <link>https://data-scribers.mikewk.com/post/double-dispatch-of-s3-method/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/double-dispatch-of-s3-method/</guid>
+      <guid>https://data-scribers.mikewk.com/post/double-dispatch-of-s3-method/</guid>
       <description>So far, so good. But, this won&amp;rsquo;t work&amp;hellip; Here&amp;rsquo;s examples to show them clearly: If you cannot wait, use S4. S4 can naturally do double dispatch because their method dispatch depends on the whole combination of types of the&amp;hellip;</description>
     </item>
     
     <item>
       <title>gghighlight 0.1.0 Is Released!</title>
-      <link>/post/gghighlight-010-is-released/</link>
+      <link>https://data-scribers.mikewk.com/post/gghighlight-010-is-released/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/gghighlight-010-is-released/</guid>
+      <guid>https://data-scribers.mikewk.com/post/gghighlight-010-is-released/</guid>
       <description>gghighlight 0.1.0 is on CRAN now! One more small news is, gghighlight got an introductory vignette. This is basically the shorter version of the previous&amp;hellip;</description>
     </item>
     
     <item>
       <title>Re-introduction to gghighlight</title>
-      <link>/post/reintroduction-to-gghighlight/</link>
+      <link>https://data-scribers.mikewk.com/post/reintroduction-to-gghighlight/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/reintroduction-to-gghighlight/</guid>
+      <guid>https://data-scribers.mikewk.com/post/reintroduction-to-gghighlight/</guid>
       <description>But, please forget about that gghighlight; gghighlight has become far more powerful and simple! So, let me re-introduce about gghighlight. What do you do when you explore a data that is too large to print? OK, good. But, what about ggplot2? For a data that has too many series, it is almost impossible to identify a series by its colour as their differences are so&amp;hellip;</description>
     </item>
     
     <item>
       <title>Plot geom_sf() On OpenStreetMap Tiles</title>
-      <link>/post/plot-geomsf-on-openstreetmap-t/</link>
+      <link>https://data-scribers.mikewk.com/post/plot-geomsf-on-openstreetmap-t/</link>
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/plot-geomsf-on-openstreetmap-t/</guid>
+      <guid>https://data-scribers.mikewk.com/post/plot-geomsf-on-openstreetmap-t/</guid>
       <description>Clearly display license attribution. For &amp;ldquo;Technical Usage Requirements&amp;rdquo; section, I have to read this more carefully. Let&amp;rsquo;s look at the requirements one by one. Valid HTTP User-Agent identifying application. Faking another app&amp;rsquo;s User-Agent WILL get you blocked. If known, a valid HTTP Referer. DO NOT send no-cache&amp;hellip;</description>
     </item>
     
     <item>
       <title>ICYMI</title>
-      <link>/post/icymi/</link>
+      <link>https://data-scribers.mikewk.com/post/icymi/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/icymi/</guid>
+      <guid>https://data-scribers.mikewk.com/post/icymi/</guid>
       <description>Then, I did a quick poll (sorry, in Japanese) about how well known is the&amp;hellip;</description>
     </item>
     
     <item>
       <title>dplyr Doesn&#39;t Provide Full Support For S4 (For Now?)</title>
-      <link>/post/dplyr-doesnt-provide-full-supp/</link>
+      <link>https://data-scribers.mikewk.com/post/dplyr-doesnt-provide-full-supp/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/dplyr-doesnt-provide-full-supp/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dplyr-doesnt-provide-full-supp/</guid>
       <description>I&amp;rsquo;ve seen sooo many (duplicated) issues on this topic were opened on dplyr&amp;rsquo;s repo and lubridate&amp;rsquo;s repo. So, apparently, the content of this post won&amp;rsquo;t stay useful over time. But, for now, I feel this temporal &amp;ldquo;known issue&amp;rdquo; should be well-known, at least among those who suffers from this issue. I hope this post will be outdated&amp;hellip;</description>
     </item>
     
     <item>
       <title>An Example Usage of ggplot_add()</title>
-      <link>/post/an-example-usage-of-ggplotadd/</link>
+      <link>https://data-scribers.mikewk.com/post/an-example-usage-of-ggplotadd/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/an-example-usage-of-ggplotadd/</guid>
+      <guid>https://data-scribers.mikewk.com/post/an-example-usage-of-ggplotadd/</guid>
       <description>You may wonder why this can&amp;rsquo;t be written like this: Let me explain a bit. If ggplot2 were designed pipe-friendly, this Let&amp;rsquo;s remember this&amp;hellip;</description>
     </item>
     
     <item>
       <title>Publish R Markdown to Medium via An RStudio Addin</title>
-      <link>/post/publish-r-markdown-to-medium-v/</link>
+      <link>https://data-scribers.mikewk.com/post/publish-r-markdown-to-medium-v/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/publish-r-markdown-to-medium-v/</guid>
+      <guid>https://data-scribers.mikewk.com/post/publish-r-markdown-to-medium-v/</guid>
       <description>mediumr allows you to knit and post R Markdown to Medium. You can install mediumr from github with: The addin knits the Rmd and shows the preview dialog. If it looks ok, click &amp;ldquo;Publish&amp;rdquo;: After successfully uploading the content to Medium, the addin launches a web browser and jumps to the&amp;hellip;</description>
     </item>
     
     <item>
       <title>How Not To Knit All Rmd Files With Blogdown</title>
-      <link>/post/how-not-to-knit-all-rmd-files-/</link>
+      <link>https://data-scribers.mikewk.com/post/how-not-to-knit-all-rmd-files-/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-not-to-knit-all-rmd-files-/</guid>
+      <guid>https://data-scribers.mikewk.com/post/how-not-to-knit-all-rmd-files-/</guid>
       <description>Compiling all Rmd files is &amp;ldquo;safe&amp;rdquo; in the sense that we can notice if some Rmd becomes impossible to compile due to some breaking changes of some package. But, it may be time-consuming and can be a problem for those who have a lot of .Rmd files. (I guess this script is incomplete to handle htmlwidgets&amp;hellip;</description>
     </item>
     
     <item>
       <title>dplyr</title>
-      <link>/post/dplyr/</link>
+      <link>https://data-scribers.mikewk.com/post/dplyr/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dplyr/</guid>
+      <guid>https://data-scribers.mikewk.com/post/dplyr/</guid>
       <description>Some of my friends didn&amp;rsquo;t aware that dplyr now accepts characters. Did you? For example, this expression can be also written in this way: or in this way: You may want to write some code that selects columns programmatically using&amp;hellip;</description>
     </item>
     
     <item>
       <title>Confession</title>
-      <link>/post/confession/</link>
+      <link>https://data-scribers.mikewk.com/post/confession/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/confession/</guid>
+      <guid>https://data-scribers.mikewk.com/post/confession/</guid>
       <description>You may notice that diffs of .Rd files are suppressed by default on GitHub since some time. Do you wonder who did this? It&amp;rsquo;s me, yay! This is my pull request: Though I thought I&amp;rsquo;ve done the right thing at that time, now I&amp;rsquo;m afraid this change may be bad for some cases&amp;hellip; After the relese of roxygen2 6.0.0, the game has changed a bit. We can use Markdown to write package document&amp;hellip;</description>
     </item>
     
     <item>
       <title>Use CircleCI for R Projects</title>
-      <link>/post/use-circleci-for-r-projects/</link>
+      <link>https://data-scribers.mikewk.com/post/use-circleci-for-r-projects/</link>
       <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/use-circleci-for-r-projects/</guid>
+      <guid>https://data-scribers.mikewk.com/post/use-circleci-for-r-projects/</guid>
       <description>Why CircleCI? Yes, I know using Travis CI is this easy, thanks to devtools package: Travis CI is OK most of the time. Still, CircleCI has some advantages: Though Travis can cache the setup once it succeeds, it is good if we can save time to setup testing environment by using existing Docker images. CircleCI displays the test summary in this pretty way: All I had to do was two steps.</description>
     </item>
     
     <item>
       <title>Introduction to gghighlight</title>
-      <link>/post/introduction-to-gghighlight/</link>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-gghighlight/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/introduction-to-gghighlight/</guid>
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-gghighlight/</guid>
       <description>Suppose we have a data that has too many series like this: For such data, it is almost impossible to identify a series by its colour as their differences are so subtle. So, I am motivated to filter data and map colour only on that, using dplyr: (Does &amp;ldquo;non-logical predicate&amp;rdquo; make sense&amp;hellip;? Due to my poor English skill, I couldn&amp;rsquo;t come up with a good term other than&amp;hellip;</description>
     </item>
     

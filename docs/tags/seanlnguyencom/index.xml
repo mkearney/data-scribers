@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seanlnguyencom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</title>
-    <link>/tags/seanlnguyencom/</link>
+    <link>https://data-scribers.mikewk.com/tags/seanlnguyencom/</link>
     <description>Recent content in Seanlnguyencom on {&lt;span style=&#39;color:red&#39;&gt;data sc&lt;/span&gt;r&lt;span style=&#39;color:red&#39;&gt;i&lt;/span&gt;&lt;span style=&#39;color:red&#39;&gt;bers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/seanlnguyencom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://data-scribers.mikewk.com/tags/seanlnguyencom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analyzing Sleep Data with R</title>
-      <link>/post/analyzing-sleep-data-with-r/</link>
+      <link>https://data-scribers.mikewk.com/post/analyzing-sleep-data-with-r/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/analyzing-sleep-data-with-r/</guid>
+      <guid>https://data-scribers.mikewk.com/post/analyzing-sleep-data-with-r/</guid>
       <description>I’ve been using the iOS Sleep Cycle app to track my sleeping since late 2014 and have accumulated quite a bit of information about my sleeping habits. I wanted to see if I could do some exploratory data analysis and try out some different packages to clean up and visualize my&amp;hellip;</description>
     </item>
     
     <item>
       <title>The World’s Most Powerful Rocket</title>
-      <link>/post/the-worlds-most-powerful-rocke/</link>
+      <link>https://data-scribers.mikewk.com/post/the-worlds-most-powerful-rocke/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-worlds-most-powerful-rocke/</guid>
+      <guid>https://data-scribers.mikewk.com/post/the-worlds-most-powerful-rocke/</guid>
       <description>SpaceX launched Falcon Heavy this week and I remembered how Elon Musk noted that it would have twice the thrust of any rocket currently in existence. I was intrigued by this statement and decided to look further and compare the thrusts of other rockets of the past and rockets that are planned in the future. Next I used rvest to read scrape the information extract the text and make it into a&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mapping Starbucks Locations</title>
-      <link>/post/mapping-starbucks-locations/</link>
+      <link>https://data-scribers.mikewk.com/post/mapping-starbucks-locations/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mapping-starbucks-locations/</guid>
+      <guid>https://data-scribers.mikewk.com/post/mapping-starbucks-locations/</guid>
       <description>This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch. This post assumes you have R and Rstudio installed and know how to install&amp;hellip;</description>
     </item>
     

@@ -125,13 +125,14 @@ for (i in seq_len(nrow(blogs_data))) {
 ## build with hugo
 blogdown::hugo_build(local = TRUE)
 
+## alt build fun (don't cleanup resources)
 build_ds <- function(local = TRUE) {
   config <- blogdown:::load_config()
   blogdown:::hugo_cmd(c(if (local) c("-b", blogdown:::site_base_dir(), "-D", "-F"),
     "-d", shQuote(blogdown:::publish_dir(config)), blogdown:::theme_flag(config)))
 }
 
-build_ds()
+#build_ds()
 #blogdown::serve_site()
 #blogdown::stop_server()
 

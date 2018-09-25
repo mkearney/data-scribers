@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guyabelcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/guyabelcom/</link>
+    <description>Recent content in Guyabelcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/guyabelcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animating Changes in Football Kits using R</title>
+      <link>https://data-scribers.mikewk.com/post/animating-changes-in-football-/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animating-changes-in-football-/</guid>
+      <description>This bit of code can take a while to execute if the are many frames (see my comments towards the end of the post). I could then run the same code as above to scrape the images, annotate the year and copyright information and build the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Animated Directional Chord Diagrams</title>
+      <link>https://data-scribers.mikewk.com/post/animated-directional-chord-dia/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animated-directional-chord-dia/</guid>
+      <description>The next step is to tween the data by migration corridor. (might take a few seconds to fully load) where The function can be used to derive the size of gaps in each frame for a new animated&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

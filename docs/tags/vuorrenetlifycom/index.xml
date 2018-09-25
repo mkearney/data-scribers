@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vuorrenetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/vuorrenetlifycom/</link>
+    <description>Recent content in Vuorrenetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/vuorrenetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Access Mandates</title>
+      <link>https://data-scribers.mikewk.com/post/open-access-mandates/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/open-access-mandates/</guid>
+      <description>Here are some notes on how the six features can be achieved using nothing else but “stuff on the internet”. I won’t provide detailed arguments, but just quick notes on how each of these features can already be implemented with minimal cost to researchers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 4</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>However, we almost always want to discuss our inference about the population, not individual subjects. Further, if we wish to discuss individual subjects, we should place them in the context of other subjects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the third part in a series of blog posts on Signal Detection models: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sharing R products</title>
+      <link>https://data-scribers.mikewk.com/post/sharing-r-products/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sharing-r-products/</guid>
+      <description>Sharing R data (.rda) and R code (.R) files is becoming more common in the social sciences&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SIPS 2017 Conference Tweets</title>
+      <link>https://data-scribers.mikewk.com/post/sips-2017-conference-tweets/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sips-2017-conference-tweets/</guid>
+      <description>The timeline of tweets reveals that SIPSers were most active on Twitter on Monday, and there’s a clear spike of activity at 6pm on Monday. Here are the top 5 SIPS non-retweets. Here are the top hashtags people used with the SIPS hashtag&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Correlated Psychological Variables, Uncertainty, and Bayesian Estimation</title>
+      <link>https://data-scribers.mikewk.com/post/correlated-psychological-varia/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/correlated-psychological-varia/</guid>
+      <description>Assessing the correlations between psychological variabless, such as abilities and improvements, is one essential goal of psychological science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing varying effects&#39; posteriors with joyplots</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-varying-effects-po/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-varying-effects-po/</guid>
+      <description>However, to make the figure more Unknown Pleasures-y, you’ll need to modify the theme a little bit: Well, there you go&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

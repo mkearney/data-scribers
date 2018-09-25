@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katiescrantoncom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/katiescrantoncom/</link>
+    <description>Recent content in Katiescrantoncom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/katiescrantoncom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building my website with blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/building-my-website-with-blogd/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-my-website-with-blogd/</guid>
+      <description>This is my third attempt at building a website, including an (overly?) ambitious idea to document all of the #Rcats and #Rdogs (and #Rchickens Lucy!) on twitter&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

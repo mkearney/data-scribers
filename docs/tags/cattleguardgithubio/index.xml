@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cattleguardgithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/cattleguardgithubio/</link>
+    <description>Recent content in Cattleguardgithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/cattleguardgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Apply Google&#39;s CausalImpact Package to Analyze Infosec Intervention</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-apply-googles-causalimp/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-apply-googles-causalimp/</guid>
+      <description>Google released their CausalImpact package a few years ago and when they did my mind started racing with ideas for information security and information risk applications. Imagine if you could propose a control, policy change or process improvement with an expected effect on a response variable, which would lead you to purposefully defining a way to measure intervention outcomes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dorking Around with CORS</title>
+      <link>https://data-scribers.mikewk.com/post/dorking-around-with-cors/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dorking-around-with-cors/</guid>
+      <description>After tuning in to Absolute Appsec ep 2 the other day I got pretty interested in CORS security issues related to misconfiguration and dynamic origin handling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Proxy Go net/http</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-proxy-go-nethttp/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-proxy-go-nethttp/</guid>
+      <description>I started playing around a bit (again) in Go recently and had a need to take a look at some requests I was generating. I wanted to take a look in ZAP to see how things were working and use that to make adjustments, etc. Post is no big deal, but I didn&amp;rsquo;t want to forget how to do this. Also, there are several posts that don&amp;rsquo;t seem to actually work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Competitive Steak Eating and Gender</title>
+      <link>https://data-scribers.mikewk.com/post/competitive-steak-eating-and-g/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/competitive-steak-eating-and-g/</guid>
+      <description>Before we get too far down the trail on this, I’ll warn readers that this is a pink and blue post. It’s simple prediction using an interesting R package. It’s important to consider the stakes (pun intended), when “enriching” a dataset with information that might introduce bias&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Learn Apache Drill Together</title>
+      <link>https://data-scribers.mikewk.com/post/lets-learn-apache-drill-togeth/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-learn-apache-drill-togeth/</guid>
+      <description>org.apache.drill.common.exceptions.UserRemoteException: DATA_READ ERROR: Selected column &amp;lsquo;COLUMNS&amp;rsquo; must have name &amp;lsquo;columns&amp;rsquo; or must be plain &amp;lsquo;*&amp;rsquo; File Path file:_sample-data_some&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m a iPod Classic Man</title>
+      <link>https://data-scribers.mikewk.com/post/im-a-ipod-classic-man/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-a-ipod-classic-man/</guid>
+      <description>Now, I look for faster playback on everything and am kind of suprised when I can&amp;rsquo;t find it. However, I use one of these for my music and podcasts. iPod Classic If you&amp;rsquo;re on OSX there are several free plist generators so that you can get it loaded by launchctl&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Cleaning Practice Pt1 - Steak Stats</title>
+      <link>https://data-scribers.mikewk.com/post/data-cleaning-practice-pt1-ste/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-cleaning-practice-pt1-ste/</guid>
+      <description>For miles down I-40 you&amp;rsquo;ll see billboards for this restaurant and brewery advertising a free 72oz steak, if you can eat it. An office debate erupted amongst two of my colleagues over just what types of people end up beating the beast. They argued. I fired up rvest&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>3 Keys for Successful Products and Programs Before You Even Start</title>
+      <link>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</guid>
+      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kickstarting Conversation With Sarcastic Programming</title>
+      <link>https://data-scribers.mikewk.com/post/kickstarting-conversation-with/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kickstarting-conversation-with/</guid>
+      <description>While killing time on Twitter the other day a Techlahoma tweet featuring WebVR and A-Frame grabbed my attention. If you know me, I’ve been excited about VR and AR for sometime (despite not having any VR or AR capable equipment). So, a color changing sphere that bounces is still fairly fun for me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>If You’re Going to Fail To Scale, Don’t - Part II</title>
+      <link>https://data-scribers.mikewk.com/post/if-youre-going-to-fail-to-scal/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-youre-going-to-fail-to-scal/</guid>
+      <description>People hate to wait. Now, if you’re not familiar with ramp metering here’s the gist. A stoplight is placed at the end of an on ramp which regulates how many cars are allowed onto a highway at a given time. The idea being that the number of required slowdowns and wrecks decreases as cars have appropriate distance. Waiting sucks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is Zero-Sum Thinking Affecting Your Risk Decision?</title>
+      <link>https://data-scribers.mikewk.com/post/is-zerosum-thinking-affecting-/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-zerosum-thinking-affecting-/</guid>
+      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tony&#39;s Coffee Guide</title>
+      <link>https://data-scribers.mikewk.com/post/tonys-coffee-guide/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tonys-coffee-guide/</guid>
+      <description>I drink quite a bit of coffee. It&amp;rsquo;s true. Occasionally it comes up in conversation. It occurs that someone is bored with their beans and wants to class up their caffeine delivery. Maybe this is you. Well, here are some of my favorites as of late. Check them out. I&amp;rsquo;ll continue to keep my notes here, but I don&amp;rsquo;t plan on spamming the RSS with updates&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>If You’re Going to Fail To Scale, Don’t - Part I</title>
+      <link>https://data-scribers.mikewk.com/post/if-youre-going-to-fail-to-scal/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-youre-going-to-fail-to-scal/</guid>
+      <description>Businesses that don’t deliver, don’t survive. Why should your information security program? The organization has decided to spin up an information security program and you’re in charge. How sure are you that you can handle what you’ve built? If your customers are placing orders and you don’t have inventory you’ve got two options&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Get Sankey! Sankey diagrams for infosec</title>
+      <link>https://data-scribers.mikewk.com/post/get-sankey-sankey-diagrams-for/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/get-sankey-sankey-diagrams-for/</guid>
+      <description>Yesterday, a tweet caught my eye. It was something that I know I’d seen before, but it somehow had escaped my memory as to what it was called or how it was constructed. Well, it bugged me enough that I had to track it down. As I am currently neck deep in writing an annual risk report it’d be easy for me to agree with the thought&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Just a Test Post From Blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/just-a-test-post-from-blogdown/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/just-a-test-post-from-blogdown/</guid>
+      <description>So, Yihui Xie gifted the RStats world with another presentation surface&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

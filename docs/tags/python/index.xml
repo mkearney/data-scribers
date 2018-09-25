@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/python/</link>
+    <description>Recent content in Python on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jokainen oululainen kartalla</title>
+      <link>https://data-scribers.mikewk.com/post/jokainen-oululainen-kartalla/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jokainen-oululainen-kartalla/</guid>
+      <description>Kun näin Näytä datan piirtäneen jokaisen suomalaisen kartalle (inspiroituneena tästä ja tästä) käyttäen avoimia kotimaisia paikkatietoaineistoja ja ilmaista paikkatieto-ohjelmistoa QGIS:iä, halusin kokeilla onnistuisiko minulta ohjelmoida vastaava kuva R:llä. Viime vuosina R on kehittynyt voimakkaasti&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Problems with an article from the Baltimore Sun covering Dr. Mahoney-Steel’s immigration issues</title>
+      <link>https://data-scribers.mikewk.com/post/problems-with-an-article-from-/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/problems-with-an-article-from-/</guid>
+      <description>The article starts by framing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Decision tree implementation with NumPy</title>
+      <link>https://data-scribers.mikewk.com/post/decision-tree-implementation-w/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/decision-tree-implementation-w/</guid>
+      <description>Pythonで決定木をゼロから実装します&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The First Notebook War</title>
+      <link>https://data-scribers.mikewk.com/post/the-first-notebook-war/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-first-notebook-war/</guid>
+      <description>While reading Joel&amp;rsquo;s critiques on Jupyter notebooks, I couldn&amp;rsquo;t help thinking whether they apply to R Markdown notebooks, or R Markdown documents in general, so I&amp;rsquo;ll mention how some of the problems have been addressed in the R Markdown ecosystem in this post, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Readiness or Between-player normalisation</title>
+      <link>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</guid>
+      <description>We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Order to Learn to Program, Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 Part 3: SQL Basics It&amp;rsquo;s not common to see SQL as the next language taught after HTML&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple example of fitting splines with mixed models</title>
+      <link>https://data-scribers.mikewk.com/post/simple-example-of-fitting-spli/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simple-example-of-fitting-spli/</guid>
+      <description>I thought it might be value to provide some code showing how splines can be fit using mixed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://data-scribers.mikewk.com/post/python/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python/</guid>
+      <description>I really appreciate Python&amp;rsquo;s pathlib module for managing filesystem stuff. While I don&amp;rsquo;t love the argparse module for command line parsing, I don&amp;rsquo;t think it&amp;rsquo;s worse than other available options&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dot plot challenge</title>
+      <link>https://data-scribers.mikewk.com/post/dot-plot-challenge/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dot-plot-challenge/</guid>
+      <description>Getting and reshaping the data The Dot Plot The August edition of the Storytelling with Data challenge #SWDchallenge stars the dot plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I (Heart Emoji) Statistics</title>
+      <link>https://data-scribers.mikewk.com/post/i-heart-emoji-statistics/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/i-heart-emoji-statistics/</guid>
+      <description>We learned so much from Hamdan Azhar&amp;rsquo;s awesome Prismoji tutorial after seeing his wonderful talk at the Southern Data Science Conference&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A package for dimensionality reduction of large data</title>
+      <link>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</guid>
+      <description>&amp;hellip;. My thought is that the ideal would be a package focused on UMAP specifically, implemented in R or Rcpp. Unfortunately I am not at all an expert in this topic or familiar with the mathematics involved, so the best I would be able to do is try to translate the Python implementation into R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reading vintage magazines with `hocr`</title>
+      <link>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</guid>
+      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Event Triggered Customer Segmentation</title>
+      <link>https://data-scribers.mikewk.com/post/event-triggered-customer-segme/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/event-triggered-customer-segme/</guid>
+      <description>Today I&amp;rsquo;m going to show you how fast and easy it can be to set up a simple application using the Wallaroo Python API to manage an ad&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding Modes Using Kernel Density Estimates</title>
+      <link>https://data-scribers.mikewk.com/post/finding-modes-using-kernel-den/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-modes-using-kernel-den/</guid>
+      <description>First, lets do this in R. Need some values to work with. Plot the density estimate with the mode location. Lets do something similar in Python. Start by generating a set of random values. Plot to show indeed we have it right&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing</title>
+      <link>https://data-scribers.mikewk.com/post/announcing/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing/</guid>
+      <description>Richard Feynmann 1 has once said: What I cannot create, I do not understand. To understand Neural Networks, and how the recent Machine Learning evolution happened&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://data-scribers.mikewk.com/post/r-markdown/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-markdown/</guid>
+      <description>I don&amp;rsquo;t know other people&amp;rsquo;s secrets on how to create successful software, but my experience is that if you create a software package that you like to use by yourself on a daily basis, it is likely to succeed and will be used by many other people, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linear Models</title>
+      <link>https://data-scribers.mikewk.com/post/linear-models/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linear-models/</guid>
+      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bringing the family together</title>
+      <link>https://data-scribers.mikewk.com/post/bringing-the-family-together/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bringing-the-family-together/</guid>
+      <description>My husband’s family throws a family reunion every year and this year we’ve been tasked with co-planning it. We were trying to decide on the best location for everyone, so I embarked on a mission to find the center of all of our residences. library(tidyverse) library(leaflet) Geocoding the locations I began by putting together a quick &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tu propio smooth en geom_smooth()</title>
+      <link>https://data-scribers.mikewk.com/post/tu-propio-smooth-en-geomsmooth/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tu-propio-smooth-en-geomsmooth/</guid>
+      <description>Algo increíblemente satisfactorio de ggplot2 es la posibilidad de ajustar curvas a los datos de manera súper fácil con geom_smooth()&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R4DS June Challenge</title>
+      <link>https://data-scribers.mikewk.com/post/r4ds-june-challenge/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r4ds-june-challenge/</guid>
+      <description>No, however you are still encouraged to work through a book or course and share what you’ve learned on Twitter by using the #SoDS18 hashtag&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing altair, an R interface to the Altair Python Package</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-altair-an-r-interf/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-altair-an-r-interf/</guid>
+      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to vegawidget</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-to-vegawidget/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-to-vegawidget/</guid>
+      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#BoG18: Talk Notes</title>
+      <link>https://data-scribers.mikewk.com/post/bog18-talk-notes/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bog18-talk-notes/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/wallaroo/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wallaroo/</guid>
+      <description>Its been over a year since I wrote the first blog post introducing Wallaroo to the world. We’ve covered a lot of ground since then; from introducing the Python API that is our primary product, to releasing all our code under an open core model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Arrow and beyond</title>
+      <link>https://data-scribers.mikewk.com/post/arrow-and-beyond/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arrow-and-beyond/</guid>
+      <description>Feather was a successful project, and has made it easier for thousands of data scientists and data engineers to collaborate across language boundaries&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Caret Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/yet-another-caret-workshop/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yet-another-caret-workshop/</guid>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stan Basics</title>
+      <link>https://data-scribers.mikewk.com/post/stan-basics/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stan-basics/</guid>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kaggle panel recap</title>
+      <link>https://data-scribers.mikewk.com/post/kaggle-panel-recap/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kaggle-panel-recap/</guid>
+      <description>Short answer: Twitter. I don’t always tweet about career transitions in data science, but I do keep my Twitter bio section pretty focused on what I do and how I got there: Short answer: sheer dumb luck&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</guid>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>September 2018 datascience goals</title>
+      <link>https://data-scribers.mikewk.com/post/september-2018-datascience-goa/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/september-2018-datascience-goa/</guid>
+      <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>reticulate</title>
+      <link>https://data-scribers.mikewk.com/post/reticulate/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reticulate/</guid>
+      <description>Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session. Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA and Deep Learning Research with Bryan Catanzaro</title>
+      <link>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</guid>
+      <description>Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Something Different</title>
+      <link>https://data-scribers.mikewk.com/post/something-different/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/something-different/</guid>
+      <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Early Career Crisis (2014 - 2015)</title>
+      <link>https://data-scribers.mikewk.com/post/my-early-career-crisis-2014-20/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-early-career-crisis-2014-20/</guid>
+      <description>So yeah, I&amp;rsquo;ve always got issues. Sometimes funny, and sometimes not so funny. Sometimes I make good trouble, and sometimes I make really bad trouble. So Dr Xie got a PhD degree in statistics, with an invisible &amp;ldquo;master&amp;rdquo; degree of procrastination&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Idiomatic Python Stream Processing in Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/idiomatic-python-stream-proces/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/idiomatic-python-stream-proces/</guid>
+      <description>We have been working on Wallaroo, our scale-independent event processing system, for a little over two years&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why we wrote our Kafka Client in Pony</title>
+      <link>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</guid>
+      <description>At Wallaroo Labs we&amp;rsquo;ve been working on our stream processing engine, Wallaroo for just under two years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linear Models</title>
+      <link>https://data-scribers.mikewk.com/post/linear-models/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linear-models/</guid>
+      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Go, Go! Stream Processing for Go</title>
+      <link>https://data-scribers.mikewk.com/post/go-go-go-stream-processing-for/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/go-go-go-stream-processing-for/</guid>
+      <description>We&amp;rsquo;ve been working on our processing engine, Wallaroo for just under two years now. Our goal has been to make it as easy to build fast, scale-independent applications for processing data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to update your Wallaroo Python applications to the new API</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</guid>
+      <description>Thanks to the extensive feedback we have received on our first Python API, we have decided to release some improvements. So in version 0.4.0, we released some breaking changes to the Python API&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rvest &#43; imdb -&gt; explore Friends episode titles</title>
+      <link>https://data-scribers.mikewk.com/post/rvest-imdb-explore-friends-epi/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rvest-imdb-explore-friends-epi/</guid>
+      <description>I always wanted to be a scriptwriter. But my approach to doing creative things is “find the secret, program it, retire”. So what’s the secret to a successful Friends episode? [Really, I want to write/experience a gentle introduction to rvest, and later tidytext and language data science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Functional programming #rstats</title>
+      <link>https://data-scribers.mikewk.com/post/functional-programming-rstats/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/functional-programming-rstats/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Team Rtus wins Munich Re Datathon with mlr</title>
+      <link>https://data-scribers.mikewk.com/post/team-rtus-wins-munich-re-datat/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/team-rtus-wins-munich-re-datat/</guid>
+      <description>On the weekend of November 17. - 19. five brave data-knights from team “Rtus and the knights of the data.table” took on the challenge to compete in a datathon organized by Munich Re in its Munich-based innovation lab&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>DDoS Attack Detection with Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</guid>
+      <description>This post will go through a real-world use case for Wallaroo, our distributed data processing framework for building high-performance streaming data applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How many random numbers does it take?</title>
+      <link>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</guid>
+      <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>jsTree htmlwidget</title>
+      <link>https://data-scribers.mikewk.com/post/jstree-htmlwidget/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jstree-htmlwidget/</guid>
+      <description>jsTree is a R package that is a standalone htmlwidget for the jsTree JavaScript library. It can be run from the R console directly into the Rstudio Viewer, be used in a Shiny application or be part of an Rmarkdown html output&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>liftr (Rmarkdown using docker)</title>
+      <link>https://data-scribers.mikewk.com/post/liftr-rmarkdown-using-docker/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/liftr-rmarkdown-using-docker/</guid>
+      <description>I recently discover a R package, called liftr package. It allows the build of pdf document (and html files, but i didn&amp;rsquo;t test it) from a Rmarkdown file. Fully integrated in RStudio, the R code is executed (and other code as well, I tried python) and results are displayed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Spanish Stopwords for tidytext package</title>
+      <link>https://data-scribers.mikewk.com/post/spanish-stopwords-for-tidytext/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spanish-stopwords-for-tidytext/</guid>
+      <description>A clever friend of mine says: the main programming language, is not Java or Python but English. So, when you&amp;rsquo;re searching for help, you&amp;rsquo;ll be much successful if searching in english&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MCMC and the case of the spilled seeds</title>
+      <link>https://data-scribers.mikewk.com/post/mcmc-and-the-case-of-the-spill/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mcmc-and-the-case-of-the-spill/</guid>
+      <description>Earlier this month I did a post on simulated annealing, an algorithm that I learned in the class I’m currently taking: Advanced Statistical Computing taught by Chris Fonnesbeck here at Vanderbilt. Recently we have moved on to more traditionally “statistics” algorithms, and one that Dr. Fonnesbeck is particularly well versed in, Markov-Chain Monte-Carlo (or MCMC).&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Python, Go! Stream Processing for Python</title>
+      <link>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</guid>
+      <description>We&amp;rsquo;ve been hard at work for 18 months on a new processing engine called Wallaroo for deploying and operating big data, fast data, and machine learning applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The traveling metallurgist</title>
+      <link>https://data-scribers.mikewk.com/post/the-traveling-metallurgist/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-traveling-metallurgist/</guid>
+      <description>TLDR: I made a thing that moves and has sliders and stuff. It’s down here. Currently I am taking a class titled “Advanced Statistical Computing” taught here at Vanderbilt by Chris Fonnesbeck. The class is a fantastic whirlwind tour so far of some common optimization algorithms used in statistical computing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pepper et Carrot</title>
+      <link>https://data-scribers.mikewk.com/post/pepper-et-carrot/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pepper-et-carrot/</guid>
+      <description>Today I went to the library A livr&amp;rsquo;Ouvert because there was a sign session with David&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Advice for non-traditional data scientists</title>
+      <link>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</guid>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First post !</title>
+      <link>https://data-scribers.mikewk.com/post/first-post-/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-post-/</guid>
+      <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>calculating date diffs per event with dplyr</title>
+      <link>https://data-scribers.mikewk.com/post/calculating-date-diffs-per-eve/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/calculating-date-diffs-per-eve/</guid>
+      <description>Sometimes you&amp;rsquo;d need to calculate rolling date diffs from a vector or a data frame when you&amp;rsquo;re manipulating repeated events from different categories. It&amp;rsquo;s very easy and I&amp;rsquo;ll show you three different methods&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining R and Python for data analysis</title>
+      <link>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pimping the StatCan Blog</title>
+      <link>https://data-scribers.mikewk.com/post/pimping-the-statcan-blog/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pimping-the-statcan-blog/</guid>
+      <description>Statistics Canada make available masses of useful data from Censuses and Surveys. One way they communicate is via twitter e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>janitor, a good R package for Data Wrangling</title>
+      <link>https://data-scribers.mikewk.com/post/janitor-a-good-r-package-for-d/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/janitor-a-good-r-package-for-d/</guid>
+      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Processing mail using R</title>
+      <link>https://data-scribers.mikewk.com/post/processing-mail-using-r/</link>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/processing-mail-using-r/</guid>
+      <description>After a long time seeking for R packages to connect to a remote mailbox (not Gmail), I’ve had to admit that there’s no such feature right now in R. Tested a pair of Python scripts but too much convoluted to my needs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>managing installation and packages in R</title>
+      <link>https://data-scribers.mikewk.com/post/managing-installation-and-pack/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-installation-and-pack/</guid>
+      <description>Mentioned yesterday the useful library pacman , so a brief comment about it is due. But I&amp;rsquo;m going to recommend installR for managing updates first (packages and R itself)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Happy World Emoji Day</title>
+      <link>https://data-scribers.mikewk.com/post/happy-world-emoji-day/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/happy-world-emoji-day/</guid>
+      <description>HAPPY world emoji day! 🌎 🐔 📆 In honor of this momentous occasion, I have decided to analyze the emojis used on rOpenSci’s Slack. library(&amp;ldquo;dplyr&amp;rdquo;) ⊕If you’d like to follow along, go fetch yourself a Slack token. token &amp;lt;- &amp;ldquo;MY_SLACK_API_TOKEN&amp;rdquo; ## stick your token here We will first use Slack’s reactions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fourfoldplot</title>
+      <link>https://data-scribers.mikewk.com/post/fourfoldplot/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fourfoldplot/</guid>
+      <description>Working with R, it’s high likely you end with a table regarding to dichotomous variables in your datasets no matter the specific project you’re involved in. I like the ConfusionMatrix function from caret package, that calculates a cross-tabulation of observed and predicted classes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking different implementations of weighted-ALS matrix factorization</title>
+      <link>https://data-scribers.mikewk.com/post/benchmarking-different-impleme/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/benchmarking-different-impleme/</guid>
+      <description>updated 01/08/2017 - added CG solver in reco, adjusted results As I promised in last post, I’m going to share benchmark of different implementation of matrix factorization with Weighted Alternating Least Squares&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Read My Face</title>
+      <link>https://data-scribers.mikewk.com/post/read-my-face/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/read-my-face/</guid>
+      <description>Recently I’ve seen some interesting posts showing how to make ASCII art in R (see here and here). Why limit ourselves to ASCII, I thought. Lincoln’s portrait could be drawn with the Gettysberg Address instead of commas and semicolons. And Trump’s portrait really deserves his tweets1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Billboard Bananas</title>
+      <link>https://data-scribers.mikewk.com/post/billboard-bananas/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/billboard-bananas/</guid>
+      <description>I was looking for a “mellow” project to make, when I came across this post by Michael Kling, playing in Python with the Billboard Hot 100 charts since 1940, scraped from the Ultimate Music Database site. Now that is something I need to do in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python with Jon Wayne Parrott</title>
+      <link>https://data-scribers.mikewk.com/post/python-with-jon-wayne-parrott/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python-with-jon-wayne-parrott/</guid>
+      <description>Jon Wayne focuses on the Python developer experience for Google Cloud Platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The prevalence of drunk podcasts</title>
+      <link>https://data-scribers.mikewk.com/post/the-prevalence-of-drunk-podcas/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-prevalence-of-drunk-podcas/</guid>
+      <description>For today’s rendition of I am curious about everything, in Hilary Parker &amp;amp; Roger Peng’s Not So Standard Deviations Episode 32, Roger suggested the prevalence of drunk podcasting has dramatically increased - so I thought I’d dig into it 🚧👷. I pulled the iTunes API for the term drunk in podcasts &amp;amp; plotted the results over time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R for Excel Users</title>
+      <link>https://data-scribers.mikewk.com/post/r-for-excel-users/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-for-excel-users/</guid>
+      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>dplyr thank you note</title>
+      <link>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</guid>
+      <description>It’s that post-holiday time of year to write some thank yous! I’m getting excited to attend rstudio::conf next week, so in that spirit, I have put together a little thank you using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bigtable with Ian Lewis</title>
+      <link>https://data-scribers.mikewk.com/post/bigtable-with-ian-lewis/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bigtable-with-ian-lewis/</guid>
+      <description>Ian is a Developer Advocate on the Google Cloud Platform team working out of Tokyo. Ian loves Python and Go and helps run the largest Python event in Japan, PyCon JP. Ian is also interested in Docker and Kubernetes and hopes to help Google Cloud Platform users achieve their highest potential&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Cloud In Africa with Hiren Patel and Dale Humby</title>
+      <link>https://data-scribers.mikewk.com/post/the-cloud-in-africa-with-hiren/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-cloud-in-africa-with-hiren/</guid>
+      <description>DevOps engineer with a long history of system administration&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec GloVe implementation details</title>
+      <link>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</guid>
+      <description>Before reading this post, I very recommend to read: Orignal GloVe paper Jon Gauthier&amp;rsquo;s post, which provides detailed explanation of python implementation. This post helps me a lot with C++ implementation. Word embeddings After Tomas Mikolov et al&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GloVe vs word2vec revisited.</title>
+      <link>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</guid>
+      <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing in R</title>
+      <link>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</guid>
+      <description>Introduction In the next series of posts I will try to explain base concepts Locality Sensitive Hashing technique. Note, that I will try to follow general functional programming style. So I will use R&amp;rsquo;s Higher-Order Functions instead of traditional R&amp;rsquo;s *apply functions family (I suppose this post will be more readable for non R users)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rmongodb 1.8.0</title>
+      <link>https://data-scribers.mikewk.com/post/rmongodb-180/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
+      <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

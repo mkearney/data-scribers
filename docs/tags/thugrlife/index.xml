@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thugrlife on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/thugrlife/</link>
+    <description>Recent content in Thugrlife on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/thugrlife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prep Your Hugo Blog for R-bloggers</title>
+      <link>https://data-scribers.mikewk.com/post/prep-your-hugo-blog-for-rblogg/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/prep-your-hugo-blog-for-rblogg/</guid>
+      <description>Get Ready for R-Bloggers There are lots of reasons to write a technical blog. Getting practice writing, thinking through ideas, etc. are all fulfilling reasons on their own. But life is always better with an audience. Well, not always. But for a blog it is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mgsub v1.0 Launched to CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/mgsub-v10-launched-to-cran/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mgsub-v10-launched-to-cran/</guid>
+      <description>Official CRAN Launch Earlier this week I submitted mgsub to CRAN and after a couple of days it was accepted! Now it’s live! I’m very excited to have published my second package and one that I think is a more valuable contribution than my first. The package represented a few firsts for me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Year of Trump Executive Orders</title>
+      <link>https://data-scribers.mikewk.com/post/one-year-of-trump-executive-or/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-year-of-trump-executive-or/</guid>
+      <description>First Year Less than a week ago marked the end of Trump’s first year in office. Back in August I posted code on analyzing the issuing of Executive Orders. Today I’m just going to provide updated commentary. Notes The Federal Register takes time to actually publish Executive Orders. This window is variable but has a median value of 5 days&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Safe, Multiple String Substitutions with mgsub</title>
+      <link>https://data-scribers.mikewk.com/post/safe-multiple-string-substitut/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/safe-multiple-string-substitut/</guid>
+      <description>String substitutions Note - the package I wrote was originally inspired by a challenge a coworker tossed out. It also happened to provide a solution to this SO question which was really cool! Substitutions in strings are best handled with regular expressions which are an amazingly powerful and flexible tool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How many random numbers does it take?</title>
+      <link>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</guid>
+      <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Value of Learning the Basics</title>
+      <link>https://data-scribers.mikewk.com/post/the-value-of-learning-the-basi/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-value-of-learning-the-basi/</guid>
+      <description>Learning the hard way About a month ago David Robinson made a tweet that I both agree and disagree&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fun Math Problems</title>
+      <link>https://data-scribers.mikewk.com/post/fun-math-problems/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fun-math-problems/</guid>
+      <description>Meme Me Up, Scotty! Every now and then on Twitter or Facebook there’s a math problem posted which challenges users to get the right answer. They’re almost always based on order of operations and the reason most people get them wrong is because they don’t remember that elementary rule&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bucket List</title>
+      <link>https://data-scribers.mikewk.com/post/bucket-list/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bucket-list/</guid>
+      <description>Bucket List Most people end up having a list of things they’d like to do in their life before they ‘kick the bucket’. Often this is made up of big events - a foreign trip, some daredevil adventure. But sometimes that list is a bunch of little things&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>purrr Tricks with All Subset Regression</title>
+      <link>https://data-scribers.mikewk.com/post/purrr-tricks-with-all-subset-r/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrr-tricks-with-all-subset-r/</guid>
+      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automatic Twitter Updates</title>
+      <link>https://data-scribers.mikewk.com/post/automatic-twitter-updates/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automatic-twitter-updates/</guid>
+      <description>Automatic Twitter Updates One of my goals with this site is to have as much as possible to automatic. Because it’s a static site, each time I write a post I have to copy all the files (new and updated) to the hosting location so you, the illustrious reader, can enjoy the content I create&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Legislate by Executive Order</title>
+      <link>https://data-scribers.mikewk.com/post/legislate-by-executive-order/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/legislate-by-executive-order/</guid>
+      <description>Executive Orders in the USA From Wikipedia: Executive orders are orders issued by United States Presidents and directed towards officers and agencies of the U.S. federal government&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Theta Joins in R</title>
+      <link>https://data-scribers.mikewk.com/post/theta-joins-in-r/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/theta-joins-in-r/</guid>
+      <description>Theta Joins Common Joins If you’re like me, you’re looking at that diagram wondering what the heck is a ‘theta’ join?! Well, that’s the formal name for a ‘fuzzy’ join. In fact, you can read about all the different join types in this StackOverflow answer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Your First Spark Cluster</title>
+      <link>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</guid>
+      <description>Installing your first spark cluster So, if you’re like me you’ve been using a lot of traditional tools for data science/analytics/whatever you want to call it. R is great, it’s flexible, it’s powerful but it’s slow and memory constrained. At work I’ve got a VM with 16Gb and one call can increase it&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

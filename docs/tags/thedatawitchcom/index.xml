@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thedatawitchcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/thedatawitchcom/</link>
+    <description>Recent content in Thedatawitchcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/thedatawitchcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If you&#39;re having trouble programming data file imports, try RStudio&#39;s code preview</title>
+      <link>https://data-scribers.mikewk.com/post/if-youre-having-trouble-progra/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-youre-having-trouble-progra/</guid>
+      <description>When it comes to importing flat data files stored locally on your computer, such as csv’s or xls’s, you might be uncertain which method to use. It can also be hard to remember how to do it or the options that are available for various file types&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Note to Self</title>
+      <link>https://data-scribers.mikewk.com/post/note-to-self/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/note-to-self/</guid>
+      <description>This is the first post in a series where I write to myself regarding the various data science spells I’m learning. Today’s spell: dplyr’s filter function&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting multiple lines on the y axis of a ggplot graph</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-multiple-lines-on-the/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-multiple-lines-on-the/</guid>
+      <description>I wanted to plot the yearly sales of three different types of hybrid and electric vehicles on the same graph. The dataset was originally wide with years as columns and the types of cars as rows&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

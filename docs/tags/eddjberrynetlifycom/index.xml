@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eddjberrynetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/eddjberrynetlifycom/</link>
+    <description>Recent content in Eddjberrynetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/eddjberrynetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SparkR vs sparklyr for interacting with Spark from R</title>
+      <link>https://data-scribers.mikewk.com/post/sparkr-vs-sparklyr-for-interac/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sparkr-vs-sparklyr-for-interac/</guid>
+      <description>This post grew out of some notes I was making on the differences between SparkR and sparklyr, two packages that provide an R interface to Spark&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and k-fold cross validation with sparklyr</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learning-and-kfold-cro/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learning-and-kfold-cro/</guid>
+      <description>In this post I’m going to run through a brief example of using sparklyr in R. This package provides a way to connect to Spark from within R, while using the dplyr functions we all know and love. I was entirely new to Spark, and databases in general, before having a play with sparklyr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing your thesis with bookdown</title>
+      <link>https://data-scribers.mikewk.com/post/writing-your-thesis-with-bookd/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-your-thesis-with-bookd/</guid>
+      <description>This post details some tips and tricks for writing a thesis/dissertation using the bookdown R package by Yihui Xie. The idea of this post is to supplement the fantastic book that Xie has written about bookdown, which can be found here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Intro to R slides</title>
+      <link>https://data-scribers.mikewk.com/post/intro-to-r-slides/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/intro-to-r-slides/</guid>
+      <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Modelling working memory precision in R</title>
+      <link>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</guid>
+      <description>I have translated Paul Bays’ Matlab functions for modeling continuous response data into R . Bays’ guide to the Matlab functions and their usage can be found here. I have a detailed guide to the R functions and their usage over on Github&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cutoff function</title>
+      <link>https://data-scribers.mikewk.com/post/cutoff-function/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cutoff-function/</guid>
+      <description>In R Markdown one is often faced with situations where a value that can vary substantially in automatically pulled out. For example, we might want to pull a p-value out of an linear model object. It&amp;rsquo;s a chore to have to manually edit p-values so that they conform with reporting conventions (e.g. p &amp;lt; .001)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Priors as beliefs</title>
+      <link>https://data-scribers.mikewk.com/post/priors-as-beliefs/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/priors-as-beliefs/</guid>
+      <description>“Language sets everyone the same traps; it is an immense network of easily accessible wrong turnings.” - Ludwig Wittgenstein, Culture &amp;amp; Value (1980) It is often said that priors in Bayesian statistics are ‘beliefs’&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

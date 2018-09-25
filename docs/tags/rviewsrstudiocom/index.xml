@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rviewsrstudiocom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/rviewsrstudiocom/</link>
+    <description>Recent content in Rviewsrstudiocom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/rviewsrstudiocom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive plots in Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/interactive-plots-in-shiny/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interactive-plots-in-shiny/</guid>
+      <description>I asked a good friend at work to help me test the sample app provided in this post. She was able to run it easily, but then told me that she didn’t know that she was supposed to click on things. Adding interactive plots is one of the most important capabilities to include in a Shiny app&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GDP Data via API</title>
+      <link>https://data-scribers.mikewk.com/post/gdp-data-via-api/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gdp-data-via-api/</guid>
+      <description>Let’s make our changes to both goods and services in the data. I’m also going to replace a few other accounts with shorter names, e.g., I will use “Govt” for “Government consumption expenditures and gross investment”. We now have 25 accounts, each with 285 observations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Shiny &#39;Truck&#39;!</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-build-a-shiny-truck/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-build-a-shiny-truck/</guid>
+      <description>I concluded that most people just don’t need to build them that big! So now, I would like to explain why we needed such a large app and how we went about building it. To give you an idea of the scale I am talking about, an automotive metaphor might be useful. A typical Shiny app I see in my daily work has about 50 or even fewer interaction items&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Slack and Plumber, Part One</title>
+      <link>https://data-scribers.mikewk.com/post/slack-and-plumber-part-one/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/slack-and-plumber-part-one/</guid>
+      <description>Note that this approach is different from APIs that are not being built around a known request or specification&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>July 2018: Top 40 New Packages</title>
+      <link>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</guid>
+      <description>Below are my &amp;ldquo;Top 40&amp;rdquo; picks organized into ten categories: Computational Methods, Data, Econometrics, Machine Learning, Mathematics, Science, Statistics, Time Series, Utilities, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learning Analytic Administration through a Sandbox</title>
+      <link>https://data-scribers.mikewk.com/post/learning-analytic-administrati/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learning-analytic-administrati/</guid>
+      <description>It all starts with sandboxes. Development sandboxes are dedicated safe spaces for experimentation and creativity. A sandbox is a place where you can go to test and break things, without the ramifications of breaking the real, important things&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TokyoR #71</title>
+      <link>https://data-scribers.mikewk.com/post/tokyor-71/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tokyor-71/</guid>
+      <description>You can find this and several more Japanese R and data sceince books by entering Ishida-san&amp;rsquo;s name, 石田 基広, into Amazon.co.jp&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Highcharting Jobs Friday</title>
+      <link>https://data-scribers.mikewk.com/post/highcharting-jobs-friday/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highcharting-jobs-friday/</guid>
+      <description>Let’s get to it! That plot is nice, but it’s static! Hover on it and you’ll see what I mean. First, we isolate the most recent month by filtering on the last date. We also don’t want the ADP Estimate and filter that out as well. Finally, let’s compare the ADP Estimates to the actual Nonfarm payroll numbers since 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Two Big Ideas from JSM 2018</title>
+      <link>https://data-scribers.mikewk.com/post/two-big-ideas-from-jsm-2018/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/two-big-ideas-from-jsm-2018/</guid>
+      <description>The Joint Statistical Meetings offer an astounding number of talks. It is impossible for an individual to see more than a small portion of what is going on. Even so, a diligent attendee ought to come away with more than a few good ideas&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>June 2018: Top 40 New Packages</title>
+      <link>https://data-scribers.mikewk.com/post/june-2018-top-40-new-packages/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/june-2018-top-40-new-packages/</guid>
+      <description>Simulate a variety of periodically-collapsing bubble models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>JSM 2018 Itinerary</title>
+      <link>https://data-scribers.mikewk.com/post/jsm-2018-itinerary/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jsm-2018-itinerary/</guid>
+      <description>JSM 2018 is almost here! Usually around this time, I comb through the entire program manually making an itinerary for myself. But this year I decided to try something new – a programmatic way of going through the program, and then building a Shiny app that helps me better navigate the online program&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>REST APIs and Plumber</title>
+      <link>https://data-scribers.mikewk.com/post/rest-apis-and-plumber/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rest-apis-and-plumber/</guid>
+      <description>Traditionally, moving this model into production has involved one of two approaches: either running customer data through the model on a batch basis and caching the results in a database, or handing the model definition off to a development team to translate the work done in R into another language, such as Java or Scala&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CVXR</title>
+      <link>https://data-scribers.mikewk.com/post/cvxr/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cvxr/</guid>
+      <description>Our next step is to generate the list of constraints. Note that, by default, the relational operators apply over all entries in a vector or matrix&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Shiny: Part Three</title>
+      <link>https://data-scribers.mikewk.com/post/monte-carlo-shiny-part-three/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/monte-carlo-shiny-part-three/</guid>
+      <description>The sidebar looks like this Let’s dissect one of those fluid rows line-by-line. Finally, we set “SPY” as the default initial value. If the user does nothing, the value will be this default&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Solver Interfaces in CVXR</title>
+      <link>https://data-scribers.mikewk.com/post/solver-interfaces-in-cvxr/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/solver-interfaces-in-cvxr/</guid>
+      <description>GUROBI is handled in a similar fashion&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

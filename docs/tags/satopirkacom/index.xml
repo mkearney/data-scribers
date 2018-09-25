@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satopirkacom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/satopirkacom/</link>
+    <description>Recent content in Satopirkacom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/satopirkacom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decision tree implementation with NumPy</title>
+      <link>https://data-scribers.mikewk.com/post/decision-tree-implementation-w/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/decision-tree-implementation-w/</guid>
+      <description>Pythonで決定木をゼロから実装します&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Encoder-decoderモデルとTeacher Forcing，Scheduled Sampling，Professor Forcing</title>
+      <link>https://data-scribers.mikewk.com/post/encoderdecoder-teacher-forcing/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/encoderdecoder-teacher-forcing/</guid>
+      <description>Encoder-decoderモデルとTeacher Forcing，それを拡張したScheduled Sampling，Professor&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GTC Japan 2017 深層学習フレームワークメモ</title>
+      <link>https://data-scribers.mikewk.com/post/gtc-japan-2017-/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gtc-japan-2017-/</guid>
+      <description>GTC Japan 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Boston出張</title>
+      <link>https://data-scribers.mikewk.com/post/boston-/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/boston-/</guid>
+      <description>10月上旬にBostonに出張に行ってきました&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Socket.IOでシンプルチャットアプリの実装</title>
+      <link>https://data-scribers.mikewk.com/post/socketio-/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/socketio-/</guid>
+      <description>Socket&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aebourbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/aebourbindio/</link>
+    <description>Recent content in Aebourbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/aebourbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Found Myself doing Data science in marketing</title>
+      <link>https://data-scribers.mikewk.com/post/how-i-found-myself-doing-data-/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-i-found-myself-doing-data-/</guid>
+      <description>Since February 26 i am working at Seedstars Ivory Coast in a venture named Bora digital who works mostly in marketing and digital marketing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to follow and engage with the R community</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-follow-and-engage-with-/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-follow-and-engage-with-/</guid>
+      <description>&amp;ldquo;R is not just a programming language, but it is also an interactive environment for doing data science.&amp;rdquo; &amp;ldquo;Investing a little time in learning R each day will pay off handsomely in the long run.&amp;rdquo;- Hadley Wickham and Garret Grolemund in R for Data Science&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

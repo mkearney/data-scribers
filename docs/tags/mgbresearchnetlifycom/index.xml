@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mgbresearchnetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mgbresearchnetlifycom/</link>
+    <description>Recent content in Mgbresearchnetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mgbresearchnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Multilevel Model with Missing Data Complete Workflow (Part 2 of 3)</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</guid>
+      <description>Having satisfied myself that there are no lingering convergence issues I can create some initial plots. First, I need to re-structure the data to make it a bit easier to plot. Okay now we can plot the results&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Alive! First Evidence that IBI VizEdit Works</title>
+      <link>https://data-scribers.mikewk.com/post/its-alive-first-evidence-that-/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/its-alive-first-evidence-that-/</guid>
+      <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RMarkdown is the Most Powerful Codebook Maker You Can Find for Your Datasets</title>
+      <link>https://data-scribers.mikewk.com/post/rmarkdown-is-the-most-powerful/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmarkdown-is-the-most-powerful/</guid>
+      <description>Or… You could create a manual that is complete, easy to you use, readily tweakable, completely reproducible, and 100% shareable. Having made a couple of manuals in my time as a former camp director and current Ph.D&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interaction Plots with Continuous Moderators in R</title>
+      <link>https://data-scribers.mikewk.com/post/interaction-plots-with-continu/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interaction-plots-with-continu/</guid>
+      <description>Long ago (the first half of my grad school life), I created a model for a manuscript I submitted&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Multilevel Model with Missing Data</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</guid>
+      <description>This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Power Analyses for an Unconditional Growth Model using {lmer}</title>
+      <link>https://data-scribers.mikewk.com/post/power-analyses-for-an-uncondit/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/power-analyses-for-an-uncondit/</guid>
+      <description>We collected measures of these variables at three time points, approximately evenly spaced apart, and, for the purposes of these analyses, I decided to treat the data as if they were collected at precisely the same equally spaced interval for all participants&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Imputation/Forecast Models</title>
+      <link>https://data-scribers.mikewk.com/post/gaussian-process-imputationfor/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gaussian-process-imputationfor/</guid>
+      <description>As a toy problem, I am going to focus on the application of a Gaussian process model to forecasting future monthly passengers. This is not the only way one could try to solve this prediction problem&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

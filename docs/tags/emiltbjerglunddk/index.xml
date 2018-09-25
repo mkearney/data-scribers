@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emiltbjerglunddk on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/emiltbjerglunddk/</link>
+    <description>Recent content in Emiltbjerglunddk on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/emiltbjerglunddk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hvordan klarer de politiske partier sig på Facebook?</title>
+      <link>https://data-scribers.mikewk.com/post/hvordan-klarer-de-politiske-pa/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hvordan-klarer-de-politiske-pa/</guid>
+      <description>På de respektive facebook-sider kan vi naturligvis også finde antallet af følgere - dem gemmer vi også lige, da vi skal bruge dem senere&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining R and Python for data analysis</title>
+      <link>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Science tools for our research group</title>
+      <link>https://data-scribers.mikewk.com/post/open-science-tools-for-our-res/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/open-science-tools-for-our-res/</guid>
+      <description>I have been considering how to apply this thinking to our research&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

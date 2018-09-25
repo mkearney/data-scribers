@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mailundgithubiorprogrammerblog on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/</link>
+    <description>Recent content in Mailundgithubiorprogrammerblog on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overscoping and eval</title>
+      <link>https://data-scribers.mikewk.com/post/overscoping-and-eval/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/overscoping-and-eval/</guid>
+      <description>In my previous post I used the lm function for an example of scope rules, but I left a few details out&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scoping Rules and NSE</title>
+      <link>https://data-scribers.mikewk.com/post/scoping-rules-and-nse/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scoping-rules-and-nse/</guid>
+      <description>Earlier this week, I wrote some tweets about how you have to be careful about scopes when you do non-standard evaluation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Package Releases</title>
+      <link>https://data-scribers.mikewk.com/post/new-package-releases/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-package-releases/</guid>
+      <description>I have just released version 0.1.0 of foolbox and version 0.1.2 of tailr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Optional” types using pmatch</title>
+      <link>https://data-scribers.mikewk.com/post/optional-types-using-pmatch/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/optional-types-using-pmatch/</guid>
+      <description>Some programming languages, e.g. Swift, have special &amp;ldquo;optional&amp;rdquo; types. These are types the represent elements that either contain a value of some other type or contain nothing at all&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lots of Function Transformations</title>
+      <link>https://data-scribers.mikewk.com/post/lots-of-function-transformatio/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lots-of-function-transformatio/</guid>
+      <description>The last couple of days I&amp;rsquo;ve been doing a lot of experimenting with a package for function rewriting: foolbox&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>pmatch 0.1.3</title>
+      <link>https://data-scribers.mikewk.com/post/pmatch-013/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pmatch-013/</guid>
+      <description>I have just released version 0.1.3 of pmatch to CRAN. There are not a lot of changes to this version compared to 0.1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Transforming functions with cases calls</title>
+      <link>https://data-scribers.mikewk.com/post/transforming-functions-with-ca/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/transforming-functions-with-ca/</guid>
+      <description>The issue with byte-compilation I wrote about yesterday can indeed be fixed by transforming functions that call cases&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building a package that uses pattern matching</title>
+      <link>https://data-scribers.mikewk.com/post/building-a-package-that-uses-p/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-a-package-that-uses-p/</guid>
+      <description>After a week spend programming string algorithms in C—for teaching purposes, I am not working on a new read-mapper—it is nice to get back to programming in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tailr v0.1.1</title>
+      <link>https://data-scribers.mikewk.com/post/tailr-v011/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tailr-v011/</guid>
+      <description>As I wrote about here and here, I had a problem in tailr with higher-order functions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Red-black trees in matchbox</title>
+      <link>https://data-scribers.mikewk.com/post/redblack-trees-in-matchbox/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/redblack-trees-in-matchbox/</guid>
+      <description>I&amp;rsquo;m working on implementing red-black search trees in matchbox and have managed most of it by now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linked lists in matchbox</title>
+      <link>https://data-scribers.mikewk.com/post/linked-lists-in-matchbox/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linked-lists-in-matchbox/</guid>
+      <description>I have started playing with data structures in matchbox and the first structure I implement had to be linked lists&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Problems With Higher Order Functions in tailr</title>
+      <link>https://data-scribers.mikewk.com/post/problems-with-higher-order-fun/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/problems-with-higher-order-fun/</guid>
+      <description>Ok, there is a problem with higher-order functions in my tailr package that I ran into while writing linked list functions for my matchbox package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matchbox and CMD CHECK</title>
+      <link>https://data-scribers.mikewk.com/post/matchbox-and-cmd-check/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/matchbox-and-cmd-check/</guid>
+      <description>Ok, first, the package I wrote about yesterday will be called matchbox, following Dmytro Perepolkin&amp;rsquo;s suggestion (thanks!). You can get it at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Help Me Choose a Package Name</title>
+      <link>https://data-scribers.mikewk.com/post/help-me-choose-a-package-name/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/help-me-choose-a-package-name/</guid>
+      <description>What&amp;rsquo;s in a name? That which we call a rose By any other word would smell as sweet — William Shakespeare, Romeo and Juliet I have plans for re-implementing several of the data structures I wrote about in Functional Data Structures in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Variable bindings with pattern matching</title>
+      <link>https://data-scribers.mikewk.com/post/variable-bindings-with-pattern/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/variable-bindings-with-pattern/</guid>
+      <description>I just added a new feature to my pmatch package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another approach to evaluating dynprog expressions</title>
+      <link>https://data-scribers.mikewk.com/post/another-approach-to-evaluating/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/another-approach-to-evaluating/</guid>
+      <description>In the approach to evaluating dynamic-programming expressions, that I wrote about yesterday, I used ranges- and recursion-specifications to build a loop for updating a table and then evaluated that loop inside an environment where local variables would over-scope the quosure environment from the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>https://data-scribers.mikewk.com/post/comments/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comments/</guid>
+      <description>Ok, if this is working, it should now be possible to comment on posts here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Evaluating dynprog expressions</title>
+      <link>https://data-scribers.mikewk.com/post/evaluating-dynprog-expressions/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/evaluating-dynprog-expressions/</guid>
+      <description>I think I now have a complete implementation of the dynamic programming DSL I wrote about the other day&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Designing a DSL for dynamic programming</title>
+      <link>https://data-scribers.mikewk.com/post/designing-a-dsl-for-dynamic-pr/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/designing-a-dsl-for-dynamic-pr/</guid>
+      <description>I&amp;rsquo;m working on an example for one of the chapters of Domain Specific Languages in R that will appear in the printed version but weren&amp;rsquo;t included in the earlier e-book&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tick-marks for log10 axis</title>
+      <link>https://data-scribers.mikewk.com/post/tickmarks-for-log10-axis/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tickmarks-for-log10-axis/</guid>
+      <description>For the tailr post I needed to plot some benchmark results&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Blog Setup</title>
+      <link>https://data-scribers.mikewk.com/post/blog-setup/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/blog-setup/</guid>
+      <description>Ok, I hadn&amp;rsquo;t planned to write any more about how the blog is set up, since that isn&amp;rsquo;t that interesting to me and probably isn&amp;rsquo;t to you — either you know a lot more about this than me, in which case I have nothing to teach you, or you just don&amp;rsquo;t care, which I can relate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Purpose of this blog</title>
+      <link>https://data-scribers.mikewk.com/post/purpose-of-this-blog/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purpose-of-this-blog/</guid>
+      <description>Since I already have a blog, you might be asking, &amp;ldquo;why another one?&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tailr — Tail Recursion Optimisation</title>
+      <link>https://data-scribers.mikewk.com/post/tailr-tail-recursion-optimisat/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tailr-tail-recursion-optimisat/</guid>
+      <description>Believe it or not, all the bother with setting up this blog was such that I could write this post easier than I could on Wordpress&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://data-scribers.mikewk.com/post/first-post/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-post/</guid>
+      <description>This is my first attempt at a Hugo+Blogdown blog&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

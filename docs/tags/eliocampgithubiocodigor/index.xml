@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eliocampgithubiocodigor on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/eliocampgithubiocodigor/</link>
+    <description>Recent content in Eliocampgithubiocodigor on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/eliocampgithubiocodigor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple color (and fill) scales with ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/multiple-color-and-fill-scales/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multiple-color-and-fill-scales/</guid>
+      <description>(Versión en español) tl;dr: You can find the relevant code in this gist&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Múltiples escalas de colores en ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/m%C3%BAltiples-escalas-de-colores-e/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/m%C3%BAltiples-escalas-de-colores-e/</guid>
+      <description>(English version) tl;dr: En este gist está el código importante Un dolor importante para algunos usuarios de ggplot2 es la imposibilidad de usar más de una escala para cada tipo de parámetro&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wrapping around ggplot2 with ggperiodic</title>
+      <link>https://data-scribers.mikewk.com/post/wrapping-around-ggplot2-with-g/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wrapping-around-ggplot2-with-g/</guid>
+      <description>As an atmospheric scientists, a lot of my research consists on plotting and looking at global fields of atmospheric variables like pressure, temperature and the like. Since our planet is a sphere (well, almost), it is unbound and so longitude is a periodic dimension. That is, to the right of 180°E you go back to 180°W&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tu propio smooth en geom_smooth()</title>
+      <link>https://data-scribers.mikewk.com/post/tu-propio-smooth-en-geomsmooth/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tu-propio-smooth-en-geomsmooth/</guid>
+      <description>Algo increíblemente satisfactorio de ggplot2 es la posibilidad de ajustar curvas a los datos de manera súper fácil con geom_smooth()&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hacer una presentación de PowerPoint a partir de rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/hacer-una-presentaci%C3%B3n-de-powe/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacer-una-presentaci%C3%B3n-de-powe/</guid>
+      <description>La interfaz entre usuarios de knitr/markdown y word/powerpoint no deja de ser áspera ya que es difícil cambiar el workflow propio para acomodar el de otras personas&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Arte reproducible del Subte de Buenos Aires</title>
+      <link>https://data-scribers.mikewk.com/post/arte-reproducible-del-subte-de/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arte-reproducible-del-subte-de/</guid>
+      <description>El sábado pasado estábamos en el subte con mi novia y pasamos por la estación Ángel Gallardo de la Línea B y notamos que tenía unas ilustraciones en las paredes hechas a partir de líneas de distinto grosor. Charlamos un poco sobre ese estilo y cómo se podía replicar con ggplot2 usando el paquete ggridges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Como hacer un stat genérico en ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/como-hacer-un-stat-gen%C3%A9rico-en/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/como-hacer-un-stat-gen%C3%A9rico-en/</guid>
+      <description>Hace un tiempo que venía pensando que si bien ggplot2 es genial y tiene un montón de geoms y stats, le faltaba la opción de extenderlo a stats y geoms creados por el usuario. Luego, aprendí que ggplot2 tiene un excelente sistema para extenderlo y empecé a crear mis propios stats&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to make a generic stat in ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-make-a-generic-stat-in-/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-make-a-generic-stat-in-/</guid>
+      <description>For a while now I&amp;rsquo;ve been thinking that, yes, ggplot2 is awesome and offers a lot of geoms and stats, but it would be great if it could be extended with new user-generated geoms and stats&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to make a shaded relief in R</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-make-a-shaded-relief-in/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-make-a-shaded-relief-in/</guid>
+      <description>Spanish version of this post While trying to build a circular colour scale to plot angles and wind direction, I stumbled upon an easy way to make shaded reliefs in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cómo hacer un efecto de relieve en R</title>
+      <link>https://data-scribers.mikewk.com/post/c%C3%B3mo-hacer-un-efecto-de-reliev/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/c%C3%B3mo-hacer-un-efecto-de-reliev/</guid>
+      <description>(Versión en inglés) Estaba tratando de hacer una guía de colores circular (que los extremos tengan el mismo color) para hacer gráficos de ángulos o direcciones del viento, cuando descubrí una forma interesante de crear un efecto de relieve en mapas de topografía&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cómo hacer un buen ejemplo reproducible en R</title>
+      <link>https://data-scribers.mikewk.com/post/c%C3%B3mo-hacer-un-buen-ejemplo-rep/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/c%C3%B3mo-hacer-un-buen-ejemplo-rep/</guid>
+      <description>Es muy difícil dar ayuda si no se sabe cuál es el problema&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cómo calcular el Índice de Precipitación Estandarizado en R</title>
+      <link>https://data-scribers.mikewk.com/post/c%C3%B3mo-calcular-el-%C3%ADndice-de-pre/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/c%C3%B3mo-calcular-el-%C3%ADndice-de-pre/</guid>
+      <description>El Índice de Precipitación Estandarizado (SPI por Standarized Precipitation Index) es un índice para evaluar el estado de sequía o exceso de lluvia. La idea del SPI es tener una idea de qué tan probable es tener una cantidad de lluvia igual o menor&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

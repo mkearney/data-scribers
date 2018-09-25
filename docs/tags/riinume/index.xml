@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riinume on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/riinume/</link>
+    <description>Recent content in Riinume on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/riinume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Global map of country names</title>
+      <link>https://data-scribers.mikewk.com/post/global-map-of-country-names/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/global-map-of-country-names/</guid>
+      <description>More info: Now this is very good already with hardly any overlapping labels and the world is pretty recognisable. And really, you can make this plot with just 2 lines of code: So what these two lines make is already very amazing. This gives continents a much better shape, but it does severaly misplace Polynesia. See if you can find where, e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My data science toolbox</title>
+      <link>https://data-scribers.mikewk.com/post/my-data-science-toolbox/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-data-science-toolbox/</guid>
+      <description>I&amp;rsquo;ve been doing data science for over 10 years now. Although most of this time I didn&amp;rsquo;t realise I was doing data science. I thought I was just doing normal science but focusing on simulations and data analysis, rather than field or lab work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Islay distilleries in 3 days</title>
+      <link>https://data-scribers.mikewk.com/post/islay-distilleries-in-3-days/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/islay-distilleries-in-3-days/</guid>
+      <description>Left Edinburgh at 8am for a 1pm ferry Kennacraig to Port Askaig (Islay). Edinburgh-Kennacraig should be a 3.5h drive (and it was), but we left early to allow for any delays on the road. Arrived on Islay at 3pm and our accommodation near Port Ellen (southern Islay, close to to Ardbeg, Lagavulin, Laphroiaig) was a 40 min drive from the port&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Converting old Wordpress posts to Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/converting-old-wordpress-posts/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-old-wordpress-posts/</guid>
+      <description>Get all your wordpress posts into one XML: WP Admin - Tools - Export. Looks like most of my posts were converted like a charm, with nicely formatted code blocks and images. But I few things I noticed that I think I have to fix: Overall I feared a lot worse and am super happy with the conversion experience&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://data-scribers.mikewk.com/post/hello-world/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-world/</guid>
+      <description>I wrote my last blog post on Wordpress on 20-October 2017 and promised myself this was the last time. I&amp;rsquo;ve been blogging on Wordpress since 2014 and the more I used it the more painful it got! This is most likely caused by the fact that I have been thrifting further and further away from point-and-click interfaces anyway..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Your first Shiny app</title>
+      <link>https://data-scribers.mikewk.com/post/your-first-shiny-app/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/your-first-shiny-app/</guid>
+      <description>I am completely obsessed with Shiny and these days I end up presenting most of my work in a Shiny app. If it&amp;rsquo;s not worth putting in a Shiny app it&amp;rsquo;s not worth doing. Getting started with Shiny is actually a lot easier than a lot of people make it out to be&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Handling your .bib file (LaTex bibliography)</title>
+      <link>https://data-scribers.mikewk.com/post/handling-your-bib-file-latex-b/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/handling-your-bib-file-latex-b/</guid>
+      <description>To create a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Online syntax highlighter</title>
+      <link>https://data-scribers.mikewk.com/post/online-syntax-highlighter/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/online-syntax-highlighter/</guid>
+      <description>The style I use:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding a Cron job using the ed editor</title>
+      <link>https://data-scribers.mikewk.com/post/adding-a-cron-job-using-the-ed/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-a-cron-job-using-the-ed/</guid>
+      <description>These commands (after the first one) work in the ed editor&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How long did my R script run?</title>
+      <link>https://data-scribers.mikewk.com/post/how-long-did-my-r-script-run/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-long-did-my-r-script-run/</guid>
+      <description>This to the beginning: And this to the end: Example output: print(Sys.time()-strt) Time difference of 16&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding space between rows in LaTex tables</title>
+      <link>https://data-scribers.mikewk.com/post/adding-space-between-rows-in-l/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-space-between-rows-in-l/</guid>
+      <description>By default, LaTex tables are very tight: Adding this to the document preamble will add space between the rows: And this command can be used to add space between rows&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My minimal LaTex preamble</title>
+      <link>https://data-scribers.mikewk.com/post/my-minimal-latex-preamble/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-minimal-latex-preamble/</guid>
+      <description>My minimal&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to &#39;increase&#39; array resolution in R (replicate each element both column-wise and row-wise)</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-increase-array-resoluti/</link>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-increase-array-resoluti/</guid>
+      <description>One picture says more than a thousand words. You have what is one the left, and you want what is on the right&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cut a time period from netCDF with nco</title>
+      <link>https://data-scribers.mikewk.com/post/cut-a-time-period-from-netcdf-/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cut-a-time-period-from-netcdf-/</guid>
+      <description>Add -F, if you want to use Fortran indexing (to start from 1)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Converting R Markdown to Latex</title>
+      <link>https://data-scribers.mikewk.com/post/converting-r-markdown-to-latex/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-r-markdown-to-latex/</guid>
+      <description>Open the Terminal, Command Prompt (search for cmd) or Windows Powershell, go to the folder and do: And that&amp;rsquo;s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reordering factor levels in R and what could go wrong</title>
+      <link>https://data-scribers.mikewk.com/post/reordering-factor-levels-in-r-/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reordering-factor-levels-in-r-/</guid>
+      <description>Let&amp;rsquo;s create a quick barplot with strings as x&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Latex tables</title>
+      <link>https://data-scribers.mikewk.com/post/latex-tables/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/latex-tables/</guid>
+      <description>Tables Generator will do a lot for you. Its most useful features are importing from .csv and merging cells. The Booktabs table style (alternative to default table style from the menu) looks a bit nicer and is &amp;ldquo;publication quality&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why does a linear model without an intercept (forced through the origin) have a higher R-squared value? (calculated by R)</title>
+      <link>https://data-scribers.mikewk.com/post/why-does-a-linear-model-withou/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-does-a-linear-model-withou/</guid>
+      <description>Answer in short: Because different formulas are used to calculate the R-squared of a linear regression, depending on whether it has an intercept or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Symbolic links and 2 common errors with them</title>
+      <link>https://data-scribers.mikewk.com/post/symbolic-links-and-2-common-er/</link>
+      <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/symbolic-links-and-2-common-er/</guid>
+      <description>where -s stands for &amp;ldquo;symbolic&amp;rdquo; (just ln would create a hard link) However, if you are not a complete UNIX guru, then trying to access your linked files is likely to produce one of these errors: No such file or directory OR Too many levels of symbolic links Remove symbolic links just as you remove&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Add up two variables of a netCDF file</title>
+      <link>https://data-scribers.mikewk.com/post/add-up-two-variables-of-a-netc/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/add-up-two-variables-of-a-netc/</guid>
+      <description>The output file will have all of the variables that exist in the input file as well as the new_var. Add -O if your input and output files are the same (overwrite)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My bash aliases</title>
+      <link>https://data-scribers.mikewk.com/post/my-bash-aliases/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-bash-aliases/</guid>
+      <description>If you find yourself using some commands always with the same flags, then it would make sense to define them as alieses, by putting them into your .bashrc file like this (log out and back in for it to take effect): _-color=auto _colours folders, executables and symbolic links. -a for qstat displays more information&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Saving some variables from a netCDF to a new file</title>
+      <link>https://data-scribers.mikewk.com/post/saving-some-variables-from-a-n/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/saving-some-variables-from-a-n/</guid>
+      <description>The flag for extracting variables is -v (followed by variable name(s) separated by commas): In case you&amp;rsquo;ve forgotten what the names of your variables are, do: -h prints headers only (and not the&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

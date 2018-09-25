@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peerchristensennetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/peerchristensennetlifycom/</link>
+    <description>Recent content in Peerchristensennetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/peerchristensennetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topic Modelling of Trustpilot Reviews with R and tidytext</title>
+      <link>https://data-scribers.mikewk.com/post/topic-modelling-of-trustpilot-/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/topic-modelling-of-trustpilot-/</guid>
+      <description>Improving the look of figures in ggplot2 is fairly simple. For consistency, we’ll create a clean and simple theme based on the APA theme from the jtools package and change some of the features. The background colour will be set to a light grey hue&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fair is foul, and foul is fair</title>
+      <link>https://data-scribers.mikewk.com/post/fair-is-foul-and-foul-is-fair/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fair-is-foul-and-foul-is-fair/</guid>
+      <description>We see that the text variable contains one line of text for each row. Given this format, we can create a new data frame with a row for each word token found in the Bing lexicon of sentiment words. By using this lexicon, sentiment words are simpky assigned a value of positive or negative. Have a look at the other options with ?get_sentiments&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

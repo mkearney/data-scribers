@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikewkcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mikewkcom/</link>
+    <description>Recent content in Mikewkcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mikewkcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Labelling dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/labelling-dataviz/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/labelling-dataviz/</guid>
+      <description>The combination of style changes and labels clearly made a big difference but, still, I don&amp;rsquo;t think the above plot is mind-blowing or overly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tick marks, variable names, and ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/tick-marks-variable-names-and-/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tick-marks-variable-names-and-/</guid>
+      <description>Regardless, while it&amp;rsquo;s definitely a good idea to provide your own summary variable names, you will invariably find yourself in a situation where you would like to plot summarized variables that were named using the text of the expressions used to create them&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

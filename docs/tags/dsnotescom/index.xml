@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsnotescom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/dsnotescom/</link>
+    <description>Recent content in Dsnotescom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/dsnotescom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benchmarking different implementations of weighted-ALS matrix factorization</title>
+      <link>https://data-scribers.mikewk.com/post/benchmarking-different-impleme/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/benchmarking-different-impleme/</guid>
+      <description>updated 01/08/2017 - added CG solver in reco, adjusted results As I promised in last post, I’m going to share benchmark of different implementation of matrix factorization with Weighted Alternating Least Squares&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization for recommender systems (part 2)</title>
+      <link>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</guid>
+      <description>In previous post I explained Weigted Alternating Least Squares algorithm for matrix factorization. This post will be more practical - we will build a model which will recommend artists recommendations based on history of track listenings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization for recommender systems</title>
+      <link>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</guid>
+      <description>Generally speaking the task for a recommender system is not to make up-sale. The real task is to keep customers engaged in your service. With loyal customers, you can monetize your service. Recommender systems is a very wide area, but in this post I won’t go into basics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fitting logistic regression on 100gb dataset on a laptop</title>
+      <link>https://data-scribers.mikewk.com/post/fitting-logistic-regression-on/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitting-logistic-regression-on/</guid>
+      <description>EDIT: Thanks for comments, I created repository with full end-to-end reproducible code. You can find it here - https://github.com/dselivanov/kaggle-outbrain. This is continue of Lessons learned from “Outbrain Click Prediction” kaggle competition (part 1). As a quick recap - we achieved MAP@12 ~ 0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Large data, feature hashing and online learning</title>
+      <link>https://data-scribers.mikewk.com/post/large-data-feature-hashing-and/</link>
+      <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/large-data-feature-hashing-and/</guid>
+      <description>EDIT: Thanks for comments, I created repository with full end-to-end reproducible code. You can find it here - https://github.com/dselivanov/kaggle-outbrain[... ](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/)</description>
+    </item>
+    
+    <item>
+      <title>text2vec 0.4</title>
+      <link>https://data-scribers.mikewk.com/post/text2vec-04/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text2vec-04/</guid>
+      <description>Introducing text2vec 0.4 Today I&amp;rsquo;m pleased to announce new major release of text2vec - text2vec 0.4 which is already on CRAN&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec 0.3</title>
+      <link>https://data-scribers.mikewk.com/post/text2vec-03/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text2vec-03/</guid>
+      <description>updated 2016-03-31 - few functions renamed updated 2016-10-07 - see updated tutorial for text2vec 0.4 Today I&amp;rsquo;m pleased to announce preview of the new version of text2vec. It is located in the 0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Read from hdfs with R. Brief overview of SparkR.</title>
+      <link>https://data-scribers.mikewk.com/post/read-from-hdfs-with-r-brief-ov/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/read-from-hdfs-with-r-brief-ov/</guid>
+      <description>Disclaimer: originally I planned to write post about R functions/packages which allow to read data from hdfs (with benchmarks), but in the end it became more like an overview of SparkR capabilities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec GloVe implementation details</title>
+      <link>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</guid>
+      <description>Before reading this post, I very recommend to read: Orignal GloVe paper Jon Gauthier&amp;rsquo;s post, which provides detailed explanation of python implementation. This post helps me a lot with C++ implementation. Word embeddings After Tomas Mikolov et al&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GloVe vs word2vec revisited.</title>
+      <link>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</guid>
+      <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing texts with text2vec package</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-texts-with-text2vec-/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-texts-with-text2vec-/</guid>
+      <description>updated 2016-10-07 - see post with updated tutorial for text2vec 0.4 In the last weeks I have actively worked on text2vec (formerly tmlite) - R package, which provides tools for fast text vectorization and state-of-the art word embeddings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Working with MS SQL server on non-windows systems</title>
+      <link>https://data-scribers.mikewk.com/post/working-with-ms-sql-server-on-/</link>
+      <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/working-with-ms-sql-server-on-/</guid>
+      <description>As I know, there are few choices to connect from R to MS SQL Server: RODBC RJDBC rsqlserver But only second option can be used on mac and linux machines. Here is nice stackoverflow thread. Most of the people suggest to use microsoft sql java driver. But there is a case when this will not help - windows domain authentification&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing cuda toolkit and related R packages</title>
+      <link>https://data-scribers.mikewk.com/post/installing-cuda-toolkit-and-re/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-cuda-toolkit-and-re/</guid>
+      <description>The main purpose of this post is to keep all steps of installing cuda toolkit (and R related packages) and in one place. Also I hope this may be useful for someone. Installing cuda toolkit ( Ubuntu ) First of all we need to install nvidia cuda toolkti. I&amp;rsquo;am on latest ubuntu 15&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing in R</title>
+      <link>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</guid>
+      <description>Introduction In the next series of posts I will try to explain base concepts Locality Sensitive Hashing technique. Note, that I will try to follow general functional programming style. So I will use R&amp;rsquo;s Higher-Order Functions instead of traditional R&amp;rsquo;s *apply functions family (I suppose this post will be more readable for non R users)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rmongodb 1.8.0</title>
+      <link>https://data-scribers.mikewk.com/post/rmongodb-180/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
+      <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

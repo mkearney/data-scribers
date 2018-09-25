@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mdgbecknetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mdgbecknetlifycom/</link>
+    <description>Recent content in Mdgbecknetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mdgbecknetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tidytext Analysis of Seinfeld</title>
+      <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</guid>
+      <description>I then wrote a function that takes the URL for an episode and pulls the necessary data. Unfortunately, as the scripts were submitted to the site by different fans there is no standard format, making the scraping a little trickier&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparison of NBA Draft Classes&#39; Immediate Impact</title>
+      <link>https://data-scribers.mikewk.com/post/comparison-of-nba-draft-classe/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comparison-of-nba-draft-classe/</guid>
+      <description>Curious to know the answer, I looked at each draft class since 1989 (when the draft was changed to two rounds) and their performance in that year’s season. To be clear, this is only looking at immediate contribution, and not long-term success&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

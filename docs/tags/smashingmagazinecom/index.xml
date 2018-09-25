@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smashingmagazinecom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/smashingmagazinecom/</link>
+    <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark Patterns And Other Design No-Nos For Mobile</title>
+      <link>https://data-scribers.mikewk.com/post/dark-patterns-and-other-design/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dark-patterns-and-other-design/</guid>
+      <description>When it comes to making money, some companies will do whatever it takes to get people inside their&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watanabesmithrbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/watanabesmithrbindio/</link>
+    <description>Recent content in Watanabesmithrbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/watanabesmithrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If Ranked-choice voting decided the (second) BEST Black Mirror episode</title>
+      <link>https://data-scribers.mikewk.com/post/if-rankedchoice-voting-decided/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-rankedchoice-voting-decided/</guid>
+      <description>The data is particularly unique because many users did not make a full ranking of all 19 episodes, with some users ranking just a single episode as their favorite&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Behind the Viz</title>
+      <link>https://data-scribers.mikewk.com/post/behind-the-viz/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/behind-the-viz/</guid>
+      <description>Lots of packages here: The gather() function pivots the data, we name “episodes” as the key (what the column names will be called) and rankings as the values (what the data in those columns will now be called), while telling the function to not mess with the columns user, other, or&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

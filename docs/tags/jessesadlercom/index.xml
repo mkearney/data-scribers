@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessesadlercom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/jessesadlercom/</link>
+    <description>Recent content in Jessesadlercom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/jessesadlercom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing debkeepr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-debkeepr/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-debkeepr/</guid>
+      <description>The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Year Anniversary</title>
+      <link>https://data-scribers.mikewk.com/post/one-year-anniversary/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-year-anniversary/</guid>
+      <description>In a nice little coincidence this is the 11th post to the blog and pushes my first introductory post to the second page of blog entries&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Great Circles with R</title>
+      <link>https://data-scribers.mikewk.com/post/great-circles-with-r/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/great-circles-with-r/</guid>
+      <description>At this point, the output is not hugely informative. However, we can confirm that the process of making great circles worked by observing the curvatures of the lines&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to GIS with R</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-gis-with-r/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-gis-with-r/</guid>
+      <description>Let&amp;rsquo;s look at the result&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Network Analysis with R</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-network-analys/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-network-analys/</guid>
+      <description>Compare this to an adjacency matrix with the same data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Geocoding with R</title>
+      <link>https://data-scribers.mikewk.com/post/geocoding-with-r/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/geocoding-with-r/</guid>
+      <description>The resulting map is rather sparse and does not provide much information, but it gives a good starting point from which to build a more informative map&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Excel vs R</title>
+      <link>https://data-scribers.mikewk.com/post/excel-vs-r/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/excel-vs-r/</guid>
+      <description>We can save the objects for later use by using the assignment operator and giving the data frames names. Now that we have the data in a better form, we can plot it by making another bar chart&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thinking about Workflow</title>
+      <link>https://data-scribers.mikewk.com/post/thinking-about-workflow/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/thinking-about-workflow/</guid>
+      <description>In the spring of 2011, I was in the middle of doing research for my dissertation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>By Way of Introduction</title>
+      <link>https://data-scribers.mikewk.com/post/by-way-of-introduction/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/by-way-of-introduction/</guid>
+      <description>Concerning, the actual content of this blog, I envision the posts falling into two general categories. In the first place, the blog will be a space for me to discuss the various projects that I am working on, both traditional history projects and those in digital humanities&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

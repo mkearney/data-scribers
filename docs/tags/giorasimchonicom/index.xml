@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorasimchonicom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/giorasimchonicom/</link>
+    <description>Recent content in Giorasimchonicom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/giorasimchonicom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Actual Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/the-actual-tidyverse/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-actual-tidyverse/</guid>
+      <description>It’s been 7 months since my last post. A lot can happen in 7 months, is all I can say. Anyway, in this post I thought how I would combine three of my passions: The Tidyverse Web Scraping Network Analysis
+So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysis on it. Or, rather Network Visualization&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Book&#39;em Danno!</title>
+      <link>https://data-scribers.mikewk.com/post/bookem-danno/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bookem-danno/</guid>
+      <description>One of the best talks in my opinion at rstudio::conf 2018 was actually the first keynote by Prof. Di Cook, of Monash University, titled “To the Tidyverse and Beyond: Challenges for the Future in Data Science”1. Di talked about how she views the plot of a dataset as simply another statistic, a function of this dataset&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Congratulations, it&#39;s a Geom! (The ggwithimages Package)</title>
+      <link>https://data-scribers.mikewk.com/post/congratulations-its-a-geom-the/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/congratulations-its-a-geom-the/</guid>
+      <description>I had three inspirations for this package: This post from Matthew Kay, “I don’t want your monolithic ggplot function”. This beautiful “thematic” interactive1 graph made in highchartr by Jushua Kunst:
+A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if, I thought, the mountain itself, is a line plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>E is for Elephant (The ebayr Package)</title>
+      <link>https://data-scribers.mikewk.com/post/e-is-for-elephant-the-ebayr-pa/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/e-is-for-elephant-the-ebayr-pa/</guid>
+      <description>It occurred to me I’m not always putting my R powers to good&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ave Mariah</title>
+      <link>https://data-scribers.mikewk.com/post/ave-mariah/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ave-mariah/</guid>
+      <description>My friend Nir and I have this habbit of sending one another songs in the middle of the day. The other day I sent him this one by Mariah Carey: To which he replied “that’s so gay”, to which I replied “don’t confuse my 12-year-old taste with my gay taste!”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Snap-Fu</title>
+      <link>https://data-scribers.mikewk.com/post/snapfu/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/snapfu/</guid>
+      <description>In one of Silicon Valley Season 4’s episodes Dinesh finds himself in need of penises images, in order to make a penis images detection app. I thought about choosing this task for my object detection project. After all I am no Dinesh, tagging images of penises comes easy to me1. But then I could hear my Dad after this is posted, saying “it had to be you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Much For the Watch?</title>
+      <link>https://data-scribers.mikewk.com/post/how-much-for-the-watch/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-much-for-the-watch/</guid>
+      <description>This post serves a few purposes: Exercising Deep Learning with Regression, as opposed to Classification, which is my comfort zone. A tribute to my previous working place - ebay. Trying to combine text AND image data in a “Bi-Modal” model - never did it before. Doing something which involves Fashion&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Repeat Yourself (The songsim Package)</title>
+      <link>https://data-scribers.mikewk.com/post/repeat-yourself-the-songsim-pa/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/repeat-yourself-the-songsim-pa/</guid>
+      <description>This is going to be a short post. Because the only thing I did for this package was to blatantly copy the work of Colin Morris on song lyrics self-similarity matrices (a.k.a “SongSim”), into R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sign of the Times</title>
+      <link>https://data-scribers.mikewk.com/post/sign-of-the-times/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sign-of-the-times/</guid>
+      <description>For my very first course in Statistics during my undergrad years, we had to make “a project”, defined as “go out there, gather some data, summarize them and perform proper statistics on them”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where My Girls At?</title>
+      <link>https://data-scribers.mikewk.com/post/where-my-girls-at/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-my-girls-at/</guid>
+      <description>As a father of three girls, Facebook decided recently to show me this video, titled “If you have a daughter, you need to see this”: It shows a mother and daughter gradually removing books from a children’s books bookshelf in a typical book store&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>You&#39;re in a room (The CastleOfR Package)</title>
+      <link>https://data-scribers.mikewk.com/post/youre-in-a-room-the-castleofr-/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/youre-in-a-room-the-castleofr-/</guid>
+      <description>It has always been a dream of mine to create a text-based game (a.k.a interactive fiction or text adventure). Text-based games were common in the 1980s when I was a kid, and personal computers were lacking in high-end graphics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lambada! (The mocap Package)</title>
+      <link>https://data-scribers.mikewk.com/post/lambada-the-mocap-package/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lambada-the-mocap-package/</guid>
+      <description>In my continuing mission to explore strange new datasets, I’ve come across a little article analyzing data which came from… Samba dancing! The way the researchers turned Samba dancing into data was by capturing the motion of the dancers with Motion Capture (MoCap) technology, as often seen in “Behind the Scenes” segments of Andy Serkis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Paintings (The kandinsky Package)</title>
+      <link>https://data-scribers.mikewk.com/post/data-paintings-the-kandinsky-p/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-paintings-the-kandinsky-p/</guid>
+      <description>Recently I have moaned about not really knowing what I was doing with the grid package (see here and here). I’m happy to say, not only did I take the time to better understand the grid package, I also wrote my own package around it - the kandinsky package! To generate random Wassily Kandinsky paintings or even make any dataset into one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Playmate of the Month - From Marylin To Ashley</title>
+      <link>https://data-scribers.mikewk.com/post/playmate-of-the-month-from-mar/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/playmate-of-the-month-from-mar/</guid>
+      <description>I like working with weird and unexpected datasets. And when they don’t come to me - I go get them myself&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Read My Face</title>
+      <link>https://data-scribers.mikewk.com/post/read-my-face/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/read-my-face/</guid>
+      <description>Recently I’ve seen some interesting posts showing how to make ASCII art in R (see here and here). Why limit ourselves to ASCII, I thought. Lincoln’s portrait could be drawn with the Gettysberg Address instead of commas and semicolons. And Trump’s portrait really deserves his tweets1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Auto Emojis</title>
+      <link>https://data-scribers.mikewk.com/post/auto-emojis/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/auto-emojis/</guid>
+      <description>I hate Emojis. I’m sorry, I do. So I decided to make my own. Automatically. Strike a POS! The idea is to take a given piece of text, and replace some words automatically with custom-made emojis, which are basically images. Let’s worry about finding images for our emojis later. Now, suppose you have a text, e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MC RNN</title>
+      <link>https://data-scribers.mikewk.com/post/mc-rnn/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mc-rnn/</guid>
+      <description>I have been struggling with the understanding of Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM) for a while. I find that explaining a topic to other people really helps in nailing down just what is it you don’t understand, and eventually “getting it”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It Gets Better (The yrbss Package)</title>
+      <link>https://data-scribers.mikewk.com/post/it-gets-better-the-yrbss-packa/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/it-gets-better-the-yrbss-packa/</guid>
+      <description>It’s Pride Month! So I thought, maybe I should perform some cool analyses of data concerning the Gay community&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Deep South Springfield</title>
+      <link>https://data-scribers.mikewk.com/post/deep-south-springfield/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deep-south-springfield/</guid>
+      <description>Recently RStudio (a.k.a my dream job) released a wrapper around keras with TensorFlow backend. Well, I just had to take this baby for a spin. But what to train my first Deep Learning network in R on? I’m neither a Cats nor a Dogs person. Whatever, I do what I want! South Park vs. Simpsons! ATTENTION: THIS IS NOT A DEEP LEARNING LESSON&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The One With Friends</title>
+      <link>https://data-scribers.mikewk.com/post/the-one-with-friends/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-one-with-friends/</guid>
+      <description>I’ve recently stumbbled upon this really cool text analysis of Seinfeld scripts, by Michael&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Sounds of Probability</title>
+      <link>https://data-scribers.mikewk.com/post/the-sounds-of-probability/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-sounds-of-probability/</guid>
+      <description>I’ve always wanted to play with Sonification: “… the use of non-speech audio to convey information or perceptualize data.” (Wikipedia, the source of all knowledge) Don’t get me wrong, I am thrilled with the sight of a nice visualization as the next (data geek) guy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Billboard Bananas</title>
+      <link>https://data-scribers.mikewk.com/post/billboard-bananas/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/billboard-bananas/</guid>
+      <description>I was looking for a “mellow” project to make, when I came across this post by Michael Kling, playing in Python with the Billboard Hot 100 charts since 1940, scraped from the Ultimate Music Database site. Now that is something I need to do in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Porn!</title>
+      <link>https://data-scribers.mikewk.com/post/data-porn/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-porn/</guid>
+      <description>Recently I’ve stumbled upon this treasure of data, called sexualitics.org. I love exploring bizarre datasets and it doesn’t get more bizarre than (brace yourselves) ~786 thousand (!) tagged porn video titles from xhamster.com - the site’s entire inventory from 2007 to 2013&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Drink and Gamble</title>
+      <link>https://data-scribers.mikewk.com/post/dont-drink-and-gamble/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-drink-and-gamble/</guid>
+      <description>Once upon a time I took a job as a Gaming Analyst and Mathematician at a big Online Gambling company. What can I say. The term “Data Science” did not exist, and this was the highest paying job around&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Federer, Nadal, Djokovic and Murray, Love.</title>
+      <link>https://data-scribers.mikewk.com/post/federer-nadal-djokovic-and-mur/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/federer-nadal-djokovic-and-mur/</guid>
+      <description>What do people mean when they say “The Big Four”? In tennis, there is a single answer: Roger Federer, Rafael Nadal, Novak Djokovic and Andy Murray. These 4 players have dominated the world of men’s tennis throught the beginning of the 21st century&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>You Better (Net)Work!</title>
+      <link>https://data-scribers.mikewk.com/post/you-better-network/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/you-better-network/</guid>
+      <description>RuPaul’s Drag Race happens to be my second best reality TV show. Can you guess the first? Oh, I’m sure I’ll get to that eventually. Anyway&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Anne Frank&#39;s Diary</title>
+      <link>https://data-scribers.mikewk.com/post/anne-franks-diary/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/anne-franks-diary/</guid>
+      <description>A while ago I read through Social Media Mining with R and was fascinated by the subject of Sentiment Analysis&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

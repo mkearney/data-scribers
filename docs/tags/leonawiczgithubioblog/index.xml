@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonawiczgithubioblog on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/leonawiczgithubioblog/</link>
+    <description>Recent content in Leonawiczgithubioblog on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/leonawiczgithubioblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tiler 0.2.0 CRAN release</title>
+      <link>https://data-scribers.mikewk.com/post/tiler-020-cran-release/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tiler-020-cran-release/</guid>
+      <description>Lastly, consider the power of your system before attempting to make a ton of tiles for large images at very high resolutions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>epubr 0.4.0 CRAN release</title>
+      <link>https://data-scribers.mikewk.com/post/epubr-040-cran-release/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/epubr-040-cran-release/</guid>
+      <description>E-book formatting is non-standard enough across all literature that no function can curate parsed e-book content across an arbitrary collection of e-books, in completely general form, resulting in a singular, consistently formatted output containing all the same variables&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>trekfont</title>
+      <link>https://data-scribers.mikewk.com/post/trekfont/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/trekfont/</guid>
+      <description>First use base graphics. Did you ever think you would be annotating your plots in Vulcan and Klingon? Next use ggplot2&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tabr package for guitar tablature now on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/tabr-package-for-guitar-tablat/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tabr-package-for-guitar-tablat/</guid>
+      <description>While music can be quite complex and a full score will be much longer, something as simple as the following code snippet produces the music notation in the accompanying image. A brief example below highlights the general workflow&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing tabr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-tabr/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-tabr/</guid>
+      <description>While music can be quite complex and a full score will be much longer, something as simple as the following code snippet produces the music notation in the accompanying image. You can install tabr from GitHub with: Finally, there are nonetheless limitations to LilyPond itself&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mix ggplot2 graphs with your favorite memes. memery 0.4.2 released.</title>
+      <link>https://data-scribers.mikewk.com/post/mix-ggplot2-graphs-with-your-f/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mix-ggplot2-graphs-with-your-f/</guid>
+      <description>Please do share your data analyst meme creations.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Make memorable plots with memery. v0.3.0 now on CRAN.</title>
+      <link>https://data-scribers.mikewk.com/post/make-memorable-plots-with-meme/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/make-memorable-plots-with-meme/</guid>
+      <description>Please do share your data analyst meme creations.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>apputils 0.5.0 released</title>
+      <link>https://data-scribers.mikewk.com/post/apputils-050-released/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/apputils-050-released/</guid>
+      <description>The key updates&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Climate explorer update</title>
+      <link>https://data-scribers.mikewk.com/post/climate-explorer-update/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/climate-explorer-update/</guid>
+      <description>These conditional distributions for historical and projected temperature and precipitation over different geographic regions, time periods, climate models and greenhouse gas emissions scenarios represent the source data sets available in the app&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny app</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-app/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-app/</guid>
+      <description>Available discrete distributions: Available continuous&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Assorted Shiny apps collection, full code and data</title>
+      <link>https://data-scribers.mikewk.com/post/assorted-shiny-apps-collection/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/assorted-shiny-apps-collection/</guid>
+      <description>A bit of backstory&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mapmate 0.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/mapmate-020/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapmate-020/</guid>
+      <description>To install the package: The first example uses a flat map. Therefore it is important to break lines at the international dateline when preparing the data. In the second example, lines cross the dateline are not split because the segments will be plotted on the globe&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R animation</title>
+      <link>https://data-scribers.mikewk.com/post/r-animation/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-animation/</guid>
+      <description>I have posted a new R data animation video. It&amp;rsquo;s an example animation of modeled historical and projected global temperature change from 1850 - 2100&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R animation</title>
+      <link>https://data-scribers.mikewk.com/post/r-animation/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-animation/</guid>
+      <description>For the blog readers, just a quick heads up that I have posted a new R data animation to YouTube. A complete post will follow, but for now here is the video. It displays the social network of SNAP Shiny app users over about the past year and a half using great circle trajectories on a rotating 3D Earth&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

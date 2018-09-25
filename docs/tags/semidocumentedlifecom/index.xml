@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semidocumentedlifecom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/semidocumentedlifecom/</link>
+    <description>Recent content in Semidocumentedlifecom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/semidocumentedlifecom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>comparing audio features from my monthly playlists, using spotifyr</title>
+      <link>https://data-scribers.mikewk.com/post/comparing-audio-features-from-/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comparing-audio-features-from-/</guid>
+      <description>Spotify’s API functionality seems pretty straightforward. Tracks are curated as playlists by users, and tracks have a bunch of metadata (artist, album, etc.). Each of these entities (tracks, albums, artists, users) has an ID, allowing you to organize and jump between them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>how should I get started with R?</title>
+      <link>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</guid>
+      <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>climbing into the crater</title>
+      <link>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</guid>
+      <description>Anyways, given that more waves are available, we don’t have to look at a single comparison between 2007 and 2016, if we want to push Bruenig’s work a little further&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>exploring NUFORC sightings</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-nuforc-sightings/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-nuforc-sightings/</guid>
+      <description>That said, the number of sightings in each state has seen a steady climb since 2000. My guess is that due to prominence of search engines, awareness of NUFORC (and thus, the likelihood of reporting) has increased. You can follow the trend with the boxplots below&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

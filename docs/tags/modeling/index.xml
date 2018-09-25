@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/modeling/</link>
+    <description>Recent content in Modeling on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science in Mental Health</title>
+      <link>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</guid>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interactive plots in Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/interactive-plots-in-shiny/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interactive-plots-in-shiny/</guid>
+      <description>I asked a good friend at work to help me test the sample app provided in this post. She was able to run it easily, but then told me that she didn’t know that she was supposed to click on things. Adding interactive plots is one of the most important capabilities to include in a Shiny app&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#GI2018 - Day Three</title>
+      <link>https://data-scribers.mikewk.com/post/gi2018-day-three/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gi2018-day-three/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing in R</title>
+      <link>https://data-scribers.mikewk.com/post/parallel-computing-in-r/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parallel-computing-in-r/</guid>
+      <description>We&amp;rsquo;re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#GI2018 - Day Two</title>
+      <link>https://data-scribers.mikewk.com/post/gi2018-day-two/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gi2018-day-two/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing debkeepr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-debkeepr/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-debkeepr/</guid>
+      <description>The economic historian encounters the difficulties of handling non-decimal currencies in two main contexts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Infrastructure with R</title>
+      <link>https://data-scribers.mikewk.com/post/building-infrastructure-with-r/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-infrastructure-with-r/</guid>
+      <description>For this event we will explore how to build tools and infrastructure with R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
+      <description>Explicitly naming nodes is nonessential, but can be very useful when debugging. Oftentimes, when your Tensorflow code crashes, the error trace will refer to a specific operation. If you have many operations of the same type, it can be tough to figure out which one is problematic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>next up anova</title>
+      <link>https://data-scribers.mikewk.com/post/next-up-anova/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/next-up-anova/</guid>
+      <description>Next I need learn how to conduct ANOVA in R. the formula- specify which variable is your outcome and which are your grouping variables the data- which dataframe are you analysing In a clinical trial where you are looking to see if the drug improved mood scores you might specify..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Binary, beta, beta-binomial</title>
+      <link>https://data-scribers.mikewk.com/post/binary-beta-betabinomial/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/binary-beta-betabinomial/</guid>
+      <description>A couple of interesting things to note here. First is that the coefficient estimates are pretty similar to the beta regression model. However, the standard errors are slightly higher, as they should be, since we are using only observed probabilities and not the true (albeit randomly selected or generated) probabilities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The First Notebook War</title>
+      <link>https://data-scribers.mikewk.com/post/the-first-notebook-war/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-first-notebook-war/</guid>
+      <description>While reading Joel&amp;rsquo;s critiques on Jupyter notebooks, I couldn&amp;rsquo;t help thinking whether they apply to R Markdown notebooks, or R Markdown documents in general, so I&amp;rsquo;ll mention how some of the problems have been addressed in the R Markdown ecosystem in this post, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some books I read in August</title>
+      <link>https://data-scribers.mikewk.com/post/some-books-i-read-in-august/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-august/</guid>
+      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How does Collinearity Influence Linear Regressions?</title>
+      <link>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</guid>
+      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My first gganimate - exploring concepts from first year linear modelling!</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-gganimate-exploring-c/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-gganimate-exploring-c/</guid>
+      <description>Have you ever had one of those moments whilst teaching where the content blows your mind? Today, whilst teaching MATH1005 at the University of Sydney, that exact thing happened to me. This weeks content was focused on teaching the students the introductions to linear modelling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring London Crime with R heat maps</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-london-crime-with-r-/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-london-crime-with-r-/</guid>
+      <description>Here’s a sweet collection of packages required to run this analysis: First thing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Record linkage</title>
+      <link>https://data-scribers.mikewk.com/post/record-linkage/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/record-linkage/</guid>
+      <description>I recently encountered a problem that had a surprisingly elegant solution. I struggled a lot with solving this issue, so hopefully in writing this post I can save someone else the trouble! For reasons that are irrelevant, I wanted to track the performance of youth fencers across time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Test Driven Infrastructure</title>
+      <link>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</guid>
+      <description>Software development has embraced techniques like TDD (Test Driven Development) to help reduce the cycle time between developing code and validating it works&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Alive! First Evidence that IBI VizEdit Works</title>
+      <link>https://data-scribers.mikewk.com/post/its-alive-first-evidence-that-/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/its-alive-first-evidence-that-/</guid>
+      <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision in Three Lines of Code plus a bunch more lines</title>
+      <link>https://data-scribers.mikewk.com/post/computer-vision-in-three-lines/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/computer-vision-in-three-lines/</guid>
+      <description>My wife and I both have a tendency to leave the garage door open. You&amp;rsquo;re in and out, grabbing garden tools or supplies, and at the end of the day you enter the house through the back door and forget to check the garage&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Neural Processes as distributions over functions</title>
+      <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</guid>
+      <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tools for getting started with your PhD</title>
+      <link>https://data-scribers.mikewk.com/post/tools-for-getting-started-with/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tools-for-getting-started-with/</guid>
+      <description>What do I mean with this? Well, see for yourself whether you recognize any of the following behaviors: However, if you left all of those behaviors behind you long ago, well, you can close this tab and save yourself ten minutes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Topic Modelling of Trustpilot Reviews with R and tidytext</title>
+      <link>https://data-scribers.mikewk.com/post/topic-modelling-of-trustpilot-/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/topic-modelling-of-trustpilot-/</guid>
+      <description>Improving the look of figures in ggplot2 is fairly simple. For consistency, we’ll create a clean and simple theme based on the APA theme from the jtools package and change some of the features. The background colour will be set to a light grey hue&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Extracting and Processing eBird Data</title>
+      <link>https://data-scribers.mikewk.com/post/extracting-and-processing-ebir/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/extracting-and-processing-ebir/</guid>
+      <description>Access to the full eBird dataset is provided via two large, tab-separated text files. The eBird Basic Dataset (EBD) contains the bird observation information and consists of one line for each observation of a species on a checklist&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reflections on 25&#43; Years of &#39;50 Years of Data Science&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/reflections-on-25-years-of-50-/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reflections-on-25-years-of-50-/</guid>
+      <description> &amp;ldquo;Comfortably Numb&amp;rdquo; by Pink Floyd (1979) John Tukey: &amp;ldquo;The Future of Data Analysis&amp;rdquo; (1962) John Chambers: &amp;ldquo;Greater or Lesser Statistics: A Choice for Future Research&amp;rdquo; (1993) Leo Breiman: &amp;ldquo;Statistical Modeling: The Two Cultures&amp;rdquo; (2001) William&amp;hellip;   </description>
+    </item>
+    
+    <item>
+      <title>What they forgot to teach you about R</title>
+      <link>https://data-scribers.mikewk.com/post/what-they-forgot-to-teach-you-/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-they-forgot-to-teach-you-/</guid>
+      <description>Join Jenny Bryan and Jim Hester of RStudio for this two-day hands-on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle! If you’d missed this sold out course at rstudio::conf 2018 now is your chance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reading vintage magazines with `hocr`</title>
+      <link>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</guid>
+      <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio/</guid>
+      <description>Learn from and interact with these outstanding invited speakers and R innovators: Find out what RStudio is working on from the people who make the materials and tools you use&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci Educators Collaborative</title>
+      <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
+      <description>In previous posts in this series, we identified challenges that individual instructors typically face when teaching science with R, and shared characteristics of effective educational resources to help address these challenges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci Educators Collaborative</title>
+      <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
+      <description>This first post aims to summarize the main challenges that educators face, as a tool to help them think through the decisions they make about their course materials&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some Books I Read in July</title>
+      <link>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</guid>
+      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 67-81</title>
+      <link>https://data-scribers.mikewk.com/post/day-6781/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/day-6781/</guid>
+      <description>The motivation to face the fear is similarly straightforward: my R code runs too slowly for some of the problems I care about. It doesn’t come up that often, to be honest. Most problems I work on are small enough that it really doesn’t matter that my R code is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>how should I get started with R?</title>
+      <link>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</guid>
+      <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Generate a reproducible map for county-level fertilizer estimation data in U.S.A. using R</title>
+      <link>https://data-scribers.mikewk.com/post/generate-a-reproducible-map-fo/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/generate-a-reproducible-map-fo/</guid>
+      <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linear Models</title>
+      <link>https://data-scribers.mikewk.com/post/linear-models/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linear-models/</guid>
+      <description>Introduction library(tidyverse) library(matlib) library(knitr) library(RColorBrewer) The purpose of this document is to understand the parameter and residuals error estimates in a basic linear regression model when working with binary categorical&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wide data to long using the tidyverse (tidyr&#39;s gather function)</title>
+      <link>https://data-scribers.mikewk.com/post/wide-data-to-long-using-the-ti/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wide-data-to-long-using-the-ti/</guid>
+      <description>A wide data storage format is an efficient and compact way to store information. And this organization perhaps it makes data easier to inspect. We have wide monitors our laptops and destops. However, for visualization and analysis you generally need to transform this data from the wide format to a “tidy”, long format&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Multilevel Model with Missing Data</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-multilevel-model-with/</guid>
+      <description>This is the first post in a three-part blog series I am putting together. The focus of this initial post is effective exploration of the reasons for missingness in a particular set of data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Baby Steps</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</guid>
+      <description>Before going into the regression example with a predictor, it’s worthwhile to first demonstrate quadratic approximation by just modeling the score differential with a Gaussian&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On &#39;Quick Questions&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/on-quick-questions/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-quick-questions/</guid>
+      <description>&amp;ldquo;Hey Yihui, quick question for you&amp;hellip;&amp;rdquo; For many times I have been asked &amp;ldquo;quick questions&amp;rdquo; on Twitter, on Slack, or in emails&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Re-referencing factor levels to estimate standard errors when there is interaction turns out to be a really simple solution</title>
+      <link>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</guid>
+      <description>Maybe this should be filed under topics that are so obvious that it is not worth writing about. But, I hate to let a good simulation just sit on my computer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Selection effects</title>
+      <link>https://data-scribers.mikewk.com/post/selection-effects/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/selection-effects/</guid>
+      <description>My limited goals: Perhaps the central difference between working in the Stata environment and in R is that in R you always have to be declaring which data frame you are working with. In Stata, you just have one active data frame and then you can refer to the variables by their names alone&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multivariate Adaptive Regression Splines in a Nutshell</title>
+      <link>https://data-scribers.mikewk.com/post/multivariate-adaptive-regressi/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multivariate-adaptive-regressi/</guid>
+      <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Late anniversary edition redux</title>
+      <link>https://data-scribers.mikewk.com/post/late-anniversary-edition-redux/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/late-anniversary-edition-redux/</guid>
+      <description>This afternoon, I was looking over some simulations I plan to use in an upcoming lecture on multilevel models. I created these examples a while ago, before I started this blog&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tiler 0.2.0 CRAN release</title>
+      <link>https://data-scribers.mikewk.com/post/tiler-020-cran-release/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tiler-020-cran-release/</guid>
+      <description>Lastly, consider the power of your system before attempting to make a ton of tiles for large images at very high resolutions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Rest of the World/UK</title>
+      <link>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</guid>
+      <description>To save time, I’m gonig to used saved versions of the datasets I built up over the 5 blog posts. I won’t include the functions in this blog post either, but the article uses (at most very slight modified) functions from the previous 5 posts. We first need to sort the players into either the UK vs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When &#39;Docker&#39; meets &#39;Make&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/when-docker-meets-make/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-docker-meets-make/</guid>
+      <description>Being a DevOps engineer, it&amp;rsquo;s very common that we use tools like AWS CLI, Docker/ECS, and Ansible to build continuous deployment solutions. It is also common to use tools like JenkinsCI to fully automate the deployment of your applications. Recently I have experienced that, due to some bizarre and varied reasons, you cannot always use CI&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - Simulate World Cups</title>
+      <link>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</guid>
+      <description>Now that we have the teams for each county, we want to work out how well they would do at a world cup. For this, we need to know roughly what their ranking would be compared to actual nations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What’s the IGO dataset?</title>
+      <link>https://data-scribers.mikewk.com/post/whats-the-igo-dataset/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-the-igo-dataset/</guid>
+      <description>This webpage is meant provide students and the curious with an visual, explorable introduction to the dataset. The number of IGOs observed over the time period of 1815 to 2005 has dramatically increased. At the beginning of this period there were just a handful, but now they number more than 300&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Article Round Up June 2018</title>
+      <link>https://data-scribers.mikewk.com/post/article-round-up-june-2018/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/article-round-up-june-2018/</guid>
+      <description>The first article is quite long, but easily skim-able&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Could an Independent Yorkshire Win the World Cup - LASSOs and Player Positions</title>
+      <link>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</guid>
+      <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Brief Introduction to Bagged Trees, Random Forest and Their Applications in R</title>
+      <link>https://data-scribers.mikewk.com/post/a-brief-introduction-to-bagged/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-brief-introduction-to-bagged/</guid>
+      <description>It should be noted that although the bagged trees are identically distributed, they are not necessarily independent. Since the boostrap samples used to train each individual tree come from the same data set, it is not surprising that the trees may share some similar&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 38: Algorithmic complexity</title>
+      <link>https://data-scribers.mikewk.com/post/day-38-algorithmic-complexity/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/day-38-algorithmic-complexity/</guid>
+      <description>can be produced with a very short R program: whereas a random-looking string like However, if I use R as the compressing language, there is a very short program that produces it: All of which is by way of background. And calling it… Not surprisingly, complexity increases as a sequence becomes longer, even if it’s the the same symbol being&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A note on factors in regression (in R)</title>
+      <link>https://data-scribers.mikewk.com/post/a-note-on-factors-in-regressio/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-note-on-factors-in-regressio/</guid>
+      <description>Factors terrify me. I can avoid dealing with them most of the time, but they’re immensely useful in a regression when you have a categorical variable with many levels (e.g. “Very Bad”, “Bad”, “Good”, “Very Good”)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 36-37: Concerned DALEX</title>
+      <link>https://data-scribers.mikewk.com/post/day-3637-concerned-dalex/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/day-3637-concerned-dalex/</guid>
+      <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Baby Steps</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</guid>
+      <description>You’re trying to evaluate a receiver’s ability to catch a football. Let’s pretend you can take the following (completely unrealistic) strategy: you tell your quarterback to repeatedly throw the ball to your receiver in practice, recording each time whether or not they caught the ball&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My favourite snippets</title>
+      <link>https://data-scribers.mikewk.com/post/my-favourite-snippets/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-favourite-snippets/</guid>
+      <description>A hidden gem from Rstudio is snippets feature. A well known option in any other editor (Atom, VS Code, Notepad ++&amp;hellip;.) seems that for R people is not a very used tool. For what I know some developers tend to code a full Add-in for things that can be achieved easily just adding a snippet to your Rstudio configuration&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Jenkins as a Service</title>
+      <link>https://data-scribers.mikewk.com/post/jenkins-as-a-service/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jenkins-as-a-service/</guid>
+      <description>In this session we will work through provisioning Jenkins on AWS ECS from a set of Docker containers that allow individuals or teams to self service an immutable CI/CD setup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Imputation/Forecast Models</title>
+      <link>https://data-scribers.mikewk.com/post/gaussian-process-imputationfor/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gaussian-process-imputationfor/</guid>
+      <description>As a toy problem, I am going to focus on the application of a Gaussian process model to forecasting future monthly passengers. This is not the only way one could try to solve this prediction problem&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</guid>
+      <description>Join Max Kuhn of RStudio for his popular Applied Machine Learning Workshop in Washington D.C.! If you’d missed his sold out course at rstudio::conf 2018 now is your chance. This two-day course will provide an overview of using R for supervised learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#BoG18: Talk Notes</title>
+      <link>https://data-scribers.mikewk.com/post/bog18-talk-notes/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bog18-talk-notes/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Modeling the error variance to account for heteroskedasticity</title>
+      <link>https://data-scribers.mikewk.com/post/modeling-the-error-variance-to/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/modeling-the-error-variance-to/</guid>
+      <description>One of the assumptions that comes with applying OLS estimation for regression models in the social sciences is homoskedasticity, I prefer constant error variance (it also goes by spherical disturbances)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulating data from regression models</title>
+      <link>https://data-scribers.mikewk.com/post/simulating-data-from-regressio/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulating-data-from-regressio/</guid>
+      <description>My preferred approach to validating regression models is to simulate data from them, and see if the simulated data capture relevant features of the original data. A basic feature of interest would be the mean. I like this approach because it is extendable to the family of generalized linear models (logistic, Poisson, gamma, ..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Road Map for Choosing Between Statistical Modeling and Machine Learning</title>
+      <link>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</guid>
+      <description>Data analysis methods may be described by their areas of applications, but for this article I&amp;rsquo;m using definitions that are strictly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Arrow and beyond</title>
+      <link>https://data-scribers.mikewk.com/post/arrow-and-beyond/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arrow-and-beyond/</guid>
+      <description>Feather was a successful project, and has made it easier for thousands of data scientists and data engineers to collaborate across language boundaries&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing multiple interventions in a single experiment</title>
+      <link>https://data-scribers.mikewk.com/post/testing-multiple-interventions/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-multiple-interventions/</guid>
+      <description>First, a bit about multi-factorial data. A single factor is a categorical variable that can have any number of levels. In this context, the factor is usually describing some level of intervention or exposure&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predicting NFL Injuries with Stan</title>
+      <link>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</guid>
+      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stan Basics</title>
+      <link>https://data-scribers.mikewk.com/post/stan-basics/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stan-basics/</guid>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect 1.6.0  -  A Year in the Making!</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-160-a-year-in-/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-160-a-year-in-/</guid>
+      <description>We’re pleased to announce RStudio Connect 1.6.0. Connect 1.6.0 caps a year of significant updates and we encourage all customers to upgrade. Connect users continue to share analytics through reports, dashboards, and web applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building tidy tools workshop</title>
+      <link>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</guid>
+      <description>Join RStudio Chief Data Scientist Hadley Wickham for his popular Building tidy tools workshop in San Francisco! If you&amp;rsquo;d missed the sold out course at rstudio::conf 2018 now is your chance. You should take this class if you have some experience programming in R and you want to learn how to tackle larger scale problems&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</guid>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</guid>
+      <description>This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On Adjectives</title>
+      <link>https://data-scribers.mikewk.com/post/on-adjectives/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-adjectives/</guid>
+      <description>Among all types of words, I have always found adjectives the most challenging to use in communication (either writing or talking). They are challenging because (1) it is so hard to refrain from using them, and (2) it is hard to be precise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</guid>
+      <description>This is part two of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, at this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Functional programming in R with Purrr</title>
+      <link>https://data-scribers.mikewk.com/post/functional-programming-in-r-wi/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/functional-programming-in-r-wi/</guid>
+      <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A gentle guide to Tidy statistics in R</title>
+      <link>https://data-scribers.mikewk.com/post/a-gentle-guide-to-tidy-statist/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-gentle-guide-to-tidy-statist/</guid>
+      <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Your Wallaroo Questions Answered</title>
+      <link>https://data-scribers.mikewk.com/post/your-wallaroo-questions-answer/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/your-wallaroo-questions-answer/</guid>
+      <description>Wallaroo Labs has received a lot of great feedback from developers on Hacker News and other communities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>EPL Week 30</title>
+      <link>https://data-scribers.mikewk.com/post/epl-week-30/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/epl-week-30/</guid>
+      <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayRashford schools Alex-Arnold Palace joined WBA with a league-leading ninth one-goal defeat&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with iml and mlr</title>
+      <link>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</guid>
+      <description>Machine learning models repeatedly outperform interpretable, parametric models like the linear regression model. The gains in performance have a price: The models operate as black boxes which are not interpretable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Training Courses for mlr</title>
+      <link>https://data-scribers.mikewk.com/post/training-courses-for-mlr/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/training-courses-for-mlr/</guid>
+      <description>The mlr: Machine Learning in R package provides a generic, object-oriented and extensible framework for classification, regression, survival analysis and clustering for the statistical programming language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Inferencia Estadística</title>
+      <link>https://data-scribers.mikewk.com/post/fundamentos-de-inferencia-esta/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fundamentos-de-inferencia-esta/</guid>
+      <description>A pesar de que en la formación en psicología se nos ofrecen varios cursos sobre estadística descriptiva e inferencial, difícilmente los estudiantes comprenden a qué se refiere exactamente el tema. Es común, relacionar la inferencia con la aplicación de pruebas estadísticas (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Showtime!</title>
+      <link>https://data-scribers.mikewk.com/post/its-showtime/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/its-showtime/</guid>
+      <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Brief introduction of storm hysteresis effects in solute concentration-stream discharge (C-Q) relationship</title>
+      <link>https://data-scribers.mikewk.com/post/brief-introduction-of-storm-hy/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/brief-introduction-of-storm-hy/</guid>
+      <description>Generally, in order to investigate the dynamics of stream discharge and solute concentrations (C-Q relationship) in a watershed, researchers and environmental engineers usually set up monitoring stations in the watershed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Converting old Wordpress posts to Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/converting-old-wordpress-posts/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-old-wordpress-posts/</guid>
+      <description>Get all your wordpress posts into one XML: WP Admin - Tools - Export. Looks like most of my posts were converted like a charm, with nicely formatted code blocks and images. But I few things I noticed that I think I have to fix: Overall I feared a lot worse and am super happy with the conversion experience&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Shiny App to Compare Stats</title>
+      <link>https://data-scribers.mikewk.com/post/a-shiny-app-to-compare-stats/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-shiny-app-to-compare-stats/</guid>
+      <description>For a recent publication comparing null hypothesis testing p-values to Bayes Factors and Observation Oriented Modeling, we created a Shiny app to graph all of our complex plots&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Covariate Adjustment for Binary Outcomes in Randomized Trials</title>
+      <link>https://data-scribers.mikewk.com/post/covariate-adjustment-for-binar/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/covariate-adjustment-for-binar/</guid>
+      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>https://data-scribers.mikewk.com/post/research-statement/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/research-statement/</guid>
+      <description>Upon arriving at Missouri State University, I founded the Deciphering Outrageous Observations and Modeling (DOOM) lab which has included more than ten graduate and thirty undergraduate students. My research mission has been in two primary domains described in detail below and includes many collaborative efforts throughout the years.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Teaching Luxembourgish to my computer</title>
+      <link>https://data-scribers.mikewk.com/post/teaching-luxembourgish-to-my-c/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/teaching-luxembourgish-to-my-c/</guid>
+      <description>Today we reveal a project that Kevin and myself have been working on for the past 2 months, Liss. Liss is a sentiment analysis artificial intelligence; you can let Liss read single words or whole sentences, and Liss will tell you if the overall sentiment is either positive or negative&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using binary regression software to model ordinal data as a multivariate GLM</title>
+      <link>https://data-scribers.mikewk.com/post/using-binary-regression-softwa/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-binary-regression-softwa/</guid>
+      <description>I have read that the most common model for analyzing ordinal data is the cumulative link logistic model, coupled with the proportional odds assumption. Essentially, you treat the outcome as if it were the categorical manifestation of a continuous latent variable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>California School Dashboards Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</guid>
+      <description>This is part one of a three part series where I’ll be working with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. Introduction: It’s Ok to Skip Around I’m writing this series for data scientists, public school educators, and data scientists who are also public school&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Book&#39;em Danno!</title>
+      <link>https://data-scribers.mikewk.com/post/bookem-danno/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bookem-danno/</guid>
+      <description>One of the best talks in my opinion at rstudio::conf 2018 was actually the first keynote by Prof. Di Cook, of Monash University, titled “To the Tidyverse and Beyond: Challenges for the Future in Data Science”1. Di talked about how she views the plot of a dataset as simply another statistic, a function of this dataset&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Flagging toxic comments with Tidytext and Keras</title>
+      <link>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</guid>
+      <description>The task here is to try to determine how likely a string is to have a particular set of labels. We can take a look at the data The first step for looking at the actual text is to split up the strings into words and then remove stop words&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Have you ever asked yourself, &#39;how should I approach the classic pre-post analysis?&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/have-you-ever-asked-yourself-h/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/have-you-ever-asked-yourself-h/</guid>
+      <description>I’ve explored various scenarios (i.e. different data generating assumptions) to see if it matters which approach we use. (Of course it does&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Information Gain From Using Ordinal Instead of Binary Outcomes</title>
+      <link>https://data-scribers.mikewk.com/post/information-gain-from-using-or/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/information-gain-from-using-or/</guid>
+      <description>The point about the increase in power can also be made by, instead of varying the effect size, varying the effect that can be detected with a fixed power of 0.9 when the degree of granularity in Y is increased. This is all about breaking ties in Y. The more ties there are, the less statistical information is present&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linear Models</title>
+      <link>https://data-scribers.mikewk.com/post/linear-models/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linear-models/</guid>
+      <description>Preamble The purpose of this post is to elucidate some of the concepts associated with statistical linear models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Importance sampling adds an interesting twist to Monte Carlo simulation</title>
+      <link>https://data-scribers.mikewk.com/post/importance-sampling-adds-an-in/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/importance-sampling-adds-an-in/</guid>
+      <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data</title>
+      <link>https://data-scribers.mikewk.com/post/simulating-a-costeffectiveness/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulating-a-costeffectiveness/</guid>
+      <description>In the simulation scenario I’ve concocted, the goal is to increase the number of patients that come in for an important test&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Churn Analysis - Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/churn-analysis-part-1/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/churn-analysis-part-1/</guid>
+      <description>Hello everyone, We can shortly define customer churn (most commonly called “churn”) as customers that stop doing business with a company or a service. There are customer churns in different business area. In this post, we will focus on the telecom area. Here, we want to predict which customers will leave their current telecom provider&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using glmer() to perform Rasch analysis</title>
+      <link>https://data-scribers.mikewk.com/post/using-glmer-to-perform-rasch-a/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-glmer-to-perform-rasch-a/</guid>
+      <description>I&amp;rsquo;ve been interested in the relationship between ordinal regression and item response theory (IRT) for a few months now. There are several helpful papers on the topic, here are some randomly picked ones 1 2 3 4 5, and a book&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Post-selection inference on Friends titles in R</title>
+      <link>https://data-scribers.mikewk.com/post/postselection-inference-on-fri/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/postselection-inference-on-fri/</guid>
+      <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic tracing a Pony &#43; Python program with DTrace</title>
+      <link>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</guid>
+      <description>Your application probably has a performance problem. Or your app has a terrible bug. Or both. To find and fix these problems, many software developers use a profiler or a debugger. Profilers and debuggers are (usually) fantastic tools for solving performance and correctness problems&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When there&#39;s a fork in the road, take it. Or, taking a look at marginal structural models.</title>
+      <link>https://data-scribers.mikewk.com/post/when-theres-a-fork-in-the-road/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-theres-a-fork-in-the-road/</guid>
+      <description>The DAG below is a simple version of how things can get complicated very fast if we have sequential treatments or exposures that both affect and are affected by intermediate factors or conditions. In reality, there are no parallel universes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing a paper with RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/writing-a-paper-with-rstudio/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-a-paper-with-rstudio/</guid>
+      <description>This semester I had to write a paper for my Financial Econometrics class. My topic was on analyzing the volatility of Bitcoin using GARCH modeling. I’m not particularly interested in Bitcoin, but with all the recent news around it, and with its highly volatile characteristics, I figured it would be a good candidate for analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing how confounding biases estimates of population-wide (or marginal) average causal effects</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-how-confounding-bi/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-how-confounding-bi/</guid>
+      <description>When we are trying to assess the effect of an exposure or intervention on an outcome, confounding is an ever-present threat to our ability to draw the proper conclusions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>3 Keys for Successful Products and Programs Before You Even Start</title>
+      <link>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</guid>
+      <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Firearms Sourced and Recovered in the United States and Territories 2010-2016</title>
+      <link>https://data-scribers.mikewk.com/post/firearms-sourced-and-recovered/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/firearms-sourced-and-recovered/</guid>
+      <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Much For the Watch?</title>
+      <link>https://data-scribers.mikewk.com/post/how-much-for-the-watch/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-much-for-the-watch/</guid>
+      <description>This post serves a few purposes: Exercising Deep Learning with Regression, as opposed to Classification, which is my comfort zone. A tribute to my previous working place - ebay. Trying to combine text AND image data in a “Bi-Modal” model - never did it before. Doing something which involves Fashion&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Misspecification and fit indices in covariance-based SEM</title>
+      <link>https://data-scribers.mikewk.com/post/misspecification-and-fit-indic/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/misspecification-and-fit-indic/</guid>
+      <description>TLDR: If you have good measurement quality, conventional benchmarks for fit indices may lead to bad decisions. Additionally, global fit indices are not informative for investigating misspecification. I am working with one of my professors, Dr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Who knew likelihood functions could be so pretty?</title>
+      <link>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</guid>
+      <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Use CircleCI for R Projects</title>
+      <link>https://data-scribers.mikewk.com/post/use-circleci-for-r-projects/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/use-circleci-for-r-projects/</guid>
+      <description>Why CircleCI? Yes, I know using Travis CI is this easy, thanks to devtools package: Travis CI is OK most of the time. Still, CircleCI has some advantages: Though Travis can cache the setup once it succeeds, it is good if we can save time to setup testing environment by using existing Docker images. CircleCI displays the test summary in this pretty way: All I had to do was two steps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the third part in a series of blog posts on Signal Detection models: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Can we use B-splines to generate non-linear data?</title>
+      <link>https://data-scribers.mikewk.com/post/can-we-use-bsplines-to-generat/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/can-we-use-bsplines-to-generat/</guid>
+      <description>Within a cut-point region, the sum of the basis functions always equals 1. This is easy to see by looking at a plot of basis functions, several of which are provided below. The definition and shape of the basis functions do not in any way depend on the data, only on the degree and cut-points&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Signal Detection Models, Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
+      <description>This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Web Performance Optimisation</title>
+      <link>https://data-scribers.mikewk.com/post/an-introduction-to-web-perform/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-introduction-to-web-perform/</guid>
+      <description>This is an excerpt from a talk I gave at LASTConf Melbourne on Web Performance Optimisation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A minor update to simstudy provides an excuse to talk a bit about the negative binomial and Poisson distributions</title>
+      <link>https://data-scribers.mikewk.com/post/a-minor-update-to-simstudy-pro/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-minor-update-to-simstudy-pro/</guid>
+      <description>As part of the release, I thought I’d explore the negative binomial just a bit, particularly as it relates to the Poisson distribution. The Poisson distribution is a discrete (integer) distribution of outcomes of non-negative values that is often used to describe count outcomes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Little&#39;s MCAR test at different sample sizes</title>
+      <link>https://data-scribers.mikewk.com/post/littles-mcar-test-at-different/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/littles-mcar-test-at-different/</guid>
+      <description>TLDR: Little&amp;rsquo;s MCAR test is unable to tell data that are MCAR from data that are MAR in small samples, but maintains the nominal error rate when null is true across a wide range of sample sizes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Theil-Sen regression in R</title>
+      <link>https://data-scribers.mikewk.com/post/theilsen-regression-in-r/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/theilsen-regression-in-r/</guid>
+      <description>TLDR: When performing a simple linear regression, if you have any concern about outliers or heterosedasticity, consider the Theil-Sen estimator. A simple linear regression estimator that is not commonly used or taught in the social sciences is the Theil-Sen estimator&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A simstudy update provides an excuse to talk a little bit about latent class regression and the EM algorithm</title>
+      <link>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simstudy-update-provides-an-/</guid>
+      <description>It is probably easiest to see in action: Here is what the data look like: Here is a slow-motion version of the EM estimation process. I show the parameter estimates (visually) at the early stages of estimation, checking in after every three steps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Linear regression with violation of heteroskedasticity with small samples</title>
+      <link>https://data-scribers.mikewk.com/post/linear-regression-with-violati/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/linear-regression-with-violati/</guid>
+      <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pur(r)ify Your Carets</title>
+      <link>https://data-scribers.mikewk.com/post/purrify-your-carets/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrify-your-carets/</guid>
+      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Simple Slack Bot With Plumber</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-slack-bot-with-plumbe/</link>
+      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-slack-bot-with-plumbe/</guid>
+      <description>Intro To Plumber Plumber is an R package that allows you to create web apis in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Advice for non-traditional data scientists</title>
+      <link>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</guid>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A hidden process behind binary or other categorical outcomes?</title>
+      <link>https://data-scribers.mikewk.com/post/a-hidden-process-behind-binary/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-hidden-process-behind-binary/</guid>
+      <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OSGeo-Live Project</title>
+      <link>https://data-scribers.mikewk.com/post/osgeolive-project/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/osgeolive-project/</guid>
+      <description>OSGeo-Live is a self-containing ISO with around 50 FOSS dedicated to GIS. A virtual macine archive is also provided. I join the project in November (or early December) 2015, as I was already a librist when I was a became a GIS technician&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>purrr Tricks with All Subset Regression</title>
+      <link>https://data-scribers.mikewk.com/post/purrr-tricks-with-all-subset-r/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrr-tricks-with-all-subset-r/</guid>
+      <description>All Subsets Regression What is all subsets regression? It’s a technique for model building which involves taking a set of independent variables (X1..i) and regressing them in sets of (k), where (k) is in ({1,2,\dots,i}), against the response variable (Y). The ‘all’ part of ‘all subsets’ means it’s every combination of (X{1..i}) being drawn (k) at a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Be careful not to control for a post-exposure covariate</title>
+      <link>https://data-scribers.mikewk.com/post/be-careful-not-to-control-for-/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/be-careful-not-to-control-for-/</guid>
+      <description>The field of causal inference is a rich one, and I won’t even scratch the surface here. My goal is to present the concepts of potential outcomes so that we can articulate at least one clear way to think about what a causal effect can be defined&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Which RStudio blog posts “pleased” Hadley? A tidytext &#43; web scraping analysis</title>
+      <link>https://data-scribers.mikewk.com/post/which-rstudio-blog-posts-pleas/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/which-rstudio-blog-posts-pleas/</guid>
+      <description>Awhile back, I saw a conversation on twitter about how Hadley uses the word “pleased” very often when introducing a new blog post (I couldn’t seem to find this tweet anymore. Can anyone help?)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Office of the CTO with Greg DeMichillie</title>
+      <link>https://data-scribers.mikewk.com/post/office-of-the-cto-with-greg-de/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/office-of-the-cto-with-greg-de/</guid>
+      <description>Prior to joining Google, he had leadership roles at variety of companies including Adobe and Amazon, as well as a decade at Microsoft where he was a developer on the first version of Visual C++, the development manager for Microsoft’s Java tools, and lead the product team for the creation of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On the interpretation of regression coefficients</title>
+      <link>https://data-scribers.mikewk.com/post/on-the-interpretation-of-regre/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-the-interpretation-of-regre/</guid>
+      <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining R and Python for data analysis</title>
+      <link>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
+      <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>janitor, a good R package for Data Wrangling</title>
+      <link>https://data-scribers.mikewk.com/post/janitor-a-good-r-package-for-d/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/janitor-a-good-r-package-for-d/</guid>
+      <description>We all know the many hours spent cleaning and wrangling data. Sometimes I think my actual job is not “Data Scientist” but “Data Cleaner”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Correlated Psychological Variables, Uncertainty, and Bayesian Estimation</title>
+      <link>https://data-scribers.mikewk.com/post/correlated-psychological-varia/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/correlated-psychological-varia/</guid>
+      <description>Assessing the correlations between psychological variabless, such as abilities and improvements, is one essential goal of psychological science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First look at Tidycensus</title>
+      <link>https://data-scribers.mikewk.com/post/first-look-at-tidycensus/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-look-at-tidycensus/</guid>
+      <description>The whole future of the US census has been coming under scrutiny recently, but, thankfully, we are getting more tools to scrutinise both its decennial data and that of its sister-source, the American Community service&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization for recommender systems (part 2)</title>
+      <link>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</guid>
+      <description>In previous post I explained Weigted Alternating Least Squares algorithm for matrix factorization. This post will be more practical - we will build a model which will recommend artists recommendations based on history of track listenings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is Zero-Sum Thinking Affecting Your Risk Decision?</title>
+      <link>https://data-scribers.mikewk.com/post/is-zerosum-thinking-affecting-/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-zerosum-thinking-affecting-/</guid>
+      <description>One of the challenges we embrace in my line of work is the attempt to identify risk convergence and opportunities for risk reduction across multiple scenarios. It’s not uncommon for these opportunities to cut across business functions or risk assets&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thinking about Workflow</title>
+      <link>https://data-scribers.mikewk.com/post/thinking-about-workflow/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/thinking-about-workflow/</guid>
+      <description>In the spring of 2011, I was in the middle of doing research for my dissertation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When marginal and conditional logistic model estimates diverge</title>
+      <link>https://data-scribers.mikewk.com/post/when-marginal-and-conditional-/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-marginal-and-conditional-/</guid>
+      <description>My aim is to show this through a couple of data simulations that allow us to see this visually&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The One With Friends</title>
+      <link>https://data-scribers.mikewk.com/post/the-one-with-friends/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-one-with-friends/</guid>
+      <description>I’ve recently stumbbled upon this really cool text analysis of Seinfeld scripts, by Michael&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidytext Analysis of Seinfeld</title>
+      <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</guid>
+      <description>I then wrote a function that takes the URL for an episode and pulls the necessary data. Unfortunately, as the scripts were submitted to the site by different fans there is no standard format, making the scraping a little trickier&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>It can be easy to explore data generating mechanisms with the simstudy package</title>
+      <link>https://data-scribers.mikewk.com/post/it-can-be-easy-to-explore-data/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/it-can-be-easy-to-explore-data/</guid>
+      <description>I learned statistics and probability by simulating data. Sure, I did the occasional proof, but I never believed the results until I saw it in a simulation. I guess I have it backwards, but I that’s just the way I am&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A first taste of the common workflow language, part 1.</title>
+      <link>https://data-scribers.mikewk.com/post/a-first-taste-of-the-common-wo/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-first-taste-of-the-common-wo/</guid>
+      <description>If you go to the CWL webpage you are greeted, right at the top, by these two sentences: The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel benchmarking with OpenML and mlr</title>
+      <link>https://data-scribers.mikewk.com/post/parallel-benchmarking-with-ope/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parallel-benchmarking-with-ope/</guid>
+      <description>With this post I want to show you how to benchmark several learners (or learners with different parameter settings) using several data sets in a structured and parallelized fashion. For this we want to use batchtools. The data that we will use here is stored on the open machine learning platform openml&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Wallaroo!</title>
+      <link>https://data-scribers.mikewk.com/post/hello-wallaroo/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-wallaroo/</guid>
+      <description>We handle the hard infrastructure problems so you don’t have to. Welcome to the Wallaroo Labs Engineering blog. I&amp;rsquo;m writing today to introduce you to Wallaroo, the product we&amp;rsquo;ve been working on for a little over a year now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Four values of a devops transformation</title>
+      <link>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</guid>
+      <description>A successful devops transformation sees a change in organisational culture. These changes often come in the way of adoption of specific tools or practices&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why?</title>
+      <link>https://data-scribers.mikewk.com/post/why/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why/</guid>
+      <description>We all know DevOps is not about the tools or the process, it’s about a deeper cultural movement&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R for Excel Users</title>
+      <link>https://data-scribers.mikewk.com/post/r-for-excel-users/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-for-excel-users/</guid>
+      <description>Like most people, I first learned to work with numbers through an Excel spreadsheet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finite Mixture Modeling using Flexmix</title>
+      <link>https://data-scribers.mikewk.com/post/finite-mixture-modeling-using-/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finite-mixture-modeling-using-/</guid>
+      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Intro to R slides</title>
+      <link>https://data-scribers.mikewk.com/post/intro-to-r-slides/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/intro-to-r-slides/</guid>
+      <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yoga for modeling</title>
+      <link>https://data-scribers.mikewk.com/post/yoga-for-modeling/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yoga-for-modeling/</guid>
+      <description>A New Year’s resolution for all of our models: get more flexible! As an aside, I’m better at implementing yoga for my models than yoga for myself, most of the time I end up like this: Anyways, let’s make our models flexible! By flexible, we mean let’s be more intentional about fitting nonlinear parametric&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Java with Ray Tsang and Rajeev Dayal</title>
+      <link>https://data-scribers.mikewk.com/post/java-with-ray-tsang-and-rajeev/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/java-with-ray-tsang-and-rajeev/</guid>
+      <description>In this second episode of the year we&amp;rsquo;ll talk Java! Rajeev Dayal is an Engineering Manager at Google New York that manages the Cloud SDK and Java on GCP efforts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Regression modeling strategies</title>
+      <link>https://data-scribers.mikewk.com/post/regression-modeling-strategies/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/regression-modeling-strategies/</guid>
+      <description>Frank Harrell teaches an amazing course “Regression Modeling Strategies” based on his book each spring at Vanderbilt. This was one of my all time favorite courses. It has just the right amount of practical strategies, brilliant statistical insight, and zealous disdain for all things stepwise regression&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Magic reprex</title>
+      <link>https://data-scribers.mikewk.com/post/magic-reprex/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/magic-reprex/</guid>
+      <description>Making reproducible examples can be hard. There&amp;rsquo;s a lot of things you need to consider. Like, making sure your environment is clean, the right packages are loaded, the code is formatted nicely, and images are the right resolution and dimension. Getting all of these ducks lined up can sometimes take a couple of minutes, if you have a nice tightly defined problem. Other times, it can take much, much&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Simple Guide to S3 Methods</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</guid>
+      <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Windows and .NET with Chris Sells and Amruta Gulanikar</title>
+      <link>https://data-scribers.mikewk.com/post/windows-and-net-with-chris-sel/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/windows-and-net-with-chris-sel/</guid>
+      <description>At Google, Chris is the Lead PM for Cloud Developer Tools, which includes driving our tooling and libraries efforts around Windows and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Modelling working memory precision in R</title>
+      <link>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</guid>
+      <description>I have translated Paul Bays’ Matlab functions for modeling continuous response data into R . Bays’ guide to the Matlab functions and their usage can be found here. I have a detailed guide to the R functions and their usage over on Github&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cutoff function</title>
+      <link>https://data-scribers.mikewk.com/post/cutoff-function/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cutoff-function/</guid>
+      <description>In R Markdown one is often faced with situations where a value that can vary substantially in automatically pulled out. For example, we might want to pull a p-value out of an linear model object. It&amp;rsquo;s a chore to have to manually edit p-values so that they conform with reporting conventions (e.g. p &amp;lt; .001)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Science Meets Parliament</title>
+      <link>https://data-scribers.mikewk.com/post/science-meets-parliament/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/science-meets-parliament/</guid>
+      <description>In February I was lucky to receive funding from SSA to attend the two-day event Science Meets Parliament, held in Canberra. Science Meets parliament brings together 200 scientists to learn about research communication, the role of research in policy, and how to engage a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PHP with Terry Ryan and Brent Shaffer</title>
+      <link>https://data-scribers.mikewk.com/post/php-with-terry-ryan-and-brent-/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/php-with-terry-ryan-and-brent-/</guid>
+      <description>He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Migrating to AWS</title>
+      <link>https://data-scribers.mikewk.com/post/migrating-to-aws/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/migrating-to-aws/</guid>
+      <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hacking for the Underserved</title>
+      <link>https://data-scribers.mikewk.com/post/hacking-for-the-underserved/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacking-for-the-underserved/</guid>
+      <description>What comes first: the problems, or the tools to solve them? It seems at times as if the newest technology on the block has become more important than creating actual solutions to healthcare problems. In the digital health landscape, hackathons have run counter to the tools-first&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Siri, what do my lab results mean?”</title>
+      <link>https://data-scribers.mikewk.com/post/siri-what-do-my-lab-results-me/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/siri-what-do-my-lab-results-me/</guid>
+      <description>Overcoming the Literacy Burden Using Voice-Mediated Interfaces The literacy and numeracy burden represents one of the major barriers to engaging patients in their health. Efforts to offer patients open access to their data afford those who are health literate an empowering opportunity. However, patients who struggle with literacy and numeracy may not&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Your First Spark Cluster</title>
+      <link>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</guid>
+      <description>Installing your first spark cluster So, if you’re like me you’ve been using a lot of traditional tools for data science/analytics/whatever you want to call it. R is great, it’s flexible, it’s powerful but it’s slow and memory constrained. At work I’ve got a VM with 16Gb and one call can increase it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>text2vec 0.3</title>
+      <link>https://data-scribers.mikewk.com/post/text2vec-03/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text2vec-03/</guid>
+      <description>updated 2016-03-31 - few functions renamed updated 2016-10-07 - see updated tutorial for text2vec 0.4 Today I&amp;rsquo;m pleased to announce preview of the new version of text2vec. It is located in the 0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Australian rOpenSci Unconference</title>
+      <link>https://data-scribers.mikewk.com/post/australian-ropensci-unconferen/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/australian-ropensci-unconferen/</guid>
+      <description>The rOpenSci Unconferene is coming to Australia and we are excited!! I was completely and unceremoniously thrown into the deep end when I first started learning R. Contrary to what I initially thought possible, I am now irreversibly converted to the ideology of open&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes 1.2 with Kelsey Hightower</title>
+      <link>https://data-scribers.mikewk.com/post/kubernetes-12-with-kelsey-high/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kubernetes-12-with-kelsey-high/</guid>
+      <description>Kelsey has worn every hat possible throughout his career in tech and enjoys leadership roles focused on making things happen and shipping software&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Big Data with Felipe Hoffa</title>
+      <link>https://data-scribers.mikewk.com/post/big-data-with-felipe-hoffa/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/big-data-with-felipe-hoffa/</guid>
+      <description>In 2011 Felipe Hoffa moved from Chile to San Francisco to join Google as a Software Engineer. Since 2013 he&amp;rsquo;s been a Developer Advocate on Big Data - to inspire developers around the world to leverage the Google Cloud Platform tools to analyze and understand their data in ways they could never before&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GloVe vs word2vec revisited.</title>
+      <link>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</guid>
+      <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Developer Experience with Chris Sells</title>
+      <link>https://data-scribers.mikewk.com/post/google-cloud-developer-experie/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-cloud-developer-experie/</guid>
+      <description>Chris Sells has been a software engineer of one kind or another since he was 14 years old&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing texts with text2vec package</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-texts-with-text2vec-/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-texts-with-text2vec-/</guid>
+      <description>updated 2016-10-07 - see post with updated tutorial for text2vec 0.4 In the last weeks I have actively worked on text2vec (formerly tmlite) - R package, which provides tools for fast text vectorization and state-of-the art word embeddings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>IVMOOC Reflections</title>
+      <link>https://data-scribers.mikewk.com/post/ivmooc-reflections/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ivmooc-reflections/</guid>
+      <description>So IVMOOC has been over for quite some time now. Looking back on the experience, I consider it to be a personal success&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#IVMOOC Week 1</title>
+      <link>https://data-scribers.mikewk.com/post/ivmooc-week-1/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ivmooc-week-1/</guid>
+      <description>So I&amp;rsquo;ve made it through the first week of #IVMOOC. Gold stars all around! I did learn some new things, new tricks and new tools from the lectures and I&amp;rsquo;m a sucker for a good framework&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rmongodb 1.8.0</title>
+      <link>https://data-scribers.mikewk.com/post/rmongodb-180/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
+      <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why does a linear model without an intercept (forced through the origin) have a higher R-squared value? (calculated by R)</title>
+      <link>https://data-scribers.mikewk.com/post/why-does-a-linear-model-withou/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-does-a-linear-model-withou/</guid>
+      <description>Answer in short: Because different formulas are used to calculate the R-squared of a linear regression, depending on whether it has an intercept or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Grammar of Models?</title>
+      <link>https://data-scribers.mikewk.com/post/a-grammar-of-models/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-grammar-of-models/</guid>
+      <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Statistics Can Do Anything?</title>
+      <link>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</guid>
+      <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

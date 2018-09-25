@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nomadichackercom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/nomadichackercom/</link>
+    <description>Recent content in Nomadichackercom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/nomadichackercom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Zero to GPU 2 - Squeezing Neural Network Performance on CPU</title>
+      <link>https://data-scribers.mikewk.com/post/from-zero-to-gpu-2-squeezing-n/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-2-squeezing-n/</guid>
+      <description>Welcome to the second post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing</title>
+      <link>https://data-scribers.mikewk.com/post/announcing/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing/</guid>
+      <description>Richard Feynmann 1 has once said: What I cannot create, I do not understand. To understand Neural Networks, and how the recent Machine Learning evolution happened&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Zero to GPU 1 - A new neural network is born</title>
+      <link>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</guid>
+      <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello, to a brand new World</title>
+      <link>https://data-scribers.mikewk.com/post/hello-to-a-brand-new-world/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-to-a-brand-new-world/</guid>
+      <description>So, after putting it off for years&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

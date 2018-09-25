@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryantravisnetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ryantravisnetlifycom/</link>
+    <description>Recent content in Ryantravisnetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ryantravisnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some books I read in August</title>
+      <link>https://data-scribers.mikewk.com/post/some-books-i-read-in-august/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-august/</guid>
+      <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple example of fitting splines with mixed models</title>
+      <link>https://data-scribers.mikewk.com/post/simple-example-of-fitting-spli/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simple-example-of-fitting-spli/</guid>
+      <description>I thought it might be value to provide some code showing how splines can be fit using mixed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fantasy Football Player Rankings</title>
+      <link>https://data-scribers.mikewk.com/post/fantasy-football-player-rankin/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fantasy-football-player-rankin/</guid>
+      <description>Accurate prediction of player performance is of immense value to those of use who play fantasy football. With this in mind, I was curious about how well simple prediction models could perform in this context. Conveniently, Sean J&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some Books I Read in July</title>
+      <link>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</guid>
+      <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Odds ratios and logistic regression basics</title>
+      <link>https://data-scribers.mikewk.com/post/odds-ratios-and-logistic-regre/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/odds-ratios-and-logistic-regre/</guid>
+      <description>Binary outcome variables that only take on two distinct values such as alive vs. not alive are very common in medicine and elsewhere&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predicting NFL Injuries with Stan Part II</title>
+      <link>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</guid>
+      <description>Previously I use data from armchair analysis to build a simple model to predict whether an NFL player would have an injury based only on their position. I restricted the analysis to QBs, RBs, TEs, and WRs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prediction Assessment with Scoring Rules</title>
+      <link>https://data-scribers.mikewk.com/post/prediction-assessment-with-sco/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/prediction-assessment-with-sco/</guid>
+      <description>Anyone trying to learn how to build and assess prediction models is immediately swamped with a litany of strange sounding performance metrics. In the binary outcome case you might encounter: sensitivity, specificity, precision, recall, accuracy, just to name a few&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predicting NFL Injuries with Stan</title>
+      <link>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</guid>
+      <description>Yesterday I wrote a post using Stan to fit simple one parameter models. These are boring, but helpful for learning the basics. Today, I’d like to start building a series of increasingly complicated regression models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stan Basics</title>
+      <link>https://data-scribers.mikewk.com/post/stan-basics/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stan-basics/</guid>
+      <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Super Learning from Scratch</title>
+      <link>https://data-scribers.mikewk.com/post/super-learning-from-scratch/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/super-learning-from-scratch/</guid>
+      <description>Introduction Super Learning is a conceptually simple way of combining predictions from different models using cross validation. It simply uses the cross-validated results to form an optimal weighted combination of predictions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Covariate Adjustment for Binary Outcomes in Randomized Trials</title>
+      <link>https://data-scribers.mikewk.com/post/covariate-adjustment-for-binar/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/covariate-adjustment-for-binar/</guid>
+      <description>Introduction A common misconception about randomized clinical trials is that the randomization process should balance any particular covariate across the arms of the trial and that therefore there is no benefit to controlling for covariates with a regression model unless a particular covariate happens to be unbalanced by&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

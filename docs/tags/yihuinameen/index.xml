@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihuinameen on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/yihuinameen/</link>
+    <description>Recent content in Yihuinameen on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/yihuinameen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Follow-Up Post on My Early Career Crisis Post (Finally)</title>
+      <link>https://data-scribers.mikewk.com/post/a-followup-post-on-my-early-ca/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-followup-post-on-my-early-ca/</guid>
+      <description>Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Trick of Deciding if a Link Should Open a New Browser Tab</title>
+      <link>https://data-scribers.mikewk.com/post/my-trick-of-deciding-if-a-link/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-trick-of-deciding-if-a-link/</guid>
+      <description>Pure technical issues are often relatively easy to resolve. Things will become complicated whenever humans are involved. Please don&amp;rsquo;t decide for the user&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serving a Website or Shiny App at 0.0.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/serving-a-website-or-shiny-app/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serving-a-website-or-shiny-app/</guid>
+      <description>This is a convenient way to show websites or apps to people in the same local network&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The First Notebook War</title>
+      <link>https://data-scribers.mikewk.com/post/the-first-notebook-war/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-first-notebook-war/</guid>
+      <description>While reading Joel&amp;rsquo;s critiques on Jupyter notebooks, I couldn&amp;rsquo;t help thinking whether they apply to R Markdown notebooks, or R Markdown documents in general, so I&amp;rsquo;ll mention how some of the problems have been addressed in the R Markdown ecosystem in this post, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>xfun</title>
+      <link>https://data-scribers.mikewk.com/post/xfun/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/xfun/</guid>
+      <description>It is also common to see code like this in R scripts (install a package if not installed or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using TinyTeX from a Flash Drive</title>
+      <link>https://data-scribers.mikewk.com/post/using-tinytex-from-a-flash-dri/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-tinytex-from-a-flash-dri/</guid>
+      <description>One folder to rule them all. No dependency hell. No waste of disk space. No IT support&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Impact: Depth or Breadth?</title>
+      <link>https://data-scribers.mikewk.com/post/impact-depth-or-breadth/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/impact-depth-or-breadth/</guid>
+      <description>My principle is depth first. The broad impact may be a natural by-product. Make one person extremely happy first. Do not aim at making everybody (even mildly) happy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Create GIFs with gifski in knitr Documents</title>
+      <link>https://data-scribers.mikewk.com/post/create-gifs-with-gifski-in-kni/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/create-gifs-with-gifski-in-kni/</guid>
+      <description>This will produce the &amp;ldquo;Pac man&amp;rdquo; below (assuming the output format is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>makeActiveBinding()</title>
+      <link>https://data-scribers.mikewk.com/post/makeactivebinding/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeactivebinding/</guid>
+      <description>Finally, we generate all outputs to build the dependency table&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Double Negatives</title>
+      <link>https://data-scribers.mikewk.com/post/double-negatives/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/double-negatives/</guid>
+      <description>Once again: naming, is,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reflections on 25&#43; Years of &#39;50 Years of Data Science&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/reflections-on-25-years-of-50-/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reflections-on-25-years-of-50-/</guid>
+      <description> &amp;ldquo;Comfortably Numb&amp;rdquo; by Pink Floyd (1979) John Tukey: &amp;ldquo;The Future of Data Analysis&amp;rdquo; (1962) John Chambers: &amp;ldquo;Greater or Lesser Statistics: A Choice for Future Research&amp;rdquo; (1993) Leo Breiman: &amp;ldquo;Statistical Modeling: The Two Cultures&amp;rdquo; (2001) William&amp;hellip;   </description>
+    </item>
+    
+    <item>
+      <title>Write a Book with bookdown and Publish with Chapman &amp; Hall</title>
+      <link>https://data-scribers.mikewk.com/post/write-a-book-with-bookdown-and/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/write-a-book-with-bookdown-and/</guid>
+      <description>I think the typeface should be the only thing you may want to customize. Other things are trivialities and not worth too much time. Don&amp;rsquo;t be preoccupied with customizing the appearance of your PDF (at least don&amp;rsquo;t do this too early). I guess the No&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Two of My Use Cases of Lazy Evaluation</title>
+      <link>https://data-scribers.mikewk.com/post/two-of-my-use-cases-of-lazy-ev/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/two-of-my-use-cases-of-lazy-ev/</guid>
+      <description>I&amp;rsquo;m not an expert of quotation or lazy evaluation. I just happen to have used them occasionally. I&amp;rsquo;m going to talk about two use cases of lazy evaluation. In two of my talks, I used delayed assignments to execute R code for no good reasons except that I just wanted to confuse the audience&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In HTML and the Web I Trust</title>
+      <link>https://data-scribers.mikewk.com/post/in-html-and-the-web-i-trust/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-html-and-the-web-i-trust/</guid>
+      <description>My blog post is relatively short, and I strongly recommend that you read the full article &amp;ldquo;LaTeX is dead&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Help Needed</title>
+      <link>https://data-scribers.mikewk.com/post/help-needed/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/help-needed/</guid>
+      <description>The three components of a software package are equally important in my eyes: source code, documentation, and tests&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quietly Struggling (with Software)</title>
+      <link>https://data-scribers.mikewk.com/post/quietly-struggling-with-softwa/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quietly-struggling-with-softwa/</guid>
+      <description>Anyway, if a software package seems to try to turn an average user into a sysadmin, that is probably not a good sign. Ummm&amp;hellip; R CMD javareconf? Java 8? 9? JDK 10? sudo? Actually I did figure out how to install it, but it was a long way&amp;hellip; I was afraid that I would have to go through this again in the future (like I did for a few times in the past), so I chose not to touch it again&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The First Bookdown Contest</title>
+      <link>https://data-scribers.mikewk.com/post/the-first-bookdown-contest/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-first-bookdown-contest/</guid>
+      <description>[..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Slowly but Steadily, They Started to Help Me Answer Questions</title>
+      <link>https://data-scribers.mikewk.com/post/slowly-but-steadily-they-start/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/slowly-but-steadily-they-start/</guid>
+      <description>Some people have been helping me so frequently on Github and Stack Overflow that I can easily list their names: Marcel Schilling, Michael Harper, Ralf Stubner, Christophe Dervieux, and TC Zhang (apologies if I omitted other frequent helpers - I&amp;rsquo;m pretty bad at remembering people&amp;rsquo;s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Best Way to Support LaTeX Math in Markdown with MathJax</title>
+      <link>https://data-scribers.mikewk.com/post/the-best-way-to-support-latex-/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-best-way-to-support-latex-/</guid>
+      <description>your math expressions will have a light-gray background, too. It is possible to remove the background color, but it is relatively complicated. Even if you use a pair of backticks, you still have the second problem above&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The &#39;Invisible Baby&#39; Metaphor</title>
+      <link>https://data-scribers.mikewk.com/post/the-invisible-baby-metaphor/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-invisible-baby-metaphor/</guid>
+      <description>Be kind: you don&amp;rsquo;t know the constraints they have. This reminds me of a metaphor I have had on my mind for a long time: the &amp;ldquo;invisible baby&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>No Description, Website, or Topics Provided</title>
+      <link>https://data-scribers.mikewk.com/post/no-description-website-or-topi/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/no-description-website-or-topi/</guid>
+      <description>Usually I tend to be conservative on actively marketing my own products, but I have also seen people who seem to be totally unaware of marketing, which is a pity in my eyes. A very typical example is a Github repo that has no description, website URL, or topics, which looks like this: I sigh a sigh every time I see it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://data-scribers.mikewk.com/post/r-markdown/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-markdown/</guid>
+      <description>I don&amp;rsquo;t know other people&amp;rsquo;s secrets on how to create successful software, but my experience is that if you create a software package that you like to use by yourself on a daily basis, it is likely to succeed and will be used by many other people, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The User-Developer Spectrum in the R Ecosystem</title>
+      <link>https://data-scribers.mikewk.com/post/the-userdeveloper-spectrum-in-/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-userdeveloper-spectrum-in-/</guid>
+      <description>Markdown is for 90% of the results from 10% of the effort. Very well said. I also find this odd: &amp;ldquo;If R seems a bit confusing, disorganized, and perhaps incoherent at times, in some ways that’s because so is data analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Do You Have to Use FontAwesome or Other Libraries for Web Symbols?</title>
+      <link>https://data-scribers.mikewk.com/post/do-you-have-to-use-fontawesome/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/do-you-have-to-use-fontawesome/</guid>
+      <description>Certain HTML entities may not work in all web browsers, but I don&amp;rsquo;t really care&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Little Thing</title>
+      <link>https://data-scribers.mikewk.com/post/one-little-thing/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-little-thing/</guid>
+      <description>You can also provide the list of files programmatically, e.g., For multiple files, they are first compressed to a zip file, and the zip file will be embedded&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Write / Don&#39;t Write the Whole Book in bookdown</title>
+      <link>https://data-scribers.mikewk.com/post/write-dont-write-the-whole-boo/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/write-dont-write-the-whole-boo/</guid>
+      <description>don&amp;rsquo;t write your book from start to finish in bookdown. it&amp;rsquo;s too easy to hit a bug, and it&amp;rsquo;s impossible to interactively debug. also, today my figure captions stopped working. write the whole thing in #bookdown compiles seamlessly to webook, pdf epub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yue Jiang</title>
+      <link>https://data-scribers.mikewk.com/post/yue-jiang/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yue-jiang/</guid>
+      <description>Apparently, Yue Jiang (Uchiha?) is a qualified ninja with Sharingan. Once again, we love software&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Only One Person Can Help You with That</title>
+      <link>https://data-scribers.mikewk.com/post/only-one-person-can-help-you-w/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/only-one-person-can-help-you-w/</guid>
+      <description>Only one person can help you with that, and it is most effective to contact him directly. That is also what I&amp;rsquo;m deeply worried about. When users run into certain problems, only one person can help. One person managing more than 12,000 binary packages (although most should be easy to build)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On &#39;Quick Questions&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/on-quick-questions/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-quick-questions/</guid>
+      <description>&amp;ldquo;Hey Yihui, quick question for you&amp;hellip;&amp;rdquo; For many times I have been asked &amp;ldquo;quick questions&amp;rdquo; on Twitter, on Slack, or in emails&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A CRANextra Repository for Homebrew and R Users on macOS</title>
+      <link>https://data-scribers.mikewk.com/post/a-cranextra-repository-for-hom/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-cranextra-repository-for-hom/</guid>
+      <description>There will be no more Step 1, 2, ..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ideally, I Hope to Simply Copy and Run Your Example</title>
+      <link>https://data-scribers.mikewk.com/post/ideally-i-hope-to-simply-copy-/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ideally-i-hope-to-simply-copy-/</guid>
+      <description>That is why you should provide a fully reproducible example whenever possible, instead of describing all the steps to create such an example. For step 1, I had to copy it to an Rmd document in my RStudio session. For step 2, I had to copy the code and put it in an R code chunk&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On Cache Invalidation</title>
+      <link>https://data-scribers.mikewk.com/post/on-cache-invalidation/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-cache-invalidation/</guid>
+      <description>First of all, the main purpose of caching is speed. The basic idea is simple: if you know you are going to compute the same thing, you may just load the result saved from the previous run, and skip the computing this time. There are two keywords here: &amp;ldquo;the same thing&amp;rdquo;, and &amp;ldquo;the saved result&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HTML Widgets for Non-HTML Output Formats</title>
+      <link>https://data-scribers.mikewk.com/post/html-widgets-for-nonhtml-outpu/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/html-widgets-for-nonhtml-outpu/</guid>
+      <description>Screenshotting HTML widgets, Shiny apps, and arbitrary URLs works in any non-HTML output formats: PDF, Word, EPUB, RTF, and PowerPoint, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Little Thing</title>
+      <link>https://data-scribers.mikewk.com/post/one-little-thing/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-little-thing/</guid>
+      <description>P.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Little Thing</title>
+      <link>https://data-scribers.mikewk.com/post/one-little-thing/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-little-thing/</guid>
+      <description>One of the most frequent topics on which I blog in recent years is Chinese literature (of course, only in my Chinese blog). In particular, I often quote poems in my posts. To quote a poem in Markdown, you have to add two trailing spaces after every line of the poem&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Build Binary R Packages for the Homebrew Version of R?</title>
+      <link>https://data-scribers.mikewk.com/post/build-binary-r-packages-for-th/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/build-binary-r-packages-for-th/</guid>
+      <description>Personally I don&amp;rsquo;t really care about if a project is &amp;ldquo;sticky&amp;rdquo;, and I believe being magnetic is a lot more difficult and valuable than being sticky for an open source project. Okay, that is a little bit digression for this blog post. If you use the Homebrew version of R, it will be super easy to upgrade or remove R in the future&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Best Experience in Remote Talks that I Have Given</title>
+      <link>https://data-scribers.mikewk.com/post/the-best-experience-in-remote-/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-best-experience-in-remote-/</guid>
+      <description>For someone who usually does not prefer traveling (and cannot travel too far in a couple of years), I have to say this system is just perfect&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pour Positive Energy into Github Issues</title>
+      <link>https://data-scribers.mikewk.com/post/pour-positive-energy-into-gith/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pour-positive-energy-into-gith/</guid>
+      <description>I think it got the largest number of likes among all tweets that ever involved me. It is great to see this many people appreciated the appreciation. Of course, there is no point of just blindly saying good words&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One (Perhaps Surprising) Reason Why I may Silently Ignore a Github Issue</title>
+      <link>https://data-scribers.mikewk.com/post/one-perhaps-surprising-reason-/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-perhaps-surprising-reason-/</guid>
+      <description>What made me hesitate when looking at this issue was the incorrect format of the reproducible example&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>No Slap in the Face to Those Who are Smiling</title>
+      <link>https://data-scribers.mikewk.com/post/no-slap-in-the-face-to-those-w/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/no-slap-in-the-face-to-those-w/</guid>
+      <description>There is an idiom in Chinese that I can roughly translate as &amp;ldquo;You shall not slap a person in the face when he is smiling at you&amp;rdquo;. This means if a person is showing a positive attitude, you&amp;rsquo;d better forgive him even if he has made a mistake&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Make the Right / Positive Things Easier to Do than Wrong / Negative Things</title>
+      <link>https://data-scribers.mikewk.com/post/make-the-right-positive-things/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/make-the-right-positive-things/</guid>
+      <description>First of all, I should make it clear that I do love Stack Overflow, use it almost every day, and truly appreciate its value, despite of my previous rants&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Trouble of .Rprofile if it Doesn&#39;t Have a Trailing Newline</title>
+      <link>https://data-scribers.mikewk.com/post/the-trouble-of-rprofile-if-it-/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-trouble-of-rprofile-if-it-/</guid>
+      <description>WAT?! Anyway, I always configure my text editors to add a newline to the end of text files (below is a screenshot of my RStudio options), so I probably would never have discovered this issue by&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Timezones, and Worse, Daylight Saving Time</title>
+      <link>https://data-scribers.mikewk.com/post/timezones-and-worse-daylight-s/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/timezones-and-worse-daylight-s/</guid>
+      <description>One nice thing about the time in China is that the whole country shares the same time, from the very east to the very west, even though it means that 8am is still completely dark in the west&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On Adjectives</title>
+      <link>https://data-scribers.mikewk.com/post/on-adjectives/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-adjectives/</guid>
+      <description>Among all types of words, I have always found adjectives the most challenging to use in communication (either writing or talking). They are challenging because (1) it is so hard to refrain from using them, and (2) it is hard to be precise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let MiKTeX Install Missing LaTeX Packages Automatically</title>
+      <link>https://data-scribers.mikewk.com/post/let-miktex-install-missing-lat/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/let-miktex-install-missing-lat/</guid>
+      <description>From the viewpoint of the developer, it is absolutely the right thing to do to ask users before installing the missing LaTeX packages. However, from the viewpoint of users, I guess 99.99% of users will agree to install the missing packages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Use Spaces or Underscores in File Paths; Use Dashes Instead</title>
+      <link>https://data-scribers.mikewk.com/post/dont-use-spaces-or-underscores/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-use-spaces-or-underscores/</guid>
+      <description>These could be bad chunk labels: Sigh.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Miao YU is Looking for a Postdoc Position in the US</title>
+      <link>https://data-scribers.mikewk.com/post/miao-yu-is-looking-for-a-postd/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/miao-yu-is-looking-for-a-postd/</guid>
+      <description>My friend Miao is going to finish his postdoctoral research in Waterloo this summer. Currently he is looking for a new postdoc position in the US (no particular preference over the location in US)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The R Markdown Source Documents of My Presentations</title>
+      <link>https://data-scribers.mikewk.com/post/the-r-markdown-source-document/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-r-markdown-source-document/</guid>
+      <description>The Rmd source file can be obtained&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Video of My Talk on blogdown at rstudio</title>
+      <link>https://data-scribers.mikewk.com/post/the-video-of-my-talk-on-blogdo/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-video-of-my-talk-on-blogdo/</guid>
+      <description>After I gave the talk on blogdown at rstudio::conf 2018, some people really thought I was a fast typist, because I &amp;ldquo;typed&amp;rdquo; a relatively long post at the podium in just 20 seconds. On one hand, I was happy to learn that, because my trick worked (too) well on some people&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>&#39;Bite-sized&#39; Pull Requests</title>
+      <link>https://data-scribers.mikewk.com/post/bitesized-pull-requests/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bitesized-pull-requests/</guid>
+      <description>The cognitive load of PR reviewers will also be lighter when PRs are bite-sized. Each small PR may take one minute to review and merge, but if three small changes are placed in a moderate PR, it may take more than three minutes to review and merge (1 + 1 &amp;gt; 2). P.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>And They Closed a Valid Question on StackOverflow Again</title>
+      <link>https://data-scribers.mikewk.com/post/and-they-closed-a-valid-questi/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/and-they-closed-a-valid-questi/</guid>
+      <description>I still don&amp;rsquo;t understand the benefit of closing questions on StackOverflow. If you close a question, no one can answer it (you&amp;rsquo;ll have to wait for five people to vote to re-open it), even if it is a valid question&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Netlify is Hiring Its First Data Scientist</title>
+      <link>https://data-scribers.mikewk.com/post/netlify-is-hiring-its-first-da/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/netlify-is-hiring-its-first-da/</guid>
+      <description>Netlify was a company that I started to appreciate very much from 2017. I could feel how committed it was to open source, its passion for making it super convenient for people to publish content to the web, and also its amazing customer service&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thanks, Alicia Schep, for Digging into knitr Engines</title>
+      <link>https://data-scribers.mikewk.com/post/thanks-alicia-schep-for-diggin/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/thanks-alicia-schep-for-diggin/</guid>
+      <description>After figuring out a quick way to do this, I ended up becoming interested in how knitr&amp;rsquo;s language engines work, and was pleasantly surprised by how accessible the engines are - with a few lines of code you can add a new chunk option to affect the output of a javascript chunk! So thanks, Alicia&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The #1 Question to Ask Yourself when Designing a Questionnaire</title>
+      <link>https://data-scribers.mikewk.com/post/the-1-question-to-ask-yourself/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-1-question-to-ask-yourself/</guid>
+      <description>Earlier last month, I took the 2018 Stack Overflow Developer Survey, and I found a few really difficult questions, such as the one that asked me to rank 10 aspects of a job opportunity in order of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Early Career Crisis (2014 - 2015)</title>
+      <link>https://data-scribers.mikewk.com/post/my-early-career-crisis-2014-20/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-early-career-crisis-2014-20/</guid>
+      <description>So yeah, I&amp;rsquo;ve always got issues. Sometimes funny, and sometimes not so funny. Sometimes I make good trouble, and sometimes I make really bad trouble. So Dr Xie got a PhD degree in statistics, with an invisible &amp;ldquo;master&amp;rdquo; degree of procrastination&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another R-Podcast with Eric Nantz</title>
+      <link>https://data-scribers.mikewk.com/post/another-rpodcast-with-eric-nan/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/another-rpodcast-with-eric-nan/</guid>
+      <description>Many people don&amp;rsquo;t understand the point of Markdown, especially those LaTeX users. They don&amp;rsquo;t understand why we invest so much time in such a simple and weak authoring language. My philosophy is that the pursuit of features can sometimes be harmful for both software developers and users. You may spend too much time on features of software, and even forget what you actually need to do (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Perhaps My Documentation is not Too Bad</title>
+      <link>https://data-scribers.mikewk.com/post/perhaps-my-documentation-is-no/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/perhaps-my-documentation-is-no/</guid>
+      <description>My documentation was poor. The user didn&amp;rsquo;t read the documentation. It turned out the second possibility was true. What a relief! I&amp;rsquo;m glad that I didn&amp;rsquo;t yell &amp;ldquo;Why don&amp;rsquo;t you read the documentation?&amp;rdquo; That said, as software developers, we should always keep the first possibility in mind&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thanks, Marie Dussault, for Reading the Full blogdown Book</title>
+      <link>https://data-scribers.mikewk.com/post/thanks-marie-dussault-for-read/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/thanks-marie-dussault-for-read/</guid>
+      <description>Write, as if no one would read&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What is More Convincing than a CV?</title>
+      <link>https://data-scribers.mikewk.com/post/what-is-more-convincing-than-a/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-is-more-convincing-than-a/</guid>
+      <description>You need to have a Github presence (I&amp;rsquo;m sure it does not have to be Github, e.g., Gitlab should also be fine). It is hard to imagine that a data scientist does not use version control. You must have given talks at local meetups or conferences. Communication is a key part of data science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Pretend Typing Super Fast in RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-pretend-typing-super-fa/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-pretend-typing-super-fa/</guid>
+      <description>Below is a prototype of the function to automatically &amp;ldquo;type&amp;rdquo; a character vector into your RStudio source editor: It should give you what you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Large Variance in the Attention Level of Readers</title>
+      <link>https://data-scribers.mikewk.com/post/the-large-variance-in-the-atte/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-large-variance-in-the-atte/</guid>
+      <description>I keep forgetting this, too, and let outliers bias me. For example, I often feel heartbroken when I see users ask questions on Twitter without reading the documentation on which I have spent countless hours. What is worse is that they may get misleading or wrong answers. Perhaps my documentation is just too poor or boring, and perhaps they just didn&amp;rsquo;t pay attention&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Anything that Can Look Like Cats will Look Like Cats</title>
+      <link>https://data-scribers.mikewk.com/post/anything-that-can-look-like-ca/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/anything-that-can-look-like-ca/</guid>
+      <description>Anything that can look like cats in your eyes, will look like cats in some other people&amp;rsquo;s eyes. P.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Properly Write a URL</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-properly-write-a-url/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-properly-write-a-url/</guid>
+      <description>You may think it is dead simple to write a URL, and we click links to browse websites every day&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ian Lyttle is the Most Serious Conference Attendee I&#39;ve Met</title>
+      <link>https://data-scribers.mikewk.com/post/ian-lyttle-is-the-most-serious/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ian-lyttle-is-the-most-serious/</guid>
+      <description>I think I got to know Ian Lyttle in early 2014 (about 1.5 years before I left Iowa). Out of nowhere, he started to show up at the weekly ISU graphics working group meetings (led by my PhD advisors Di and Heike) after driving for three boring hours from another city&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Back To The DT Package After Two Years</title>
+      <link>https://data-scribers.mikewk.com/post/back-to-the-dt-package-after-t/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/back-to-the-dt-package-after-t/</guid>
+      <description>As a standalone HTML page (rendered as a full-page HTML widget), in R Markdown code chunks, and in Shiny. In the RStudio Viewer, and in a normal web browser. In Bootstrap themes, or on normal HTML pages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Nothing Feels Better Than Someone Else Answering Questions For You</title>
+      <link>https://data-scribers.mikewk.com/post/nothing-feels-better-than-some/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nothing-feels-better-than-some/</guid>
+      <description>If your problem is solved, don&amp;rsquo;t forget to close this issue&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>stop() / return() Early for Shorter Code</title>
+      <link>https://data-scribers.mikewk.com/post/stop-return-early-for-shorter-/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stop-return-early-for-shorter-/</guid>
+      <description>I&amp;rsquo;d stop early to reduce the number of lines of code from 7 to 6, and save 8 spaces: Actually if the error message is short enough, I&amp;rsquo;ll remove curly braces: I&amp;rsquo;d write it as: I tend to make code a little dense (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Always Offer Bounties on StackOverflow. When I Do...</title>
+      <link>https://data-scribers.mikewk.com/post/i-dont-always-offer-bounties-o/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/i-dont-always-offer-bounties-o/</guid>
+      <description>Below is a recent example, in which I could help ranting. However, when I saw the question, it was already put on hold and I could not answer it, even though I happened to know the answer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Help Needed</title>
+      <link>https://data-scribers.mikewk.com/post/help-needed/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/help-needed/</guid>
+      <description>A major change I want to make about my life as a software developer in 2018 is that I will ask for help more frequently. I have a lot of burden that I hope to shift to other people&amp;rsquo;s shoulders. Of course, I won&amp;rsquo;t simply use you as pure labor - I hope you could learn something while helping me. I&amp;rsquo;ll start listing the simpler tasks in the next few weeks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>library(methods)</title>
+      <link>https://data-scribers.mikewk.com/post/librarymethods/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/librarymethods/</guid>
+      <description>Okay, let&amp;rsquo;s see how terribly &amp;ldquo;slow&amp;rdquo; it is today. On my MacBook Pro (I should run this multiple times but I think 0.04 should be in the ballpark): It is sad to see things that exist for historical reasons are so hard to change. P.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Being Busy vs Being Productive</title>
+      <link>https://data-scribers.mikewk.com/post/being-busy-vs-being-productive/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/being-busy-vs-being-productive/</guid>
+      <description>Even if it is well-documented and fully tested, it may still not be &amp;ldquo;finished&amp;rdquo; - you have to maintain it (unless it is as stable as Donald Knuth&amp;rsquo;s TeX). This has been the biggest challenge to me. Bug reports, feature requests, and questions, ..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another Year, Another R Package, Another Book, and Endless Joy</title>
+      <link>https://data-scribers.mikewk.com/post/another-year-another-r-package/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/another-year-another-r-package/</guid>
+      <description>Originally we were thinking of completely reinventing the wheels of static websites using R, but when I finally started to work on it in October 2016, I realized the wheels were too big for me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How To Stop Sexual Harassment Or Other Misconduct At Conferences</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-stop-sexual-harassment-/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-stop-sexual-harassment-/</guid>
+      <description>Again, I think we could add a text field on the conference registration page to let people report the names of past offenders that they know. The report could be (perhaps should be) anonymous. The one who has been reported for many times should be banned from the conference&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>One Little Thing To Consider When Naming Things (Software)</title>
+      <link>https://data-scribers.mikewk.com/post/one-little-thing-to-consider-w/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/one-little-thing-to-consider-w/</guid>
+      <description>Everyone knows that naming is hard (the other hard thing is cache invalidation)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science in Mental Health</title>
+      <link>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</guid>
+      <description>I came across two articles recently that I thought spoke to each other in an interesting way&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>DL Indaba</title>
+      <link>https://data-scribers.mikewk.com/post/dl-indaba/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dl-indaba/</guid>
+      <description>Vukosi and Yasin(i) share how Deep Learning Indaba is playing an important role to recognize and grow machine learning research and companies on the African continent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing in R</title>
+      <link>https://data-scribers.mikewk.com/post/parallel-computing-in-r/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parallel-computing-in-r/</guid>
+      <description>We&amp;rsquo;re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#GI2018 - Day Two</title>
+      <link>https://data-scribers.mikewk.com/post/gi2018-day-two/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gi2018-day-two/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Zero to GPU 2 - Squeezing Neural Network Performance on CPU</title>
+      <link>https://data-scribers.mikewk.com/post/from-zero-to-gpu-2-squeezing-n/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-2-squeezing-n/</guid>
+      <description>Welcome to the second post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Infrastructure with R</title>
+      <link>https://data-scribers.mikewk.com/post/building-infrastructure-with-r/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-infrastructure-with-r/</guid>
+      <description>For this event we will explore how to build tools and infrastructure with R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
+      <description>Explicitly naming nodes is nonessential, but can be very useful when debugging. Oftentimes, when your Tensorflow code crashes, the error trace will refer to a specific operation. If you have many operations of the same type, it can be tough to figure out which one is problematic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In Machine Learning Predictions for Health Care the Confusion Matrix is a Matrix of Confusion</title>
+      <link>https://data-scribers.mikewk.com/post/in-machine-learning-prediction/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-machine-learning-prediction/</guid>
+      <description>Machine Learning (ML) has already transformed e-commerce, web search, advertising, finance, intelligence, media, and more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Moving beyond pattern-based analysis</title>
+      <link>https://data-scribers.mikewk.com/post/moving-beyond-patternbased-ana/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/moving-beyond-patternbased-ana/</guid>
+      <description>GeoPAT 2 gives its users a lot of freedom, having a large number of possible workflows: Some of them can consist of only one step, while others require several steps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>July 2018: Top 40 New Packages</title>
+      <link>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</guid>
+      <description>Below are my &amp;ldquo;Top 40&amp;rdquo; picks organized into ten categories: Computational Methods, Data, Econometrics, Machine Learning, Mathematics, Science, Statistics, Time Series, Utilities, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Neural Processes as distributions over functions</title>
+      <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</guid>
+      <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Everything I Know About Machine Learning I Learned from Making Soup</title>
+      <link>https://data-scribers.mikewk.com/post/everything-i-know-about-machin/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/everything-i-know-about-machin/</guid>
+      <description>Introduction In this post, I’m going to make the claim that we can simplify some parts of the machine learning process by using the analogy of making soup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>More on Graph Inspection</title>
+      <link>https://data-scribers.mikewk.com/post/more-on-graph-inspection/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-on-graph-inspection/</guid>
+      <description>The computational graph is not just a nebulous, immaterial abstraction; it is a computational object that exists, and can be inspected&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing</title>
+      <link>https://data-scribers.mikewk.com/post/announcing/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing/</guid>
+      <description>Richard Feynmann 1 has once said: What I cannot create, I do not understand. To understand Neural Networks, and how the recent Machine Learning evolution happened&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Zero to GPU 1 - A new neural network is born</title>
+      <link>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</guid>
+      <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
+      <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Unconf18 projects 4</title>
+      <link>https://data-scribers.mikewk.com/post/unconf18-projects-4/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unconf18-projects-4/</guid>
+      <description>In the spirit of exploration and experimentation at rOpenSci unconferences, these projects are not necessarily finished products or in scope for rOpenSci packages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 36-37: Concerned DALEX</title>
+      <link>https://data-scribers.mikewk.com/post/day-3637-concerned-dalex/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/day-3637-concerned-dalex/</guid>
+      <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-post/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-post/</guid>
+      <description>Welcome to my blog! I plan to use this website to present data explorations and analyses in a way that’s understandable to a broad audience. I hope to demonstrate the utility of applying ideas like machine learning, data visualization, and exploratory data analysis to day-to-day life to improve decision-making processes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Genetics of Magic</title>
+      <link>https://data-scribers.mikewk.com/post/the-genetics-of-magic/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-genetics-of-magic/</guid>
+      <description>Last spring, I took a class on Bayesian statistics at the University of Chicago that had several exercises focused on building a model to classify species based on their genome. The basic setup was that you were given a data set of salmon, their genome sequencing data, and which sub-population they belonged to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</guid>
+      <description>Join Max Kuhn of RStudio for his popular Applied Machine Learning Workshop in Washington D.C.! If you’d missed his sold out course at rstudio::conf 2018 now is your chance. This two-day course will provide an overview of using R for supervised learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#BoG18: Talk Notes</title>
+      <link>https://data-scribers.mikewk.com/post/bog18-talk-notes/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bog18-talk-notes/</guid>
+      <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing machine learning models with testthat</title>
+      <link>https://data-scribers.mikewk.com/post/testing-machine-learning-model/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-machine-learning-model/</guid>
+      <description>Automated testing is a huge part of software development&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Road Map for Choosing Between Statistical Modeling and Machine Learning</title>
+      <link>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</guid>
+      <description>Data analysis methods may be described by their areas of applications, but for this article I&amp;rsquo;m using definitions that are strictly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Caret Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/yet-another-caret-workshop/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yet-another-caret-workshop/</guid>
+      <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summer Interns</title>
+      <link>https://data-scribers.mikewk.com/post/summer-interns/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summer-interns/</guid>
+      <description>Fanny is a master&amp;rsquo;s student working with Max Kuhn this summer. Previously she studied Statistics and International Relations at UC Davis. She is particularly interested in privacy and interpretability in machine learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YMMV: non-profit data science</title>
+      <link>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</guid>
+      <description>Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild: Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA and Deep Learning Research with Bryan Catanzaro</title>
+      <link>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</guid>
+      <description>Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud AI with Dr. Fei-Fei Li</title>
+      <link>https://data-scribers.mikewk.com/post/cloud-ai-with-dr-feifei-li/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cloud-ai-with-dr-feifei-li/</guid>
+      <description>Additional sample resources on Dr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Are you in genomics and building models? Stop using ROC - use PR</title>
+      <link>https://data-scribers.mikewk.com/post/are-you-in-genomics-and-buildi/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/are-you-in-genomics-and-buildi/</guid>
+      <description>Area Under the Curve (AUC) of Receiver Operating Characteristic (ROC) is a terrible metric for a genomics problem. Do not use it. This metric also goes by AUC or AUROC. Use Precision Recall AUC&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let’s Plot 4</title>
+      <link>https://data-scribers.mikewk.com/post/lets-plot-4/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-plot-4/</guid>
+      <description>The battle that we’ve all been waiting for. Excel vs. R. Bar plot versus a plot that actually shows the data. Yeah, this isn’t a fair fight. Bar plots are terrible. Why? Simple. They don’t show what your data looks like. A bar plot gives you zero idea how many data points there are&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with iml and mlr</title>
+      <link>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</guid>
+      <description>Machine learning models repeatedly outperform interpretable, parametric models like the linear regression model. The gains in performance have a price: The models operate as black boxes which are not interpretable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Training Courses for mlr</title>
+      <link>https://data-scribers.mikewk.com/post/training-courses-for-mlr/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/training-courses-for-mlr/</guid>
+      <description>The mlr: Machine Learning in R package provides a generic, object-oriented and extensible framework for classification, regression, survival analysis and clustering for the statistical programming language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Supervised vs. Unsupervised Learning</title>
+      <link>https://data-scribers.mikewk.com/post/supervised-vs-unsupervised-lea/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/supervised-vs-unsupervised-lea/</guid>
+      <description>Outcome Supervision Yesterday I was part of an introductory session on machine learning and unsurprisingly, the issue of supervised vs. unsupervised learning came up&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Scikit-learn pipeline in Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/a-scikitlearn-pipeline-in-wall/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-scikitlearn-pipeline-in-wall/</guid>
+      <description>While it would seem that machine learning is taking over the world, a lot of the attention has been focused towards researching new methods and applications, and how to make a single model faster&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Flagging toxic comments with Tidytext and Keras</title>
+      <link>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/flagging-toxic-comments-with-t/</guid>
+      <description>The task here is to try to determine how likely a string is to have a particular set of labels. We can take a look at the data The first step for looking at the actual text is to split up the strings into words and then remove stop words&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Predicting Conflict Duration with (gg)plots using Keras</title>
+      <link>https://data-scribers.mikewk.com/post/predicting-conflict-duration-w/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicting-conflict-duration-w/</guid>
+      <description>An Unlikely Pairing Last week, Marc Cohen from Google Cloud was on campus to give a hands-on workshop on image classification using TensorFlow. Consequently, I spent most of my time thinking about how I can incorporate image classifiers in my work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud AutoML Vision with Amy Unruh and Sara Robinson</title>
+      <link>https://data-scribers.mikewk.com/post/cloud-automl-vision-with-amy-u/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cloud-automl-vision-with-amy-u/</guid>
+      <description>Cloud AutoML is a suite of products enabling developers with limited ML expertise to build high quality models using transfer learning and Neural Architecture Search techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Leveraging uncertainty information from deep neural networks for disease detection - a summary</title>
+      <link>https://data-scribers.mikewk.com/post/leveraging-uncertainty-informa/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/leveraging-uncertainty-informa/</guid>
+      <description>As a biostatistician in the deep learning world I have the awkward task of balancing the dogma of statistics (everything is uncertain) along with the alluring success of some of the newest crazy complex neural network architectures&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Team Rtus wins Munich Re Datathon with mlr</title>
+      <link>https://data-scribers.mikewk.com/post/team-rtus-wins-munich-re-datat/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/team-rtus-wins-munich-re-datat/</guid>
+      <description>On the weekend of November 17. - 19. five brave data-knights from team “Rtus and the knights of the data.table” took on the challenge to compete in a datathon organized by Munich Re in its Munich-based innovation lab&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Explainers</title>
+      <link>https://data-scribers.mikewk.com/post/explainers/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/explainers/</guid>
+      <description>When working on Machine Learning for classification and predictive models we tend to use the well known packages as randomforest, caret, xgboost, gbm and such. The issue is when the user needs explanation about how we get these results. The easy part is to explain a Tree&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>LSTM neural nets as told by baseball</title>
+      <link>https://data-scribers.mikewk.com/post/lstm-neural-nets-as-told-by-ba/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lstm-neural-nets-as-told-by-ba/</guid>
+      <description>Currently I am studying for my qualifying exams on which the topic is “using deep neural networks for classification of time series data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>https://data-scribers.mikewk.com/post/automated-and-unmysterious-mac/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automated-and-unmysterious-mac/</guid>
+      <description>First, let&amp;rsquo;s load the data: .. and do some data cleaning: change column names, get rid of the order in factor levels and remove rows with empty cells: That&amp;rsquo;s better! Now, let&amp;rsquo;s set up the local H2O instance&amp;hellip; ..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Python, Go! Stream Processing for Python</title>
+      <link>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</guid>
+      <description>We&amp;rsquo;ve been hard at work for 18 months on a new processing engine called Wallaroo for deploying and operating big data, fast data, and machine learning applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sydney Region with Andrew Walker and Graham Polley</title>
+      <link>https://data-scribers.mikewk.com/post/sydney-region-with-andrew-walk/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sydney-region-with-andrew-walk/</guid>
+      <description>Andrew is the founder of 3wks who have delivered 190 projects on Google Cloud platform for enterprise customers in Australia. He loves everything serverless, from App Engine through to BigQuery. Graham is a senior software engineer based out of Melbourne Australia, and works for Shine Solutions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OpenML Workshop 2017</title>
+      <link>https://data-scribers.mikewk.com/post/openml-workshop-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/openml-workshop-2017/</guid>
+      <description>What is OpenML? The field of Machine Learning has grown tremendously over the last years, and is a key component of data-driven science. Data analysis algorithms are being invented and used every day, but their results and experiments are published almost exclusively in journals or separated repositories&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Advice for non-traditional data scientists</title>
+      <link>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/advice-for-nontraditional-data/</guid>
+      <description>I have a pretty strange background for a data scientist. In my career I’ve sold electric razors, worked on credit derivatives during the 2008 financial crash, written market reports on orthopaedic biomaterials, and practiced law&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MC RNN</title>
+      <link>https://data-scribers.mikewk.com/post/mc-rnn/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mc-rnn/</guid>
+      <description>I have been struggling with the understanding of Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM) for a while. I find that explaining a topic to other people really helps in nailing down just what is it you don’t understand, and eventually “getting it”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Deep South Springfield</title>
+      <link>https://data-scribers.mikewk.com/post/deep-south-springfield/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deep-south-springfield/</guid>
+      <description>Recently RStudio (a.k.a my dream job) released a wrapper around keras with TensorFlow backend. Well, I just had to take this baby for a spin. But what to train my first Deep Learning network in R on? I’m neither a Cats nor a Dogs person. Whatever, I do what I want! South Park vs. Simpsons! ATTENTION: THIS IS NOT A DEEP LEARNING LESSON&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Basecamp Networks with Craig Ganssle</title>
+      <link>https://data-scribers.mikewk.com/post/basecamp-networks-with-craig-g/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/basecamp-networks-with-craig-g/</guid>
+      <description>Craig Ganssle is the Founder and CEO of Basecamp Networks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>shinyMlr</title>
+      <link>https://data-scribers.mikewk.com/post/shinymlr/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shinymlr/</guid>
+      <description>shinyMlr is a web application, built with the R-package “shiny” that provides a user interface for mlr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Functions with Bret McGowen</title>
+      <link>https://data-scribers.mikewk.com/post/cloud-functions-with-bret-mcgo/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cloud-functions-with-bret-mcgo/</guid>
+      <description>Bret is on the Google Cloud Platform team at Google, focusing on developer-oriented products like Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He&amp;rsquo;s currently an aspiring Node.js developer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Machine Learning Engine with Yufeng Guo</title>
+      <link>https://data-scribers.mikewk.com/post/cloud-machine-learning-engine-/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cloud-machine-learning-engine-/</guid>
+      <description>Cloud Machine Learning Engine offers a managed platform for training and serving Tensorflow models. Kubernetes 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Most Popular Learners in mlr</title>
+      <link>https://data-scribers.mikewk.com/post/most-popular-learners-in-mlr/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/most-popular-learners-in-mlr/</guid>
+      <description>For the development of mlr as well as for an “machine learning expert” it can be handy to know what are the most popular learners used. Not necessarily to see, what are the top notch performing methods but to see what is used “out there” in the real world&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Parallel benchmarking with OpenML and mlr</title>
+      <link>https://data-scribers.mikewk.com/post/parallel-benchmarking-with-ope/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parallel-benchmarking-with-ope/</guid>
+      <description>With this post I want to show you how to benchmark several learners (or learners with different parameter settings) using several data sets in a structured and parallelized fashion. For this we want to use batchtools. The data that we will use here is stored on the open machine learning platform openml&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OpenML tutorial at useR!2017 Brussels</title>
+      <link>https://data-scribers.mikewk.com/post/openml-tutorial-at-user2017-br/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/openml-tutorial-at-user2017-br/</guid>
+      <description>What is OpenML? Conducting research openly and reproducibly is becoming the gold standard in academic research. Practicing open and reproducible research, however, is hard. OpenML&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr Google Summer of Code 2017</title>
+      <link>https://data-scribers.mikewk.com/post/mlr-google-summer-of-code-2017/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mlr-google-summer-of-code-2017/</guid>
+      <description>We are happy to announce that we applied for a another Google Summer of Code project in 2017. Operator Based Machine Learning Pipeline Construction We aim to change the way we are currently doing data preprocessing in mlr. Have a look at the proposal linked above for more details&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SRE II with Paul Newson</title>
+      <link>https://data-scribers.mikewk.com/post/sre-ii-with-paul-newson/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sre-ii-with-paul-newson/</guid>
+      <description>Before joining Google, he cofounded a tiny game technology startup, sold it to Microsoft, where he then worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending some time working on interesting machine learning problems in Microsoft Research&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Year in Review</title>
+      <link>https://data-scribers.mikewk.com/post/a-year-in-review/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-year-in-review/</guid>
+      <description>Spotify is now on Google Cloud Platform: Kubernetes and Google Container Engine Education: Multiple General Availabilities Machine Learning and Big Data Google Cloud Platform Community Slack We&amp;rsquo;ll be back on January 18th, 2017 - See you all&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Paper published</title>
+      <link>https://data-scribers.mikewk.com/post/paper-published/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/paper-published/</guid>
+      <description>We are happy to announce that we can finally answer the question on how to cite mlr properly in publications. Our paper on mlr has been published in the open-access Journal of Machine Learning Research (JMLR) and can be downloaded on the journal home page&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>mlr loves OpenML</title>
+      <link>https://data-scribers.mikewk.com/post/mlr-loves-openml/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mlr-loves-openml/</guid>
+      <description>OpenML stands for Open Machine Learning and is an online platform, which aims at supporting collaborative machine learning online. It is an Open Science project that allows its users to share data, code and machine learning experiments&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Descartes Labs with Tim Kelton</title>
+      <link>https://data-scribers.mikewk.com/post/descartes-labs-with-tim-kelton/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/descartes-labs-with-tim-kelton/</guid>
+      <description>Tim is a co-founder of Descartes Labs focuses on building distributed systems using cloud architecture to better see how the earth changes every day&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to win a drone in 20 lines of R code</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-win-a-drone-in-20-lines/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-win-a-drone-in-20-lines/</guid>
+      <description>Or a less clickbaity title: Model based optimization of machine learning models with mlr and mlrMBO. I recently participated in the #TEFDataChallenge a datathon organized by Wayra&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring and Understanding Hyperparameter Tuning</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-and-understanding-hy/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-and-understanding-hy/</guid>
+      <description>Learners use hyperparameters to achieve better performance on particular datasets&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Site Reliability Engineering with Paul Newson</title>
+      <link>https://data-scribers.mikewk.com/post/site-reliability-engineering-w/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/site-reliability-engineering-w/</guid>
+      <description>Before joining Google, Paul founded a startup which was acquired by Microsoft, where he worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending time working on machine learning problems at Microsoft&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow with Eli Bixby</title>
+      <link>https://data-scribers.mikewk.com/post/tensorflow-with-eli-bixby/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tensorflow-with-eli-bixby/</guid>
+      <description>Eli is a Developer Programs Engineer at Google. He joined in 2014 and currently develops on Google Cloud Platform&amp;rsquo;s machine learning and big data offerings, Tensorflow in particular&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Storage with Paul Newson</title>
+      <link>https://data-scribers.mikewk.com/post/storage-with-paul-newson/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/storage-with-paul-newson/</guid>
+      <description>Paul currently focuses on helping developers harness the power of Google Cloud Platform to solve their big data problems. Previously, he was an engineer on Google Cloud Storage&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Vision API with Ram Ramanathan</title>
+      <link>https://data-scribers.mikewk.com/post/cloud-vision-api-with-ram-rama/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cloud-vision-api-with-ram-rama/</guid>
+      <description>Ram Ramanathan joined Google in 2014 where he’s been working on leading the machine learning efforts for Google Cloud Platform, and has been a large part of launching the new Google Cloud Vision API&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

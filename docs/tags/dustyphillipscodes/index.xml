@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustyphillipscodes on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/dustyphillipscodes/</link>
+    <description>Recent content in Dustyphillipscodes on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/dustyphillipscodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Order to Learn to Program, Part 5</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 An Order to Learn to Program, Part 5 Part 5: Beginner programming, dynamically typed This is part 5 in my series on the order to study topics related to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Intermediate Guide To RSA</title>
+      <link>https://data-scribers.mikewk.com/post/an-intermediate-guide-to-rsa/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-intermediate-guide-to-rsa/</guid>
+      <description>The venerable RSA public key encryption algorithm is very elegant. It requires a basic understanding of modular arithmetic, which may sound scary if you haven&amp;rsquo;t studied it. It reduces to taking the remainder after integer long division. The RSA Wikipedia article describes five simple steps to generate the keys&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Order to Learn to Program, Part 4</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 Part 4: Binary, bits, and bytes This is part 4 of my series on the order to study topics related to programming&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>React Redux Firebase With Firestore Tutorial</title>
+      <link>https://data-scribers.mikewk.com/post/react-redux-firebase-with-fire/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/react-redux-firebase-with-fire/</guid>
+      <description>Whenever I start a new hobby web project, I just want to jump in and start coding. Instead, I spend many many hours trying to get authentication to work. I&amp;rsquo;ve got half a dozen half-finished &amp;ldquo;boilerplate&amp;rdquo; projects lying around that were supposed to satisfy the desire of, &amp;ldquo;next time, I can use this boilerplate and authentication will just work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Order to Learn to Program, Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 Part 3: SQL Basics It&amp;rsquo;s not common to see SQL as the next language taught after HTML&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision in Three Lines of Code plus a bunch more lines</title>
+      <link>https://data-scribers.mikewk.com/post/computer-vision-in-three-lines/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/computer-vision-in-three-lines/</guid>
+      <description>My wife and I both have a tendency to leave the garage door open. You&amp;rsquo;re in and out, grabbing garden tools or supplies, and at the end of the day you enter the house through the back door and forget to check the garage&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://data-scribers.mikewk.com/post/python/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python/</guid>
+      <description>I really appreciate Python&amp;rsquo;s pathlib module for managing filesystem stuff. While I don&amp;rsquo;t love the argparse module for command line parsing, I don&amp;rsquo;t think it&amp;rsquo;s worse than other available options&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Order to Learn to Program, Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 Part 2: HTML This is the second in a series on the order to study topics related to programming&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Refund for Contribution?</title>
+      <link>https://data-scribers.mikewk.com/post/refund-for-contribution/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/refund-for-contribution/</guid>
+      <description>I accidentally started working on a new personal project for budgeting that I think others might be interested in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Order to Learn to Program, Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</guid>
+      <description>Parts in this series An Order to Learn to Program, Part 1 An Order to Learn to Program, Part 2 An Order to Learn to Program, Part 3 An Order to Learn to Program, Part 4 Part 1 Learning to program is hard. There are a few reasons this is the case: Programming itself is hard. However, this is less true than most people believe&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hacking Happier</title>
+      <link>https://data-scribers.mikewk.com/post/hacking-happier/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacking-happier/</guid>
+      <description>Back in 2012, I wrote a book called Hacking Happy. It was my first self-published work, and I was actually surprised by how well it did without a publisher or marketing behind it. I had plenty of positive feedback including more than one hopefully exaggerated, &amp;ldquo;This book saved my life&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Back</title>
+      <link>https://data-scribers.mikewk.com/post/im-back/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-back/</guid>
+      <description>Hi there, I&amp;rsquo;m Dusty. Welcome to my resurrected blog. I started a tech blog in 2007 that I maintained with regular posts for several years. While it was well-regarded at the time, I took it down in late 2016 for several reasons&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

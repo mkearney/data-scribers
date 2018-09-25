@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haapakorvafi on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/haapakorvafi/</link>
+    <description>Recent content in Haapakorvafi on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/haapakorvafi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kivisydämen vuosi</title>
+      <link>https://data-scribers.mikewk.com/post/kivisyd%C3%A4men-vuosi/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kivisyd%C3%A4men-vuosi/</guid>
+      <description>Olen mitannut Kivisydämen ja useiden muiden pysäköintitalojen käyttöä ohjelmallani jo yli vuoden ajan. Hallin laajentamisen puolesta otetaan joka vuosi kantaa, vaikka julkisesti ei ole tiedossa, kuinka paljon hallia käytetään&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Jokainen oululainen kartalla</title>
+      <link>https://data-scribers.mikewk.com/post/jokainen-oululainen-kartalla/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jokainen-oululainen-kartalla/</guid>
+      <description>Kun näin Näytä datan piirtäneen jokaisen suomalaisen kartalle (inspiroituneena tästä ja tästä) käyttäen avoimia kotimaisia paikkatietoaineistoja ja ilmaista paikkatieto-ohjelmistoa QGIS:iä, halusin kokeilla onnistuisiko minulta ohjelmoida vastaava kuva R:llä. Viime vuosina R on kehittynyt voimakkaasti&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

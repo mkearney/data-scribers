@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vegawidgetrbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/vegawidgetrbindio/</link>
+    <description>Recent content in Vegawidgetrbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/vegawidgetrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing altair, an R interface to the Altair Python Package</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-altair-an-r-interf/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-altair-an-r-interf/</guid>
+      <description>Introducing altair, an R package to work with the Python package Altair, which you can use to build and render Vega-Lite chart-specifications: https://vegawidget.github.io/altair Vega-Lite offers an implementation of an interactive grammar of graphics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to vegawidget</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-to-vegawidget/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-to-vegawidget/</guid>
+      <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

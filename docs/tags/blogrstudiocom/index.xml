@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogrstudiocom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/blogrstudiocom/</link>
+    <description>Recent content in Blogrstudiocom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RStudio Connect 1.6.8 - Emails, APIs, and Titles</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-168-emails-api/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-168-emails-api/</guid>
+      <description>RStudio Connect 1.6.8 includes additions to custom emails, new user endpoints in the RStudio Connect Server API, support for content descriptions and title changes, and important security and authentication improvements&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Radix for R Markdown</title>
+      <link>https://data-scribers.mikewk.com/post/radix-for-r-markdown/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/radix-for-r-markdown/</guid>
+      <description>Reader-friendly typography that adapts well to mobile devices. Radix provides many flexible options for laying out figures&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting started with deep learning in R</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-deep-lear/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-deep-lear/</guid>
+      <description>There are good reasons to get into deep learning: Deep learning has been outperforming the respective &amp;ldquo;classical&amp;rdquo; techniques in areas like image recognition and natural language processing for a while now, and it has the potential to bring interesting insights even to the analysis of tabular&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny Server (Pro) 1.5.8</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-server-pro-158/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-server-pro-158/</guid>
+      <description>Upgrade to Node v8.11.3. Added support for listening on IPv6 addresses. X-Powered-By response header now reports &amp;ldquo;Shiny Server&amp;rdquo; instead of &amp;ldquo;Express&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio/</guid>
+      <description>There are fifteen contributed talk slots which are 20 minutes long, and are scheduled alongside talks by RStudio employees and invited speakers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R/Medicine Conference</title>
+      <link>https://data-scribers.mikewk.com/post/rmedicine-conference/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmedicine-conference/</guid>
+      <description>The keynote speakers will be: Conference talks will address the use of R in medical applications from Phase I clinical trial design through the analysis of the efficacy of medical therapies in public&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio/</guid>
+      <description>rstudio::conf(2019) continues our tradition of diversity scholarships, and this year we’re doubling the program (again!) to 38 recipients: 32 domestic diversity scholarships available to anyone living in the US or Canada who is a member of a group that is under-represented at rstudio::conf&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What they forgot to teach you about R</title>
+      <link>https://data-scribers.mikewk.com/post/what-they-forgot-to-teach-you-/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-they-forgot-to-teach-you-/</guid>
+      <description>Join Jenny Bryan and Jim Hester of RStudio for this two-day hands-on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle! If you’d missed this sold out course at rstudio::conf 2018 now is your chance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio/</guid>
+      <description>Learn from and interact with these outstanding invited speakers and R innovators: Find out what RStudio is working on from the people who make the materials and tools you use&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing the 1st Bookdown Contest</title>
+      <link>https://data-scribers.mikewk.com/post/announcing-the-1st-bookdown-co/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing-the-1st-bookdown-co/</guid>
+      <description>There are no hard judging criteria for this contest, but in general, we&amp;rsquo;d prefer these types of applications: We&amp;rsquo;d also like to see non-English applications, such as books written in CJK (Chinese, Japanese, Korean), right-to-left, or other languages, since there are additional challenges in typesetting with these&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect 1.6.6 - Custom Emails</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-166-custom-ema/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-166-custom-ema/</guid>
+      <description>We are excited to announce RStudio Connect 1.6.6! This release caps a series of improvements to RStudio Connect’s ability to deliver your work to others. All customizations are done using code in the underlying R Markdown document&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect v1.6.4.2 - Security Update</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-v1642-security/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-v1642-security/</guid>
+      <description>RStudio remains committed to providing the most secure product possible&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny 1.1.0</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-110/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-110/</guid>
+      <description>Without this capability, when Shiny performs long-running calculations or tasks on behalf of one user, it stalls progress for all other Shiny users that are connected to the same process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect v1.6.4</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-v164/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-v164/</guid>
+      <description>There are a few breaking changes and a handful of new features that are highlighted below. We encourage you to upgrade as soon as possible! Please take note of important breaking changes before upgrading. RStudio Connect includes Pandoc 1 and will now also include Pandoc 2&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</guid>
+      <description>Join Max Kuhn of RStudio for his popular Applied Machine Learning Workshop in Washington D.C.! If you’d missed his sold out course at rstudio::conf 2018 now is your chance. This two-day course will provide an overview of using R for supervised learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>sparklyr 0.8</title>
+      <link>https://data-scribers.mikewk.com/post/sparklyr-08/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sparklyr-08/</guid>
+      <description>MLeap allows you to use your Spark pipelines in any Java-enabled device or service. This works by serializing Spark pipelines which can later be loaded into the Java Virtual Machine (JVM) for scoring without requiring a Spark cluster&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Advocate</title>
+      <link>https://data-scribers.mikewk.com/post/enterprise-advocate/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/enterprise-advocate/</guid>
+      <description>I joined in early 2014. I was excited by RStudio since I love helping people and being an open source company RStudio seemed like a great way to reach a lot of people and get to assist with numerous interesting use cases&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect v1.6.2</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-v162/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-v162/</guid>
+      <description>There are a handful of new features that are highlighted below&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Arrow and beyond</title>
+      <link>https://data-scribers.mikewk.com/post/arrow-and-beyond/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arrow-and-beyond/</guid>
+      <description>Feather was a successful project, and has made it easier for thousands of data scientists and data engineers to collaborate across language boundaries&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summer Interns</title>
+      <link>https://data-scribers.mikewk.com/post/summer-interns/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summer-interns/</guid>
+      <description>Fanny is a master&amp;rsquo;s student working with Max Kuhn this summer. Previously she studied Statistics and International Relations at UC Davis. She is particularly interested in privacy and interpretability in machine learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio Connect 1.6.0  -  A Year in the Making!</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-connect-160-a-year-in-/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-connect-160-a-year-in-/</guid>
+      <description>We’re pleased to announce RStudio Connect 1.6.0. Connect 1.6.0 caps a year of significant updates and we encourage all customers to upgrade. Connect users continue to share analytics through reports, dashboards, and web applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny Server (Pro) 1.5.7</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-server-pro-157/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-server-pro-157/</guid>
+      <description>Upgrade to Node v8.10.0. Dropped support for Ubuntu 12.04 and SLES 11. Don&amp;rsquo;t color log output if stdout is not a terminal. The above changes, plus: Rename CSRF token cookie from XSRF-TOKEN to SSP-CSRF, so as not to conflict with other Angular apps being served from the same host&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building tidy tools workshop</title>
+      <link>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</guid>
+      <description>Join RStudio Chief Data Scientist Hadley Wickham for his popular Building tidy tools workshop in San Francisco! If you&amp;rsquo;d missed the sold out course at rstudio::conf 2018 now is your chance. You should take this class if you have some experience programming in R and you want to learn how to tackle larger scale problems&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>reticulate</title>
+      <link>https://data-scribers.mikewk.com/post/reticulate/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reticulate/</guid>
+      <description>Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session. Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Platform Deprecation Strategy</title>
+      <link>https://data-scribers.mikewk.com/post/platform-deprecation-strategy/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/platform-deprecation-strategy/</guid>
+      <description>In an effort to streamline product development, maintenance, and support to ensure the best experience for our users, we have created a strategy for operating system and browser deprecation&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

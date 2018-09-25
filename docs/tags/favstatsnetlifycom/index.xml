@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Favstatsnetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/favstatsnetlifycom/</link>
+    <description>Recent content in Favstatsnetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/favstatsnetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing Temperature Rise in Stuttgart, Germany over Time</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-temperature-rise-i/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-temperature-rise-i/</guid>
+      <description>This is a quick use-case of gganimate to visualize the rise of average temperature in my home town, Stuttgart, Germany&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How does Collinearity Influence Linear Regressions?</title>
+      <link>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</guid>
+      <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing Tweets of the ECPR General Conference 2018</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-tweets-of-the-ecpr-g/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-tweets-of-the-ecpr-g/</guid>
+      <description>This is a short notebook outlining the code used to scrape tweets related to the ECPR Conference 2018 in Hamburg. Load the necessary packages Lets first look at the data structure and column names. Twitter returns over 1,200 unique tweets. The top ten retweeted tweets&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping Terror Attacks with Highcharter</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-terror-attacks-with-hi/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-terror-attacks-with-hi/</guid>
+      <description>A few days ago someone asked me whether I could visualize the terror attacks of recent years in Europe. Here is an attempt to do exactly this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping your 2017 Geolocations</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-your-2017-geolocations/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-your-2017-geolocations/</guid>
+      <description>Now in Rstudio, I load in the needed packages: We could also zoom out and get a map from all of Germany If we wanted to save the map on our computer, we could use the following&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

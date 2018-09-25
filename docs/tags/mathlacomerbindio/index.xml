@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathlacomerbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mathlacomerbindio/</link>
+    <description>Recent content in Mathlacomerbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readiness or Between-player normalisation</title>
+      <link>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</guid>
+      <description>We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://data-scribers.mikewk.com/post/welcome/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome/</guid>
+      <description>I’m Mathieu Lacome, a sports scientist working in elite football with over 10 years of experience in team-sport&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coolbutuselessgithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/</link>
+    <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Zombie/Vampire Apocalypse - A use case for strict membership tests</title>
+      <link>https://data-scribers.mikewk.com/post/the-zombievampire-apocalypse-a/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-zombievampire-apocalypse-a/</guid>
+      <description>Rather than R letting you know when your membership test is no longer up-to-date, the user must remain vigilant with every data update to ensure that it is still valid i.e&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Find all sequences of a given length with the given sum</title>
+      <link>https://data-scribers.mikewk.com/post/find-all-sequences-of-a-given-/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/find-all-sequences-of-a-given-/</guid>
+      <description>This problem popped up as a necessary step to solving a type of puzzle (which I’ll post about&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A stricter `%in%`</title>
+      <link>https://data-scribers.mikewk.com/post/a-stricter-in/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-stricter-in/</guid>
+      <description>I’m not trying to be as elegant as he is, so I’m just going to make something work in isolation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>strict `case_when`</title>
+      <link>https://data-scribers.mikewk.com/post/strict-casewhen/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/strict-casewhen/</guid>
+      <description>I want to eliminate ways in which errors or oversights can creep in, so I’d like special handling for the following cases: Before starting, let me state clearly that My main use case for this strict version is ensuring that continuous values are correctly turned into categories, when using complicated rules involving multiple&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>bits and bit reversal</title>
+      <link>https://data-scribers.mikewk.com/post/bits-and-bit-reversal/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bits-and-bit-reversal/</guid>
+      <description>I have a sequence of values in R and I want to reverse the bits in each value. Problem dimensions: For a vector of raw bytes I want: That is, each byte within a vector of values is unmoved, but each byte has its bits reversed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gganimate with sprites</title>
+      <link>https://data-scribers.mikewk.com/post/gganimate-with-sprites/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gganimate-with-sprites/</guid>
+      <description>A sprite is a 2d bitmap often used by games to represent objects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gganimate with bitmap fonts</title>
+      <link>https://data-scribers.mikewk.com/post/gganimate-with-bitmap-fonts/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gganimate-with-bitmap-fonts/</guid>
+      <description>I put together the little animation shown below, and this is a short guide on how I got there&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

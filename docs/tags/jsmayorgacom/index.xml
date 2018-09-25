@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jsmayorgacom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/jsmayorgacom/</link>
+    <description>Recent content in Jsmayorgacom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/jsmayorgacom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Global Fishing Watch Data from Google Big Query using R</title>
+      <link>https://data-scribers.mikewk.com/post/getting-global-fishing-watch-d/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-global-fishing-watch-d/</guid>
+      <description>Now we are all set to start querying and analyzing Global Fishing Watch’s data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Global Network of Transnational Fisheries</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-the-global-network-of-/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-the-global-network-of-/</guid>
+      <description>All the analysis is done in R, with Studio, using the following packages: Here is snippet of the dataset: where: We have excluded here 1) the connections between EU members states 2) the EU Northern agreements with Norway, and Iceland, 3) connections between sovereign states, e,g: France and Reunion and 4) disputed or jointly managed marine&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

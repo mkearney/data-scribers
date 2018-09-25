@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samabbottcouk on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/samabbottcouk/</link>
+    <description>Recent content in Samabbottcouk on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/samabbottcouk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-tuberculosis-monitor/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-tuberculosis-monitor/</guid>
+      <description>Looking through the other tibbles they all have the same structure - we can write a function using this knowledge to speed up data extraction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-estimates-of-the-tub/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-estimates-of-the-tub/</guid>
+      <description>Maps can be a useful first visualisation for summarising spatial data, although they can also be misleading for more complex comparisons&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Global Trends in Tuberculosis Incidence Rates - with GetTBinR</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-global-trends-in-tub/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-global-trends-in-tub/</guid>
+      <description>For this post I will be quickly diving into global trends in Tuberculosis incidence rates and exploring whether Tuberculosis eradication is on the horizon. Now to get started, the first step is to get the package (for this post we are using the development version from GitHub) and to load the other packages required for this analysis&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

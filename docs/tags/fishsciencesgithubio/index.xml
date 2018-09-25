@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fishsciencesgithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/fishsciencesgithubio/</link>
+    <description>Recent content in Fishsciencesgithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/fishsciencesgithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing Fish Encounter Histories</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-fish-encounter-his/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-fish-encounter-his/</guid>
+      <description>Encounter histories are the translation of a fish’s path into a row of ones and zeros, each corresponding to a positive or negative detection record at a receiver location in the acoustic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Practical Pisces (a blog mostly about fish and science)</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-to-the-practical-pisce/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-to-the-practical-pisce/</guid>
+      <description>Thanks for stopping&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

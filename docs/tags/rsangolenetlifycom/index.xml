@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rsangolenetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/rsangolenetlifycom/</link>
+    <description>Recent content in Rsangolenetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/rsangolenetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance Benchmarking for Date-Time conversions</title>
+      <link>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</guid>
+      <description>Motivation Performance comparison Packages compared Results Motivation Once more, there’s was an opportunity at work to optimize code and reduce run-time. The last time was for dummy-variable creation. Upon querying large data from our hive tables, the returned dataframe contains values of class character&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First foray into Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/first-foray-into-shiny/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-foray-into-shiny/</guid>
+      <description>Visualising Distributions Visualising Linear Discriminant Analysis Shiny had interested me for a while for it’s power to quickly communicate and vizualise data and models. I hadn’t delved into it due to lack of time to do so, until now. Two quick visualizations I’ve created as my 1st foray into R Shiny&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Performance Benchmarking for Dummy Variable Creation</title>
+      <link>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</guid>
+      <description>Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pur(r)ify Your Carets</title>
+      <link>https://data-scribers.mikewk.com/post/purrify-your-carets/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrify-your-carets/</guid>
+      <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finite Mixture Modeling using Flexmix</title>
+      <link>https://data-scribers.mikewk.com/post/finite-mixture-modeling-using-/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finite-mixture-modeling-using-/</guid>
+      <description>Model Based Clustering Quick EDA Model building Mixtures of Regressions Quick EDA Model Building Results Further investigation Notes References This page replicates the codes written by Grun &amp;amp; Leish (2007) in ‘FlexMix: An R package for finite mixture modelling’, University of Wollongong, Australia&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martakolczynskacom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/martakolczynskacom/</link>
+    <description>Recent content in Martakolczynskacom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/martakolczynskacom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Age distributions in samples from cross-national survey projects</title>
+      <link>https://data-scribers.mikewk.com/post/age-distributions-in-samples-f/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/age-distributions-in-samples-f/</guid>
+      <description>Cross-national survey projects conduct surveys on representative samples of adult&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reliability of survey estimates</title>
+      <link>https://data-scribers.mikewk.com/post/reliability-of-survey-estimate/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reliability-of-survey-estimate/</guid>
+      <description>Data Differences within country-years Differences by groups Gender Age Urban/rural residence Education Sampling scheme The growth in cross-national survey projects in the last decades leads to situations when two or more surveys are carried out in the same country and the same year but in different projects, and contain overlapping sets of survey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tidytext analysis of TED talks</title>
+      <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-ted-talks/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidytext-analysis-of-ted-talks/</guid>
+      <description>Setup tidy TED talks Applause, LOL Sentiment This year I spent two weeks of the summer attending the Summer Institute for Computational Social Science Parter Site (SICSS) in Tvärminne and Helsinki, Finland, organized by Matti Nelimarkka from Aalto University and the University of Helsinki, assisted by two TAs: Juho Pääkkönen and Pihla Toivanen from the University of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Validating survey data</title>
+      <link>https://data-scribers.mikewk.com/post/validating-survey-data/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/validating-survey-data/</guid>
+      <description>Educational attainment data OECD data SDR data Cleaning and merging SDR and OECD data Results The curious case of ISSP Switzerland Conclusion Appendix with Przemek Powałko General population surveys with representative samples should have a similar education structure as shown by data from administrative sources, especially if survey weights are&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dot plot challenge</title>
+      <link>https://data-scribers.mikewk.com/post/dot-plot-challenge/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dot-plot-challenge/</guid>
+      <description>Getting and reshaping the data The Dot Plot The August edition of the Storytelling with Data challenge #SWDchallenge stars the dot plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny app for exploring harmonized cross-national survey data (SDR v.1.0)</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-app-for-exploring-harmon/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-app-for-exploring-harmon/</guid>
+      <description>Instructions References In the previous post I wrote about downloading and exploring the Survey Data Recycling (SDR), version 1.0 dataset, which consists of selected harmonized variables from 22 survey projects, 1966-2013. The SDR project will develop a website for browsing, subsetting, downloading, and visualizing data from the SDR project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ISA World Congress 2018</title>
+      <link>https://data-scribers.mikewk.com/post/isa-world-congress-2018/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/isa-world-congress-2018/</guid>
+      <description>Getting data from Twitter Tweets over time Text analysis Tweets by ISA Resesarch Committee The International Sociological Association 19th World Congress of Sociology in Toronto (15-21 July) has received quite some Twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Late start</title>
+      <link>https://data-scribers.mikewk.com/post/late-start/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/late-start/</guid>
+      <description>This blog is going to be mostly about my adventures with R, primarily using survey data, and usually somewhat related to my social science interests; for the fun of it, to share code and hopefully get feedback&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

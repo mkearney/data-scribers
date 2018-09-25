@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energychisquaredcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/energychisquaredcom/</link>
+    <description>Recent content in Energychisquaredcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/energychisquaredcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicción del consumo eléctrico (I)</title>
+      <link>https://data-scribers.mikewk.com/post/predicci%C3%B3n-del-consumo-el%C3%A9ctri/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicci%C3%B3n-del-consumo-el%C3%A9ctri/</guid>
+      <description>A menudo, cuando se aplica el concepto predicción en el sector eléctrico tiende a relacionarse inmediatamente con dos conceptos: el consumo y el precio. El primero el fundamental para no penalizar desvíos&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>La odisea de comercializar electricidad en las SEIEs</title>
+      <link>https://data-scribers.mikewk.com/post/la-odisea-de-comercializar-ele/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/la-odisea-de-comercializar-ele/</guid>
+      <description>Las sistemas extrapeninsulares (antiguos SEIEs, ahora SENP) han sido históricamente un quebradero de cabeza para el legislador&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Explorando correlaciones de los futuros con el CO2</title>
+      <link>https://data-scribers.mikewk.com/post/explorando-correlaciones-de-lo/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/explorando-correlaciones-de-lo/</guid>
+      <description>Las relaciones entre variables constituyen el primer análisis serio para cualquier analista y/o trader del mercado&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cómo conseguir datos de ESIOS con su API (parte I)</title>
+      <link>https://data-scribers.mikewk.com/post/c%C3%B3mo-conseguir-datos-de-esios-/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/c%C3%B3mo-conseguir-datos-de-esios-/</guid>
+      <description>Uno de los primeros retos a los que se enfrentan los analistas del sector es conseguir automatizar la entrada de los&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparativa de la generación hidráulica y el precio del mercado mayorista</title>
+      <link>https://data-scribers.mikewk.com/post/comparativa-de-la-generaci%C3%B3n-h/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comparativa-de-la-generaci%C3%B3n-h/</guid>
+      <description>En los últimos meses, la generación hidráulica ha dado de qué hablar en el sector eléctrico&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting/</guid>
+      <description>Realizar un forecast es una tarea que generalmente requiere de conocimiento del sector, hipotetizar sofre efectos que afecten al resultado de estudio y como no, tener unas mínimas habilidades de&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Por qué este blog</title>
+      <link>https://data-scribers.mikewk.com/post/por-qu%C3%A9-este-blog/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/por-qu%C3%A9-este-blog/</guid>
+      <description>Allá por noviembre de 2012 comencé un blog dedicado a dos de mis tres pasiones: la energía y la ingeniería&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

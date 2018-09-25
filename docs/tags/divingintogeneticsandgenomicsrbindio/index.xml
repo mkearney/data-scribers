@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divingintogeneticsandgenomicsrbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/divingintogeneticsandgenomicsrbindio/</link>
+    <description>Recent content in Divingintogeneticsandgenomicsrbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/divingintogeneticsandgenomicsrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compute averages/sums on GRanges or equal length bins</title>
+      <link>https://data-scribers.mikewk.com/post/compute-averagessums-on-grange/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/compute-averagessums-on-grange/</guid>
+      <description>tile the whole genome to 100 bp bins compute the binned average for my_var It turns out that there are functions to convert between meta data column and RleList&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>my first try on Rmarkdown using blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-try-on-rmarkdown-usin/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-try-on-rmarkdown-usin/</guid>
+      <description>I have used blogdown writing regular markdown posts, but the real power is from the Rmarkdown! let me try it for this post. Note that you do not knit the Rmarkdown by yourself, rather you let blogdown do the heavy lift. It is awesome! blogdown will knit and render the code and the output into a html file&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>hugo academic theme blog down deployment (some details)</title>
+      <link>https://data-scribers.mikewk.com/post/hugo-academic-theme-blog-down-/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hugo-academic-theme-blog-down-/</guid>
+      <description>It is quite straightforward to have a working site following Alison&amp;rsquo;s guide. However, you always want some customization of your own site. I took the tips from Leslie. and changed to twitter: from to to from to The wideget will be gone in the home page. from to Now, you can check the traffic reports in real-time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Backup automatically with cron</title>
+      <link>https://data-scribers.mikewk.com/post/backup-automatically-with-cron/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/backup-automatically-with-cron/</guid>
+      <description>cron is a Unix, solaris, Linux utility that allows tasks to be automatically run in the background at regular intervals by the cron daemon. Crontab (CRON TABle) is a file which contains the schedule of cron entries to be run and at specified times&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to upload files to GEO</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-upload-files-to-geo/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-upload-files-to-geo/</guid>
+      <description>I used my google account. soft link does not work for me&amp;hellip; After your transfer is complete, you need to tell the NCBI. After file transfer is complete, please e-mail GEO with the following information: - GEO account username (tangming2005@gmail.com); - Names of the directory and files deposited; - Public release date (required - up to 3 years from now - see FAQ)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

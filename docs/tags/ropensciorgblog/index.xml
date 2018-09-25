@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ropensciorgblog on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ropensciorgblog/</link>
+    <description>Recent content in Ropensciorgblog on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ropensciorgblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Reproducible Data Packages with DataPackageR</title>
+      <link>https://data-scribers.mikewk.com/post/building-reproducible-data-pac/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-reproducible-data-pac/</guid>
+      <description>Sharing data sets for collaboration or publication has always been challenging, but it’s become increasingly problematic as complex and high dimensional data sets have become ubiquitous in the life sciences&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What have these birds been studied for? Querying science outputs with R</title>
+      <link>https://data-scribers.mikewk.com/post/what-have-these-birds-been-stu/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-have-these-birds-been-stu/</guid>
+      <description>For the sake of simplicity, we shall only use the 50 species observed the most often. We first define a function retrieving the titles and abstracts of works obtained as result when querying one species name. We then apply this function to all 50 species and keep each article only once&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What are these birds? Complement occurrence data with taxonomy and traits information</title>
+      <link>https://data-scribers.mikewk.com/post/what-are-these-birds-complemen/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-are-these-birds-complemen/</guid>
+      <description>We will also need these two data.frames later: abundance by species, and dictionary of names. It is rather tricky to automatically get pics from Phylopic since you might not get one for the order itself, maybe one for the subtaxon instead, etc, so we made decisions blindly in the script above&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s this bird? Classify old natural history drawings with R</title>
+      <link>https://data-scribers.mikewk.com/post/whats-this-bird-classify-old-n/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-this-bird-classify-old-n/</guid>
+      <description>In this section, we explain the different elements of our R workflow: preparing images, extracting text, resolving taxonomic names. We get a result! So we see that the image transformation was quite useful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What birds are observed near Radolfzell? Bird occurrence data in R</title>
+      <link>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</guid>
+      <description>There are two ways to access eBird data with an R package for each of these methods, Now, we can make the query. Now that we have the occurrence data, let’s plot it to see whether trimming is required. Yes, trimming is required! It’d have been too bad not to learn how to do it, anyway. We also add the MPI to the map&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where to go observe birds in Radolfzell? An answer with R and open data</title>
+      <link>https://data-scribers.mikewk.com/post/where-to-go-observe-birds-in-r/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-to-go-observe-birds-in-r/</guid>
+      <description>Yay, we now know where to find a bird hide not too far from the MPI! Let’s create a basemap for our bounding box, and then add roads and buildings to it. Quite pretty! The lakes can be seen because of the absence of roads and buildings on them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Extracting and Processing eBird Data</title>
+      <link>https://data-scribers.mikewk.com/post/extracting-and-processing-ebir/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/extracting-and-processing-ebir/</guid>
+      <description>Access to the full eBird dataset is provided via two large, tab-separated text files. The eBird Basic Dataset (EBD) contains the bird observation information and consists of one line for each observation of a species on a checklist&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A package for dimensionality reduction of large data</title>
+      <link>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</guid>
+      <description>&amp;hellip;. My thought is that the ideal would be a package focused on UMAP specifically, implemented in R or Rcpp. Unfortunately I am not at all an expert in this topic or familiar with the mathematics involved, so the best I would be able to do is try to translate the Python implementation into R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci Educators Collaborative</title>
+      <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
+      <description>In previous posts in this series, we identified challenges that individual instructors typically face when teaching science with R, and shared characteristics of effective educational resources to help address these challenges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci Educators Collaborative</title>
+      <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
+      <description>In the first post of this series, we sketched out some of the common challenges faced by educators who teach with R across scientific domains&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci Educators Collaborative</title>
+      <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
+      <description>This first post aims to summarize the main challenges that educators face, as a tool to help them think through the decisions they make about their course materials&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring ways to address gaps in maternal-child health research</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-ways-to-address-gaps/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-ways-to-address-gaps/</guid>
+      <description>I was aware at all times that I had only islands of knowledge separated by darkness; that I was surrounded by chasms of not-knowing, into one of which I was certain to fall. One of the best ways to start feeling less intimidated is to start talking to others. Ullman continues, I learned I was not alone&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A package for tidying nested lists</title>
+      <link>https://data-scribers.mikewk.com/post/a-package-for-tidying-nested-l/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-package-for-tidying-nested-l/</guid>
+      <description>Run the app like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing new software review editors</title>
+      <link>https://data-scribers.mikewk.com/post/announcing-new-software-review/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing-new-software-review/</guid>
+      <description>The overall goals of rOpenSci are fully aligned with my interests and passions, both personally and also professionally as a Research Software Engineer, tasked with helping researchers make the most of their code and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring European attitudes and behaviours using the European Social Survey</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-european-attitudes-a/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-european-attitudes-a/</guid>
+      <description>The 4th of March of 2018 I submitted the package to rOpensci, intimidated but very excited about the peer review process. To my surprise, the process was enriching, respectful and transparent, unlike my previous experience in academic research&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>.rprofile: Julia Silge</title>
+      <link>https://data-scribers.mikewk.com/post/rprofile-julia-silge/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rprofile-julia-silge/</guid>
+      <description>KO: What is your name, job title, and how long have you been using R? KO: Wow! What were you all about before that? I have a bachelor&amp;rsquo;s degree in physics, a PhD in astrophysics, and I did a postdoc and research for a while&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Unconf18 projects 4</title>
+      <link>https://data-scribers.mikewk.com/post/unconf18-projects-4/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unconf18-projects-4/</guid>
+      <description>In the spirit of exploration and experimentation at rOpenSci unconferences, these projects are not necessarily finished products or in scope for rOpenSci packages&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

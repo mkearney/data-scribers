@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogwallaroolabscom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/blogwallaroolabscom/</link>
+    <description>Recent content in Blogwallaroolabscom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogwallaroolabscom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make Python Pandas go fast</title>
+      <link>https://data-scribers.mikewk.com/post/make-python-pandas-go-fast/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/make-python-pandas-go-fast/</guid>
+      <description>Some Background Suppose you have a Data Analysis batch job that runs every hour on a dedicated machine. As the weeks go by, you notice that the inputs are getting larger and the time taken to run it gets longer, slowly nearing the one hour mark&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Converting a Batch Job to Real-time</title>
+      <link>https://data-scribers.mikewk.com/post/converting-a-batch-job-to-real/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-a-batch-job-to-real/</guid>
+      <description>Introduction Often called stream processing, real-time processing allows applications to run computations and filter data at any scale. At Wallaroo Labs, we build and offer support for an event-based stream processing framework called Wallaroo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wallaroo Up</title>
+      <link>https://data-scribers.mikewk.com/post/wallaroo-up/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wallaroo-up/</guid>
+      <description>Distributed data stream processing frameworks can be hard to build and setup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Real-time Streaming Pattern</title>
+      <link>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</guid>
+      <description>Introduction This week, we continue to look at data processing patterns used to build event triggered stream processing applications, the use cases that the patterns relate to, and how you would go about implementing within&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Utilizing Elixir as a lightweight tool to store real-time metrics data</title>
+      <link>https://data-scribers.mikewk.com/post/utilizing-elixir-as-a-lightwei/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/utilizing-elixir-as-a-lightwei/</guid>
+      <description>Visibility into performance bottlenecks was the driving force behind the design of Wallaroo&amp;rsquo;s Monitoring Hub and Metrics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Keys</title>
+      <link>https://data-scribers.mikewk.com/post/dynamic-keys/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dynamic-keys/</guid>
+      <description>Wallaroo is designed to help you build stateful event processing services that scale easily and elastically. State is partitioned across workers in the system and migrates when workers join or leave the cluster&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Real-time Streaming Pattern</title>
+      <link>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</guid>
+      <description>Introduction This week I will continue series of posts to looking at data processing patterns used to build event triggered streaming applications, focusing on joining event streams&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Event Triggered Customer Segmentation</title>
+      <link>https://data-scribers.mikewk.com/post/event-triggered-customer-segme/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/event-triggered-customer-segme/</guid>
+      <description>Today I&amp;rsquo;m going to show you how fast and easy it can be to set up a simple application using the Wallaroo Python API to manage an ad&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Detecting Spam as it happens</title>
+      <link>https://data-scribers.mikewk.com/post/detecting-spam-as-it-happens/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/detecting-spam-as-it-happens/</guid>
+      <description>Suppose your social network for chinchilla owners has taken off. Your flagship app contains an embedded chat client, where community members discuss chinchilla-related topics in real-time. As your user base grows, so does its value as a target for advertising&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Real-time Streaming Pattern</title>
+      <link>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</guid>
+      <description>Introduction This week, I will continue to look at data processing patterns used to build event triggered stream processing applications, the use cases that the patterns relate to, and how you would go about implementing within&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Implementing Time Windowing in an Evented Streaming System</title>
+      <link>https://data-scribers.mikewk.com/post/implementing-time-windowing-in/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/implementing-time-windowing-in/</guid>
+      <description>Hi there! Welcome to the second and final installment of my trending twitter hashtags example series. In part 1, we covered the basic dataflow and logic of the application&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Real-time Streaming Pattern</title>
+      <link>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/realtime-streaming-pattern/</guid>
+      <description>Introduction I am starting a series of posts looking at a variety of data processing patterns used to build real-time stream processing applications, the use cases that the patterns relate to, and how you would go about implementing within&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stream processing, trending hashtags, and Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/stream-processing-trending-has/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stream-processing-trending-has/</guid>
+      <description>A prospective Wallaroo user contacted us and asked for an example of chaining state computations together so the output of one could be fed into another to take still further action. In particular, their first step was doing aggregation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Streaming with Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/streaming-with-wallaroo/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/streaming-with-wallaroo/</guid>
+      <description>Introduction Many of you have been reading our engineering blog and enjoy our deep technical dives&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring The GitHub Archive</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-the-github-archive/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-the-github-archive/</guid>
+      <description>Note: Wallaroo will be hosting a live webinar stepping through the example in this blog post on Thursday, May 24th at 1 PM EST&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/wallaroo/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wallaroo/</guid>
+      <description>Its been over a year since I wrote the first blog post introducing Wallaroo to the world. We’ve covered a lot of ground since then; from introducing the Python API that is our primary product, to releasing all our code under an open core model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adventures with cgo</title>
+      <link>https://data-scribers.mikewk.com/post/adventures-with-cgo/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adventures-with-cgo/</guid>
+      <description>Hi there! You&amp;rsquo;re about to read part 2 of a 4 part series about Go performance as told from the perspective of Wallaroo, our distributed stream processor. Part 1 covered issues around having non-Go code holding on to pointers to Go objects. This post builds on part 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adventures with cgo</title>
+      <link>https://data-scribers.mikewk.com/post/adventures-with-cgo/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adventures-with-cgo/</guid>
+      <description>A lot of materials have been created to help Go programmers implement Go &amp;ldquo;best performance practices&amp;rdquo;. The same can not be said of cgo performance. This is the first post in a series of posts that will discuss cgo performance considerations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Choosing Elixir&#39;s Phoenix to power a real-time Web UI</title>
+      <link>https://data-scribers.mikewk.com/post/choosing-elixirs-phoenix-to-po/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/choosing-elixirs-phoenix-to-po/</guid>
+      <description>Here at WallarooLabs, we&amp;rsquo;ve been working on Wallaroo, our high-throughput, low-latency, and elastic data processing framework, for nearly two years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Snake and the Horse</title>
+      <link>https://data-scribers.mikewk.com/post/the-snake-and-the-horse/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-snake-and-the-horse/</guid>
+      <description>Introduction Welcome to our continuing series on building Wallaroo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How the end-to-end back-pressure mechanism inside Wallaroo works</title>
+      <link>https://data-scribers.mikewk.com/post/how-the-endtoend-backpressure-/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-the-endtoend-backpressure-/</guid>
+      <description>Introduction to part two This is part two of a two-part series on how a Wallaroo system reacts to workload demands that exceed Wallaroo&amp;rsquo;s capacity, i.e., how Wallaroo reacts to overload&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some Common Mitigation Techniques for Overload in Queueing Networks</title>
+      <link>https://data-scribers.mikewk.com/post/some-common-mitigation-techniq/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-common-mitigation-techniq/</guid>
+      <description>Series Introduction: Overload and how Wallaroo mitigates overload This is the first of a pair of Wallaroo Labs articles about overload. Here&amp;rsquo;s a sketch of the series&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How We Test the Stateful Autoscaling of Our Stream Processing System</title>
+      <link>https://data-scribers.mikewk.com/post/how-we-test-the-stateful-autos/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-we-test-the-stateful-autos/</guid>
+      <description>This post discusses how we use end-to-end testing techniques to test Wallaroo&amp;rsquo;s autoscaling features. Background Autoscaling in Wallaroo enables adding or removing work capacity from an application that performs partitioned work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Your Wallaroo Questions Answered</title>
+      <link>https://data-scribers.mikewk.com/post/your-wallaroo-questions-answer/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/your-wallaroo-questions-answer/</guid>
+      <description>Wallaroo Labs has received a lot of great feedback from developers on Hacker News and other communities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Performance testing a low-latency stream processing system</title>
+      <link>https://data-scribers.mikewk.com/post/performance-testing-a-lowlaten/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/performance-testing-a-lowlaten/</guid>
+      <description>At Wallaroo Labs we&amp;rsquo;ve been working on our stream processing engine, Wallaroo for just under two years now. We&amp;rsquo;ve designed Wallaroo to be able to handle millions of messages a second on a single server with low microsecond latencies&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies</title>
+      <link>https://data-scribers.mikewk.com/post/how-we-built-wallaroo-to-proce/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-we-built-wallaroo-to-proce/</guid>
+      <description>When designing Wallaroo-a high-throughput, low-latency data processing framework written in the Pony programming language-we were concerned with designing for performance from the very beginning, with our initial goal being to achieve sub-millisecond latency tails with high throughputs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building low-overhead metrics collection for high-performance systems</title>
+      <link>https://data-scribers.mikewk.com/post/building-lowoverhead-metrics-c/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-lowoverhead-metrics-c/</guid>
+      <description>Metrics play an integral part in providing confidence in a high-performance software system. Whether you’re dealing with a data processing framework or a web server, metrics provide insight into whether your system is performing as expected&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Latency Histograms and Percentile Distributions In Wallaroo Performance Metrics</title>
+      <link>https://data-scribers.mikewk.com/post/latency-histograms-and-percent/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/latency-histograms-and-percent/</guid>
+      <description>How We Implemented Wallaroo&amp;rsquo;s Low Overhead Performance Counters, and the Philosophy Behind Our Choices This post is based on an internal white paper from May 2016 and follows the basic paper format&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Scikit-learn pipeline in Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/a-scikitlearn-pipeline-in-wall/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-scikitlearn-pipeline-in-wall/</guid>
+      <description>While it would seem that machine learning is taking over the world, a lot of the attention has been focused towards researching new methods and applications, and how to make a single model faster&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Idiomatic Python Stream Processing in Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/idiomatic-python-stream-proces/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/idiomatic-python-stream-proces/</guid>
+      <description>We have been working on Wallaroo, our scale-independent event processing system, for a little over two years&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why we wrote our Kafka Client in Pony</title>
+      <link>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</guid>
+      <description>At Wallaroo Labs we&amp;rsquo;ve been working on our stream processing engine, Wallaroo for just under two years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Go, Go! Stream Processing for Go</title>
+      <link>https://data-scribers.mikewk.com/post/go-go-go-stream-processing-for/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/go-go-go-stream-processing-for/</guid>
+      <description>We&amp;rsquo;ve been working on our processing engine, Wallaroo for just under two years now. Our goal has been to make it as easy to build fast, scale-independent applications for processing data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>You might have a streaming data problem if...</title>
+      <link>https://data-scribers.mikewk.com/post/you-might-have-a-streaming-dat/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/you-might-have-a-streaming-dat/</guid>
+      <description>When processing data, we often categorize a job as either a batch or streaming job. However, this is a bit of a false dichotomy. In this post, I’ll explore how we ordinarily define batch and stream processing, and show how some tasks that we think of as batch jobs can be seen as a subset of stream processing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to update your Wallaroo Python applications to the new API</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</guid>
+      <description>Thanks to the extensive feedback we have received on our first Python API, we have decided to release some improvements. So in version 0.4.0, we released some breaking changes to the Python API&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless, Scale-Independent Processing, and Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-scaleindependent-pr/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-scaleindependent-pr/</guid>
+      <description>Serverless is most commonly thought of as pieces of code executed in a stateless container, e.g. AWS Lambda and Functions-as-a-Service&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simplify Stream Processing in Python and Wallaroo using Docker</title>
+      <link>https://data-scribers.mikewk.com/post/simplify-stream-processing-in-/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simplify-stream-processing-in-/</guid>
+      <description>Distributed data stream processing frameworks can be hard to build and setup&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic tracing a Pony &#43; Python program with DTrace</title>
+      <link>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</guid>
+      <description>Your application probably has a performance problem. Or your app has a terrible bug. Or both. To find and fix these problems, many software developers use a profiler or a debugger. Profilers and debuggers are (usually) fantastic tools for solving performance and correctness problems&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stateful Multi-Stream Processing in Python with Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/stateful-multistream-processin/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stateful-multistream-processin/</guid>
+      <description>Wallaroo is a high-performance, open-source framework for building distributed stateful applications. In an earlier post, we looked at how Wallaroo scales distributed state&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>DDoS Attack Detection with Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</guid>
+      <description>This post will go through a real-world use case for Wallaroo, our distributed data processing framework for building high-performance streaming data applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Thriving Open-source Community</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-build-a-thriving-openso/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-build-a-thriving-openso/</guid>
+      <description>Building a community of developers was one of the key motivations that led Wallaroo Labs to open-source our distributed data engine, Wallaroo. But it’s not always easy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Non-native event-driven windowing in Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/nonnative-eventdriven-windowin/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nonnative-eventdriven-windowin/</guid>
+      <description>Certain applications lend themselves to pure parallel computation better than others. In some cases we require to apply certain algorithms over a &amp;ldquo;window&amp;rdquo; in our data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Identifying Trending Twitter Hashtags in Real-time with Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/identifying-trending-twitter-h/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/identifying-trending-twitter-h/</guid>
+      <description>This week we have a guest post written by Hanee&amp;rsquo; Medhat Hanee&amp;rsquo; is a Big Data Engineer, with experience working with massive data in many industries, such as Telecommunications and Banking&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open-source your startup’s code in 60 days</title>
+      <link>https://data-scribers.mikewk.com/post/opensource-your-startups-code-/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/opensource-your-startups-code-/</guid>
+      <description>I’m Vid Jain, CEO &amp;amp; Founder of Wallaroo Labs. I’m writing today to tell you about how we open-sourced Wallaroo, our software framework for data processing, and the lessons we learned along the way. Our engineering team was experienced at writing great software, but now we faced a new set of challenges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why we used Pony to write Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/why-we-used-pony-to-write-wall/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-we-used-pony-to-write-wall/</guid>
+      <description>Hi there! Today, I want to talk to you about why we chose to write Wallaroo, our distributed data processing framework for building high-performance streaming data applications, in Pony. It&amp;rsquo;s a question that has come up with some regular frequency from our more technically minded audiences&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Wallaroo Scales Distributed State</title>
+      <link>https://data-scribers.mikewk.com/post/how-wallaroo-scales-distribute/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-wallaroo-scales-distribute/</guid>
+      <description>Scaling stateful applications is hard. As your business grows, you&amp;rsquo;re eventually going to find that demand is greater than capacity. That means you can&amp;rsquo;t simply deploy your application to a set number of servers and forget it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Python, Go! Stream Processing for Python</title>
+      <link>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</guid>
+      <description>We&amp;rsquo;ve been hard at work for 18 months on a new processing engine called Wallaroo for deploying and operating big data, fast data, and machine learning applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Measuring Correctness of State in a Distributed System</title>
+      <link>https://data-scribers.mikewk.com/post/measuring-correctness-of-state/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/measuring-correctness-of-state/</guid>
+      <description>Introduction Distributed systems are hard&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Open Sourcing Wallaroo</title>
+      <link>https://data-scribers.mikewk.com/post/open-sourcing-wallaroo/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/open-sourcing-wallaroo/</guid>
+      <description>I&amp;rsquo;m very excited to announce the first open source, public release of our ultrafast and elastic data processing engine, Wallaroo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the &#39;Secret Sauce&#39;?</title>
+      <link>https://data-scribers.mikewk.com/post/whats-the-secret-sauce/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-the-secret-sauce/</guid>
+      <description>Hi there! Welcome to the second blog post on our high-performance stream processor Wallaroo. This post assumes that you are familiar with the basics of what Wallaroo is and the features that it provides&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Wallaroo!</title>
+      <link>https://data-scribers.mikewk.com/post/hello-wallaroo/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-wallaroo/</guid>
+      <description>We handle the hard infrastructure problems so you don’t have to. Welcome to the Wallaroo Labs Engineering blog. I&amp;rsquo;m writing today to introduce you to Wallaroo, the product we&amp;rsquo;ve been working on for a little over a year now&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

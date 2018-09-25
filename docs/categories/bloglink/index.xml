@@ -6144,6 +6144,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Encoder-decoderモデルとTeacher Forcing，Scheduled Sampling，Professor Forcing</title>
+      <link>https://data-scribers.mikewk.com/post/encoderdecoder%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8teacher-forc/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/encoderdecoder%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8teacher-forc/</guid>
+      <description>Encoder-decoderモデルとTeacher Forcing，それを拡張したScheduled Sampling，Professor&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hello world</title>
       <link>https://data-scribers.mikewk.com/post/hello-world/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
@@ -7630,6 +7639,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>GTC Japan 2017 深層学習フレームワークメモ</title>
+      <link>https://data-scribers.mikewk.com/post/gtc-japan-2017-%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%A2/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gtc-japan-2017-%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%A2/</guid>
+      <description>GTC Japan 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Team Rtus wins Munich Re Datathon with mlr</title>
       <link>https://data-scribers.mikewk.com/post/team-rtus-wins-munich-re-datat/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
@@ -8485,6 +8503,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Boston出張</title>
+      <link>https://data-scribers.mikewk.com/post/boston%E5%87%BA%E5%BC%B5/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/boston%E5%87%BA%E5%BC%B5/</guid>
+      <description>10月上旬にBostonに出張に行ってきました&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Can we use B-splines to generate non-linear data?</title>
       <link>https://data-scribers.mikewk.com/post/can-we-use-bsplines-to-generat/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
@@ -9021,6 +9048,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/socketio-/</guid>
+      <description>Socket&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Socket.IOでシンプルチャットアプリの実装</title>
+      <link>https://data-scribers.mikewk.com/post/socketio%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E5%AE%9F%E8%A3%85/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/socketio%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E5%AE%9F%E8%A3%85/</guid>
       <description>Socket&amp;hellip;</description>
     </item>
     

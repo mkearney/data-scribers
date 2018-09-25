@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mapping the 2018 East Africa floods from space with smapr</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-the-2018-east-africa-f/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-the-2018-east-africa-f/</guid>
+      <description>First, let&amp;rsquo;s get spatial boundaries for the study area: This returns a data frame with one row per file - we can see here that there is one file available for that date&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Knitting Club</title>
@@ -4333,6 +4342,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-grammar-of-models/</guid>
       <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>FutureMed Day 3 - Robert Hariri, Mike West, a Visit to Autodesk, and More</title>
+      <link>https://data-scribers.mikewk.com/post/futuremed-day-3-robert-hariri-/</link>
+      <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/futuremed-day-3-robert-hariri-/</guid>
+      <description>We’ve just wrapped up day three and FutureMed is quickly joining the club of highest quality conferences we’ve attended&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Program Predicts Salmonella Levels in Pork</title>
+      <link>https://data-scribers.mikewk.com/post/new-program-predicts-salmonell/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-program-predicts-salmonell/</guid>
+      <description>Warning: don&amp;rsquo;t read the following if you&amp;rsquo;ve recently dined on pig! A new program developed by the UK&amp;rsquo;s Institute of Food Research, the US Department of Agriculture, and Australia&amp;rsquo;s Food Safety Centre seeks to predict the amount of Salmonella present on different levels of the pork supply&amp;hellip;</description>
     </item>
     
   </channel>

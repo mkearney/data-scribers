@@ -6,10 +6,19 @@
     <description>Recent content in Ropensciorgblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ropensciorgblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mapping the 2018 East Africa floods from space with smapr</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-the-2018-east-africa-f/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-the-2018-east-africa-f/</guid>
+      <description>First, let&amp;rsquo;s get spatial boundaries for the study area: This returns a data frame with one row per file - we can see here that there is one file available for that date&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Building Reproducible Data Packages with DataPackageR</title>

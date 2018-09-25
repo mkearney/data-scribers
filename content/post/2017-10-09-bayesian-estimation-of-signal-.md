@@ -3,6 +3,7 @@ title: "Bayesian Estimation of Signal Detection Models, Part 1"
 author: 'vuorre.netlify.com'
 date: '2017-10-09'
 slug: bayesian-estimation-of-signal-
+link: https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-1/
 categories:
 - bloglink
 tags:
@@ -11,5 +12,5 @@ tags:
   - vuorrenetlifycom
 ---
 
-This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models. In the third part, I describe how to estimate the unequal variance Gaussian SDT model as a hierarchical nonlinear Bayesian[... <i class="fas fa-external-link-alt"></i>](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-1/)
+This post is the first part of a series of three blog posts: In the second part, I describe how to estimate the equal variance Gaussian SDT model for multiple participants simultaneously, using hierarchical Bayesian models[... <i class="fas fa-external-link-alt"></i>](https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-1/)
 

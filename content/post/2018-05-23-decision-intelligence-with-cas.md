@@ -3,6 +3,7 @@ title: "Decision Intelligence with Cassie Kozyrkov"
 author: 'gcppodcast.com'
 date: '2018-05-23'
 slug: decision-intelligence-with-cas
+link: https://www.gcppodcast.com/post/episode-128-decision-intelligence-with-cassie-kozyrkov/
 categories:
 - bloglink
 tags:

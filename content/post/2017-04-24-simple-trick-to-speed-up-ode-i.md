@@ -3,6 +3,7 @@ title: "Simple trick to speed up ODE integration in R"
 author: 'sjfox.github.io'
 date: '2017-04-24'
 slug: simple-trick-to-speed-up-ode-i
+link: https://sjfox.github.io/post/2017-04-19-timesteps-lsoda-and-epidemiological-models/
 categories:
 - bloglink
 tags:

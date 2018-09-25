@@ -3,6 +3,7 @@ title: "OpenCensus with Morgan McLean and JBD"
 author: 'gcppodcast.com'
 date: '2018-03-14'
 slug: opencensus-with-morgan-mclean-
+link: https://www.gcppodcast.com/post/episode-118-opencensus-with-morgan-mclean-and-jbd/
 categories:
 - bloglink
 tags:

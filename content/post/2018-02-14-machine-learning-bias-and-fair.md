@@ -3,6 +3,7 @@ title: "Machine Learning Bias and Fairness with Timnit Gebru and Margaret Mitche
 author: 'gcppodcast.com'
 date: '2018-02-14'
 slug: machine-learning-bias-and-fair
+link: https://www.gcppodcast.com/post/episode-114-machine-learning-bias-and-fairness-with-timnit-gebru-and-margaret-mitchell/
 categories:
 - bloglink
 tags:

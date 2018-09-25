@@ -3,6 +3,7 @@ title: "Mapping the Global Network of Transnational Fisheries"
 author: 'jsmayorga.com'
 date: '2018-03-15'
 slug: mapping-the-global-network-of-
+link: http://jsmayorga.com/post/mapping-the-global-network-of-transnational-fisheries/
 categories:
 - bloglink
 tags:

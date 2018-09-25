@@ -3,6 +3,7 @@ title: "Percy.io with Mike Fotinakis"
 author: 'gcppodcast.com'
 date: '2018-01-31'
 slug: percyio-with-mike-fotinakis
+link: https://www.gcppodcast.com/post/episode-112-percy-io-with-mike-fotinakis/
 categories:
 - bloglink
 tags:

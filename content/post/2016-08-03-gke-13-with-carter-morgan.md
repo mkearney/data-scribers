@@ -3,6 +3,7 @@ title: "GKE 1.3 with Carter Morgan"
 author: 'gcppodcast.com'
 date: '2016-08-03'
 slug: gke-13-with-carter-morgan
+link: https://www.gcppodcast.com/post/episode-37-gke-1-3-with-carter-morgan/
 categories:
 - bloglink
 tags:

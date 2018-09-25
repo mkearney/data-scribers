@@ -3,6 +3,7 @@ title: "R4DS April Challenge"
 author: 'www.jessemaegan.com'
 date: '2018-03-26'
 slug: r4ds-april-challenge
+link: https://www.jessemaegan.com/post/r4ds-april-challenge-time-for-some-spring-cleaning/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Pur(r)ify Your Carets"
 author: 'rsangole.netlify.com'
 date: '2017-09-17'
 slug: purrify-your-carets
+link: http://rsangole.netlify.com/post/pur-r-ify-your-carets/
 categories:
 - bloglink
 tags:

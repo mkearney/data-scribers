@@ -3,6 +3,7 @@ title: "When in doubt, optimize for joy"
 author: 'www.jessemaegan.com'
 date: '2018-07-19'
 slug: when-in-doubt-optimize-for-joy
+link: https://www.jessemaegan.com/post/when-in-doubt-optimize-for-joy/
 categories:
 - bloglink
 tags:

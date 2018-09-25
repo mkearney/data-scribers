@@ -3,6 +3,7 @@ title: "Virtual Machines with Scott Van Woudenberg"
 author: 'gcppodcast.com'
 date: '2016-06-01'
 slug: virtual-machines-with-scott-va
+link: https://www.gcppodcast.com/post/episode-28-virtual-machines-with-scott-van-woudenberg/
 categories:
 - bloglink
 tags:

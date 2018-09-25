@@ -3,6 +3,7 @@ title: "purrr Tricks with All Subset Regression"
 author: 'thug-r.life'
 date: '2017-08-24'
 slug: purrr-tricks-with-all-subset-r
+link: http://thug-r.life/post/2017-08-24-purrr-tricks-with-all-subset-regression/
 categories:
 - bloglink
 tags:

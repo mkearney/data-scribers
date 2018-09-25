@@ -3,10 +3,12 @@ title: "Simple example of fitting splines with mixed models"
 author: 'ryantravis.netlify.com'
 date: '2018-08-21'
 slug: simple-example-of-fitting-spli
+link: http://ryantravis.netlify.com/post/simple-example-of-fitting-splines-with-mixed-models/
 categories:
 - bloglink
 tags:
   - rstats
+  - python
   - ryantravisnetlifycom
 ---
 

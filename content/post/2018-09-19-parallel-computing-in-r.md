@@ -3,6 +3,7 @@ title: "Parallel Computing in R"
 author: 'www.rladiesnyc.org'
 date: '2018-09-19'
 slug: parallel-computing-in-r
+link: http://www.rladiesnyc.org/post/parallel-computing-in-r/
 categories:
 - bloglink
 tags:

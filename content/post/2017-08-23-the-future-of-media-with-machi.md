@@ -3,6 +3,7 @@ title: "The Future of Media with Machine Learning with Amit Pande"
 author: 'gcppodcast.com'
 date: '2017-08-23'
 slug: the-future-of-media-with-machi
+link: https://www.gcppodcast.com/post/episode-91-the-future-of-media-with-machine-learning-with-amit-pande/
 categories:
 - bloglink
 tags:

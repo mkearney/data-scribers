@@ -3,9 +3,11 @@ title: "Adding jq library to Trusty and Xenial PPAs"
 author: 'rubuntu.netlify.com'
 date: '2018-05-23'
 slug: adding-jq-library-to-trusty-an
+link: http://rubuntu.netlify.com/post/2018-05-23-adding-jq-trusty-xenial/
 categories:
 - bloglink
 tags:
+  - rstats
   - rubuntunetlifycom
 ---
 

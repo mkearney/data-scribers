@@ -3,6 +3,7 @@ title: "Another approach to evaluating dynprog expressions"
 author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-05'
 slug: another-approach-to-evaluating
+link: https://mailund.github.io/r-programmer-blog/2018/03/05/another-approach-to-evaluating-dynprog-expressions/
 categories:
 - bloglink
 tags:

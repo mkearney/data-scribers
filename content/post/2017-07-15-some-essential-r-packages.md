@@ -3,6 +3,7 @@ title: "Some essential R packages"
 author: 'jvera.netlify.com'
 date: '2017-07-15'
 slug: some-essential-r-packages
+link: http://jvera.netlify.com/post/2017/07/15/some-essential-r-packages/
 categories:
 - bloglink
 tags:

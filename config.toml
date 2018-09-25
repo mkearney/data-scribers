@@ -1,14 +1,21 @@
 baseURL = "https://data-scribers.mikewk.com/"
 languageCode = "en-us"
-title = "{<span style='color:red'>data sc</span>r<span style='color:red'>i</span><span style='color:red'>bers}"
+title = "{data-scribers}"
 description = "Blog posts about data science"
 theme = "tale-hugo"
 canonifyurls = true
 publishDir = "docs"
+layoutsDir = "layouts"
 assetDir = "static/assets"
 paginate = 100
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+buildFuture = true
+minify = true
 
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[outputs]
+  home     = ["HTML", "JSON"]
+  section  = ["HTML"]

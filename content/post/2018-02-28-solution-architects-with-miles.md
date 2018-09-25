@@ -3,6 +3,7 @@ title: "Solution Architects with Miles Ward and Grace Mollison"
 author: 'gcppodcast.com'
 date: '2018-02-28'
 slug: solution-architects-with-miles
+link: https://www.gcppodcast.com/post/episode-116-solution-architects-with-miles-ward-and-grace-mollison/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Phoenix One Games with Michael Will"
 author: 'gcppodcast.com'
 date: '2017-08-30'
 slug: phoenix-one-games-with-michael
+link: https://www.gcppodcast.com/post/episode-92-phoenix-1-with-michael-will/
 categories:
 - bloglink
 tags:

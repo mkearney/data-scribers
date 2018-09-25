@@ -3,6 +3,7 @@ title: "Brief introduction of storm hysteresis effects in solute concentration-s
 author: 'wenlong-liu.github.io'
 date: '2018-02-25'
 slug: brief-introduction-of-storm-hy
+link: https://wenlong-liu.github.io/post/brief-introduction-of-storm-hysteresis-in-solute-concentration-stream-discharge-c-q-relationship/
 categories:
 - bloglink
 tags:

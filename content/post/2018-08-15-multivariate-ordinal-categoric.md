@@ -3,6 +3,7 @@ title: "Multivariate ordinal categorical data generation"
 author: 'www.rdatagen.net'
 date: '2018-08-15'
 slug: multivariate-ordinal-categoric
+link: https://www.rdatagen.net/post/multivariate-ordinal-categorical-data-generation/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "War Dragons with Gustavo Ambrozio"
 author: 'gcppodcast.com'
 date: '2016-05-18'
 slug: war-dragons-with-gustavo-ambro
+link: https://www.gcppodcast.com/post/episode-26-war-dragons-with-gustavo-ambrozio/
 categories:
 - bloglink
 tags:

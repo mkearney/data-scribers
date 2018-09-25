@@ -3,6 +3,7 @@ title: "Favorite trail race"
 author: 'sciathlon.github.io'
 date: '2018-05-24'
 slug: favorite-trail-race
+link: https://Sciathlon.github.io/post/tencin_15k_analysis/
 categories:
 - bloglink
 tags:

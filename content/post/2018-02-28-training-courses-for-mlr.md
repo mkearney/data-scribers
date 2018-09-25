@@ -3,6 +3,7 @@ title: "Training Courses for mlr"
 author: 'mlr-blog.netlify.com'
 date: '2018-02-28'
 slug: training-courses-for-mlr
+link: https://mlr-blog.netlify.com/post/2018-02-28-mlr-training-courses/
 categories:
 - bloglink
 tags:

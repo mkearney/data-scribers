@@ -3,6 +3,7 @@ title: "ATLAS with Dr. Mario Lassnig"
 author: 'gcppodcast.com'
 date: '2018-09-05'
 slug: atlas-with-dr-mario-lassnig
+link: https://www.gcppodcast.com/post/episode-145-atlas-with-dr-mario-lassnig/
 categories:
 - bloglink
 tags:

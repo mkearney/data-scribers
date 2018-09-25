@@ -3,9 +3,11 @@ title: "Visualizing Networks"
 author: 'www.mytinyshinys.com'
 date: '2018-04-16'
 slug: visualizing-networks
+link: https://www.mytinyshinys.com/2018/04/16/visualizing-networks/
 categories:
 - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

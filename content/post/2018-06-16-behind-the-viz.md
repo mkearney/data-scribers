@@ -3,6 +3,7 @@ title: "Behind the Viz"
 author: 'watanabesmith.rbind.io'
 date: '2018-06-16'
 slug: behind-the-viz
+link: https://WatanabeSmith.rbind.io/post/behind-the-viz-ranked-black-mirror/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Spotify - all 20 million tracks"
 author: 'www.mytinyshinys.com'
 date: '2017-02-27'
 slug: spotify-all-20-million-tracks
+link: https://www.mytinyshinys.com/2017/02/27/spotify---all-20-million-tracks/
 categories:
 - bloglink
 tags:
@@ -10,5 +11,5 @@ tags:
   - mytinyshinyscom
 ---
 
-I have consistently been interested in assessing music information in R, for example my - somewhat dormant -charts dashboard A recent, excellent, blog post by RCharlie featuring the Spotify and Genius APIs to determine a ‘Gloom Index’ for Radiohead tracks piqued my[... <i class="fas fa-external-link-alt"></i>](https://www.mytinyshinys.com/2017/02/27/spotify---all-20-million-tracks/)
+I have consistently been interested in assessing music information in R, for example my - somewhat dormant -charts dashboard A recent, excellent, blog post by RCharlie featuring the Spotify and Genius APIs to determine a ‘Gloom Index’ for Radiohead tracks piqued my interest[... <i class="fas fa-external-link-alt"></i>](https://www.mytinyshinys.com/2017/02/27/spotify---all-20-million-tracks/)
 

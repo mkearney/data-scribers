@@ -3,6 +3,7 @@ title: "Reliability of survey estimates"
 author: 'martakolczynska.com'
 date: '2018-08-26'
 slug: reliability-of-survey-estimate
+link: https://martakolczynska.com/post/sdr-demonstrations-multiplets/
 categories:
 - bloglink
 tags:

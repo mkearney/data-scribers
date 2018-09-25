@@ -3,6 +3,7 @@ title: "Contra JFK, use R because it is easy, not because it is hard"
 author: 'wytham.rbind.io'
 date: '2018-03-15'
 slug: contra-jfk-use-r-because-it-is
+link: https://wytham.rbind.io/post/contra-jfk-use-r-because-it-is-easy/
 categories:
 - bloglink
 tags:

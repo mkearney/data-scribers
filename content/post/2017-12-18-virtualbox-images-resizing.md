@@ -3,6 +3,7 @@ title: "Virtualbox images resizing"
 author: 'roelandtn.frama.io'
 date: '2017-12-18'
 slug: virtualbox-images-resizing
+link: https://roelandtn.frama.io/post/virtualbox-images-resizing/
 categories:
 - bloglink
 tags:

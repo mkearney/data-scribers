@@ -3,6 +3,7 @@ title: "I'll take 'Famous Titles' for $400 Alex.  #IVMOOC Week 4"
 author: 'www.jakekaupp.com'
 date: '2015-02-12'
 slug: ill-take-famous-titles-for-400
+link: http://www.jakekaupp.com/post/content/post/2015-02-12-ill-take-famous-titles-for-400-alex-ivmooc-week-4/
 categories:
 - bloglink
 tags:

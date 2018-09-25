@@ -3,6 +3,7 @@ title: "Who knew likelihood functions could be so pretty?"
 author: 'www.rdatagen.net'
 date: '2017-10-23'
 slug: who-knew-likelihood-functions-
+link: https://www.rdatagen.net/post/mle-can-be-pretty/
 categories:
 - bloglink
 tags:

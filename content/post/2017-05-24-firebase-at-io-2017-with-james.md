@@ -3,6 +3,7 @@ title: "Firebase at I/O 2017 with James Tamplin and Andrew Lee"
 author: 'gcppodcast.com'
 date: '2017-05-24'
 slug: firebase-at-io-2017-with-james
+link: https://www.gcppodcast.com/post/episode-78-firebase-at-io-2017-with-james-tamplin-and-andrew-lee/
 categories:
 - bloglink
 tags:

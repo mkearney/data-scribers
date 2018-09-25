@@ -3,6 +3,7 @@ title: "Labelling dataviz"
 author: 'mikewk.com'
 date: '2018-09-20'
 slug: labelling-dataviz
+link: https://mikewk.com/post/2018-09-20-labelling-dataviz/
 categories:
 - bloglink
 tags:

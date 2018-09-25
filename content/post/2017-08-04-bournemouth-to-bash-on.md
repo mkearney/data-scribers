@@ -3,6 +3,7 @@ title: "Bournemouth to bash on?"
 author: 'www.mytinyshinys.com'
 date: '2017-08-04'
 slug: bournemouth-to-bash-on
+link: https://www.mytinyshinys.com/2017/08/04/socceriimprovers/
 categories:
 - bloglink
 tags:

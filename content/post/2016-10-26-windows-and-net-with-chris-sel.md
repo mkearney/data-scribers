@@ -3,6 +3,7 @@ title: "Windows and .NET with Chris Sells and Amruta Gulanikar"
 author: 'gcppodcast.com'
 date: '2016-10-26'
 slug: windows-and-net-with-chris-sel
+link: https://www.gcppodcast.com/post/episode-49-windows-and-dot-net-with-chris-and-amruta/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "R-Ladies presentation ninja"
 author: 'alison.rbind.io'
 date: '2017-12-18'
 slug: rladies-presentation-ninja
+link: https://alison.rbind.io/post/r-ladies-slides/
 categories:
 - bloglink
 tags:

@@ -3,10 +3,12 @@ title: "Reading vintage magazines with `hocr`"
 author: 'www.ddrive.no'
 date: '2018-08-01'
 slug: reading-vintage-magazines-with
+link: https://www.ddrive.no/post/reading-vintage-magazines-with-hocr/
 categories:
 - bloglink
 tags:
   - rstats
+  - python
   - modeling
   - ddriveno
 ---

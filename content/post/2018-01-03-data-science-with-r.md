@@ -3,6 +3,7 @@ title: "Data Science with R"
 author: 'www.jessemaegan.com'
 date: '2018-01-03'
 slug: data-science-with-r
+link: https://www.jessemaegan.com/post/data-science-with-r-how-do-i-start/
 categories:
 - bloglink
 tags:

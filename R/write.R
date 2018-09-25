@@ -58,6 +58,7 @@ write_post <- function(url, pubdate, title, link, description) {
     author: '{author}'
     date: '{pubdate}'
     slug: {slug}
+    link: {link}
     categories:
     - bloglink
     tags:

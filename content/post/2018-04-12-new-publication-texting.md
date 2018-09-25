@@ -3,6 +3,7 @@ title: "New Publication: Texting"
 author: 'www.aggieerin.com'
 date: '2018-04-12'
 slug: new-publication-texting
+link: https://doomlab.github.io/post/new-publication-texting/
 categories:
 - bloglink
 tags:

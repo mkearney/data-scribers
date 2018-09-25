@@ -3,6 +3,7 @@ title: "knitrProgressBar Package"
 author: 'rmflight.github.io'
 date: '2018-02-19'
 slug: knitrprogressbar-package
+link: http://rmflight.github.io/post/knitrprogressbar/
 categories:
 - bloglink
 tags:

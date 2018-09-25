@@ -3,6 +3,7 @@ title: "Analysis of the Renert - Part 2"
 author: 'www.blog.rdata.lu'
 date: '2018-01-24'
 slug: analysis-of-the-renert-part-2
+link: http://www.blog.rdata.lu/post/2018-01-24-analysis-of-the-renert-part-2/
 categories:
 - bloglink
 tags:

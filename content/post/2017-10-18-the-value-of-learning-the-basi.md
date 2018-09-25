@@ -3,6 +3,7 @@ title: "The Value of Learning the Basics"
 author: 'thug-r.life'
 date: '2017-10-18'
 slug: the-value-of-learning-the-basi
+link: http://thug-r.life/post/2017-10-18-the-value-of-learning-the-basics/
 categories:
 - bloglink
 tags:

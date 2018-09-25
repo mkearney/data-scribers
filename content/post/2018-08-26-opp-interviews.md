@@ -3,6 +3,7 @@ title: "OPP Interviews"
 author: 'www.openplantpathology.org'
 date: '2018-08-26'
 slug: opp-interviews
+link: https://openplantpathology.org/post/2018-08-26-interview-grunwald/
 categories:
 - bloglink
 tags:

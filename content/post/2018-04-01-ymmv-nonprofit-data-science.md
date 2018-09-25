@@ -3,6 +3,7 @@ title: "YMMV: non-profit data science"
 author: 'www.jessemaegan.com'
 date: '2018-04-01'
 slug: ymmv-nonprofit-data-science
+link: https://www.jessemaegan.com/post/ymmv-non-profit-data-science/
 categories:
 - bloglink
 tags:

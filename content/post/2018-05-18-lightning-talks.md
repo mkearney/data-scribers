@@ -3,6 +3,7 @@ title: "Lightning Talks!"
 author: 'www.rladiesnyc.org'
 date: '2018-05-18'
 slug: lightning-talks
+link: http://www.rladiesnyc.org/post/lightning-talks/
 categories:
 - bloglink
 tags:

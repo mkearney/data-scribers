@@ -3,9 +3,11 @@ title: "Tabulating File Information"
 author: 'www.mytinyshinys.com'
 date: '2018-03-28'
 slug: tabulating-file-information
+link: https://www.mytinyshinys.com/2018/03/28/tabulating-file-information/
 categories:
 - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

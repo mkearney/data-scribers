@@ -3,10 +3,12 @@ title: "Linear Models"
 author: 'mouse-imaging-centre.github.io/blog'
 date: '2018-07-06'
 slug: linear-models
+link: https://mouse-imaging-centre.github.io/blog/blog/post/2018-07-06_linearmodelserrors/
 categories:
 - bloglink
 tags:
   - rstats
+  - python
   - modeling
   - mouseimagingcentregithubioblog
 ---

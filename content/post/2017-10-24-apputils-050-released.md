@@ -3,6 +3,7 @@ title: "apputils 0.5.0 released"
 author: 'leonawicz.github.io/blog'
 date: '2017-10-24'
 slug: apputils-050-released
+link: https://leonawicz.github.io/blog/post/apputils-0-5-0-released/
 categories:
 - bloglink
 tags:

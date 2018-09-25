@@ -73,3 +73,13 @@ img {
 td {
   vertical-align: top;
 }
+
+main ul li a {
+ font-family: $secondary-font;
+  font-weight: $secondary-medium;
+  font-style: italic;
+  opacity: .9;
+}
+main ul li a:hover {
+  color: $red !important;
+}

@@ -3,6 +3,7 @@ title: "Parliament's gender problem"
 author: 'jesse.tw'
 date: '2018-02-14'
 slug: parliaments-gender-problem
+link: https://jesse.tw/post/parliament-gender/
 categories:
 - bloglink
 tags:

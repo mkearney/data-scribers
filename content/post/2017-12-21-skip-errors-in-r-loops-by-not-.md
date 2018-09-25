@@ -3,6 +3,7 @@ title: "Skip errors in R loops by not writing loops"
 author: 'www.blog.rdata.lu'
 date: '2017-12-21'
 slug: skip-errors-in-r-loops-by-not-
+link: http://www.blog.rdata.lu/post/2017-12-21-skip-errors-in-r-by-not-writing-loops/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Site Reliability Engineering with Paul Newson"
 author: 'gcppodcast.com'
 date: '2016-08-10'
 slug: site-reliability-engineering-w
+link: https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/
 categories:
 - bloglink
 tags:

@@ -3,9 +3,11 @@ title: "Pepper et Carrot"
 author: 'roelandtn.frama.io'
 date: '2017-09-12'
 slug: pepper-et-carrot
+link: https://roelandtn.frama.io/post/pepper-et-carrot/
 categories:
 - bloglink
 tags:
+  - python
   - roelandtnframaio
 ---
 

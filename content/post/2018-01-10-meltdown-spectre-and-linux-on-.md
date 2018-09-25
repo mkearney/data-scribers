@@ -3,6 +3,7 @@ title: "Meltdown, Spectre and Linux on AWS"
 author: 'cevo.com.au'
 date: '2018-01-10'
 slug: meltdown-spectre-and-linux-on-
+link: https://cevo.com.au/post/2018-01-10-ec2-pcid-instance-types/
 categories:
 - bloglink
 tags:

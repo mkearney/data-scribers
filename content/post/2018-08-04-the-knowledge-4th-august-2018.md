@@ -3,6 +3,7 @@ title: "The Knowledge 4th August 2018"
 author: 'www.robert-hickman.eu'
 date: '2018-08-04'
 slug: the-knowledge-4th-august-2018
+link: http://www.robert-hickman.eu/post/the-knowledge-4th-august-2018/
 categories:
 - bloglink
 tags:

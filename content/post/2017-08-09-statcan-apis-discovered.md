@@ -3,6 +3,7 @@ title: "StatCan API's Discovered"
 author: 'www.mytinyshinys.com'
 date: '2017-08-09'
 slug: statcan-apis-discovered
+link: https://www.mytinyshinys.com/2017/08/09/statcanapi/
 categories:
 - bloglink
 tags:

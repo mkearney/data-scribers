@@ -3,6 +3,7 @@ title: "Twitter recommends stats books"
 author: 'thestudyofthehousehold.com'
 date: '2016-12-02'
 slug: twitter-recommends-stats-books
+link: http://thestudyofthehousehold.com/2016/12/02/2016-12-02-twitter-recommends-stats-books/
 categories:
 - bloglink
 tags:

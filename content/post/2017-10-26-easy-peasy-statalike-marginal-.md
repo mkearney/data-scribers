@@ -3,9 +3,11 @@ title: "Easy peasy STATA-like marginal effects with R"
 author: 'www.blog.rdata.lu'
 date: '2017-10-26'
 slug: easy-peasy-statalike-marginal-
+link: http://www.blog.rdata.lu/post/2017-10-26-easy-peasy-stata-like-marginal-effect-with-r/
 categories:
 - bloglink
 tags:
+  - rstats
   - blogrdatalu
 ---
 

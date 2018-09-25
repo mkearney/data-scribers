@@ -3,6 +3,7 @@ title: "Barriers & Analytics"
 author: 'www.jakekaupp.com'
 date: '2014-11-03'
 slug: barriers-analytics
+link: http://www.jakekaupp.com/post/content/post/2014-11-03-barriers-analytics/
 categories:
 - bloglink
 tags:

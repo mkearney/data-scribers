@@ -3,6 +3,7 @@ title: "Workshop materials"
 author: 'theaknowles.com'
 date: '2018-03-09'
 slug: workshop-materials
+link: http://theaknowles.com/post/workshop-using-r-markdown-to-generate-summary-reports-and-manuscripts/
 categories:
 - bloglink
 tags:

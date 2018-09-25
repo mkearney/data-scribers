@@ -3,6 +3,7 @@ title: "Financial Numerical Methods - Part 1"
 author: 'blog.davisvaughan.com'
 date: '2017-08-28'
 slug: financial-numerical-methods-pa
+link: https://blog.davisvaughan.com/post/fin-num-methods-1/
 categories:
 - bloglink
 tags:

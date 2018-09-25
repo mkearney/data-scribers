@@ -3,6 +3,7 @@ title: "Girls In Tech"
 author: 'cevo.com.au'
 date: '2016-08-19'
 slug: girls-in-tech
+link: https://cevo.com.au/community/2016/08/19/girls-in-tech.html
 categories:
 - bloglink
 tags:

@@ -3,9 +3,11 @@ title: "tidytext analysis of TED talks"
 author: 'martakolczynska.com'
 date: '2018-08-22'
 slug: tidytext-analysis-of-ted-talks
+link: https://martakolczynska.com/post/ted-talks/
 categories:
 - bloglink
 tags:
+  - rstats
   - martakolczynskacom
 ---
 

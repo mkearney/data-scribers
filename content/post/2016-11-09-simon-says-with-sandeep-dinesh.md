@@ -3,6 +3,7 @@ title: "Simon Says with Sandeep Dinesh"
 author: 'gcppodcast.com'
 date: '2016-11-09'
 slug: simon-says-with-sandeep-dinesh
+link: https://www.gcppodcast.com/post/episode-51-simon-says-with-sandeep-dinesh/
 categories:
 - bloglink
 tags:

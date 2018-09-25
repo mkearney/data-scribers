@@ -3,6 +3,7 @@ title: "Integrating dplyr with Remote databases"
 author: 'www.mytinyshinys.com'
 date: '2017-05-23'
 slug: integrating-dplyr-with-remote-
+link: https://www.mytinyshinys.com/2017/05/23/remotedatabases/
 categories:
 - bloglink
 tags:

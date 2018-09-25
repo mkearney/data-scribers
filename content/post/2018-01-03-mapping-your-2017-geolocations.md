@@ -3,9 +3,11 @@ title: "Mapping your 2017 Geolocations"
 author: 'favstats.netlify.com'
 date: '2018-01-03'
 slug: mapping-your-2017-geolocations
+link: https://favstats.netlify.com/post/tidylocations/
 categories:
 - bloglink
 tags:
+  - rstats
   - favstatsnetlifycom
 ---
 

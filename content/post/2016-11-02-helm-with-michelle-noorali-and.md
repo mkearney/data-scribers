@@ -3,6 +3,7 @@ title: "Helm with Michelle Noorali and Matthew Butcher"
 author: 'gcppodcast.com'
 date: '2016-11-02'
 slug: helm-with-michelle-noorali-and
+link: https://www.gcppodcast.com/post/episode-50-helm-with-michelle-noorali-and-matthew-butcher/
 categories:
 - bloglink
 tags:

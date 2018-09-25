@@ -3,6 +3,7 @@ title: "Bayesian Estimation of Signal Detection Models, Part 3"
 author: 'vuorre.netlify.com'
 date: '2017-10-16'
 slug: bayesian-estimation-of-signal-
+link: https://vuorre.netlify.com/post/2017/bayesian-estimation-of-signal-detection-theory-models-part-3/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Learning to Learn"
 author: 'www.jessemaegan.com'
 date: '2018-08-12'
 slug: learning-to-learn
+link: https://www.jessemaegan.com/post/learning-to-learn-process-over-product/
 categories:
 - bloglink
 tags:

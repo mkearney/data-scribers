@@ -3,6 +3,7 @@ title: "My favorite Sports Youtube Channels"
 author: 'sciathlon.github.io'
 date: '2018-01-09'
 slug: my-favorite-sports-youtube-cha
+link: https://Sciathlon.github.io/post/best-sports-channels/
 categories:
 - bloglink
 tags:

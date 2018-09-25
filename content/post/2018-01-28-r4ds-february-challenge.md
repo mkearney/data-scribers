@@ -3,6 +3,7 @@ title: "R4DS February Challenge"
 author: 'www.jessemaegan.com'
 date: '2018-01-28'
 slug: r4ds-february-challenge
+link: https://www.jessemaegan.com/post/r4ds-february-challenge-winning/
 categories:
 - bloglink
 tags:

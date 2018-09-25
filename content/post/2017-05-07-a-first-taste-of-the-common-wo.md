@@ -3,6 +3,7 @@ title: "A first taste of the common workflow language, part 1."
 author: 'dscinomics.com'
 date: '2017-05-07'
 slug: a-first-taste-of-the-common-wo
+link: https://dscinomics.com/post/2017-05-07-taste-of-cwl-part1/
 categories:
 - bloglink
 tags:

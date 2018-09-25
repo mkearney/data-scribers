@@ -3,6 +3,7 @@ title: "Randomize by, or within, cluster?"
 author: 'www.rdatagen.net'
 date: '2018-07-19'
 slug: randomize-by-or-within-cluster
+link: https://www.rdatagen.net/post/by-vs-within/
 categories:
 - bloglink
 tags:

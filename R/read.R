@@ -17,15 +17,24 @@ saveRDS(b0, "~/Dropbox/list-of-blogs-og.rds")
 r <- search_tweets(paste0('((rstats OR #R OR tidyverse OR ggplot2 OR ggplot OR ',
   'dplyr OR tidyeval OR rstudio) OR ("R package")) url:post'),
   include_rts = TRUE, n = 5000, verbose = FALSE)
+r2 <- search_tweets(paste0('((rstats OR #R OR tidyverse OR ggplot2 OR ggplot OR ',
+  'dplyr OR tidyeval OR rstudio) OR ("R package")) url:2018/', substr(Sys.Date(), 6, 7)),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
 p <- search_tweets(paste0('((python AND pandas) OR numpy OR #python OR pytorch ',
   'OR #jupyter) OR ("python library") url:post'),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
+p2 <- search_tweets(paste0('((python AND pandas) OR numpy OR #python OR pytorch ',
+  'OR #jupyter) OR ("python library") url:2018/', substr(Sys.Date(), 6, 7)),
   include_rts = TRUE, n = 5000, verbose = FALSE)
 m <- search_tweets(paste0('"machine learning" OR keras OR tensorflow OR "neural ',
   'network" OR "neural networks" OR "deep learning" url:post'),
   include_rts = TRUE, n = 5000, verbose = FALSE)
+m2 <- search_tweets(paste0('"machine learning" OR keras OR tensorflow OR "neural ',
+  'network" OR "neural networks" OR "deep learning" url:2018/', substr(Sys.Date(), 6, 7)),
+  include_rts = TRUE, n = 5000, verbose = FALSE)
 
 ## merge into single data frame
-b <- bind_rows(r, p, m)
+b <- bind_rows(r, r2, p, p2, m, m2)
 
 ## filter, format, and merge with original blog links
 b_links <- b %>%
@@ -34,12 +43,13 @@ b_links <- b %>%
 	  text, ignore.case = TRUE)) %>%
 	pull(urls_expanded_url) %>%
 	unlist() %>%
-	grep("\\/post\\/", ., value = TRUE) %>%
+	grep("\\/post\\/|/2018/\\d{2}", ., value = TRUE) %>%
   grep("curiouscat|r-bloggers", ., invert = TRUE, value = TRUE) %>%
   sub("\\/post.*", "", .) %>%
-  sub("/2018/\\d{2}/\\d{2}/content", "", .) %>%
+  sub("/2018/\\d{2}/.*", "", .) %>%
   c(b0) %>%
-  sub("/2018/\\d{2}/\\d{2}/content", "", .) %>%
+  sub("\\#.*|\\?", "", .) %>%
+  sub("/2018/\\d{2}/.*", "", .) %>%
   unique() %>%
 	sort()
 
@@ -48,6 +58,13 @@ uq <- sub("https?://", "", b_links)
 uq <- gsub("^www\\.|/$", "", uq)
 b_links <- b_links[!(grepl("netlify", b_links) & duplicated(sub("\\.netlify", "", uq))) |
   duplicated(uq)]
+
+drop <- sort(table(gsub("https?://|/[^/]+$", "", b_links)))
+drop <- drop[drop > 1]
+drop <- gsub("\\.", "\\\\.", names(drop))
+drop <- paste0(drop, collapse = "|")
+b_links <- grep(drop, b_links, ignore.case = TRUE, invert = TRUE,
+  value = TRUE)
 
 ## save updated b_links list
 saveRDS(b_links, "~/Dropbox/list-of-blogs-final.rds")
@@ -121,7 +138,7 @@ blogs_data$link <- ifelse(grepl("^http", blogs_data$link),
 ## filter only blog posts
 blogs_data <- blogs_data %>%
   arrange(desc(pubdate)) %>%
-  filter(grepl("(/post/)|(201\\d/\\d{2}/\\d{2}/\\S+)", link)) %>%
+  filter(grepl("(/post/)|(201\\d/\\d{2}/\\S+)", link)) %>%
   unique()
 
 ## remove duplicates

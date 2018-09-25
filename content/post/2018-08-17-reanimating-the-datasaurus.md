@@ -3,6 +3,7 @@ title: "Reanimating the Datasaurus"
 author: 'r-mageddon.netlify.com'
 date: '2018-08-17'
 slug: reanimating-the-datasaurus
+link: https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/
 categories:
 - bloglink
 tags:

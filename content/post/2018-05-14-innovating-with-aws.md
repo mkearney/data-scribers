@@ -3,6 +3,7 @@ title: "Innovating with AWS"
 author: 'cevo.com.au'
 date: '2018-05-14'
 slug: innovating-with-aws
+link: https://cevo.com.au/post/2018-05-11-aws-summit-18-panel-video/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Functional peace of mind"
 author: 'www.blog.rdata.lu'
 date: '2017-11-14'
 slug: functional-peace-of-mind
+link: http://www.blog.rdata.lu/post/2017-11-14-functional-peace-of-mind/
 categories:
 - bloglink
 tags:

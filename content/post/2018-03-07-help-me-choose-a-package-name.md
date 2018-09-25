@@ -3,6 +3,7 @@ title: "Help Me Choose a Package Name"
 author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-07'
 slug: help-me-choose-a-package-name
+link: https://mailund.github.io/r-programmer-blog/2018/03/07/help-me-choose-a-name/
 categories:
 - bloglink
 tags:

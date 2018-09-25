@@ -3,9 +3,11 @@ title: "Cranlogs Dashboard"
 author: 'www.mytinyshinys.com'
 date: '2016-11-27'
 slug: cranlogs-dashboard
+link: https://www.mytinyshinys.com/2016/11/27/cranlogs-dashboard/
 categories:
 - bloglink
 tags:
+  - rstats
   - mytinyshinyscom
 ---
 

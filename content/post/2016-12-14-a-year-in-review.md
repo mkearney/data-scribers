@@ -3,6 +3,7 @@ title: "A Year in Review"
 author: 'gcppodcast.com'
 date: '2016-12-14'
 slug: a-year-in-review
+link: https://www.gcppodcast.com/post/episode-56-a-year-in-review/
 categories:
 - bloglink
 tags:

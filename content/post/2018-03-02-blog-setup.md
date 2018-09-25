@@ -3,6 +3,7 @@ title: "Blog Setup"
 author: 'mailund.github.io/r-programmer-blog'
 date: '2018-03-02'
 slug: blog-setup
+link: https://mailund.github.io/r-programmer-blog/2018/03/02/blog-setup/
 categories:
 - bloglink
 tags:

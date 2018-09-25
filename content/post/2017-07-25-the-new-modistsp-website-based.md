@@ -3,6 +3,7 @@ title: "The new MODIStsp website (based on pkgdown) is online !"
 author: 'lbusett.netlify.com'
 date: '2017-07-25'
 slug: the-new-modistsp-website-based
+link: https://lbusett.netlify.com/post/the-new-modistsp-website-based-on-pkgdown-is-online/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Validating survey data"
 author: 'martakolczynska.com'
 date: '2018-08-13'
 slug: validating-survey-data
+link: https://martakolczynska.com/post/education-sdr-oecd/
 categories:
 - bloglink
 tags:

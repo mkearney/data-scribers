@@ -3,6 +3,7 @@ title: "Spinnaker with Steven Kim and Christopher Sanson"
 author: 'gcppodcast.com'
 date: '2017-06-07'
 slug: spinnaker-with-steven-kim-and-
+link: https://www.gcppodcast.com/post/episode-80-spinnaker-with-steven-kim-and-christopher-sanson/
 categories:
 - bloglink
 tags:

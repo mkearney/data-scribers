@@ -3,6 +3,7 @@ title: "Theme Update"
 author: 'www.mytinyshinys.com'
 date: '2017-05-29'
 slug: theme-update
+link: https://www.mytinyshinys.com/2017/05/29/welcome/
 categories:
 - bloglink
 tags:

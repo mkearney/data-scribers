@@ -3,6 +3,7 @@ title: "Cloud Abuse with Swati Kulshreshth and Emeka Okonkwo"
 author: 'gcppodcast.com'
 date: '2016-10-12'
 slug: cloud-abuse-with-swati-kulshre
+link: https://www.gcppodcast.com/post/episode-47-cloud-abuse-with-swati-and-emeka/
 categories:
 - bloglink
 tags:

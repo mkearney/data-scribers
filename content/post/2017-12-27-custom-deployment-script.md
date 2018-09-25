@@ -3,6 +3,7 @@ title: "Custom Deployment Script"
 author: 'rmflight.github.io'
 date: '2017-12-27'
 slug: custom-deployment-script
+link: http://rmflight.github.io/post/custom-deployment-script/
 categories:
 - bloglink
 tags:

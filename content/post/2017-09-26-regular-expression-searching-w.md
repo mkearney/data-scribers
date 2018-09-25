@@ -3,6 +3,7 @@ title: "Regular Expression Searching within Shiny Selectize Objects"
 author: 'yonicd.netlify.com'
 date: '2017-09-26'
 slug: regular-expression-searching-w
+link: https://yonicd.netlify.com/post/2017-09-26-regexselect/
 categories:
 - bloglink
 tags:

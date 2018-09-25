@@ -3,6 +3,7 @@ title: "Is the EC2 Container Service a bad idea?"
 author: 'cevo.com.au'
 date: '2015-09-06'
 slug: is-the-ec2-container-service-a
+link: https://cevo.com.au/devops/2015/09/06/is-the-ec2-container-service-a-bad-idea.html
 categories:
 - bloglink
 tags:

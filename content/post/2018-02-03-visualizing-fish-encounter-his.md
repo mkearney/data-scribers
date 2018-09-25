@@ -3,6 +3,7 @@ title: "Visualizing Fish Encounter Histories"
 author: 'fishsciences.github.io'
 date: '2018-02-03'
 slug: visualizing-fish-encounter-his
+link: https://fishsciences.github.io/post/visualizing-fish-encounter-histories/
 categories:
 - bloglink
 tags:

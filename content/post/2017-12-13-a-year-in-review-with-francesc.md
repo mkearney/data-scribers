@@ -3,6 +3,7 @@ title: "A Year in Review with Francesc Campoy Flores and Greg Wilson"
 author: 'gcppodcast.com'
 date: '2017-12-13'
 slug: a-year-in-review-with-francesc
+link: https://www.gcppodcast.com/post/episode-107-a-year-in-review-with-francesc-campoy-flores-and-greg-wilson/
 categories:
 - bloglink
 tags:

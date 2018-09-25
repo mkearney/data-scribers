@@ -3,6 +3,7 @@ title: "Unsupervised Categorical Distribution in JAGS"
 author: 'bayesianbabes.netlify.com'
 date: '2018-05-12'
 slug: unsupervised-categorical-distr
+link: https://bayesianbabes.netlify.com/post/unsupervised-categorical-distribution-in-jags/
 categories:
 - bloglink
 tags:

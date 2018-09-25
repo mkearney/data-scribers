@@ -3,6 +3,7 @@ title: "mutate + if else = new conditional variable"
 author: 'jenrichmond.rbind.io'
 date: '2018-09-07'
 slug: mutate-if-else-new-conditional
+link: http://jenrichmond.rbind.io/post/mutate-and-if-else-to-create-new-variables/
 categories:
 - bloglink
 tags:

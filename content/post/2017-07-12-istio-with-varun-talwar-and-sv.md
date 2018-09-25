@@ -3,6 +3,7 @@ title: "Istio with Varun Talwar and Sven Mawson"
 author: 'gcppodcast.com'
 date: '2017-07-12'
 slug: istio-with-varun-talwar-and-sv
+link: https://www.gcppodcast.com/post/episode-85-istio-with-varun-talwar-and-sven-mawson/
 categories:
 - bloglink
 tags:

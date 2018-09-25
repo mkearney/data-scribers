@@ -3,6 +3,7 @@ title: "Tidy evaluation"
 author: 'www.rladiesnyc.org'
 date: '2018-04-19'
 slug: tidy-evaluation
+link: http://www.rladiesnyc.org/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/
 categories:
 - bloglink
 tags:

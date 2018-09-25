@@ -3,6 +3,7 @@ title: "Stackdriver Diagnostics Tools with Sharat Shroff and Morgan McLean"
 author: 'gcppodcast.com'
 date: '2016-07-20'
 slug: stackdriver-diagnostics-tools-
+link: https://www.gcppodcast.com/post/episode-35-stackdriver-diagnostics/
 categories:
 - bloglink
 tags:

@@ -3,6 +3,7 @@ title: "Ruby with Aja Hammerly"
 author: 'gcppodcast.com'
 date: '2016-11-23'
 slug: ruby-with-aja-hammerly
+link: https://www.gcppodcast.com/post/episode-53-ruby-with-aja-hammerly/
 categories:
 - bloglink
 tags:

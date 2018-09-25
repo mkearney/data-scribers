@@ -3,6 +3,7 @@ title: "Searching Stack Overflow"
 author: 'www.mytinyshinys.com'
 date: '2017-10-10'
 slug: searching-stack-overflow
+link: https://www.mytinyshinys.com/2017/10/10/searching-stack-overflow/
 categories:
 - bloglink
 tags:

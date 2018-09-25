@@ -3,6 +3,7 @@ title: "Building my website with Blogdown"
 author: 'www.noahlandesberg.com'
 date: '2017-10-15'
 slug: building-my-website-with-blogd
+link: https://noahlandesberg.com/post/building-my-website-with-blogdown/
 categories:
 - bloglink
 tags:

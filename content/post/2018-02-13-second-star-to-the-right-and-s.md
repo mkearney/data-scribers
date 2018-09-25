@@ -3,6 +3,7 @@ title: "Second star to the right and straight on 'til morning"
 author: 'www.jakekaupp.com'
 date: '2018-02-13'
 slug: second-star-to-the-right-and-s
+link: http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/
 categories:
 - bloglink
 tags:
@@ -10,5 +11,5 @@ tags:
   - jakekauppcom
 ---
 
-The strength of R doesn’t lie in a single programming paradigm, it lies within the warm, welcoming and ecclectic community of useRs. Like anyone who gets introduced to R, you start to look on the web for other like minded people. Upon doing so, you find a vibrant community with very knowledgeable and helpful[... <i class="fas fa-external-link-alt"></i>](http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/)
+The strength of R doesn’t lie in a single programming paradigm, it lies within the warm, welcoming and ecclectic community of useRs. Like anyone who gets introduced to R, you start to look on the web for other like minded people[... <i class="fas fa-external-link-alt"></i>](http://www.jakekaupp.com/post/second-star-to-the-right-and-straight-on-til-morning/)
 

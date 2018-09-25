@@ -3,6 +3,7 @@ title: "What's AI with Melanie Warrick"
 author: 'gcppodcast.com'
 date: '2017-09-06'
 slug: whats-ai-with-melanie-warrick
+link: https://www.gcppodcast.com/post/episode-93-whats-ai-with-melanie-warrick/
 categories:
 - bloglink
 tags:

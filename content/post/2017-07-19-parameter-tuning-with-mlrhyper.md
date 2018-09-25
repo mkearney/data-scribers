@@ -3,9 +3,11 @@ title: "Parameter tuning with mlrHyperopt"
 author: 'mlr-blog.netlify.com'
 date: '2017-07-19'
 slug: parameter-tuning-with-mlrhyper
+link: https://mlr-blog.netlify.com/post/2017-07-19-parameter-tuning-with-mlrhyperopt/
 categories:
 - bloglink
 tags:
+  - rstats
   - mlrblognetlifycom
 ---
 

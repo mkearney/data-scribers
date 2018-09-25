@@ -3,6 +3,7 @@ title: "Ongoing curated list of useful resources for writing articles/theses in 
 author: 'theaknowles.com'
 date: '2018-09-02'
 slug: ongoing-curated-list-of-useful
+link: http://theaknowles.com/post/ongoing-curated-list-of-useful-resources-for-writing-articles-theses-in-rmarkdown/
 categories:
 - bloglink
 tags:

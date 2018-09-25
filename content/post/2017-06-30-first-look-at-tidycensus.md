@@ -3,9 +3,11 @@ title: "First look at Tidycensus"
 author: 'www.mytinyshinys.com'
 date: '2017-06-30'
 slug: first-look-at-tidycensus
+link: https://www.mytinyshinys.com/2017/06/30/tidycensus/
 categories:
 - bloglink
 tags:
+  - rstats
   - modeling
   - mytinyshinyscom
 ---

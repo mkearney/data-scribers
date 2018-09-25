@@ -3,6 +3,7 @@ title: "Geocomputation with R - the intermission"
 author: 'nowosad.github.io'
 date: '2018-01-25'
 slug: geocomputation-with-r-the-inte
+link: https://nowosad.github.io/post/geocomputation-with-r-the-intermission/
 categories:
 - bloglink
 tags:

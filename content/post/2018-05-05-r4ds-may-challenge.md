@@ -3,6 +3,7 @@ title: "R4DS May Challenge"
 author: 'www.jessemaegan.com'
 date: '2018-05-05'
 slug: r4ds-may-challenge
+link: https://www.jessemaegan.com/post/r4ds-may-challenge-sign-up-for-office-hours/
 categories:
 - bloglink
 tags:

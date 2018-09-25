@@ -3,6 +3,7 @@ title: "Copula Resources"
 author: 'blog.davisvaughan.com'
 date: '2018-03-06'
 slug: copula-resources
+link: https://blog.davisvaughan.com/post/copula-resources/
 categories:
 - bloglink
 tags:

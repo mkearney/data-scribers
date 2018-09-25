@@ -3,6 +3,7 @@ title: "How tidyeval could make your life easier"
 author: 'www.blog.rdata.lu'
 date: '2017-08-27'
 slug: how-tidyeval-could-make-your-l
+link: http://www.blog.rdata.lu/post/2017-08-27-how-tidyeval-could-make-your-life-easier/
 categories:
 - bloglink
 tags:

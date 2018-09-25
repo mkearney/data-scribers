@@ -3,9 +3,11 @@ title: "Introducing rhymer"
 author: 'www.noahlandesberg.com'
 date: '2017-12-23'
 slug: introducing-rhymer
+link: https://noahlandesberg.com/post/introducing-rhymer/
 categories:
 - bloglink
 tags:
+  - rstats
   - noahlandesbergcom
 ---
 

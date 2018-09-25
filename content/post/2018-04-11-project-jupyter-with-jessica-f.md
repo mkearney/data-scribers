@@ -3,6 +3,7 @@ title: "Project Jupyter with Jessica Forde, Yuvi Panda and Chris Holdgraf"
 author: 'gcppodcast.com'
 date: '2018-04-11'
 slug: project-jupyter-with-jessica-f
+link: https://www.gcppodcast.com/post/episode-122-project-jupyter-with-jessica-forde-yuvi-panda-and-chris-holdgraf/
 categories:
 - bloglink
 tags:

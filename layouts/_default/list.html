@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<main>
+	<div>
+					<p>
+<ul>
+    {{ $type := .Type }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+        {{ $name := .Name }}
+        {{ $count := .Count }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+            <li><a href="http://{{ .Params.Author }}">{{ .Title }}</a> {{ $count }}</li>
+        {{ end }}
+    {{ end }}
+</ul>
+
+
+</p>
+
+	</div>
+
+</main>
+
+{{ partial "footer.html" . }}
+

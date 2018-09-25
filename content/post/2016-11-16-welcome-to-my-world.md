@@ -3,6 +3,7 @@ title: "Welcome to my World"
 author: 'www.mytinyshinys.com'
 date: '2016-11-16'
 slug: welcome-to-my-world
+link: https://www.mytinyshinys.com/2016/11/16/welcome-to-my-world/
 categories:
 - bloglink
 tags:

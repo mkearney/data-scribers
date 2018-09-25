@@ -3,6 +3,7 @@ title: "Office of the CTO with Greg DeMichillie"
 author: 'gcppodcast.com'
 date: '2017-08-15'
 slug: office-of-the-cto-with-greg-de
+link: https://www.gcppodcast.com/post/episode-90-octo-with-greg-demichillie/
 categories:
 - bloglink
 tags:

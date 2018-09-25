@@ -3,6 +3,7 @@ title: "Speeding up spatial analyses by integrating `sf` and `data.table`"
 author: 'lbusett.netlify.com'
 date: '2018-02-20'
 slug: speeding-up-spatial-analyses-b
+link: https://lbusett.netlify.com/post/speeding-up-spatial-analyses-by-integrating-sf-and-data-table-a-test-case/
 categories:
 - bloglink
 tags:

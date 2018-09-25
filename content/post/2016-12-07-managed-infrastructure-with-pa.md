@@ -3,6 +3,7 @@ title: "Managed Infrastructure with Pawel Siarkiewicz and Jerzy Foryciarz"
 author: 'gcppodcast.com'
 date: '2016-12-07'
 slug: managed-infrastructure-with-pa
+link: https://www.gcppodcast.com/post/episode-55-managed-infrastructure-with-pawel-and-jerzy/
 categories:
 - bloglink
 tags:

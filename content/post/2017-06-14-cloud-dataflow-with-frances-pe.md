@@ -3,6 +3,7 @@ title: "Cloud Dataflow with Frances Perry"
 author: 'gcppodcast.com'
 date: '2017-06-14'
 slug: cloud-dataflow-with-frances-pe
+link: https://www.gcppodcast.com/post/episode-81-cloud-dataflow-with-frances-perry/
 categories:
 - bloglink
 tags:

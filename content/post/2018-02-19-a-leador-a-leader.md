@@ -3,6 +3,7 @@ title: "A Lead...or a Leader?"
 author: 'cevo.com.au'
 date: '2018-02-19'
 slug: a-leador-a-leader
+link: https://cevo.com.au/post/2018-02-20-lead-versus-leader/
 categories:
 - bloglink
 tags:

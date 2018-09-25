@@ -3,6 +3,7 @@ title: "gRPC with Varun Talwar"
 author: 'gcppodcast.com'
 date: '2016-03-01'
 slug: grpc-with-varun-talwar
+link: https://www.gcppodcast.com/post/episode-15-grpc-with-varun-tarwal/
 categories:
 - bloglink
 tags:

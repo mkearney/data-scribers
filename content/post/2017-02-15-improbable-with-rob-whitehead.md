@@ -3,6 +3,7 @@ title: "Improbable with Rob Whitehead"
 author: 'gcppodcast.com'
 date: '2017-02-15'
 slug: improbable-with-rob-whitehead
+link: https://www.gcppodcast.com/post/episode-61-improbable-with-rob-whitehead/
 categories:
 - bloglink
 tags:

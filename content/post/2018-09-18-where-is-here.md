@@ -3,6 +3,7 @@ title: "where is here?"
 author: 'jenrichmond.rbind.io'
 date: '2018-09-18'
 slug: where-is-here
+link: http://jenrichmond.rbind.io/post/where-is-here/
 categories:
 - bloglink
 tags:

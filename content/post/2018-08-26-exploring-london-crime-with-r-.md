@@ -3,6 +3,7 @@ title: "Exploring London Crime with R heat maps"
 author: 'r-tastic.co.uk'
 date: '2018-08-26'
 slug: exploring-london-crime-with-r-
+link: https://r-tastic.co.uk/post/exploring-london-crime-with-r-heat-maps/
 categories:
 - bloglink
 tags:

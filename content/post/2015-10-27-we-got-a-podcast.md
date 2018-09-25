@@ -3,6 +3,7 @@ title: "We Got a Podcast!"
 author: 'gcppodcast.com'
 date: '2015-10-27'
 slug: we-got-a-podcast
+link: https://www.gcppodcast.com/post/episode-1-we-got-a-podcast/
 categories:
 - bloglink
 tags:

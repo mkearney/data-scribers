@@ -714,6 +714,24 @@
     </item>
     
     <item>
+      <title>Textmate setup (Mac only)</title>
+      <link>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</guid>
+      <description>Sometimes students are interested in this setup, which is what I’ll document here. Though I want to highlight that you can get a very similar setup using other tools. Note that this setup only works for Mac computers. and under bundle, choose the R bundle as shown below. As you can see, it hasn’t been updated in a while&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contributing to the LIBD rstats club</title>
+      <link>https://data-scribers.mikewk.com/post/contributing-to-the-libd-rstat/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/contributing-to-the-libd-rstat/</guid>
+      <description>We first need to get the appropriate tools installed in our computer. Ok, lets go head and install it with The file structure of our blog involves a total of 3 GitHub repositories that are related to each other as shown below. However, you will only need to interact with one of them&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Interpretable Machine Learning with iml and mlr</title>
       <link>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>

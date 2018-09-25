@@ -1957,6 +1957,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Hacking our way through UpSetR</title>
+      <link>https://data-scribers.mikewk.com/post/hacking-our-way-through-upsetr/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacking-our-way-through-upsetr/</guid>
+      <description>First, let’s install the version we used for this post: Next, we did the same (commas to semicolons) for the inputs of the first example. Our club session was out of time, so we decided to continue our project another day and ask for help on twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Help Needed</title>
       <link>https://data-scribers.mikewk.com/post/help-needed/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
@@ -2350,6 +2359,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/generate-a-reproducible-map-fo/</guid>
       <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>LIBD rstats club remote useR!2018 notes</title>
+      <link>https://data-scribers.mikewk.com/post/libd-rstats-club-remote-user20/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/libd-rstats-club-remote-user20/</guid>
+      <description>Next, check the videos of the talks. There are more videos there than we can check right now but we hope to come back sometime later and check more talks. From checking Twitter, we can say that there lots of great talks and tutorials. Here are some of the main ones we found in this hour&amp;hellip;</description>
     </item>
     
     <item>
@@ -4533,6 +4551,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>git to know git</title>
+      <link>https://data-scribers.mikewk.com/post/git-to-know-git/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/git-to-know-git/</guid>
+      <description>Beyond working on projects with collaborators, using GitHub is equally rewarding when used for individual projects&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Shiny App to Visualize and Share My Dogs’ Medical History</title>
       <link>https://data-scribers.mikewk.com/post/a-shiny-app-to-visualize-and-s/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
@@ -5109,6 +5136,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Introduction to Scraping and Wrangling Tables from Research Articles</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-scraping-and-w/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-scraping-and-w/</guid>
+      <description>Next, get the url of the webpage where the table is stored. This is what the first few lines of our scraped product looks like: While this table has the information we want, it is clearly still a mess&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Brooke Watson</title>
       <link>https://data-scribers.mikewk.com/post/brooke-watson/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
@@ -5298,12 +5334,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Edit your bashrc file for a nicer terminal experience</title>
+      <link>https://data-scribers.mikewk.com/post/edit-your-bashrc-file-for-a-ni/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/edit-your-bashrc-file-for-a-ni/</guid>
+      <description>Next open them with your text editor (say Notepad++, TextMate 2, RStudio, among others) and paste the following contents. The next change will save you a lot of time! Plus it goes nicely with the bash history changes we just made&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Linked lists in matchbox</title>
       <link>https://data-scribers.mikewk.com/post/linked-lists-in-matchbox/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/linked-lists-in-matchbox/</guid>
       <description>I have started playing with data structures in matchbox and the first structure I implement had to be linked lists&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Textmate setup (Mac only)</title>
+      <link>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</guid>
+      <description>Sometimes students are interested in this setup, which is what I’ll document here. Though I want to highlight that you can get a very similar setup using other tools. Note that this setup only works for Mac computers. and under bundle, choose the R bundle as shown below. As you can see, it hasn’t been updated in a while&amp;hellip;</description>
     </item>
     
     <item>
@@ -5316,12 +5370,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Contributing to the LIBD rstats club</title>
+      <link>https://data-scribers.mikewk.com/post/contributing-to-the-libd-rstat/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/contributing-to-the-libd-rstat/</guid>
+      <description>We first need to get the appropriate tools installed in our computer. Ok, lets go head and install it with The file structure of our blog involves a total of 3 GitHub repositories that are related to each other as shown below. However, you will only need to interact with one of them&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Problems With Higher Order Functions in tailr</title>
       <link>https://data-scribers.mikewk.com/post/problems-with-higher-order-fun/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/problems-with-higher-order-fun/</guid>
       <description>Ok, there is a problem with higher-order functions in my tailr package that I ran into while writing linked list functions for my matchbox package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the LIBD rstats club!</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-to-the-libd-rstats-clu/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-to-the-libd-rstats-clu/</guid>
+      <description>PS This is not a course or boot camp site to get started using R, for that there are other resources available&amp;hellip;</description>
     </item>
     
     <item>
@@ -5430,6 +5502,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/copula-resources/</guid>
       <description>A number of resources I found useful while learning about&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Test post for checking website</title>
+      <link>https://data-scribers.mikewk.com/post/test-post-for-checking-website/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/test-post-for-checking-website/</guid>
+      <description>Useful links for editing the theme: This blog post was made possible thanks&amp;hellip;</description>
     </item>
     
     <item>

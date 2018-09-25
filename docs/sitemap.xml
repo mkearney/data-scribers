@@ -1083,6 +1083,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/hacking-our-way-through-upsetr/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/help-needed/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
   </url>
@@ -1299,6 +1304,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/generate-a-reproducible-map-fo/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/libd-rstats-club-remote-user20/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -2513,6 +2523,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/git-to-know-git/</loc>
+    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/a-shiny-app-to-visualize-and-s/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -2833,6 +2848,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/introduction-to-scraping-and-w/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/brooke-watson/</loc>
     <lastmod>2018-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -2938,7 +2958,17 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/edit-your-bashrc-file-for-a-ni/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/linked-lists-in-matchbox/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -2948,7 +2978,17 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/contributing-to-the-libd-rstat/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/problems-with-higher-order-fun/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/welcome-to-the-libd-rstats-clu/</loc>
     <lastmod>2018-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -3009,6 +3049,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/copula-resources/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/test-post-for-checking-website/</loc>
     <lastmod>2018-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -7537,6 +7582,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/rdatagennet/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/researchlibdorgrstatsclub/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Websites With Tilda (Full Review)</title>
+      <link>https://data-scribers.mikewk.com/post/building-websites-with-tilda-f/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-websites-with-tilda-f/</guid>
+      <description>(This is a sponsored article.) The modern web is very unified. Designers use the same patterns, and, as a result, websites created by different people look like clones. The only way to stand out from the crowd is via content. Content is what brings people to your website in the first place&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Dark Patterns And Other Design No-Nos For Mobile</title>

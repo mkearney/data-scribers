@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>let me count the ways</title>
+      <link>https://data-scribers.mikewk.com/post/let-me-count-the-ways/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/let-me-count-the-ways/</guid>
+      <description>When we want to learn how to do something new in R, we all start by googling it. Having worked out simple ANOVA, next on my list is repeated measures. HAHAHAHAHA- got me…. When we were talking one-way ANOVA we used this formula. When participants contribute to all levels of condition, we need to describe that in the error term&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Data Science in Mental Health</title>

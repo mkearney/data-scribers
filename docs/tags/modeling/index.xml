@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>The log-0 problem</title>
+      <link>https://data-scribers.mikewk.com/post/the-log0-problem/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-log0-problem/</guid>
+      <description>This isn’t necessarily an incorrect thing to do. However, I think it is important to step back and think about the study and those 0 values more before forging ahead with adding a constant to the data. Without getting into too much detail, below are some of the things I consider when I have 0 as well as positive values in a response variable&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>#GI2018 - Day Two</title>
       <link>https://data-scribers.mikewk.com/post/gi2018-day-two/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
@@ -126,6 +135,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-august/</guid>
       <description>October - China Mieville China Mieville is a very good science fiction writer, so I was intrigued when I saw that he wrote a book about the Russian revolution of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting started simulating data in R</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</guid>
+      <description>I started out thinking I’d talk about doing simulations. But could I do that in 45 minutes? Maybe not. After much pondering I ended up settling on the topic of how we start a simulation: by making data in R&amp;hellip;</description>
     </item>
     
     <item>
@@ -288,6 +306,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</guid>
       <description>The Dilemmas of Lenin: Terrorism, War, Empire, Love, Revolution by Tariq Ali A very interesting biography of Lenin. The book isn’t a traditional biography. Instead, it’s a kind of intellectual biography focused around particular topics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulate! Simulate! - Part3</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part3/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part3/</guid>
+      <description>One of the things I like about simulations is that, with practice, they can be a quick way to check your intuition about a model or relationship. My most recent example is based on a discussion with a student about quadratic effects&amp;hellip;</description>
     </item>
     
     <item>
@@ -858,6 +885,15 @@
     </item>
     
     <item>
+      <title>Making many added variable plots with purrr and ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</guid>
+      <description>Last week two of my consulting meetings ended up on the same topic: making added variable plots. In both cases, the student had a linear model of some flavor that had several continuous explanatory variables&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Have you ever asked yourself, &#39;how should I approach the classic pre-post analysis?&#39;</title>
       <link>https://data-scribers.mikewk.com/post/have-you-ever-asked-yourself-h/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
@@ -894,6 +930,15 @@
     </item>
     
     <item>
+      <title>Simulate! Simulate! - Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</guid>
+      <description>Confession: I love simulations. In simulations you get to define everything about a model and then see how that model behaves over the long run. It’s like getting the luxury of taking many samples instead of only the one real one we have resources for in an actual study&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data</title>
       <link>https://data-scribers.mikewk.com/post/simulating-a-costeffectiveness/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
@@ -927,6 +972,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/postselection-inference-on-fri/</guid>
       <description>Goal I want to be a Friends scriptwriter. Can I pick a title that makes an episode an automatic classic? If I just include a character’s name in the title, does it make it automatically popular? I assume I should just write “The One Where Rachel is Rachel”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using DHARMa for residual checks of unsupported models</title>
+      <link>https://data-scribers.mikewk.com/post/using-dharma-for-residual-chec/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-dharma-for-residual-chec/</guid>
+      <description>One of the difficult things about working with generalized linear models (GLM) and generalized linear mixed models (GLMM) is figuring out how to interpret residual&amp;hellip;</description>
     </item>
     
     <item>

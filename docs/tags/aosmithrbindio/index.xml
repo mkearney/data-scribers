@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aosmithrbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/aosmithrbindio/</link>
+    <description>Recent content in Aosmithrbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/aosmithrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The log-0 problem</title>
+      <link>https://data-scribers.mikewk.com/post/the-log0-problem/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-log0-problem/</guid>
+      <description>This isn’t necessarily an incorrect thing to do. However, I think it is important to step back and think about the study and those 0 values more before forging ahead with adding a constant to the data. Without getting into too much detail, below are some of the things I consider when I have 0 as well as positive values in a response variable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting started simulating data in R</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</guid>
+      <description>I started out thinking I’d talk about doing simulations. But could I do that in 45 minutes? Maybe not. After much pondering I ended up settling on the topic of how we start a simulation: by making data in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automating exploratory plots with ggplot2 and purrr</title>
+      <link>https://data-scribers.mikewk.com/post/automating-exploratory-plots-w/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automating-exploratory-plots-w/</guid>
+      <description>When you have a lot of variables and need to make a lot exploratory plots it’s usually worthwhile to automate the process in R instead of manually copying and pasting code for every plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating legends when aesthetics are constants in ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/creating-legends-when-aestheti/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-legends-when-aestheti/</guid>
+      <description>It would be nice to know which line came from which model, and adding a legend is one way to do that&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulate! Simulate! - Part3</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part3/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part3/</guid>
+      <description>One of the things I like about simulations is that, with practice, they can be a quick way to check your intuition about a model or relationship. My most recent example is based on a discussion with a student about quadratic effects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Time after time</title>
+      <link>https://data-scribers.mikewk.com/post/time-after-time/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/time-after-time/</guid>
+      <description>I first learned how to check for autocorrelation via autocorrelation function (ACF) plots in R in a class on time series However, the examples we worked on were all single, long term time series with no missing values and no&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A closer look at replicate() and purrr</title>
+      <link>https://data-scribers.mikewk.com/post/a-closer-look-at-replicate-and/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-closer-look-at-replicate-and/</guid>
+      <description>Since I’m going generate random numbers I’ll set the seed so anyone following along at home will see the same values. The output below is a list of three vectors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulate! Simulate! - Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</guid>
+      <description>It wasn’t until I started working with clients and teaching labs on mixed models in R that I learned how to do simulations to understand how well such models worked under various scenarios&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Unstandardizing coefficients from a GLMM</title>
+      <link>https://data-scribers.mikewk.com/post/unstandardizing-coefficients-f/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unstandardizing-coefficients-f/</guid>
+      <description>Winter term grades are in and I can once again scrape together some time to write blog posts! 🎉 I find this comes up particularly for generalized linear mixed models (GLMM), where models don’t always converge if explanatory variables are left&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making many added variable plots with purrr and ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</guid>
+      <description>Last week two of my consulting meetings ended up on the same topic: making added variable plots. In both cases, the student had a linear model of some flavor that had several continuous explanatory variables&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reversing the order of a ggplot2 legend</title>
+      <link>https://data-scribers.mikewk.com/post/reversing-the-order-of-a-ggplo/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reversing-the-order-of-a-ggplo/</guid>
+      <description>It’s always nice to get good questions in a workshop. It can help everybody, including the instructor, get a bit of extra learnin’ in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simulate! Simulate! - Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</guid>
+      <description>Confession: I love simulations. In simulations you get to define everything about a model and then see how that model behaves over the long run. It’s like getting the luxury of taking many samples instead of only the one real one we have resources for in an actual study&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fiesta 2017 gas mileage</title>
+      <link>https://data-scribers.mikewk.com/post/fiesta-2017-gas-mileage/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fiesta-2017-gas-mileage/</guid>
+      <description>It’s January - time to see how we did on car gas mileage last year! We purchased a used 2011 Ford Fiesta in 2016. It replaced a 1991 Honda CRX, which was running like a champ but was starting to look a little, well, limited in its safety features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining many datasets in R</title>
+      <link>https://data-scribers.mikewk.com/post/combining-many-datasets-in-r/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-many-datasets-in-r/</guid>
+      <description>At least once a year I meet with a graduate student who has many separate datasets that need to be combined into a single file. The data are usually from a series of data loggers (e.g., iButtons or RFID readers) that record data remotely over a specified time period&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using DHARMa for residual checks of unsupported models</title>
+      <link>https://data-scribers.mikewk.com/post/using-dharma-for-residual-chec/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-dharma-for-residual-chec/</guid>
+      <description>One of the difficult things about working with generalized linear models (GLM) and generalized linear mixed models (GLMM) is figuring out how to interpret residual&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

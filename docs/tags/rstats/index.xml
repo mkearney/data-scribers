@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>The log-0 problem</title>
+      <link>https://data-scribers.mikewk.com/post/the-log0-problem/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-log0-problem/</guid>
+      <description>This isn’t necessarily an incorrect thing to do. However, I think it is important to step back and think about the study and those 0 values more before forging ahead with adding a constant to the data. Without getting into too much detail, below are some of the things I consider when I have 0 as well as positive values in a response variable&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Building Reproducible Data Packages with DataPackageR</title>
       <link>https://data-scribers.mikewk.com/post/building-reproducible-data-pac/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
@@ -373,6 +382,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Getting started simulating data in R</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-simulating-dat/</guid>
+      <description>I started out thinking I’d talk about doing simulations. But could I do that in 45 minutes? Maybe not. After much pondering I ended up settling on the topic of how we start a simulation: by making data in R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Impact: Depth or Breadth?</title>
       <link>https://data-scribers.mikewk.com/post/impact-depth-or-breadth/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
@@ -505,6 +523,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/wrapping-around-ggplot2-with-g/</guid>
       <description>As an atmospheric scientists, a lot of my research consists on plotting and looking at global fields of atmospheric variables like pressure, temperature and the like. Since our planet is a sphere (well, almost), it is unbound and so longitude is a periodic dimension. That is, to the right of 180°E you go back to 180°W&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automating exploratory plots with ggplot2 and purrr</title>
+      <link>https://data-scribers.mikewk.com/post/automating-exploratory-plots-w/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automating-exploratory-plots-w/</guid>
+      <description>When you have a lot of variables and need to make a lot exploratory plots it’s usually worthwhile to automate the process in R instead of manually copying and pasting code for every plot&amp;hellip;</description>
     </item>
     
     <item>
@@ -1129,6 +1156,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Time after time</title>
+      <link>https://data-scribers.mikewk.com/post/time-after-time/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/time-after-time/</guid>
+      <description>I first learned how to check for autocorrelation via autocorrelation function (ACF) plots in R in a class on time series However, the examples we worked on were all single, long term time series with no missing values and no&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 55-62: R: The Boring Bits</title>
       <link>https://data-scribers.mikewk.com/post/day-5562-r-the-boring-bits/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
@@ -1725,6 +1761,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Simulate! Simulate! - Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</guid>
+      <description>It wasn’t until I started working with clients and teaching labs on mixed models in R that I learned how to do simulations to understand how well such models worked under various scenarios&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>dockerterm</title>
       <link>https://data-scribers.mikewk.com/post/dockerterm/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
@@ -1956,6 +2001,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/lots-of-function-transformatio/</guid>
       <description>The last couple of days I&amp;rsquo;ve been doing a lot of experimenting with a package for function rewriting: foolbox&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Unstandardizing coefficients from a GLMM</title>
+      <link>https://data-scribers.mikewk.com/post/unstandardizing-coefficients-f/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unstandardizing-coefficients-f/</guid>
+      <description>Winter term grades are in and I can once again scrape together some time to write blog posts! 🎉 I find this comes up particularly for generalized linear mixed models (GLMM), where models don’t always converge if explanatory variables are left&amp;hellip;</description>
     </item>
     
     <item>
@@ -2544,6 +2598,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Making many added variable plots with purrr and ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-many-added-variable-plo/</guid>
+      <description>Last week two of my consulting meetings ended up on the same topic: making added variable plots. In both cases, the student had a linear model of some flavor that had several continuous explanatory variables&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Ian Lyttle is the Most Serious Conference Attendee I&#39;ve Met</title>
       <link>https://data-scribers.mikewk.com/post/ian-lyttle-is-the-most-serious/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
@@ -2715,6 +2778,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Simulate! Simulate! - Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-1/</guid>
+      <description>Confession: I love simulations. In simulations you get to define everything about a model and then see how that model behaves over the long run. It’s like getting the luxury of taking many samples instead of only the one real one we have resources for in an actual study&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Congratulations, it&#39;s a Geom! (The ggwithimages Package)</title>
       <link>https://data-scribers.mikewk.com/post/congratulations-its-a-geom-the/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
@@ -2758,6 +2830,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/mapping-your-2017-geolocations/</guid>
       <description>Now in Rstudio, I load in the needed packages: We could also zoom out and get a map from all of Germany If we wanted to save the map on our computer, we could use the following&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining many datasets in R</title>
+      <link>https://data-scribers.mikewk.com/post/combining-many-datasets-in-r/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-many-datasets-in-r/</guid>
+      <description>At least once a year I meet with a graduate student who has many separate datasets that need to be combined into a single file. The data are usually from a series of data loggers (e.g., iButtons or RFID readers) that record data remotely over a specified time period&amp;hellip;</description>
     </item>
     
     <item>

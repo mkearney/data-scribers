@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Harmonizing measures of income in cross-national surveys</title>
+      <link>https://data-scribers.mikewk.com/post/harmonizing-measures-of-income/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/harmonizing-measures-of-income/</guid>
+      <description>Data Number of response options Item non-response Distributions Harmonized target variables Next steps with Przemek Powałko Individual economic status is a necessary element of almost all sociological analyses, including studies of political attitudes and&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Keskilämpötilan muutos kuukausittain Oulussa 1955–2018</title>
       <link>https://data-scribers.mikewk.com/post/keskil%C3%A4mp%C3%B6tilan-muutos-kuukaus/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
@@ -162,6 +171,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/overscoping-and-eval/</guid>
       <description>In my previous post I used the lm function for an example of scope rules, but I left a few details out&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Settlers of Catan - the random generator</title>
+      <link>https://data-scribers.mikewk.com/post/settlers-of-catan-the-random-g/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/settlers-of-catan-the-random-g/</guid>
+      <description>Background Back in March I wrote a blog post about my favourite board game Settlers of Catan. The code generates a random catan board but there is no interactivity for when you want to create a different random board&amp;hellip;</description>
     </item>
     
     <item>
@@ -2740,6 +2758,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>My first hackathon (part 2)</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-hackathon-part-2/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-hackathon-part-2/</guid>
+      <description>Gender pay gap hackathon (part 2) This is part 2 of my blog about the gender pay gap hack that I went to. You can read part 1 here. Reflections It has taken me a long time to write the second part of my experience of the hackathon&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Quick and Dirty Categorical lavaan</title>
       <link>https://data-scribers.mikewk.com/post/quick-and-dirty-categorical-la/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
@@ -2926,6 +2953,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/mail-merge-in-2018-with-r/</guid>
       <description>Matt Dray Two-thousand and late Clip art! Fax machines! CD-ROMs! Dial-up modems! The World Wide Web! Mail merge! These exotic terms give me flashbacks to computer class at the turn of the millennium&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My first hackathon (part 1)</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-hackathon-part-1/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-hackathon-part-1/</guid>
+      <description>Gender pay gap hackathon Last weekend I went to my first hackathon. It was organised by the AI club for gender minorities, codebar and ellpha. We used data on the gender pay gap available here. I had a great time so I wanted to share my experience. This is the first part of my first hackathon&amp;hellip;</description>
     </item>
     
     <item>
@@ -4443,6 +4479,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>My first tidy Tuesday</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-tidy-tuesday/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-tidy-tuesday/</guid>
+      <description>Tidy Tuesday I have seen some cool graphs on twitter created for Tidy Tuesday. I wanted to join in on the fun so I downloaded the data from week 3 and started playinh&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Riddler 27th April 2018</title>
       <link>https://data-scribers.mikewk.com/post/riddler-27th-april-2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -5397,6 +5442,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Settlers of Catan</title>
+      <link>https://data-scribers.mikewk.com/post/settlers-of-catan/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/settlers-of-catan/</guid>
+      <description>Settlers of catan In our living room there is an old chest hiding some real treasures. Every now and again we will get Settlers of Catan out. I never grow tired of playing it as the board changes every time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>tailr v0.1.1</title>
       <link>https://data-scribers.mikewk.com/post/tailr-v011/</link>
       <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
@@ -5655,6 +5709,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/help-me-choose-a-package-name/</guid>
       <description>What&amp;rsquo;s in a name? That which we call a rose By any other word would smell as sweet — William Shakespeare, Romeo and Juliet I have plans for re-implementing several of the data structures I wrote about in Functional Data Structures in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My trip to Mexico in emojis</title>
+      <link>https://data-scribers.mikewk.com/post/my-trip-to-mexico-in-emojis/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-trip-to-mexico-in-emojis/</guid>
+      <description>The code that never really worked This post is the result of hours and hours of me trying to write some code but never getting it quite right. I think that one of the worst things that you can do to yourself is to be scared to admit that you are struggling because you will end up never trying anything new&amp;hellip;</description>
     </item>
     
     <item>
@@ -6711,6 +6774,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>What should I have for lunch?</title>
+      <link>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</guid>
+      <description>Inspiration I was having lunch with some colleagues the other day when they told me about a restaurant spreadsheet that they used to use to randomly pick a place to get lunch from. I of course felt the need to see if I could create something similar in R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How to Pretend Typing Super Fast in RStudio</title>
       <link>https://data-scribers.mikewk.com/post/how-to-pretend-typing-super-fa/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
@@ -6909,6 +6981,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Happy Birthday To Me!</title>
+      <link>https://data-scribers.mikewk.com/post/happy-birthday-to-me/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/happy-birthday-to-me/</guid>
+      <description>Happy Birthday To Me! Today is my birthday. To celebrate I decided to look at what was in the news on January 27 every year since I was born. Mainly I want to see if the news were positive or negative. Getting the data I start buy creating a list of dates&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing geniusR</title>
       <link>https://data-scribers.mikewk.com/post/introducing-geniusr/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
@@ -7059,6 +7140,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/sending-watchmen-into-the-open/</guid>
       <description>Open source software is a decentralised development and distribution model that encourages collaboration in the public domain&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Please like me</title>
+      <link>https://data-scribers.mikewk.com/post/please-like-me/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/please-like-me/</guid>
+      <description>Sundays When I woke up this morning I wrote a long to do list. Instead of working through the list I somehow ended up spending most of my day playing in R. Scraping the web I have been keen to try web scraping in R for a while so I gave rvest a go&amp;hellip;</description>
     </item>
     
     <item>
@@ -7257,6 +7347,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/update-for-the-mexico-project/</guid>
       <description>Hello, the project that I was talking about earlier is finally over&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Regressions using completly fake data!</title>
+      <link>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</guid>
+      <description>Why can’t I just have all of the data? I have been updating some code that uses data that I don’t have access to. I used one of the data sets from the survival package but it annoyed me that the variable names were not what I wanted them to be and I couldn’t be bothered changing them&amp;hellip;</description>
     </item>
     
     <item>
@@ -7600,6 +7699,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/stop-return-early-for-shorter-/</guid>
       <description>I&amp;rsquo;d stop early to reduce the number of lines of code from 7 to 6, and save 8 spaces: Actually if the error message is short enough, I&amp;rsquo;ll remove curly braces: I&amp;rsquo;d write it as: I tend to make code a little dense (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making a map (or my first blogpost)</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</guid>
+      <description>Getting the data A couple of months ago I discovered a package developed by Public Health England that makes it easier to extract the data behind their fingertips website (https://fingertips.phe.org.uk/)[... ](https://emmavestesson.netlify.com/2018/01/maps/)</description>
     </item>
     
     <item>

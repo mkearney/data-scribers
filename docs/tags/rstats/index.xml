@@ -1779,6 +1779,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>My first tidy Tuesday</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-tidy-tuesday/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-tidy-tuesday/</guid>
+      <description>Tidy Tuesday I have seen some cool graphs on twitter created for Tidy Tuesday. I wanted to join in on the fun so I downloaded the data from week 3 and started playinh&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Riddler 27th April 2018</title>
       <link>https://data-scribers.mikewk.com/post/riddler-27th-april-2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -2643,6 +2652,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>What should I have for lunch?</title>
+      <link>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</guid>
+      <description>Inspiration I was having lunch with some colleagues the other day when they told me about a restaurant spreadsheet that they used to use to randomly pick a place to get lunch from. I of course felt the need to see if I could create something similar in R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How to Pretend Typing Super Fast in RStudio</title>
       <link>https://data-scribers.mikewk.com/post/how-to-pretend-typing-super-fa/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
@@ -2787,6 +2805,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Please like me</title>
+      <link>https://data-scribers.mikewk.com/post/please-like-me/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/please-like-me/</guid>
+      <description>Sundays When I woke up this morning I wrote a long to do list. Instead of working through the list I somehow ended up spending most of my day playing in R. Scraping the web I have been keen to try web scraping in R for a while so I gave rvest a go&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R figure skating analysis</title>
       <link>https://data-scribers.mikewk.com/post/r-figure-skating-analysis/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
@@ -2811,6 +2838,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/exploring-global-trends-in-tub/</guid>
       <description>For this post I will be quickly diving into global trends in Tuberculosis incidence rates and exploring whether Tuberculosis eradication is on the horizon. Now to get started, the first step is to get the package (for this post we are using the development version from GitHub) and to load the other packages required for this analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Regressions using completly fake data!</title>
+      <link>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</guid>
+      <description>Why can’t I just have all of the data? I have been updating some code that uses data that I don’t have access to. I used one of the data sets from the survival package but it annoyed me that the variable names were not what I wanted them to be and I couldn’t be bothered changing them&amp;hellip;</description>
     </item>
     
     <item>
@@ -2902,6 +2938,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/mapping-your-2017-geolocations/</guid>
       <description>Now in Rstudio, I load in the needed packages: We could also zoom out and get a map from all of Germany If we wanted to save the map on our computer, we could use the following&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making a map (or my first blogpost)</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</guid>
+      <description>Getting the data A couple of months ago I discovered a package developed by Public Health England that makes it easier to extract the data behind their fingertips website (https://fingertips.phe.org.uk/)[... ](https://emmavestesson.netlify.com/2018/01/maps/)</description>
     </item>
     
     <item>

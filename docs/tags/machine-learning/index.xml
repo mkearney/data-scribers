@@ -6,10 +6,28 @@
     <description>Recent content in Machine Learning on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>August 2018</title>
+      <link>https://data-scribers.mikewk.com/post/august-2018/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/august-2018/</guid>
+      <description>Package developers relaxed a bit in August.; only 160 new packages went to CRAN that month&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wellio with Sivan Aldor-Noiman and Erik Andrejko</title>
+      <link>https://data-scribers.mikewk.com/post/wellio-with-sivan-aldornoiman-/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wellio-with-sivan-aldornoiman-/</guid>
+      <description>The data scientists at Wellio started from scratch (pun intended) to create their own food-related database and then began training models so the data could be organized and personalized. Using a combination of human power and machine learning techniques, Wellio learns your preferences, allergies, diets, etc&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Data Science in Mental Health</title>

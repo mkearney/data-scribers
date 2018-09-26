@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Baby name pattern matching in R</title>
+      <link>https://data-scribers.mikewk.com/post/baby-name-pattern-matching-in-/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/baby-name-pattern-matching-in-/</guid>
+      <description>stringr, rebus, babynames packagesMatching patterns in namesGirls names ending in “ita”Boys names rhyming with “Aiden”Girls names starting with J and ending in N soundBoys names ending in “ter”Names that rhyme with “Cory”I want to keep doing thisI was recently introduced to the stringr and rebus R packages when I took a string manipulation course from&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mapping the 2018 East Africa floods from space with smapr</title>
       <link>https://data-scribers.mikewk.com/post/mapping-the-2018-east-africa-f/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
@@ -499,6 +508,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Summer fun</title>
+      <link>https://data-scribers.mikewk.com/post/summer-fun/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summer-fun/</guid>
+      <description>New freelance gigJavaScript-based data visualizationTwo JS data visualization options: D3 and amChartsD3.JSamChartsCrochet washclothsPixel art in crochet projectsPeaceThis summer has gone by fast&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Learning Analytic Administration through a Sandbox</title>
       <link>https://data-scribers.mikewk.com/post/learning-analytic-administrati/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
@@ -928,6 +946,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/shinyviewr/</guid>
       <description>Motivation My package shinysense has been around for more than a year now. It started as a package to add swiping via touch screens to shiny for our app Papr, but then slowly got built to include functions for hearing (shinyearr), movement (shinymovr), and drawing (shinydrawr). However one major sense was missing: vision&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hexagon Patterns with R</title>
+      <link>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</guid>
+      <description>Perler beadsPerler bead hexagonsHexagon function (blank design)Hexagon design function #1Hexagon design function #2Future hexagon designsI’m not finished working on hexagons yet&amp;hellip;</description>
     </item>
     
     <item>
@@ -1500,6 +1527,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Crocheting &amp; plotting</title>
+      <link>https://data-scribers.mikewk.com/post/crocheting-plotting/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crocheting-plotting/</guid>
+      <description>If there’s one thing I’m passionate about, it’s combining my passions. So right now I’m going to visualize crochet circles using R’s ggplot2 package. Rest assured I’m going to keep the crochet jargon to a minimum. First things first, I need to load the ggplot2 package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>My favourite snippets</title>
       <link>https://data-scribers.mikewk.com/post/my-favourite-snippets/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
@@ -1686,6 +1722,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/enterprise-advocate/</guid>
       <description>I joined in early 2014. I was excited by RStudio since I love helping people and being an open source company RStudio seemed like a great way to reach a lot of people and get to assist with numerous interesting use cases&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying old functions</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-old-functions/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-old-functions/</guid>
+      <description>Introducing your old functions to your new friend tidyverseRead in the sample data with readrOriginal functionsUpdating the original asset manager tablesUnderstanding more about tidy evaluationSummaryIntroducing your old functions to your new friend tidyverseA while back I wrote some R functions to analyze and summarize data for an ongoing quarterly report project I had been&amp;hellip;</description>
     </item>
     
     <item>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datachipscom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/datachipscom/</link>
+    <description>Recent content in Datachipscom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/datachipscom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baby name pattern matching in R</title>
+      <link>https://data-scribers.mikewk.com/post/baby-name-pattern-matching-in-/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/baby-name-pattern-matching-in-/</guid>
+      <description>stringr, rebus, babynames packagesMatching patterns in namesGirls names ending in “ita”Boys names rhyming with “Aiden”Girls names starting with J and ending in N soundBoys names ending in “ter”Names that rhyme with “Cory”I want to keep doing thisI was recently introduced to the stringr and rebus R packages when I took a string manipulation course from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summer fun</title>
+      <link>https://data-scribers.mikewk.com/post/summer-fun/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summer-fun/</guid>
+      <description>New freelance gigJavaScript-based data visualizationTwo JS data visualization options: D3 and amChartsD3.JSamChartsCrochet washclothsPixel art in crochet projectsPeaceThis summer has gone by fast&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hexagon Patterns with R</title>
+      <link>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</guid>
+      <description>Perler beadsPerler bead hexagonsHexagon function (blank design)Hexagon design function #1Hexagon design function #2Future hexagon designsI’m not finished working on hexagons yet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Crocheting &amp; plotting</title>
+      <link>https://data-scribers.mikewk.com/post/crocheting-plotting/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crocheting-plotting/</guid>
+      <description>If there’s one thing I’m passionate about, it’s combining my passions. So right now I’m going to visualize crochet circles using R’s ggplot2 package. Rest assured I’m going to keep the crochet jargon to a minimum. First things first, I need to load the ggplot2 package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pixelating the Mets logo</title>
+      <link>https://data-scribers.mikewk.com/post/pixelating-the-mets-logo/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pixelating-the-mets-logo/</guid>
+      <description>Perler bead patternsOne of my favorite hobbies is creating pixel art with perler beads. To get the patterns, I usually search for pixelated images on pinterest. But I’ve always wanted to create my own pixelated images too! I found this quad-ruled boombox notebook at TJMaxx recently and it inspired me to design my own pixel boombox&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying old functions</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-old-functions/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-old-functions/</guid>
+      <description>Introducing your old functions to your new friend tidyverseRead in the sample data with readrOriginal functionsUpdating the original asset manager tablesUnderstanding more about tidy evaluationSummaryIntroducing your old functions to your new friend tidyverseA while back I wrote some R functions to analyze and summarize data for an ongoing quarterly report project I had been&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

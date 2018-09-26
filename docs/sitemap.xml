@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/baby-name-pattern-matching-in-/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/building-websites-with-tilda-f/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
@@ -678,6 +683,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/summer-fun/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
   </url>
@@ -1240,6 +1250,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/the-best-way-to-support-latex-/</loc>
     <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2053,6 +2068,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/crocheting-plotting/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/my-favourite-snippets/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -2309,6 +2329,16 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/enterprise-advocate/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/pixelating-the-mets-logo/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/tidying-old-functions/</loc>
     <lastmod>2018-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -7282,6 +7312,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/datachipscom/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -201,6 +201,15 @@
     </item>
     
     <item>
+      <title>Crocheting &amp; plotting</title>
+      <link>https://data-scribers.mikewk.com/post/crocheting-plotting/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crocheting-plotting/</guid>
+      <description>If there’s one thing I’m passionate about, it’s combining my passions. So right now I’m going to visualize crochet circles using R’s ggplot2 package. Rest assured I’m going to keep the crochet jargon to a minimum. First things first, I need to load the ggplot2 package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R4DS June Challenge</title>
       <link>https://data-scribers.mikewk.com/post/r4ds-june-challenge/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>

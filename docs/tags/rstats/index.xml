@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nonograms in R - &#39;nonogram&#39; package</title>
+      <link>https://data-scribers.mikewk.com/post/nonograms-in-r-nonogram-packag/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nonograms-in-r-nonogram-packag/</guid>
+      <description>Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture. In this short series of posts I will: This is a basic example which shows you how to plot and solve a simple puzzle&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Mapping the 2018 East Africa floods from space with smapr</title>

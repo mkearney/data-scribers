@@ -6,10 +6,19 @@
     <description>Recent content in Bloglink on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/categories/bloglink/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>For Mulan</title>
+      <link>https://data-scribers.mikewk.com/post/for-mulan/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/for-mulan/</guid>
+      <description>My Boss and I were trying devise some metric related to our work, to reflect the behavior of… call it X. “If X is low”, said my Boss, “I want the metric to be low. Then, if X is around 3, I want the metric to reach its maximum&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Creating nonograms with &#39;nonogram&#39; and &#39;magick&#39; packages</title>
@@ -18,6 +27,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/creating-nonograms-with-nonogr/</guid>
       <description>Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Representing Web Developers In The W3C</title>
+      <link>https://data-scribers.mikewk.com/post/representing-web-developers-in/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/representing-web-developers-in/</guid>
+      <description>One of the many things that I do is to be a part of the CSS Working Group as an Invited Expert&amp;hellip;</description>
     </item>
     
     <item>

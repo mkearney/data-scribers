@@ -6,10 +6,19 @@
     <description>Recent content in Bloglink on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/categories/bloglink/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating nonograms with &#39;nonogram&#39; and &#39;magick&#39; packages</title>
+      <link>https://data-scribers.mikewk.com/post/creating-nonograms-with-nonogr/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-nonograms-with-nonogr/</guid>
+      <description>Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture&amp;hellip;</description>
+    </item>
     
     <item>
       <title>August 2018</title>

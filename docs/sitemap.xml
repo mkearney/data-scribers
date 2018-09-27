@@ -3508,6 +3508,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/workshop/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/football-fans/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
   </url>
@@ -5753,6 +5758,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/call-for-unpublished-research-/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/kaggle-with-wendy-kan/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url>
@@ -6525,6 +6535,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/r-animation/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/does-intergroup-contact-hinder/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7756,6 +7771,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/niklasjohannescom/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/nilsreimercom/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

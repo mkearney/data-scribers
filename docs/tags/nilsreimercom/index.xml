@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nilsreimercom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/nilsreimercom/</link>
+    <description>Recent content in Nilsreimercom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/nilsreimercom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://data-scribers.mikewk.com/post/workshop/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/workshop/</guid>
+      <description>I&amp;rsquo;m teaching a workshop/lecture on data visualisation as part of the Advanced Statistics course for our department&amp;rsquo;s graduate students. I&amp;rsquo;ve made all slides and materials available on GitHub. Click here for the repository, or here to download everything. If you haven&amp;rsquo;t attended the workshop, the slides might lack context&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Call for unpublished research for intergroup contact / collective action meta-analysis</title>
+      <link>https://data-scribers.mikewk.com/post/call-for-unpublished-research-/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/call-for-unpublished-research-/</guid>
+      <description>Dear Colleagues, Miles Hewstone, Nikhil Sengupta, and I are conducting a meta-analytic review of studies that have examined how intergroup contact affects collective action, perceived discrimination and/or support for reparative policies among members of disadvantaged groups&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Does intergroup contact hinder social change?</title>
+      <link>https://data-scribers.mikewk.com/post/does-intergroup-contact-hinder/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/does-intergroup-contact-hinder/</guid>
+      <description>This post is based on our recent article (Reimer et al., in press) in the Personality and Social Psychology Bulletin&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

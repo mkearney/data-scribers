@@ -6,10 +6,19 @@
     <description>Recent content in Mailundgithubiorprogrammerblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Environments and formulae</title>
+      <link>https://data-scribers.mikewk.com/post/environments-and-formulae/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/environments-and-formulae/</guid>
+      <description>In my two previous posts on non-standard evaluation, Scoping rules and NSE and Overscoping and eval, I explained: How R finds the bindings of variables by looking through chains of&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Overscoping and eval</title>

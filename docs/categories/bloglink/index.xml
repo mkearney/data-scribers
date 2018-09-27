@@ -30,6 +30,33 @@
     </item>
     
     <item>
+      <title>Environments and formulae</title>
+      <link>https://data-scribers.mikewk.com/post/environments-and-formulae/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/environments-and-formulae/</guid>
+      <description>In my two previous posts on non-standard evaluation, Scoping rules and NSE and Overscoping and eval, I explained: How R finds the bindings of variables by looking through chains of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Job Update</title>
+      <link>https://data-scribers.mikewk.com/post/job-update/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/job-update/</guid>
+      <description>In September 2018, I joined the University of Greenwich as a Lecturer in International Business (IB), after completing my postodc at the University of Oxford&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Network Visualisation in R - Package Comparison</title>
+      <link>https://data-scribers.mikewk.com/post/network-visualisation-in-r-pac/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/network-visualisation-in-r-pac/</guid>
+      <description>There are a number of packages available to visualisation networks in R - ranging from those which are implement other network analysis features to those which draw on the grammar of graphics visualisation techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Representing Web Developers In The W3C</title>
       <link>https://data-scribers.mikewk.com/post/representing-web-developers-in/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
@@ -4110,6 +4137,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Country Networks and Flags</title>
+      <link>https://data-scribers.mikewk.com/post/country-networks-and-flags/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/country-networks-and-flags/</guid>
+      <description>Recently, I was asked whether I could create an international trade network with flags as nodes. Therefore, I thought I would write a post introducing the ggflags packages and how to use it in network visualisation&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Pokeballs in Super Smash Bros</title>
       <link>https://data-scribers.mikewk.com/post/pokeballs-in-super-smash-bros/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
@@ -4587,6 +4623,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>ITNr Version 0.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/itnr-version-020/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/itnr-version-020/</guid>
+      <description>International Trade Network (ITN) Analysis in R A new version of my package ITNr (0.2.0) is now on CRAN! The ITNr package presents a set of functions of to clean trade data, implement desciptitve analysis of the ITN and create a range of plots&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>New Package Releases</title>
       <link>https://data-scribers.mikewk.com/post/new-package-releases/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
@@ -4980,6 +5025,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</guid>
       <description>Join RStudio Chief Data Scientist Hadley Wickham for his popular Building tidy tools workshop in San Francisco! If you&amp;rsquo;d missed the sold out course at rstudio::conf 2018 now is your chance. You should take this class if you have some experience programming in R and you want to learn how to tackle larger scale problems&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating R packages, R markdown and blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/creating-r-packages-r-markdown/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-r-packages-r-markdown/</guid>
+      <description>As this my very first blog post for this site (created using blogdown) I decided to write some comments/general points on my experience moving from a being a general R user making use of functions to writing R packages, using GitHub, and making use of markdown and blogdown&amp;hellip;</description>
     </item>
     
     <item>

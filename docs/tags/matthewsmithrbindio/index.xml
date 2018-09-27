@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthewsmithrbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/matthewsmithrbindio/</link>
+    <description>Recent content in Matthewsmithrbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/matthewsmithrbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Job Update</title>
+      <link>https://data-scribers.mikewk.com/post/job-update/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/job-update/</guid>
+      <description>In September 2018, I joined the University of Greenwich as a Lecturer in International Business (IB), after completing my postodc at the University of Oxford&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Network Visualisation in R - Package Comparison</title>
+      <link>https://data-scribers.mikewk.com/post/network-visualisation-in-r-pac/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/network-visualisation-in-r-pac/</guid>
+      <description>There are a number of packages available to visualisation networks in R - ranging from those which are implement other network analysis features to those which draw on the grammar of graphics visualisation techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Country Networks and Flags</title>
+      <link>https://data-scribers.mikewk.com/post/country-networks-and-flags/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/country-networks-and-flags/</guid>
+      <description>Recently, I was asked whether I could create an international trade network with flags as nodes. Therefore, I thought I would write a post introducing the ggflags packages and how to use it in network visualisation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ITNr Version 0.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/itnr-version-020/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/itnr-version-020/</guid>
+      <description>International Trade Network (ITN) Analysis in R A new version of my package ITNr (0.2.0) is now on CRAN! The ITNr package presents a set of functions of to clean trade data, implement desciptitve analysis of the ITN and create a range of plots&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating R packages, R markdown and blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/creating-r-packages-r-markdown/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-r-packages-r-markdown/</guid>
+      <description>As this my very first blog post for this site (created using blogdown) I decided to write some comments/general points on my experience moving from a being a general R user making use of functions to writing R packages, using GitHub, and making use of markdown and blogdown&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

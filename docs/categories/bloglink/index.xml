@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>getTBinR 0.5.5 now on CRAN - 2017 data.</title>
+      <link>https://data-scribers.mikewk.com/post/gettbinr-055-now-on-cran-2017-/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gettbinr-055-now-on-cran-2017-/</guid>
+      <description>The main message from the 2017 data is that in 2017 there were again over 10 million estimated TB cases globally with only a 1.8% decrease in incidence rates compared to 2016. Over the last 10 years progress has been made with an average of a 1&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Creating nonograms with &#39;nonogram&#39; and &#39;magick&#39; packages</title>
       <link>https://data-scribers.mikewk.com/post/creating-nonograms-with-nonogr/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
@@ -54,6 +63,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/environments-and-formulae/</guid>
       <description>In my two previous posts on non-standard evaluation, Scoping rules and NSE and Overscoping and eval, I explained: How R finds the bindings of variables by looking through chains of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Harmonizing measures of income in cross-national surveys</title>
+      <link>https://data-scribers.mikewk.com/post/harmonizing-measures-of-income/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/harmonizing-measures-of-income/</guid>
+      <description>Data Number of response options Item non-response Distributions Harmonized target variables Next steps with Przemek Powałko Individual economic status is a necessary element of almost all sociological analyses, including studies of political attitudes and&amp;hellip;</description>
     </item>
     
     <item>

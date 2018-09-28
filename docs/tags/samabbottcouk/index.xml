@@ -6,10 +6,19 @@
     <description>Recent content in Samabbottcouk on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/samabbottcouk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>getTBinR 0.5.5 now on CRAN - 2017 data.</title>
+      <link>https://data-scribers.mikewk.com/post/gettbinr-055-now-on-cran-2017-/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gettbinr-055-now-on-cran-2017-/</guid>
+      <description>The main message from the 2017 data is that in 2017 there were again over 10 million estimated TB cases globally with only a 1.8% decrease in incidence rates compared to 2016. Over the last 10 years progress has been made with an average of a 1&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering</title>

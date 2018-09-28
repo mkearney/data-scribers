@@ -6,10 +6,19 @@
     <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing a nonogram solver in R</title>
+      <link>https://data-scribers.mikewk.com/post/writing-a-nonogram-solver-in-r/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-a-nonogram-solver-in-r/</guid>
+      <description>Nonograms are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture. In this short series of posts I will: A clue is sequence of integers which are the run-length encoding of the filled-in squares in a row or column&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Creating nonograms with &#39;nonogram&#39; and &#39;magick&#39; packages</title>

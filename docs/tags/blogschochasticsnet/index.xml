@@ -6,10 +6,19 @@
     <description>Recent content in Blogschochasticsnet on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogschochasticsnet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Six Degrees of Zlatan Ibrahimovic</title>
+      <link>https://data-scribers.mikewk.com/post/six-degrees-of-zlatan-ibrahimo/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/six-degrees-of-zlatan-ibrahimo/</guid>
+      <description>Paul Erdős wrote an incredible amount of scientific papers (around 1500) with around 500 collaborators. Due to his prolific output, the Erdős Number was created&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Stress based graph layouts</title>

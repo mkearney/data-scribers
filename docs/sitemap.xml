@@ -608,6 +608,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/test-post-please-dont-ignore/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/visualizing-temperature-rise-i/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -8058,6 +8063,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/ryanestrelladonetlifycom/</loc>
     <lastmod>2018-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/ryansafnercom/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

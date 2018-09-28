@@ -1299,6 +1299,15 @@
     </item>
     
     <item>
+      <title>Highlights from UseR! 2017</title>
+      <link>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</guid>
+      <description>In the first week of July, the 14th UseR! conference took place in Brussels as the biggest UseR!. For me, it was the first UseR! and I believe it was a good opportunity to get exposed to different approaches in the data world, see different applications, learn about new packages and meet people in the R community, all in one place&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>First look at Tidycensus</title>
       <link>https://data-scribers.mikewk.com/post/first-look-at-tidycensus/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
@@ -1539,6 +1548,24 @@
       
       <guid>https://data-scribers.mikewk.com/post/migrating-to-aws/</guid>
       <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Post on Logistic Regression</title>
+      <link>https://data-scribers.mikewk.com/post/yet-another-post-on-logistic-r/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yet-another-post-on-logistic-r/</guid>
+      <description>Everyday statisticians, analysts and data enthusiasts perform data analysis for different purposes. But when it comes to presenting analyses to wider audience, the good work is not the complex one with big words&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Power of (purrr, tidy, broom)-Exploring Climate Change Trends</title>
+      <link>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</guid>
+      <description>In this post, I will share the highlights of my analysis to see how we can compress the dataset while keeping all the data in one place including the fitted models . At the end, I will also attach a Shiny App for further interactive exploration&amp;hellip;</description>
     </item>
     
     <item>

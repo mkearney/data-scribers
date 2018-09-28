@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/handling-r-errors-the-rlang-wa/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/privacy-by-design/</loc>
     <lastmod>2018-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -1558,6 +1563,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tidy-eval-meets-ggplot2/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/wide-data-to-long-using-the-ti/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -2150,6 +2160,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/runconf18/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2820,6 +2835,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/network3d-a-3d-network-visuali/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/yelpr-package-for-yelp-fusion-/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4358,6 +4378,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/stringr-explorer/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/i-dont-always-offer-bounties-o/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -4749,6 +4774,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/data-cleaning-practice-pt1-ste/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/giving-my-first-data-science-t/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -5313,6 +5343,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/adding-skimr-spark-histograms-/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/bigquery-under-the-hood-with-t/</loc>
     <lastmod>2017-09-13T00:00:00+00:00</lastmod>
   </url>
@@ -5514,6 +5549,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/automatic-twitter-updates/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/my-first-steps-into-the-world-/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -5759,6 +5799,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/first-thing-first-thanks/</loc>
+    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</loc>
     <lastmod>2017-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -6158,6 +6203,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/prophet-explore/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/data-visualization-and-ui-desi/</loc>
     <lastmod>2017-04-13T00:00:00+00:00</lastmod>
   </url>
@@ -6390,6 +6440,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/yoga-for-modeling/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/a-glimpse-into-the-daily-life-/</loc>
+    <lastmod>2017-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -6718,6 +6773,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/yet-another-post-on-logistic-r/</loc>
+    <lastmod>2016-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/stackdriver-diagnostics-tools-/</loc>
     <lastmod>2016-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -6725,6 +6785,16 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/continuous-integration-on-trav/</loc>
     <lastmod>2016-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</loc>
+    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/lessons-learnt-about-data-viz-/</loc>
+    <lastmod>2016-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7857,6 +7927,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/nowosadgithubio/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/onceupondatacom/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onceupondatacom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/onceupondatacom/</link>
+    <description>Recent content in Onceupondatacom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/onceupondatacom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handling R errors the rlang way</title>
+      <link>https://data-scribers.mikewk.com/post/handling-r-errors-the-rlang-wa/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/handling-r-errors-the-rlang-wa/</guid>
+      <description>In practice, we usually write functions that call other functions and we might get lost if we don’t have an easy way to find the source of the error or decide what to do when it is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Eval Meets ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-eval-meets-ggplot2/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-eval-meets-ggplot2/</guid>
+      <description>Then you can either pass column names directly or the variable names. The previous options are good and valid in many cases, but there are some limitations. For instance, you cannot create a function and pass column names unquoted as follows&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#runconf18</title>
+      <link>https://data-scribers.mikewk.com/post/runconf18/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/runconf18/</guid>
+      <description>The other good things were: Stefanie Butland and rOpenSci people organized everything to make sure everyone is feeling&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>yelpr Package for Yelp Fusion API</title>
+      <link>https://data-scribers.mikewk.com/post/yelpr-package-for-yelp-fusion-/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yelpr-package-for-yelp-fusion-/</guid>
+      <description>The available functions to search businesses are: Here we can retrieve the first 5 results in ‘New York’ with the term ‘chinese’ The available functions to search events are: So we can get details of featured event in the given location using the longitude and latitude&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stringr Explorer</title>
+      <link>https://data-scribers.mikewk.com/post/stringr-explorer/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stringr-explorer/</guid>
+      <description>I wanted to create a dataframe with stringr functions along with their usage and corresponding examples&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Giving My First Data Science Talk</title>
+      <link>https://data-scribers.mikewk.com/post/giving-my-first-data-science-t/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/giving-my-first-data-science-t/</guid>
+      <description>People have different reasons to give talks. For me the main motives are: All that showed how a supportive community can make a difference and help more people get engaged&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding Skimr Spark Histograms in Dataframe Columns</title>
+      <link>https://data-scribers.mikewk.com/post/adding-skimr-spark-histograms-/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-skimr-spark-histograms-/</guid>
+      <description>In this post, I will focus on spark histograms in summary statistics and beyond&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Steps into The World of Tidy Eval</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-steps-into-the-world-/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-steps-into-the-world-/</guid>
+      <description>The straightforward way was: We need to do the following: After getting acquainted with Tidy eval, I had other situations when I wanted to to write general functions to avoid&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Highlights from UseR! 2017</title>
+      <link>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</guid>
+      <description>In the first week of July, the 14th UseR! conference took place in Brussels as the biggest UseR!. For me, it was the first UseR! and I believe it was a good opportunity to get exposed to different approaches in the data world, see different applications, learn about new packages and meet people in the R community, all in one place&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prophet Explore</title>
+      <link>https://data-scribers.mikewk.com/post/prophet-explore/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/prophet-explore/</guid>
+      <description>In case I still have active hours on Shinyapp&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Glimpse into The Daily Life of a Data Scientist</title>
+      <link>https://data-scribers.mikewk.com/post/a-glimpse-into-the-daily-life-/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-glimpse-into-the-daily-life-/</guid>
+      <description>A couple of weeks ago, I had a discussion with a co-worker regarding a project I was involved in, I felt that there was no clear understanding of the daily challenges data scientists face&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Post on Logistic Regression</title>
+      <link>https://data-scribers.mikewk.com/post/yet-another-post-on-logistic-r/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/yet-another-post-on-logistic-r/</guid>
+      <description>Everyday statisticians, analysts and data enthusiasts perform data analysis for different purposes. But when it comes to presenting analyses to wider audience, the good work is not the complex one with big words&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Power of (purrr, tidy, broom)-Exploring Climate Change Trends</title>
+      <link>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</guid>
+      <description>In this post, I will share the highlights of my analysis to see how we can compress the dataset while keeping all the data in one place including the fitted models . At the end, I will also attach a Shiny App for further interactive exploration&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learnt About Data Viz - Why a Boxplot Is Sometimes The Worst Choice?</title>
+      <link>https://data-scribers.mikewk.com/post/lessons-learnt-about-data-viz-/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lessons-learnt-about-data-viz-/</guid>
+      <description>Data visualization is a means of visual communication that should help people understand the significance of data easily and see interesting trends, patterns, distributions,..etc. If your audience fails to grasp the message that was intended to be conveyed by the graph, they are not to be blamed&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

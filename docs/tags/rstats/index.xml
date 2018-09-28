@@ -3004,6 +3004,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Stringr Explorer</title>
+      <link>https://data-scribers.mikewk.com/post/stringr-explorer/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stringr-explorer/</guid>
+      <description>I wanted to create a dataframe with stringr functions along with their usage and corresponding examples&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>End of Year thoughts</title>
       <link>https://data-scribers.mikewk.com/post/end-of-year-thoughts/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
@@ -3652,6 +3661,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>My First Steps into The World of Tidy Eval</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-steps-into-the-world-/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-steps-into-the-world-/</guid>
+      <description>The straightforward way was: We need to do the following: After getting acquainted with Tidy eval, I had other situations when I wanted to to write general functions to avoid&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>calculating date diffs per event with dplyr</title>
       <link>https://data-scribers.mikewk.com/post/calculating-date-diffs-per-eve/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
@@ -3865,6 +3883,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/first-thing-first-thanks/</guid>
       <description>First things first. Question of etiquette, when starting a blog like this, mainly focused on Data Science with R, is to acknowledge all the people and teams that made possible that I&amp;rsquo;m writing this today. People from CRAN, Rstudio and the R consortium, for pushing forward the best language in the world for data analytics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Highlights from UseR! 2017</title>
+      <link>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highlights-from-user-2017/</guid>
+      <description>In the first week of July, the 14th UseR! conference took place in Brussels as the biggest UseR!. For me, it was the first UseR! and I believe it was a good opportunity to get exposed to different approaches in the data world, see different applications, learn about new packages and meet people in the R community, all in one place&amp;hellip;</description>
     </item>
     
     <item>
@@ -4282,6 +4309,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>A Glimpse into The Daily Life of a Data Scientist</title>
+      <link>https://data-scribers.mikewk.com/post/a-glimpse-into-the-daily-life-/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-glimpse-into-the-daily-life-/</guid>
+      <description>A couple of weeks ago, I had a discussion with a co-worker regarding a project I was involved in, I felt that there was no clear understanding of the daily challenges data scientists face&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Custom JavaScript visualizations in RMarkdown</title>
       <link>https://data-scribers.mikewk.com/post/custom-javascript-visualizatio/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
@@ -4477,6 +4513,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/adding-a-cron-job-using-the-ed/</guid>
       <description>These commands (after the first one) work in the ed editor&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Power of (purrr, tidy, broom)-Exploring Climate Change Trends</title>
+      <link>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</guid>
+      <description>In this post, I will share the highlights of my analysis to see how we can compress the dataset while keeping all the data in one place including the fitted models . At the end, I will also attach a Shiny App for further interactive exploration&amp;hellip;</description>
     </item>
     
     <item>

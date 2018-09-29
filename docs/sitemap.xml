@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tsstudio-012/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/writing-a-nonogram-solver-in-r/</loc>
     <lastmod>2018-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -6553,6 +6558,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/reimer-et-al-2017-intergroup-c/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/hill-for-the-data-scientist/</loc>
     <lastmod>2016-12-15T00:00:00+00:00</lastmod>
   </url>
@@ -7923,7 +7933,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/modeling/</loc>
-    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8006,6 +8016,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/ramikrispingithubio/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/rdatagennet/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -8073,7 +8089,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/rstats/</loc>
-    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

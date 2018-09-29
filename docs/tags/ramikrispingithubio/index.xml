@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramikrispingithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ramikrispingithubio/</link>
+    <description>Recent content in Ramikrispingithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ramikrispingithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSstudio 0.1.2</title>
+      <link>https://data-scribers.mikewk.com/post/tsstudio-012/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tsstudio-012/</guid>
+      <description>Happy to announce the release of TSstudio 0.1.2 to CRAN&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

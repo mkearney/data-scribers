@@ -6,10 +6,19 @@
     <description>Recent content in Martakolczynskacom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/martakolczynskacom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personal vs. household income in cross-national surveys</title>
+      <link>https://data-scribers.mikewk.com/post/personal-vs-household-income-i/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/personal-vs-household-income-i/</guid>
+      <description>Sample correlations Sample correlations by gender Sample correlations by age Sample correlations by education Contrast Conclusion One of the reasons for the harmonization of personal income in addition to household income was to check if the two correlate highly enough to use household income as a substitute for personal income in analyses where economic status is a control&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Harmonizing measures of income in cross-national surveys</title>

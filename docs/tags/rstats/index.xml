@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Tired of Waiting for your R Scripts to Finish? Let AWS do the Work, Get Notified by E-Mail</title>
+      <link>https://data-scribers.mikewk.com/post/tired-of-waiting-for-your-r-sc/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tired-of-waiting-for-your-r-sc/</guid>
+      <description>Recently, I was faced with a problem: I had written a rather complex simulation of a discrete time queueing network, and I needed to let this simulation run Anyways, the situation described above wouldn&amp;rsquo;t be problematic as such, but the runtime for a single one of these simulations increased exponentially: for 1500 observations it ran ~ 0&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>August 2018</title>
       <link>https://data-scribers.mikewk.com/post/august-2018/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
@@ -2793,6 +2802,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/introducing-geniusr/</guid>
       <description>The functions in this package enable easy access of individual song lyrics, album tracklists, and lyrics to whole albums. Load the package: This returns a tidy data frame with three columns: In this example I will extract 3 albums from Kendrick Lamar and Sara Bareilles (two of my favotire musicians)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting up a Scalable RStudio Instance in AWS</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-a-scalable-rstudio-/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-a-scalable-rstudio-/</guid>
+      <description>Obviously, that is the case. In this post, I will show you the steps for setting up such an environment on Amazon Web Services (AWS). The main advantages of using such a set-up: Convinced? Awesome, let’s get started! First a short overview of the main steps covered in this blog post: Ready? Alright, sweet&amp;hellip;</description>
     </item>
     
     <item>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sastibede on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/sastibede/</link>
+    <description>Recent content in Sastibede on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/sastibede/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tired of Waiting for your R Scripts to Finish? Let AWS do the Work, Get Notified by E-Mail</title>
+      <link>https://data-scribers.mikewk.com/post/tired-of-waiting-for-your-r-sc/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tired-of-waiting-for-your-r-sc/</guid>
+      <description>Recently, I was faced with a problem: I had written a rather complex simulation of a discrete time queueing network, and I needed to let this simulation run Anyways, the situation described above wouldn&amp;rsquo;t be problematic as such, but the runtime for a single one of these simulations increased exponentially: for 1500 observations it ran ~ 0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Use Emacs Org Mode and REST APIs for an up-to-date Stock Portfolio</title>
+      <link>https://data-scribers.mikewk.com/post/use-emacs-org-mode-and-rest-ap/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/use-emacs-org-mode-and-rest-ap/</guid>
+      <description>The API used in their scenario gave different results with a much cleaner nomenclature. For the Alphavantage API, I had to become a little creative with the eLisp code&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Worry</title>
+      <link>https://data-scribers.mikewk.com/post/dont-worry/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-worry/</guid>
+      <description>I have a personal Google account, complete with gmail, gdrive and everything else. I first opened it up as a sort of spam email for all kinds of logins, but started to it use more and more due to its convenience&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking AWS Instances with MNIST classification</title>
+      <link>https://data-scribers.mikewk.com/post/benchmarking-aws-instances-wit/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/benchmarking-aws-instances-wit/</guid>
+      <description>These instances differ in two dimensions: price and performance. Obviously, these dimensions are highly correlated, since higher price means (or should mean, at least) higher performance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Motivations for Starting a Blog</title>
+      <link>https://data-scribers.mikewk.com/post/my-motivations-for-starting-a-/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-motivations-for-starting-a-/</guid>
+      <description>Hello world! My name is Sebastian Schweer, and I am a Data Scientist. This job description is increasingly popular, but it is notoriously difficult to describe precisely, what that entails&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting up a Scalable RStudio Instance in AWS</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-a-scalable-rstudio-/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-a-scalable-rstudio-/</guid>
+      <description>Obviously, that is the case. In this post, I will show you the steps for setting up such an environment on Amazon Web Services (AWS). The main advantages of using such a set-up: Convinced? Awesome, let’s get started! First a short overview of the main steps covered in this blog post: Ready? Alright, sweet&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

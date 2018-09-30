@@ -390,6 +390,15 @@
     </item>
     
     <item>
+      <title>Is there a future for CLI?</title>
+      <link>https://data-scribers.mikewk.com/post/is-there-a-future-for-cli/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-there-a-future-for-cli/</guid>
+      <description>The future of CLI and how Network Engineers will interact with devices is a topic being discussed quite often: &amp;ldquo;I&amp;#39;ll give you my CLI when you pry it from my cold, dead fingers&amp;rdquo; - said no #CCIE ever, they&amp;#39;re busy automating their networks with Python to save time for more creative&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>rvest &#43; imdb -&gt; explore Friends episode titles</title>
       <link>https://data-scribers.mikewk.com/post/rvest-imdb-explore-friends-epi/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
@@ -687,6 +696,15 @@
     </item>
     
     <item>
+      <title>Docker Install software inside a container</title>
+      <link>https://data-scribers.mikewk.com/post/docker-install-software-inside/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-install-software-inside/</guid>
+      <description>In the first post of this series we left with a running Ubuntu 15.04 container. Now it&amp;rsquo;s time to install software inside the container. A container is &amp;ldquo;stateless&amp;rdquo;, meaning any file change inside a container is lost when the container is closed, including software installations&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Locality Sensitive Hashing in R</title>
       <link>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</link>
       <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
@@ -696,12 +714,30 @@
     </item>
     
     <item>
+      <title>Cisco Nexus 9000 training DCINX9K</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-nexus-9000-training-dcin/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-nexus-9000-training-dcin/</guid>
+      <description>This week I attended a two days training of Cisco DCINX9K. The training is focused on Cisco Nexus 9000 switches in NX-OS mode. NX9K can run two different software images, the full ACI image with all the cool SDN stuff and the traditional NS-OX image with some cool features like Python, Rest API, VX-LAN and more&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>rmongodb 1.8.0</title>
       <link>https://data-scribers.mikewk.com/post/rmongodb-180/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
       <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Python!</title>
+      <link>https://data-scribers.mikewk.com/post/lets-python/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-python/</guid>
+      <description>Inspired by the CodeAcademy project, I&amp;rsquo;ve decided to learn a programming language this year. Back in high school I&amp;rsquo;ve learnt Pascal, Delphi, Assembly and C but many years passed so I forgot all the sintax but not the basics&amp;hellip;</description>
     </item>
     
   </channel>

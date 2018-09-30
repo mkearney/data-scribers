@@ -1714,6 +1714,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Network topology validation with CDP and Python</title>
+      <link>https://data-scribers.mikewk.com/post/network-topology-validation-wi/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/network-topology-validation-wi/</guid>
+      <description>As most IT professionals I usually configure network devices in a lab environment before the actual installation at customer site&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Pattern-based regionalization</title>
       <link>https://data-scribers.mikewk.com/post/patternbased-regionalization/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
@@ -2656,6 +2665,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</guid>
       <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>War stories - The Docking Station</title>
+      <link>https://data-scribers.mikewk.com/post/war-stories-the-docking-statio/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/war-stories-the-docking-statio/</guid>
+      <description>This story starts with a phone call at night. If you worked in IT long enough you know what it means&amp;hellip;</description>
     </item>
     
     <item>
@@ -4839,6 +4857,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Cisco Candid</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-candid/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-candid/</guid>
+      <description>At Cisco Live Europe in Barcelona I had a chance to see Cisco Candid (Network Assurance Engine) in action. I shared my views on GestaltIT Tech Talks&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>EPL Week 35</title>
       <link>https://data-scribers.mikewk.com/post/epl-week-35/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
@@ -4899,6 +4926,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/predicting-nfl-injuries-with-s/</guid>
       <description>Previously I use data from armchair analysis to build a simple model to predict whether an NFL player would have an injury based only on their position. I restricted the analysis to QBs, RBs, TEs, and WRs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Telnet over Internet</title>
+      <link>https://data-scribers.mikewk.com/post/telnet-over-internet/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/telnet-over-internet/</guid>
+      <description>A couple of days ago Cisco released a Security Advisory. No big deal so far, level was informational so I didn&amp;rsquo;t read it right away&amp;hellip;</description>
     </item>
     
     <item>
@@ -5829,6 +5865,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>FMC API and TextFSM</title>
+      <link>https://data-scribers.mikewk.com/post/fmc-api-and-textfsm/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fmc-api-and-textfsm/</guid>
+      <description>Automation and programmability is not a new topic for me. Having studied Information Technology in High School I&amp;rsquo;ve always coded somehow, never making it my primary focus but always using it as a tool to make my life easier&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Making maps of the USA with R</title>
       <link>https://data-scribers.mikewk.com/post/making-maps-of-the-usa-with-r/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
@@ -6042,6 +6087,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/copula-resources/</guid>
       <description>A number of resources I found useful while learning about&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mikrotik hAP lite classic</title>
+      <link>https://data-scribers.mikewk.com/post/mikrotik-hap-lite-classic/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mikrotik-hap-lite-classic/</guid>
+      <description>For a Network Engineer living and working on the field has some challenges that are not common in office environments&amp;hellip;</description>
     </item>
     
     <item>
@@ -6774,6 +6828,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>NetShot</title>
+      <link>https://data-scribers.mikewk.com/post/netshot/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/netshot/</guid>
+      <description>We live in a time of intent, automation, orchestration and a lot of wonderful tools that promise to make the life of network engineers easier. Sometimes reality is simpler and maybe less fascinating, real problems need to be solved quickly with small budget&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Second star to the right and straight on &#39;til morning</title>
       <link>https://data-scribers.mikewk.com/post/second-star-to-the-right-and-s/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
@@ -7122,6 +7185,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/is-medicine-mesmerized-by-mach/</guid>
       <description>Avati et al used deep learning on the 13,654 features to achieve a validated c-index of 0.93. To the authors&amp;rsquo; credit, they constructed an unbiased calibration curve, although it used binning and is very low resolution&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tech Field Day Extra at Cisco Live Europe 2018</title>
+      <link>https://data-scribers.mikewk.com/post/tech-field-day-extra-at-cisco-/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tech-field-day-extra-at-cisco-/</guid>
+      <description>I had the honor and pleasure of being invited again to attend Tech Field Day, this time for an Extra event at Cisco Live Europe in Barcelona&amp;hellip;</description>
     </item>
     
     <item>
@@ -7620,6 +7692,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>AirPiConsole remote access with ZeroTier</title>
+      <link>https://data-scribers.mikewk.com/post/airpiconsole-remote-access-wit/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/airpiconsole-remote-access-wit/</guid>
+      <description>In the previous post of this AirPiConsole series (part1, part2) I used Autossh to create a reverse tunnel from the device to a cloud VPS to permit remote access. The VPS I use is cheap but unreliable so the tunnel was down most of the time so I started looking for a better alternative. The solution came from the Packet Pushers podcast episode PQ134 about ZeroTier&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>EPL Week 23</title>
       <link>https://data-scribers.mikewk.com/post/epl-week-23/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
@@ -7954,6 +8035,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Is there a future for CLI?</title>
+      <link>https://data-scribers.mikewk.com/post/is-there-a-future-for-cli/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-there-a-future-for-cli/</guid>
+      <description>The future of CLI and how Network Engineers will interact with devices is a topic being discussed quite often: &amp;ldquo;I&amp;#39;ll give you my CLI when you pry it from my cold, dead fingers&amp;rdquo; - said no #CCIE ever, they&amp;#39;re busy automating their networks with Python to save time for more creative&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Let&#39;s Learn Apache Drill Together</title>
       <link>https://data-scribers.mikewk.com/post/lets-learn-apache-drill-togeth/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
@@ -8059,6 +8149,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/stringr-explorer/</guid>
       <description>I wanted to create a dataframe with stringr functions along with their usage and corresponding examples&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2017 recap</title>
+      <link>https://data-scribers.mikewk.com/post/2017-recap/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/2017-recap/</guid>
+      <description>At the end of the year it&amp;rsquo;s quite common to think about the results accomplished and missed on the last twelve months&amp;hellip;</description>
     </item>
     
     <item>
@@ -8638,6 +8737,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Unpatchable?</title>
+      <link>https://data-scribers.mikewk.com/post/unpatchable/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unpatchable/</guid>
+      <description>Quite often cable management is something that starts well when a new IDF is deployed and then gets messier over time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>DDoS Attack Detection with Wallaroo</title>
       <link>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
@@ -8734,6 +8842,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/geocoding-with-r-and-mapzen/</guid>
       <description>The most widely used service for Geocoding is Google Maps, but you&amp;rsquo;d hit the limits early in your project if you don&amp;rsquo;t have a paid account. I often place data on a map, so I need precise geocoding. It&amp;rsquo;s not unlikely you had to test some other geocodig options &amp;lsquo;til you get the budget for a Google Maps paid account&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Moving Complexity</title>
+      <link>https://data-scribers.mikewk.com/post/moving-complexity/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/moving-complexity/</guid>
+      <description>I read a lot of discussions about complexity in networking and IT today that include a large amount of FUD&amp;hellip;</description>
     </item>
     
     <item>
@@ -8872,6 +8989,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>White boxes for everyone?</title>
+      <link>https://data-scribers.mikewk.com/post/white-boxes-for-everyone/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/white-boxes-for-everyone/</guid>
+      <description>White boxes and their impact on enterprise networking is a hot topic today, with many point of&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Recognising the fallacy of a single root cause</title>
       <link>https://data-scribers.mikewk.com/post/recognising-the-fallacy-of-a-s/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
@@ -8962,6 +9088,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>VMware NSX VCP6-NV</title>
+      <link>https://data-scribers.mikewk.com/post/vmware-nsx-vcp6nv/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vmware-nsx-vcp6nv/</guid>
+      <description>Today I passed exam 2V0-642 to update my VCP5-DCV and got VCP6-NV (NSX v6.2) I&amp;rsquo;ll share here what I used to prepare the exam. Learning Path I passed exam VCP5-DCV in 2015. At the time I expected to work more with datacenter technology and I needed a more in-depth knowledge of how virtualization works&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Machine learning and k-fold cross validation with sparklyr</title>
       <link>https://data-scribers.mikewk.com/post/machine-learning-and-kfold-cro/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
@@ -9040,6 +9175,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</guid>
       <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco ASA show connections ordered</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-asa-show-connections-ord/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-asa-show-connections-ord/</guid>
+      <description>When a customer calls with a problem or request I often see a chance to investigate a technology, learn something new or apply random skills to find a creative solution. This time is about an ASA, customer noticed too much traffic on the Internet facing interface&amp;hellip;</description>
     </item>
     
     <item>
@@ -9223,6 +9367,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Innovation sirens singing</title>
+      <link>https://data-scribers.mikewk.com/post/innovation-sirens-singing/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/innovation-sirens-singing/</guid>
+      <description>In episode 13 of the Network Collective podcast around minute 26 Jordan Martin asks: Aren&amp;rsquo;t we all just following a trend? The discussion topic is how to mentor juniors in a learning path to grow their skills and be experts&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Your first Shiny app</title>
       <link>https://data-scribers.mikewk.com/post/your-first-shiny-app/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
@@ -9238,6 +9391,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-wallaroo-scales-distribute/</guid>
       <description>Scaling stateful applications is hard. As your business grows, you&amp;rsquo;re eventually going to find that demand is greater than capacity. That means you can&amp;rsquo;t simply deploy your application to a set number of servers and forget it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Network Automation seminar with Ivan Pepelnjiak</title>
+      <link>https://data-scribers.mikewk.com/post/network-automation-seminar-wit/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/network-automation-seminar-wit/</guid>
+      <description>This week I&amp;rsquo;ve attended the Network Automation Seminar organized by Reiss Romoli. The speaker was the great Ivan Pepelnjiak! I was happy to meet Ivan again after NFD16&amp;hellip;</description>
     </item>
     
     <item>
@@ -9274,6 +9436,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/use-circleci-for-r-projects/</guid>
       <description>Why CircleCI? Yes, I know using Travis CI is this easy, thanks to devtools package: Travis CI is OK most of the time. Still, CircleCI has some advantages: Though Travis can cache the setup once it succeeds, it is good if we can save time to setup testing environment by using existing Docker images. CircleCI displays the test summary in this pretty way: All I had to do was two steps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NFD16 day two - Cisco Project Starship a.k.a. Intersight</title>
+      <link>https://data-scribers.mikewk.com/post/nfd16-day-two-cisco-project-st/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfd16-day-two-cisco-project-st/</guid>
+      <description>Day two of NFD16 with Cisco. The presentation was split in two parts. First part for Intersight, second part for Tetration. I&amp;rsquo;ll post here just a few thoughts about Intersight&amp;hellip;</description>
     </item>
     
     <item>
@@ -9457,6 +9628,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Are we the last generation of Network Engineers?</title>
+      <link>https://data-scribers.mikewk.com/post/are-we-the-last-generation-of-/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/are-we-the-last-generation-of-/</guid>
+      <description>Automation is today a word that can be both scaring and exciting at the same time. The scary part is often related to the question: will robots steal my job? Federico Pistono says that&amp;rsquo;s ok&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Guardian Film Reviews</title>
       <link>https://data-scribers.mikewk.com/post/guardian-film-reviews/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
@@ -9499,6 +9679,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/measuring-correctness-of-state/</guid>
       <description>Introduction Distributed systems are hard&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is more technology good for your business?</title>
+      <link>https://data-scribers.mikewk.com/post/is-more-technology-good-for-yo/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-more-technology-good-for-yo/</guid>
+      <description>I read this post on Ivan&amp;rsquo;s blog this morning and as often happens it made me think. The key point is: figure out what your most pressing problem is. Who should do that? Let&amp;rsquo;s analyze the roles involved in a typical SMB or enterprise&amp;hellip;</description>
     </item>
     
     <item>
@@ -9553,6 +9742,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</guid>
       <description>Anyways, given that more waves are available, we don’t have to look at a single comparison between 2007 and 2016, if we want to push Bruenig’s work a little further&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NFD16 day two - Apstra</title>
+      <link>https://data-scribers.mikewk.com/post/nfd16-day-two-apstra/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfd16-day-two-apstra/</guid>
+      <description>Day two of NFD16 started with Apstra and their intent-based networking system. Intent concept is not as broad as SDN but still vendors have different views of this meaning. According to Apstra an intent is &amp;ldquo;the definition of the expected outcome&amp;rdquo;. The sum of the intents of a network is the source of truth&amp;hellip;</description>
     </item>
     
     <item>
@@ -9682,6 +9880,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>NFD16 day one - Arista</title>
+      <link>https://data-scribers.mikewk.com/post/nfd16-day-one-arista/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfd16-day-one-arista/</guid>
+      <description>Second part of Tech Field Day NFD16 day 1 continues with Arista. Getting ready for @AristaNetworks #NFD16 pic.twitter.com/SCWXVGsR2l - Gian Paolo (@gp_ifconfig) September 13, 2017 Arista&amp;rsquo;s presentation included 400G (hist: it&amp;rsquo;s fast!), EOS programmability, Network Automation and Telemetry, Routing Architecture Transformations&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A pesky piping bug with RStudio and the tidyverse</title>
       <link>https://data-scribers.mikewk.com/post/a-pesky-piping-bug-with-rstudi/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
@@ -9724,6 +9931,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/gg-what/</guid>
       <description>The ggplot2 package and its extensions dominate the R visualization landscape, particularly for static charts It got me thinking about how rare was that combination of two ’g’s to start a word - at least in the English language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NFD16 day one - Veriflow</title>
+      <link>https://data-scribers.mikewk.com/post/nfd16-day-one-veriflow/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfd16-day-one-veriflow/</guid>
+      <description>First day at Tech Field Day NFD16, I&amp;rsquo;m quite excited to be here among fellow network engineers to share our views on products and technologies. I&amp;rsquo;m planning to post my takeaways for each vendor with variable lengths based on my knowledge and interest of the specific product&amp;hellip;</description>
     </item>
     
     <item>
@@ -9931,6 +10147,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-simple-slack-bot-with-plumbe/</guid>
       <description>Intro To Plumber Plumber is an R package that allows you to create web apis in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AirPiConsole part two</title>
+      <link>https://data-scribers.mikewk.com/post/airpiconsole-part-two/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/airpiconsole-part-two/</guid>
+      <description>Welcome back to AirPiConsole blog post, this is part two. If you read part one and followed the configuration steps you should now have a fully working Raspberry Pi Zero W connected to your WiFi network. You should also be able to connect via Bluetooth to get a console connection without knowing the IP address of the Raspi&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AirPiConsole part one</title>
+      <link>https://data-scribers.mikewk.com/post/airpiconsole-part-one/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/airpiconsole-part-one/</guid>
+      <description>As a network engineer I spend a lot of time with my laptop connected via serial cable to various devices&amp;hellip;</description>
     </item>
     
     <item>
@@ -10186,6 +10420,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>HP Procurve to Cisco switchport migration with Python and Netmiko</title>
+      <link>https://data-scribers.mikewk.com/post/hp-procurve-to-cisco-switchpor/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hp-procurve-to-cisco-switchpor/</guid>
+      <description>Summertime usually means a busy period for Network Engineers, customers are on holidays and we have the opportunity to performs all the changes that impact network connectivity. For me this usually means core switch replacement&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>On the interpretation of regression coefficients</title>
       <link>https://data-scribers.mikewk.com/post/on-the-interpretation-of-regre/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
@@ -10399,6 +10642,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/customer-engineers-with-jonath/</guid>
       <description>Jonathan Cham is a customer engineer who helps customers be successful on the Google Cloud Platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Networkcareer.net interview</title>
+      <link>https://data-scribers.mikewk.com/post/networkcareernet-interview/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/networkcareernet-interview/</guid>
+      <description>My interview was published today on Networkcareer.net, the latest project from Daniel Dib and Kim Pedersen&amp;hellip;</description>
     </item>
     
     <item>
@@ -11032,6 +11284,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Ansible and IOS quick start</title>
+      <link>https://data-scribers.mikewk.com/post/ansible-and-ios-quick-start/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ansible-and-ios-quick-start/</guid>
+      <description>Ansible has been around for I while but I didn&amp;rsquo;t had a chance to play with it so far&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Firebase at I/O 2017 with James Tamplin and Andrew Lee</title>
       <link>https://data-scribers.mikewk.com/post/firebase-at-io-2017-with-james/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
@@ -11254,6 +11515,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/intro-to-r-workshop/</guid>
       <description>Last week, I had a pleasure to conduct a workshop for graduate students and faculty in the Department of Geography and GIS at the University of Cincinnati&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TAC Security Workshop - Poland</title>
+      <link>https://data-scribers.mikewk.com/post/tac-security-workshop-poland/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tac-security-workshop-poland/</guid>
+      <description>This week I attended and event organized by Cisco TAC in Krakow. I&amp;rsquo;ve been in may Cisco events (Live, PVT, Pint etc.) but It was the first time for me at a TAC workshop and I was curious about it&amp;hellip;</description>
     </item>
     
     <item>
@@ -11572,6 +11842,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Cisco Live Europe 2017 Berlin</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-live-europe-2017-berlin/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-live-europe-2017-berlin/</guid>
+      <description>It&amp;rsquo;s time for CLEUR again, for the second year in Berlin, that&amp;rsquo;s 5 years in a row and I still get excited when the date arrives. #CLEUR #CCIE #netvet #ciscochampion #merakimaster pic.twitter.com/IyF883JeYk - Gian Paolo (@gp_ifconfig) February 21, 2017 I won&amp;rsquo;t repeat many consideration&amp;rsquo;s I&amp;rsquo;ve already made last year&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Why?</title>
       <link>https://data-scribers.mikewk.com/post/why/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
@@ -11641,6 +11920,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/the-dire-consequences-of-tests/</guid>
       <description>This is a tale of the dire type 1 error consequences that occur when you test for linearity&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SDN anyone?</title>
+      <link>https://data-scribers.mikewk.com/post/sdn-anyone/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sdn-anyone/</guid>
+      <description>DISCLAIMER I work in the enterprise market, mostly with routing&amp;amp;switching, wireless, security products from multiple vendors. I have no SDN/cloud/ISP real experience yet&amp;hellip;</description>
     </item>
     
     <item>
@@ -12040,6 +12328,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Meraki Masters</title>
+      <link>https://data-scribers.mikewk.com/post/meraki-masters/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/meraki-masters/</guid>
+      <description>Last week I had the opportunity to attend a &amp;ldquo;Cisco Meraki Masters&amp;rdquo; session at Meraki HQ in San Francisco. Meraki Masters is a program that sits on top of CMNA to give partners a deeper view of the Meraki product line, vision and roadmap. Merakify a.k.a. &amp;ldquo;Don&amp;rsquo;t spend your time doing work a well-trained monkey could do&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Simon Says with Sandeep Dinesh</title>
       <link>https://data-scribers.mikewk.com/post/simon-says-with-sandeep-dinesh/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
@@ -12247,6 +12544,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Opportunistic Learning</title>
+      <link>https://data-scribers.mikewk.com/post/opportunistic-learning/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/opportunistic-learning/</guid>
+      <description>I got inspired by the book &amp;ldquo;The 1 Thing&amp;rdquo; and changed a little bit my behavior about work and training I&amp;rsquo;d like to share here to discuss and improve&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Science Meets Parliament</title>
       <link>https://data-scribers.mikewk.com/post/science-meets-parliament/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
@@ -12271,6 +12577,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/girls-in-tech/</guid>
       <description>On August 10th Cevo&amp;rsquo;s Hannah Browne joined Miguel Wood, Nicola Hazell and Geoff Gourley in a daring discussion hosted by Girls in Tech Australia about diversity in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-hugo/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-hugo/</guid>
+      <description>Ladies and gentlemen, welcome to my new website! I mean site url, content and topics are still the same but but now I use Hugo instead of Wordpress. Why change Speed: my website got slower and slower. Static pages are fast, very fast. Easy of use: I started to use markdown to write posts then copy&amp;amp;paste them in Wordpress via browser&amp;hellip;</description>
     </item>
     
     <item>
@@ -12334,6 +12649,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/migrating-to-aws/</guid>
       <description>Customer Overview MYOB is a leading provider of business management solutions in Australia and New Zealand&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco ASA boot problem</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-asa-boot-problem/</link>
+      <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-asa-boot-problem/</guid>
+      <description>Cisco ASA memory problem ASA doesn&amp;rsquo;t boot: Launching BootLoader&amp;hellip; Default configuration file contains 1 entry. Searching / for images to boot. Loading /asa825-k8.bin&amp;hellip; Booting&amp;hellip; Press ESC to interrupt boot: Use BREAK or ESC to interrupt boot&amp;hellip;</description>
     </item>
     
     <item>
@@ -12436,6 +12760,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Cisco ASA and Office 365</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-asa-and-office-365/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-asa-and-office-365/</guid>
+      <description>Office 365 is widely used between many customers&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How Much Fun is Maximum Fun?</title>
       <link>https://data-scribers.mikewk.com/post/how-much-fun-is-maximum-fun/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
@@ -12487,6 +12820,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/fitbit-or-groceries-the-challe/</guid>
       <description>“I haven’t been exercising as much this month.” I’d failed at inspiring yet another patient to be more active. She was a middle aged women working two jobs to help support her family. What next? Do I recommend a wearable? The choices we make everyday impact our health. Individual behaviors can lead to significant disease states including high cholesterol, obesity, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco WLC roaming troubleshooting scripts</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-wlc-roaming-troubleshoot/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-wlc-roaming-troubleshoot/</guid>
+      <description>As it often happens, everything begins with a call from a customer with a problem. The problem is related to WiFi roaming in a warehouse with clients disconnecting from RDP sessions. The clients are industrial PCs installed on forklifts that move quite fast (and dangerously)&amp;hellip;</description>
     </item>
     
     <item>
@@ -12634,12 +12976,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>WiFi security 4 dummies</title>
+      <link>https://data-scribers.mikewk.com/post/wifi-security-4-dummies/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wifi-security-4-dummies/</guid>
+      <description>Customer site, their security policy for WiFi is an SSID with a secret PSK: the IT manager type the password on my PC to allow me to access the network. Maybe he&amp;rsquo;s not aware of my keylogger or that the password con be easily retrieved in cleartext. Let&amp;rsquo;s see how&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>GCP Next Speakers</title>
       <link>https://data-scribers.mikewk.com/post/gcp-next-speakers/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/gcp-next-speakers/</guid>
       <description>The talks are organized in the following playlists: Mike discusses how people migrate to Google Cloud Platform and how they evolve once on it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Drop and bogons list on Cisco router</title>
+      <link>https://data-scribers.mikewk.com/post/drop-and-bogons-list-on-cisco-/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/drop-and-bogons-list-on-cisco-/</guid>
+      <description>The Cyberspace a.k.a&amp;hellip;</description>
     </item>
     
     <item>
@@ -12679,6 +13039,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>OED tools: tmux</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-tmux/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-tmux/</guid>
+      <description>The need If you work with Linux machines and you don&amp;rsquo;t use a terminal multiplexer you&amp;rsquo;re doing it wrong. What is a terminal multiplexer? It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Installing Your First Spark Cluster</title>
       <link>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
@@ -12706,6 +13075,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>OED tools: bash oneliners</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-bash-oneliners/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-bash-oneliners/</guid>
+      <description>Linux scripting is a skill every network/system engineer should learn in the early stages of the career. Plenty of guides available in the interwebz, The Bash Academy is a good start&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Australian rOpenSci Unconference</title>
       <link>https://data-scribers.mikewk.com/post/australian-ropensci-unconferen/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
@@ -12721,6 +13099,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/kubernetes-12-with-kelsey-high/</guid>
       <description>Kelsey has worn every hat possible throughout his career in tech and enjoys leadership roles focused on making things happen and shipping software&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED tools: OneNote</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-onenote/</link>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-onenote/</guid>
+      <description>The Problem Notes, code and configuration snippets, links, screenshots&amp;hellip; where/how to save them and allow and easy/fast way to tag/search them when needed? The Solution In my opinion the best software for notes is Onenote today&amp;hellip;</description>
     </item>
     
     <item>
@@ -12748,6 +13135,16 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/storage-with-paul-newson/</guid>
       <description>Paul currently focuses on helping developers harness the power of Google Cloud Platform to solve their big data problems. Previously, he was an engineer on Google Cloud Storage&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Live 2016 Europe</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-live-2016-europe/</link>
+      <pubDate>Sun, 21 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-live-2016-europe/</guid>
+      <description>Hi CLEUR! This year, for the fourth year in a row, I&amp;rsquo;ve attended Cisco Live Europe. I&amp;rsquo;ve earned the &amp;ldquo;Netvet&amp;rdquo; status, that means my name was on the wall before the keynote, ain&amp;rsquo;t that great? ;-)
+Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve attended so far, twelve thousands people in a huge venue (for European standards) and a lot of sessions available&amp;hellip;</description>
     </item>
     
     <item>
@@ -12787,6 +13184,33 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>OED tools: Pushover</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-pushover/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-pushover/</guid>
+      <description>The problem In my last post about Linux at command I talked about notifications on my mobile&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome 2016 Cisco Champions</title>
+      <link>https://data-scribers.mikewk.com/post/welcome-2016-cisco-champions/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome-2016-cisco-champions/</guid>
+      <description>With a good amount of surprise I&amp;rsquo;ve been nominated Cisco Champion for 2016: Because of your impactful and valuable contributions to the IT community, you have been chosen out of hundreds of nominees to be part of the 2016 Cisco Champion program&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED Tolls: Linux &#39;at&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tolls-linux-at/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tolls-linux-at/</guid>
+      <description>Another post on Linux commands, short and simple but very useful: at. The problem As IT pros we are all comfortable with the change window concept. This window usually opens at night or during the week-end and sometimes the change actually just requires a few commands on a Linux machine&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Graham Polley &amp; Pablo Caif from Shine Technologies</title>
       <link>https://data-scribers.mikewk.com/post/graham-polley-pablo-caif-from-/</link>
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
@@ -12814,12 +13238,57 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>OED tools: Linux command alias</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-linux-command-alias/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-linux-command-alias/</guid>
+      <description>After a few posts about Windows software now it&amp;rsquo;s time for Linux. The problem Working with the Linux bash sometimes requires to type long commands multiple times. Isn&amp;rsquo;t that a motivation strong enough to look for a better way? The automation Linux alias is quite self-explanatory, it allows to create command aliases like with the familiar Cisco CLI. A good place to store aliases is .bashrc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED tools: Chocolatey</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-chocolatey/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-chocolatey/</guid>
+      <description>The problem Install software on Windows and keep it updated is a boring and repetitive task&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>text2vec GloVe implementation details</title>
       <link>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</link>
       <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</guid>
       <description>Before reading this post, I very recommend to read: Orignal GloVe paper Jon Gauthier&amp;rsquo;s post, which provides detailed explanation of python implementation. This post helps me a lot with C++ implementation. Word embeddings After Tomas Mikolov et al&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED Tools: ConzoleZ</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-conzolez/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-conzolez/</guid>
+      <description>The problem As many IT professionals I work quite often on the command line with many command prompts open. Windows lacks a good native command prompt software so usually you see monitors filled with black terminals that are hard to manage and track. The automation ConsoleZ allows multiple tabs and to split tabs vertically or horizontally among with many other features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED Tools: 1Password</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-1password/</link>
+      <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-1password/</guid>
+      <description>The problem Security today is a main concern for every computer user. One of the first problem is how to manage password. I see many creative solutions around: post-it or paper only, use of the same password for all services, a spreadsheet inside an encrypted zip file&amp;hellip; none of them appear safe or efficient&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OED Tools: NetSetMan</title>
+      <link>https://data-scribers.mikewk.com/post/oed-tools-netsetman/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oed-tools-netsetman/</guid>
+      <description>The problem I manage many networks and quite often I work at customer site. For every site I need and IP address, gateway, Wi-Fi network, sometimes proxy, a printer and many other unique network settings. Change IP address on Windows is a process that takes too much time and many clicks. The automation I used to use netsh scripts to do that but it was hard to maintain&amp;hellip;</description>
     </item>
     
     <item>
@@ -12832,12 +13301,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Obsessive Efficiency Disorder</title>
+      <link>https://data-scribers.mikewk.com/post/obsessive-efficiency-disorder/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/obsessive-efficiency-disorder/</guid>
+      <description>I read this blog post from Mattias Geniar and I think he gave a name of a concept I had in my mind from years. It started a while ago when I tried to find a more efficient ways to do my daily work and it got bigger and bigger up to be almost an&amp;hellip; obsession&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>VMware VCP5-DCV for a network engineer</title>
+      <link>https://data-scribers.mikewk.com/post/vmware-vcp5dcv-for-a-network-e/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vmware-vcp5dcv-for-a-network-e/</guid>
+      <description>Today I passed exam VCP550 and got VMware VCP5-DCV certification. Exam preparation For exam preparation I attended the official training that is mandatory to access the exam. The printed material provided with the training is good enough but I integrated with the great Mastering VMware vSphere 5.5 by Scott Lowe&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Automated provisioning with Docker</title>
       <link>https://data-scribers.mikewk.com/post/automated-provisioning-with-do/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/automated-provisioning-with-do/</guid>
       <description>Customer Overview Founded in 1993, Media Links is a leading developer and manufacturer of broadcast network infrastructure solutions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple Cisco switch inventory with bash and snmp</title>
+      <link>https://data-scribers.mikewk.com/post/simple-cisco-switch-inventory-/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simple-cisco-switch-inventory-/</guid>
+      <description>Scripts, usually I write some because I don&amp;rsquo;t like repetitive tasks and I&amp;rsquo;m lazy, meaning I prefer automation over useless hard work. Don&amp;rsquo;t know where I found this quote but I like it: Don&amp;rsquo;t spend your time doing work a well-trained monkey could do&amp;hellip;</description>
     </item>
     
     <item>
@@ -12913,6 +13409,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>WLPC 2015 @ Berlin</title>
+      <link>https://data-scribers.mikewk.com/post/wlpc-2015-berlin/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wlpc-2015-berlin/</guid>
+      <description>For the second year in a row I attended Wireless Lan Professionals Conference Europe, this time in Berlin&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>We Got a Podcast!</title>
       <link>https://data-scribers.mikewk.com/post/we-got-a-podcast/</link>
       <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
@@ -12982,6 +13487,33 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/is-the-ec2-container-service-a/</guid>
       <description>The container revolutionaries call upon you! Are you ready to beg forgiveness for your sins of monolithic architecture and pay homage at the Church of 12 Factors? No doubt you - like so many others before you - have endured the experience of being cornered by a zealot of the new world&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AWK and Cisco WLC</title>
+      <link>https://data-scribers.mikewk.com/post/awk-and-cisco-wlc/</link>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/awk-and-cisco-wlc/</guid>
+      <description>When you see an hacker movie you see people typing on the keyboard very fast. Actually the toughest the hacker is the faster he types very long commands and all of them work the first time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco ASA VPN with over overlapping addresses and twice NAT</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-asa-vpn-with-over-overla/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-asa-vpn-with-over-overla/</guid>
+      <description>IP addressing design is a topic that follows every networker from the basic to the architect level of experience. Usually we just pick a random range from RFC1918 and address all the devices. But then VPN happens, and with VPN comes the risk of overlapping&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exam passed HP2-Z31 - Creating HP Software-defined Networks</title>
+      <link>https://data-scribers.mikewk.com/post/exam-passed-hp2z31-creating-hp/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exam-passed-hp2z31-creating-hp/</guid>
+      <description>As a holder of many technical certifications every few months I have to renew some. When possible I try to renew the certifications with a new track instead of doing the newer version of the exam I&amp;rsquo;ve already done&amp;hellip;</description>
     </item>
     
     <item>
@@ -13066,12 +13598,84 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>SecureCRT and Python</title>
+      <link>https://data-scribers.mikewk.com/post/securecrt-and-python/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/securecrt-and-python/</guid>
+      <description>SecureCRT is one of my favourite tools, today I had a chance to use it in a way I didn&amp;rsquo;t expected. A customer called with a problem: he has a radio bridge that sometimes loses connection with the remote unit. The workaround is to reload the base unit&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Docker join the dots</title>
+      <link>https://data-scribers.mikewk.com/post/docker-join-the-dots/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-join-the-dots/</guid>
+      <description>This post is part of a series about Docker, including: Docker Introduction Docker: Install software inside a container Docker Volumes Docker Networking - bridge container to host NIC We started with the basics and moved on with adding software, using volumes and then bridging a container to the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Docker networking bridge to host NIC</title>
+      <link>https://data-scribers.mikewk.com/post/docker-networking-bridge-to-ho/</link>
+      <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-networking-bridge-to-ho/</guid>
+      <description>This post is part of a series about Docker, including: Docker Introduction Docker: Install software inside a container Docker Volumes Today we&amp;rsquo;ll see Docker networking with a very specific target in mind: bridge container to the host&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Docker Volumes</title>
+      <link>https://data-scribers.mikewk.com/post/docker-volumes/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-volumes/</guid>
+      <description>In the last post we saw that any filesystem change inside a docker container is lost if not commited to the image. What if we want to share data between containers? We can use Docker&amp;rsquo;s Data Volumes and Data Volume Containers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Docker Install software inside a container</title>
+      <link>https://data-scribers.mikewk.com/post/docker-install-software-inside/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-install-software-inside/</guid>
+      <description>In the first post of this series we left with a running Ubuntu 15.04 container. Now it&amp;rsquo;s time to install software inside the container. A container is &amp;ldquo;stateless&amp;rdquo;, meaning any file change inside a container is lost when the container is closed, including software installations&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>I’m a Wannabe Polyglot</title>
       <link>https://data-scribers.mikewk.com/post/im-a-wannabe-polyglot/</link>
       <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/im-a-wannabe-polyglot/</guid>
       <description>There’s value in my patients’ words. I want to get the most direct access to them. When I was in high school I read “Cien Años de Soledad” by Gabriel Garcia Marquez. To this day, it is one of my favorite novels. I read it in Spanish and couldn’t imagine reading the translated version. I can’t get away from the feeling that something is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Docker</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-docker/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-docker/</guid>
+      <description>Docker and more generic Linux containers technology are a hot topic these days. The website says &amp;ldquo;for developers and sysadmins&amp;rdquo;, I am neither of the two but I can still find some useful applications for containers as a Network Engineer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick tool: PingInfoView</title>
+      <link>https://data-scribers.mikewk.com/post/quick-tool-pinginfoview/</link>
+      <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-tool-pinginfoview/</guid>
+      <description>Quick tool: PingInfoView _PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick script - backup multiple Alcatel OmniSwitch configuration files</title>
+      <link>https://data-scribers.mikewk.com/post/quick-script-backup-multiple-a/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-script-backup-multiple-a/</guid>
+      <description>A quick batch script I did to backup configuration files of multiple Alcatel Omniswitch via FTP. In the switch flash all configuration files are named boot&amp;hellip;</description>
     </item>
     
     <item>
@@ -13099,6 +13703,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/r-package-neato/</guid>
       <description>My workflow in R now is to make a function after I copy and paste some code more than once. Sometimes I find myself using these functions more than once, across different projects. So I decided to make an R package with a few of these functions in it. I call it &amp;ldquo;neato&amp;rdquo;, in the vain hope that one day someone will find one of these functions and say: &amp;ldquo;neato!&amp;rdquo;, because hey, it&amp;rsquo;s pretty&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Meraki CMNA</title>
+      <link>https://data-scribers.mikewk.com/post/meraki-cmna/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/meraki-cmna/</guid>
+      <description>Today I&amp;rsquo;ve attended a Meraki technical training course at Cisco offices&amp;hellip;</description>
     </item>
     
     <item>
@@ -13210,6 +13823,33 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Ethernet Economiser aka RJ45 splitter</title>
+      <link>https://data-scribers.mikewk.com/post/ethernet-economiser-aka-rj45-s/</link>
+      <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ethernet-economiser-aka-rj45-s/</guid>
+      <description>Just a quick post since I speak with many network engineers and I notice some confusion about this topic. Are all 4 pairs of an Cat5e cable used? The answer is.. it depends&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Nexus 9000 training DCINX9K</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-nexus-9000-training-dcin/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-nexus-9000-training-dcin/</guid>
+      <description>This week I attended a two days training of Cisco DCINX9K. The training is focused on Cisco Nexus 9000 switches in NX-OS mode. NX9K can run two different software images, the full ACI image with all the cool SDN stuff and the traditional NS-OX image with some cool features like Python, Rest API, VX-LAN and more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NeDi and Observium or LibreNMS</title>
+      <link>https://data-scribers.mikewk.com/post/nedi-and-observium-or-librenms/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nedi-and-observium-or-librenms/</guid>
+      <description>NeDi and Observium are two of my favourites network monitoring tools. I do like to deploy both, they complete each other and since they&amp;rsquo;re free there is no need to choose. The only problem with the use of two tools is the integration&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Pressing pause</title>
       <link>https://data-scribers.mikewk.com/post/pressing-pause/</link>
       <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
@@ -13264,12 +13904,48 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Alcatel switches Auto Vlan Assignement</title>
+      <link>https://data-scribers.mikewk.com/post/alcatel-switches-auto-vlan-ass/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/alcatel-switches-auto-vlan-ass/</guid>
+      <description>Switch configuration includes many tasks, some of them are just boring and error prone&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wireless LAN Professionals Conference Europe</title>
+      <link>https://data-scribers.mikewk.com/post/wireless-lan-professionals-con/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wireless-lan-professionals-con/</guid>
+      <description>Last week I had the opportunity to attend the first Wireless LAN Professionals Conference in Europe&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Continuous fractions with Map and Reduce</title>
       <link>https://data-scribers.mikewk.com/post/continuous-fractions-with-map-/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/continuous-fractions-with-map-/</guid>
       <description>Over the summer, some of us here at UBC started a reading group based around Hadley Wickham’s book, Advanced R Programming. The goal was to compare our answers to the exercises and our impressions of the content&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HP switches - how to copy configuration between different device models</title>
+      <link>https://data-scribers.mikewk.com/post/hp-switches-how-to-copy-config/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hp-switches-how-to-copy-config/</guid>
+      <description>A couple of days ago I did a planned software upgrade of an HP5406zl&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Log analysis GUI tools</title>
+      <link>https://data-scribers.mikewk.com/post/log-analysis-gui-tools/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/log-analysis-gui-tools/</guid>
+      <description>Log analysis is important to both troubleshoot and understand network devices behaviour. Tail/less/grep are great tools that can help to filter and search hundreds or thousands lines of logs. If you prefer a GUI there are a couple of alternatives that can fit well&amp;hellip;</description>
     </item>
     
     <item>
@@ -13288,6 +13964,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/symbolic-links-and-2-common-er/</guid>
       <description>where -s stands for &amp;ldquo;symbolic&amp;rdquo; (just ln would create a hard link) However, if you are not a complete UNIX guru, then trying to access your linked files is likely to produce one of these errors: No such file or directory OR Too many levels of symbolic links Remove symbolic links just as you remove&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE renewed</title>
+      <link>https://data-scribers.mikewk.com/post/ccie-renewed/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie-renewed/</guid>
+      <description>In the very last day of availability of the CCIE v4 350-001 written exam I&amp;rsquo;ve renewed my CCIE for a couple of years more: My plan was to recertify with another track - Wireless or Security - but life happens and I took the easy path and did R&amp;amp;S again. I&amp;rsquo;ve passed the same written exam 3 times&amp;hellip;</description>
     </item>
     
     <item>
@@ -13318,12 +14003,48 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>AirPcap</title>
+      <link>https://data-scribers.mikewk.com/post/airpcap/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/airpcap/</guid>
+      <description>Wireless traffic packet capture is not easy as wired traffic. Linux and OSX have several solutions but if you&amp;rsquo;re stuck with Windows the first problem is to find a compatible adapter. My choice is AirPcap, fully compatible with Wireshark and very esay to install. Install and setup Download and install Wireshark and AirPcap drivers&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Fix for gbm.plot</title>
       <link>https://data-scribers.mikewk.com/post/fix-for-gbmplot/</link>
       <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/fix-for-gbmplot/</guid>
       <description>Hopefully this will prove helpful to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick  Python code with Jinja2 and config templates</title>
+      <link>https://data-scribers.mikewk.com/post/quick-python-code-with-jinja2-/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-python-code-with-jinja2-/</guid>
+      <description>Networking is awesome but some tasks may be quite boring and repetitive. For new campus network installations a lot of time is used just to put a basic initial configuration template on switches&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MTU on Nexus switches, CDP and vCenter</title>
+      <link>https://data-scribers.mikewk.com/post/mtu-on-nexus-switches-cdp-and-/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mtu-on-nexus-switches-cdp-and-/</guid>
+      <description>Some time ago I&amp;rsquo;ve installed the new core switches for a customer: a couple of Nexus 7000, a couple of 5000 and twelve Nexus 2232TM, Virtual port channels, VLANs, Radius auth and so on.. all the usual configs a good network engineer does. Since the Nexus 5000 are connected to an iSCSI storage I&amp;rsquo;ve configured Jumbo frames&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE</title>
+      <link>https://data-scribers.mikewk.com/post/ccie/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie/</guid>
+      <description>This means two things: I&amp;rsquo;m CCIE for over one year now I need to prepare again the written exam The last day to test the v4 edition is June 3, 2014, I&amp;rsquo;ve passed that exam twice so I expect a little effort to pass it&amp;hellip;</description>
     </item>
     
     <item>
@@ -13363,12 +14084,84 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>CCNA 10 years</title>
+      <link>https://data-scribers.mikewk.com/post/ccna-10-years/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccna-10-years/</guid>
+      <description>Ten years ago I&amp;rsquo;ve passed my first Cisco exam: CCNA! What was supposed to be just a marginal skill for a junior systems engineer became both my job and my passion&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCNA Wireless</title>
+      <link>https://data-scribers.mikewk.com/post/ccna-wireless/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccna-wireless/</guid>
+      <description>I took advantage of my participation at Cisco Live 2014 to book a free Cisco exam IUWNE&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Live 2014 Milan</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-live-2014-milan/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-live-2014-milan/</guid>
+      <description>Last week I had the opportunity to attend Cisco Live in Milan. This is my second time at Cisco Live, I&amp;rsquo;ve been in London last year. Some people still doesn&amp;rsquo;t know what Cisco Live is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HP Comware 7 simulator</title>
+      <link>https://data-scribers.mikewk.com/post/hp-comware-7-simulator/</link>
+      <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hp-comware-7-simulator/</guid>
+      <description>Many network vendors are publishing simulators to the community. A simulator can be a way to complete a training or can be used for a PoC&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HP Master Accredited Systems Engineer</title>
+      <link>https://data-scribers.mikewk.com/post/hp-master-accredited-systems-e/</link>
+      <pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hp-master-accredited-systems-e/</guid>
+      <description>As many other vendors HP has a fast track for people already certified with Cisco to achieve an HP certification skipping some basic exams&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HE IPv6 tunnel broker and certification</title>
+      <link>https://data-scribers.mikewk.com/post/he-ipv6-tunnel-broker-and-cert/</link>
+      <pubDate>Thu, 26 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/he-ipv6-tunnel-broker-and-cert/</guid>
+      <description>IPv6 is the evolution that everybody know must be done one day but not today&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Live! for my fellow italian networkers (italian only)</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-live-for-my-fellow-itali/</link>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-live-for-my-fellow-itali/</guid>
+      <description>Questo post e&amp;rsquo; dedicato ai networkers iscritti al CUG di AreaNetworking&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Grammar of Models?</title>
       <link>https://data-scribers.mikewk.com/post/a-grammar-of-models/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/a-grammar-of-models/</guid>
       <description>I’m also really interested in statistical learning as a family of modeling techniques, a kind of fitting them together very well and forming a grammer of models. You can make a new model by joing things together, just like the grammer of graphics by which you can come up with a new graphic that is just a new arrangment of existing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Darknet - I2P</title>
+      <link>https://data-scribers.mikewk.com/post/darknet-i2p/</link>
+      <pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/darknet-i2p/</guid>
+      <description>I&amp;rsquo;m not a network security specialist but sometimes I&amp;rsquo;m curious about some topics and I like to test how they work&amp;hellip;</description>
     </item>
     
     <item>
@@ -13381,6 +14174,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Happy birthday</title>
+      <link>https://data-scribers.mikewk.com/post/happy-birthday/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/happy-birthday/</guid>
+      <description>Today, 10 years ago, I&amp;rsquo;ve registered this domain. My initial idea was just to have a place to play with html and to save some interesting links. After that I switched to RapidVeawer mostly beacuse I liked the themes and it was a good WYSIWYG editor. The current release is just another wordpress blog but it works for me&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Statistics Can Do Anything?</title>
       <link>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
@@ -13390,12 +14192,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Four letters more CCDP</title>
+      <link>https://data-scribers.mikewk.com/post/four-letters-more-ccdp/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/four-letters-more-ccdp/</guid>
+      <description>Today I&amp;rsquo;ve passed 642-874 ARCH exam that in conjunction with CCIE and CCNP entitles to obtain the CCDP certification. To prepare the exam I&amp;rsquo;ve used the official study guide along with the documents in the Cisco Design Zone&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Huawei Certified Datacom Professional</title>
+      <link>https://data-scribers.mikewk.com/post/huawei-certified-datacom-profe/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/huawei-certified-datacom-profe/</guid>
+      <description>Huawei network devices are becoming more and more popular in european market lately. It all started with 3G adapters, then mobiles, and now I see routers and switches deployed in many locations&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Monte Carlo Approximiation</title>
       <link>https://data-scribers.mikewk.com/post/monte-carlo-approximiation/</link>
       <pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/monte-carlo-approximiation/</guid>
       <description>There are a lot of explanations of Monte Carlo approximation out there. Here is one that worked for me. A famous mathematician named Stan Ulam liked solitaire. He wanted to work out the probability of getting a perfect solitaire hand. Being a mathematician, he also wanted to work this out analytically. The more trial simulations (iterations) you run, the better the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New toy - Airconsole</title>
+      <link>https://data-scribers.mikewk.com/post/new-toy-airconsole/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-toy-airconsole/</guid>
+      <description>Console access to devices for a network engineer is almost as important as telnet/ssh access&amp;hellip;</description>
     </item>
     
     <item>
@@ -13414,6 +14243,458 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/humanity/</guid>
       <description>It seems a strange thought at first. How do the humanities help you make money? You know, getting you a job. We&amp;rsquo;ve all got that annoying uncle or in-law or friend who plays devil&amp;rsquo;s advocate (or douchebag) when you reveal that you are studying French and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AutoHotkey</title>
+      <link>https://data-scribers.mikewk.com/post/autohotkey/</link>
+      <pubDate>Sat, 25 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/autohotkey/</guid>
+      <description>One of the more annoying things of the windows command line is the lack of Shift+Ins to paste the clipboard. A bit of googling made me discover a very useful software called AutoHotkey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco WLC roaming debug &#43; gawk &#43; sed</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-wlc-roaming-debug-gawk-s/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-wlc-roaming-debug-gawk-s/</guid>
+      <description>Quite often I have to debug a wireless client roaming across lighweight Cisco APs to confirm it moves between APs as expected in the network design. On the WLC the command is &amp;ldquo;debug client MAC&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE plaque</title>
+      <link>https://data-scribers.mikewk.com/post/ccie-plaque/</link>
+      <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie-plaque/</guid>
+      <description>Got mail from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Antenna radiation pattern, law of sines, free space propagation loss</title>
+      <link>https://data-scribers.mikewk.com/post/antenna-radiation-pattern-law-/</link>
+      <pubDate>Sat, 20 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/antenna-radiation-pattern-law-/</guid>
+      <description>I work with WiFi more than I admit to myself and now that I have more time to study outside the CCIE R&amp;amp;S blueprint boundaries it&amp;rsquo;s time to focus on other&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wonky Wisp, Smokeping and AWS free tier</title>
+      <link>https://data-scribers.mikewk.com/post/wonky-wisp-smokeping-and-aws-f/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wonky-wisp-smokeping-and-aws-f/</guid>
+      <description>My home network is connected to the Internet via radio bridge&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My CCIE experience</title>
+      <link>https://data-scribers.mikewk.com/post/my-ccie-experience/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-ccie-experience/</guid>
+      <description>In really enjoyed to read all the blog post of people passing the CCIE lab exam over the years. I&amp;rsquo;ve found the stories very inspirational so now it&amp;rsquo;s time for me to give back&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco certifications</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-certifications/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-certifications/</guid>
+      <description>I noticed that not everybody knows how to download Cisco certs PDF files or order additional printed copies. Just open this link, login with your Cisco credentials and enter the menu &amp;ldquo;Certification Fulfillment&amp;rdquo;. An additional CCIE plaque costs 150USD, paper certs cost 15USD.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE #38619</title>
+      <link>https://data-scribers.mikewk.com/post/ccie-38619/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie-38619/</guid>
+      <description>I&amp;rsquo;ve passed the CCIE R&amp;amp;S lab exam yesterday in Brussels, results arrived this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Brand Center Network Topology Icons</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-brand-center-network-top/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-brand-center-network-top/</guid>
+      <description>Cisco icons are globally recognized and generally accepted as standard for network icon topologies. You may use them freely, but you may not alter them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE lab numbers preallocation myth certification value</title>
+      <link>https://data-scribers.mikewk.com/post/ccie-lab-numbers-preallocation/</link>
+      <pubDate>Sun, 10 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie-lab-numbers-preallocation/</guid>
+      <description>Cisco stopped to publish CCIE statistics some time ago but in Cisco Live presentations we can find some slides like this:
+A couple of days ago on twitter Bob McCouch who passed his lab on February 21st posted this:
+I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with the numbers since they&amp;rsquo;re very&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>https://data-scribers.mikewk.com/post/recipe/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recipe/</guid>
+      <description>NTP client / server with authentication SERVER CONFIG ntp authentication-key 1 md5 0802657D2A36 7 ntp master 5 CLIENT CONFIG ntp authentication-key 1 md5 1531223F2705 7 ntp authenticate ntp trusted-key 1 ntp server 10.0.12&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Live! Europe 2013</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-live-europe-2013/</link>
+      <pubDate>Thu, 28 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-live-europe-2013/</guid>
+      <description>Cisco Live! Europe: I&amp;rsquo;m in! First time here, the impression is like being in the Willy Wonka chocolate factory with the big difference you can touch everything without disappear. As my job is not focused on a single technology I&amp;rsquo;m registered to many different sessions, from WiFi to Security, from FCoE to Routing/Switching. A longer review will follow&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>L2 QoS lab with DSCP mutation map and QoS port statistics</title>
+      <link>https://data-scribers.mikewk.com/post/l2-qos-lab-with-dscp-mutation-/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/l2-qos-lab-with-dscp-mutation-/</guid>
+      <description>The dscp mutation map is a per-port configuration that permits to modify the dscp field of a packet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Netflow quick notes</title>
+      <link>https://data-scribers.mikewk.com/post/netflow-quick-notes/</link>
+      <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/netflow-quick-notes/</guid>
+      <description>Netflow quick notes for basic config. NETFLOW EXPORT Send NetFlow data to a collector: From? (source) Where? (destination, port) How? (udp, sctp, backup) Version? (1,5,9) SAMPLING / FILTERING Not all traffic is evaluated to generate NetFlow statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ebook</title>
+      <link>https://data-scribers.mikewk.com/post/ebook/</link>
+      <pubDate>Sun, 02 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ebook/</guid>
+      <description>Your Route to Cisco Career Success by Kevin Wallace A free ebook from Amazon/Kindle about the strategy to prepare for a brilliant career in networking&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Alcatel Lucent Certified Field Expert</title>
+      <link>https://data-scribers.mikewk.com/post/alcatel-lucent-certified-field/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/alcatel-lucent-certified-field/</guid>
+      <description>After one week of training in Milan and passing the exam I&amp;rsquo;ve added an Alcatel-Lucent certification to my c.v.: &amp;ldquo;Alcatel-Lucent Certified Field Expert - ACFE - OmniSwitch R6/R6&amp;rdquo; OmniSwitch have some proprietary features, like mobile vlans, that may be very useful in some deployments&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PVST and non Cisco switches interoperability</title>
+      <link>https://data-scribers.mikewk.com/post/pvst-and-non-cisco-switches-in/</link>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pvst-and-non-cisco-switches-in/</guid>
+      <description>This week I&amp;rsquo;m attending an HP training in Milan The course topics aren&amp;rsquo;t as challenging as I&amp;rsquo;ve expected but I had the opportunity to test focus on some interoperability problems that may occur in mixed environments, especially with Cisco and non-Cisco devices, like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIEWireless blog and Youtube Channel</title>
+      <link>https://data-scribers.mikewk.com/post/cciewireless-blog-and-youtube-/</link>
+      <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cciewireless-blog-and-youtube-/</guid>
+      <description>A great blog and Youtube channel with a lot of resources for Cisco Wireless:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>File prompt quiet</title>
+      <link>https://data-scribers.mikewk.com/post/file-prompt-quiet/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/file-prompt-quiet/</guid>
+      <description>When a router config is saved with copy run start IOS asks for a destination filename: RTR#copy running-config startup-config Destination filename [startup-config]? Building configuration..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco Catalyst 3560 and 3750 QoS Simplified... Seriously! by Kevin Wallace</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-catalyst-3560-and-3750-q/</link>
+      <pubDate>Sun, 16 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-catalyst-3560-and-3750-q/</guid>
+      <description>[youtube]http://www.youtube.com/watch?v=6UJZBeK_JCs&amp;amp;feature=youtu[... ](https://www.ifconfig.it/hugo/post/cisco-catalyst-3560-and-3750-qos-simplified-seriously-by-kevin-wallace/)</description>
+    </item>
+    
+    <item>
+      <title>OSPF Forward Address</title>
+      <link>https://data-scribers.mikewk.com/post/ospf-forward-address/</link>
+      <pubDate>Sun, 16 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ospf-forward-address/</guid>
+      <description>OSPF Forward Address (FA): works like BGP next-hop for OSPF external routes advertised only if next-hop is on a not-passive and multiaccess interface if there&amp;rsquo;s not a route to FA address, route is not installed FA = 0.0.0.0 -&amp;gt; cost to ABR FA &amp;lt;&amp;gt; 0.0.0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>INE CCIE R&amp;S bootcamp – 2nd week</title>
+      <link>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-2nd-week/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-2nd-week/</guid>
+      <description>After the first week of the INE bootcamp I spent the weekend relaxing a bit and reviewing the topics on the doc-cd&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>INE CCIE R&amp;S bootcamp - 1st week</title>
+      <link>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-1st-week/</link>
+      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-1st-week/</guid>
+      <description>I spent this week in London attending the first part INE CCIE R&amp;amp;S 10days bootcamp with Brian Dennis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>System Administrator Appreciation Day</title>
+      <link>https://data-scribers.mikewk.com/post/system-administrator-appreciat/</link>
+      <pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/system-administrator-appreciat/</guid>
+      <description>Today is system administrator appreciation day. Don&amp;rsquo;t forget to show your appreciation to youy SysAdmin (on Network Admin).&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Today is the World IPv6 Day</title>
+      <link>https://data-scribers.mikewk.com/post/today-is-the-world-ipv6-day/</link>
+      <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/today-is-the-world-ipv6-day/</guid>
+      <description>This time is for real&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Debian Administrator&#39;s Handbook</title>
+      <link>https://data-scribers.mikewk.com/post/debian-administrators-handbook/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/debian-administrators-handbook/</guid>
+      <description>A nice and free manual to manage Debian: Accessible to all, this book teaches the essentials to anyone who wants to become an effective and independent Debian GNU/Linux administrator.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to change a L2L VPN peer IP on Cisco ASA 8.3(2)4</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-change-a-l2l-vpn-peer-i/</link>
+      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-change-a-l2l-vpn-peer-i/</guid>
+      <description>Today a customer called to change the IP address of a L2L VPN peer on his Cisco ASA 8.3(2)4. The task can be divided in 3 steps: 1) Get the VPN password. It should be written somewhere in the network documentation, as stated by rule 7, but you know, password sometimes just get lost. 2) Find and update crypto map asa# sh run | b peer 1.1.1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>XCA - X Certificate and key management</title>
+      <link>https://data-scribers.mikewk.com/post/xca-x-certificate-and-key-mana/</link>
+      <pubDate>Fri, 25 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/xca-x-certificate-and-key-mana/</guid>
+      <description>As a network engineer I deal with digital certificates quite often for EAP-TLS authentication, VPN, and device certificates like on WLC controllers. Customers that don&amp;rsquo;t need a public certificate just want a valid certificate loaded on the device to make it work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How do I get an IPv6? How much it costs?</title>
+      <link>https://data-scribers.mikewk.com/post/how-do-i-get-an-ipv6-how-much-/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-do-i-get-an-ipv6-how-much-/</guid>
+      <description>Sometimes customers ask me how they can get provider independent IP addresses. Since IPv4 are finished, I looked for IPv6 only. To apply for Provider Independent addresses there are some Contractual Requirements that must be met. It&amp;rsquo;s cleat that IP are assigned to the organization and can&amp;rsquo;t be assigned to third parties, i.e&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TCPing</title>
+      <link>https://data-scribers.mikewk.com/post/tcping/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tcping/</guid>
+      <description>tcping.exe is a small console application that operates similarly to &amp;lsquo;ping&amp;rsquo;, however it works over a tcp port. License: GPL - Platforms: Win XP, Vista 7 When I have to test if a TCP connection works, like when configuring a NAT or ACL rule, usually I telnet the specific port&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tomahawk IPS Test Tool</title>
+      <link>https://data-scribers.mikewk.com/post/tomahawk-ips-test-tool/</link>
+      <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tomahawk-ips-test-tool/</guid>
+      <description>Tomahawk is a command line tool for testing network-based intrusion prevention systems (NIPS). The concept is simple, you can download virus,attacks,exploit pcaps from many sources and save them on the Tomahawk machine&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Batch Compiler</title>
+      <link>https://data-scribers.mikewk.com/post/batch-compiler/</link>
+      <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/batch-compiler/</guid>
+      <description>Tool of the day: Batch Compiler</description>
+    </item>
+    
+    <item>
+      <title>Brocade Certified Network Professional</title>
+      <link>https://data-scribers.mikewk.com/post/brocade-certified-network-prof/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/brocade-certified-network-prof/</guid>
+      <description>Passed Brocade 150-220 exam, another badge added to my c.v. Having a CCNP background and some CCIE theory knowledge I found this exam quite easy.On the exam blueprint just some QoS implementations, VRRP-E and Metro Ring Protocol are different than Cisco exams&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Copy files to ASA via SCP</title>
+      <link>https://data-scribers.mikewk.com/post/copy-files-to-asa-via-scp/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/copy-files-to-asa-via-scp/</guid>
+      <description>Sometimes it can be useful to copy files to and from a Cisco ASA Firewall via SCP&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ASA - show vpn pre shared key in cleartext</title>
+      <link>https://data-scribers.mikewk.com/post/asa-show-vpn-pre-shared-key-in/</link>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/asa-show-vpn-pre-shared-key-in/</guid>
+      <description>Forgot the PSK of a VPN on a Cisco ASA? With this command you can see all the passwords in clear: more&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Monitor Cisco router uptime with Nagios and Cacti</title>
+      <link>https://data-scribers.mikewk.com/post/monitor-cisco-router-uptime-wi/</link>
+      <pubDate>Sat, 31 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/monitor-cisco-router-uptime-wi/</guid>
+      <description>On a customer&amp;rsquo;s network we noticed that the Internet facing router reboots because of a software error. We stumbled on this issue by chance, just because one of the reboots was during a videoconference&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fping</title>
+      <link>https://data-scribers.mikewk.com/post/fping/</link>
+      <pubDate>Sat, 24 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fping/</guid>
+      <description>Ping is one of the most useful tools to test network connectivity, sometimes it is the first step for troubleshooting and getting the &amp;ldquo;!&amp;rdquo; (if you work on Cisco devices) can be a big satisfaction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>IPv6 and TunnelBroker</title>
+      <link>https://data-scribers.mikewk.com/post/ipv6-and-tunnelbroker/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ipv6-and-tunnelbroker/</guid>
+      <description>Inspired by the Packet Pushers Podcast I setup my personal IPv6 tunnel to TunnelBroker.net. Registration is free and the configuration is straightforward. The first step is the registration and setup of a tunnel to our IPv4 address&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>IPv6 migration strategy</title>
+      <link>https://data-scribers.mikewk.com/post/ipv6-migration-strategy/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ipv6-migration-strategy/</guid>
+      <description>&amp;ldquo;You can either do a planned, careful migration, or you can do it in a panic, and you should know full well that panicking is more expensive&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Python!</title>
+      <link>https://data-scribers.mikewk.com/post/lets-python/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-python/</guid>
+      <description>Inspired by the CodeAcademy project, I&amp;rsquo;ve decided to learn a programming language this year. Back in high school I&amp;rsquo;ve learnt Pascal, Delphi, Assembly and C but many years passed so I forgot all the sintax but not the basics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco switches and Voice VLAN</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-switches-and-voice-vlan/</link>
+      <pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-switches-and-voice-vlan/</guid>
+      <description>Remember: voice Vlan is not automatically created when applied to a port&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RFC 1925 - The Twelve Networking Truths</title>
+      <link>https://data-scribers.mikewk.com/post/rfc-1925-the-twelve-networking/</link>
+      <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rfc-1925-the-twelve-networking/</guid>
+      <description>Number 8 is the one I mention when I see a network project made with PowerPoint that looks simple with all those clouds and arrows: (8) It is more complicated than you think&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TCP sync on ASA</title>
+      <link>https://data-scribers.mikewk.com/post/tcp-sync-on-asa/</link>
+      <pubDate>Sat, 14 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tcp-sync-on-asa/</guid>
+      <description>A customer called today for a strange issue on their Cisco ASA. They have 60Mbit internet connection and a big event is filling the bandwidth. The session graph is what they are worried about: This is a perfect example of TCP Sync, well explained HERE&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>glogg - the fast, smart log explore</title>
+      <link>https://data-scribers.mikewk.com/post/glogg-the-fast-smart-log-explo/</link>
+      <pubDate>Sat, 14 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/glogg-the-fast-smart-log-explo/</guid>
+      <description>Glogg is a tool to browse and search through text files. I find it very useful to search in log files, it&amp;rsquo;s light and fast. It can also &amp;ldquo;follow&amp;rdquo; a file, so there&amp;rsquo;s no need to reopen the file or refresh if something changes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NtRadPing - a free Radius test utility</title>
+      <link>https://data-scribers.mikewk.com/post/ntradping-a-free-radius-test-u/</link>
+      <pubDate>Sat, 07 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ntradping-a-free-radius-test-u/</guid>
+      <description>Quite often when a network configuration includes authentication or 802.1x on network devices Radius is the protocol of choice. NtRadPing is a free utility to test a Radius server&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>HP Fast Track</title>
+      <link>https://data-scribers.mikewk.com/post/hp-fast-track/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hp-fast-track/</guid>
+      <description>HP allows Cisco certified people to achieve it&amp;rsquo;s MASE/ASE certs using Fast Track: While HP certifications aren&amp;rsquo;t as popular as Cisco&amp;rsquo;s they can be a way to learn a different platform and increase career opportunities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Certified in Cisco Data Center Support for UC Specialist</title>
+      <link>https://data-scribers.mikewk.com/post/certified-in-cisco-data-center/</link>
+      <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/certified-in-cisco-data-center/</guid>
+      <description>Today I passed Cisco 642-983 DCUCI exam and it was a surprise to see two certifications on my Cisco curriculum: Cisco Unified Computing Technology Support Specialist and Cisco Data Center Support for UC Specialist The next step would be &amp;ldquo;Cisco Data Center Unified Computing Support Specialist&amp;rdquo; but since VCP is a requirement and is not in my plans I have to skip that&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cisco DCUCI training</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-dcuci-training/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-dcuci-training/</guid>
+      <description>This week I&amp;rsquo;m attending Cisco DCUCI course in Milan&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Certified in CCNP Security</title>
+      <link>https://data-scribers.mikewk.com/post/certified-in-ccnp-security/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/certified-in-ccnp-security/</guid>
+      <description>Today I passed this Cisco exam: (642-647) Deploying Cisco ASA VPN Solutions v1.0 (VPN) and my CCSP certification is now updated to the new CCNP(Security). I&amp;rsquo;ve prepared the exam on the Cisco Press Official Cert Guide&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CCIE R&amp;S, not this time.</title>
+      <link>https://data-scribers.mikewk.com/post/ccie-rs-not-this-time/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ccie-rs-not-this-time/</guid>
+      <description>I didn&amp;rsquo;t pass the CCIE R&amp;amp;S Lab exam today in Brussels. This was my first attempt. I have to improve my troubleshooting skills and go deeper in some technologies but I think I can do it. I don&amp;rsquo;t have plans for the next attempt yet, there&amp;rsquo;re other personal projects that will take most of my free time in the next months&amp;hellip;</description>
     </item>
     
     <item>
@@ -13550,6 +14831,87 @@ We&amp;rsquo;ve been experiencing technical difficulties while upgrading Medgadg
       
       <guid>https://data-scribers.mikewk.com/post/medtronics-attain-ability-plus/</guid>
       <description>Medtronic has received FDA regulatory approval to market a pair of left ventricle cardiac resynchronization leads&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Small servers</title>
+      <link>https://data-scribers.mikewk.com/post/small-servers/</link>
+      <pubDate>Sat, 26 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/small-servers/</guid>
+      <description>A quick note about tcp small servers. DOC-CD says: &amp;ldquo;The TCP small servers consist of three services: Discard (port 9), Echo (port 7), and Chargen (port 19)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PPPoE peer IP address</title>
+      <link>https://data-scribers.mikewk.com/post/pppoe-peer-ip-address/</link>
+      <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pppoe-peer-ip-address/</guid>
+      <description>Quick note on PPPoE address&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The 10 Networking Commandments</title>
+      <link>https://data-scribers.mikewk.com/post/the-10-networking-commandments/</link>
+      <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-10-networking-commandments/</guid>
+      <description>Thou shalt above all, maintain the integrity of the network. Thou shalt have a long term strategic direction. Thou shalt always opt for quality before expediency. Thou shalt meet the requirements, exceed the expectations and anticipate the needs of users. Thou shalt benefit from a successful implementation by careful project planning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Autoinstall - Frame Relay</title>
+      <link>https://data-scribers.mikewk.com/post/autoinstall-frame-relay/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/autoinstall-frame-relay/</guid>
+      <description>First of all: autoinstall works only on the first serial interface of the router, don&amp;rsquo;t forget it. This is the topology for the small lab: R1 is a TFTP server, it stores R3 configuration in flash&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Autoinstall - LAN</title>
+      <link>https://data-scribers.mikewk.com/post/autoinstall-lan/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/autoinstall-lan/</guid>
+      <description>Autoinstall is a quite interesting topic, it deserves some labbing. Start from the DOC-CD as usual, we focus on the LAN implementation first. You can find HERE the flowchart of the autoinstall process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RMON and MIB</title>
+      <link>https://data-scribers.mikewk.com/post/rmon-and-mib/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmon-and-mib/</guid>
+      <description>RMON is generally an easy task, can be tricky but usually on CCIE workbooks the task are fair. The hardest part for me is to find the MIB to monitor. This is the task: monitor interface Vlan1, send a trap if it receives more than 100 packets every 30 seconds, send a trap if it goes under 50 packets every 30 seconds&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SNMPv3</title>
+      <link>https://data-scribers.mikewk.com/post/snmpv3/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/snmpv3/</guid>
+      <description>Snmp v3 is described in many RFC, like RFC3414 and so on. History and security of the various SNMP versions are easy to find and well known, let&amp;rsquo;s focus on configuration&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>OSX as Syslog server</title>
+      <link>https://data-scribers.mikewk.com/post/osx-as-syslog-server/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/osx-as-syslog-server/</guid>
+      <description>How to keep track of logs of a Cisco router using OSX? Easy task! Enable syslog listener on OSX: instructions here add this line to /etc/syslog.conf local7.* /var/log/cisco.log enable logging on the router: logging facility local7 ! ip address of iMac logging 10.0.0.1 install the Syslog Widget and configure it to check file /var/log/cisco.log&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hacking work</title>
+      <link>https://data-scribers.mikewk.com/post/hacking-work/</link>
+      <pubDate>Tue, 07 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacking-work/</guid>
+      <description>&amp;ldquo;Breaking stupid rules for smart results.&amp;rdquo; Not the best book ever but I liked the concept: don&amp;rsquo;t stick to the rules if you feel the rules don&amp;rsquo;t allows to work in and efficient way. Hacking work is actually intrapreneurship and requires a little anarchic spirit&amp;hellip;</description>
     </item>
     
   </channel>

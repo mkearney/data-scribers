@@ -804,6 +804,15 @@
     </item>
     
     <item>
+      <title>Mikrotik hAP lite classic</title>
+      <link>https://data-scribers.mikewk.com/post/mikrotik-hap-lite-classic/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mikrotik-hap-lite-classic/</guid>
+      <description>For a Network Engineer living and working on the field has some challenges that are not common in office environments&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Interpretable Machine Learning with iml and mlr</title>
       <link>https://data-scribers.mikewk.com/post/interpretable-machine-learning/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
@@ -891,6 +900,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/teaching-luxembourgish-to-my-c/</guid>
       <description>Today we reveal a project that Kevin and myself have been working on for the past 2 months, Liss. Liss is a sentiment analysis artificial intelligence; you can let Liss read single words or whole sentences, and Liss will tell you if the overall sentiment is either positive or negative&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NetShot</title>
+      <link>https://data-scribers.mikewk.com/post/netshot/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/netshot/</guid>
+      <description>We live in a time of intent, automation, orchestration and a lot of wonderful tools that promise to make the life of network engineers easier. Sometimes reality is simpler and maybe less fascinating, real problems need to be solved quickly with small budget&amp;hellip;</description>
     </item>
     
     <item>
@@ -1092,6 +1110,15 @@
     </item>
     
     <item>
+      <title>Cisco ASA show connections ordered</title>
+      <link>https://data-scribers.mikewk.com/post/cisco-asa-show-connections-ord/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cisco-asa-show-connections-ord/</guid>
+      <description>When a customer calls with a problem or request I often see a chance to investigate a technology, learn something new or apply random skills to find a creative solution. This time is about an ASA, customer noticed too much traffic on the Internet facing interface&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Misspecification and fit indices in covariance-based SEM</title>
       <link>https://data-scribers.mikewk.com/post/misspecification-and-fit-indic/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
@@ -1107,6 +1134,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</guid>
       <description>We are generally most interested in finding out where the peak of that curve is, because the parameters associated with that point (the maximum likelihood estimates) are often used to describe the “true” underlying data generating&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Network Automation seminar with Ivan Pepelnjiak</title>
+      <link>https://data-scribers.mikewk.com/post/network-automation-seminar-wit/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/network-automation-seminar-wit/</guid>
+      <description>This week I&amp;rsquo;ve attended the Network Automation Seminar organized by Reiss Romoli. The speaker was the great Ivan Pepelnjiak! I was happy to meet Ivan again after NFD16&amp;hellip;</description>
     </item>
     
     <item>
@@ -1389,6 +1425,15 @@
     </item>
     
     <item>
+      <title>Ansible and IOS quick start</title>
+      <link>https://data-scribers.mikewk.com/post/ansible-and-ios-quick-start/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ansible-and-ios-quick-start/</guid>
+      <description>Ansible has been around for I while but I didn&amp;rsquo;t had a chance to play with it so far&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tidytext Analysis of Seinfeld</title>
       <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
@@ -1413,6 +1458,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/a-first-taste-of-the-common-wo/</guid>
       <description>If you go to the CWL webpage you are greeted, right at the top, by these two sentences: The Common Workflow Language (CWL) is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>TAC Security Workshop - Poland</title>
+      <link>https://data-scribers.mikewk.com/post/tac-security-workshop-poland/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tac-security-workshop-poland/</guid>
+      <description>This week I attended and event organized by Cisco TAC in Krakow. I&amp;rsquo;ve been in may Cisco events (Live, PVT, Pint etc.) but It was the first time for me at a TAC workshop and I was curious about it&amp;hellip;</description>
     </item>
     
     <item>
@@ -1695,6 +1749,15 @@
     </item>
     
     <item>
+      <title>SecureCRT and Python</title>
+      <link>https://data-scribers.mikewk.com/post/securecrt-and-python/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/securecrt-and-python/</guid>
+      <description>SecureCRT is one of my favourite tools, today I had a chance to use it in a way I didn&amp;rsquo;t expected. A customer called with a problem: he has a radio bridge that sometimes loses connection with the remote unit. The workaround is to reload the base unit&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>#IVMOOC Week 1</title>
       <link>https://data-scribers.mikewk.com/post/ivmooc-week-1/</link>
       <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
@@ -1704,12 +1767,30 @@
     </item>
     
     <item>
+      <title>NeDi and Observium or LibreNMS</title>
+      <link>https://data-scribers.mikewk.com/post/nedi-and-observium-or-librenms/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nedi-and-observium-or-librenms/</guid>
+      <description>NeDi and Observium are two of my favourites network monitoring tools. I do like to deploy both, they complete each other and since they&amp;rsquo;re free there is no need to choose. The only problem with the use of two tools is the integration&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>rmongodb 1.8.0</title>
       <link>https://data-scribers.mikewk.com/post/rmongodb-180/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
       <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Log analysis GUI tools</title>
+      <link>https://data-scribers.mikewk.com/post/log-analysis-gui-tools/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/log-analysis-gui-tools/</guid>
+      <description>Log analysis is important to both troubleshoot and understand network devices behaviour. Tail/less/grep are great tools that can help to filter and search hundreds or thousands lines of logs. If you prefer a GUI there are a couple of alternatives that can fit well&amp;hellip;</description>
     </item>
     
     <item>
@@ -1737,6 +1818,24 @@
       
       <guid>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</guid>
       <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fping</title>
+      <link>https://data-scribers.mikewk.com/post/fping/</link>
+      <pubDate>Sat, 24 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fping/</guid>
+      <description>Ping is one of the most useful tools to test network connectivity, sometimes it is the first step for troubleshooting and getting the &amp;ldquo;!&amp;rdquo; (if you work on Cisco devices) can be a big satisfaction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Python!</title>
+      <link>https://data-scribers.mikewk.com/post/lets-python/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-python/</guid>
+      <description>Inspired by the CodeAcademy project, I&amp;rsquo;ve decided to learn a programming language this year. Back in high school I&amp;rsquo;ve learnt Pascal, Delphi, Assembly and C but many years passed so I forgot all the sintax but not the basics&amp;hellip;</description>
     </item>
     
     <item>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/degreeone-polynomials/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/october-magic-for-your-desktop/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -868,6 +873,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/trying-out-flexdashboard/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -1183,6 +1193,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/semester-schedule-planner/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -1374,6 +1389,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -4253,6 +4273,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/trying-out-github-pages-with-b/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/visualizing-flight-data-with-g/</loc>
     <lastmod>2018-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -6933,8 +6958,28 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/getting-started-with-the-acade/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/iam-with-rae-wang/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/customizing-the-homepage-with-/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/managing-content/</loc>
+    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/writing-content-with-markdown-/</loc>
+    <lastmod>2016-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -6955,6 +7000,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/adding-space-between-rows-in-l/</loc>
     <lastmod>2016-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/frequently-asked-questions-faq/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7661,6 +7711,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/dsnotescom/</loc>
     <lastmod>2017-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/dsollbergernetlifycom/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

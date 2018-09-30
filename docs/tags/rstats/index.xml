@@ -625,6 +625,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Trying Out FlexDashboard</title>
+      <link>https://data-scribers.mikewk.com/post/trying-out-flexdashboard/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/trying-out-flexdashboard/</guid>
+      <description>To convert my lab, which was previously in an R Markdown document for HTML output, I had to From there, I also started to arrange the “paragraphs” into separate columns for a nice&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>rstudio</title>
       <link>https://data-scribers.mikewk.com/post/rstudio/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
@@ -1009,6 +1018,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</guid>
       <description>Perler beadsPerler bead hexagonsHexagon function (blank design)Hexagon design function #1Hexagon design function #2Future hexagon designsI’m not finished working on hexagons yet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s see if I can make posts (mostly) through RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</guid>
+      <description>Let’s see if I can make posts (mostly) through&amp;hellip;</description>
     </item>
     
     <item>

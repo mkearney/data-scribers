@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsollbergernetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/dsollbergernetlifycom/</link>
+    <description>Recent content in Dsollbergernetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/dsollbergernetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Degree-One Polynomials</title>
+      <link>https://data-scribers.mikewk.com/post/degreeone-polynomials/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/degreeone-polynomials/</guid>
+      <description>Disclaimer: I know that the following discussion is incomplete. These are simply notes that I threw together overnight&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Trying Out FlexDashboard</title>
+      <link>https://data-scribers.mikewk.com/post/trying-out-flexdashboard/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/trying-out-flexdashboard/</guid>
+      <description>To convert my lab, which was previously in an R Markdown document for HTML output, I had to From there, I also started to arrange the “paragraphs” into separate columns for a nice&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Semester Schedule Planner</title>
+      <link>https://data-scribers.mikewk.com/post/semester-schedule-planner/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/semester-schedule-planner/</guid>
+      <description>The convention is that “0” is a Sunday, “1” is a Monday, …, and “5” is a Friday&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s see if I can make posts (mostly) through RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</guid>
+      <description>Let’s see if I can make posts (mostly) through&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Trying out GitHub Pages with Blogdown</title>
+      <link>https://data-scribers.mikewk.com/post/trying-out-github-pages-with-b/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/trying-out-github-pages-with-b/</guid>
+      <description>Well, I hope to delete the pre-included widgets for now since I do not have&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-the-acade/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-the-acade/</guid>
+      <description>Key features: Start the Hugo server from your website root folder: Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Customizing the homepage with widgets</title>
+      <link>https://data-scribers.mikewk.com/post/customizing-the-homepage-with-/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/customizing-the-homepage-with-/</guid>
+      <description>The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>https://data-scribers.mikewk.com/post/managing-content/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-content/</guid>
+      <description>To create a new publication: To create a project: To create a talk: So you would like to create a page which utilizes Academic&amp;rsquo;s widget system, similar to the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
+      <link>https://data-scribers.mikewk.com/post/writing-content-with-markdown-/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-content-with-markdown-/</guid>
+      <description>A general image: A numbered figure with caption: I ❤️ Academic 😄 This is a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (FAQ)</title>
+      <link>https://data-scribers.mikewk.com/post/frequently-asked-questions-faq/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/frequently-asked-questions-faq/</guid>
+      <description>Common questions and answers will be listed here. Let&amp;rsquo;s consider the following LaTeX which fails to parse correctly: This is a side effect of Academic and Hugo attempting to parse TOML, Markdown and LaTeX content in the abstract&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Cevocomau on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/cevocomau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>System Mapping</title>
+      <link>https://data-scribers.mikewk.com/post/system-mapping/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/system-mapping/</guid>
+      <description>Every organisation has legacy systems, and people who know &amp;ldquo;where the bodies are buried&amp;rdquo; - hidden aspects of dependency, communication, process flow and whatnot, which every system relies on to function&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Python as a cloud glue language</title>

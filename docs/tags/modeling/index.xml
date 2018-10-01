@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The New Framer X</title>
+      <link>https://data-scribers.mikewk.com/post/the-new-framer-x/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-new-framer-x/</guid>
+      <description>The Framer team recently released a new prototyping tool, Framer X, and I was lucky enough to be able to test it during the beta phase. In this article, I’d like to share my thoughts about this new tool and its features&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Now Out</title>

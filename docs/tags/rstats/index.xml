@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Making a Reminder Bot for Automating Meeting Organisation using R and Google Sheets</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</guid>
+      <description>TL;DR Background Initial setup Solving the Issues Issue 1: Rescheduling Solution Issue 2: Broken Mailing Lists Solution Issue 3: Forgetfulness Solution Issue 4: Participation Solution Automating the process Wrap up Note TL;DR Organising our journal club meetings took a lot of time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Now Out</title>
       <link>https://data-scribers.mikewk.com/post/now-out/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
@@ -874,6 +883,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</guid>
       <description>library(tidyverse) library(tesseract) library(pdftools) library(hocr) library(here) library(fs) library(hunspell) library(hrbrthemes) library(patchwork) Challenge This post is inspired by recent tweet by Paige Bailey about vintage computer magazines made available for free download on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Who I Am and What I Do</title>
+      <link>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</guid>
+      <description>My Present My name is Granville Matheson, currently living and working in Stockholm,&amp;hellip;</description>
     </item>
     
     <item>

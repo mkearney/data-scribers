@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Granvillemathesoncom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/granvillemathesoncom/</link>
+    <description>Recent content in Granvillemathesoncom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/granvillemathesoncom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a Reminder Bot for Automating Meeting Organisation using R and Google Sheets</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</guid>
+      <description>TL;DR Background Initial setup Solving the Issues Issue 1: Rescheduling Solution Issue 2: Broken Mailing Lists Solution Issue 3: Forgetfulness Solution Issue 4: Participation Solution Automating the process Wrap up Note TL;DR Organising our journal club meetings took a lot of time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Weather in Stockholm, Inside and Out, and the Curious Case of Summer 2018</title>
+      <link>https://data-scribers.mikewk.com/post/the-weather-in-stockholm-insid/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-weather-in-stockholm-insid/</guid>
+      <description>Background Setup SMHI Daily Minimum and Maximum Weekly Temperatures Time Series High Temperatures Low Temperatures Summary Our office Daily Minimum and Maximum Inside Outside No ventilation! Health and Comfort Conclusions Background To start off with, this is my first blog post! Obligatory yay! Anyhow&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://data-scribers.mikewk.com/post/publications/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/publications/</guid>
+      <description>2018 Matheson, GJ (2018). We need to talk about reliability: Making better use of test retest studies for study design and interpretation. bioRxiv, 274894. Matheson, GJ, Plavén-Sigray, P, Louzolo, Anaïs, Borg, J, Farde, L, Petrovic, P &amp;amp; Cervenka, S (2018). Dopamine D1 receptor availability is not associated with delusional ideation measures of psychosis proneness&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Who I Am and What I Do</title>
+      <link>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</guid>
+      <description>My Present My name is Granville Matheson, currently living and working in Stockholm,&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>Making a Reminder Bot for Automating Meeting Organisation using R and Google Sheets</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</guid>
+      <description>TL;DR Background Initial setup Solving the Issues Issue 1: Rescheduling Solution Issue 2: Broken Mailing Lists Solution Issue 3: Forgetfulness Solution Issue 4: Participation Solution Automating the process Wrap up Note TL;DR Organising our journal club meetings took a lot of time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Now Out</title>
       <link>https://data-scribers.mikewk.com/post/now-out/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
@@ -1624,6 +1633,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The Weather in Stockholm, Inside and Out, and the Curious Case of Summer 2018</title>
+      <link>https://data-scribers.mikewk.com/post/the-weather-in-stockholm-insid/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-weather-in-stockholm-insid/</guid>
+      <description>Background Setup SMHI Daily Minimum and Maximum Weekly Temperatures Time Series High Temperatures Low Temperatures Summary Our office Daily Minimum and Maximum Inside Outside No ventilation! Health and Comfort Conclusions Background To start off with, this is my first blog post! Obligatory yay! Anyhow&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What birds are observed near Radolfzell? Bird occurrence data in R</title>
       <link>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
@@ -2254,6 +2272,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://data-scribers.mikewk.com/post/publications/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/publications/</guid>
+      <description>2018 Matheson, GJ (2018). We need to talk about reliability: Making better use of test retest studies for study design and interpretation. bioRxiv, 274894. Matheson, GJ, Plavén-Sigray, P, Louzolo, Anaïs, Borg, J, Farde, L, Petrovic, P &amp;amp; Cervenka, S (2018). Dopamine D1 receptor availability is not associated with delusional ideation measures of psychosis proneness&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Reading vintage magazines with `hocr`</title>
       <link>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -2269,6 +2296,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/semester-schedule-planner/</guid>
       <description>The convention is that “0” is a Sunday, “1” is a Monday, …, and “5” is a Friday&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Who I Am and What I Do</title>
+      <link>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</guid>
+      <description>My Present My name is Granville Matheson, currently living and working in Stockholm,&amp;hellip;</description>
     </item>
     
     <item>

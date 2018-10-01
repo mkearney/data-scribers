@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/making-a-reminder-bot-for-auto/</loc>
+    <lastmod>2018-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/now-out/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
   </url>
@@ -898,6 +903,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/the-weather-in-stockholm-insid/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -1248,12 +1258,22 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/publications/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/semester-schedule-planner/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/who-i-am-and-what-i-do/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -8709,6 +8729,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/gokhancifliklicom/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/granvillemathesoncom/</loc>
+    <lastmod>2018-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

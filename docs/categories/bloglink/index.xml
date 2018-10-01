@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Memoisation</title>
+      <link>https://data-scribers.mikewk.com/post/memoisation/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/memoisation/</guid>
+      <description>Memoisation allows the caching of the output for a function for a given set of inputs. This technique is really useful when a function takes a long time to execute&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Degree-One Polynomials</title>
       <link>https://data-scribers.mikewk.com/post/degreeone-polynomials/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>

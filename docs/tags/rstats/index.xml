@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Memoisation</title>
+      <link>https://data-scribers.mikewk.com/post/memoisation/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/memoisation/</guid>
+      <description>Memoisation allows the caching of the output for a function for a given set of inputs. This technique is really useful when a function takes a long time to execute&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Now Out</title>

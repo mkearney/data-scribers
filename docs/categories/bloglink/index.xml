@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Draft Combine Measures &amp; Defense, Part Two - Full Inferential Models</title>
+      <link>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</guid>
+      <description>In Part One of my look at draft combine measures and defensive performance, I graphed out some basic relationships among the combine measures (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>October Magic For Your Desktop (2018 Edition)</title>
       <link>https://data-scribers.mikewk.com/post/october-magic-for-your-desktop/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
@@ -540,6 +549,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/dl-indaba/</guid>
       <description>Vukosi and Yasin(i) share how Deep Learning Indaba is playing an important role to recognize and grow machine learning research and companies on the African continent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Much Does Thibs Love His Former Players?</title>
+      <link>https://data-scribers.mikewk.com/post/how-much-does-thibs-love-his-f/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-much-does-thibs-love-his-f/</guid>
+      <description>Tom Thibodeau loves his former players. Since taking over as coach of the TWolves, Thibs (who also serves of president of basketball operations) has acquired the services of no fewer than six players he coached on the Bulls: Jimmy Butler, Taj Gibson, Derrick Rose, Aaron Brooks, John Lucas III, and most recently Luol Deng&amp;hellip;</description>
     </item>
     
     <item>
@@ -1156,6 +1174,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Manu Ginobili</title>
+      <link>https://data-scribers.mikewk.com/post/manu-ginobili/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/manu-ginobili/</guid>
+      <description>Manu Ginobili retired last week after a 16-year, 4-championship career that will likely see him land in the HOF and was undoubtably great&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Scaling AWS ECS services with Alarms, Target tracking &amp; CloudFormation</title>
       <link>https://data-scribers.mikewk.com/post/scaling-aws-ecs-services-with-/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
@@ -1360,6 +1387,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/setting-up-datagrip/</guid>
       <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for Datagrip. Datagrip is available as a snap package on Ubuntu, which can be installed using the following command: Follow these steps: Here is a made-up TNS&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Draft Combine Measures &amp; Defense, Part One - Basic Relationships</title>
+      <link>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</guid>
+      <description>When we talk about the defensive potential of incoming NBA players, we’re usually referring to a set of physical attributes – height, length, physical strength, footspeed, etc&amp;hellip;</description>
     </item>
     
     <item>
@@ -1795,12 +1831,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Clustering High Scorers by Shot Type</title>
+      <link>https://data-scribers.mikewk.com/post/clustering-high-scorers-by-sho/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/clustering-high-scorers-by-sho/</guid>
+      <description>People like arguing about the relative greatness of great basketball players. This desire often sees itself expressed in…less than optimally informed ways&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mongolite 2.0</title>
       <link>https://data-scribers.mikewk.com/post/mongolite-20/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/mongolite-20/</guid>
       <description>This week version 2.0 of the mongolite package has been released to CRAN. Major new features in this release include support for MongoDB 4.0, GridFS, running database commands, and connection pooling. New in version 2.0 is support for the MongoDB GridFS system&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where Guys Are From, Part One - Heat Maps</title>
+      <link>https://data-scribers.mikewk.com/post/where-guys-are-from-part-one-h/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-guys-are-from-part-one-h/</guid>
+      <description>I’ve at some point described every place I’ve ever lived as “a good town/city/region/state for basketball”&amp;hellip;</description>
     </item>
     
     <item>

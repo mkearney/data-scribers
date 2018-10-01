@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/october-magic-for-your-desktop/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -294,6 +299,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/dl-indaba/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-much-does-thibs-love-his-f/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,6 +648,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/manu-ginobili/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/scaling-aws-ecs-services-with-/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
   </url>
@@ -750,6 +765,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/setting-up-datagrip/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -993,7 +1013,17 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/clustering-high-scorers-by-sho/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/mongolite-20/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/where-guys-are-from-part-one-h/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -9275,6 +9305,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/vegawidgetrbindio/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/visualizingtheleaguecom/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

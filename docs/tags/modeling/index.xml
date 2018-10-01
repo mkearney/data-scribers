@@ -174,6 +174,15 @@
     </item>
     
     <item>
+      <title>In praise of Commonmark</title>
+      <link>https://data-scribers.mikewk.com/post/in-praise-of-commonmark/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-praise-of-commonmark/</guid>
+      <description>In this note I’ll use my local fork of rOpenSci’s website source, and use all the Markdown sources of blog posts as example data. The chunk below is therefore not portable, sorry about that. My fork master branch isn’t entirely synced. It has 202 posts&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Test Post Please Don&#39;t Ignore</title>
       <link>https://data-scribers.mikewk.com/post/test-post-please-dont-ignore/</link>
       <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
@@ -288,6 +297,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/topic-modelling-of-trustpilot-/</guid>
       <description>Improving the look of figures in ggplot2 is fairly simple. For consistency, we’ll create a clean and simple theme based on the APA theme from the jtools package and change some of the features. The background colour will be set to a light grey hue&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>https://data-scribers.mikewk.com/post/phylotar/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/phylotar/</guid>
+      <description>In this technote I will outline what phylotaR was developed for, how to install it and how to run it with some simple examples&amp;hellip;</description>
     </item>
     
     <item>

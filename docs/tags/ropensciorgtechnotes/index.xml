@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ropensciorgtechnotes on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ropensciorgtechnotes/</link>
+    <description>Recent content in Ropensciorgtechnotes on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ropensciorgtechnotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tinkr</title>
+      <link>https://data-scribers.mikewk.com/post/tinkr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tinkr/</guid>
+      <description>Maybe there could be shortcuts functions for some operations in 2, maybe not. Characters are escaped (e.g. “[” when not for a link). Block quotes lines all get “&amp;gt;” whereas in the input only the first could have a “&amp;gt;” at the beginning of the first line. We read “example1.md”, change all headers 3 to headers 1, and save it back to md&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In praise of Commonmark</title>
+      <link>https://data-scribers.mikewk.com/post/in-praise-of-commonmark/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-praise-of-commonmark/</guid>
+      <description>In this note I’ll use my local fork of rOpenSci’s website source, and use all the Markdown sources of blog posts as example data. The chunk below is therefore not portable, sorry about that. My fork master branch isn’t entirely synced. It has 202 posts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rgbif</title>
+      <link>https://data-scribers.mikewk.com/post/rgbif/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rgbif/</guid>
+      <description>We&amp;rsquo;ve come a long way since Aug 2011. We&amp;rsquo;ve added a lot of new functionality and many new contributors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mongolite 2.0</title>
+      <link>https://data-scribers.mikewk.com/post/mongolite-20/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mongolite-20/</guid>
+      <description>This week version 2.0 of the mongolite package has been released to CRAN. Major new features in this release include support for MongoDB 4.0, GridFS, running database commands, and connection pooling. New in version 2.0 is support for the MongoDB GridFS system&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>https://data-scribers.mikewk.com/post/phylotar/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/phylotar/</guid>
+      <description>In this technote I will outline what phylotaR was developed for, how to install it and how to run it with some simple examples&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gifski on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/gifski-on-cran/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gifski-on-cran/</guid>
+      <description>The R package wraps the Rust crate and can be installed in the usual way from CRAN. One of the major benefits of Rust is that it has no runtime, so the R package has no dependencies. This is the first CRAN package that interfaces a Rust library&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>phylogram</title>
+      <link>https://data-scribers.mikewk.com/post/phylogram/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/phylogram/</guid>
+      <description>As an example, a simple three-leaf dendrogram can be created from a nested list as&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The ssh Package</title>
+      <link>https://data-scribers.mikewk.com/post/the-ssh-package/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-ssh-package/</guid>
+      <description>Because the ssh package is based on libssh it does not need to shell out. Therefore it works natively on all platforms without any runtime dependencies. Even on Windows&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>vcr</title>
+      <link>https://data-scribers.mikewk.com/post/vcr/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vcr/</guid>
+      <description>The first time the above code block is run real HTTP connections are allowed because it doesn&amp;rsquo;t match any previous requests, and the response is cached. The second time the request is made, the cached response is used&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>taxize</title>
+      <link>https://data-scribers.mikewk.com/post/taxize/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/taxize/</guid>
+      <description>We&amp;rsquo;ve come a long way since May 2011. We&amp;rsquo;ve added a lot of new functionality and many new contributors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>drake&#39;s improved high-performance computing power</title>
+      <link>https://data-scribers.mikewk.com/post/drakes-improved-highperformanc/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/drakes-improved-highperformanc/</guid>
+      <description>A typical workflow is a sequence of interdependent data transformations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>icon: web icons for rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</guid>
+      <description>Icons can be added to your R Markdown documents using short prefixes which identify the font&amp;rsquo;s library&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>webmockr: mock HTTP requests</title>
+      <link>https://data-scribers.mikewk.com/post/webmockr-mock-http-requests/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/webmockr-mock-http-requests/</guid>
+      <description>But I&amp;rsquo;ve been making some improvements, so you&amp;rsquo;ll probably want the dev version: Install some dependencies Next, you&amp;rsquo;ll want to think about stubbing requests Stubbing requests simply refers to the act of saying &amp;ldquo;I want all HTTP requests that match this pattern to return this thing&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Support for hOCR and Tesseract 4 in R</title>
+      <link>https://data-scribers.mikewk.com/post/support-for-hocr-and-tesseract/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/support-for-hocr-and-tesseract/</guid>
+      <description>Two major new features are support for HOCR and support for the upcoming Tesseract 4. Every word in the hOCR output includes meta data such as bounding box, confidence metrics, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>nodbi</title>
+      <link>https://data-scribers.mikewk.com/post/nodbi/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nodbi/</guid>
+      <description>You can imagine how it is relatively straight-forward to create a common interace to row-column oriented databases, and DBI is great for that. Thus far, we&amp;rsquo;ve built nodbi around data.frame&amp;rsquo;s. That is, we&amp;rsquo;re focusing on the data.frame use case as it&amp;rsquo;s very common that R users are dealing solely with data.frame&amp;rsquo;s in their analysis pipelines&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fulltext v1</title>
+      <link>https://data-scribers.mikewk.com/post/fulltext-v1/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fulltext-v1/</guid>
+      <description>Text-mining - the art of answering questions by extracting patterns, data, etc. out of the published literature - is not easy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Magick 1.6</title>
+      <link>https://data-scribers.mikewk.com/post/magick-16/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/magick-16/</guid>
+      <description>One issue was that sometimes magick graphics would show a 1px black border around the image. It turned out this is caused by rounding of clipping coordinates. When R calculates clipping area it often ends up at non-whole values&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>solrium 1.0</title>
+      <link>https://data-scribers.mikewk.com/post/solrium-10/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/solrium-10/</guid>
+      <description>Or get the development version: If the instance uses SSL, simply specify that like: This change does break the interface we had in the old version, but we think it&amp;rsquo;s worth it&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

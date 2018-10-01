@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>Gifski on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/gifski-on-cran/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gifski-on-cran/</guid>
+      <description>The R package wraps the Rust crate and can be installed in the usual way from CRAN. One of the major benefits of Rust is that it has no runtime, so the R package has no dependencies. This is the first CRAN package that interfaces a Rust library&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Event Triggered Customer Segmentation</title>
       <link>https://data-scribers.mikewk.com/post/event-triggered-customer-segme/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
@@ -210,6 +219,15 @@
     </item>
     
     <item>
+      <title>vcr</title>
+      <link>https://data-scribers.mikewk.com/post/vcr/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vcr/</guid>
+      <description>The first time the above code block is run real HTTP connections are allowed because it doesn&amp;rsquo;t match any previous requests, and the response is cached. The second time the request is made, the cached response is used&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R4DS June Challenge</title>
       <link>https://data-scribers.mikewk.com/post/r4ds-june-challenge/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
@@ -234,6 +252,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/welcome-to-vegawidget/</guid>
       <description>The effort to bring Vega-Lite to the R community is collaborative; so it appropriate that the altair package be hosted by an organization. The altair R package uses the Altair Python package to create Vega-Lite specifications for interactive charts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>icon: web icons for rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</guid>
+      <description>Icons can be added to your R Markdown documents using short prefixes which identify the font&amp;rsquo;s library&amp;hellip;</description>
     </item>
     
     <item>
@@ -333,6 +360,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/something-different/</guid>
       <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>webmockr: mock HTTP requests</title>
+      <link>https://data-scribers.mikewk.com/post/webmockr-mock-http-requests/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/webmockr-mock-http-requests/</guid>
+      <description>But I&amp;rsquo;ve been making some improvements, so you&amp;rsquo;ll probably want the dev version: Install some dependencies Next, you&amp;rsquo;ll want to think about stubbing requests Stubbing requests simply refers to the act of saying &amp;ldquo;I want all HTTP requests that match this pattern to return this thing&amp;rdquo;&amp;hellip;</description>
     </item>
     
     <item>

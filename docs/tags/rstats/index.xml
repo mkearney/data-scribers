@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>tinkr</title>
+      <link>https://data-scribers.mikewk.com/post/tinkr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tinkr/</guid>
+      <description>Maybe there could be shortcuts functions for some operations in 2, maybe not. Characters are escaped (e.g. “[” when not for a link). Block quotes lines all get “&amp;gt;” whereas in the input only the first could have a “&amp;gt;” at the beginning of the first line. We read “example1.md”, change all headers 3 to headers 1, and save it back to md&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Now Out</title>
       <link>https://data-scribers.mikewk.com/post/now-out/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
@@ -697,6 +706,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Mongolite 2.0</title>
+      <link>https://data-scribers.mikewk.com/post/mongolite-20/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mongolite-20/</guid>
+      <description>This week version 2.0 of the mongolite package has been released to CRAN. Major new features in this release include support for MongoDB 4.0, GridFS, running database commands, and connection pooling. New in version 2.0 is support for the MongoDB GridFS system&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Where to go observe birds in Radolfzell? An answer with R and open data</title>
       <link>https://data-scribers.mikewk.com/post/where-to-go-observe-birds-in-r/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
@@ -757,6 +775,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/makeactivebinding/</guid>
       <description>Finally, we generate all outputs to build the dependency table&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>https://data-scribers.mikewk.com/post/phylotar/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/phylotar/</guid>
+      <description>In this technote I will outline what phylotaR was developed for, how to install it and how to run it with some simple examples&amp;hellip;</description>
     </item>
     
     <item>
@@ -982,6 +1009,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</guid>
       <description>This first post aims to summarize the main challenges that educators face, as a tool to help them think through the decisions they make about their course materials&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gifski on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/gifski-on-cran/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gifski-on-cran/</guid>
+      <description>The R package wraps the Rust crate and can be installed in the usual way from CRAN. One of the major benefits of Rust is that it has no runtime, so the R package has no dependencies. This is the first CRAN package that interfaces a Rust library&amp;hellip;</description>
     </item>
     
     <item>
@@ -1480,6 +1516,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The ssh Package</title>
+      <link>https://data-scribers.mikewk.com/post/the-ssh-package/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-ssh-package/</guid>
+      <description>Because the ssh package is based on libssh it does not need to shell out. Therefore it works natively on all platforms without any runtime dependencies. Even on Windows&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>(R) Fetching JSON</title>
       <link>https://data-scribers.mikewk.com/post/r-fetching-json/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
@@ -1671,6 +1716,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>vcr</title>
+      <link>https://data-scribers.mikewk.com/post/vcr/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vcr/</guid>
+      <description>The first time the above code block is run real HTTP connections are allowed because it doesn&amp;rsquo;t match any previous requests, and the response is cached. The second time the request is made, the cached response is used&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>trekfont</title>
       <link>https://data-scribers.mikewk.com/post/trekfont/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
@@ -1776,6 +1830,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</guid>
       <description>Join Max Kuhn of RStudio for his popular Applied Machine Learning Workshop in Washington D.C.! If you’d missed his sold out course at rstudio::conf 2018 now is your chance. This two-day course will provide an overview of using R for supervised learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>icon: web icons for rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</guid>
+      <description>Icons can be added to your R Markdown documents using short prefixes which identify the font&amp;rsquo;s library&amp;hellip;</description>
     </item>
     
     <item>
@@ -2670,6 +2733,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Support for hOCR and Tesseract 4 in R</title>
+      <link>https://data-scribers.mikewk.com/post/support-for-hocr-and-tesseract/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/support-for-hocr-and-tesseract/</guid>
+      <description>Two major new features are support for HOCR and support for the upcoming Tesseract 4. Every word in the hOCR output includes meta data such as bounding box, confidence metrics, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Teaching Luxembourgish to my computer</title>
       <link>https://data-scribers.mikewk.com/post/teaching-luxembourgish-to-my-c/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
@@ -2904,6 +2976,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>nodbi</title>
+      <link>https://data-scribers.mikewk.com/post/nodbi/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nodbi/</guid>
+      <description>You can imagine how it is relatively straight-forward to create a common interace to row-column oriented databases, and DBI is great for that. Thus far, we&amp;rsquo;ve built nodbi around data.frame&amp;rsquo;s. That is, we&amp;rsquo;re focusing on the data.frame use case as it&amp;rsquo;s very common that R users are dealing solely with data.frame&amp;rsquo;s in their analysis pipelines&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>SOMs and ggplot</title>
       <link>https://data-scribers.mikewk.com/post/soms-and-ggplot/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
@@ -2937,6 +3018,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/back-to-the-dt-package-after-t/</guid>
       <description>As a standalone HTML page (rendered as a full-page HTML widget), in R Markdown code chunks, and in Shiny. In the RStudio Viewer, and in a normal web browser. In Bootstrap themes, or on normal HTML pages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fulltext v1</title>
+      <link>https://data-scribers.mikewk.com/post/fulltext-v1/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fulltext-v1/</guid>
+      <description>Text-mining - the art of answering questions by extracting patterns, data, etc. out of the published literature - is not easy&amp;hellip;</description>
     </item>
     
     <item>
@@ -3253,6 +3343,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/great-packages-for-understandi/</guid>
       <description>On the first steps of any project, the most usual task is to take a glimpse, figure how our data is distributed, and as fast as possible, be ready for next steps (wrangling and imputation)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Magick 1.6</title>
+      <link>https://data-scribers.mikewk.com/post/magick-16/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/magick-16/</guid>
+      <description>One issue was that sometimes magick graphics would show a 1px black border around the image. It turned out this is caused by rounding of clipping coordinates. When R calculates clipping area it often ends up at non-whole values&amp;hellip;</description>
     </item>
     
     <item>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximewackcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/maximewackcom/</link>
+    <description>Recent content in Maximewackcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/maximewackcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tagbar, elm and rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/tagbar-elm-and-rmarkdown/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tagbar-elm-and-rmarkdown/</guid>
+      <description>TL;DR Get ctags for Rmarkdown and Elm by installing Tagbar and downloading elmtags.py and rmdtags.py. Exhuberant ctags is a formidable way to navigate through your projects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>So, about those resolutions</title>
+      <link>https://data-scribers.mikewk.com/post/so-about-those-resolutions/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/so-about-those-resolutions/</guid>
+      <description>It seems like they didn&amp;rsquo;t hold very long… Me being a French guy, you&amp;rsquo;re probably waiting for some kind of excuse, like &amp;ldquo;I&amp;rsquo;ve been too busy actually doing things that I didn&amp;rsquo;t have time to write about&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Remaking GraphTV</title>
+      <link>https://data-scribers.mikewk.com/post/remaking-graphtv/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/remaking-graphtv/</guid>
+      <description>There is a little piece of software on the Internet that I very much liked&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Year&#39;s Resolution</title>
+      <link>https://data-scribers.mikewk.com/post/new-years-resolution/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-years-resolution/</guid>
+      <description>I don&amp;rsquo;t do nor believe in New Year&amp;rsquo;s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Internet</title>
+      <link>https://data-scribers.mikewk.com/post/hello-internet/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-internet/</guid>
+      <description>This is the first post for this blog. I will post here about the tools that I use, mostly Archlinux, vim and R. You can read more about this blog and myself in the About section. Social media contacts are at the bottom of every page. You can browse my (public) repos on my own instance of Gitea with the top menu&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tagbar-elm-and-rmarkdown/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/now-out/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
   </url>
@@ -394,6 +399,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/r4ds-v1-v2/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/so-about-those-resolutions/</loc>
     <lastmod>2018-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -4428,6 +4438,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/remaking-graphtv/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</loc>
     <lastmod>2018-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -4504,6 +4519,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/new-years-resolution/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -4719,6 +4739,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/functional-programming-rstats/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/hello-internet/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -8730,6 +8755,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/matthewsmithrbindio/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/maximewackcom/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Tagbar, elm and rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/tagbar-elm-and-rmarkdown/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tagbar-elm-and-rmarkdown/</guid>
+      <description>TL;DR Get ctags for Rmarkdown and Elm by installing Tagbar and downloading elmtags.py and rmdtags.py. Exhuberant ctags is a formidable way to navigate through your projects&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Now Out</title>
       <link>https://data-scribers.mikewk.com/post/now-out/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
@@ -721,6 +730,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/r4ds-v1-v2/</guid>
       <description>As all amazing opportunities in my life are wont to do, it started with a tweet: It’s rare that I find myself dealing with imposter syndrome, but I did spend Thursday night eating all of my feelings of doubt and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>So, about those resolutions</title>
+      <link>https://data-scribers.mikewk.com/post/so-about-those-resolutions/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/so-about-those-resolutions/</guid>
+      <description>It seems like they didn&amp;rsquo;t hold very long… Me being a French guy, you&amp;rsquo;re probably waiting for some kind of excuse, like &amp;ldquo;I&amp;rsquo;ve been too busy actually doing things that I didn&amp;rsquo;t have time to write about&amp;hellip;</description>
     </item>
     
     <item>
@@ -7980,6 +7998,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Remaking GraphTV</title>
+      <link>https://data-scribers.mikewk.com/post/remaking-graphtv/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/remaking-graphtv/</guid>
+      <description>There is a little piece of software on the Internet that I very much liked&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Notes on Thrombotic Microangiopathy</title>
       <link>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
@@ -8122,6 +8149,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</guid>
       <description>Getting the data A couple of months ago I discovered a package developed by Public Health England that makes it easier to extract the data behind their fingertips website (https://fingertips.phe.org.uk/)[... ](https://emmavestesson.netlify.com/2018/01/maps/)</description>
+    </item>
+    
+    <item>
+      <title>New Year&#39;s Resolution</title>
+      <link>https://data-scribers.mikewk.com/post/new-years-resolution/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-years-resolution/</guid>
+      <description>I don&amp;rsquo;t do nor believe in New Year&amp;rsquo;s&amp;hellip;</description>
     </item>
     
     <item>
@@ -8509,6 +8545,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/functional-programming-rstats/</guid>
       <description>&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Internet</title>
+      <link>https://data-scribers.mikewk.com/post/hello-internet/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-internet/</guid>
+      <description>This is the first post for this blog. I will post here about the tools that I use, mostly Archlinux, vim and R. You can read more about this blog and myself in the About section. Social media contacts are at the bottom of every page. You can browse my (public) repos on my own instance of Gitea with the top menu&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Eliocampgithubiocodigor on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/eliocampgithubiocodigor/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leyendo información del INCUCAI</title>
+      <link>https://data-scribers.mikewk.com/post/leyendo-informaci%C3%B3n-del-incuca/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/leyendo-informaci%C3%B3n-del-incuca/</guid>
+      <description>El otro día el diario Clarín sacó una nota afirmando que el pasado agosto se había dado el récord histórico de transplantes de órganos y se lo adjudicaba a la &amp;ldquo;Ley Justina&amp;rdquo;, que establece que todos somos donantes presuntos a menos que se declare lo contrario en&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Multiple color (and fill) scales with ggplot2</title>

@@ -336,6 +336,15 @@
     </item>
     
     <item>
+      <title>Introduction to Urban Institute Education Data API</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</guid>
+      <description>The Urban Institute released a public API that pulls and pre-processes data from various sources of education institution data, including but not limited to the Department of Education. We used their R package to explore the relationship between applicant and enrollment volume. To install the R, you must have the devtools library installed&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Reading vintage magazines with `hocr`</title>
       <link>https://data-scribers.mikewk.com/post/reading-vintage-magazines-with/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>

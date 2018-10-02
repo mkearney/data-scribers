@@ -111,6 +111,15 @@
     </item>
     
     <item>
+      <title>Introduction to Urban Institute Education Data API</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</guid>
+      <description>The Urban Institute released a public API that pulls and pre-processes data from various sources of education institution data, including but not limited to the Department of Education. We used their R package to explore the relationship between applicant and enrollment volume. To install the R, you must have the devtools library installed&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A package for dimensionality reduction of large data</title>
       <link>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -207,6 +216,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/tensorflow/</guid>
       <description>This post is my attempt to fill this gap. Rather than focusing on a specific task, I take a more general approach, and explain the fundamental abstractions underpinning Tensorflow. With a good grasp of these concepts, deep learning with Tensorflow becomes intuitive and straightforward&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>World Cup Club Representation</title>
+      <link>https://data-scribers.mikewk.com/post/world-cup-club-representation/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/world-cup-club-representation/</guid>
+      <description>It’s common knowledge amongst association football fans that the World Cup, while being the highest profile event in the world, isn’t necessarily a display of the best football play in the&amp;hellip;</description>
     </item>
     
     <item>

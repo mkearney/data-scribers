@@ -2326,6 +2326,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Introduction to Urban Institute Education Data API</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</guid>
+      <description>The Urban Institute released a public API that pulls and pre-processes data from various sources of education institution data, including but not limited to the Department of Education. We used their R package to explore the relationship between applicant and enrollment volume. To install the R, you must have the devtools library installed&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>UK Population Pyramid</title>
       <link>https://data-scribers.mikewk.com/post/uk-population-pyramid/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
@@ -3889,6 +3898,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/uncertainty-and-sample-size/</guid>
       <description>As a hungry botanist I couldn&amp;rsquo;t think of a more a-peel-ing metaphor than fruit. Let&amp;rsquo;s say we have a fruit bowl consisting of strawberries, raspberries, blueberries, and blackberries&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>World Cup Club Representation</title>
+      <link>https://data-scribers.mikewk.com/post/world-cup-club-representation/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/world-cup-club-representation/</guid>
+      <description>It’s common knowledge amongst association football fans that the World Cup, while being the highest profile event in the world, isn’t necessarily a display of the best football play in the&amp;hellip;</description>
     </item>
     
     <item>

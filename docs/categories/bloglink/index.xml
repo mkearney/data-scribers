@@ -6,10 +6,19 @@
     <description>Recent content in Bloglink on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/categories/bloglink/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hints to deal with Missing Values in R</title>
+      <link>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</guid>
+      <description>In R missing values are usually, but not always, represented by letters NA. How to deal with missing values is very important in the data analytics world&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Lists and functional queues</title>
@@ -856,6 +865,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/an-intermediate-guide-to-rsa/</guid>
       <description>The venerable RSA public key encryption algorithm is very elegant. It requires a basic understanding of modular arithmetic, which may sound scary if you haven&amp;rsquo;t studied it. It reduces to taking the remainder after integer long division. The RSA Wikipedia article describes five simple steps to generate the keys&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combine Data frames in R</title>
+      <link>https://data-scribers.mikewk.com/post/combine-data-frames-in-r/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combine-data-frames-in-r/</guid>
+      <description>Sometimes, before we start to explore our data, we need to put them together. For instance, we might have them stored in different data frames and we have to join variables from two or more data frames in one. This post will talk about the different functions we can use to achieve that goal&amp;hellip;</description>
     </item>
     
     <item>
@@ -2299,6 +2317,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>A Leaflet approach to Coffee Chains</title>
+      <link>https://data-scribers.mikewk.com/post/a-leaflet-approach-to-coffee-c/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-leaflet-approach-to-coffee-c/</guid>
+      <description>This post talks about making interactive visualizations in R with leaflet(). In this example, I’ll map the USA locations of two of the biggest coffee chains, Starbucks and Dunkin’ Donuts. This package allows us to map data and play interactively with it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A package for dimensionality reduction of large data</title>
       <link>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -2503,6 +2530,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/the-first-bookdown-contest/</guid>
       <description>[..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tuition costs and gdp per capita</title>
+      <link>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</guid>
+      <description>This post will explore with R one of the simplest approaches to predict a response of a quantitative nature. This approach is called Linear Regression&amp;hellip;</description>
     </item>
     
     <item>
@@ -3217,12 +3253,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Using R to analyse the German Federal Election</title>
+      <link>https://data-scribers.mikewk.com/post/using-r-to-analyse-the-german-/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-r-to-analyse-the-german-/</guid>
+      <description>As the title of this post implies we will analyze, using the statistical programming language R, the German Federal Election which took place on 24 September of 2017. It will not be an exhaustive analysis of the results. I’m only interested in visualizing the share of the vote that each party represented in the Parliament (i.e&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Why R Conference</title>
       <link>https://data-scribers.mikewk.com/post/why-r-conference/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/why-r-conference/</guid>
       <description>This July we had the great honor to present mlr and its ecosystem at the WhyR 2018 Conference in Wroclaw in Poland&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://data-scribers.mikewk.com/post/about-me/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/about-me/</guid>
+      <description>Welcome to my blog! I&amp;rsquo;m Hugo! My background is in Psychology, more specifically, in the area of face perception. Always eager to learn and after falling in love with R, I will blog mostly about data related topics (e.g. importing, wrangling, visualization, statistics). Not yet Machine Learning, still exploring it&amp;hellip;</description>
     </item>
     
     <item>

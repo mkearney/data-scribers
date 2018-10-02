@@ -354,6 +354,15 @@
     </item>
     
     <item>
+      <title>Tuition costs and gdp per capita</title>
+      <link>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</guid>
+      <description>This post will explore with R one of the simplest approaches to predict a response of a quantitative nature. This approach is called Linear Regression&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>rOpenSci Educators Collaborative</title>
       <link>https://data-scribers.mikewk.com/post/ropensci-educators-collaborati/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>

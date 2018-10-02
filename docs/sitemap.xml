@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/lists-and-functional-queues/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -469,6 +474,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/an-intermediate-guide-to-rsa/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/combine-data-frames-in-r/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1273,6 +1283,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/a-leaflet-approach-to-coffee-c/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/a-package-for-dimensionality-r/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -1384,6 +1399,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/the-first-bookdown-contest/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1783,8 +1803,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/using-r-to-analyse-the-german-/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/why-r-conference/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/about-me/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -8530,7 +8560,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/categories/bloglink/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8572,7 +8602,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/categories/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9034,7 +9064,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9124,7 +9154,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/rstats/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9297,6 +9327,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/toscano84githubio/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/translatedmedicinecom/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -9358,7 +9394,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

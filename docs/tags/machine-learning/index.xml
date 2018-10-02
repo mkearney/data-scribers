@@ -165,6 +165,15 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>https://data-scribers.mikewk.com/post/about-me/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/about-me/</guid>
+      <description>Welcome to my blog! I&amp;rsquo;m Hugo! My background is in Psychology, more specifically, in the area of face perception. Always eager to learn and after falling in love with R, I will blog mostly about data related topics (e.g. importing, wrangling, visualization, statistics). Not yet Machine Learning, still exploring it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tensorflow</title>
       <link>https://data-scribers.mikewk.com/post/tensorflow/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>

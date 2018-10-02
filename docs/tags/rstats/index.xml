@@ -138,12 +138,30 @@
     </item>
     
     <item>
+      <title>Google Trends using gtrends and R shiny</title>
+      <link>https://data-scribers.mikewk.com/post/google-trends-using-gtrends-an/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-trends-using-gtrends-an/</guid>
+      <description>Recently while I was searching for trend data I came across Google Trends. So in the post I am using gtrends, a r package to understand the trends and display it using a R shiny app using the shinymaterial package. The shinymaterial package tends to move away from the traditional shiny dashboard layouts and design&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Knitting Club</title>
       <link>https://data-scribers.mikewk.com/post/knitting-club/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/knitting-club/</guid>
       <description>Matt Dray RAP and the rise of reproducibility The UK government has got better at producing statistical reports in a reproducible way&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing your favourite song?</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-your-favourite-son/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-your-favourite-son/</guid>
+      <description>Recently I was searching for some gifts when I stumbled across Sound Viz and Cumberland Coast . These were your favorite songs which were visualized and printed. So that&amp;rsquo;s when I started looking into on how could you visualize them&amp;hellip;</description>
     </item>
     
     <item>
@@ -3814,6 +3832,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Taps near you</title>
+      <link>https://data-scribers.mikewk.com/post/taps-near-you/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/taps-near-you/</guid>
+      <description>While working on a couple of projects involving beer data I did land up at breweries association. They have a data set on all the breweries across the US. This raw html table was scrapped ,cleaned and geocoded using R. You can find the R Scripts which I used for this project here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Canadian Census</title>
       <link>https://data-scribers.mikewk.com/post/canadian-census/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
@@ -4462,6 +4489,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Maps and gifs</title>
+      <link>https://data-scribers.mikewk.com/post/maps-and-gifs/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maps-and-gifs/</guid>
+      <description>As I have been using R for a while, one of the things I wanted to do was a time series map. Most of the time series maps I see have sliders to change the years. While looking at how to make time series maps I happened to lear how to make a GIF with a set of images&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Being successful on Kaggle using mlr</title>
       <link>https://data-scribers.mikewk.com/post/being-successful-on-kaggle-usi/</link>
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
@@ -4558,6 +4594,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/intro-to-r-slides/</guid>
       <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NFL Season 2016-17</title>
+      <link>https://data-scribers.mikewk.com/post/nfl-season-201617/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfl-season-201617/</guid>
+      <description>Hello World !!! This is my first project using d3js. Being a GIS professional, visualization is always a part of job. I always wanted to learn different ways for visualizing data.Let it be a simple plot using R or a choropleth map using Arcmap . In this project I am trying to display how the NFL season 2016-17 went about&amp;hellip;</description>
     </item>
     
     <item>

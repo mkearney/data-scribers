@@ -372,12 +372,30 @@
     </item>
     
     <item>
+      <title>Colleges vs Breweries - What tops in your State ?</title>
+      <link>https://data-scribers.mikewk.com/post/colleges-vs-breweries-what-top/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/colleges-vs-breweries-what-top/</guid>
+      <description>In this post we see how the no. of breweries stack up against no&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Dark Patterns And Other Design No-Nos For Mobile</title>
       <link>https://data-scribers.mikewk.com/post/dark-patterns-and-other-design/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/dark-patterns-and-other-design/</guid>
       <description>When it comes to making money, some companies will do whatever it takes to get people inside their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google Trends using gtrends and R shiny</title>
+      <link>https://data-scribers.mikewk.com/post/google-trends-using-gtrends-an/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-trends-using-gtrends-an/</guid>
+      <description>Recently while I was searching for trend data I came across Google Trends. So in the post I am using gtrends, a r package to understand the trends and display it using a R shiny app using the shinymaterial package. The shinymaterial package tends to move away from the traditional shiny dashboard layouts and design&amp;hellip;</description>
     </item>
     
     <item>
@@ -396,6 +414,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/system-mapping/</guid>
       <description>Every organisation has legacy systems, and people who know &amp;ldquo;where the bodies are buried&amp;rdquo; - hidden aspects of dependency, communication, process flow and whatnot, which every system relies on to function&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing your favourite song?</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-your-favourite-son/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-your-favourite-son/</guid>
+      <description>Recently I was searching for some gifts when I stumbled across Sound Viz and Cumberland Coast . These were your favorite songs which were visualized and printed. So that&amp;rsquo;s when I started looking into on how could you visualize them&amp;hellip;</description>
     </item>
     
     <item>
@@ -1801,6 +1828,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/its-alive-first-evidence-that-/</guid>
       <description>It is official. The program I have spent the better part of a year working on, the very centerpiece of my dissertation, works&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MTA Subway Ridership</title>
+      <link>https://data-scribers.mikewk.com/post/mta-subway-ridership/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mta-subway-ridership/</guid>
+      <description>var divElement = document.getElementById(&amp;lsquo;viz1534474579211&amp;rsquo;); var vizElement = divElement.getElementsByTagName(&amp;lsquo;object&amp;rsquo;)[0]; vizElement.style.width=&amp;lsquo;1000px&amp;rsquo;;vizElement.style.height=&amp;lsquo;827px&amp;rsquo;; var scriptElement = document.createElement(&amp;lsquo;script&amp;rsquo;); scriptElement.src = &amp;lsquo;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode&amp;hellip;</description>
     </item>
     
     <item>
@@ -9718,6 +9754,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visualizing Airbnb listings.</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-airbnb-listings/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-airbnb-listings/</guid>
+      <description>In this day and age of so many sharing services like Uber and Lyft , pricey hotels are being replaced by Airbnb&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>dplyr</title>
       <link>https://data-scribers.mikewk.com/post/dplyr/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
@@ -10408,6 +10453,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/geoserver-centos-and-tomcat-ar/</guid>
       <description>I&amp;rsquo;m currently working on a small part of a project for my new compagny involving VRT, Geoserver and Tomcat on a CentOS VM. Easy, you should say, not to easy when it is your first time with all those components (except for GeoServer that I tried already). So everything was new to me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Taps near you</title>
+      <link>https://data-scribers.mikewk.com/post/taps-near-you/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/taps-near-you/</guid>
+      <description>While working on a couple of projects involving beer data I did land up at breweries association. They have a data set on all the breweries across the US. This raw html table was scrapped ,cleaned and geocoded using R. You can find the R Scripts which I used for this project here&amp;hellip;</description>
     </item>
     
     <item>
@@ -11869,6 +11923,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>States to Shapes</title>
+      <link>https://data-scribers.mikewk.com/post/states-to-shapes/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/states-to-shapes/</guid>
+      <description>I started working on this visualation after coming across Mike Bostock&amp;rsquo;s shape tweening bl.ock , which was done for one state. The source for this data is Insurance Institute for Highway Service(IIHS). The size of the square is based on the motor vehicle deaths per 100,000 people(2015). &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>You should make an R package for your paper</title>
       <link>https://data-scribers.mikewk.com/post/you-should-make-an-r-package-f/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
@@ -11923,12 +11986,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Harry Potter Characters.</title>
+      <link>https://data-scribers.mikewk.com/post/harry-potter-characters/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/harry-potter-characters/</guid>
+      <description>Across 7 books/ 8 movies there are so many characters in this series by J.K Rowling. For this project I have got the data from data.world. All files here were combined to create a json with nodes and links. Using d3js I have visualized the characters connected to each other. &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Federer, Nadal, Djokovic and Murray, Love.</title>
       <link>https://data-scribers.mikewk.com/post/federer-nadal-djokovic-and-mur/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/federer-nadal-djokovic-and-mur/</guid>
       <description>What do people mean when they say “The Big Four”? In tennis, there is a single answer: Roger Federer, Rafael Nadal, Novak Djokovic and Andy Murray. These 4 players have dominated the world of men’s tennis throught the beginning of the 21st century&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Breweries or Wineries ??</title>
+      <link>https://data-scribers.mikewk.com/post/breweries-or-wineries-/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/breweries-or-wineries-/</guid>
+      <description>.myIframe { position: relative; padding-bottom: 65.25%; padding-top: 30px; height: 0; overflow: auto; -webkit-overflow-scrolling:touch; //When you think about Texas, the first thing that would come in mind is barbecue which of course pairs well with a good beer&amp;hellip;</description>
     </item>
     
     <item>
@@ -12058,6 +12139,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Indian Premier League so far.</title>
+      <link>https://data-scribers.mikewk.com/post/indian-premier-league-so-far/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/indian-premier-league-so-far/</guid>
+      <description>Indian Premier League(IPL) has had 13 different teams over the past ten years&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>slickR</title>
       <link>https://data-scribers.mikewk.com/post/slickr/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
@@ -12181,6 +12271,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/theories-of-data-analysis/</guid>
       <description>Diaconis says that magical thinking is the tendency to see patterns in the noise and to persist believing false statements despite evidence to the contrary&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maps and gifs</title>
+      <link>https://data-scribers.mikewk.com/post/maps-and-gifs/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maps-and-gifs/</guid>
+      <description>As I have been using R for a while, one of the things I wanted to do was a time series map. Most of the time series maps I see have sliders to change the years. While looking at how to make time series maps I happened to lear how to make a GIF with a set of images&amp;hellip;</description>
     </item>
     
     <item>
@@ -12319,6 +12418,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Top Beers in 2016.</title>
+      <link>https://data-scribers.mikewk.com/post/top-beers-in-2016/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/top-beers-in-2016/</guid>
+      <description>After completing my previous post on food I wanted to work on something which I have started to explore recently,craft beer. A friend of mine introduced me to a beer club membership prior to which I never knew anything beyond the Corona&amp;rsquo;s &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ggedit 0.1.1</title>
       <link>https://data-scribers.mikewk.com/post/ggedit-011/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -12370,6 +12478,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/improbable-with-rob-whitehead/</guid>
       <description>In a previous life, he was an indie iOS developer, and an arms dealer in Second Life! How can I resize a persistent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Where do people eat in Austin ??</title>
+      <link>https://data-scribers.mikewk.com/post/where-do-people-eat-in-austin-/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-do-people-eat-in-austin-/</guid>
+      <description>Recently I visited Austin and many of my friends had mentioned about the variety in food options here. So my wife and I decided to search for places to eat on the foursquare app&amp;hellip;</description>
     </item>
     
     <item>
@@ -12469,6 +12586,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/intro-to-r-slides/</guid>
       <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NFL Season 2016-17</title>
+      <link>https://data-scribers.mikewk.com/post/nfl-season-201617/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfl-season-201617/</guid>
+      <description>Hello World !!! This is my first project using d3js. Being a GIS professional, visualization is always a part of job. I always wanted to learn different ways for visualizing data.Let it be a simple plot using R or a choropleth map using Arcmap . In this project I am trying to display how the NFL season 2016-17 went about&amp;hellip;</description>
     </item>
     
     <item>

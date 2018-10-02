@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Promises, their environments, and how we evaluate them</title>
+      <link>https://data-scribers.mikewk.com/post/promises-their-environments-an/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/promises-their-environments-an/</guid>
+      <description>Have you ever wondered how functions are evaluated? How you can have arguments that would raise errors, but do not, or how default arguments can be expressions that depend on function arguments that you haven&amp;rsquo;t seen yet when you define a&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Lists and functional queues</title>
       <link>https://data-scribers.mikewk.com/post/lists-and-functional-queues/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>

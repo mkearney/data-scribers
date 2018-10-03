@@ -6,10 +6,19 @@
     <description>Recent content in Divingintogeneticsandgenomicsrbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/divingintogeneticsandgenomicsrbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>set up my new mac laptop</title>
+      <link>https://data-scribers.mikewk.com/post/set-up-my-new-mac-laptop/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/set-up-my-new-mac-laptop/</guid>
+      <description>I am starting my first day at Harvard FAS informatics and I will keep a note here on how I set up my new laptop. You will have to install git first for the upper command to work&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Compute averages/sums on GRanges or equal length bins</title>

@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Lazy lists</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-lists/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-lists/</guid>
+      <description>I wanted to write about lazy lists and lazy queues today, but I spent most of the day struggling with getting lazy evaluation to work&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Microsoftイベントまとめ→Surface新製品4つ＆Windows 10大型アップデート</title>
       <link>https://data-scribers.mikewk.com/post/microsoft%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81surface%E6%96%B0%E8%A3%BD%E5%93%814%E3%81%A4wi/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
@@ -126,6 +135,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/usb-typec%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%81%AE%E3%81%AF%E4%B8%96%E7%95%8C%E5%88%9Dnintendo-sw/</guid>
       <description>Image:Campfire12月にはあのタイトルも出るし…。NintendoSwitchは、持ち運びできるところが魅力の1つですが、外出先で音量をオンにして遊ぶにはちょっと勇気がいります。ワイヤレスヘッドフォンを使う手もありますが、NintendoSwitchで使うにはBluetoothオーディオアダプターが必要なんですよね。しかも取り付けたとき、見た目があまりスマートではありません。そんな中&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>set up my new mac laptop</title>
+      <link>https://data-scribers.mikewk.com/post/set-up-my-new-mac-laptop/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/set-up-my-new-mac-laptop/</guid>
+      <description>I am starting my first day at Harvard FAS informatics and I will keep a note here on how I set up my new laptop. You will have to install git first for the upper command to work&amp;hellip;</description>
     </item>
     
     <item>
@@ -342,6 +360,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/promises-their-environments-an/</guid>
       <description>Have you ever wondered how functions are evaluated? How you can have arguments that would raise errors, but do not, or how default arguments can be expressions that depend on function arguments that you haven&amp;rsquo;t seen yet when you define a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>We&amp;rsquo;ll start by connecting to the database. When connecting to databases that use usernames and passwords, it&amp;rsquo;s not uncommon to see passwords stored in plain text in the connection string&amp;hellip;</description>
     </item>
     
     <item>

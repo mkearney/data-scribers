@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lazy lists</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-lists/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-lists/</guid>
+      <description>I wanted to write about lazy lists and lazy queues today, but I spent most of the day struggling with getting lazy evaluation to work&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Hints to deal with Missing Values in R</title>
@@ -18,6 +27,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</guid>
       <description>In R missing values are usually, but not always, represented by letters NA. How to deal with missing values is very important in the data analytics world&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>We&amp;rsquo;ll start by connecting to the database. When connecting to databases that use usernames and passwords, it&amp;rsquo;s not uncommon to see passwords stored in plain text in the connection string&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>We&amp;rsquo;ll start by connecting to the database. When connecting to databases that use usernames and passwords, it&amp;rsquo;s not uncommon to see passwords stored in plain text in the connection string&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio Connect 1.6.8 - Emails, APIs, and Titles</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How To Build A News Application With Angular 6 And Material Design</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-build-a-news-applicatio/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-build-a-news-applicatio/</guid>
+      <description>Are you looking to combine Google’s material design with Angular applications? Well, look no further! In this tutorial, we’re going to build a news application using two of the most powerful and popular resources out there, Angular 6 and material&amp;hellip;</description>
+    </item>
     
     <item>
       <title>How To Build A Website With The WP Page Builder Plugin</title>

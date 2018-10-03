@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Waves Intersecting at Right Angles and a Folded Paper</title>
+      <link>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</guid>
+      <description>1 Perpendicular Intersecting Waves 1.1 Problem 1.2 Solution 2 A Folded Paper 2.1 Problem 2.2 Solution: Minimum Area 2.3 Solution: Minimum Crease Length 2.4 Solution: Using R (Without Differentiations) 3 Reference library(knitr) library(tidyverse) library(ggthemes) opts_chunk$set( fig&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://data-scribers.mikewk.com/post/python/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>

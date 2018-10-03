@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/wifi%E3%82%82bluetooth%E3%82%82%E4%B8%8D%E8%A6%81%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%81%A7%E6%99%82%E5%88%BB%E5%90%88/</loc>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1amazon-%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BB%E3%83%BC%E3%83%AB%E7%A5%AD%E3%82%8A%E3%81%A7%E6%9C%80%E5%A4%A780%E4%BB%A5/</loc>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/atm%E3%82%92%E3%83%8F%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%9D%E3%83%83%E3%83%89%E8%A9%90%E6%AC%BA%E3%81%AE%E9%80%AE%E6%8D%95%E8%80%85%E3%81%AB%E5%88%9D%E3%81%AE%E6%87%B2%E5%BD%B9%E5%88%A4%E6%B1%BA/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
@@ -508,6 +518,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/rain-drops/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-zombievampire-apocalypse-a/</loc>
     <lastmod>2018-09-21T00:00:00+00:00</lastmod>
   </url>
@@ -868,6 +883,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/sliding-a-ladder-and-filling-a/</loc>
+    <lastmod>2018-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/creating-data-using-rep/</loc>
     <lastmod>2018-09-07T00:00:00+00:00</lastmod>
   </url>
@@ -1198,6 +1218,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -1433,6 +1458,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/deriving-the-quotient-rule-fro/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/double-negatives/</loc>
     <lastmod>2018-08-08T00:00:00+00:00</lastmod>
   </url>
@@ -1484,6 +1514,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/openai-five-takeaways/</loc>
+    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/tangent-lines-and-nonexistent-/</loc>
     <lastmod>2018-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -2743,6 +2778,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/all-about-git-and-github-in-rs/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/favorite-trail-race/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
@@ -2839,6 +2879,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/country-networks-and-flags/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/hideous-progeny/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -8929,6 +8974,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/alisonrbindio/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/amateurdatascirbindio/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

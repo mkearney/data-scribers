@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amateurdatascirbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/amateurdatascirbindio/</link>
+    <description>Recent content in Amateurdatascirbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/amateurdatascirbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rain Drops</title>
+      <link>https://data-scribers.mikewk.com/post/rain-drops/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rain-drops/</guid>
+      <description>1 Problem 2 Solution 3 Reference 1 Problem Problem 49, page 189 in Simmons (2016) Newton’s second law of motion [ F = ma = m \frac{dv}{dt} ] can be written in the form [ \begin{equation} F = \frac{d \left( mv \right)}{dt} \tag{1.1} \end{equation} ] in terms of the momentum (mv) of a particle of mass (m) and velocity (v), and remains valid even if (m) is not&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sliding a Ladder and Filling a Bowl</title>
+      <link>https://data-scribers.mikewk.com/post/sliding-a-ladder-and-filling-a/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sliding-a-ladder-and-filling-a/</guid>
+      <description>1 Sliding Ladder 1.1 Problem 1.2 Solution 2 Filling a Bowl 2.1 Problem 2.2 Solution 3 References 1 Sliding Ladder 1.1 Problem Problem 116, Page 142 in Simmons (2016) A ladder 20 ft long is leaning against a wall 12 ft high, with its top projecting over the wall&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Waves Intersecting at Right Angles and a Folded Paper</title>
+      <link>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</guid>
+      <description>1 Perpendicular Intersecting Waves 1.1 Problem 1.2 Solution 2 A Folded Paper 2.1 Problem 2.2 Solution: Minimum Area 2.3 Solution: Minimum Crease Length 2.4 Solution: Using R (Without Differentiations) 3 Reference library(knitr) library(tidyverse) library(ggthemes) opts_chunk$set( fig&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Deriving the Quotient Rule from the Product Rule</title>
+      <link>https://data-scribers.mikewk.com/post/deriving-the-quotient-rule-fro/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deriving-the-quotient-rule-fro/</guid>
+      <description>1 From Product to Quotient 1.1 Product Rule of Differentiation 1.2 Quotient Rule of Differentiation 1.3 Derive the Quotient Rule from the Product Rule 2 Problems 2.1 Extend the Product Rule and Prove 2&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tangent Lines and Non-Existent Ones</title>
+      <link>https://data-scribers.mikewk.com/post/tangent-lines-and-nonexistent-/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tangent-lines-and-nonexistent-/</guid>
+      <description>1 Definition of a Tangent Line 2 Slope of a Tangent Line on a Curve 3 Condition for Existence 4 Limit of an Absolute Value 4.1 Problem 4.2 Solution 5 Reference 1 Definition of a Tangent Line Consider a curve (y = f(x)), and let (P) be a given fixed point on this curve. Let (Q) be a second nearby point on the curve, and draw the secant line&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>All About Git and Github in RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/all-about-git-and-github-in-rs/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/all-about-git-and-github-in-rs/</guid>
+      <description>1 Git Newbie 2 Commit, Push, and Pull 3 Let’s Git It On! 3.1 Create an account in Github 3.2 Once we have an account, we can immediately create a repository. 3.3 Configure Git in R Studio 3.4 Create new project with version control 3.5 Copy Repository URL and Create Project 4 Git Up, Git Down 4.1 R Studio’s Easy Git Interface. 4.2 First Commit 4&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hideous Progeny</title>
+      <link>https://data-scribers.mikewk.com/post/hideous-progeny/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hideous-progeny/</guid>
+      <description>1 The Moden Prometheus 2 Pursuit for Frankenstein Begins 3 Emptiness Filled 4 Destruction and Creation 5 Of Man, Of Life 6 A Big Ending 7 Uncontrollable Feelings 7.1 Waves of Emotions 7.2 Down the Precipice 7.3 Fear the Daemon 8 Ice and Hearts of Fire And now, once again, I bid my hideous progeny go forth and prosper&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

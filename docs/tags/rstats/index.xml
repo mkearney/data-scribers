@@ -697,6 +697,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Waves Intersecting at Right Angles and a Folded Paper</title>
+      <link>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/waves-intersecting-at-right-an/</guid>
+      <description>1 Perpendicular Intersecting Waves 1.1 Problem 1.2 Solution 2 A Folded Paper 2.1 Problem 2.2 Solution: Minimum Area 2.3 Solution: Minimum Crease Length 2.4 Solution: Using R (Without Differentiations) 3 Reference library(knitr) library(tidyverse) library(ggthemes) opts_chunk$set( fig&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What birds are observed near Radolfzell? Bird occurrence data in R</title>
       <link>https://data-scribers.mikewk.com/post/what-birds-are-observed-near-r/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
@@ -1857,6 +1866,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/vcr/</guid>
       <description>The first time the above code block is run real HTTP connections are allowed because it doesn&amp;rsquo;t match any previous requests, and the response is cached. The second time the request is made, the cached response is used&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>All About Git and Github in RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/all-about-git-and-github-in-rs/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/all-about-git-and-github-in-rs/</guid>
+      <description>1 Git Newbie 2 Commit, Push, and Pull 3 Let’s Git It On! 3.1 Create an account in Github 3.2 Once we have an account, we can immediately create a repository. 3.3 Configure Git in R Studio 3.4 Create new project with version control 3.5 Copy Repository URL and Create Project 4 Git Up, Git Down 4.1 R Studio’s Easy Git Interface. 4.2 First Commit 4&amp;hellip;</description>
     </item>
     
     <item>

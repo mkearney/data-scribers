@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>TIL</title>
+      <link>https://data-scribers.mikewk.com/post/til/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/til/</guid>
+      <description>I hate asking for help for a lot of reasons, but I always encourage others to ask for help&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hints to deal with Missing Values in R</title>
       <link>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>

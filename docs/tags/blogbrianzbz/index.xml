@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogbrianzbz on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/blogbrianzbz/</link>
+    <description>Recent content in Blogbrianzbz on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogbrianzbz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Managing Database Transactions with SQLAlchemy in Serverless</title>
+      <link>https://data-scribers.mikewk.com/post/managing-database-transactions/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-database-transactions/</guid>
+      <description>For quite some time, SQLAlchemy has been my go-to database toolkit and ORM for Python microservices and Serverless projects. SQLAlchemy is very powerful and has given me the ability to do pretty much anything I need to do with Postgres, my database of choice nowadays&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Dark Art of AWS VPC Networking</title>
+      <link>https://data-scribers.mikewk.com/post/the-dark-art-of-aws-vpc-networ/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-dark-art-of-aws-vpc-networ/</guid>
+      <description>It&amp;rsquo;s been quite some time since a blog post went up here. The reason for this is mainly due to my book with Packt Publishing, Serverless Design Patterns and Best Practices. Happily I can say that it&amp;rsquo;s published and I can turn my technical attention to other things. In chapters 2 and 3, I walk through setting up serverless REST and GraphQL APIs, respectively&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Accessing VPC Resources from AWS Lambda</title>
+      <link>https://data-scribers.mikewk.com/post/accessing-vpc-resources-from-a/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/accessing-vpc-resources-from-a/</guid>
+      <description>I&amp;rsquo;m currently working on a book for Packt publishing titled Serverless Design Patterns and Best Practices. While writing and whipping out tons of examples is quite a bit of work, and I sometimes curse myself for agreeing to this, I&amp;rsquo;m quite excited as I work through the chapters and as it comes together&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Structuring Serverless Applications with Python</title>
+      <link>https://data-scribers.mikewk.com/post/structuring-serverless-applica/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/structuring-serverless-applica/</guid>
+      <description>In spite of my intentions to get more involved in Elixir I&amp;rsquo;ve been stuck in the Python tractor beam. For all of the issues that may arise in large Python web applications, Python really is a fantastic do-it-all language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Elixir for Pythonistas part I</title>
+      <link>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</guid>
+      <description>For the past many many years my goto language has been Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to setup a free SSL certificate for use with Serverless APIs</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-setup-a-free-ssl-certif/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-setup-a-free-ssl-certif/</guid>
+      <description>NOTE!!! As of March 2017 this post is no longer relevant&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Authoring Alexa Skills with Python and Lazysusan</title>
+      <link>https://data-scribers.mikewk.com/post/authoring-alexa-skills-with-py/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/authoring-alexa-skills-with-py/</guid>
+      <description>Most recently at my day job we were tasked with building an Amazon Alexa app for a client. As soon as I heard rumors that we would be doing an Alexa app I starting raising my hand hoping that I&amp;rsquo;d get put on this project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless 1.x</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-1x/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-1x/</guid>
+      <description>Since my last posts on Serverless, Serverless has gone 1.0. In fact, as of this writing Serverless is at version 1.3. I&amp;rsquo;ve had the luck of taking 1.3 for a spin with my new job by implementing an application for the Amazon Alexa platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Demo service with Servant</title>
+      <link>https://data-scribers.mikewk.com/post/demo-service-with-servant/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/demo-service-with-servant/</guid>
+      <description>In a previous post I introduced and discussed about an open source library I authored called Servant. Servant is a framework for building RPC-style services with Python. Servant is to services as Django or Rails is to web applications&amp;hellip;it&amp;rsquo;s framework you&amp;rsquo;d use when you need to build a service in Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless part IV</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-part-iv/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-part-iv/</guid>
+      <description>Welcome to part four in my series about Serverless&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless part III</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-part-iii/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-part-iii/</guid>
+      <description>This is part three in my series about creating serverless systems using AWS API Gateway + Lambda via the Serverless project. If you&amp;rsquo;re haven&amp;rsquo;t already you can read part I and part II&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless part II</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-part-ii/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-part-ii/</guid>
+      <description>Following up from my last post about serverless systems, let&amp;rsquo;s do a walk-through of the Serverless project. Getting started As usual I&amp;rsquo;ll demo this using a Docker container. You can check out the code on Github and follow along: https://github.com/brianz/serverless-demo. This Docker image has Serverless v0.5.5&amp;hellip;and that&amp;rsquo;s about it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless part I</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-part-i/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-part-i/</guid>
+      <description>It&amp;rsquo;s a pretty exciting (and challenging) time to build software-based applications. Every week there are more and more tools to make our jobs easier or to enable us to focus on application development rather than dealing with the infrastructure around those applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>If you&#39;re not using Docker you should be</title>
+      <link>https://data-scribers.mikewk.com/post/if-youre-not-using-docker-you-/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-youre-not-using-docker-you-/</guid>
+      <description>If you&amp;rsquo;re a developer and don&amp;rsquo;t live under a rock you&amp;rsquo;ve undoubtedly heard of Docker. There are many many sites out there which will tell you about how to use Docker and how to start using it&amp;hellip;this will not be one of those posts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On technical blogging</title>
+      <link>https://data-scribers.mikewk.com/post/on-technical-blogging/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-technical-blogging/</guid>
+      <description>As I mentioned in my inaugural post, I had been wanting to start a technical blog for some time. Mainly a a way of capturing things I learn or discover so that it can benefit others&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing servant</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-servant/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-servant/</guid>
+      <description>Late in 2014 we began the process of discussing a payment system at work. The system was to have a fairly simple reason for existing&amp;hellip;to do all the work needed to charge credit cards on behalf of our customers. Backing up a bit&amp;hellip;our system is mainly a B2B application&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Blog theme</title>
+      <link>https://data-scribers.mikewk.com/post/blog-theme/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/blog-theme/</guid>
+      <description>SAAS Application Architecture I was finally inspired to get this site up and running after listening to a Software Engineering Radio podcast with John Sonmez. In that podcast episode John talks about how a technical blog can really help your career..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting started with hugo</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-hugo/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-hugo/</guid>
+      <description>It&amp;rsquo;s been a very very long time since I&amp;rsquo;ve posted anything publicly. Blogging has drastically changed since the early days. As most of you, I consume a lot of material and resources on the internet. For a while I&amp;rsquo;ve wanted to contribute back&amp;hellip;I&amp;rsquo;m constantly learning new things and some of them are really useful&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

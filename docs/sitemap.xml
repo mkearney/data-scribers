@@ -308,6 +308,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/managing-database-transactions/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/privacy-by-design/</loc>
     <lastmod>2018-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -2799,6 +2804,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/its-blogging-time/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/the-dark-art-of-aws-vpc-networ/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -5523,6 +5533,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/accessing-vpc-resources-from-a/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/machine-learning-and-kfold-cro/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -6428,6 +6443,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/structuring-serverless-applica/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/filechoose-empowering-users/</loc>
     <lastmod>2017-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -6963,6 +6983,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/slickr/</loc>
     <lastmod>2017-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -7133,6 +7158,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-setup-a-free-ssl-certif/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/sdn-anyone/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -7233,6 +7263,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/authoring-alexa-skills-with-py/</loc>
+    <lastmod>2017-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/custom-javascript-visualizatio/</loc>
     <lastmod>2017-01-24T00:00:00+00:00</lastmod>
   </url>
@@ -7280,6 +7315,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/wait-what-are-pvalues/</loc>
     <lastmod>2016-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-1x/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7448,6 +7488,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/demo-service-with-servant/</loc>
+    <lastmod>2016-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/grpc-at-coreos-with-brandon-ph/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
   </url>
@@ -7588,6 +7633,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-part-iv/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -7615,6 +7665,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/how-much-fun-is-maximum-fun/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-part-iii/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7668,6 +7723,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-part-ii/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/humble-bundle-with-andy-oxfeld/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -7679,6 +7739,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/iam-with-rae-wang/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-part-i/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -7708,6 +7773,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/if-youre-not-using-docker-you-/</loc>
+    <lastmod>2016-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/52vis-homeless/</loc>
     <lastmod>2016-04-12T00:00:00+00:00</lastmod>
   </url>
@@ -7723,8 +7793,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/on-technical-blogging/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/nodejs-with-justin-beckwith/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/introducing-servant/</loc>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -7758,8 +7838,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/blog-theme/</loc>
+    <lastmod>2016-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/my-minimal-latex-preamble/</loc>
     <lastmod>2016-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/getting-started-with-hugo/</loc>
+    <lastmod>2016-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -8863,6 +8953,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/blogbrianzbz/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/blogdavisvaughancom/</loc>
     <lastmod>2018-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -9392,7 +9488,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/python/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

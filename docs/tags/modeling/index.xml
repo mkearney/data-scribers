@@ -1722,6 +1722,15 @@
     </item>
     
     <item>
+      <title>Serverless part I</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-part-i/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-part-i/</guid>
+      <description>It&amp;rsquo;s a pretty exciting (and challenging) time to build software-based applications. Every week there are more and more tools to make our jobs easier or to enable us to focus on application development rather than dealing with the infrastructure around those applications&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Installing Your First Spark Cluster</title>
       <link>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>

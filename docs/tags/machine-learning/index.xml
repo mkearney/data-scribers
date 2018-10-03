@@ -6,10 +6,19 @@
     <description>Recent content in Machine Learning on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning Research in Africa with Yabebal Fantaye &amp; Jessica Phalafala</title>
+      <link>https://data-scribers.mikewk.com/post/deep-learning-research-in-afri/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deep-learning-research-in-afri/</guid>
+      <description>At the African Institute for Mathematical Sciences, the aim is to gather together minds from all over Africa and the world to not only learn but to use their distinct perspectives to contribute to research that furthers the&amp;hellip;</description>
+    </item>
     
     <item>
       <title>August 2018</title>

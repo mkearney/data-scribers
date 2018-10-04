@@ -210,6 +210,15 @@
     </item>
     
     <item>
+      <title>Teaching R to New Users - From tapply to the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</guid>
+      <description>The intentional ambiguity of the R language, inherited from the S language, is one of its defining&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Linear Models</title>
       <link>https://data-scribers.mikewk.com/post/linear-models/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>

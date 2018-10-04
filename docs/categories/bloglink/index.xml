@@ -750,6 +750,15 @@
     </item>
     
     <item>
+      <title>Chromebook Data Science - a free online data science program for anyone with a web browser.</title>
+      <link>https://data-scribers.mikewk.com/post/chromebook-data-science-a-free/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/chromebook-data-science-a-free/</guid>
+      <description>While we have been incredibly excited about the results of these training programs, we&amp;rsquo;ve also learned over the last 5+ years that there are still significant barriers to getting into data science&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Lists and functional queues</title>
       <link>https://data-scribers.mikewk.com/post/lists-and-functional-queues/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -918,6 +927,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/tsstudio-012/</guid>
       <description>Happy to announce the release of TSstudio 0.1.2 to CRAN&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The complex process of obtaining Puerto Rico mortality data</title>
+      <link>https://data-scribers.mikewk.com/post/the-complex-process-of-obtaini/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-complex-process-of-obtaini/</guid>
+      <description>There is also a bit of confusion about why we performed a survey at all, as opposed to using the Demographic Registry as done by other groups&amp;hellip;</description>
     </item>
     
     <item>
@@ -1624,6 +1642,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Divergent and Convergent Phases of Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</guid>
+      <description>One thing that I have found missing from many discussions about tooling in data analysis is an acknowledgment that data analysis tends to advance through different phases and that different tools can be more or less useful in each of those phases&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Don&#39;t do PCA After Statistical Testing!</title>
       <link>https://data-scribers.mikewk.com/post/dont-do-pca-after-statistical-/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
@@ -1873,6 +1900,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/a-stricter-in/</guid>
       <description>I’m not trying to be as elegant as he is, so I’m just going to make something work in isolation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Being at the Center</title>
+      <link>https://data-scribers.mikewk.com/post/being-at-the-center/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/being-at-the-center/</guid>
+      <description>A mentor once told me that in any large-ish coordinated scientific collaboration there will usually be regular meetings to discuss the data collection, data analysis, or both. Basically, a meeting to discuss data&amp;hellip;</description>
     </item>
     
     <item>
@@ -2389,6 +2425,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Constructing a Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</guid>
+      <description>One of the first revelations I&amp;rsquo;ve had recently is realizing that data analyses are not naturally occurring phenomena. You will not run into a data analysis while walking out in the woods. Data analyses must be created and constructed by people. One way to think about a data analysis is to think of it as a product to be designed&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Summer fun</title>
       <link>https://data-scribers.mikewk.com/post/summer-fun/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
@@ -2620,6 +2665,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/multivariate-ordinal-categoric/</guid>
       <description>In the following examples, I assume four items each with four possible responses - which is different from the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Law and Order of Data Science</title>
+      <link>https://data-scribers.mikewk.com/post/the-law-and-order-of-data-scie/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-law-and-order-of-data-scie/</guid>
+      <description>One conversation I’ve had a few times revolves around the question, “What’s the difference between science and data science?” If I were to come up with a simple distinction, I might say that Science starts with a question; data science starts with the&amp;hellip;</description>
     </item>
     
     <item>
@@ -2890,6 +2944,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/por-qu%C3%A9-este-blog/</guid>
       <description>Allá por noviembre de 2012 comencé un blog dedicado a dos de mis tres pasiones: la energía y la ingeniería&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Trillion Dollar Question</title>
+      <link>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</guid>
+      <description>Recently, Apple’s stock price rose to the point where the company’s market valuation was above $1 trillion, the first U.S. company to reach that benchmark. Subsequently, numerous articles were published describing Apple’s journey to this point and why it got there. Most people describe Apple as a technology company. They make technology products: iPhones, iPads, Macs, etc&amp;hellip;</description>
     </item>
     
     <item>
@@ -3379,6 +3442,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Why I Indent My Code 8 Spaces</title>
+      <link>https://data-scribers.mikewk.com/post/why-i-indent-my-code-8-spaces/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-i-indent-my-code-8-spaces/</guid>
+      <description>In the video version of the talk (not in the slides) Jenny calls out my particular indentation rule, which is to use 8 spaces. In my experience, people tend to find this a rather extreme indentation policy, with maybe 4 spaces being at the outer limit of what they could imagine&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Engifification in R with gifski</title>
       <link>https://data-scribers.mikewk.com/post/engifification-in-r-with-gifsk/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
@@ -3529,6 +3601,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/late-start/</guid>
       <description>This blog is going to be mostly about my adventures with R, primarily using survey data, and usually somewhat related to my social science interests; for the fun of it, to share code and hopefully get feedback&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Partitioning the Variation in Data</title>
+      <link>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</guid>
+      <description>Understanding which aspects of the variation in your data are fixed is important because often you can collect data on those fixed characteristics and use them directly in any statistical modeling you might do. For example, season is an easy covariate to include because we already know when the seasons begin and end&amp;hellip;</description>
     </item>
     
     <item>
@@ -3856,6 +3937,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Teaching R to New Users - From tapply to the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</guid>
+      <description>The intentional ambiguity of the R language, inherited from the S language, is one of its defining&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>phylogram</title>
       <link>https://data-scribers.mikewk.com/post/phylogram/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
@@ -4036,6 +4126,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>What Should be Done When Data Have Creators?</title>
+      <link>https://data-scribers.mikewk.com/post/what-should-be-done-when-data-/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-should-be-done-when-data-/</guid>
+      <description>All this got me thinking about how screenwriters are often limited in what they can write by the fact that the material they are writing was originated by someone else&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Wide data to long using the tidyverse (tidyr&#39;s gather function)</title>
       <link>https://data-scribers.mikewk.com/post/wide-data-to-long-using-the-ti/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
@@ -4162,6 +4261,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Cultural Differences in Map Data Visualization</title>
+      <link>https://data-scribers.mikewk.com/post/cultural-differences-in-map-da/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cultural-differences-in-map-da/</guid>
+      <description>The maps need to be usable, but they also need to fulfill cognitive goals on cultural levels that go beyond what any given user might know they need. For instance, in the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 63-66: Learning to skim</title>
       <link>https://data-scribers.mikewk.com/post/day-6366-learning-to-skim/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
@@ -4267,6 +4375,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/a-package-for-tidying-nested-l/</guid>
       <description>Run the app like&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creativity in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</guid>
+      <description>Missing data are present in almost every dataset and the most important question a data analyst can ask when confronted with missing data is &amp;ldquo;Why are the data missing?&amp;rdquo; It&amp;rsquo;s important to develop some understanding of the mechanism behind what makes the data missing in order to develop an appropriate strategy for dealing with missing data&amp;hellip;</description>
     </item>
     
     <item>
@@ -4558,6 +4675,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The Role of Resources in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</guid>
+      <description>When learning about data analysis in school, you don’t hear much about the role that resources-time, money, and technology-play in the development of analysis. This is a conversation that is often had “in the hallway” when talking to senior faculty or mentors&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How I Found Myself doing Data science in marketing</title>
       <link>https://data-scribers.mikewk.com/post/how-i-found-myself-doing-data-/</link>
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
@@ -4645,6 +4771,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-to-debug-aws-application-l/</guid>
       <description>Introduction From the Temples of Testers, a browser bestowed a 504 gateway timeout in your newly deployed internal facing Application Load Balancer (ALB). There was a gnashing of molars and gurning of visages. Your ALB isn&amp;rsquo;t responding. Don&amp;rsquo;t panic and be &amp;ldquo;oh wow! heavy heavy heavy&amp;rdquo; like Neil from the Young Ones&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>People vs. Institutions in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</guid>
+      <description>Invest in businesses any idiot could run because someday one will. A perhaps more detailed version of this sentiment comes from fellow legendary investor Warren Buffett, in his testimony before the U.S&amp;hellip;</description>
     </item>
     
     <item>

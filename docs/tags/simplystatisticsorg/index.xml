@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simplystatisticsorg on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/simplystatisticsorg/</link>
+    <description>Recent content in Simplystatisticsorg on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/simplystatisticsorg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chromebook Data Science - a free online data science program for anyone with a web browser.</title>
+      <link>https://data-scribers.mikewk.com/post/chromebook-data-science-a-free/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/chromebook-data-science-a-free/</guid>
+      <description>While we have been incredibly excited about the results of these training programs, we&amp;rsquo;ve also learned over the last 5+ years that there are still significant barriers to getting into data science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The complex process of obtaining Puerto Rico mortality data</title>
+      <link>https://data-scribers.mikewk.com/post/the-complex-process-of-obtaini/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-complex-process-of-obtaini/</guid>
+      <description>There is also a bit of confusion about why we performed a survey at all, as opposed to using the Demographic Registry as done by other groups&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Divergent and Convergent Phases of Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</guid>
+      <description>One thing that I have found missing from many discussions about tooling in data analysis is an acknowledgment that data analysis tends to advance through different phases and that different tools can be more or less useful in each of those phases&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Being at the Center</title>
+      <link>https://data-scribers.mikewk.com/post/being-at-the-center/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/being-at-the-center/</guid>
+      <description>A mentor once told me that in any large-ish coordinated scientific collaboration there will usually be regular meetings to discuss the data collection, data analysis, or both. Basically, a meeting to discuss data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Constructing a Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</guid>
+      <description>One of the first revelations I&amp;rsquo;ve had recently is realizing that data analyses are not naturally occurring phenomena. You will not run into a data analysis while walking out in the woods. Data analyses must be created and constructed by people. One way to think about a data analysis is to think of it as a product to be designed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Law and Order of Data Science</title>
+      <link>https://data-scribers.mikewk.com/post/the-law-and-order-of-data-scie/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-law-and-order-of-data-scie/</guid>
+      <description>One conversation I’ve had a few times revolves around the question, “What’s the difference between science and data science?” If I were to come up with a simple distinction, I might say that Science starts with a question; data science starts with the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Trillion Dollar Question</title>
+      <link>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</guid>
+      <description>Recently, Apple’s stock price rose to the point where the company’s market valuation was above $1 trillion, the first U.S. company to reach that benchmark. Subsequently, numerous articles were published describing Apple’s journey to this point and why it got there. Most people describe Apple as a technology company. They make technology products: iPhones, iPads, Macs, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why I Indent My Code 8 Spaces</title>
+      <link>https://data-scribers.mikewk.com/post/why-i-indent-my-code-8-spaces/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-i-indent-my-code-8-spaces/</guid>
+      <description>In the video version of the talk (not in the slides) Jenny calls out my particular indentation rule, which is to use 8 spaces. In my experience, people tend to find this a rather extreme indentation policy, with maybe 4 spaces being at the outer limit of what they could imagine&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Partitioning the Variation in Data</title>
+      <link>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</guid>
+      <description>Understanding which aspects of the variation in your data are fixed is important because often you can collect data on those fixed characteristics and use them directly in any statistical modeling you might do. For example, season is an easy covariate to include because we already know when the seasons begin and end&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Teaching R to New Users - From tapply to the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</guid>
+      <description>The intentional ambiguity of the R language, inherited from the S language, is one of its defining&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What Should be Done When Data Have Creators?</title>
+      <link>https://data-scribers.mikewk.com/post/what-should-be-done-when-data-/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-should-be-done-when-data-/</guid>
+      <description>All this got me thinking about how screenwriters are often limited in what they can write by the fact that the material they are writing was originated by someone else&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cultural Differences in Map Data Visualization</title>
+      <link>https://data-scribers.mikewk.com/post/cultural-differences-in-map-da/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cultural-differences-in-map-da/</guid>
+      <description>The maps need to be usable, but they also need to fulfill cognitive goals on cultural levels that go beyond what any given user might know they need. For instance, in the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creativity in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</guid>
+      <description>Missing data are present in almost every dataset and the most important question a data analyst can ask when confronted with missing data is &amp;ldquo;Why are the data missing?&amp;rdquo; It&amp;rsquo;s important to develop some understanding of the mechanism behind what makes the data missing in order to develop an appropriate strategy for dealing with missing data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Role of Resources in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</guid>
+      <description>When learning about data analysis in school, you don’t hear much about the role that resources-time, money, and technology-play in the development of analysis. This is a conversation that is often had “in the hallway” when talking to senior faculty or mentors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>People vs. Institutions in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</guid>
+      <description>Invest in businesses any idiot could run because someday one will. A perhaps more detailed version of this sentiment comes from fellow legendary investor Warren Buffett, in his testimony before the U.S&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

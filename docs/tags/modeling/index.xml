@@ -147,6 +147,15 @@
     </item>
     
     <item>
+      <title>Divergent and Convergent Phases of Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/divergent-and-convergent-phase/</guid>
+      <description>One thing that I have found missing from many discussions about tooling in data analysis is an acknowledgment that data analysis tends to advance through different phases and that different tools can be more or less useful in each of those phases&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>next up anova</title>
       <link>https://data-scribers.mikewk.com/post/next-up-anova/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
@@ -246,6 +255,15 @@
     </item>
     
     <item>
+      <title>Constructing a Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/constructing-a-data-analysis/</guid>
+      <description>One of the first revelations I&amp;rsquo;ve had recently is realizing that data analyses are not naturally occurring phenomena. You will not run into a data analysis while walking out in the woods. Data analyses must be created and constructed by people. One way to think about a data analysis is to think of it as a product to be designed&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Test Driven Infrastructure</title>
       <link>https://data-scribers.mikewk.com/post/test-driven-infrastructure/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
@@ -279,6 +297,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</guid>
       <description>Neural Processes (NPs) caught my attention as they essentially are a neural network (NN) based probabilistic model which can represent a distribution over stochastic processes. So NPs combine elements from two worlds: Both have their advantages and drawbacks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Trillion Dollar Question</title>
+      <link>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-trillion-dollar-question/</guid>
+      <description>Recently, Apple’s stock price rose to the point where the company’s market valuation was above $1 trillion, the first U.S. company to reach that benchmark. Subsequently, numerous articles were published describing Apple’s journey to this point and why it got there. Most people describe Apple as a technology company. They make technology products: iPhones, iPads, Macs, etc&amp;hellip;</description>
     </item>
     
     <item>
@@ -390,6 +417,15 @@
     </item>
     
     <item>
+      <title>Partitioning the Variation in Data</title>
+      <link>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/partitioning-the-variation-in-/</guid>
+      <description>Understanding which aspects of the variation in your data are fixed is important because often you can collect data on those fixed characteristics and use them directly in any statistical modeling you might do. For example, season is an easy covariate to include because we already know when the seasons begin and end&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Some Books I Read in July</title>
       <link>https://data-scribers.mikewk.com/post/some-books-i-read-in-july/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
@@ -432,6 +468,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/generate-a-reproducible-map-fo/</guid>
       <description>More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. There are also some packages required to reproduce this post. If you have not installed them, please run the following codes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Teaching R to New Users - From tapply to the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/teaching-r-to-new-users-from-t/</guid>
+      <description>The intentional ambiguity of the R language, inherited from the S language, is one of its defining&amp;hellip;</description>
     </item>
     
     <item>
@@ -480,6 +525,15 @@
     </item>
     
     <item>
+      <title>Creativity in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creativity-in-data-analysis/</guid>
+      <description>Missing data are present in almost every dataset and the most important question a data analyst can ask when confronted with missing data is &amp;ldquo;Why are the data missing?&amp;rdquo; It&amp;rsquo;s important to develop some understanding of the mechanism behind what makes the data missing in order to develop an appropriate strategy for dealing with missing data&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Re-referencing factor levels to estimate standard errors when there is interaction turns out to be a really simple solution</title>
       <link>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
@@ -507,12 +561,30 @@
     </item>
     
     <item>
+      <title>The Role of Resources in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-role-of-resources-in-data-/</guid>
+      <description>When learning about data analysis in school, you don’t hear much about the role that resources-time, money, and technology-play in the development of analysis. This is a conversation that is often had “in the hallway” when talking to senior faculty or mentors&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Multivariate Adaptive Regression Splines in a Nutshell</title>
       <link>https://data-scribers.mikewk.com/post/multivariate-adaptive-regressi/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/multivariate-adaptive-regressi/</guid>
       <description>Like standard linear regression, MARS uses the ordinary least squares (OLS) method to estimate the coefficient of each term. However, instead of an original predictor, each term in a MARS model is a basis function derived from original predictors. A basis function takes one of the following forms: MARS does not treat categorical predictors differently from standard linear&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>People vs. Institutions in Data Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/people-vs-institutions-in-data/</guid>
+      <description>Invest in businesses any idiot could run because someday one will. A perhaps more detailed version of this sentiment comes from fellow legendary investor Warren Buffett, in his testimony before the U.S&amp;hellip;</description>
     </item>
     
     <item>

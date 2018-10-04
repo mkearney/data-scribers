@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Use Cases For Flexbox</title>
+      <link>https://data-scribers.mikewk.com/post/use-cases-for-flexbox/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/use-cases-for-flexbox/</guid>
+      <description>We come to the final part in my Flexbox series here at Smashing Magazine&amp;hellip;</description>
+    </item>
     
     <item>
       <title>How To Build A News Application With Angular 6 And Material Design</title>

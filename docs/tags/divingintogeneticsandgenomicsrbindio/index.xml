@@ -6,10 +6,19 @@
     <description>Recent content in Divingintogeneticsandgenomicsrbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/divingintogeneticsandgenomicsrbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>set up ssh odyssey HPC</title>
+      <link>https://data-scribers.mikewk.com/post/set-up-ssh-odyssey-hpc/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/set-up-ssh-odyssey-hpc/</guid>
+      <description>Fire-up iterm2: Note, I have done this a couple of times, but I still need to google it everytime I set it up. I have told you googling is an essential skill for bioinformaticians :) On your mac: However, there are other nodes that are specific for our group&amp;hellip;</description>
+    </item>
     
     <item>
       <title>set up my new mac laptop</title>

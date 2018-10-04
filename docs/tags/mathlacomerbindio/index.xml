@@ -6,10 +6,19 @@
     <description>Recent content in Mathlacomerbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to compare one performance with previous ones</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-compare-one-performance/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-compare-one-performance/</guid>
+      <description>When we open our Tableau software, the first thing is to import our dataset. This dataset is simple - 1 column with the player name, one with date and one with a performance-related variable (here, Mechanical Work during the game). We start by moving the ‘Performance variable’ (Mechanical Work (a&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Readiness or Between-player normalisation</title>

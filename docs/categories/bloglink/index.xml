@@ -147,6 +147,15 @@
     </item>
     
     <item>
+      <title>set up ssh odyssey HPC</title>
+      <link>https://data-scribers.mikewk.com/post/set-up-ssh-odyssey-hpc/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/set-up-ssh-odyssey-hpc/</guid>
+      <description>Fire-up iterm2: Note, I have done this a couple of times, but I still need to google it everytime I set it up. I have told you googling is an essential skill for bioinformaticians :) On your mac: However, there are other nodes that are specific for our group&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>「これパソコンですか…」という10GBのRAMを搭載した、初のスマホが発売へ</title>
       <link>https://data-scribers.mikewk.com/post/%E3%81%93%E3%82%8C%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%A7%E3%81%99%E3%81%8B%E3%81%A8%E3%81%84%E3%81%8610gb%E3%81%AEram%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%88%9D%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%9B/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
@@ -1287,6 +1296,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/find-all-sequences-of-a-given-/</guid>
       <description>This problem popped up as a necessary step to solving a type of puzzle (which I’ll post about&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to compare one performance with previous ones</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-compare-one-performance/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-compare-one-performance/</guid>
+      <description>When we open our Tableau software, the first thing is to import our dataset. This dataset is simple - 1 column with the player name, one with date and one with a performance-related variable (here, Mechanical Work during the game). We start by moving the ‘Performance variable’ (Mechanical Work (a&amp;hellip;</description>
     </item>
     
     <item>

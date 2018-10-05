@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presidential Chicken</title>
+      <link>https://data-scribers.mikewk.com/post/presidential-chicken/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/presidential-chicken/</guid>
+      <description>I remember back in undergrad when I visited my friends at Michigan State and they took me to the residential dining hall and how I had typical dorm food like salad bar, burgers, hot dogs, fries etc&amp;hellip;</description>
+    </item>
     
     <item>
       <title>How I Learned To Stop Worrying and Love Heatmaps</title>

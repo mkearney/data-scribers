@@ -6,10 +6,19 @@
     <description>Recent content in Blogschochasticsnet on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogschochasticsnet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analyzing the Greatest Strikers in Football I</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-the-greatest-striker/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-the-greatest-striker/</guid>
+      <description>So, goals scored in stoppage time will count towards the 90th minute. Yet another problem is that we are actually missing an important piece of information in the data frame. The club Zlatan was scoring for. Look at how the information is given on transfermarkt. You may wonder about the last two rows&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Six Degrees of Zlatan Ibrahimovic</title>

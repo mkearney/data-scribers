@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taming &lt;code&gt;this&lt;/code&gt; In JavaScript With Bind Operator</title>
+      <link>https://data-scribers.mikewk.com/post/taming-codethiscode-in-javascr/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/taming-codethiscode-in-javascr/</guid>
+      <description>Do you want to discover the next exciting JavaScript features that you didn’t even know you needed? In this article, I will introduce one of these proposals that if accepted may change the way you write code the same way the spread operator did&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Use Cases For Flexbox</title>

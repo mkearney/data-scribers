@@ -4180,6 +4180,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Concentration of Senate Representation</title>
+      <link>https://data-scribers.mikewk.com/post/concentration-of-senate-repres/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/concentration-of-senate-repres/</guid>
+      <description>Since the data are readily available, I decided to look into things to decide how strongly I should argue this point in the future&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>No Description, Website, or Topics Provided</title>
       <link>https://data-scribers.mikewk.com/post/no-description-website-or-topi/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
@@ -7872,6 +7881,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Uncovering the relationships among functions in a package</title>
+      <link>https://data-scribers.mikewk.com/post/uncovering-the-relationships-a/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/uncovering-the-relationships-a/</guid>
+      <description>The practical value of this exercise comes from the following sorts of insights: Thanks for reading! Feel free to join the discussion&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Blog Setup</title>
       <link>https://data-scribers.mikewk.com/post/blog-setup/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
@@ -8643,6 +8661,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-i-use-rmarkdown/</guid>
       <description>Last week or so, I achieved a wonderous thing. A trivial thing. I acheived a wondrous, trivial thing: I wrote my most popular tweet ever: My new thing is ending every Rmd with a list of links to the forums / SO questions / blogs / github repos that I used to solve the problem #rstats pic.twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using R to Create Google Maps</title>
+      <link>https://data-scribers.mikewk.com/post/using-r-to-create-google-maps/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-r-to-create-google-maps/</guid>
+      <description>Voila! The new file is only 1.6 MB. Now, all that is left to do is to login to Google Maps, import the widists_sm.kml file and share it&amp;hellip;</description>
     </item>
     
     <item>

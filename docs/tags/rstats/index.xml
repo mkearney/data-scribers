@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Spookify</title>
+      <link>https://data-scribers.mikewk.com/post/spookify/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spookify/</guid>
+      <description>It’s October, time for spooky Twitter names! If you’re on this social media platform, you might have noticed some of your friends switching their names to something spooky and punny&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>r2d3 - R Interface to D3 Visualizations</title>
       <link>https://data-scribers.mikewk.com/post/r2d3-r-interface-to-d3-visuali/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
@@ -1273,6 +1282,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Where to get help with your R question?</title>
+      <link>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</guid>
+      <description>I&amp;rsquo;ll start this post with a general comment for newbies who aren&amp;rsquo;t at ease enough yet to post their question, no matter what type of questions (see later), to anywhere public: find your safe and friendly space! Do you have an R friend? Maybe this colleague who actually convinced you to start using R? Well, ask this person for help! Remind them it&amp;rsquo;s their fault you&amp;rsquo;re struggling&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hexagon Patterns with R</title>
       <link>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
@@ -1324,6 +1342,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/footballers-are-younger-than-y/</guid>
       <description>Matt Dray TL;DR I wrote an R Shiny app that tells you how many players at World Cup 2018 were younger than you. It’s designed to make you feel old. You’re welcome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Get on your soapbox! R blog content and promotion</title>
+      <link>https://data-scribers.mikewk.com/post/get-on-your-soapbox-r-blog-con/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/get-on-your-soapbox-r-blog-con/</guid>
+      <description>There are plenty of R things you could blog about! Then, an important aspect of R blogging is that you don&amp;rsquo;t need to blog about R code! Examples of relevant R content I&amp;rsquo;ve seen include: Now, if you still have trouble finding ideas, you can find inspiration by..&amp;hellip;</description>
     </item>
     
     <item>

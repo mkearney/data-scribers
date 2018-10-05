@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/spookify/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/surface%E3%81%AE%E7%88%B6%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%BC%8F%E3%81%AE2%E7%94%BB%E9%9D%A2surface%E3%81%AF%E9%96%8B%E7%99%BA%E4%B8%AD/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -1508,6 +1513,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/oreilly-animals-in-trouble-con/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/react-redux-firebase-with-fire/</loc>
     <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -2008,6 +2018,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/allstatisticians-in-decline-a-/</loc>
+    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -2218,6 +2233,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>
   </url>
@@ -2299,6 +2319,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/get-on-your-soapbox-r-blog-con/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -2648,6 +2673,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/storrrify-satrdaycdf-2018/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/selection-effects/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -2779,6 +2809,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/quick-guide-to-gene-name-conve/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/really-not-a-fish-scraping-my-/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -9870,6 +9905,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/martakolczynskacom/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/masalmoneu/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

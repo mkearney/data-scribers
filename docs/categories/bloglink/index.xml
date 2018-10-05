@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Spookify</title>
+      <link>https://data-scribers.mikewk.com/post/spookify/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spookify/</guid>
+      <description>It’s October, time for spooky Twitter names! If you’re on this social media platform, you might have noticed some of your friends switching their names to something spooky and punny&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Surfaceの父、折りたたみ式の2画面Surfaceは「開発中」と認める！</title>
       <link>https://data-scribers.mikewk.com/post/surface%E3%81%AE%E7%88%B6%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%BC%8F%E3%81%AE2%E7%94%BB%E9%9D%A2surface%E3%81%AF%E9%96%8B%E7%99%BA%E4%B8%AD/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
@@ -2722,6 +2731,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>O&#39;Reilly animals in trouble? Conservation status of book covers</title>
+      <link>https://data-scribers.mikewk.com/post/oreilly-animals-in-trouble-con/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oreilly-animals-in-trouble-con/</guid>
+      <description>I had a great time webscraping the menagerie, not only thanks to my now reasonable experience doing such things, but also thanks to the webpage having really good structured html with specific classes&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>React Redux Firebase With Firestore Tutorial</title>
       <link>https://data-scribers.mikewk.com/post/react-redux-firebase-with-fire/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
@@ -3622,6 +3640,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>ALLSTATisticians in decline? A polite look at ALLSTAT email Archives</title>
+      <link>https://data-scribers.mikewk.com/post/allstatisticians-in-decline-a-/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/allstatisticians-in-decline-a-/</guid>
+      <description>And then it was time to scrape and parse… I created a function getting the metadata out of each archive page. The trickiest points here were: ALLSTAT encourages you to use keywords in emails’ subjects, so many job openings contain some variant of “job”, and that’s the sample on which I shall work&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>An Order to Learn to Program, Part 1</title>
       <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
@@ -4000,6 +4027,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Where to get help with your R question?</title>
+      <link>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</guid>
+      <description>I&amp;rsquo;ll start this post with a general comment for newbies who aren&amp;rsquo;t at ease enough yet to post their question, no matter what type of questions (see later), to anywhere public: find your safe and friendly space! Do you have an R friend? Maybe this colleague who actually convinced you to start using R? Well, ask this person for help! Remind them it&amp;rsquo;s their fault you&amp;rsquo;re struggling&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hexagon Patterns with R</title>
       <link>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
@@ -4150,6 +4186,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/from-zero-to-gpu-1-a-new-neura/</guid>
       <description>Welcome to the first post in my From Zero to GPU series. Where I talk about aspects of neural network implementations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Get on your soapbox! R blog content and promotion</title>
+      <link>https://data-scribers.mikewk.com/post/get-on-your-soapbox-r-blog-con/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/get-on-your-soapbox-r-blog-con/</guid>
+      <description>There are plenty of R things you could blog about! Then, an important aspect of R blogging is that you don&amp;rsquo;t need to blog about R code! Examples of relevant R content I&amp;rsquo;ve seen include: Now, if you still have trouble finding ideas, you can find inspiration by..&amp;hellip;</description>
     </item>
     
     <item>
@@ -4774,6 +4819,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Storrrify #satRdayCDF 2018</title>
+      <link>https://data-scribers.mikewk.com/post/storrrify-satrdaycdf-2018/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/storrrify-satrdaycdf-2018/</guid>
+      <description>Now, let’s have a look at the day as tweeted by me… I obtained 22&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Selection effects</title>
       <link>https://data-scribers.mikewk.com/post/selection-effects/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
@@ -5014,6 +5068,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/quick-guide-to-gene-name-conve/</guid>
       <description>There are several popular naming systems for (human) genes: But, he did not add Refseq names. So if you need to get RefSeq names into one of the others, you’ll have to do another step&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Really not a fish? Scraping my mathematical family tree</title>
+      <link>https://data-scribers.mikewk.com/post/really-not-a-fish-scraping-my-/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/really-not-a-fish-scraping-my-/</guid>
+      <description>From the above I deduced that I was allowed to scrape mathematicians&amp;rsquo;&amp;hellip;</description>
     </item>
     
     <item>

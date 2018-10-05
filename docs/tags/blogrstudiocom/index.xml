@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>r2d3 - R Interface to D3 Visualizations</title>
+      <link>https://data-scribers.mikewk.com/post/r2d3-r-interface-to-d3-visuali/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r2d3-r-interface-to-d3-visuali/</guid>
+      <description>Translating R objects into D3 friendly data structures Publishing D3 visualizations to the web Which results in the following visualization: When you are learning D3 or translating D3 examples for use with R it’s important to keep in mind that D3 examples will generally include code to load data, create an SVG or other root element, and establish a width and height for the&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio 1.2 Preview</title>

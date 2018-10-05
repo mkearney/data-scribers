@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>r2d3 - R Interface to D3 Visualizations</title>
+      <link>https://data-scribers.mikewk.com/post/r2d3-r-interface-to-d3-visuali/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r2d3-r-interface-to-d3-visuali/</guid>
+      <description>Translating R objects into D3 friendly data structures Publishing D3 visualizations to the web Which results in the following visualization: When you are learning D3 or translating D3 examples for use with R it’s important to keep in mind that D3 examples will generally include code to load data, create an SVG or other root element, and establish a width and height for the&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How I Learned To Stop Worrying and Love Heatmaps</title>
       <link>https://data-scribers.mikewk.com/post/how-i-learned-to-stop-worrying/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
@@ -2055,6 +2064,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/country-networks-and-flags/</guid>
       <description>Recently, I was asked whether I could create an international trade network with flags as nodes. Therefore, I thought I would write a post introducing the ggflags packages and how to use it in network visualisation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Crusade</title>
+      <link>https://data-scribers.mikewk.com/post/the-crusade/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-crusade/</guid>
+      <description>1 A View of Mining Lyrics 2 Into the Mouth of R We March 3 Pull Harder on the Strings of Lyrics with geniusR 4 Text Dismantled 5 Anthem (We are the Functions) 6 Album That Spawned the Most Words 7 Tread the Words 8 Torn Between Term Frequency and Inverse Document Frequency 9 Negativity Thrives 10 These Sentiments Can’t Tear Us Apart (Warning: NSFW&amp;hellip;</description>
     </item>
     
     <item>

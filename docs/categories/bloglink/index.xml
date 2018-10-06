@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Finding errors in R</title>
+      <link>https://data-scribers.mikewk.com/post/finding-errors-in-r/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-errors-in-r/</guid>
+      <description>On a daily basis, I come across people on Facebook groups, Telegram or Twitter having troubles with some tasks in R. These problems have two main origins: Documentation is one of the most important aspects of a good package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>「Siri、警察に停められた」で録画が始まるSiriショートカット</title>
       <link>https://data-scribers.mikewk.com/post/siri%E8%AD%A6%E5%AF%9F%E3%81%AB%E5%81%9C%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E3%81%A7%E9%8C%B2%E7%94%BB%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8Bsiri%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
@@ -1215,6 +1224,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</guid>
       <description>In Part One of my look at draft combine measures and defensive performance, I graphed out some basic relationships among the combine measures (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Geospatial Analysis in R</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-geospatial-ana/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-geospatial-ana/</guid>
+      <description>Slides from my presentation at Heartland Developer Conference in La Vista,&amp;hellip;</description>
     </item>
     
     <item>
@@ -2524,6 +2542,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Shiny Gadget</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-gadget/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-gadget/</guid>
+      <description>The ‘Fit Distributions’ shiny gadget allows easy automated diagnostics for fitting univariate distributions. It reads in numeric vectors in the global environment, and uses MLE to estimate the parameters of the selected distributions. The visual outputs are GOF statistics, density plot, pp-plot, and qq-plot&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Test Post Please Don&#39;t Ignore</title>
       <link>https://data-scribers.mikewk.com/post/test-post-please-dont-ignore/</link>
       <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
@@ -2539,6 +2566,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/visualizing-temperature-rise-i/</guid>
       <description>This is a quick use-case of gganimate to visualize the rise of average temperature in my home town, Stuttgart, Germany&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.6.1 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-061-release/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-061-release/</guid>
+      <description>shiny gadget for fitting univariate distributions has been added added test function for distfun objects diagnostic plots now have better checks for distfun objects and lists of distfun&amp;hellip;</description>
     </item>
     
     <item>
@@ -3565,6 +3601,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/shiny-app-for-exploring-harmon/</guid>
       <description>Instructions References In the previous post I wrote about downloading and exploring the Survey Data Recycling (SDR), version 1.0 dataset, which consists of selected harmonized variables from 22 survey projects, 1966-2013. The SDR project will develop a website for browsing, subsetting, downloading, and visualizing data from the SDR project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.6.0 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-060-release/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-060-release/</guid>
+      <description>Adding continuous distribution testing functions Kolmogorov-Smirnov, Anderson-Darling, and Cramer-Von Mises S3 methods have now been added for distfit objects Code reformatting and&amp;hellip;</description>
     </item>
     
     <item>
@@ -6099,6 +6144,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Animating a Monte Carlo Simulation</title>
+      <link>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</guid>
+      <description>Oftentimes, I run into difficulty trying to explain some of the concepts of statistical sampling with audiences that either have very limited or no understanding of statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Country Networks and Flags</title>
       <link>https://data-scribers.mikewk.com/post/country-networks-and-flags/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
@@ -6396,6 +6450,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>PE Industrial Engineer Reference Sheet</title>
+      <link>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</guid>
+      <description>80% of the items represent 20% of the sales or 20% of the items represent 80% of the cost. This law is a rule of thumb. The operation process chart only has Operations and Inspections. The flow process chart forces a more detailed look at a system. organizes a large number of ideas into their natural relationships Shows when each hand is busy and idle&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio Connect v1.6.2</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-connect-v162/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
@@ -6681,6 +6744,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-35/</guid>
       <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayWBA, Stoke and Southampton edge ever closer to the drop What with hitting the woodwork three times the Watford v Palace 0-0 matchup saw some records&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>chorrrds</title>
+      <link>https://data-scribers.mikewk.com/post/chorrrds/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/chorrrds/</guid>
+      <description>Então vamos lá. Eu vou começar acertando alguns pontos sobre os dados, já que eles não estão perfeitos, como: A base está no formato longo, ou seja, temos uma linha para cada acorde da música, mantendo a sequência na qual eles aparecem no site&amp;hellip;</description>
     </item>
     
     <item>
@@ -7665,6 +7737,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>fitur 0.5.25 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-0525-release/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-0525-release/</guid>
+      <description>Fixed appearance of plots Added plot_density function for comparison pdfs of fitted functions Updated argument naming conventions The output is a ggplot object so you can add colors, styling, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Automatically importing publications from bibtex to a hugo-academic blog</title>
       <link>https://data-scribers.mikewk.com/post/automatically-importing-public/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
@@ -7752,6 +7833,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/benchmarking-aws-instances-wit/</guid>
       <description>These instances differ in two dimensions: price and performance. Obviously, these dimensions are highly correlated, since higher price means (or should mean, at least) higher performance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Distribution Reference Tables in R</title>
+      <link>https://data-scribers.mikewk.com/post/building-distribution-referenc/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-distribution-referenc/</guid>
+      <description>I’ve recently been studing for a professional exam that does not allow computers or advanced calculators. Some of the subject matter will require use of a few statistical distributions which can be very time-consuming to calculate manually&amp;hellip;</description>
     </item>
     
     <item>
@@ -9609,6 +9699,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Queueing Notation</title>
+      <link>https://data-scribers.mikewk.com/post/queueing-notation/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/queueing-notation/</guid>
+      <description>Queueing theory has some commonly accepted shorthand to describe characteristics of queuing models. Although across books and peer reviewed articles you will see slight variations, this post outlines commonly accepted terms for reference. The rate at which entities arrive to a queueing system to be processed. E.g&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Regressions using completly fake data!</title>
       <link>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
@@ -10303,6 +10402,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>fitur 0.5.20 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-0520-release/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-0520-release/</guid>
+      <description>DESCRIPTION summary has been updated Examples have been updated for fit_univariate, fit_empirical fit_empirical_discrete and fit_empirical_continuous are no longer exported added plot_qq and plot_pp functions for diagnostic plotting of fits Added a vignette Diagnostic Plots for Fitting Distributions Introduction vignette has updated&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Another Year, Another R Package, Another Book, and Endless Joy</title>
       <link>https://data-scribers.mikewk.com/post/another-year-another-r-package/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
@@ -10624,6 +10732,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-tidytext-analysis-of-the-wei/</guid>
       <description>Quantifying He-Said, She-Said: Newspaper Reporting I have been meaning to get into quantitative text analysis for a while. I initially planned this post to feature a different package (that I wanted to showcase), however I ran into some problems with their &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MMC Queues</title>
+      <link>https://data-scribers.mikewk.com/post/mmc-queues/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mmc-queues/</guid>
+      <description>A queue or waiting line is a natural occurence in a system when the demand of customers exceeds the currently available resources that can serve that demand. Queues occur everywhere in our daily life at the grocery store, movie theatre, emergency room, and restaurants&amp;hellip;</description>
     </item>
     
     <item>
@@ -11668,6 +11785,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</guid>
       <description>Anyways, given that more waves are available, we don’t have to look at a single comparison between 2007 and 2016, if we want to push Bruenig’s work a little further&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://data-scribers.mikewk.com/post/hello-world/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-world/</guid>
+      <description>Welcome to my personal website. This site will serve a a landing page for my public projects in development&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Rstats on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding errors in R</title>
+      <link>https://data-scribers.mikewk.com/post/finding-errors-in-r/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-errors-in-r/</guid>
+      <description>On a daily basis, I come across people on Facebook groups, Telegram or Twitter having troubles with some tasks in R. These problems have two main origins: Documentation is one of the most important aspects of a good package&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Presidential Chicken</title>
@@ -2085,6 +2094,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Animating a Monte Carlo Simulation</title>
+      <link>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</guid>
+      <description>Oftentimes, I run into difficulty trying to explain some of the concepts of statistical sampling with audiences that either have very limited or no understanding of statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Country Networks and Flags</title>
       <link>https://data-scribers.mikewk.com/post/country-networks-and-flags/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
@@ -2190,6 +2208,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/mapping-the-tunisian-revolutio/</guid>
       <description>R provides a growing number of mapping packages. In this post I document my workflow for producing a map of the diffusion of protest during the Tunisian Revolution&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PE Industrial Engineer Reference Sheet</title>
+      <link>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</guid>
+      <description>80% of the items represent 20% of the sales or 20% of the items represent 80% of the cost. This law is a rule of thumb. The operation process chart only has Operations and Inspections. The flow process chart forces a more detailed look at a system. organizes a large number of ideas into their natural relationships Shows when each hand is busy and idle&amp;hellip;</description>
     </item>
     
     <item>
@@ -2697,6 +2724,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>fitur 0.5.25 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-0525-release/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-0525-release/</guid>
+      <description>Fixed appearance of plots Added plot_density function for comparison pdfs of fitted functions Updated argument naming conventions The output is a ggplot object so you can add colors, styling, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Miao YU is Looking for a Postdoc Position in the US</title>
       <link>https://data-scribers.mikewk.com/post/miao-yu-is-looking-for-a-postd/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
@@ -2730,6 +2766,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</guid>
       <description>Sometimes students are interested in this setup, which is what I’ll document here. Though I want to highlight that you can get a very similar setup using other tools. Note that this setup only works for Mac computers. and under bundle, choose the R bundle as shown below. As you can see, it hasn’t been updated in a while&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Distribution Reference Tables in R</title>
+      <link>https://data-scribers.mikewk.com/post/building-distribution-referenc/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-distribution-referenc/</guid>
+      <description>I’ve recently been studing for a professional exam that does not allow computers or advanced calculators. Some of the subject matter will require use of a few statistical distributions which can be very time-consuming to calculate manually&amp;hellip;</description>
     </item>
     
     <item>

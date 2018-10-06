@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brunawcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/brunawcom/</link>
+    <description>Recent content in Brunawcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/brunawcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finding errors in R</title>
+      <link>https://data-scribers.mikewk.com/post/finding-errors-in-r/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-errors-in-r/</guid>
+      <description>On a daily basis, I come across people on Facebook groups, Telegram or Twitter having troubles with some tasks in R. These problems have two main origins: Documentation is one of the most important aspects of a good package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>chorrrds</title>
+      <link>https://data-scribers.mikewk.com/post/chorrrds/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/chorrrds/</guid>
+      <description>Então vamos lá. Eu vou começar acertando alguns pontos sobre os dados, já que eles não estão perfeitos, como: A base está no formato longo, ou seja, temos uma linha para cada acorde da música, mantendo a sequência na qual eles aparecem no site&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

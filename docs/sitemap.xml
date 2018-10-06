@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/finding-errors-in-r/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/siri%E8%AD%A6%E5%AF%9F%E3%81%AB%E5%81%9C%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E3%81%A7%E9%8C%B2%E7%94%BB%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8Bsiri%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -669,6 +674,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/draft-combine-measures-defense/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/introduction-to-geospatial-ana/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1398,12 +1408,22 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/shiny-gadget/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/test-post-please-dont-ignore/</loc>
     <lastmod>2018-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/visualizing-temperature-rise-i/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/fitur-061-release/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1974,6 +1994,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/shiny-app-for-exploring-harmon/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/fitur-060-release/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -3383,6 +3408,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/country-networks-and-flags/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -3548,6 +3578,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio-connect-v162/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -3704,6 +3739,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/epl-week-35/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/chorrrds/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -4253,6 +4293,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/fitur-0525-release/</loc>
+    <lastmod>2018-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/automatically-importing-public/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -4299,6 +4344,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/benchmarking-aws-instances-wit/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/building-distribution-referenc/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -5333,6 +5383,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/queueing-notation/</loc>
+    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/regressions-using-completly-fa/</loc>
     <lastmod>2018-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -5718,6 +5773,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/fitur-0520-release/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/another-year-another-r-package/</loc>
     <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -5894,6 +5954,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/a-tidytext-analysis-of-the-wei/</loc>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/mmc-queues/</loc>
     <lastmod>2017-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -6474,6 +6539,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/hello-world/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -9594,6 +9664,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/brunawcom/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/calligrossde/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -10146,6 +10222,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/rohengineering/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/ropensciorgblog/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -10171,7 +10253,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/rstats/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohengineering on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/rohengineering/</link>
+    <description>Recent content in Rohengineering on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/rohengineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Geospatial Analysis in R</title>
+      <link>https://data-scribers.mikewk.com/post/introduction-to-geospatial-ana/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introduction-to-geospatial-ana/</guid>
+      <description>Slides from my presentation at Heartland Developer Conference in La Vista,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shiny Gadget</title>
+      <link>https://data-scribers.mikewk.com/post/shiny-gadget/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shiny-gadget/</guid>
+      <description>The ‘Fit Distributions’ shiny gadget allows easy automated diagnostics for fitting univariate distributions. It reads in numeric vectors in the global environment, and uses MLE to estimate the parameters of the selected distributions. The visual outputs are GOF statistics, density plot, pp-plot, and qq-plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.6.1 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-061-release/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-061-release/</guid>
+      <description>shiny gadget for fitting univariate distributions has been added added test function for distfun objects diagnostic plots now have better checks for distfun objects and lists of distfun&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.6.0 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-060-release/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-060-release/</guid>
+      <description>Adding continuous distribution testing functions Kolmogorov-Smirnov, Anderson-Darling, and Cramer-Von Mises S3 methods have now been added for distfit objects Code reformatting and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Animating a Monte Carlo Simulation</title>
+      <link>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animating-a-monte-carlo-simula/</guid>
+      <description>Oftentimes, I run into difficulty trying to explain some of the concepts of statistical sampling with audiences that either have very limited or no understanding of statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PE Industrial Engineer Reference Sheet</title>
+      <link>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pe-industrial-engineer-referen/</guid>
+      <description>80% of the items represent 20% of the sales or 20% of the items represent 80% of the cost. This law is a rule of thumb. The operation process chart only has Operations and Inspections. The flow process chart forces a more detailed look at a system. organizes a large number of ideas into their natural relationships Shows when each hand is busy and idle&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.5.25 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-0525-release/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-0525-release/</guid>
+      <description>Fixed appearance of plots Added plot_density function for comparison pdfs of fitted functions Updated argument naming conventions The output is a ggplot object so you can add colors, styling, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Distribution Reference Tables in R</title>
+      <link>https://data-scribers.mikewk.com/post/building-distribution-referenc/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-distribution-referenc/</guid>
+      <description>I’ve recently been studing for a professional exam that does not allow computers or advanced calculators. Some of the subject matter will require use of a few statistical distributions which can be very time-consuming to calculate manually&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Queueing Notation</title>
+      <link>https://data-scribers.mikewk.com/post/queueing-notation/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/queueing-notation/</guid>
+      <description>Queueing theory has some commonly accepted shorthand to describe characteristics of queuing models. Although across books and peer reviewed articles you will see slight variations, this post outlines commonly accepted terms for reference. The rate at which entities arrive to a queueing system to be processed. E.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fitur 0.5.20 Release</title>
+      <link>https://data-scribers.mikewk.com/post/fitur-0520-release/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fitur-0520-release/</guid>
+      <description>DESCRIPTION summary has been updated Examples have been updated for fit_univariate, fit_empirical fit_empirical_discrete and fit_empirical_continuous are no longer exported added plot_qq and plot_pp functions for diagnostic plotting of fits Added a vignette Diagnostic Plots for Fitting Distributions Introduction vignette has updated&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MMC Queues</title>
+      <link>https://data-scribers.mikewk.com/post/mmc-queues/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mmc-queues/</guid>
+      <description>A queue or waiting line is a natural occurence in a system when the demand of customers exceeds the currently available resources that can serve that demand. Queues occur everywhere in our daily life at the grocery store, movie theatre, emergency room, and restaurants&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://data-scribers.mikewk.com/post/hello-world/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-world/</guid>
+      <description>Welcome to my personal website. This site will serve a a landing page for my public projects in development&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

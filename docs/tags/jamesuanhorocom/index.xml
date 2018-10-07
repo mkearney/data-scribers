@@ -6,10 +6,19 @@
     <description>Recent content in Jamesuanhorocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/jamesuanhorocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Should you perform logistic regression on a dichotomized continuous variable when you have access to the continuous variable? I&#39;m not sure.</title>
+      <link>https://data-scribers.mikewk.com/post/should-you-perform-logistic-re/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/should-you-perform-logistic-re/</guid>
+      <description>A standard situation in education or medicine is we have a continuous measure, but then we have cut-points on those continuous measures that are clinically/practically significant. An example is BMI where I hear 30 matters. You may have an achievement test with 70 as the pass score&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Two group mean and variance comparisons</title>

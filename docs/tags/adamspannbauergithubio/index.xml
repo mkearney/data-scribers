@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adamspannbauergithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/adamspannbauergithubio/</link>
+    <description>Recent content in Adamspannbauergithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/adamspannbauergithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OOP Fractal Trees in R with `R6`, `ggplot2`, &amp; `gganimate` (part 1)</title>
+      <link>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</guid>
+      <description>In this post, we’re going to explore OOP in R as implemented by the R6 package. This post is part 1 of 2, and the end goal is to create an animated fractal tree with R6 &amp;amp; gganimate. Today, we will be creating a static plot of a fractal tree and a series of R6Class objects to help get us there&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building a Rasa Chatbot to Perform Natural Language Queries</title>
+      <link>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</guid>
+      <description>In this post I’ll be sharing a stateless chat bot built with Rasa. The bot has been trained to perform natural language queries against the iTunes Charts to retrieve app rank data. A preview of the bot’s capabilities can be seen in a small Dash app that appears in the gif below&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building an Image Search Engine with Pretrained ResNet50 from Keras</title>
+      <link>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</guid>
+      <description>In this post we’ll be using the pretrained ResNet50 ImageNet weights shipped with Keras as a foundation for building a small image search engine. In the below image we can see some sample output from our final product. As in my last post we’ll be working with app icons that we’re gathered by this scrape script&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding and Using Images&#39; Dominant Colors using Python &amp; OpenCV</title>
+      <link>https://data-scribers.mikewk.com/post/finding-and-using-images-domin/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-and-using-images-domin/</guid>
+      <description>This post is about finding an image’s dominant color. To illustrate this concept we’ll be working with app icons from the Apple App Store&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Image Classification with Keras in R &amp; Python</title>
+      <link>https://data-scribers.mikewk.com/post/image-classification-with-kera/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/image-classification-with-kera/</guid>
+      <description>This post is a comparison between R &amp;amp; Python for applying the pretrained imagenet VGG19 model shipped with keras. The comparison for using the keras model across the 2 languages will be addressing the classic image classification problem of cats vs dogs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Proposals, diamonds, xgboost, &amp; lime</title>
+      <link>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</guid>
+      <description>I recently got engaged! While picking out the stone for the ring I played around with the diamonds dataset from ggplot2. The analysis was around what are the main contributors to diamond pricing. (The analysis was also an excuse to play around with the lime package for the first time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rPackedBar on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/rpackedbar-on-cran/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rpackedbar-on-cran/</guid>
+      <description>This post is to announce rPackedBar’s release to CRAN and to share a shiny app to visualize twitter interactions using a packed barchart. This post and the package has been updated due to feedback from Xan Gregg. Click to See more &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Reaction Face Finder</title>
+      <link>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</guid>
+      <description>This post is to share a side project on extracting ‘reaction faces’ from YouTube videos. Example Output Output from video: ‘PLOTCON 2016: Hadley Wickham, New open viz in R’&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Snake Game Shiny Loader</title>
+      <link>https://data-scribers.mikewk.com/post/snake-game-shiny-loader/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/snake-game-shiny-loader/</guid>
+      <description>This post is to share the 🐍snakeLoadR🐍 R package. The package adds the snake game as a loading screen tied to a specific output in a shiny app. This repo has the code used to make the app in the gif. This loader package is more of a novelity than it is anything useful, but it was a fun little project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Regex Tester Shiny App</title>
+      <link>https://data-scribers.mikewk.com/post/r-regex-tester-shiny-app/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-regex-tester-shiny-app/</guid>
+      <description>This post is to announce a shiny app I’ve written to test regular expressions in an R environment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Emotes in Twitch Chat with a Packed Barchart</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-emotes-in-twitch-c/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-emotes-in-twitch-c/</guid>
+      <description>In this post I’ll be an showing an example of using a packed barchart to visualize emote usage in a twitch.tv chat&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Keras FRCNN Object Detector for Fox in SSBM</title>
+      <link>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</guid>
+      <description>In this post I’ll be sharing a computer vision model that was trained to detect the character Fox in the game Super Smash Bros Melee for the Nintendo Gamecube&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting Christmas Carols in R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</guid>
+      <description>In this post we’ll be playing with spacyr &amp;amp; visNetwork to parse and plot the lyrics of the Christmas Carol ‘Santa Claus is Coming to Town’. The spacyr package is a wrapper around the spaCy python module for NLP&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summarizing Web Articles with R using lexRankr</title>
+      <link>https://data-scribers.mikewk.com/post/summarizing-web-articles-with-/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summarizing-web-articles-with-/</guid>
+      <description>In this post we’ll be recreating the output of a popular summarization bot using the R package lexRankr. If you browse reddit you may have come across /u/autotldr, a popular bot that performs article summarization&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://data-scribers.mikewk.com/post/tutorial/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tutorial/</guid>
+      <description>Note: Please let me know if you follow the tutorial and are unable to setup a messenger bot successfully; I’d be happy to update the steps to make the tutorial more useful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Profanity in Twitch Chat</title>
+      <link>https://data-scribers.mikewk.com/post/profanity-in-twitch-chat/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/profanity-in-twitch-chat/</guid>
+      <description>This post contains references to profane language. All instances of profanity on this page have been censored. The post is part tutorial with code chunks, if you are uninterested in the data manipulation steps you can jump to Visualizing Profanity in Chat to see the results. Background In this post we’ll be analyzing profanity in a Twitch&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>lexRankr &amp; Twitter</title>
+      <link>https://data-scribers.mikewk.com/post/lexrankr-twitter/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lexrankr-twitter/</guid>
+      <description>###Packages Used library(lexRankr) library(tidyverse) library(stringr) library(httr) library(jsonlite) In this post we’ll get tweets from twitter using the twitter API and then analyze the tweets using lexRankr in order to find a user’s most representative tweets&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

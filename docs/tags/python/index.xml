@@ -444,6 +444,15 @@
     </item>
     
     <item>
+      <title>Image Classification with Keras in R &amp; Python</title>
+      <link>https://data-scribers.mikewk.com/post/image-classification-with-kera/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/image-classification-with-kera/</guid>
+      <description>This post is a comparison between R &amp;amp; Python for applying the pretrained imagenet VGG19 model shipped with keras. The comparison for using the keras model across the 2 languages will be addressing the classic image classification problem of cats vs dogs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Idiomatic Python Stream Processing in Wallaroo</title>
       <link>https://data-scribers.mikewk.com/post/idiomatic-python-stream-proces/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
@@ -459,6 +468,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</guid>
       <description>At Wallaroo Labs we&amp;rsquo;ve been working on our stream processing engine, Wallaroo for just under two years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Reaction Face Finder</title>
+      <link>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</guid>
+      <description>This post is to share a side project on extracting ‘reaction faces’ from YouTube videos. Example Output Output from video: ‘PLOTCON 2016: Hadley Wickham, New open viz in R’&amp;hellip;</description>
     </item>
     
     <item>
@@ -495,6 +513,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/is-there-a-future-for-cli/</guid>
       <description>The future of CLI and how Network Engineers will interact with devices is a topic being discussed quite often: &amp;ldquo;I&amp;#39;ll give you my CLI when you pry it from my cold, dead fingers&amp;rdquo; - said no #CCIE ever, they&amp;#39;re busy automating their networks with Python to save time for more creative&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting Christmas Carols in R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</guid>
+      <description>In this post we’ll be playing with spacyr &amp;amp; visNetwork to parse and plot the lyrics of the Christmas Carol ‘Santa Claus is Coming to Town’. The spacyr package is a wrapper around the spaCy python module for NLP&amp;hellip;</description>
     </item>
     
     <item>
@@ -738,6 +765,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</guid>
       <description>For the past many many years my goto language has been Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>lexRankr &amp; Twitter</title>
+      <link>https://data-scribers.mikewk.com/post/lexrankr-twitter/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lexrankr-twitter/</guid>
+      <description>###Packages Used library(lexRankr) library(tidyverse) library(stringr) library(httr) library(jsonlite) In this post we’ll get tweets from twitter using the twitter API and then analyze the tweets using lexRankr in order to find a user’s most representative tweets&amp;hellip;</description>
     </item>
     
     <item>

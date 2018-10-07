@@ -318,6 +318,15 @@
     </item>
     
     <item>
+      <title>Building an Image Search Engine with Pretrained ResNet50 from Keras</title>
+      <link>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</guid>
+      <description>In this post we’ll be using the pretrained ResNet50 ImageNet weights shipped with Keras as a foundation for building a small image search engine. In the below image we can see some sample output from our final product. As in my last post we’ll be working with app icons that we’re gathered by this scrape script&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Are you in genomics and building models? Stop using ROC - use PR</title>
       <link>https://data-scribers.mikewk.com/post/are-you-in-genomics-and-buildi/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
@@ -354,6 +363,15 @@
     </item>
     
     <item>
+      <title>Image Classification with Keras in R &amp; Python</title>
+      <link>https://data-scribers.mikewk.com/post/image-classification-with-kera/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/image-classification-with-kera/</guid>
+      <description>This post is a comparison between R &amp;amp; Python for applying the pretrained imagenet VGG19 model shipped with keras. The comparison for using the keras model across the 2 languages will be addressing the classic image classification problem of cats vs dogs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Supervised vs. Unsupervised Learning</title>
       <link>https://data-scribers.mikewk.com/post/supervised-vs-unsupervised-lea/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
@@ -381,6 +399,15 @@
     </item>
     
     <item>
+      <title>YouTube Reaction Face Finder</title>
+      <link>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</guid>
+      <description>This post is to share a side project on extracting ‘reaction faces’ from YouTube videos. Example Output Output from video: ‘PLOTCON 2016: Hadley Wickham, New open viz in R’&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Predicting Conflict Duration with (gg)plots using Keras</title>
       <link>https://data-scribers.mikewk.com/post/predicting-conflict-duration-w/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
@@ -396,6 +423,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/cloud-automl-vision-with-amy-u/</guid>
       <description>Cloud AutoML is a suite of products enabling developers with limited ML expertise to build high quality models using transfer learning and Neural Architecture Search techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Keras FRCNN Object Detector for Fox in SSBM</title>
+      <link>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</guid>
+      <description>In this post I’ll be sharing a computer vision model that was trained to detect the character Fox in the game Super Smash Bros Melee for the Nintendo Gamecube&amp;hellip;</description>
     </item>
     
     <item>

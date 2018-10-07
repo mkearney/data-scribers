@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/ps5ps1%E3%81%8B%E3%82%89ps4%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8B%E3%82%82%E3%81%A3%E3%81%A6%E3%82%88/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -4363,6 +4368,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/contra-jfk-use-r-because-it-is/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -4583,6 +4593,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/comments/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url>
@@ -4629,6 +4644,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/blog-setup/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/finding-and-using-images-domin/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -4918,6 +4938,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/image-classification-with-kera/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/licensing-r-packages-that-incl/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -5058,6 +5083,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/using-r-to-create-google-maps/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
@@ -5139,6 +5169,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</loc>
+    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/rpackedbar-on-cran/</loc>
     <lastmod>2018-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -5293,6 +5328,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/mgsub-v10-launched-to-cran/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url>
@@ -5364,6 +5404,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/please-like-me/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/snake-game-shiny-loader/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -5473,6 +5518,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/r-regex-tester-shiny-app/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/exploring-global-trends-in-tub/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -5509,6 +5559,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/visualizing-emotes-in-twitch-c/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -5763,6 +5818,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</loc>
+    <lastmod>2017-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/a-data-viz-that-asks-questions/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
   </url>
@@ -5809,6 +5869,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/leveraging-uncertainty-informa/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</loc>
     <lastmod>2017-12-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -5934,6 +5999,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/hello-internet/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/summarizing-web-articles-with-/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -7733,6 +7803,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tutorial/</loc>
+    <lastmod>2017-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</loc>
     <lastmod>2017-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -7838,12 +7913,22 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/profanity-in-twitch-chat/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/being-successful-on-kaggle-usi/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/lexrankr-twitter/</loc>
     <lastmod>2017-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -9645,6 +9730,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/ab604netlifycom/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/adamspannbauergithubio/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

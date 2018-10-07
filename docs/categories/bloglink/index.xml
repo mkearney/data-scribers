@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>OOP Fractal Trees in R with `R6`, `ggplot2`, &amp; `gganimate` (part 1)</title>
+      <link>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</guid>
+      <description>In this post, we’re going to explore OOP in R as implemented by the R6 package. This post is part 1 of 2, and the end goal is to create an animated fractal tree with R6 &amp;amp; gganimate. Today, we will be creating a static plot of a fractal tree and a series of R6Class objects to help get us there&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>PS5、PS1からPS4までのゲームができるかもってよ</title>
       <link>https://data-scribers.mikewk.com/post/ps5ps1%E3%81%8B%E3%82%89ps4%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8B%E3%82%82%E3%81%A3%E3%81%A6%E3%82%88/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
@@ -7863,6 +7872,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Building a Rasa Chatbot to Perform Natural Language Queries</title>
+      <link>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</guid>
+      <description>In this post I’ll be sharing a stateless chat bot built with Rasa. The bot has been trained to perform natural language queries against the iTunes Charts to retrieve app rank data. A preview of the bot’s capabilities can be seen in a small Dash app that appears in the gif below&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Contra JFK, use R because it is easy, not because it is hard</title>
       <link>https://data-scribers.mikewk.com/post/contra-jfk-use-r-because-it-is/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
@@ -8259,6 +8277,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Building an Image Search Engine with Pretrained ResNet50 from Keras</title>
+      <link>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-an-image-search-engin/</guid>
+      <description>In this post we’ll be using the pretrained ResNet50 ImageNet weights shipped with Keras as a foundation for building a small image search engine. In the below image we can see some sample output from our final product. As in my last post we’ll be working with app icons that we’re gathered by this scrape script&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Comments</title>
       <link>https://data-scribers.mikewk.com/post/comments/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
@@ -8346,6 +8373,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/blog-setup/</guid>
       <description>Ok, I hadn&amp;rsquo;t planned to write any more about how the blog is set up, since that isn&amp;rsquo;t that interesting to me and probably isn&amp;rsquo;t to you — either you know a lot more about this than me, in which case I have nothing to teach you, or you just don&amp;rsquo;t care, which I can relate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding and Using Images&#39; Dominant Colors using Python &amp; OpenCV</title>
+      <link>https://data-scribers.mikewk.com/post/finding-and-using-images-domin/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-and-using-images-domin/</guid>
+      <description>This post is about finding an image’s dominant color. To illustrate this concept we’ll be working with app icons from the Apple App Store&amp;hellip;</description>
     </item>
     
     <item>
@@ -8862,6 +8898,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Image Classification with Keras in R &amp; Python</title>
+      <link>https://data-scribers.mikewk.com/post/image-classification-with-kera/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/image-classification-with-kera/</guid>
+      <description>This post is a comparison between R &amp;amp; Python for applying the pretrained imagenet VGG19 model shipped with keras. The comparison for using the keras model across the 2 languages will be addressing the classic image classification problem of cats vs dogs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Licensing R Packages that Include Others Code</title>
       <link>https://data-scribers.mikewk.com/post/licensing-r-packages-that-incl/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
@@ -9114,6 +9159,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Proposals, diamonds, xgboost, &amp; lime</title>
+      <link>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</guid>
+      <description>I recently got engaged! While picking out the stone for the ring I played around with the diamonds dataset from ggplot2. The analysis was around what are the main contributors to diamond pricing. (The analysis was also an excuse to play around with the lime package for the first time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Using R to Create Google Maps</title>
       <link>https://data-scribers.mikewk.com/post/using-r-to-create-google-maps/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
@@ -9264,6 +9318,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/what-should-i-have-for-lunch/</guid>
       <description>Inspiration I was having lunch with some colleagues the other day when they told me about a restaurant spreadsheet that they used to use to randomly pick a place to get lunch from. I of course felt the need to see if I could create something similar in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rPackedBar on CRAN</title>
+      <link>https://data-scribers.mikewk.com/post/rpackedbar-on-cran/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rpackedbar-on-cran/</guid>
+      <description>This post is to announce rPackedBar’s release to CRAN and to share a shiny app to visualize twitter interactions using a packed barchart. This post and the package has been updated due to feedback from Xan Gregg. Click to See more &amp;hellip;</description>
     </item>
     
     <item>
@@ -9537,6 +9600,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>YouTube Reaction Face Finder</title>
+      <link>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/youtube-reaction-face-finder/</guid>
+      <description>This post is to share a side project on extracting ‘reaction faces’ from YouTube videos. Example Output Output from video: ‘PLOTCON 2016: Hadley Wickham, New open viz in R’&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>mgsub v1.0 Launched to CRAN</title>
       <link>https://data-scribers.mikewk.com/post/mgsub-v10-launched-to-cran/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
@@ -9669,6 +9741,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/please-like-me/</guid>
       <description>Sundays When I woke up this morning I wrote a long to do list. Instead of working through the list I somehow ended up spending most of my day playing in R. Scraping the web I have been keen to try web scraping in R for a while so I gave rvest a go&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Snake Game Shiny Loader</title>
+      <link>https://data-scribers.mikewk.com/post/snake-game-shiny-loader/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/snake-game-shiny-loader/</guid>
+      <description>This post is to share the 🐍snakeLoadR🐍 R package. The package adds the snake game as a loading screen tied to a specific output in a shiny app. This repo has the code used to make the app in the gif. This loader package is more of a novelity than it is anything useful, but it was a fun little project&amp;hellip;</description>
     </item>
     
     <item>
@@ -9861,6 +9942,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>R Regex Tester Shiny App</title>
+      <link>https://data-scribers.mikewk.com/post/r-regex-tester-shiny-app/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-regex-tester-shiny-app/</guid>
+      <description>This post is to announce a shiny app I’ve written to test regular expressions in an R environment&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Exploring Global Trends in Tuberculosis Incidence Rates - with GetTBinR</title>
       <link>https://data-scribers.mikewk.com/post/exploring-global-trends-in-tub/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
@@ -9930,6 +10020,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-to-update-your-wallaroo-py/</guid>
       <description>Thanks to the extensive feedback we have received on our first Python API, we have decided to release some improvements. So in version 0.4.0, we released some breaking changes to the Python API&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Emotes in Twitch Chat with a Packed Barchart</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-emotes-in-twitch-c/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-emotes-in-twitch-c/</guid>
+      <description>In this post I’ll be an showing an example of using a packed barchart to visualize emote usage in a twitch.tv chat&amp;hellip;</description>
     </item>
     
     <item>
@@ -10384,6 +10483,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Keras FRCNN Object Detector for Fox in SSBM</title>
+      <link>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</guid>
+      <description>In this post I’ll be sharing a computer vision model that was trained to detect the character Fox in the game Super Smash Bros Melee for the Nintendo Gamecube&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A data viz that asks questions</title>
       <link>https://data-scribers.mikewk.com/post/a-data-viz-that-asks-questions/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
@@ -10471,6 +10579,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/leveraging-uncertainty-informa/</guid>
       <description>As a biostatistician in the deep learning world I have the awkward task of balancing the dogma of statistics (everything is uncertain) along with the alluring success of some of the newest crazy complex neural network architectures&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting Christmas Carols in R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-christmas-carols-in-r/</guid>
+      <description>In this post we’ll be playing with spacyr &amp;amp; visNetwork to parse and plot the lyrics of the Christmas Carol ‘Santa Claus is Coming to Town’. The spacyr package is a wrapper around the spaCy python module for NLP&amp;hellip;</description>
     </item>
     
     <item>
@@ -10696,6 +10813,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/hello-internet/</guid>
       <description>This is the first post for this blog. I will post here about the tools that I use, mostly Archlinux, vim and R. You can read more about this blog and myself in the About section. Social media contacts are at the bottom of every page. You can browse my (public) repos on my own instance of Gitea with the top menu&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summarizing Web Articles with R using lexRankr</title>
+      <link>https://data-scribers.mikewk.com/post/summarizing-web-articles-with-/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summarizing-web-articles-with-/</guid>
+      <description>In this post we’ll be recreating the output of a popular summarization bot using the R package lexRankr. If you browse reddit you may have come across /u/autotldr, a popular bot that performs article summarization&amp;hellip;</description>
     </item>
     
     <item>
@@ -13930,6 +14056,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Tutorial</title>
+      <link>https://data-scribers.mikewk.com/post/tutorial/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tutorial/</guid>
+      <description>Note: Please let me know if you follow the tutorial and are unable to setup a messenger bot successfully; I’d be happy to update the steps to make the tutorial more useful&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Elixir for Pythonistas part I</title>
       <link>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
@@ -14119,6 +14254,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Profanity in Twitch Chat</title>
+      <link>https://data-scribers.mikewk.com/post/profanity-in-twitch-chat/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/profanity-in-twitch-chat/</guid>
+      <description>This post contains references to profane language. All instances of profanity on this page have been censored. The post is part tutorial with code chunks, if you are uninterested in the data manipulation steps you can jump to Visualizing Profanity in Chat to see the results. Background In this post we’ll be analyzing profanity in a Twitch&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The Four values of a devops transformation</title>
       <link>https://data-scribers.mikewk.com/post/the-four-values-of-a-devops-tr/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
@@ -14134,6 +14278,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/being-successful-on-kaggle-usi/</guid>
       <description>Achieving a good score on a Kaggle competition is typically quite difficult. This blog post outlines 7 tips for beginners to improve their ranking on the Kaggle leaderboards&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>lexRankr &amp; Twitter</title>
+      <link>https://data-scribers.mikewk.com/post/lexrankr-twitter/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lexrankr-twitter/</guid>
+      <description>###Packages Used library(lexRankr) library(tidyverse) library(stringr) library(httr) library(jsonlite) In this post we’ll get tweets from twitter using the twitter API and then analyze the tweets using lexRankr in order to find a user’s most representative tweets&amp;hellip;</description>
     </item>
     
     <item>

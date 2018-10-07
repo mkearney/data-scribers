@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irenerbindio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/irenerbindio/</link>
+    <description>Recent content in Irenerbindio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/irenerbindio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A summer of puzzles at RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/a-summer-of-puzzles-at-rstudio/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-summer-of-puzzles-at-rstudio/</guid>
+      <description>This summer, I teamed up with Jenny Bryan to create a series of coding puzzles, which (fingers crossed!) will be released next spring. It was exciting to start a project from the ground up, growing and shaping it over the 10-ish weeks of the internship&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Testing Environments</title>
+      <link>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</guid>
+      <description>Background Lesson 1: check suggested packages Lesson 2: MODULARIZE + use vagrant scripts with caution Internet solutions Conclusion Today marks the second time I’ve debugged the problem of tests that pass with devtools::test() but fail with devtools::check()&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>FUNctional programming tricks in httr</title>
+      <link>https://data-scribers.mikewk.com/post/functional-programming-tricks-/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/functional-programming-tricks-/</guid>
+      <description>httr basics On with the tricks! Embrace the backtick The null-default operator %||% Check argument inputs with match&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rats to reefs</title>
+      <link>https://data-scribers.mikewk.com/post/rats-to-reefs/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rats-to-reefs/</guid>
+      <description>This week, I came across two news articles about a study in Nature led by Nick Graham that linked invasive rats on islands to coral reefs&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

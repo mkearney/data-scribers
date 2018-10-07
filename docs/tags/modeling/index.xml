@@ -309,6 +309,15 @@
     </item>
     
     <item>
+      <title>A Tale of Two Testing Environments</title>
+      <link>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</guid>
+      <description>Background Lesson 1: check suggested packages Lesson 2: MODULARIZE + use vagrant scripts with caution Internet solutions Conclusion Today marks the second time I’ve debugged the problem of tests that pass with devtools::test() but fail with devtools::check()&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Neural Processes as distributions over functions</title>
       <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>

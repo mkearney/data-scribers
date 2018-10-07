@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>A summer of puzzles at RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/a-summer-of-puzzles-at-rstudio/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-summer-of-puzzles-at-rstudio/</guid>
+      <description>This summer, I teamed up with Jenny Bryan to create a series of coding puzzles, which (fingers crossed!) will be released next spring. It was exciting to start a project from the ground up, growing and shaping it over the 10-ish weeks of the internship&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Presidential Chicken</title>
       <link>https://data-scribers.mikewk.com/post/presidential-chicken/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
@@ -931,6 +940,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>A Tale of Two Testing Environments</title>
+      <link>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</guid>
+      <description>Background Lesson 1: check suggested packages Lesson 2: MODULARIZE + use vagrant scripts with caution Internet solutions Conclusion Today marks the second time I’ve debugged the problem of tests that pass with devtools::test() but fail with devtools::check()&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Neural Processes as distributions over functions</title>
       <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
@@ -1207,6 +1225,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/engifification-in-r-with-gifsk/</guid>
       <description>Matt Dray gifski::gifski() You and I both know that the world needs more intergalatic-sloth-pizza gifs. Great news: ‘the fastest gif encoder in the universe’ has been created. The gifski package for R is now in CRAN&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>FUNctional programming tricks in httr</title>
+      <link>https://data-scribers.mikewk.com/post/functional-programming-tricks-/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/functional-programming-tricks-/</guid>
+      <description>httr basics On with the tricks! Embrace the backtick The null-default operator %||% Check argument inputs with match&amp;hellip;</description>
     </item>
     
     <item>

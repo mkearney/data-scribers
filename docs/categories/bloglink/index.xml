@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>How to create a docker image</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-create-a-docker-image/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-create-a-docker-image/</guid>
+      <description>Recently, I wanted to create a blogpost about simple mapping in R. It required some data (a shapefile), some spatial librairies and the R packages to use thoses libraries. Unfortunatly, the blogdown image that I was using at that time didn’t provided any of that. It was the generic one provided by the Blogdown guide&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Make a trailer for your slidedeck with av</title>
       <link>https://data-scribers.mikewk.com/post/make-a-trailer-for-your-slided/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>

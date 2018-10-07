@@ -6,10 +6,19 @@
     <description>Recent content in Blogschochasticsnet on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogschochasticsnet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analyzing the Greatest Strikers in Football II</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-the-greatest-striker/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-the-greatest-striker/</guid>
+      <description>For comparisons, we also grab the data for Messi and CR7. This is a totally optional step, but I like to use a customized ggplot theme to make the plots more unique. Let’s move on to the more interesting part. Zlatan truly is a prolific player, having scored more than 400 goals for 8 different clubs&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Analyzing the Greatest Strikers in Football I</title>

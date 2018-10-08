@@ -543,6 +543,15 @@
     </item>
     
     <item>
+      <title>Non-Centered Eight Schools Model with PyMC4</title>
+      <link>https://data-scribers.mikewk.com/post/noncentered-eight-schools-mode/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/noncentered-eight-schools-mode/</guid>
+      <description>We are finally at a state where we can demonstrate the use of the PyMC4 API side by side with PyMC3 and showcase the consistency in results by using non-centered eight schools model. I will be comparing the PyMC3 and PyMC4 way of doing the same task&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Bayesian Baby Steps</title>
       <link>https://data-scribers.mikewk.com/post/bayesian-baby-steps/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>

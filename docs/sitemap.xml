@@ -1883,6 +1883,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-pym/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/multivariate-ordinal-categoric/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -2468,6 +2473,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/the-tensorflow-graph-problem/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/where-to-get-help-with-your-r-/</loc>
     <lastmod>2018-07-22T00:00:00+00:00</lastmod>
   </url>
@@ -2773,6 +2783,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/noncentered-eight-schools-mode/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/quick-and-dirty-categorical-la/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
@@ -3019,6 +3034,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/html-widgets-for-nonhtml-outpu/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/its-been-a-month/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3629,6 +3649,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/como-hacer-un-stat-gen%C3%A9rico-en/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-wit/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -4978,6 +5003,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/skip-thought-vectors/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/taking-flight-with-r/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
   </url>
@@ -6069,6 +6099,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/how-to-follow-and-engage-with-/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/the-three-giants-survey/</loc>
     <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -10651,6 +10686,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/semidocumentedlifecom/</loc>
     <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/sharanrygithubio/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>Google Summer of Code 2018 @ PyMC</title>
+      <link>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-pym/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-pym/</guid>
+      <description>I would like to thank my mentor Colin Carroll and the whole PyMC team for constantly guiding and supporting me and reviewing my code during the GSoC project. It was my privilege working with the PyMC community&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Neural Processes as distributions over functions</title>
       <link>https://data-scribers.mikewk.com/post/neural-processes-as-distributi/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
@@ -162,6 +171,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/more-on-graph-inspection/</guid>
       <description>The computational graph is not just a nebulous, immaterial abstraction; it is a computational object that exists, and can be inspected&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Tensorflow Graph Problem</title>
+      <link>https://data-scribers.mikewk.com/post/the-tensorflow-graph-problem/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-tensorflow-graph-problem/</guid>
+      <description>This post is an effort to demonstrate and provide possible solutions for tensorflow&amp;rsquo;s graph problem with PyMC4. Recall that TensorFlow represents calculations as a computation graph, and even for very simple models, the PyMC4 computation graph can be very complex&amp;hellip;</description>
     </item>
     
     <item>
@@ -234,6 +252,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/the-genetics-of-magic/</guid>
       <description>Last spring, I took a class on Bayesian statistics at the University of Chicago that had several exercises focused on building a model to classify species based on their genome. The basic setup was that you were given a data set of salmon, their genome sequencing data, and which sub-population they belonged to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2018 with PyMC</title>
+      <link>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-wit/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-summer-of-code-2018-wit/</guid>
+      <description>I have been selected for Google Summer of Code(GSoC) 2018! :D *All models in PyMC3 are defined using such a class. This blog is one of GSoC&amp;rsquo;s requirements&amp;hellip;</description>
     </item>
     
     <item>
@@ -441,6 +468,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/leveraging-uncertainty-informa/</guid>
       <description>As a biostatistician in the deep learning world I have the awkward task of balancing the dogma of statistics (everything is uncertain) along with the alluring success of some of the newest crazy complex neural network architectures&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Three Giants&#39; Survey</title>
+      <link>https://data-scribers.mikewk.com/post/the-three-giants-survey/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-three-giants-survey/</guid>
+      <description>For quite some time researchers thought backpropagation wouldn&amp;rsquo;t work as it might get stuck in a local minima, but analysis showed that this rarely happened. There might be many saddle points at which the algorithm might get stuck, but it doesn&amp;rsquo;t matter which one as they all almost had the same objective value&amp;hellip;</description>
     </item>
     
     <item>

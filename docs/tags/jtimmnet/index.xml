@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jtimmnet on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/jtimmnet/</link>
+    <description>Recent content in Jtimmnet on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/jtimmnet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>new mexico&#39;s 53rd state legislature</title>
+      <link>https://data-scribers.mikewk.com/post/new-mexicos-53rd-state-legisla/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-mexicos-53rd-state-legisla/</guid>
+      <description>Package descriptives NMSL53: an overview Attendance &amp;amp; party loyalty Health care-related roll calls Roll call details Incorporating census data Summary Postscript: Vizualizing congressional composition In this post, we introduce a new R data package, nmlegisdatr, that makes available roll call data for New Mexico’s 53rd (2017-18) State Legislature&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>psychological and geographical distance in text</title>
+      <link>https://data-scribers.mikewk.com/post/psychological-and-geographical/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/psychological-and-geographical/</guid>
+      <description>Concreteness ratings and the lexvarsdatr package Context &amp;amp; concreteness scores Geographical distance FIN References This post considers a super-clever study presented in Snefjella and Kuperman (2015), in which the authors investigate the relationship between psychological distance and geographical distance using geolocated&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>building historical socio-demographic profiles</title>
+      <link>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</guid>
+      <description>Some preliminaries Socio-economic profiles Age distribution profiles Summary This post demonstrates a simple workflow for building census-based, historical socio-demographic profiles using the R package tidycensus&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>place from text</title>
+      <link>https://data-scribers.mikewk.com/post/place-from-text/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/place-from-text/</guid>
+      <description>From text to map Corpus search and context LSA, MDS, and semantic space FIN In this post, we demonstrate some different methodologies for exploring the geographical information found in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>topic models for synchronic &amp; diachronic corpus exploration</title>
+      <link>https://data-scribers.mikewk.com/post/topic-models-for-synchronic-di/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/topic-models-for-synchronic-di/</guid>
+      <description>Synchronic application Diachronic application Topic clusters quick summary References This post outlines a fairly simple workflow from annotated corpus to topic model, with a focus on the exploratory utility of topic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>locating linguistic diversity in the usa</title>
+      <link>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</guid>
+      <description>Language data and the census Languages in the US Linguistic diversity as entropy Locating linguistic diversity FIN This post investigates linguistic diversity in the United States utilizing data made available by the US Census&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>a simple framework for corpus-based keyphrase extraction</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-framework-for-corpusb/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-framework-for-corpusb/</guid>
+      <description>Defining potential keyphrases Corpus search for potential keyphrases Selecting descriptive keyphrases with the tf-idf statisitic Post script - State of the Union Addresses This post outlines a simple framework for identifying and extracting keyphrases from component texts of a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>corpus query and grammatical constructions</title>
+      <link>https://data-scribers.mikewk.com/post/corpus-query-and-grammatical-c/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/corpus-query-and-grammatical-c/</guid>
+      <description>Search syntax Corpus search Search summary KWIC &amp;amp; BOW Summary and shiny This post demonstrates the use of a simple collection of functions from my R-package corpuslingr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>a census-based approach to spanish language maintenance</title>
+      <link>https://data-scribers.mikewk.com/post/a-censusbased-approach-to-span/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-censusbased-approach-to-span/</guid>
+      <description>Census nuts/bolts New Mexico &amp;amp; the US Some macro-exploration A simple model Some final notes References In this post we investigate Spanish language maintenance within Hispanic communities in the US utilizing data from the US Census&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>from web to annotated corpus</title>
+      <link>https://data-scribers.mikewk.com/post/from-web-to-annotated-corpus/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-web-to-annotated-corpus/</guid>
+      <description>Simple web scraping Corpus annotation English part-of-speech tags Spanish web corpus Quick summary References This post demonstrates some methods for building multi-lingual corpora from web-based news content using my R package quicknews, as well as methods for annotating multi-lingual corpora using the cleanNLP (Arnold 2017) andudpipe (Wijffels 2018)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

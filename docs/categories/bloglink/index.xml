@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Getting Started With Gutenberg By Creating Your Own Block</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-gutenberg/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-gutenberg/</guid>
+      <description>WordPress is the most popular Content Management System (CMS) by far -powering more than 30% of the web. It has undergone a huge metamorphosis during its 15 years of existence&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing the `memoisetools` package</title>
       <link>https://data-scribers.mikewk.com/post/introducing-the-memoisetools-p/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
@@ -1458,6 +1467,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/the-new-framer-x/</guid>
       <description>The Framer team recently released a new prototyping tool, Framer X, and I was lucky enough to be able to test it during the beta phase. In this article, I’d like to share my thoughts about this new tool and its features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>new mexico&#39;s 53rd state legislature</title>
+      <link>https://data-scribers.mikewk.com/post/new-mexicos-53rd-state-legisla/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-mexicos-53rd-state-legisla/</guid>
+      <description>Package descriptives NMSL53: an overview Attendance &amp;amp; party loyalty Health care-related roll calls Roll call details Incorporating census data Summary Postscript: Vizualizing congressional composition In this post, we introduce a new R data package, nmlegisdatr, that makes available roll call data for New Mexico’s 53rd (2017-18) State Legislature&amp;hellip;</description>
     </item>
     
     <item>
@@ -7179,6 +7197,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>psychological and geographical distance in text</title>
+      <link>https://data-scribers.mikewk.com/post/psychological-and-geographical/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/psychological-and-geographical/</guid>
+      <description>Concreteness ratings and the lexvarsdatr package Context &amp;amp; concreteness scores Geographical distance FIN References This post considers a super-clever study presented in Snefjella and Kuperman (2015), in which the authors investigate the relationship between psychological distance and geographical distance using geolocated&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>tabr package for guitar tablature now on CRAN</title>
       <link>https://data-scribers.mikewk.com/post/tabr-package-for-guitar-tablat/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -7656,6 +7683,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>building historical socio-demographic profiles</title>
+      <link>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</guid>
+      <description>Some preliminaries Socio-economic profiles Age distribution profiles Summary This post demonstrates a simple workflow for building census-based, historical socio-demographic profiles using the R package tidycensus&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Forseti with Nenad Stojanovski and Andrew Hoying</title>
       <link>https://data-scribers.mikewk.com/post/forseti-with-nenad-stojanovski/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
@@ -8085,6 +8121,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/redblack-trees-in-matchbox/</guid>
       <description>I&amp;rsquo;m working on implementing red-black search trees in matchbox and have managed most of it by now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>place from text</title>
+      <link>https://data-scribers.mikewk.com/post/place-from-text/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/place-from-text/</guid>
+      <description>From text to map Corpus search and context LSA, MDS, and semantic space FIN In this post, we demonstrate some different methodologies for exploring the geographical information found in&amp;hellip;</description>
     </item>
     
     <item>
@@ -8616,6 +8661,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/its-showtime/</guid>
       <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>topic models for synchronic &amp; diachronic corpus exploration</title>
+      <link>https://data-scribers.mikewk.com/post/topic-models-for-synchronic-di/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/topic-models-for-synchronic-di/</guid>
+      <description>Synchronic application Diachronic application Topic clusters quick summary References This post outlines a fairly simple workflow from annotated corpus to topic model, with a focus on the exploratory utility of topic&amp;hellip;</description>
     </item>
     
     <item>
@@ -9222,6 +9276,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>locating linguistic diversity in the usa</title>
+      <link>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</guid>
+      <description>Language data and the census Languages in the US Linguistic diversity as entropy Locating linguistic diversity FIN This post investigates linguistic diversity in the United States utilizing data made available by the US Census&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Biathlon data analysis</title>
       <link>https://data-scribers.mikewk.com/post/biathlon-data-analysis/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
@@ -9552,6 +9615,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/why-we-wrote-our-kafka-client-/</guid>
       <description>At Wallaroo Labs we&amp;rsquo;ve been working on our stream processing engine, Wallaroo for just under two years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>a simple framework for corpus-based keyphrase extraction</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-framework-for-corpusb/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-framework-for-corpusb/</guid>
+      <description>Defining potential keyphrases Corpus search for potential keyphrases Selecting descriptive keyphrases with the tf-idf statisitic Post script - State of the Union Addresses This post outlines a simple framework for identifying and extracting keyphrases from component texts of a&amp;hellip;</description>
     </item>
     
     <item>
@@ -10230,6 +10302,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>corpus query and grammatical constructions</title>
+      <link>https://data-scribers.mikewk.com/post/corpus-query-and-grammatical-c/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/corpus-query-and-grammatical-c/</guid>
+      <description>Search syntax Corpus search Search summary KWIC &amp;amp; BOW Summary and shiny This post demonstrates the use of a simple collection of functions from my R-package corpuslingr&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Crimes in Somerville (Time Series)</title>
       <link>https://data-scribers.mikewk.com/post/crimes-in-somerville-time-seri/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
@@ -10525,6 +10606,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/i-dont-always-offer-bounties-o/</guid>
       <description>Below is a recent example, in which I could help ranting. However, when I saw the question, it was already put on hold and I could not answer it, even though I happened to know the answer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>a census-based approach to spanish language maintenance</title>
+      <link>https://data-scribers.mikewk.com/post/a-censusbased-approach-to-span/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-censusbased-approach-to-span/</guid>
+      <description>Census nuts/bolts New Mexico &amp;amp; the US Some macro-exploration A simple model Some final notes References In this post we investigate Spanish language maintenance within Hispanic communities in the US utilizing data from the US Census&amp;hellip;</description>
     </item>
     
     <item>
@@ -10921,6 +11011,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-to-stop-sexual-harassment-/</guid>
       <description>Again, I think we could add a text field on the conference registration page to let people report the names of past offenders that they know. The report could be (perhaps should be) anonymous. The one who has been reported for many times should be banned from the conference&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>from web to annotated corpus</title>
+      <link>https://data-scribers.mikewk.com/post/from-web-to-annotated-corpus/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-web-to-annotated-corpus/</guid>
+      <description>Simple web scraping Corpus annotation English part-of-speech tags Spanish web corpus Quick summary References This post demonstrates some methods for building multi-lingual corpora from web-based news content using my R package quicknews, as well as methods for annotating multi-lingual corpora using the cleanNLP (Arnold 2017) andudpipe (Wijffels 2018)&amp;hellip;</description>
     </item>
     
     <item>

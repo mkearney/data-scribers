@@ -6,10 +6,19 @@
     <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing the `memoisetools` package</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-the-memoisetools-p/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-the-memoisetools-p/</guid>
+      <description>For the problem I was working on, the function produced many small results and a few very very large results (greater than 2GB is size). If all the big results were cached I’d run out of memory! In the following example, results over 1000 bytes will not be cached&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Memoisation</title>

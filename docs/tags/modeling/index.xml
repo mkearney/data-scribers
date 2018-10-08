@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>things i googled this week</title>
+      <link>https://data-scribers.mikewk.com/post/things-i-googled-this-week/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/things-i-googled-this-week/</guid>
+      <description>How would we learn R if not for google? Here are some things I googled this week (and mostly not for the first time). Occasionally though, I see something cool and new on Twitter and need to install from github. Everytime I forget that you need to use devtools. Sometimes data in a .csv file is hosted on github and it is faster to just read it from there than to download the &amp;hellip;</description>
+    </item>
     
     <item>
       <title>Should you perform logistic regression on a dichotomized continuous variable when you have access to the continuous variable? I&#39;m not sure.</title>

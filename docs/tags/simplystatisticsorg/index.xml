@@ -6,10 +6,19 @@
     <description>Recent content in Simplystatisticsorg on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/simplystatisticsorg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The economic consequences of MOOCs</title>
+      <link>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</guid>
+      <description>There has been a significant amount of research on attendance in MOOCs, on learner attrition, and how to keep students motivated. But there has been almost no research on whether MOOCs can actually help you improve your economic situation&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Chromebook Data Science - a free online data science program for anyone with a web browser.</title>

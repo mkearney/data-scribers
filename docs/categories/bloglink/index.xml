@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Googleが10月10日に発表しそうなものまとめ！ 今年は盛り上がるぞー！ Made by Google 2018</title>
+      <link>https://data-scribers.mikewk.com/post/google%E3%81%8C10%E6%9C%8810%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81-%E4%BB%8A%E5%B9%B4%E3%81%AF%E7%9B%9B/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google%E3%81%8C10%E6%9C%8810%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81-%E4%BB%8A%E5%B9%B4%E3%81%AF%E7%9B%9B/</guid>
+      <description>Google（グーグル）のハードウェア・イベント「Made by Google」が今年も開催されます。Pixel&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Googleのハードウェア・イベント「Made by Google」のリアルタイム更新やります！ やっぱり「Pixel 3・3 XL」が気になる？</title>
       <link>https://data-scribers.mikewk.com/post/google%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88made-by-googl/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
@@ -57,6 +66,15 @@
     </item>
     
     <item>
+      <title>Week 1: A First Plot</title>
+      <link>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</guid>
+      <description>This is the first of a series of posts on how to use ggplot2 to visualise data in R. We begin by loading the tidyverse package which contains ggplot2 as well as a host of other useful packages. If you haven’t yet, you first need to install the tidyverse package by running install.packages(&amp;ldquo;tidyverse&amp;rdquo;)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Withings Steel HRレビュー：つけっぱなしでも気にならないアクティビティトラッカー</title>
       <link>https://data-scribers.mikewk.com/post/withings-steel-hr%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A4%E3%81%91%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97%E3%81%A7%E3%82%82%E6%B0%97/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
@@ -90,6 +108,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1amazon%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BB%E3%83%BC%E3%83%AB%E3%81%A780%E4%BB%A5%E4%B8%8A%E3%82%AA%E3%83%95%E3%82%82-/</guid>
       <description>Amazon（アマゾン）で毎日開催されているタイムセール、今日2018年10月9日は2,000円台のBluetooth対応サウンドバーや4Kスポーツアクションカメラなど、今すぐ欲しい人気のアイテムがお得に多数登場しています&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>【本日深夜】Pixel 3・3 XLのリーク・噂まとめ＆Ultra陰謀論も！ Made by Google 2018</title>
+      <link>https://data-scribers.mikewk.com/post/%E6%9C%AC%E6%97%A5%E6%B7%B1%E5%A4%9Cpixel-33-xl%E3%81%AE%E3%83%AA%E3%83%BC%E3%82%AF%E5%99%82%E3%81%BE%E3%81%A8%E3%82%81ultra%E9%99%B0%E8%AC%80/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E6%9C%AC%E6%97%A5%E6%B7%B1%E5%A4%9Cpixel-33-xl%E3%81%AE%E3%83%AA%E3%83%BC%E3%82%AF%E5%99%82%E3%81%BE%E3%81%A8%E3%82%81ultra%E9%99%B0%E8%AC%80/</guid>
+      <description>Googleスマホ「Pixel」がついに日本に上陸します！ ヤッターーー！ 10月9日に発表される予定のPixel 3とPixel 3 XLですが判明していることが割と多いので、こちらにまとめました。&amp;hellip;</description>
     </item>
     
     <item>
@@ -234,6 +261,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</guid>
       <description>This post is part 2 of 2, and, as stated in part 1, the end goal is to create an animated fractal tree with R6 &amp;amp; gganimate. Today, we will be animating the fractal_tree R6 class from part 1 with gganimate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The economic consequences of MOOCs</title>
+      <link>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</guid>
+      <description>There has been a significant amount of research on attendance in MOOCs, on learner attrition, and how to keep students motivated. But there has been almost no research on whether MOOCs can actually help you improve your economic situation&amp;hellip;</description>
     </item>
     
     <item>

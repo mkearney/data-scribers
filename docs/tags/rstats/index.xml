@@ -12,12 +12,30 @@
     
     
     <item>
+      <title>Week 1: A First Plot</title>
+      <link>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</guid>
+      <description>This is the first of a series of posts on how to use ggplot2 to visualise data in R. We begin by loading the tidyverse package which contains ggplot2 as well as a host of other useful packages. If you haven’t yet, you first need to install the tidyverse package by running install.packages(&amp;ldquo;tidyverse&amp;rdquo;)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Writing a function which respects `dplyr</title>
       <link>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</guid>
       <description>I need to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The economic consequences of MOOCs</title>
+      <link>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</guid>
+      <description>There has been a significant amount of research on attendance in MOOCs, on learner attrition, and how to keep students motivated. But there has been almost no research on whether MOOCs can actually help you improve your economic situation&amp;hellip;</description>
     </item>
     
     <item>

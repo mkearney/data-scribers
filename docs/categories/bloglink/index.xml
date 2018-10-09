@@ -48,12 +48,30 @@
     </item>
     
     <item>
+      <title>Practical Suggestions To Improve Usability Of Landing Pages With Animation From Slides</title>
+      <link>https://data-scribers.mikewk.com/post/practical-suggestions-to-impro/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/practical-suggestions-to-impro/</guid>
+      <description>(This is a sponsored post.) For a long time, UI animation was an afterthought for designers. Even today, many designers think of animation as something that brings delight but does not necessarily improve usability&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Withings Steel HRレビュー：つけっぱなしでも気にならないアクティビティトラッカー</title>
       <link>https://data-scribers.mikewk.com/post/withings-steel-hr%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A4%E3%81%91%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97%E3%81%A7%E3%82%82%E6%B0%97/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/withings-steel-hr%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A4%E3%81%91%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97%E3%81%A7%E3%82%82%E6%B0%97/</guid>
       <description>ほとんどのアクティビティトラッカーは、まだ見た目がブサイクです。しかし、Nokiaから枝分かれしたメーカー・Withingsは、そんな状況を覆してくれそうです&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing a function which respects `dplyr</title>
+      <link>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</guid>
+      <description>I need to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data&amp;hellip;</description>
     </item>
     
     <item>
@@ -135,6 +153,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/%E5%99%82%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3%E8%A3%BD%E5%93%81%E3%81%AB%E3%82%82-apple%E3%81%8C%E8%80%B3%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E7%89%B9%E8%A8%B1%E5%87%BA%E9%A1%98/</guid>
       <description>Apple（アップル）が2019年にもリリースするかもしれない、ハイエンド向けのオーバーイヤー型ヘッドホン。それに関連しているのか、Appleはヘッドホンによる耳検出に関する特許を出願していたのです&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>家の中でも練習できそうなサイレンサーつきハーモニカ「忍SHINOBIX」</title>
+      <link>https://data-scribers.mikewk.com/post/%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%82%E7%B7%B4%E7%BF%92%E3%81%A7%E3%81%8D%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A4%E3%81%8D%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%AB%E5%BF%8Dshin/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%82%E7%B7%B4%E7%BF%92%E3%81%A7%E3%81%8D%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A4%E3%81%8D%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%AB%E5%BF%8Dshin/</guid>
+      <description>デジタル楽器が普及した現在においても、アナログな楽器を使っているときの気持ちよさや、リッチなサウンドには惚れ惚れしちゃいます。けれども生楽器のデメリットはボリューミーだということ。音をミュートする方法はありますけど、運指トレーニングばかりだと飽きてきちゃう。だからこそ、今後は「忍SHINOBIX」みたいなサイレンサーつき生楽器が注目されていくのかもしれません&amp;hellip;</description>
     </item>
     
     <item>

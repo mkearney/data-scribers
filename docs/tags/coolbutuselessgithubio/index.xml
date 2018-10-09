@@ -6,10 +6,19 @@
     <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing a function which respects `dplyr</title>
+      <link>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</guid>
+      <description>I need to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Introducing the `memoisetools` package</title>

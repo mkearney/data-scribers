@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practical Suggestions To Improve Usability Of Landing Pages With Animation From Slides</title>
+      <link>https://data-scribers.mikewk.com/post/practical-suggestions-to-impro/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/practical-suggestions-to-impro/</guid>
+      <description>(This is a sponsored post.) For a long time, UI animation was an afterthought for designers. Even today, many designers think of animation as something that brings delight but does not necessarily improve usability&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Getting Started With Gutenberg By Creating Your Own Block</title>

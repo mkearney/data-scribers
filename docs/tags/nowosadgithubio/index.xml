@@ -6,10 +6,19 @@
     <description>Recent content in Nowosadgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/nowosadgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The world (population) is changing</title>
+      <link>https://data-scribers.mikewk.com/post/the-world-population-is-changi/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-world-population-is-changi/</guid>
+      <description>“I would love to see an animated version of this cartogram from like 1950 to 2100”. Why not from 1800 to 2100? And why not do it using open data and open source software, so that anyone can reproduce the results? That is the aim of this post. In it, we will see how to generate the animated cartogram illustrated below&amp;hellip;</description>
+    </item>
     
     <item>
       <title>sabre</title>

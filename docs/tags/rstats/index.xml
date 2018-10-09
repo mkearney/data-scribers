@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>5) Code completion and inline help for Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The world (population) is changing</title>
+      <link>https://data-scribers.mikewk.com/post/the-world-population-is-changi/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-world-population-is-changi/</guid>
+      <description>“I would love to see an animated version of this cartogram from like 1950 to 2100”. Why not from 1800 to 2100? And why not do it using open data and open source software, so that anyone can reproduce the results? That is the aim of this post. In it, we will see how to generate the animated cartogram illustrated below&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Week 1: A First Plot</title>
       <link>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>

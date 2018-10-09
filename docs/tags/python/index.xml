@@ -390,6 +390,24 @@
     </item>
     
     <item>
+      <title>Tidy chi-squared testing</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-chisquared-testing/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-chisquared-testing/</guid>
+      <description>Introduction R has the creaky old functions table and chisq.test for counting up frequencies and doing chi-squared tests for association. They work, but there is nothing very tidyverse or elegant about them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Name your code chunks!</title>
+      <link>https://data-scribers.mikewk.com/post/name-your-code-chunks/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/name-your-code-chunks/</guid>
+      <description>Blogdown is amazing, but there is one thing that tripped me up, and I just worked out why. I have lots of graphs in my posts, but I was sometimes getting the wrong ones, and I was wondering why that was&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Kaggle panel recap</title>
       <link>https://data-scribers.mikewk.com/post/kaggle-panel-recap/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
@@ -507,6 +525,15 @@
     </item>
     
     <item>
+      <title>Displaying grouped bar charts in ggplot</title>
+      <link>https://data-scribers.mikewk.com/post/displaying-grouped-bar-charts-/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/displaying-grouped-bar-charts-/</guid>
+      <description>Introduction When you have two categorical variables to plot, grouped bar charts are one possible visualization&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Go Go, Go! Stream Processing for Go</title>
       <link>https://data-scribers.mikewk.com/post/go-go-go-stream-processing-for/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
@@ -576,6 +603,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</guid>
       <description>This post will go through a real-world use case for Wallaroo, our distributed data processing framework for building high-performance streaming data applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying weather data</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-weather-data/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-weather-data/</guid>
+      <description>Introduction Weather data often comes in an untidy format that is suitable for looking at, but not so suitable for doing any kind of analysis with&amp;hellip;</description>
     </item>
     
     <item>
@@ -750,6 +786,15 @@
     </item>
     
     <item>
+      <title>Summarizing columns in the tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/summarizing-columns-in-the-tid/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summarizing-columns-in-the-tid/</guid>
+      <description>Introduction I thought summarizing columns in the tidyverse was kind of clunky, at least until a couple of days ago. Let’s read in some data to illustrate what I thought I had to do&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Benchmarking different implementations of weighted-ALS matrix factorization</title>
       <link>https://data-scribers.mikewk.com/post/benchmarking-different-impleme/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
@@ -768,12 +813,30 @@
     </item>
     
     <item>
+      <title>Histograms and bins</title>
+      <link>https://data-scribers.mikewk.com/post/histograms-and-bins/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/histograms-and-bins/</guid>
+      <description>Most software, when you ask it to draw you a histogram, will choose a number of intervals (“bins”) for you&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Billboard Bananas</title>
       <link>https://data-scribers.mikewk.com/post/billboard-bananas/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/billboard-bananas/</guid>
       <description>I was looking for a “mellow” project to make, when I came across this post by Michael Kling, playing in Python with the Billboard Hot 100 charts since 1940, scraped from the Ultimate Music Database site. Now that is something I need to do in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making scatterplots against multiple explanatory variables</title>
+      <link>https://data-scribers.mikewk.com/post/making-scatterplots-against-mu/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-scatterplots-against-mu/</guid>
+      <description>Introduction An R post here&amp;hellip;</description>
     </item>
     
     <item>

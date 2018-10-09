@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritsokiguesssitedocs on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ritsokiguesssitedocs/</link>
+    <description>Recent content in Ritsokiguesssitedocs on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ritsokiguesssitedocs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first go at Xaringan</title>
+      <link>https://data-scribers.mikewk.com/post/my-first-go-at-xaringan/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-first-go-at-xaringan/</guid>
+      <description>I had a go at Xaringan to make a small and pointless presentation. Here is the presentation, and here is the R Markdown that produced it. The whole Github repo is an R Studio project. Feel free to clone it and play with it. I got the pdf of the presentation by printing the HTML to pdf in Chrome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scraping Icelandic soccer results with rvest and selenium</title>
+      <link>https://data-scribers.mikewk.com/post/scraping-icelandic-soccer-resu/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scraping-icelandic-soccer-resu/</guid>
+      <description>Introduction The other day, I wanted to download all of this season’s results in the Icelandic soccer league. I’m sure you often want to do this. Or, more seriously, you want to grab something from a web page, but something is standing in the way of making it simple&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SAS in R Markdown</title>
+      <link>https://data-scribers.mikewk.com/post/sas-in-r-markdown/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sas-in-r-markdown/</guid>
+      <description>Introduction One of the courses I teach is called Applications of Statistical Methods&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A tale of zero kitties</title>
+      <link>https://data-scribers.mikewk.com/post/a-tale-of-zero-kitties/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tale-of-zero-kitties/</guid>
+      <description>Introduction I was reading this by Sara Stoudt and Kellie Ottoboni, and, looking at Kellie’s analysis, I wondered “how would I do it”, realizing that there are many ways to do things in the Tidyverse world&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dates and lubridate</title>
+      <link>https://data-scribers.mikewk.com/post/dates-and-lubridate/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dates-and-lubridate/</guid>
+      <description>Did somebody say dates? Well, actually not those&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing means and medians</title>
+      <link>https://data-scribers.mikewk.com/post/testing-means-and-medians/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-means-and-medians/</guid>
+      <description>Introduction The data set that inspired this post comes from this edition of Mendenhall and Sincich. It comes from an investigation of how you learn people’s names effectively&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy matched pairs t-test</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-matched-pairs-ttest/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-matched-pairs-ttest/</guid>
+      <description>Introduction The matched pairs (t)-test is for comparing two measurements obtained on the same individual, such as a before and an after measurement. This is different from the two-sample (t)-test, which has two independent sets of measurements, one for each experimental condition, with each set collected on different&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ken ventures into community ecology</title>
+      <link>https://data-scribers.mikewk.com/post/ken-ventures-into-community-ec/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ken-ventures-into-community-ec/</guid>
+      <description>Introduction Somebody mentioned ANOSIM to me, and I had this kind of vague recollection of it, meaning that I didn’t really understand anything of it at all. This prompted me to explore further, which got me into the vegan package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rating rugby league with Stan</title>
+      <link>https://data-scribers.mikewk.com/post/rating-rugby-league-with-stan/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rating-rugby-league-with-stan/</guid>
+      <description>What’s in here This is a rather long and complicated&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy chi-squared testing</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-chisquared-testing/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-chisquared-testing/</guid>
+      <description>Introduction R has the creaky old functions table and chisq.test for counting up frequencies and doing chi-squared tests for association. They work, but there is nothing very tidyverse or elegant about them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ordered alternatives in ANOVA</title>
+      <link>https://data-scribers.mikewk.com/post/ordered-alternatives-in-anova/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ordered-alternatives-in-anova/</guid>
+      <description>Introduction Standard analysis of variance, and nonparametric alternatives to it such as the Kruskal-Wallis test, test a null hypothesis of “all the groups have the same mean” against a vague alternative of “two or more of the groups have different&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Name your code chunks!</title>
+      <link>https://data-scribers.mikewk.com/post/name-your-code-chunks/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/name-your-code-chunks/</guid>
+      <description>Blogdown is amazing, but there is one thing that tripped me up, and I just worked out why. I have lots of graphs in my posts, but I was sometimes getting the wrong ones, and I was wondering why that was&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R, it&#39;s OK I guess</title>
+      <link>https://data-scribers.mikewk.com/post/r-its-ok-i-guess/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-its-ok-i-guess/</guid>
+      <description>On a dare from @dataandme and @littlemissdata, last night I bought the domain ritsokiguess.site, and now this blog lives there (as well as at the old nxskok.github.io, which is the “actual” home for the site)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Today on Twitter I learned...</title>
+      <link>https://data-scribers.mikewk.com/post/today-on-twitter-i-learned/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/today-on-twitter-i-learned/</guid>
+      <description>Introduction Today on Twitter I learned (or was reminded about) two #rstats things: from @pkqstr about separate_rows from tidyr, that does something like separate followed by gather, but better&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ward&#39;s method and dissimilarities</title>
+      <link>https://data-scribers.mikewk.com/post/wards-method-and-dissimilariti/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wards-method-and-dissimilariti/</guid>
+      <description>Introduction I don’t know yet where this post is going. Think of it, for now, as a ramble through cluster analysis. I may eventually figure out what to do with it, but I don’t want to delete what I have written just yet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Working my way back to you, a re-investigation of rstan</title>
+      <link>https://data-scribers.mikewk.com/post/working-my-way-back-to-you-a-r/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/working-my-way-back-to-you-a-r/</guid>
+      <description>Introduction I learned Stan a while back, when I was fitting some Bayesian models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making a lot of plots all at once, the tidyverse way</title>
+      <link>https://data-scribers.mikewk.com/post/making-a-lot-of-plots-all-at-o/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-a-lot-of-plots-all-at-o/</guid>
+      <description>Introduction I was thinking the other day about how you might come up with a bunch of separate-but-related plots, without plotting them one by one, for example to show a class&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy simple effects in analysis of variance</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-simple-effects-in-analysi/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-simple-effects-in-analysi/</guid>
+      <description>Introduction In two-way analysis of variance, the (continuous) response variable depends on two explanatory factors, say A and B&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Displaying grouped bar charts in ggplot</title>
+      <link>https://data-scribers.mikewk.com/post/displaying-grouped-bar-charts-/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/displaying-grouped-bar-charts-/</guid>
+      <description>Introduction When you have two categorical variables to plot, grouped bar charts are one possible visualization&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Drawing a network with ggraph and tidygraph</title>
+      <link>https://data-scribers.mikewk.com/post/drawing-a-network-with-ggraph-/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/drawing-a-network-with-ggraph-/</guid>
+      <description>Introduction Thomas Lin Pedersen is the author of a lot of packages, including two that deal with graphs (in the sense of networks), tidygraph for storing and handling graphs, and ggraph for drawing them, ggplot-style&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R 3.4 on your Android phone</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-34-on-your-androi/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-34-on-your-androi/</guid>
+      <description>Introduction David Selby, on his blog, explains how to get R up and running on your Android phone (and, by way of proof, wrote the blog post concerned on his phone). Unfortunately, however, he was only able to install R 3.1.1, which means that some of the latest tidyverse goodies are not available. Can we do better? It is possible.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Drawing maps in R with &#39;ggmap&#39; and &#39;OpenStreetMap&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/drawing-maps-in-r-with-ggmap-a/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/drawing-maps-in-r-with-ggmap-a/</guid>
+      <description>Introduction I have long been interested in drawing maps, and when I discovered how to do it in R, I have tried to add it to my statistical repertoire, including drawing things on maps&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing for time trend</title>
+      <link>https://data-scribers.mikewk.com/post/testing-for-time-trend/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-for-time-trend/</guid>
+      <description>Introduction One of the things my environmental science colleagues spend much of their time doing is assessing whether something is changing over time. Most commonly, the depressing conclusion from one of their investigations is “climate change”. One of the studies I was part of concerned temporal trends in sea ice in Hudson Bay&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying weather data</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-weather-data/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-weather-data/</guid>
+      <description>Introduction Weather data often comes in an untidy format that is suitable for looking at, but not so suitable for doing any kind of analysis with&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Chuff chuff</title>
+      <link>https://data-scribers.mikewk.com/post/chuff-chuff/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/chuff-chuff/</guid>
+      <description>Introduction We are very accustomed to journey planners that help us navigate across the city, the country or the world. Google’s transit directions are an example: you enter a start and an end point, and it tells you which vehicles to get and where to transfer to another one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scraping Manhattan with rvest</title>
+      <link>https://data-scribers.mikewk.com/post/scraping-manhattan-with-rvest/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scraping-manhattan-with-rvest/</guid>
+      <description>Introduction In cricket, a Manhattan chart records how many runs a team score in each over (and how many wickets fall)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Safely, possibly</title>
+      <link>https://data-scribers.mikewk.com/post/safely-possibly/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/safely-possibly/</guid>
+      <description>Introduction You know how, when you’re reading documentation, you nod sagely as you read some part, but when you come back to it later, you realize that you really don’t understand it at all. This happened to me with the purrr documentation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A brief foray into list-columns</title>
+      <link>https://data-scribers.mikewk.com/post/a-brief-foray-into-listcolumns/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-brief-foray-into-listcolumns/</guid>
+      <description>Introduction Let’s suppose we are trying to find the median of a bunch of binomial distributions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How To Measure The Height of a Tree</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-measure-the-height-of-a/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-measure-the-height-of-a/</guid>
+      <description>Introduction In a previous post, I was trying to estimate the volume of wood in a tree from its diameter, and I noted that it would be an advantage to know the height of the tree: for example, we could pretend the tree was cone-shaped, or use a power-law-type relationship in which we estimate the best powers of diameter and height to use to estimate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summarizing several models using broom and purrr</title>
+      <link>https://data-scribers.mikewk.com/post/summarizing-several-models-usi/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summarizing-several-models-usi/</guid>
+      <description>Introduction broom is supposed to be a powerful way to summarize several models at once, and so it is. The trouble is, the examples show how to fit the same model to different subsets of a data set. I had something different in mind: I had one data set, and three different models on that same data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Summarizing columns in the tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/summarizing-columns-in-the-tid/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/summarizing-columns-in-the-tid/</guid>
+      <description>Introduction I thought summarizing columns in the tidyverse was kind of clunky, at least until a couple of days ago. Let’s read in some data to illustrate what I thought I had to do&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tufte-esque</title>
+      <link>https://data-scribers.mikewk.com/post/tufteesque/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tufteesque/</guid>
+      <description>Playing with a new look, thanks to this. One of the main reasons I’m trying this is ⊕the possibility of making side comments on the side (look right). Ho ho ho. This is a new thought apparently&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cricket: wins by adjusted runs</title>
+      <link>https://data-scribers.mikewk.com/post/cricket-wins-by-adjusted-runs/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cricket-wins-by-adjusted-runs/</guid>
+      <description>In cricket, there are two ways to win a one-day game: by runs, if you bat first and score more runs than the other guys, or by wickets, if you bat second and score more runs than the other guys: at the moment where the second team has more runs, the game ends, and the result is given as “won by 6 wickets with 12 balls remaining”, or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Heritage walk in Kensington Market</title>
+      <link>https://data-scribers.mikewk.com/post/heritage-walk-in-kensington-ma/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/heritage-walk-in-kensington-ma/</guid>
+      <description>This morning’s Heritage Walk was in Kensington Market. I grabbed a few photos. This is the Church of St Stephen-in-the-Fields, on College between Spadina and Bathurst: Though it is now thoroughly of downtown, when it was built (1857), it was literally in the fields&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Monster Chiller Horror Theatre!</title>
+      <link>https://data-scribers.mikewk.com/post/monster-chiller-horror-theatre/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/monster-chiller-horror-theatre/</guid>
+      <description>I saw this in the elevator last week: and it immediately made me think of Count Floyd in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Histograms and bins</title>
+      <link>https://data-scribers.mikewk.com/post/histograms-and-bins/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/histograms-and-bins/</guid>
+      <description>Most software, when you ask it to draw you a histogram, will choose a number of intervals (“bins”) for you&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Designated Hitter</title>
+      <link>https://data-scribers.mikewk.com/post/the-designated-hitter/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-designated-hitter/</guid>
+      <description>Back in 1973, when the American League introduced the Designated Hitter rule, they were worried (among other things) about their league having fewer runs per game than the rival National League&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Carter and Guthrie</title>
+      <link>https://data-scribers.mikewk.com/post/carter-and-guthrie/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/carter-and-guthrie/</guid>
+      <description>Introduction Carter and Guthrie, in 2004, proposed a method of modelling cricket matches&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>https://data-scribers.mikewk.com/post/comments/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comments/</guid>
+      <description>I seem to have Disqus comments enabled now. The crucial thing appeared to be the disqus.html file written by Yihui Xie. I changed the disqus shortname given there to mine, added my shortname to the disqusShortname in config.toml, and it seems to work&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Odd sums</title>
+      <link>https://data-scribers.mikewk.com/post/odd-sums/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/odd-sums/</guid>
+      <description>While waiting for my coffee at work this morning, I was leafing through a recreational mathematics journal. It said, “the numbers 1–9 are arranged at random in a 3 by 3 matrix&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Add-in</title>
+      <link>https://data-scribers.mikewk.com/post/addin/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/addin/</guid>
+      <description>I just discovered a couple of things: an R Studio add-in called CRANsearcher that, when you run it, prompts you for search terms and searches the whole of CRAN for anything that matches those search terms. (Thanks to @juliasilge on Twitter for this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Victoria Day bike ride</title>
+      <link>https://data-scribers.mikewk.com/post/victoria-day-bike-ride/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/victoria-day-bike-ride/</guid>
+      <description>I suppose I should have ridden Victoria Park on Victoria Day, but I didn’t: When the wind is blowing from the west, don’t ride out to the east! My new phone now has Human on it, which works better than on the tablet (so I uninstalled it from there)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welch analysis of variance</title>
+      <link>https://data-scribers.mikewk.com/post/welch-analysis-of-variance/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welch-analysis-of-variance/</guid>
+      <description>Introduction The standard analysis of variance based on the (F)-test has two major assumptions: Normally distributed data Equal variance within each group&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making scatterplots against multiple explanatory variables</title>
+      <link>https://data-scribers.mikewk.com/post/making-scatterplots-against-mu/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-scatterplots-against-mu/</guid>
+      <description>Introduction An R post here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sunday walk - Riverdale park(s)</title>
+      <link>https://data-scribers.mikewk.com/post/sunday-walk-riverdale-parks/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sunday-walk-riverdale-parks/</guid>
+      <description>Today’s walk comes in two parts, with a pause for lunch between. Part 1: From Broadview station, across past the Pizza Pizza, and (carefully) across the entrance ramp to the DVP, and then down the “secret” path: crossing the entrance ramp on a rather dilapidated-looking bridge: I am never quite sure about the next bit&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fluffy yellow things</title>
+      <link>https://data-scribers.mikewk.com/post/fluffy-yellow-things/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fluffy-yellow-things/</guid>
+      <description>Seen on today’s walk around&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bike Ride</title>
+      <link>https://data-scribers.mikewk.com/post/bike-ride/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bike-ride/</guid>
+      <description>It was finally good enough weather for a bike ride today: Not a very long ride, but enough to get the legs going again (with some huffing and puffing into the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rugby League</title>
+      <link>https://data-scribers.mikewk.com/post/rugby-league/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rugby-league/</guid>
+      <description>Last night, Megan and I went to the first ever home game of the Toronto Wolfpack&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A very short walk</title>
+      <link>https://data-scribers.mikewk.com/post/a-very-short-walk/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-very-short-walk/</guid>
+      <description>An even shorter walk around campus today than yesterday; you will see why from the pictures. The walk around the back of the residences was still passable this afternoon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://data-scribers.mikewk.com/post/images/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/images/</guid>
+      <description>For my last post, I had a lot of trouble finding out how to make the images appear. It turns out that the secret is to save them in the static folder, and then to treat that folder as the “root” (that is, start its name with a forward slash) when making the R Markdown for the image&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Round the back of the S wing</title>
+      <link>https://data-scribers.mikewk.com/post/round-the-back-of-the-s-wing/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/round-the-back-of-the-s-wing/</guid>
+      <description>A short walk today around the back of the S wing at UTSC. This is the side of the S wing that nobody sees; it has the concrete brutalism of the outside wall (no entrances from this side) up against the forest that leads down to Highland Creek. You don’t meet too many people around here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About this blog</title>
+      <link>https://data-scribers.mikewk.com/post/about-this-blog/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/about-this-blog/</guid>
+      <description>I discovered that one can host a blog on Github, on which I already have an account, via a thing called Github Pages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sunday walk in Scarborough</title>
+      <link>https://data-scribers.mikewk.com/post/sunday-walk-in-scarborough/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sunday-walk-in-scarborough/</guid>
+      <description>Actually, a bit more than that, since I started at Kennedy station&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Saturday walk in the city</title>
+      <link>https://data-scribers.mikewk.com/post/saturday-walk-in-the-city/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/saturday-walk-in-the-city/</guid>
+      <description>So I was at Yorkdale, with no subway south&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

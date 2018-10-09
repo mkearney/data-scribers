@@ -867,6 +867,15 @@
     </item>
     
     <item>
+      <title>Ordered alternatives in ANOVA</title>
+      <link>https://data-scribers.mikewk.com/post/ordered-alternatives-in-anova/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ordered-alternatives-in-anova/</guid>
+      <description>Introduction Standard analysis of variance, and nonparametric alternatives to it such as the Kruskal-Wallis test, test a null hypothesis of “all the groups have the same mean” against a vague alternative of “two or more of the groups have different&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Building tidy tools workshop</title>
       <link>https://data-scribers.mikewk.com/post/building-tidy-tools-workshop/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
@@ -1224,6 +1233,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/hello-internet/</guid>
       <description>This is the first post for this blog. I will post here about the tools that I use, mostly Archlinux, vim and R. You can read more about this blog and myself in the About section. Social media contacts are at the bottom of every page. You can browse my (public) repos on my own instance of Gitea with the top menu&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing for time trend</title>
+      <link>https://data-scribers.mikewk.com/post/testing-for-time-trend/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-for-time-trend/</guid>
+      <description>Introduction One of the things my environmental science colleagues spend much of their time doing is assessing whether something is changing over time. Most commonly, the depressing conclusion from one of their investigations is “climate change”. One of the studies I was part of concerned temporal trends in sea ice in Hudson Bay&amp;hellip;</description>
     </item>
     
     <item>
@@ -1623,12 +1641,30 @@
     </item>
     
     <item>
+      <title>Add-in</title>
+      <link>https://data-scribers.mikewk.com/post/addin/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/addin/</guid>
+      <description>I just discovered a couple of things: an R Studio add-in called CRANsearcher that, when you run it, prompts you for search terms and searches the whole of CRAN for anything that matches those search terms. (Thanks to @juliasilge on Twitter for this&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tidytext Analysis of Seinfeld</title>
       <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</guid>
       <description>I then wrote a function that takes the URL for an episode and pulls the necessary data. Unfortunately, as the scripts were submitted to the site by different fans there is no standard format, making the scraping a little trickier&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welch analysis of variance</title>
+      <link>https://data-scribers.mikewk.com/post/welch-analysis-of-variance/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welch-analysis-of-variance/</guid>
+      <description>Introduction The standard analysis of variance based on the (F)-test has two major assumptions: Normally distributed data Equal variance within each group&amp;hellip;</description>
     </item>
     
     <item>

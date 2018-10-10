@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The background to useR! 2018</title>
+      <link>https://data-scribers.mikewk.com/post/the-background-to-user-2018/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-background-to-user-2018/</guid>
+      <description>useR! 2018 was held for the first time in the southern hemisphere, and the feedback from participants has been very positive&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio 1.2 Preview</title>

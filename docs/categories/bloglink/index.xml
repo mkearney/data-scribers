@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Appleの「Lightning - 30ピンアダプタ」、販売終了か。Dockコネクタでおなじみ</title>
+      <link>https://data-scribers.mikewk.com/post/apple%E3%81%AElightning-30%E3%83%94%E3%83%B3%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E8%B2%A9%E5%A3%B2%E7%B5%82%E4%BA%86%E3%81%8Bd/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/apple%E3%81%AElightning-30%E3%83%94%E3%83%B3%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E8%B2%A9%E5%A3%B2%E7%B5%82%E4%BA%86%E3%81%8Bd/</guid>
+      <description>みなさんが初めて「iPod」を購入した時、もしかしたらそこには横長な30ピンの「Dockコネクタ」が存在していたかもしれません。そんな30ピンコネクタをLightningに変換するアダプタが販売終了となったことが、海外にて報じられています&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Chromecastも静か〜にアップデート。Wi-Fiが速くなりました #madebygoogle</title>
       <link>https://data-scribers.mikewk.com/post/chromecast%E3%82%82%E9%9D%99%E3%81%8B%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88wifi%E3%81%8C%E9%80%9F%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
@@ -261,6 +270,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/windows-10%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%8C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%B6%88%E5%A4%B1%E3%83%90%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E4%B8%AD%E6%96%AD/</guid>
       <description>「Windows 10 October&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>geom_sf_text() and geom_sf_label() Is Coming!</title>
+      <link>https://data-scribers.mikewk.com/post/geomsftext-and-geomsflabel-is-/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/geomsftext-and-geomsflabel-is-/</guid>
+      <description>The code for this would be like below: Phew, this seems not so difficult, but I feel the code is a bit too&amp;hellip;</description>
     </item>
     
     <item>
@@ -765,6 +783,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</guid>
       <description>This post is part 2 of 2, and, as stated in part 1, the end goal is to create an animated fractal tree with R6 &amp;amp; gganimate. Today, we will be animating the fractal_tree R6 class from part 1 with gganimate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python Getters and Setters</title>
+      <link>https://data-scribers.mikewk.com/post/python-getters-and-setters/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python-getters-and-setters/</guid>
+      <description>At work recently I had to add some getters and setters to enable user&amp;rsquo;s responses to a question being persisted to the database. A few new things came up so to reinforce my learning, I decided to write this&amp;hellip;</description>
     </item>
     
     <item>
@@ -7989,6 +8016,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Converting a React App to TypeScript</title>
+      <link>https://data-scribers.mikewk.com/post/converting-a-react-app-to-type/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-a-react-app-to-type/</guid>
+      <description>Learning some TypeScript has been on my to do list for sometime. I finally found some time and started by reading the docs to get familiar with it. The next step to really help learn it was to actually use it for a project so I decided to convert an existing React app to use TypeScript. This blogpost is a guide on how I did exactly that&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Telnet over Internet</title>
       <link>https://data-scribers.mikewk.com/post/telnet-over-internet/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
@@ -8742,6 +8778,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/on-adjectives/</guid>
       <description>Among all types of words, I have always found adjectives the most challenging to use in communication (either writing or talking). They are challenging because (1) it is so hard to refrain from using them, and (2) it is hard to be precise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Udacity React NanoDegree reflections</title>
+      <link>https://data-scribers.mikewk.com/post/udacity-react-nanodegree-refle/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/udacity-react-nanodegree-refle/</guid>
+      <description>Image: React.js Nanodegree I completed my third Udacity Nanodegree in January 2018. This time the subject was React and React Native. It was a very rewarding yet demanding course&amp;hellip;</description>
     </item>
     
     <item>
@@ -10227,6 +10272,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-26/</guid>
       <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts This week’s crisis team, Chelsea&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting up ESLint and Prettier</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-eslint-and-prettier/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-eslint-and-prettier/</guid>
+      <description>Image: Prettier.io Set-up ESLint and Prettier I&amp;rsquo;m a big fan of linting and I love the configurability of ESLint with the auto formatting capabilities of Prettier. It&amp;rsquo;s been a revelation. Learning best practices in terms of ESLint rules and formatting from Prettier, plus no more bikeshedding at work in pull requests on coding style&amp;hellip;</description>
     </item>
     
     <item>
@@ -12571,6 +12625,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Becoming a professional web developer</title>
+      <link>https://data-scribers.mikewk.com/post/becoming-a-professional-web-de/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/becoming-a-professional-web-de/</guid>
+      <description>Photo by Rohit Tandon on Unsplash A few years ago I decided to transition career and become a professional web developer. Married, with a young son, and a full time job as a management consultant (i.e. long hours and lots of travel) this was not an easy undertaking&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>LSTM neural nets as told by baseball</title>
       <link>https://data-scribers.mikewk.com/post/lstm-neural-nets-as-told-by-ba/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
@@ -13846,6 +13909,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/selecting-packages-while-codin/</guid>
       <description>Sometimes, you must choose a package to achieve some results while you&amp;rsquo;re coding. Let&amp;rsquo;s say, you&amp;rsquo;re wrangling data and noticed you need a quick way of getting the mode of a vector&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code Challenge Summary</title>
+      <link>https://data-scribers.mikewk.com/post/100-days-of-code-challenge-sum/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/100-days-of-code-challenge-sum/</guid>
+      <description>Photo by Sai Kiran Anagani on Unsplash Earlier this year I completed the 100 days of code challenge&amp;hellip;</description>
     </item>
     
     <item>
@@ -15874,6 +15946,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Neighbourhood Map Project</title>
+      <link>https://data-scribers.mikewk.com/post/neighbourhood-map-project/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/neighbourhood-map-project/</guid>
+      <description>This post relates to a front-end JavaScript and Knockout.js MVVM project, using APIs from Google Maps and Foursquare. The GitHub repo is here, and a demo is live on surge.sh. Context I’ve been meaning to write a blog post on one of my projects and not found the time. So I’m writing about my Neighbourhood Map project for two reasons&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The dire consequences of tests for linearity</title>
       <link>https://data-scribers.mikewk.com/post/the-dire-consequences-of-tests/</link>
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
@@ -16144,6 +16225,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Sublime Text 3 and Python</title>
+      <link>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</guid>
+      <description>As I wrote recently, after jumping between Javascript, GoLang and Python, I&amp;rsquo;ve decided to heed some good advice and focus on one language for awhile. And that language is Python. This post is about my Sublime Text 3 set-up for programming in Python&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>dplyr thank you note</title>
       <link>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
@@ -16159,6 +16249,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/exploratory-analysis/</guid>
       <description>Analyzing some Premier League dataI recently had some fan-mail! The author suggested I write a book on the “practical considerations when building shiny”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code</title>
+      <link>https://data-scribers.mikewk.com/post/100-days-of-code/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/100-days-of-code/</guid>
+      <description>I&amp;rsquo;ve joined the #100DaysOfCode Challenge. Over Christmas I decided to focus in Q1 2017 on completing Udacity&amp;rsquo;s Full-Stack Nanodegree. As part of this, a complementary objective is I want to really get to grips with Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Managing Python projects with Virtualenv</title>
+      <link>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</guid>
+      <description>Python 2 versus 3 To summarise the Python wiki: “Python 2.x is legacy, Python 3.x is the present and future of the language.” More info is available on the Python wiki&amp;hellip;</description>
     </item>
     
     <item>
@@ -16474,6 +16582,33 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/cloud-endpoints-with-dan-cirul/</guid>
       <description>Dan Ciruli is a product manager at Google who works on Cloud Endpoints and API infrastructure. He used to play a lot of ultimate when he had knees and write a lot of software when he had time. He’ll try to speak Spanish to you if you give him a chance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Tree on OSx</title>
+      <link>https://data-scribers.mikewk.com/post/installing-tree-on-osx/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-tree-on-osx/</guid>
+      <description>This is how to install Tree on macOS in the Terminal.app. It assumes Homebrew is installed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m using Hugo static site generator</title>
+      <link>https://data-scribers.mikewk.com/post/why-im-using-hugo-static-site-/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-im-using-hugo-static-site-/</guid>
+      <description>Encouraged by a conversation with Andy @ Udacity, I made the decision to start a technical coding blog with a focus on helping me to learn more and document my coding journey. I did waver if this was the right thing to do but this and this helped convince me to go ahead. The next decision was then how to set-up it all up&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m blogging again</title>
+      <link>https://data-scribers.mikewk.com/post/why-im-blogging-again/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-im-blogging-again/</guid>
+      <description>First, some context. I have blogged before. For several years I blogged on cycling (road, mountain biking, and as a means of simply getting from A to B). I stopped it in the end because it was very time consuming. Not just the writing but the maintenance of my self-hosted WordPress site&amp;hellip;</description>
     </item>
     
     <item>

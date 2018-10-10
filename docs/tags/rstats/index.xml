@@ -5344,6 +5344,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Managing Python projects with Virtualenv</title>
+      <link>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</guid>
+      <description>Python 2 versus 3 To summarise the Python wiki: “Python 2.x is legacy, Python 3.x is the present and future of the language.” More info is available on the Python wiki&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ggedit</title>
       <link>https://data-scribers.mikewk.com/post/ggedit/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
@@ -5449,6 +5458,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/r-animation/</guid>
       <description>I have posted a new R data animation video. It&amp;rsquo;s an example animation of modeled historical and projected global temperature change from 1850 - 2100&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Tree on OSx</title>
+      <link>https://data-scribers.mikewk.com/post/installing-tree-on-osx/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-tree-on-osx/</guid>
+      <description>This is how to install Tree on macOS in the Terminal.app. It assumes Homebrew is installed&amp;hellip;</description>
     </item>
     
     <item>

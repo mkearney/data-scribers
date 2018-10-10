@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/apple%E3%81%AElightning-30%E3%83%94%E3%83%B3%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E8%B2%A9%E5%A3%B2%E7%B5%82%E4%BA%86%E3%81%8Bd/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/chromecast%E3%82%82%E9%9D%99%E3%81%8B%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88wifi%E3%81%8C%E9%80%9F%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -139,6 +144,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/windows-10%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%8C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%B6%88%E5%A4%B1%E3%83%90%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E4%B8%AD%E6%96%AD/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/geomsftext-and-geomsflabel-is-/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -419,6 +429,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/oop-fractal-trees-in-r-with-r6/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/python-getters-and-setters/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -4433,6 +4448,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/converting-a-react-app-to-type/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/telnet-over-internet/</loc>
     <lastmod>2018-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -4849,6 +4869,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/on-adjectives/</loc>
+    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/udacity-react-nanodegree-refle/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -5674,6 +5699,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/epl-week-26/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/setting-up-eslint-and-prettier/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -6978,6 +7008,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/becoming-a-professional-web-de/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/lstm-neural-nets-as-told-by-ba/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
   </url>
@@ -7685,6 +7720,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/selecting-packages-while-codin/</loc>
     <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/100-days-of-code-challenge-sum/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -8813,6 +8853,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/neighbourhood-map-project/</loc>
+    <lastmod>2017-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-dire-consequences-of-tests/</loc>
     <lastmod>2017-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -8963,6 +9008,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -8970,6 +9020,16 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/exploratory-analysis/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/100-days-of-code/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -9145,6 +9205,21 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/cloud-endpoints-with-dan-cirul/</loc>
     <lastmod>2016-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/installing-tree-on-osx/</loc>
+    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/why-im-using-hugo-static-site-/</loc>
+    <lastmod>2016-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/why-im-blogging-again/</loc>
+    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -11345,6 +11420,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/samatkinsme/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/sarahromanesgithubio/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -11544,7 +11625,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/yutanirbindio/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

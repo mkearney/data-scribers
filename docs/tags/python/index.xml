@@ -903,12 +903,39 @@
     </item>
     
     <item>
+      <title>Sublime Text 3 and Python</title>
+      <link>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</guid>
+      <description>As I wrote recently, after jumping between Javascript, GoLang and Python, I&amp;rsquo;ve decided to heed some good advice and focus on one language for awhile. And that language is Python. This post is about my Sublime Text 3 set-up for programming in Python&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>dplyr thank you note</title>
       <link>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/dplyr-thank-you-note/</guid>
       <description>It’s that post-holiday time of year to write some thank yous! I’m getting excited to attend rstudio::conf next week, so in that spirit, I have put together a little thank you using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code</title>
+      <link>https://data-scribers.mikewk.com/post/100-days-of-code/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/100-days-of-code/</guid>
+      <description>I&amp;rsquo;ve joined the #100DaysOfCode Challenge. Over Christmas I decided to focus in Q1 2017 on completing Udacity&amp;rsquo;s Full-Stack Nanodegree. As part of this, a complementary objective is I want to really get to grips with Python&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Managing Python projects with Virtualenv</title>
+      <link>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</guid>
+      <description>Python 2 versus 3 To summarise the Python wiki: “Python 2.x is legacy, Python 3.x is the present and future of the language.” More info is available on the Python wiki&amp;hellip;</description>
     </item>
     
     <item>

@@ -228,6 +228,15 @@
     </item>
     
     <item>
+      <title>Intuition behind Cross-Validation</title>
+      <link>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</guid>
+      <description>Cross-validation error is an estimate of the out-of-sample error. Cross-validation is a great tool for helping modelers select a model with low out-of-sample error. The objective of this note is to show you how to write simple code to carry out cross-validation in R. I will post similar code for SAS later&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>In praise of Commonmark</title>
       <link>https://data-scribers.mikewk.com/post/in-praise-of-commonmark/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>

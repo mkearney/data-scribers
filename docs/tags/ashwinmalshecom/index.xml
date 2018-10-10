@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwinmalshecom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ashwinmalshecom/</link>
+    <description>Recent content in Ashwinmalshecom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ashwinmalshecom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning Posts - Digest 01</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</guid>
+      <description>Whenever I get time, I am going to post articles on machine learning that I read during a week&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Color Palettes</title>
+      <link>https://data-scribers.mikewk.com/post/color-palettes/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/color-palettes/</guid>
+      <description>Here are the hex codes for 7 colors I extracted: Try out a graph using the new color palette Scatter plot Get the billionnaires data Take a look at the data This will not work (Any idea why not? Think about it before running the code.) We have 10 groups (people) in the data frame but there are only 7 colors in our palette&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MSDA Final Project Guidelines</title>
+      <link>https://data-scribers.mikewk.com/post/msda-final-project-guidelines/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/msda-final-project-guidelines/</guid>
+      <description>You will submit: Here Group## will be your group number. For example, Group number 1 will submit Here Group## will be your group number. For example, Group number 1 will submit Every group gets 20 minutes for the presentation. Out of these, 15 minutes are for the actual presentation and 5 minutes for Q&amp;amp;A&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using Rstudio Projects</title>
+      <link>https://data-scribers.mikewk.com/post/using-rstudio-projects/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-rstudio-projects/</guid>
+      <description>For this tutorial you will need RStudio installed on your computer. The operating system doesn’t matter. I am using my MacBook Pro to record the videos&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Homework 3-DA6233</title>
+      <link>https://data-scribers.mikewk.com/post/homework-3da6233/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/homework-3da6233/</guid>
+      <description>This homework is based on Shiny app. Q1. Create the following 3 Shiny apps. The code to generate random numbers is as follows. Don’t use a random number seed for this exercise&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>DA 6813 Homework Solution</title>
+      <link>https://data-scribers.mikewk.com/post/da-6813-homework-solution/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/da-6813-homework-solution/</guid>
+      <description>Get the summary of the data Clearly, this will make model comparison a little bit tough but we have to give each model the best chance to perform even at this lower level of analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Homework 2</title>
+      <link>https://data-scribers.mikewk.com/post/homework-2/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/homework-2/</guid>
+      <description>(7.5 points) B. Using the same data frames as above, recreate the following graph. Take a note of differences in the two graphs. NOTE: The font used here for labeling the bar graphs is “Open Sans”. You may not have the same font available on your computer. In that case, use any alternative font. However, refrain from using the default font OR the font you used in the previous graph. (7&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some ggplot2 Features</title>
+      <link>https://data-scribers.mikewk.com/post/some-ggplot2-features/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-ggplot2-features/</guid>
+      <description>Compare the frequency distribution to the scatterplot and notice that you have many more points output in the table. Why? This is due to the overlapping points. A potential solution is to change the transparency of the points&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Intuition behind Cross-Validation</title>
+      <link>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</guid>
+      <description>Cross-validation error is an estimate of the out-of-sample error. Cross-validation is a great tool for helping modelers select a model with low out-of-sample error. The objective of this note is to show you how to write simple code to carry out cross-validation in R. I will post similar code for SAS later&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Celebrating India&#39;s Decriminalization of Homosexuality</title>
+      <link>https://data-scribers.mikewk.com/post/celebrating-indias-decriminali/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/celebrating-indias-decriminali/</guid>
+      <description>A few months back, I made a simple t-shirt design using R. That time, it was an R exercise for me and I didn’t share it with many people. This is my small gift to LGBTQ Indians&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Application Preparation for MS in Data Analytics</title>
+      <link>https://data-scribers.mikewk.com/post/application-preparation-for-ms/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/application-preparation-for-ms/</guid>
+      <description>The objective of this post is to help prospective MSDA students in preparing their MSDA applications so as to increase their chances of getting admitted to the program. The suggestions below are actually applicable to any good analytics program&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R and RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-and-rstudio/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-and-rstudio/</guid>
+      <description>This a short tutorial for the incoming students of UTSA’s MS in Data Analytics program. I am going to assume that the reader has no knowledge of R and RStudio, the Integrated Development Environment (IDE), which we use to code&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Syllabus for DA6233</title>
+      <link>https://data-scribers.mikewk.com/post/syllabus-for-da6233/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/syllabus-for-da6233/</guid>
+      <description>Data Visualization and Communication - MSDA Fall 2018 Syllabus by Ashwin Malshe on&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

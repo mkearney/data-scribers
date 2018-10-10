@@ -417,6 +417,15 @@
     </item>
     
     <item>
+      <title>Using Rstudio Projects</title>
+      <link>https://data-scribers.mikewk.com/post/using-rstudio-projects/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-rstudio-projects/</guid>
+      <description>For this tutorial you will need RStudio installed on your computer. The operating system doesn’t matter. I am using my MacBook Pro to record the videos&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The Zombie/Vampire Apocalypse - A use case for strict membership tests</title>
       <link>https://data-scribers.mikewk.com/post/the-zombievampire-apocalypse-a/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
@@ -688,6 +697,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Intuition behind Cross-Validation</title>
+      <link>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</guid>
+      <description>Cross-validation error is an estimate of the out-of-sample error. Cross-validation is a great tool for helping modelers select a model with low out-of-sample error. The objective of this note is to show you how to write simple code to carry out cross-validation in R. I will post similar code for SAS later&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>testing out t-tests</title>
       <link>https://data-scribers.mikewk.com/post/testing-out-ttests/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
@@ -703,6 +721,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/using-r-for-analysis/</guid>
       <description>I am feeling more confident about my resolution to get rid of Excel and only use R for data wrangling and visualisation. Next steps&amp;hellip; analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Celebrating India&#39;s Decriminalization of Homosexuality</title>
+      <link>https://data-scribers.mikewk.com/post/celebrating-indias-decriminali/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/celebrating-indias-decriminali/</guid>
+      <description>A few months back, I made a simple t-shirt design using R. That time, it was an R exercise for me and I didn’t share it with many people. This is my small gift to LGBTQ Indians&amp;hellip;</description>
     </item>
     
     <item>
@@ -1072,6 +1099,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/a-tale-of-two-testing-environm/</guid>
       <description>Background Lesson 1: check suggested packages Lesson 2: MODULARIZE + use vagrant scripts with caution Internet solutions Conclusion Today marks the second time I’ve debugged the problem of tests that pass with devtools::test() but fail with devtools::check()&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R and RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-and-rstudio/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-and-rstudio/</guid>
+      <description>This a short tutorial for the incoming students of UTSA’s MS in Data Analytics program. I am going to assume that the reader has no knowledge of R and RStudio, the Integrated Development Environment (IDE), which we use to code&amp;hellip;</description>
     </item>
     
     <item>

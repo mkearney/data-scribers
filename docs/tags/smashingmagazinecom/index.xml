@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saving Grandma’s Recipes With Xamarin.Forms</title>
+      <link>https://data-scribers.mikewk.com/post/saving-grandmas-recipes-with-x/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/saving-grandmas-recipes-with-x/</guid>
+      <description>My grandma makes the best, most fluffiest, go weak-in-your-knees buns that anybody has ever tasted&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Meet “Form Design Patterns,” Our New Book On Accessible Web Forms — Now Shipping!</title>

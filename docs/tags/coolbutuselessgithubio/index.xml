@@ -6,10 +6,19 @@
     <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>engroupify</title>
+      <link>https://data-scribers.mikewk.com/post/engroupify/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/engroupify/</guid>
+      <description>I needed to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data. I couldn’t find anything online on how to do this, so I came with a solution&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Writing a function which respects `dplyr</title>

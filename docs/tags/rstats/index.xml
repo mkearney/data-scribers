@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>engroupify</title>
+      <link>https://data-scribers.mikewk.com/post/engroupify/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/engroupify/</guid>
+      <description>I needed to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data. I couldn’t find anything online on how to do this, so I came with a solution&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>NOMINATE, political ideology &amp; new mexico&#39;s 53rd state legislature</title>
       <link>https://data-scribers.mikewk.com/post/nominate-political-ideology-ne/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>

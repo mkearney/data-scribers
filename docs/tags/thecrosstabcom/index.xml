@@ -6,10 +6,19 @@
     <description>Recent content in Thecrosstabcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/thecrosstabcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LOESS vs Bayesian GAM for Finding Trends in Data</title>
+      <link>https://data-scribers.mikewk.com/post/loess-vs-bayesian-gam-for-find/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/loess-vs-bayesian-gam-for-find/</guid>
+      <description>Prompted by new data from our weekly polling with YouGov, I shared a graph of the growing gender gap in American politics yesterday: The growing divide in the preference for Democrats over Republicans among men versus women — here shown among only college-educated Americans — is a striking development in US&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Now Out</title>

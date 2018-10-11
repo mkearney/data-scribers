@@ -6,10 +6,19 @@
     <description>Recent content in Simplystatisticsorg on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/simplystatisticsorg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Guest Post</title>
+      <link>https://data-scribers.mikewk.com/post/guest-post/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/guest-post/</guid>
+      <description>If the number of looming deadlines on my calendar for recommendation letters is any indication, we are squarely in application season for tenure-track faculty positions with interviewing season soon to follow. When candidates for junior faculty positions come for an interview, the requirements for promotion are at the forefront of the discussion&amp;hellip;</description>
+    </item>
     
     <item>
       <title>The economic consequences of MOOCs</title>

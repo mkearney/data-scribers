@@ -885,6 +885,15 @@
     </item>
     
     <item>
+      <title>RStudio in Docker</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-in-docker/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-in-docker/</guid>
+      <description>When developing some of my applications I wanted the ability to test these applications on different versions of R. But setting this up on Linux proved to be more difficult than on my Windows machine. Docker makes it significantly easier&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Making scatterplots against multiple explanatory variables</title>
       <link>https://data-scribers.mikewk.com/post/making-scatterplots-against-mu/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>

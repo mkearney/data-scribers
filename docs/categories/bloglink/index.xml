@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>NCDC Storm Events - Importing Data</title>
+      <link>https://data-scribers.mikewk.com/post/ncdc-storm-events-importing-da/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ncdc-storm-events-importing-da/</guid>
+      <description>There are three tables included in the database (the terms “database” and “tables” are used loosely here; they’re csv.gz files on a FTP server)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio 1.2 Preview</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
@@ -9960,6 +9969,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Answering Simple Questions in SQL Coding Interviews</title>
+      <link>https://data-scribers.mikewk.com/post/answering-simple-questions-in-/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/answering-simple-questions-in-/</guid>
+      <description>Any database server will do. For this instance, MySQL is used. When I read this post I immeidately wondered if they were trick questions I wasn’t picking up on. They all seemed very easy to answer. They were a little tricky, but certainly not unreasonably complicated&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cloud AI with Dr. Fei-Fei Li</title>
       <link>https://data-scribers.mikewk.com/post/cloud-ai-with-dr-feifei-li/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
@@ -10389,6 +10407,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/its-showtime/</guid>
       <description>Benefits of putting on a Show(case) I&amp;rsquo;ve found regular showcases one of the most effective tools in the Agile bag of tricks. Here are some of the things I&amp;rsquo;ve used showcases for: Sharing your work Well this one is pretty obvious&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Query Stack Overflow for Top 5 Tags and Children Posts</title>
+      <link>https://data-scribers.mikewk.com/post/query-stack-overflow-for-top-5/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/query-stack-overflow-for-top-5/</guid>
+      <description>You should give your query a title but it is not necessary. It does help keep track of your edits as you move along. I want to find the top five tags on Stack Overflow along with the top five posts per tag. The Stack Exchange Data Explorer gives us free access to this data. The data itself is slightly out-of-date, but this is fine&amp;hellip;</description>
     </item>
     
     <item>
@@ -11370,6 +11397,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/anything-that-can-look-like-ca/</guid>
       <description>Anything that can look like cats in your eyes, will look like cats in some other people&amp;rsquo;s eyes. P.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Department Top Three Salaries</title>
+      <link>https://data-scribers.mikewk.com/post/department-top-three-salaries/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/department-top-three-salaries/</guid>
+      <description>Write a SQL query to find employees who earn the top three salaries in each of the department. For the above tables, your SQL query should return the following rows. Table: (#tab:solution-2)0 records Department Employee Salary ———– ——— ——- Adding the line below to the query above passes the test case&amp;hellip;</description>
     </item>
     
     <item>
@@ -14929,6 +14965,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Hurricane Harvey Post Storm Report</title>
+      <link>https://data-scribers.mikewk.com/post/hurricane-harvey-post-storm-re/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hurricane-harvey-post-storm-re/</guid>
+      <description>On August 26, 2017, Hurricane Harvey made landfall along the central Texas gulf coast as a category four hurricane&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What&#39;s AI with Melanie Warrick</title>
       <link>https://data-scribers.mikewk.com/post/whats-ai-with-melanie-warrick/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
@@ -16483,6 +16528,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/basecamp-networks-with-craig-g/</guid>
       <description>Craig Ganssle is the Founder and CEO of Basecamp Networks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio in Docker</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-in-docker/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-in-docker/</guid>
+      <description>When developing some of my applications I wanted the ability to test these applications on different versions of R. But setting this up on Linux proved to be more difficult than on my Windows machine. Docker makes it significantly easier&amp;hellip;</description>
     </item>
     
     <item>

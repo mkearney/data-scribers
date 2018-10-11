@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/ncdc-storm-events-importing-da/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio-12-preview/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -5528,6 +5533,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/answering-simple-questions-in-/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/cloud-ai-with-dr-feifei-li/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -5764,6 +5774,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/its-showtime/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/query-stack-overflow-for-top-5/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -6309,6 +6324,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/anything-that-can-look-like-ca/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/department-top-three-salaries/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -8288,6 +8308,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/hurricane-harvey-post-storm-re/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/whats-ai-with-melanie-warrick/</loc>
     <lastmod>2017-09-06T00:00:00+00:00</lastmod>
   </url>
@@ -9149,6 +9174,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/basecamp-networks-with-craig-g/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/rstudio-in-docker/</loc>
     <lastmod>2017-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -12756,6 +12786,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/thugrlife/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/timtricenet/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>電波とともに東京駅が光る。基板に東京路線図を描いたiPhoneケース</title>
+      <link>https://data-scribers.mikewk.com/post/%E9%9B%BB%E6%B3%A2%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E6%9D%B1%E4%BA%AC%E9%A7%85%E3%81%8C%E5%85%89%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%81%AB%E6%9D%B1%E4%BA%AC%E8%B7%AF%E7%B7%9A%E5%9B%B3%E3%82%92%E6%8F%8F%E3%81%84%E3%81%9Fiphone/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E9%9B%BB%E6%B3%A2%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E6%9D%B1%E4%BA%AC%E9%A7%85%E3%81%8C%E5%85%89%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%81%AB%E6%9D%B1%E4%BA%AC%E8%B7%AF%E7%B7%9A%E5%9B%B3%E3%82%92%E6%8F%8F%E3%81%84%E3%81%9Fiphone/</guid>
+      <description>これまでもiPhone 5/5s向けやNERV（ネルフ）モチーフの基盤によるiPhoneケースをリリースしてきたmoeco。そんなmoecoから、早速iPhone XR/XS&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>AndroidじゃなくてChrome OS入ってるPixel Slate #madebygoogle</title>
       <link>https://data-scribers.mikewk.com/post/android%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6chrome-os%E5%85%A5%E3%81%A3%E3%81%A6%E3%82%8Bpixel/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
@@ -543,6 +552,15 @@
     </item>
     
     <item>
+      <title>A Flatter Phillips Curve</title>
+      <link>https://data-scribers.mikewk.com/post/a-flatter-phillips-curve/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-flatter-phillips-curve/</guid>
+      <description>Supply and demand, isoquants, indifference, the lists goes on. Economists love curves. One attracting extra attention these days is the Phillips curve. Last week I was in Boston for the annual meeting of the National Association for Business Economics (NABE)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Color Palettes</title>
       <link>https://data-scribers.mikewk.com/post/color-palettes/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
@@ -1044,6 +1062,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/supreme-court-confirmations-19/</guid>
       <description>Here is a slightly interactive graph with readable labels: Finally, here is a fully interactive graph, but the labels are not revealed until someone hovers their mouse cursor over the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>U.S. housing supply and demand</title>
+      <link>https://data-scribers.mikewk.com/post/us-housing-supply-and-demand/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/us-housing-supply-and-demand/</guid>
+      <description>In this post I want review some trends in U.S. housing supply and demand. Specifically I want to look at county level trends in population, housing supply (the total number of housing units) and house prices. We’ll uncover some interesting trends. Per usual we will make our graphics with R&amp;hellip;</description>
     </item>
     
     <item>
@@ -3406,6 +3433,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>JOLTS update</title>
+      <link>https://data-scribers.mikewk.com/post/jolts-update/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jolts-update/</guid>
+      <description>It’s been a while since I posted here. I’ve got some longer form things in the works, but let’s ease back into it. Let’s take a look at the latest Job Openings and Labor Turnover Survey (JOLTS) data via the U.S. Bureau of Labor Statistics. This post is an update of this post. Per usual we will make our graphics with R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What have these birds been studied for? Querying science outputs with R</title>
       <link>https://data-scribers.mikewk.com/post/what-have-these-birds-been-stu/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
@@ -4261,6 +4297,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Facets in space and time</title>
+      <link>https://data-scribers.mikewk.com/post/facets-in-space-and-time/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/facets-in-space-and-time/</guid>
+      <description>My studies involve a lot of data organized in space and across time. I look at housing data that usually captures activity around the United States, or sometimes the world, and almost always over time. In my data visualization explorations I like to study different ways to visualize trends across both space and time, often simultaneously&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RSI Short Puts</title>
       <link>https://data-scribers.mikewk.com/post/rsi-short-puts/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
@@ -4321,6 +4366,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/create-gifs-with-gifski-in-kni/</guid>
       <description>This will produce the &amp;ldquo;Pac man&amp;rdquo; below (assuming the output format is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Everything is spiraling out of control!</title>
+      <link>https://data-scribers.mikewk.com/post/everything-is-spiraling-out-of/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/everything-is-spiraling-out-of/</guid>
+      <description>I saw this fun bit of R code in a tweet by user aschinchon. df &amp;lt;- data.frame(x=0, y=0) for (i in 2:500) { df[i,1] &amp;lt;- df[i-1,1]+((0.98)^i)*cos(i) df[i,2] &amp;lt;- df[i-1,2]+((0.98)^i)*sin(i) } ggplot2::ggplot(df, aes(x,y)) + geom_polygon()+ theme_void()#rstats pic.twitter.com/cgNjyk405f - Antonio S&amp;hellip;</description>
     </item>
     
     <item>
@@ -4585,6 +4639,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Core Inflation Viz with Progress Bar</title>
+      <link>https://data-scribers.mikewk.com/post/core-inflation-viz-with-progre/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/core-inflation-viz-with-progre/</guid>
+      <description>About a year ago I shared code for a dataviz with a progress bar. Let’s update that R code using gifski and tweener. The code below will generate this animated gif: Gif code&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Forecasting</title>
       <link>https://data-scribers.mikewk.com/post/forecasting/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
@@ -4810,6 +4873,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>State employment dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/state-employment-dataviz/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/state-employment-dataviz/</guid>
+      <description>Today was JOLTS Tuesday, when the U.S. Bureau of Labor Statistics releases updated data from the Job Openings and Labor Turnover Survey. I was talking about it earlier today, but before we get into that… If you care about dataviz check this out I saw this on Twitter today via Jon Schwabish. Link to a handy dataviz cheatsheet outlining Jon’s core dataviz principles&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Two Big Ideas from JSM 2018</title>
       <link>https://data-scribers.mikewk.com/post/two-big-ideas-from-jsm-2018/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
@@ -4870,6 +4942,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/write-a-book-with-bookdown-and/</guid>
       <description>I think the typeface should be the only thing you may want to customize. Other things are trivialities and not worth too much time. Don&amp;rsquo;t be preoccupied with customizing the appearance of your PDF (at least don&amp;rsquo;t do this too early). I guess the No&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Charts within charts</title>
+      <link>https://data-scribers.mikewk.com/post/charts-within-charts/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/charts-within-charts/</guid>
+      <description>Maybe you are of the opinion that charts should have their y axis extend all the way down to 0, even if the data live far away from zero. I’m not sure if that’s always the right thing to do&amp;hellip;</description>
     </item>
     
     <item>
@@ -4978,6 +5059,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/dynamic-keys/</guid>
       <description>Wallaroo is designed to help you build stateful event processing services that scale easily and elastically. State is partitioned across workers in the system and migrates when workers join or leave the cluster&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Global house price trends</title>
+      <link>https://data-scribers.mikewk.com/post/global-house-price-trends/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/global-house-price-trends/</guid>
+      <description>In this post I want to share updated plots comparing house price trends around the world. Or at least part of the world. Our view will be somewhat limited, based on data, but will at least allow us to see how U.S. house prices compare to a few other countries&amp;hellip;</description>
     </item>
     
     <item>
@@ -5098,6 +5188,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>House price gif that keeps on giffing</title>
+      <link>https://data-scribers.mikewk.com/post/house-price-gif-that-keeps-on-/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-price-gif-that-keeps-on-/</guid>
+      <description>This tweet turned out to be popular: 👀house price trends👀 pic.twitter.com/JXB5P0H84A - Leonard Kiefer (@lenkiefer) August 1, 2018 It’s a remix of a chart we made here, though it uses a different index&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Interactive Premier League Table</title>
       <link>https://data-scribers.mikewk.com/post/interactive-premier-league-tab/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
@@ -5152,6 +5251,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Beige-ian Statistics</title>
+      <link>https://data-scribers.mikewk.com/post/beigeian-statistics/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/beigeian-statistics/</guid>
+      <description>Let’s pick up where we left off yesterday and do some more exploration with text mining. Like yesterday we’ll use the tidytext package for R. And we’ll lean heavily on Julie Silge and David Robinson’s Text Mining with R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>June 2018: Top 40 New Packages</title>
       <link>https://data-scribers.mikewk.com/post/june-2018-top-40-new-packages/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
@@ -5167,6 +5275,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/day-8294/</guid>
       <description>So this is a post about how I set up one part of my workflow. I feel nervous about it for two reasons: Yes, I realise that I’m setting myself up to feel bad. I should stop&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Text Mining Fedspeak</title>
+      <link>https://data-scribers.mikewk.com/post/text-mining-fedspeak/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text-mining-fedspeak/</guid>
+      <description>Textmining is an exciting topic. There is tremendous potential to gain insights from textual analysis. See for example Gentzko, Kelly and Taddy’s Text as Data. While text mining may be quite advanced in other fields, in finance and economics the application of these techniques is still in its infancy&amp;hellip;</description>
     </item>
     
     <item>
@@ -5266,6 +5383,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/functional-programming-tricks-/</guid>
       <description>httr basics On with the tricks! Embrace the backtick The null-default operator %||% Check argument inputs with match&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting animated about new home sales</title>
+      <link>https://data-scribers.mikewk.com/post/getting-animated-about-new-hom/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-animated-about-new-hom/</guid>
+      <description>Indications are that U.S. housing market activity in the middle part of 2018 has moderated. Home sales estimates for both new home sales and existing home sales declined on a seasonally adjusted basis in June relative to May. House price growth has also moderated recently. Some folks have gotten animated about the recent trends&amp;hellip;</description>
     </item>
     
     <item>
@@ -5449,6 +5575,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>House price gifski</title>
+      <link>https://data-scribers.mikewk.com/post/house-price-gifski/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-price-gifski/</guid>
+      <description>I saw today, via Ropensci a blog post about a new package for making animated gifs with R called gifski now available on CRAN. Let’s adapt the code we shared last week to use the gifski package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Layered Presentation of Graphics, revised</title>
       <link>https://data-scribers.mikewk.com/post/layered-presentation-of-graphi/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
@@ -5494,6 +5629,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Connected scatterplot</title>
+      <link>https://data-scribers.mikewk.com/post/connected-scatterplot/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/connected-scatterplot/</guid>
+      <description>On Twitter Claus Wilke asks: Dear Lazyweb: Is there an accepted name for a plot showing a two-variable time series as a path in the x-y plane? #dataviz@Elijah_Meeks @albertocairo @lenkiefer @sharoz @dataandme pic.twitter.com/N8Edmf8qii - Claus Wilke (@ClausWilke) July 21, 2018 I call them connected scatterplots, and we’ve made a few here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hexagon Patterns with R</title>
       <link>https://data-scribers.mikewk.com/post/hexagon-patterns-with-r/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
@@ -5509,6 +5653,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</guid>
       <description>Let’s see if I can make posts (mostly) through&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maybe the Linear Probability Model isn&#39;t all bad</title>
+      <link>https://data-scribers.mikewk.com/post/maybe-the-linear-probability-m/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maybe-the-linear-probability-m/</guid>
+      <description>The Linear Probability Model (LPM) might be bad, but is it all bad? Let’s look at some conditions where the LPM might not be so bad. We’ll also look at some simple adjustments that might improve the performance of the LPM. We’ll also compare the LPM to some common alternatives. Setup Throughout most of this post, we’re going to consider a world where the LPM model is the true model&amp;hellip;</description>
     </item>
     
     <item>
@@ -5584,6 +5737,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>U.S. housing starts are still super low</title>
+      <link>https://data-scribers.mikewk.com/post/us-housing-starts-are-still-su/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/us-housing-starts-are-still-su/</guid>
+      <description>I try not to use too much jargon (jargon monoxide can be deadly) on this blog. But I’ve got a bit of a technical term I’ve been using the describe U.S. residential construction: super-low&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Elevation gain run data analysis</title>
       <link>https://data-scribers.mikewk.com/post/elevation-gain-run-data-analys/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
@@ -5599,6 +5761,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/footballers-are-younger-than-y/</guid>
       <description>Matt Dray TL;DR I wrote an R Shiny app that tells you how many players at World Cup 2018 were younger than you. It’s designed to make you feel old. You’re welcome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How bad is a Linear Probability Model?</title>
+      <link>https://data-scribers.mikewk.com/post/how-bad-is-a-linear-probabilit/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-bad-is-a-linear-probabilit/</guid>
+      <description>I think a lot about predicting/forecasting binary outcomes&amp;hellip;</description>
     </item>
     
     <item>
@@ -5707,6 +5878,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/concentration-of-senate-repres/</guid>
       <description>Since the data are readily available, I decided to look into things to decide how strongly I should argue this point in the future&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing in the Golden State</title>
+      <link>https://data-scribers.mikewk.com/post/housing-in-the-golden-state/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-in-the-golden-state/</guid>
+      <description>I am headed out west, to California to talk housing at the Western Secondary Market Conference. After my talk they might post my slides online somewhere. If they do I’ll link to them, but for now you can get a preview in this twitter thread&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Blog Style!</title>
+      <link>https://data-scribers.mikewk.com/post/new-blog-style/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-blog-style/</guid>
+      <description>I decided to switch over my blog theme. The Ghostwriter theme I used was nice, but it didn’t have a blog archive. As the number of posts grow a blog archive is easier to search. We still have tags you can search. I’ve adopted the Hugo Blackburn theme&amp;hellip;</description>
     </item>
     
     <item>
@@ -5935,6 +6124,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Mortgage rates in the 21st century</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rates-in-the-21st-cen/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rates-in-the-21st-cen/</guid>
+      <description>Let’s compare two charts&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Strava time vs distance data analysis</title>
       <link>https://data-scribers.mikewk.com/post/strava-time-vs-distance-data-a/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
@@ -6121,6 +6319,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/a-cranextra-repository-for-hom/</guid>
       <description>There will be no more Step 1, 2, ..&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring housing data with R and IPUMS USA</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-housing-data-with-r-/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-housing-data-with-r-/</guid>
+      <description>In this post I want to share some observations on housing in the United States from 1980 to 2016, share some R code for data wrangling, and tri (no that’s not a typo, just a pun) out a visualization techniques. Let’s get to it. I’ve been carrying a running conversation with folks on Twitter regarding the U.S. housing market and its future&amp;hellip;</description>
     </item>
     
     <item>
@@ -6337,6 +6544,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/golf-tidy-data-and-using-data-/</guid>
       <description>Introduction I’m going to use this post to discuss some of the aspects of data science that interest me most (tidy data as well as using data to guide strategy). I’ll be discussing these topics through the lens of a data analysis of results from a few high school golf tournaments&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting house price and income trends</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-house-price-and-incom/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-house-price-and-incom/</guid>
+      <description>In this post we will create some plots of house prices and incomes for the United States and individual states. We will also try out the bea.R package to get data from the U.S. Bureau of Economic Analysis. We’ll end up with something like this: Per usual we’ll do it with R and I’ll include code so you can follow along&amp;hellip;</description>
     </item>
     
     <item>
@@ -6852,6 +7068,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/june-11th-2018-r-350-on-debian/</guid>
       <description>Dirk, Michael and Johannes, June&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kalman Filter for a dynamic linear model in R</title>
+      <link>https://data-scribers.mikewk.com/post/kalman-filter-for-a-dynamic-li/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kalman-filter-for-a-dynamic-li/</guid>
+      <description>As an economist with a background in econometrics and forecasting I recognize that predictions are often (usually?) an exercise in futility. Forecasting, after all, is hard. While non-economists have great fun pointing this futility out, many critics miss out on why it’s so hard. There are at least two reasons why forecasting is hard&amp;hellip;</description>
     </item>
     
     <item>
@@ -7458,6 +7683,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Pomological Plots</title>
+      <link>https://data-scribers.mikewk.com/post/pomological-plots/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pomological-plots/</guid>
+      <description>In the real world, when I give talks and use slides I am typically constrained in my aesthetic. Often I’m speaking at a work-related thing and we have a corporate template and color scheme. They serve us well and I’ve found restraint helps focus on the message&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Arte reproducible del Subte de Buenos Aires</title>
       <link>https://data-scribers.mikewk.com/post/arte-reproducible-del-subte-de/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
@@ -7881,6 +8115,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Spotlight on housing affordability</title>
+      <link>https://data-scribers.mikewk.com/post/spotlight-on-housing-affordabi/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spotlight-on-housing-affordabi/</guid>
+      <description>IN MY LINE OF WORK, (finance/economics) you see a lot of dual axis line charts. I am of the opinion that dual y axis charts are sort of evil. But in this post I’m going to make one. It’s for a totally legit reason though. Like in an earlier post we’ll make a graph similar to one I saw on xenographics&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>EPL Week 37</title>
       <link>https://data-scribers.mikewk.com/post/epl-week-37/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
@@ -7953,6 +8196,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Jobs Friday May 2018</title>
+      <link>https://data-scribers.mikewk.com/post/jobs-friday-may-2018/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jobs-friday-may-2018/</guid>
+      <description>TODAY WAS JOBS FRIDAY. LET’s create a couple plots to show the trend in employment growth. Each month the U.S. Bureau of Labor Statistics (BLS) releases its employment situation report. Let’s make a couple plots looking at trends in U.S. nonfarm payrolls. Per usual, let’s make a graph with R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Template for rmarkdown reports</title>
       <link>https://data-scribers.mikewk.com/post/template-for-rmarkdown-reports/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
@@ -7995,6 +8247,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/open-source-at-google-cloud-pl/</guid>
       <description>Mark broke SSH access to his Compute Engine instance by accidentally removing the GCP linux guest environment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s up? VSUP, that&#39;s what&#39;s up.</title>
+      <link>https://data-scribers.mikewk.com/post/whats-up-vsup-thats-whats-up/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-up-vsup-thats-whats-up/</guid>
+      <description>IN THIS POST WE SHALL EXPLORE VALUE-SUPRESSING UNCERTAINTY PALETTES. One of my favorite new sites is xenographics that gives examples of and links to “weird, but (sometimes) useful charts”. The examples xenographics gives are undoubtedly interesting and might help inspire you if you’re looking for something new&amp;hellip;</description>
     </item>
     
     <item>
@@ -8133,6 +8394,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Expanding Expansions, Contracting Recessions</title>
+      <link>https://data-scribers.mikewk.com/post/expanding-expansions-contracti/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/expanding-expansions-contracti/</guid>
+      <description>IN THIS POST I WANT TO SHARE A GRAPH looking at the length of economic expansions and recessions in the United State over time. Earlier today, Andrew Chamberlain (on Twitter), observed that at the end of this month the current economic expansion in the U.S. would be the second longest in history&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cisco Candid</title>
       <link>https://data-scribers.mikewk.com/post/cisco-candid/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
@@ -8166,6 +8436,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/introduction-to-shiny-apps-usi/</guid>
       <description>Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>April 2018 Housing Market Update</title>
+      <link>https://data-scribers.mikewk.com/post/april-2018-housing-market-upda/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/april-2018-housing-market-upda/</guid>
+      <description>LAST WEEK I POSTED A THREAD ON TWITTER COVERING RECENT HOUSING MARKET TRENDS AND THE OUTLOOK FOR MORTGAGE RATES: #Mortgage rates are now at their highest level since January 2014&amp;hellip;</description>
     </item>
     
     <item>
@@ -8490,6 +8769,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/rstudio-connect-160-a-year-in-/</guid>
       <description>We’re pleased to announce RStudio Connect 1.6.0. Connect 1.6.0 caps a year of significant updates and we encourage all customers to upgrade. Connect users continue to share analytics through reports, dashboards, and web applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rate Cloud</title>
+      <link>https://data-scribers.mikewk.com/post/rate-cloud/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rate-cloud/</guid>
+      <description>TIME FOR A FUN NEW MORTGAGE RATE CHART. This one: We’ll use R to plot a new visualization of mortgage rates. Let’s make it. Data As we did with our majestic mortgage rate plot post we’ll plot mortgage rates using the Freddie Mac Primary Mortgage Market Survey&amp;hellip;</description>
     </item>
     
     <item>
@@ -9105,6 +9393,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Pipe Tweenr</title>
+      <link>https://data-scribers.mikewk.com/post/pipe-tweenr/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pipe-tweenr/</guid>
+      <description>I LIKE TO MAKE ANIMATIONS WITH R. Sometimes folks ask me how they add to understanding. They don’t always, but often, particularly when you are working with time series, I find they help visualize trends and understand the evolution of variables&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Prime hints for running a data project in R</title>
       <link>https://data-scribers.mikewk.com/post/prime-hints-for-running-a-data/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
@@ -9276,6 +9573,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Forecasting Game</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting-game/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting-game/</guid>
+      <description>LET’S PICK BACK UP where we left off and think about communicating forecast results. To help guide our thinking, let’s set up a little game. Basic setup Like last time we’re going to focus on a situation where a forecaster observes some information about the world and makes an announcement about a future binary outcome&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Miao YU is Looking for a Postdoc Position in the US</title>
       <link>https://data-scribers.mikewk.com/post/miao-yu-is-looking-for-a-postd/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
@@ -9300,6 +9606,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/place-from-text/</guid>
       <description>From text to map Corpus search and context LSA, MDS, and semantic space FIN In this post, we demonstrate some different methodologies for exploring the geographical information found in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Charting Jobs Friday with R</title>
+      <link>https://data-scribers.mikewk.com/post/charting-jobs-friday-with-r/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/charting-jobs-friday-with-r/</guid>
+      <description>LAST FRIDAY WAS JOBS FRIDAY, the day when the U.S. Bureau of Labor Statistics (BLS) releases its monthly employment situation report. This report is blanketed with media coverage and economist and financial analysts all over the world pay close attention to the report&amp;hellip;</description>
     </item>
     
     <item>
@@ -9564,6 +9879,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Forecasting and deciding binary outcomes under asymmetric information</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting-and-deciding-binar/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting-and-deciding-binar/</guid>
+      <description>LAST WEEK IN THE WALL STREET JOURNAL an article LINK talked about how pundits can strategically make probabilistic forecasts. It seems 40% is a sort of magic number, where it’s high enough that if the event comes true you can claim credit as a forecaster, but if it doesn’t happen, you still gave it less than 50&amp;frasl;50 odds&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The Video of My Talk on blogdown at rstudio</title>
       <link>https://data-scribers.mikewk.com/post/the-video-of-my-talk-on-blogdo/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
@@ -9642,6 +9966,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-28/</guid>
       <description>For the remainder of the season, I will be travelling with a back up laptop so please excuse any shortfall in posts and site updates Match of the DayAshley Young needs to play just over 3 full games to record the most minutes in a season wearing a Man. Utd&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rock that dadbod plot!</title>
+      <link>https://data-scribers.mikewk.com/post/rock-that-dadbod-plot/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rock-that-dadbod-plot/</guid>
+      <description>Spring is nearly upon us, or at least we can hope. Let’s examine how housing activity typically rounds into shape as the weather warms up. We’ll make some fun plots with R. Seasonality in housing data Housing market activity in the United States is highly seasonal. Consider this animated plot. This plot shows U.S&amp;hellip;</description>
     </item>
     
     <item>
@@ -9831,6 +10164,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-we-built-wallaroo-to-proce/</guid>
       <description>When designing Wallaroo-a high-throughput, low-latency data processing framework written in the Pony programming language-we were concerned with designing for performance from the very beginning, with our initial goal being to achieve sub-millisecond latency tails with high throughputs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Employment growth and house price trends</title>
+      <link>https://data-scribers.mikewk.com/post/employment-growth-and-house-pr/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/employment-growth-and-house-pr/</guid>
+      <description>LET US TAKE A LOOK AT HOUSE PRICE AND EMPLOYMENT TRENDS. House prices in the Unitest States have been increasing at a rapid pace, about 7 percent on an annual basis. How does that relate to employment growth? And how do those trends vary by geography. Let’s take a look&amp;hellip;</description>
     </item>
     
     <item>
@@ -10050,6 +10392,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>More house price plots</title>
+      <link>https://data-scribers.mikewk.com/post/more-house-price-plots/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-house-price-plots/</guid>
+      <description>SO TODAY I SPENT SOME TIME WITH THE KIDDOS and contemplated the Enlightenment, so I didn’t have time to write up some code. But I will post a couple images that I think are interesting. I’ve got two plots for you, both using geofacets. See this post on using the geofacet package in R to make plots like these. The first plot shows U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Why bother with covariates in A/B testing?</title>
       <link>https://data-scribers.mikewk.com/post/why-bother-with-covariates-in-/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
@@ -10101,6 +10452,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/parallelization-of-simulations/</guid>
       <description>Come out to our March event to hear talks from two great R Ladies! First we&amp;rsquo;ll learn about parallelization of simulations with the foreach R package, with applications to progression free survival assessed using electronic health records. Then we&amp;rsquo;ll get an introduction to methods for handling missing data in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Recent House Price Trends</title>
+      <link>https://data-scribers.mikewk.com/post/recent-house-price-trends/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recent-house-price-trends/</guid>
+      <description>LAST YEAR WE TOURED recent house price trends Post. Let’s update the data visualizations with data through December 2017. We are going to show house price trends using data from the publicly available Freddie Mac House Price Index. Animation: Here’s an updated animation showing trends in the top 20 metro areas, based on population&amp;hellip;</description>
     </item>
     
     <item>
@@ -10581,6 +10941,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>February 2018 housing market update</title>
+      <link>https://data-scribers.mikewk.com/post/february-2018-housing-market-u/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/february-2018-housing-market-u/</guid>
+      <description>EARLIER THIS WEEK I TWEETED out a poll asking whether or not folks wanted to see a thread/tweetstorm with slides from an upcoming presentation on the economy and housing markets that I’m giving. Over 90 percent voted for a thread. So I shared it. In this post let me add a little more commentary on the individual slides&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introduction to GIS with R</title>
       <link>https://data-scribers.mikewk.com/post/introduction-to-gis-with-r/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
@@ -10632,6 +11001,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/thanks-marie-dussault-for-read/</guid>
       <description>Write, as if no one would read&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparing recent periods of mortgage rate increases</title>
+      <link>https://data-scribers.mikewk.com/post/comparing-recent-periods-of-mo/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comparing-recent-periods-of-mo/</guid>
+      <description>THIS MORNING I SAW AN INTERESTING CHART OVER ON BLOOMBERG. In this post they compared recent 10-year Treasury yield movements with the Taper Tantrum in 2013. The chart you can see here was an area chart with overlapping line plots. I thought it would be a fun exercise to remix a similar chart with R&amp;hellip;</description>
     </item>
     
     <item>
@@ -11094,6 +11472,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Me on a podcast</title>
+      <link>https://data-scribers.mikewk.com/post/me-on-a-podcast/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/me-on-a-podcast/</guid>
+      <description>Hey check it out! Me on a podcast: https://policyviz.com/podcast/episode-111-len-kiefer/. We talk about data visualization and how I use it at work. A bit about using R too. I got the opportunity to talk with Jon Schwabish on the Policyviz podcast&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Predicting Conflict Duration with (gg)plots using Keras</title>
       <link>https://data-scribers.mikewk.com/post/predicting-conflict-duration-w/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
@@ -11271,6 +11658,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/replacing-packer-with-kitchenc/</guid>
       <description>Don&amp;rsquo;t get me wrong, I love the HashiCorp products. I&amp;rsquo;ve been a Vagrant user since way back in my BC (Before Cloud) days and have continued a strong run of success backing the use of HashiCorp product&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Simple animated line plot with R</title>
+      <link>https://data-scribers.mikewk.com/post/simple-animated-line-plot-with/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simple-animated-line-plot-with/</guid>
+      <description>IN THIS POST I WANT TO SHARE R code for a simple animated line plot using ggplot2. In the past I’ve shared similar code, but over time my workflow has evolved. So I thought it would be good to post an updated bit of code. We’ll use economic data from the St. Louis Federal Reserve Economic Database (FRED)&amp;hellip;</description>
     </item>
     
     <item>
@@ -12139,6 +12535,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>State population growth and house prices</title>
+      <link>https://data-scribers.mikewk.com/post/state-population-growth-and-ho/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/state-population-growth-and-ho/</guid>
+      <description>EARLIER TODAY THE U.S. CENSUS BUREAU released new estimates of population for U.S. states from 2010 through 2017. Let’s see how population trends look compared to recent house price growth&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>fitur 0.5.20 Release</title>
       <link>https://data-scribers.mikewk.com/post/fitur-0520-release/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
@@ -12373,6 +12778,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Plotting U.S. Macroeconomic Trends with FRED and R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-us-macroeconomic-tren/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-us-macroeconomic-tren/</guid>
+      <description>LET’S TAKE A LOOK AT RECENT U.S. macroeconomic trends by making a couple plots with R code. Since we’re going to be looking at U.S. macroeconomic data, the data we’ll need is available in the St. Louis Federal Reserve Bank Economic Database FRED&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>When there&#39;s a fork in the road, take it. Or, taking a look at marginal structural models.</title>
       <link>https://data-scribers.mikewk.com/post/when-theres-a-fork-in-the-road/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
@@ -12562,6 +12976,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing construction and employment trends</title>
+      <link>https://data-scribers.mikewk.com/post/housing-construction-and-emplo/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-construction-and-emplo/</guid>
+      <description>THE UNITED STATES IS NOT building enough homes to meet demand. Be sure to check out my upcoming presentation at Realtor University to learn more about whether or not this could mean a house price bubble. One reason often cited for low levels of construction is a lack of labor&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How to Build a Thriving Open-source Community</title>
       <link>https://data-scribers.mikewk.com/post/how-to-build-a-thriving-openso/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
@@ -12613,6 +13036,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/dataprep-with-eric-anderson/</guid>
       <description>Eric is a Product Manager at Google working on Cloud Dataprep and recently Cloud Dataflow. Previously he was at Amazon Web Services, Harvard Business School, General Electric and University of Utah. He’s from Salt Lake City, Utah and lives in Mountain View, California with and wife and three kids&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing market dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/housing-market-dataviz/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-market-dataviz/</guid>
+      <description>IT IS THANKSGIVING WEEK HERE IN THE UNITED STATES. I’m getting ready to go out for a nice casual drive down Interstate I-95. Should be fun. After I get back stuffed with turkey and whatnot, we’ll get back to data visualizations and analysis&amp;hellip;</description>
     </item>
     
     <item>
@@ -12721,6 +13153,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-chisquare-test-of-close-fit-/</guid>
       <description>TLDR: If you can assume close fit for the RMSEA, there is no reason why you cannot for a Chi-Square test in SEMs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Majestic mortgage rate plot</title>
+      <link>https://data-scribers.mikewk.com/post/majestic-mortgage-rate-plot/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/majestic-mortgage-rate-plot/</guid>
+      <description>COME AND MAKE A MAJESTIC MORTGAGE RATE PLOT WITH ME. We’ll use R to plot a few visualizations of mortgage rates. I recently gave a number of talks about the economic outlook and housing. One point I like to make is that mortgage rates are low. I’ve shown this through a variety of visualizations&amp;hellip;</description>
     </item>
     
     <item>
@@ -12850,6 +13291,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Tour of U.S. metro area house price trends</title>
+      <link>https://data-scribers.mikewk.com/post/tour-of-us-metro-area-house-pr/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tour-of-us-metro-area-house-pr/</guid>
+      <description>HEY! HERE IS A VIDEO SHOWING HOUSE PRICE TRENDS around the United States. Earlier this year we looked at how to get the data and plot it using R. I made the video using the PowerPoint to .mp4 workflow I outlined here. Below I’ll review how to build this file&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>solrium 1.0</title>
       <link>https://data-scribers.mikewk.com/post/solrium-10/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
@@ -12895,12 +13345,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>JOLTS a dataviz trilogy</title>
+      <link>https://data-scribers.mikewk.com/post/jolts-a-dataviz-trilogy/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jolts-a-dataviz-trilogy/</guid>
+      <description>LET’S TAKE A LOOK AT RECENT LABOR MARKET TRENDS IN THE UNITED STATES. Below we’ll plot labor market trends using the U.S. Bureau of Labor Statistics Job Openings and Labor Turnover Survey (JOLTS). Last year we looked at how to get the data and plot it using R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tidyverse Case Study</title>
       <link>https://data-scribers.mikewk.com/post/tidyverse-case-study/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/tidyverse-case-study/</guid>
       <description>&amp;hellip; data sets regarding songs on the Billboard Hot 100 list from 1960 to 2016, including ranks for the given year, musical features, and lyrics. So, this blogpost walks through how you might start to unpack the data, clean it, and draw some interesting conclusions. I also wanted to avoid the &amp;ldquo;draw the rest of the fucking owl&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A note on competing risks</title>
+      <link>https://data-scribers.mikewk.com/post/a-note-on-competing-risks/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-note-on-competing-risks/</guid>
+      <description>WE ARE LATE FOR HALLOWEEN, but let’s get out our broom and purrr as we tidy some statistical results. Today I had occasion to be reminded of competing risks and a handy statistical result on competing risks from A.P. Basu and J.K&amp;hellip;</description>
     </item>
     
     <item>
@@ -12919,6 +13387,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/vmware-nsx-vcp6nv/</guid>
       <description>Today I passed exam 2V0-642 to update my VCP5-DCV and got VCP6-NV (NSX v6.2) I&amp;rsquo;ll share here what I used to prepare the exam. Learning Path I passed exam VCP5-DCV in 2015. At the time I expected to work more with datacenter technology and I needed a more in-depth knowledge of how virtualization works&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Recent trends in U.S. housing markets</title>
+      <link>https://data-scribers.mikewk.com/post/recent-trends-in-us-housing-ma/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recent-trends-in-us-housing-ma/</guid>
+      <description>LET US REVIEW HOUSING MARKET TRENDS in the United States through the first three quarters of 2017. Economic background The overall economic environment remains favorable for housing. Interest rates are low, the labor market has been solid and income growth, while modest, has begun to tick up&amp;hellip;</description>
     </item>
     
     <item>
@@ -12994,6 +13471,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Dynamic Model Averaging Presentation Slides</title>
+      <link>https://data-scribers.mikewk.com/post/dynamic-model-averaging-presen/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dynamic-model-averaging-presen/</guid>
+      <description>I PUT TOGETHER SOME SLIDES SUMMARIZING our recent work on dynamic model averaging. See here and here for more blah blah blah. See below for some slides. Click here for a fullscreen version here. Making the Preso Let me also share with you the R code I used to generate these slides&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How Much For the Watch?</title>
       <link>https://data-scribers.mikewk.com/post/how-much-for-the-watch/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
@@ -13009,6 +13495,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-many-random-numbers-does-i/</guid>
       <description>Fermat and his library This morning I woke up to a delightful tweet from fermatslibrary about sample random uniform numbers and how many it takes, on average, to sum to 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A closer look at forecasting recessions with dynamic model averaging</title>
+      <link>https://data-scribers.mikewk.com/post/a-closer-look-at-forecasting-r/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-closer-look-at-forecasting-r/</guid>
+      <description>BACK WE GO INTO THE VASTY DEEP. LAST TIME we introduced the idea of using dynamic model averaging to forecast recessions. I was so excited about the new approach that I didn’t take the time to break down what was going on with it&amp;hellip;</description>
     </item>
     
     <item>
@@ -13075,6 +13570,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Forecasting recessions with dynamic model averaging</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting-recessions-with-dy/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting-recessions-with-dy/</guid>
+      <description>HERE THE LITERATURE IS VASTY DEEP. In this post we’ll dip our toes, every so slightly, into the dark waters of macroeconometric forecasting. I’ve been studying some techniques and want to try them out. I’m still at the learning and exploring stage, but let’s do it together. In this post we’ll conduct an exercise in forecasting U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Publish R Markdown to Medium via An RStudio Addin</title>
       <link>https://data-scribers.mikewk.com/post/publish-r-markdown-to-medium-v/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
@@ -13099,6 +13603,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/extending-slackr/</guid>
       <description>This lets us interact with R and Slack in new ways, by getting active updates on long simulations directly to your (and your team’s) mobile device and multitask away from your computer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Home sales in expansions and recessions</title>
+      <link>https://data-scribers.mikewk.com/post/home-sales-in-expansions-and-r/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/home-sales-in-expansions-and-r/</guid>
+      <description>LET’S LOOK AT NEW HOME SALES. Today the U.S. Census Bureau joint with the Department of Housing and Urban Development (HUD) released new home sales estimates through September of 2017&amp;hellip;</description>
     </item>
     
     <item>
@@ -13174,6 +13687,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Sharing is caring</title>
+      <link>https://data-scribers.mikewk.com/post/sharing-is-caring/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sharing-is-caring/</guid>
+      <description>LET’S MAKE SHARING BETTER ON THIS PAGE. I saw this today: 💫 how-to for making your #blogdown social-friendly: &amp;ldquo;Socialize your blogdown&amp;rdquo; by @xvrdm https://t.co/RurfUvRf6X #rstats #opengraph pic.twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Who knew likelihood functions could be so pretty?</title>
       <link>https://data-scribers.mikewk.com/post/who-knew-likelihood-functions-/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
@@ -13192,6 +13714,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Combining PowerPoint and R&#39;s tweenr for smooth animations</title>
+      <link>https://data-scribers.mikewk.com/post/combining-powerpoint-and-rs-tw/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/combining-powerpoint-and-rs-tw/</guid>
+      <description>IN THIS POST I WANT SHARE A METHOD FOR MAKING SMOOTH POWERPOINT ANIMATIONS USING R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>liftr (Rmarkdown using docker)</title>
       <link>https://data-scribers.mikewk.com/post/liftr-rmarkdown-using-docker/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
@@ -13207,6 +13738,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/confession/</guid>
       <description>You may notice that diffs of .Rd files are suppressed by default on GitHub since some time. Do you wonder who did this? It&amp;rsquo;s me, yay! This is my pull request: Though I thought I&amp;rsquo;ve done the right thing at that time, now I&amp;rsquo;m afraid this change may be bad for some cases&amp;hellip; After the relese of roxygen2 6.0.0, the game has changed a bit&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Purrrtier PowerPoint with R</title>
+      <link>https://data-scribers.mikewk.com/post/purrrtier-powerpoint-with-r/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrrtier-powerpoint-with-r/</guid>
+      <description>WE ARE ON OUR WAY TOWARDS BUILDING a tidy PowerPoint workflow. In this post I want to build on my earlier posts (see here for an introduction and here for a more sophisticated approach) for building a PowerPoint presentation with R and try to make it even purrrtier&amp;hellip;</description>
     </item>
     
     <item>
@@ -13234,6 +13774,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-wallaroo-scales-distribute/</guid>
       <description>Scaling stateful applications is hard. As your business grows, you&amp;rsquo;re eventually going to find that demand is greater than capacity. That means you can&amp;rsquo;t simply deploy your application to a set number of servers and forget it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage rates are low!</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rates-are-low/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rates-are-low/</guid>
+      <description>MORTGAGE RATES ARE LOW IN THE UNITED STATES. How low? Let’s take a look. We’ll use R to plot a few visualizations of mortgage rates. We’ll also try out some of the nice features in the tibbletime package that help when working with time series data&amp;hellip;</description>
     </item>
     
     <item>
@@ -13297,6 +13846,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/thinking-in-systems-with-diagr/</guid>
       <description>One of the concepts introduced in the book is stock and flow diagrams that represent basic systems. The first diagram in the book shows a basic stock with an inflow and outflow&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Time to animate with tibbletime</title>
+      <link>https://data-scribers.mikewk.com/post/time-to-animate-with-tibbletim/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/time-to-animate-with-tibbletim/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME CODE TO CREATE AN ANIMATED CHART of housing starts&amp;hellip;</description>
     </item>
     
     <item>
@@ -13372,6 +13930,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Unemployment Flexdashboard</title>
+      <link>https://data-scribers.mikewk.com/post/unemployment-flexdashboard/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unemployment-flexdashboard/</guid>
+      <description>IN THIS POST I WANT TO REVISIT FLEXDASHBOARDS. Back in January we made several Flexdashboards with R to display economic data. See my guide to building a flexdashboard for some examples&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MCMC and the case of the spilled seeds</title>
       <link>https://data-scribers.mikewk.com/post/mcmc-and-the-case-of-the-spill/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
@@ -13417,6 +13984,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Bivariate tilegridmaps with R</title>
+      <link>https://data-scribers.mikewk.com/post/bivariate-tilegridmaps-with-r/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bivariate-tilegridmaps-with-r/</guid>
+      <description>I HAVE BEEN EXPERIMENTING WITH A NEW WAY TO VISUALIZE DATA, a bivariate tilegridmap. When I get around to rolling out my tidyPowerPoint workflow we’re going to want something other than bars and lines to fill it up&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Dealing with Correlated High-Dimensional Data</title>
       <link>https://data-scribers.mikewk.com/post/dealing-with-correlated-highdi/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
@@ -13444,6 +14020,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>quick geofacet plots</title>
+      <link>https://data-scribers.mikewk.com/post/quick-geofacet-plots/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-geofacet-plots/</guid>
+      <description>WHILE I WAS TRYING TO MAKE TIME FOR TIBBLETIME yesterday I got distracted and made this plot: hey! here&amp;#39;s a #dataviz: tile plot of U.S. state unemployment pic.twitter.com/vH8fSu63ve - Leonard Kiefer (@lenkiefer) October 10, 2017 In this post, let’s go over how to make this plot with R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Bayesian Estimation of Signal Detection Models, Part 1</title>
       <link>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
@@ -13459,6 +14044,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/lets-make-ggplot2-purrr-again/</guid>
       <description>and then load the data with: First let’s select a list of countries: As I said before, if you do not re-order the countries inside the data frame, the names of the files and the plots will not match&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What time is it? Time for tibbletime!</title>
+      <link>https://data-scribers.mikewk.com/post/what-time-is-it-time-for-tibbl/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-time-is-it-time-for-tibbl/</guid>
+      <description>WHAT TIME IS IT? TIME FOR TIBBLETIME! In this post, I’m going to take the tibbletime package out for a spin. Turns out this package is quite useful for things I tend to do. We’ll use the tibbletime package to write some R code to extend our ongoing analysis of trends in the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing mortgage data with R</title>
+      <link>https://data-scribers.mikewk.com/post/analyzing-mortgage-data-with-r/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analyzing-mortgage-data-with-r/</guid>
+      <description>TIME FOR ANOTHER DATA WRANGLING AND VISUALIZATION EXTRAVAGANZA. This time we are going to work hard to turn some big data into little data. That is, we’re going to work hard to aggregate several million loan level records into useful summary graphics to tell us about the U.S&amp;hellip;</description>
     </item>
     
     <item>
@@ -13516,12 +14119,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Arizona housing market trends</title>
+      <link>https://data-scribers.mikewk.com/post/arizona-housing-market-trends/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arizona-housing-market-trends/</guid>
+      <description>I AM HEADED OUT TO ARIZONA to talk with mortgage professionals. I wanted to share some charts I’ve put together for the Arizona and Phoenix metro economy. These charts were put together using R and tidyquant as I described here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Measuring Correctness of State in a Distributed System</title>
       <link>https://data-scribers.mikewk.com/post/measuring-correctness-of-state/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/measuring-correctness-of-state/</guid>
       <description>Introduction Distributed systems are hard&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage loan size distributions</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-loan-size-distributio/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-loan-size-distributio/</guid>
+      <description>I AM WORKING ON ADDING some more analysis around mortgage origination trends (see here for a high level summary). It’s on the way, but let me just leave a few graphs for you. These are updated versions of the same ones we made last year&amp;hellip;</description>
     </item>
     
     <item>
@@ -13549,6 +14170,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/using-cookie-based-authenticat/</guid>
       <description>Introduction Authentication is one of the features the open source version of shiny-server is missing. The simplest way is to set up a proxy and let it handle the user authentication. But in some scenarios, this isn’t sufficient as you are not able to determine in shiny who is the current user and thus are e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ggplot as it was meant to be</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot-as-it-was-meant-to-be/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot-as-it-was-meant-to-be/</guid>
+      <description>I’ve BEEN MESSING AROUND MORE WITH R and OFFICER and having too much fun for a Monday. I’m going to dive into some details later, but I’ll just leave a couple files here. See the attached PowerPoint .pptx file for all the charts&amp;hellip;</description>
     </item>
     
     <item>
@@ -13594,6 +14224,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/hello-world/</guid>
       <description>Welcome to my personal website. This site will serve a a landing page for my public projects in development&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage origination trends</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-origination-trends/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-origination-trends/</guid>
+      <description>IT IS SEPTEMBER AND THAT MEANS it is data release season. One of the most important September data releases for me is the annual HMDA data release. These data provide the closest thing to a publicly-available comprehensive summary of U.S&amp;hellip;</description>
     </item>
     
     <item>
@@ -13660,12 +14299,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>PURRRty PowerPoint with R</title>
+      <link>https://data-scribers.mikewk.com/post/purrrty-powerpoint-with-r/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrrty-powerpoint-with-r/</guid>
+      <description>IN THIS POST I WANT TO GO THROUGH SOME EXAMPLES of using the purrr package for R. Now there are already some great examples of how to use purrr&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Performance Benchmarking for Dummy Variable Creation</title>
       <link>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/performance-benchmarking-for-d/</guid>
       <description>Motivation Why do we need dummy variables? Ways to create dummy variables in R stats package dummies package dummy package caret package Performance comparison Smaller datasets Large datasets Conclusion Qs Motivation Very recently, at work, we got into a discussion about creation of dummy variables in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New home sales fall (maybe)</title>
+      <link>https://data-scribers.mikewk.com/post/new-home-sales-fall-maybe/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-home-sales-fall-maybe/</guid>
+      <description>NEW HOME SALES FALL according to the latest new residential sales report from the U.S. Census Bureau and Department of Housing and Urban Development (HUD). errr probably. Remember, housing data is uncertain and there’s quite a large margin of error. Per the Census/HUD report sales fell 3&amp;hellip;</description>
     </item>
     
     <item>
@@ -13693,6 +14350,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/what-is-the-appropriate-popula/</guid>
       <description>I have been trying to decipher for myself, what is in the current (well, yesterday&amp;rsquo;s) Graham-Cassidy health care bill&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Charting housing starts with R</title>
+      <link>https://data-scribers.mikewk.com/post/charting-housing-starts-with-r/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/charting-housing-starts-with-r/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME R CODE to create charts of U.S. housing starts we studied last week. Get data We’ll use tidyquant (see e.g. this post for more) to go get our data from the St. Louis Federal Reserve Economic Database (FRED). We’ll also use cowplot to arrange multiple ggplot2 graphs on one page&amp;hellip;</description>
     </item>
     
     <item>
@@ -13732,6 +14398,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Crafting a PowerPoint Presentation with R</title>
+      <link>https://data-scribers.mikewk.com/post/crafting-a-powerpoint-presenta/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crafting-a-powerpoint-presenta/</guid>
+      <description>LOOK I DON’T HAVE ANYTHING BAD TO SAY about PowerPoint. Others have said it (see for example Tufte and Harvard Business Review). It’s a tool and a fact of life for many of us. I am interested in making better PowerPoints&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>NFD16 day one - Arista</title>
       <link>https://data-scribers.mikewk.com/post/nfd16-day-one-arista/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
@@ -13747,6 +14422,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-pesky-piping-bug-with-rstudi/</guid>
       <description>You have a data frame you want to alter using piping, something like this. As far as bugs go, this is fairly inconsequential&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing market update September 2017</title>
+      <link>https://data-scribers.mikewk.com/post/housing-market-update-septembe/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-market-update-septembe/</guid>
+      <description>THIS WEEK WAS BUSY, with a lot of data releases. Earlier this week we talked about housing starts, but there were a bunch of other key releases. Let’s review some of them here. We’ll just do a quick description of the data and then follow up with a static chart and an animated gif&amp;hellip;</description>
     </item>
     
     <item>
@@ -13813,6 +14497,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing starts grinding higher or grinding to a halt?</title>
+      <link>https://data-scribers.mikewk.com/post/housing-starts-grinding-higher/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-starts-grinding-higher/</guid>
+      <description>ARE HOUSING STARTS GRINDING HIGHER, OR GRINDING TO A HALT? Today the U.S. Census Bureau joint with the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hvordan klarer de politiske partier sig på Facebook?</title>
       <link>https://data-scribers.mikewk.com/post/hvordan-klarer-de-politiske-pa/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
@@ -13828,6 +14521,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/linear-regression-with-violati/</guid>
       <description>TLDR: In small samples, the wild bootstrap implemented in the R hcci package is a good bet when heteroskedasticity is a concern. Today while teaching the multiple regression lab, I showed the class the standardized residuals versus standardized predictor plot SPSS lets you produce. It is the plot we typically use to assess homoskedasticity&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A (Tidyquant)um of solace</title>
+      <link>https://data-scribers.mikewk.com/post/a-tidyquantum-of-solace/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tidyquantum-of-solace/</guid>
+      <description>LET’S WRANGLE SOME HOUSING DATA. We’ll try something different with how posts are organized. In the past I have generally mixed data wrangling, R code and graphs all in one post. Now I’m going to break it up. Posts like yesterday will just show some data and discuss it&amp;hellip;</description>
     </item>
     
     <item>
@@ -13858,6 +14560,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>If housing inventory is so tight, why are so many homes vacant?</title>
+      <link>https://data-scribers.mikewk.com/post/if-housing-inventory-is-so-tig/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/if-housing-inventory-is-so-tig/</guid>
+      <description>LET US REVIEW SOME INTERESTING TRENDS IN HOUSING VACANCIES for the United States. Earlier this year we talked about how limited housing supply was helping to drive accelerating house prices across the country. In such an environment you would expect to see housing vacancies decline&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Pur(r)ify Your Carets</title>
       <link>https://data-scribers.mikewk.com/post/purrify-your-carets/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
@@ -13873,6 +14584,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/communication-between-r-and-d3/</guid>
       <description>Hello everyone, Now it should work! You can find the whole process in this repository. We started with something simple but you can do more complex things by applyng the same logic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo! Hello Blogdown!</title>
+      <link>https://data-scribers.mikewk.com/post/hello-hugo-hello-blogdown/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-hugo-hello-blogdown/</guid>
+      <description>ALL RIGHT! LOOKS LIKE WE’RE BACK ONLINE. I took the opportunity to try out the newly released blogdown R package and migrate my blog over from Jekyll to Hugo. This blog has been up for just over two years and Jekyll was working fine, but I never felt really comfortable&amp;hellip;</description>
     </item>
     
     <item>
@@ -14101,6 +14821,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Low-key dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/lowkey-dataviz/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lowkey-dataviz/</guid>
+      <description>IN THIS POST I WANT TO REWORK SOME VISUALIZATIONS we’ve already made. Inspired by this compendium of clean graphics in R, I want to remake some of visualizations we made earlier this year in a low-key manner. Sometimes the visualizations we make here can be pretty intense&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Selecting packages while coding</title>
       <link>https://data-scribers.mikewk.com/post/selecting-packages-while-codin/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
@@ -14134,6 +14863,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/financial-numerical-methods-pa/</guid>
       <description>Where: Interestingly, we actually have the solution to this equation (one of the few we have analytical solutions for): More generally, this can be written as a formula providing us with the recursive equation: I was given some starting parameters: We all know loops are to be avoided when you can in R, and that you should instead vectorize the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting is hard (work)</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting-is-hard-work/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting-is-hard-work/</guid>
+      <description>IN THIS POST WE WILL STUDY FORECASTS OF US ECONOMIC CONDITIONS. Niels Bohr quipped: Prediction is very difficult, especially if it’s about the future. I’m a macroeconomist by training, and my day job sometimes requires me to forecast the future so I can relate&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting is hard (work)-bonus charts</title>
+      <link>https://data-scribers.mikewk.com/post/forecasting-is-hard-workbonus-/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forecasting-is-hard-workbonus-/</guid>
+      <description>THIS POST IS A QUICK FOLLOW UP to my previous post on forecasting. I’m not going to add any R code or commentary on graphics, instead I’m just going to leave a few extra graphs related to the prior post. Check out the earlier post for more details on the data and how to build the charts&amp;hellip;</description>
     </item>
     
     <item>
@@ -14209,6 +14956,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visualizing house price acceleration</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-house-price-accele/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-house-price-accele/</guid>
+      <description>I HAVE BEEN BUILDING SOME NEW VISUALIZATIONS to study house price trends. In particular I have been thinking about rates of change of rates of change, or accelerations and decelerations in house price trends. I’ve got more to say on this topic, but for today, let’s create a few visualizations and contemplate an animation&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Be careful not to control for a post-exposure covariate</title>
       <link>https://data-scribers.mikewk.com/post/be-careful-not-to-control-for-/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
@@ -14281,6 +15037,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>The 100 second crisis</title>
+      <link>https://data-scribers.mikewk.com/post/the-100-second-crisis/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-100-second-crisis/</guid>
+      <description>The 100 second crisis About 100 seconds into every talk I give there comes a crisis. This note is about that crisis and how I try to overcome it. If you&amp;rsquo;re in a situation where you give a presentation or speech-I call them &amp;ldquo;talks&amp;rdquo;-you might experience your own 100 second crisis. Perhaps my strategy could work for you&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Automatic Twitter Updates</title>
       <link>https://data-scribers.mikewk.com/post/automatic-twitter-updates/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
@@ -14323,6 +15088,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/on-the-interpretation-of-regre/</guid>
       <description>TLDR: We should interpret regression coefficients for continuous variables as we would descriptive dummy variables, unless we intend to make causal claims. I am going to be teaching regression labs in the Fall, and somehow, I stumbled onto Gelman and Hill&amp;rsquo;s Data analysis using regression and multilevel/hierarchical models&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding an animation progress bar</title>
+      <link>https://data-scribers.mikewk.com/post/adding-an-animation-progress-b/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-an-animation-progress-b/</guid>
+      <description>I LIKE TO MAKE ANIMATED GIFS with my data. But frankly, sometimes they can be confusing. I got a good suggestion via twitter in response to a gif I shared there: This is very cool&amp;hellip;</description>
     </item>
     
     <item>
@@ -14416,6 +15190,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Plotting recent house price trends with R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-recent-house-price-tr/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-recent-house-price-tr/</guid>
+      <description>IT IS TIME FOR AN UPDATE ON HOUSE PRICE TRENDS AROUND THE UNITED STATES. I have been experimenting with some new visualizations and updating some old favorites. Let’s collect them here. This post will be an extension of my Visual Meditations on House Prices series from last year&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Theta Joins in R</title>
       <link>https://data-scribers.mikewk.com/post/theta-joins-in-r/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
@@ -14440,6 +15223,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
       <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Joyswarm</title>
+      <link>https://data-scribers.mikewk.com/post/joyswarm/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/joyswarm/</guid>
+      <description>I LOOK AT A LOT OF DATA and the thing about data is it’s not always what it seems to be. A lot of data are uncertain, and based on estimates. We’ve talked about this before&amp;hellip;</description>
     </item>
     
     <item>
@@ -14497,6 +15289,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Mortgage Rate Kandinsky</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rate-kandinsky/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rate-kandinsky/</guid>
+      <description>THINGS ARE ABOUT TO GET A BIT MORE ABSTRACT IN THIS SPACE. Today we make some Kandinsky-style images with R. This summer I was fortunate to spend some time at the Pompidou Centre in Paris. The Pompidou Centre houses the largest collection of modern art in Europe&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>New and improved draw charts in shinysense</title>
       <link>https://data-scribers.mikewk.com/post/new-and-improved-draw-charts-i/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
@@ -14530,6 +15331,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/customer-engineers-with-jonath/</guid>
       <description>Jonathan Cham is a customer engineer who helps customers be successful on the Google Cloud Platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Joyful dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/joyful-dataviz/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/joyful-dataviz/</guid>
+      <description>I TOOK SOME TIME OFF OVER THE SUMMER, away from data visualizations. It’s good to get away from time to time, but oh boy did I miss out. I wasn’t gone long, but in the short time I was gone people came up with some wonderful things. Let me dive back into it with some joyful dataviz&amp;hellip;</description>
     </item>
     
     <item>
@@ -15055,12 +15865,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>More on housing affordability</title>
+      <link>https://data-scribers.mikewk.com/post/more-on-housing-affordability/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-on-housing-affordability/</guid>
+      <description>LET US FOLLOW UP ON YESTERDAY’S POST with some more analysis of housing affordability. Per usual, we’ll use R to generate the plots and I’ll share the code below. Measuring affordability First, let’s talk a little bit more about what we are seeing in the plots&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Copulas and correlated data generation</title>
       <link>https://data-scribers.mikewk.com/post/copulas-and-correlated-data-ge/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/copulas-and-correlated-data-ge/</guid>
       <description>Here are the results for an auto-regressive (AR-1) correlation structure&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing affordability trends</title>
+      <link>https://data-scribers.mikewk.com/post/housing-affordability-trends/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-affordability-trends/</guid>
+      <description>HOW IS YOUR SUMMER GOING? Well okay, it’s not summer yet, but it sure is hot around where I am. Haven’t posted recently, so I’m going to share a couple of visualizations&amp;hellip;</description>
     </item>
     
     <item>
@@ -15190,6 +16018,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing supply, population, and house prices</title>
+      <link>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</guid>
+      <description>I MADE A LITTLE TABLEAU VISUALIZATION TO ANLAYZE TRENDS in population, housing supply and house prices. If you like interactive dataviz, then the best thing might be to jump down below and explore. But I’ll frame the viz with a bit of discussion&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Monthly Report: May 2017</title>
       <link>https://data-scribers.mikewk.com/post/monthly-report-may-2017/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
@@ -15280,6 +16117,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing supply, population, and house prices</title>
+      <link>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</guid>
+      <description> &amp;#39;getSymbols&amp;#39; currently uses auto.assign=TRUE by default, but will use auto.assign=FALSE in 0.5-0. You will still be able to use &amp;#39;loadSymbols&amp;#39; to automatically load data. getOption(&amp;ldquo;getSymbols.env&amp;rdquo;) and getOption(&amp;ldquo;getSymbols.auto&amp;hellip;  </description>
+    </item>
+    
+    <item>
       <title>Matrix factorization for recommender systems</title>
       <link>https://data-scribers.mikewk.com/post/matrix-factorization-for-recom/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
@@ -15307,12 +16153,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing market recap</title>
+      <link>https://data-scribers.mikewk.com/post/housing-market-recap/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-market-recap/</guid>
+      <description>QUITE A LOT OF HOUSING DATA CAME OUT THIS WEEK. Let’s recap with some graphs. Mortgage rates back below 4 percent The 30-year fixed rate mortgage fell back below 4 percent this week. New home sales New home sales data was released and came in weaker than expected for April 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Firebase at I/O 2017 with James Tamplin and Andrew Lee</title>
       <link>https://data-scribers.mikewk.com/post/firebase-at-io-2017-with-james/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/firebase-at-io-2017-with-james/</guid>
       <description>How do I give one of my Google Cloud Platform Project&amp;rsquo;s to another person? Mark is going on vacation for a few weeks - but don&amp;rsquo;t worry, he&amp;rsquo;ll still be on the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Index starting points and dataviz</title>
+      <link>https://data-scribers.mikewk.com/post/index-starting-points-and-data/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/index-starting-points-and-data/</guid>
+      <description>SO WE HAVE BEEN PLOTTING A LOT OF INDEX VALUES LATELY. It’s been great. But you have questions. Great questions. I got an interesting response to my house price dot chart over Twitter regarding the house price index we were plotting. User @chrisschnabel</description>
     </item>
     
     <item>
@@ -15343,6 +16207,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Facet my geo!</title>
+      <link>https://data-scribers.mikewk.com/post/facet-my-geo/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/facet-my-geo/</guid>
+      <description>TIME TO TRY OUT ANOTHER HOUSE PRICE VISUALIZATION. In this post we’ll try out a new way to visualize recent house price trends with R. Just this wekeend I saw a new package geofacet for organizing ggplot2 facets along a geographic grid&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tidytext Analysis of Seinfeld</title>
       <link>https://data-scribers.mikewk.com/post/tidytext-analysis-of-seinfeld/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
@@ -15361,6 +16234,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Consumer prices, household debt</title>
+      <link>https://data-scribers.mikewk.com/post/consumer-prices-household-debt/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/consumer-prices-household-debt/</guid>
+      <description>LET’S TAKE A LOOK AT RECENT TRENDS IN CONSUMER PRICES AND HOUSEHOLD DEBT. Along the way we’ll refresh some visualizations of consumer prices (see here) and household debt (see here) we made last year, as well as think up some new ones&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Get Sankey! Sankey diagrams for infosec</title>
       <link>https://data-scribers.mikewk.com/post/get-sankey-sankey-diagrams-for/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
@@ -15376,6 +16258,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/welch-analysis-of-variance/</guid>
       <description>Introduction The standard analysis of variance based on the (F)-test has two major assumptions: Normally distributed data Equal variance within each group&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>State house price growth trends</title>
+      <link>https://data-scribers.mikewk.com/post/state-house-price-growth-trend/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/state-house-price-growth-trend/</guid>
+      <description>TIME FOR A NEW HOUSE PRICE VISUALIZATIONS. In this post I’ll new way to visualize recent house price trends with R. Data We’re going to be visualizing the Freddie Mac House Price Index. We talked about these data earlier this month, see this post for some other visualizations&amp;hellip;</description>
     </item>
     
     <item>
@@ -15586,6 +16477,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>House price growth and employment trends</title>
+      <link>https://data-scribers.mikewk.com/post/house-price-growth-and-employm/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-price-growth-and-employm/</guid>
+      <description>IN THIS POST I WANT TO REVIEW RECENT EMPLOYMENT AND HOUSE PRICE TRENDS at the metropolitan statistical area. No R code here, but you can recreate the graphs we’ll explore today by following the code in this post&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Images</title>
       <link>https://data-scribers.mikewk.com/post/images/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
@@ -15628,6 +16528,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/harry-potter-characters/</guid>
       <description>Across 7 books/ 8 movies there are so many characters in this series by J.K Rowling. For this project I have got the data from data.world. All files here were combined to create a json with nodes and links. Using d3js I have visualized the characters connected to each other. &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>House price visualizations</title>
+      <link>https://data-scribers.mikewk.com/post/house-price-visualizations/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-price-visualizations/</guid>
+      <description>I AM JUST GOING TO DROP OFF A COUPLE OF housing data animated gifs here. And add a little bit of code for data wrangling. In earlier posts I described how to make these using R in greater detail. We’re going to be visualizing the Freddie Mac House Price Index&amp;hellip;</description>
     </item>
     
     <item>
@@ -15730,12 +16639,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visualizing uncertainty in housing data</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-uncertainty-in-hou/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-uncertainty-in-hou/</guid>
+      <description>HOUSING DATA ARE OFTEN MEASURED WITH CONSIDERABLE uncertainty. Estimates are usually based on small samples that are subject to sampling variability&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Animate a bivariate choropleth</title>
+      <link>https://data-scribers.mikewk.com/post/animate-a-bivariate-choropleth/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/animate-a-bivariate-choropleth/</guid>
+      <description>IN THIS POST I WANT TO EXTEND ON yesterday’s post and build an animated bivariate choropleth. We’ll use the same data as yesterday and create a combined scatterplot with bivariate choropleth map and animate it with R. Let’s get right to it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Anne Frank&#39;s Diary</title>
       <link>https://data-scribers.mikewk.com/post/anne-franks-diary/</link>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/anne-franks-diary/</guid>
       <description>A while ago I read through Social Media Mining with R and was fascinated by the subject of Sentiment Analysis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bivariate choropleth maps with R</title>
+      <link>https://data-scribers.mikewk.com/post/bivariate-choropleth-maps-with/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bivariate-choropleth-maps-with/</guid>
+      <description>NOTE: After I posted this (like within 5 minutes) I found this post which also constructs bivariate chropleths in R. IN THIS POST I WANT TO REVISIT SOME MAPS I MADE LAST YEAR&amp;hellip;</description>
     </item>
     
     <item>
@@ -15748,12 +16684,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>What&#39;s that on the horizon? An awesome dataviz!</title>
+      <link>https://data-scribers.mikewk.com/post/whats-that-on-the-horizon-an-a/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-that-on-the-horizon-an-a/</guid>
+      <description>This post is everything you want it’s everything you need it’s every viz inside of you that you wish you could see it’s all the right viz at exactly the right time but it means nothing to you and you don’t know why LET US MAKE SOME HORIZON CHARTS. What is a horizon chart you ask? That’s exactly what I was thinking earlier this weekend&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Treemapify those pies!</title>
+      <link>https://data-scribers.mikewk.com/post/treemapify-those-pies/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/treemapify-those-pies/</guid>
+      <description>TIME FOR ANOTHER DATAVIZ REMIX. Saw on Twitter that @hrbrmstr posted a remix of a Wall Street Journal visualization over at rud.is. The original WSJ article used pies of various size to compare recent store closings. As we usually do in this space, we’ll use R to create our plots. Let’s mix things up and go remix the remix&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Scraping data from STATEC&#39;s public tables</title>
       <link>https://data-scribers.mikewk.com/post/scraping-data-from-statecs-pub/</link>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/scraping-data-from-statecs-pub/</guid>
       <description>After watching the video, take a look at the code below. This code does two things; first it scrapes the data, and then it puts the data in a tidy format fur further processing. As you can see, we got the data in quite a nice format, but it still needs to be cleaned a bit&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Gather round and spread the word</title>
+      <link>https://data-scribers.mikewk.com/post/gather-round-and-spread-the-wo/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gather-round-and-spread-the-wo/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME R data wrangling strategy and use it to prepare an update to some global house price plots I shared last year. In last year’s post I did some data manipulation by hand and mouse in Excel before getting into R&amp;hellip;</description>
     </item>
     
     <item>
@@ -15766,6 +16729,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Housing gets off to a good start</title>
+      <link>https://data-scribers.mikewk.com/post/housing-gets-off-to-a-good-sta/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-gets-off-to-a-good-sta/</guid>
+      <description>IN 2016 HOUSING IN THE UNITED STATES HAD ITS BEST YEAR IN A DECADE (see my review or my flexdashboard remix) and so far 2017 has gotten off to a good start&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MODIStsp (v 1.3.2) is on CRAN !</title>
       <link>https://data-scribers.mikewk.com/post/modistsp-v-132-is-on-cran-/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
@@ -15775,12 +16747,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Let&#39;s Pixelate America</title>
+      <link>https://data-scribers.mikewk.com/post/lets-pixelate-america/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-pixelate-america/</guid>
+      <description>LET’S PIXELATE AMERICA. This morning I happened across a fun blog post on how to generate Pixel maps with R via R weekly&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Prophet Explore</title>
       <link>https://data-scribers.mikewk.com/post/prophet-explore/</link>
       <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/prophet-explore/</guid>
       <description>In case I still have active hours on Shinyapp&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Of kernels and beeswarms</title>
+      <link>https://data-scribers.mikewk.com/post/of-kernels-and-beeswarms/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/of-kernels-and-beeswarms/</guid>
+      <description>BACK IN JANUARY WE LOOKED AT HOUSING microdata from the American Community Survey Public Microdata that we collected from IPUMS. Let’s pick back up and look at these data some more. Glad you could join us. Be sure to check out my earlier post for more discussion of the underlying data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage rates after dark</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rates-after-dark/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rates-after-dark/</guid>
+      <description>TONIGHT WE VISUALIZE MORTGAGE RATES AFTER DARK. Last year I shared 10 amazing ways to visualize mortgage rates (and more ways and even more ways). In this post I have one more DATA VISUALIZATION (dataviz) for you. I was putting together a presentation using remark&amp;hellip;</description>
     </item>
     
     <item>
@@ -15799,6 +16798,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/customer-reliability-engineeri/</guid>
       <description>Luke is defining the customer experience of Google&amp;rsquo;s new Customer Reliability Engineering (CRE) team. When he joined Google in 2002 he was the first technical support engineer for AdSense. He ran software engineering teams and started building on Google App Engine in 2009&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Plotting house price trends with FRED and R</title>
+      <link>https://data-scribers.mikewk.com/post/plotting-house-price-trends-wi/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plotting-house-price-trends-wi/</guid>
+      <description>IN THIS POST I AM going to share some useful code to create some custom plots using the St Louis Federal Reserve Economic Database (FRED). While the FRED page has some nice chart customization options, I’m going to import the data into R with the quantmod package and draw the plots&amp;hellip;</description>
     </item>
     
     <item>
@@ -15874,6 +16882,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>QR code or dataviz?</title>
+      <link>https://data-scribers.mikewk.com/post/qr-code-or-dataviz/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/qr-code-or-dataviz/</guid>
+      <description>TODAY I MADE A KIND OF SILLY DATAVIZ, a tile plot of weekly changes in mortgage rates. A colleague happened by my viz terminal, pointed at my monitor and asked “what is that, a QR code?” Nope, it was a tile plot&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Criticizing a Publication, and Lying About It</title>
       <link>https://data-scribers.mikewk.com/post/criticizing-a-publication-and-/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
@@ -15889,6 +16906,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/drone-ci-with-brad-rydzewksi-a/</guid>
       <description>What is protocol buffers, and why should we all start using&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Resampling</title>
+      <link>https://data-scribers.mikewk.com/post/resampling/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/resampling/</guid>
+      <description>THIS PAST MONTH HAS BEEN BUSY. People have been traveling, I’ve been traveling, kids have been sick, and we’ve had the March Madness basketball keeping me occupied. Today I wanted to just explore a little analysis I’ve put together on resampling&amp;hellip;</description>
     </item>
     
     <item>
@@ -16135,12 +17161,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>A grand tour of house price trends</title>
+      <link>https://data-scribers.mikewk.com/post/a-grand-tour-of-house-price-tr/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-grand-tour-of-house-price-tr/</guid>
+      <description>LET US BUILD ON YESTERDAY’S POST (LINK) and construct more VISUALIZATIONS of house prices. In this post, I’ll include some R code so you can play along&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Call Me Anytime</title>
       <link>https://data-scribers.mikewk.com/post/call-me-anytime/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/call-me-anytime/</guid>
       <description>It was two o’clock on a Tuesday afternoon and Abigail* was in the emergency room for the third time this month. I was able to step away from the day-to-day struggles of the general inpatient medicine floors to see her in the emergency department. I had promised to keep her out of the hospital, and I had failed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Recent trends in house prices</title>
+      <link>https://data-scribers.mikewk.com/post/recent-trends-in-house-prices/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recent-trends-in-house-prices/</guid>
+      <description>IN LATE 2016 HOUSE PRICES recovered back to their pre-recession peak. At least nationally. At least not adjusted for inflation. Let’s talk about it. National trends The chart below shows the Freddie Mac House Price Index (link to source) for the United States from December 2000 to December 2016&amp;hellip;</description>
     </item>
     
     <item>
@@ -16243,6 +17287,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Experimenting with expanding axes</title>
+      <link>https://data-scribers.mikewk.com/post/experimenting-with-expanding-a/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/experimenting-with-expanding-a/</guid>
+      <description>LET US EXPERIMENT A BIT WITH AXES. In this post I’m going to try out some data visualization ideas expanding on our earlier work with ticks marks (see post ticks out)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>House prices are highest in coastal metros</title>
+      <link>https://data-scribers.mikewk.com/post/house-prices-are-highest-in-co/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-prices-are-highest-in-co/</guid>
+      <description>TODAY THE NATIONAL ASSOCIATION OF REALTORS (NAR) released (press release) data on metro area median sales prices of existing single-family homes (the U.S. Census and HUD report data on new home sales prices in a joint release). NAR makes the data available (Excel file)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The prevalence of drunk podcasts</title>
       <link>https://data-scribers.mikewk.com/post/the-prevalence-of-drunk-podcas/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
@@ -16258,6 +17320,34 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/wikipedia-page-views/</guid>
       <description>This is the first in a category of retreads where I look again at past work which could do with some loving care&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Description and presentation, exploration and analysis</title>
+      <link>https://data-scribers.mikewk.com/post/description-and-presentation-e/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/description-and-presentation-e/</guid>
+      <description>THERE IS A LOVELY BOOK on writing style called “Clear and Simple as the Truth” by Francis-Noël Thomas and Mark Turner (webpage). In it Thomas and Turner distinguish between several writing styles including practical style and classic style&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ticks out!</title>
+      <link>https://data-scribers.mikewk.com/post/ticks-out/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ticks-out/</guid>
+      <description>YOU HAVE SPOKEN and we will go with ticks out, at least 54% of the time. In a graph, should axis ticks face in or out? - Leonard Kiefer (@lenkiefer) February 5, 2017
+To celebrate, let’s make an animated gif where the axis expands over time. We’ll use data we used in our mortgage rate post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello Ninja! Crafting a browser-based presentation and how I got (re)started with R</title>
+      <link>https://data-scribers.mikewk.com/post/hello-ninja-crafting-a-browser/</link>
+      <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-ninja-crafting-a-browser/</guid>
+      <description>I GIVE A LOT OF TALKS. Some are formal presentations or keynotes to large groups, while many are in small group settings. Sometimes I get impromptu requests so I have to be ready pretty much at all times to give some sort of talk&amp;hellip;</description>
     </item>
     
     <item>
@@ -16297,12 +17387,48 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Wrangling employment data, plotting trends</title>
+      <link>https://data-scribers.mikewk.com/post/wrangling-employment-data-plot/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/wrangling-employment-data-plot/</guid>
+      <description>We will get back to house prices soon. IN THIS POST I WANT TO EXPLORE EMPLOYMENT TRENDS at the state and metro area. Today the U.S. Bureau of Labor Statistics (BLS) released data on state and metro area employment trends. Last month we looked at unemployment trends. Today we’ll look at trends in nonfarm employment&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Intro to R slides</title>
       <link>https://data-scribers.mikewk.com/post/intro-to-r-slides/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/intro-to-r-slides/</guid>
       <description>For the Perception Action and Cognition Lab Open Science Week, 2017 (University of Leeds) I gave two talks introducing R. You can see the slides below. The code for the slides can be found over at GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing housing value distributions by metro</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-housing-value-dist/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-housing-value-dist/</guid>
+      <description>EARLEIR TODAY I HAPPENED ACROSS AN INTERESTING post by Ken Steif (twitter @kensteif) at the Urban Spatial Analysis blog that predicts gentrification using census data. Do take some time to check out the post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Best year for home sales in a decade</title>
+      <link>https://data-scribers.mikewk.com/post/best-year-for-home-sales-in-a-/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/best-year-for-home-sales-in-a-/</guid>
+      <description>WE ARE ONE MONTH INTO 2017 AND WITH THIS MONTH’S economic releases we’ve completed most of the picture of 2016. These data by and large matched our expectations as I outlined in my 2016 year-in-review. Let’s take a quick look&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fun with Plotly</title>
+      <link>https://data-scribers.mikewk.com/post/fun-with-plotly/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fun-with-plotly/</guid>
+      <description>RECENTLY I HAVE BEEN EXPLORING FLEXDASHBOARDS to visualize data. In this post I want to focus on a tool I’ve found particularly useful, plotly. Plotly enables you to make interactive html widgets that you can embed in your webpage or view from within R&amp;hellip;</description>
     </item>
     
     <item>
@@ -16315,12 +17441,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>GDP Growth Chart (animated)</title>
+      <link>https://data-scribers.mikewk.com/post/gdp-growth-chart-animated/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gdp-growth-chart-animated/</guid>
+      <description>IN THIS POST I WANT TO SHARE WITH YOU some code to create an animated plot of annual growth rates in U.S. Real Gross Domestic Product (GDP). As in most of my posts, we’ll be creating these graphs in R. GDP Plot On Friday the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Yoga for modeling</title>
       <link>https://data-scribers.mikewk.com/post/yoga-for-modeling/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/yoga-for-modeling/</guid>
       <description>A New Year’s resolution for all of our models: get more flexible! As an aside, I’m better at implementing yoga for my models than yoga for myself, most of the time I end up like this: Anyways, let’s make our models flexible! By flexible, we mean let’s be more intentional about fitting nonlinear parametric&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Converting a Tableau dashboard to a Flexdashboard</title>
+      <link>https://data-scribers.mikewk.com/post/converting-a-tableau-dashboard/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-a-tableau-dashboard/</guid>
+      <description>Edited on 2017-01-27 to correct typos and fix tootip in dashboard IN THIS POST WE WILL CONVERT a data visualization dashboard I made some time ago using Tableau into a flexdashboard using R. On Monday, the Census posted a blog summarizing recent mobility trends. According to the CPS ASEC, 11&amp;hellip;</description>
     </item>
     
     <item>
@@ -16369,12 +17513,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>A guide to building an interactive flexdashboard</title>
+      <link>https://data-scribers.mikewk.com/post/a-guide-to-building-an-interac/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-guide-to-building-an-interac/</guid>
+      <description>INTERACTIVE DASHBOARDS CAN BE AN EFFECTIVE WAY to explore and present data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Flexin&#39; Friday</title>
+      <link>https://data-scribers.mikewk.com/post/flexin-friday/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/flexin-friday/</guid>
+      <description>WE WORKED OUT A VISUALIZATION REMIX ON WEDNESDAY and now that it’s Friday time to flex a little. In this post I’m going to remix the remix into a flexdashboard. I made this dashboard using crosstalk and plotly. By using htmlwidgets we can create an interactive dashboard in a static webpage&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Pokémon GO with Edward Wu, Director of Software Engineering at Niantic</title>
       <link>https://data-scribers.mikewk.com/post/pok%C3%A9mon-go-with-edward-wu-dire/</link>
       <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/pok%C3%A9mon-go-with-edward-wu-dire/</guid>
       <description>He received his PhD from Stanford in Physics in 2009 applying Bayesian parameter estimation models to cosmological data he collected from three visits to Antarctica and the South Pole&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Working on a Workout</title>
+      <link>https://data-scribers.mikewk.com/post/working-on-a-workout/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/working-on-a-workout/</guid>
+      <description>SO APPARENTLY IT IS WORKOUT WEDNESDAY, a day when data visualization fans try to build data visualization skills. I heard about it via this post by @hrbrmstr that reconsiders a visualization of state level unemployment rates. (Original post here)&amp;hellip;</description>
     </item>
     
     <item>
@@ -16393,6 +17564,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/regression-modeling-strategies/</guid>
       <description>Frank Harrell teaches an amazing course “Regression Modeling Strategies” based on his book each spring at Vanderbilt. This was one of my all time favorite courses. It has just the right amount of practical strategies, brilliant statistical insight, and zealous disdain for all things stepwise regression&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>That&#39;s what I&#39;m (cross)talking about!</title>
+      <link>https://data-scribers.mikewk.com/post/thats-what-im-crosstalking-abo/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/thats-what-im-crosstalking-abo/</guid>
+      <description>IN THIS POST I SHARE WITH YOU SOMETHING I BUILT with R, a simple dashboard using crosstalk, plotly, and data tables. By using htmlwidgets we can create an interactive dashboard in a static webpage. In this version I created a few line charts and data tables. Then I created a linked view using crosstalk to enable you to filter the table and chart simultaneously&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing&#39;s best year in a decade, remix</title>
+      <link>https://data-scribers.mikewk.com/post/housings-best-year-in-a-decade/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housings-best-year-in-a-decade/</guid>
+      <description>IN THIS POST I PRESENT a remixed version of my 2016 year in review article. By many measures 2016 was the best year for housing in a decade. Back in May I shared some trends on housing markets and then in December I did a full year recap. This document is a flexdashboard version of my December 2016 year-in-review article&amp;hellip;</description>
     </item>
     
     <item>
@@ -16420,6 +17609,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/mapping-starbucks-locations/</guid>
       <description>This is where I’ll be posting tutorials on how to use R and Rstudio to create some amazing graphics and visualizations. If you are completely new to R, don’t worry, I will post guides to explain how to start form scratch&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage rate flexdashboard</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rate-flexdashboard/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rate-flexdashboard/</guid>
+      <description>IN THE PAST I HAVE USED MANY DIFFERENT programs to visualize data. I’ve done quite a few visualizations using Tableau. I enjoy using that program, but it does have some drawbacks. As an alternative, I have been exploring using flexdashboards for R. One advantage of flexdashboards is that you can easily incorporate R code into the design of dashboards&amp;hellip;</description>
     </item>
     
     <item>
@@ -16459,6 +17657,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>A look back at housing&#39;s best year in a decade</title>
+      <link>https://data-scribers.mikewk.com/post/a-look-back-at-housings-best-y/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-look-back-at-housings-best-y/</guid>
+      <description>THE YEAR IS DRAWING TO A CLOSE and by many measures 2016 was the best year for housing in a decade. Back in May I shared some trends on housing markets in a Tufte style document. Now that we have nearly a full year’s worth of data, let’s see how housing and mortgage markets did in 2016. Well, I’ve created a retrospective looking back at the full year&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Managing Python projects with Virtualenv</title>
       <link>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
@@ -16468,12 +17675,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Data tables are Viz too</title>
+      <link>https://data-scribers.mikewk.com/post/data-tables-are-viz-too/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-tables-are-viz-too/</guid>
+      <description>THOUGH 2016 IS NOT OVER YET I want to get a jump on my 2017 resolution: make better tables. I’ve been re-reading this paper on the Rudiments of Numeracy by A. S. C. Ehrenberg published in the Journal of the Royal Statistical Society in 1977&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Wait, what are P-values?</title>
       <link>https://data-scribers.mikewk.com/post/wait-what-are-pvalues/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/wait-what-are-pvalues/</guid>
       <description>Frequently, and especially recently, misunderstandings of common statistical terms/ concepts have caused confusion and even anger. I would like to (attempt) to clear up a big player in the world of commonly used (and commonly misunderstood) statistical concepts: the p-value&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Populous metros are heavy!</title>
+      <link>https://data-scribers.mikewk.com/post/populous-metros-are-heavy/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/populous-metros-are-heavy/</guid>
+      <description>I WANT TO SHARE WITH YOU a little bit of code to make this whimsical data visualization: Make a simple map First we can construct a map of the lower 48 U.S. states and add a marker for each city. These data are available in the us&amp;hellip;</description>
     </item>
     
     <item>
@@ -16495,12 +17720,48 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Simple tweenr animations with ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/simple-tweenr-animations-with-/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simple-tweenr-animations-with-/</guid>
+      <description>Animations with tweenr IN THIS POST WE ARE GOING TO CREATE TWO SIMPLE animated data visualizations using R ggplot2, animation, and tweenr packages. See this post about tweenr for an introduction to tweenr, and more examples here and here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Even more mortgage rate visualizations</title>
+      <link>https://data-scribers.mikewk.com/post/even-more-mortgage-rate-visual/</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/even-more-mortgage-rate-visual/</guid>
+      <description>Introduction WE ARE BACK WITH EVEN MORE WAYS TO VISUALIZE mortgage rates. A few days ago, I shared some ways to visualize mortgage rate trends and here I posted some additional gifs without the code. I’m going to expand on that last post with R code for one those charts, and give you a totally new one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>See Data, Speak Data Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/see-data-speak-data-part-1/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/see-data-speak-data-part-1/</guid>
+      <description>IF YOU HAVE BEEN FOLLOWING along-welcome if you’re stopping by for the first time-you’ll have seen many different data visualizations that I have shared with you. But let’s take a step back and consider what to do with them&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hill for the data scientist</title>
       <link>https://data-scribers.mikewk.com/post/hill-for-the-data-scientist/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/hill-for-the-data-scientist/</guid>
       <description>This was inspired by Hilary Parker &amp;amp; Roger Peng’s Not So Standard Deviations Episode 28, which can be found&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>More amazing ways to visualize mortgage rates</title>
+      <link>https://data-scribers.mikewk.com/post/more-amazing-ways-to-visualize/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-amazing-ways-to-visualize/</guid>
+      <description>IN THIS POST I AM GOING TO share a couple gifs displaying mortgage rate trends. Check my earlier posts here and here for other charts. I don’t have time tonight to write up all the code for these, so I’m just sharing the images. Check back later (message/tweet at me) if you’d like to see the code&amp;hellip;</description>
     </item>
     
     <item>
@@ -16513,12 +17774,48 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Let&#39;s fix a dot plot</title>
+      <link>https://data-scribers.mikewk.com/post/lets-fix-a-dot-plot/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-fix-a-dot-plot/</guid>
+      <description>IN THIS POST WE’RE GOING TO REVISE the dotplot code I posted that lets you take the Federal Open Market Commitee (FOMC) projections and turn them into an animated dotplot&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ggedit</title>
       <link>https://data-scribers.mikewk.com/post/ggedit/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/ggedit/</guid>
       <description>ggplot2 has become the standard of plotting in R for many users&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ribbon rate chart</title>
+      <link>https://data-scribers.mikewk.com/post/ribbon-rate-chart/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ribbon-rate-chart/</guid>
+      <description>Introduction LAST WEEK I SHOWED YOU 10 TASTY WAYS TO VISUALIZE MORTGAGE RATES, but I’ve got another delicious one for you. Y’all like ribbon candy? As before we’ll create this chart with R. The data The data I’m going to use are estimates of weekly U.S. average 30-year fixed mortgage rates from the Primary Mortgage Market Survey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Global house price trends</title>
+      <link>https://data-scribers.mikewk.com/post/global-house-price-trends/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/global-house-price-trends/</guid>
+      <description>Introduction THE GREAT THING ABOUT SOCIAL MEDIA is that it helps put me in contact with people from around the world. I started up a conversation with Twitter user @benmyers29 who shared some recent trends in Canadian housing markets. 89% of Canadians have more than 25% equity in their homes. Avg equity ratio is 74%&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>10 ways to visualize mortgage rates</title>
+      <link>https://data-scribers.mikewk.com/post/10-ways-to-visualize-mortgage-/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/10-ways-to-visualize-mortgage-/</guid>
+      <description>Introduction IN ORDER TO HELP PEOPLE UNDERSTAND WHAT’S GOING ON with the economy, housing and mortgage markets I spend a great deal of time thinking about interest rates. Interest rates, specifically mortgage rates are very important to housing and mortgage markets&amp;hellip;</description>
     </item>
     
     <item>
@@ -16540,12 +17837,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Nested recursion</title>
+      <link>https://data-scribers.mikewk.com/post/nested-recursion/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nested-recursion/</guid>
+      <description>Introduction I HAVE BEEN WATCHING SOME VIDEOS of Plotcon 2016&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visual meditations on house prices, Part 7</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>Introduction ON FRIDAY I MADE SOME ACCIDENTAL data art. I ended up with something pretty much useless, but kind of pretty. I shared it on Twitter: made an unintentional sorta streamgraph #graphfail pic.twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Twitter recommends stats books</title>
       <link>https://data-scribers.mikewk.com/post/twitter-recommends-stats-books/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/twitter-recommends-stats-books/</guid>
       <description>Yesterday I asked my beloved Twitter nerds to recommend to me their favourite quantitative texts in Ecology: my postdoc super tells me I can BUY BOOKS! 💓📚📚💓 quick sweet friends, what are your fun statistical ecology book recommendations? - Andrew MacDonald (@polesasunder) December 2, 2016 As a way of saying &amp;ldquo;Thank you!&amp;rdquo; I thought that I would put all the books in a list for anyone who is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparing house prices, rents, other prices and incomes</title>
+      <link>https://data-scribers.mikewk.com/post/comparing-house-prices-rents-o/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/comparing-house-prices-rents-o/</guid>
+      <description>HERE IS A GIF COMPARING house prices, rents, other prices and incomes: And a static version with code. In order for it to work, you’re going to need a data file with columns corresponding to the date and the data as described in the footnote (available from FHFA, BLS, and BEA). The data should be laid out like so, and I’ve saved them in a &amp;hellip;</description>
     </item>
     
     <item>
@@ -16591,6 +17915,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/ruby-with-aja-hammerly/</guid>
       <description>How can I add constraints on what hosts can run given&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing recent trends in consumer prices</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-recent-trends-in-c/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-recent-trends-in-c/</guid>
+      <description>Growth in consumer prices RECENT DATA INDICATE THAT CONSUMER PRICES INFLATION is ticking up, though the overall pace of inflation remains below historical averages. In this post I’m going to create a few plots analyzing trends in the Consumer Price Index (CPI) published by the U.S&amp;hellip;</description>
     </item>
     
     <item>
@@ -16666,6 +17999,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visual meditations on house prices, Part 6</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>Introduction HOUSE PRICES HAVE NOW RECOVERED BACK TO THEIR PRE-RECESSION PEAK, at least according to some indices&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Helm with Michelle Noorali and Matthew Butcher</title>
       <link>https://data-scribers.mikewk.com/post/helm-with-michelle-noorali-and/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
@@ -16693,6 +18035,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visualizing the history of U.S. homeownership rates</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-the-history-of-us-/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-the-history-of-us-/</guid>
+      <description>IN THIS POST I WANT TO LOOK AT THE HISTORY OF HOMEOWNERSHIP in the United States. I&amp;rsquo;m going to go relatively far back in time, using Census data to compare the evolution of the homeownership rate by state from 1900 through 2015. Along the way we&amp;rsquo;ll make several different visualizations. Data For data we&amp;rsquo;re going to rely on the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cloud Networking with Ines Envid</title>
       <link>https://data-scribers.mikewk.com/post/cloud-networking-with-ines-env/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
@@ -16711,12 +18062,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Some animated gifs</title>
+      <link>https://data-scribers.mikewk.com/post/some-animated-gifs/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/some-animated-gifs/</guid>
+      <description>A couple of views of mortgage rates: Mortgage Rates in 2016 This chart shows the weekly average for the 30-year fixed rate morrtgage. Comparing mortgage rates by week This viz compares weekly mortgage rates (30-year fixed rate mortgage) by year. Each line represents a different year. The x-axis display the week of the year (from 1 to 52). Homeownership gif A homeownership rate viz&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cloud Abuse with Swati Kulshreshth and Emeka Okonkwo</title>
       <link>https://data-scribers.mikewk.com/post/cloud-abuse-with-swati-kulshre/</link>
       <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/cloud-abuse-with-swati-kulshre/</guid>
       <description>In his spare time, he likes going to the movies and watching video games (He doesn’t play them as often as they’ve become too complicated - so mostly watches on Youtube Gaming or&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Distribution of mortgage loan amounts in 2015</title>
+      <link>https://data-scribers.mikewk.com/post/distribution-of-mortgage-loan-/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distribution-of-mortgage-loan-/</guid>
+      <description>IN THIS POST I WANT TO CREATE some data visualizations with R using the recently released Home Mortgage Disclosure Act (HMDA) data. For this post I&amp;rsquo;m going to return to the 2015 HMDA that you can get from the Consumer Financial Protection Bureau (CFPB) webpage and I discussed earlier. Check out my prior post for more discussion of how we build these data visualizations&amp;hellip;</description>
     </item>
     
     <item>
@@ -16774,6 +18143,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Data visualizations for the week of September 22, 2016</title>
+      <link>https://data-scribers.mikewk.com/post/data-visualizations-for-the-we/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-visualizations-for-the-we/</guid>
+      <description>IT WAS A BUSY WEEK FOR ECONOMIC AND HOUSING DATA this week. Below are some data visaulizations I made tracking key trends in economic and housing market data. Homeowner equity increases to $12&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cloud Endpoints with Dan Ciruli and Sepehr Ebrahimzadeh</title>
       <link>https://data-scribers.mikewk.com/post/cloud-endpoints-with-dan-cirul/</link>
       <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
@@ -16819,12 +18197,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Industry-specific Beveridge Curves</title>
+      <link>https://data-scribers.mikewk.com/post/industryspecific-beveridge-cur/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/industryspecific-beveridge-cur/</guid>
+      <description>IN MY PREVIOUS POST we looked at the Job Openings and Labor Turnover Survey (JOLTS) data and plotted a Beveridge Curve&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>gRPC at CoreOS with Brandon Philips</title>
       <link>https://data-scribers.mikewk.com/post/grpc-at-coreos-with-brandon-ph/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/grpc-at-coreos-with-brandon-ph/</guid>
       <description>Brandon Philips is helping to build modern server infrastructure at CoreOS as CTO. Prior to CoreOS, he worked at Rackspace hacking on cloud monitoring and was a Linux kernel developer at SUSE. As a graduate of Oregon State&amp;rsquo;s Open Source Lab he is passionate about open source technologies. A Stack of Stuff for &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>JOLTS! Job openings and labor turnover trends</title>
+      <link>https://data-scribers.mikewk.com/post/jolts-job-openings-and-labor-t/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jolts-job-openings-and-labor-t/</guid>
+      <description>IN THIS POST WE&amp;rsquo;LL LOOK AT recent job openings and hires data from the Bureau of Labor Statistics Job Openings and Labor Turnover Survey (JOLTS)&amp;hellip;</description>
     </item>
     
     <item>
@@ -16846,6 +18242,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>What we spend</title>
+      <link>https://data-scribers.mikewk.com/post/what-we-spend/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-we-spend/</guid>
+      <description>EARLIER THIS WEEK THE U.S. BUREAU OF LABOR STATISTICS released data on consumer expenditures in 2015. In this post I want to examine these data and make a few visualizations&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cutoff function</title>
       <link>https://data-scribers.mikewk.com/post/cutoff-function/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
@@ -16864,12 +18269,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Recent economic and housing market trends</title>
+      <link>https://data-scribers.mikewk.com/post/recent-economic-and-housing-ma/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recent-economic-and-housing-ma/</guid>
+      <description>IN THIS POST WE&amp;rsquo;LL REVIEW some recent economic and housing market trends&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Density squared</title>
+      <link>https://data-scribers.mikewk.com/post/density-squared/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/density-squared/</guid>
+      <description>WE ARE GOING TO EXAMINE THE DISTRIBUTION OF US POPULATION and make an animated gif combining a map and a kernel density estimate of the distribution of county population densities. Density of densities, or density squared&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Simple Guide to S3 Methods</title>
       <link>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</guid>
       <description>S3 is informal and ad hoc, but it has a certain elegance in its minimalism: you can’t take away any part of it and still have a useful [Object Oriented] system. I&amp;rsquo;m excited to see feedback from the R Journal, hopefully I didn&amp;rsquo;t miss something terribly important about S3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>More map visualizations</title>
+      <link>https://data-scribers.mikewk.com/post/more-map-visualizations/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-map-visualizations/</guid>
+      <description>IN THIS POST I&amp;rsquo;M JUST GOING TO share a few data visualizations I&amp;rsquo;ve been working on today. For most, no code, but these build off my previous posts here and here so you can check there for hints and I&amp;rsquo;ll post some more examples with code later&amp;hellip;</description>
     </item>
     
     <item>
@@ -16900,6 +18332,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>U.S. county population</title>
+      <link>https://data-scribers.mikewk.com/post/us-county-population/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/us-county-population/</guid>
+      <description>SOMETIMES YOU ACTUALLY LEARN SOMETHING from social media. Today on Twitter I happened across this Tweet via @kyle_e_walker: Anybody want population estimates for every US county &amp;amp; metro back to 1790? Well, here are mine. Have fun!https://t[... ](http://lenkiefer.com/2016/08/23/us-pop-map-1790-2010/)</description>
+    </item>
+    
+    <item>
       <title>Science Meets Parliament</title>
       <link>https://data-scribers.mikewk.com/post/science-meets-parliament/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
@@ -16918,12 +18359,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Maps, mortgages and me</title>
+      <link>https://data-scribers.mikewk.com/post/maps-mortgages-and-me/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maps-mortgages-and-me/</guid>
+      <description>IN THIS POST I WANT TO DOCUMENT some R code I&amp;rsquo;ve recently been working on combining maps and distribution plots. As I discussed earlier lots of interesting data will be released in the fall and I want to be ready for it. Some of these snippets can be recycled when the new data is available&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Girls In Tech</title>
       <link>https://data-scribers.mikewk.com/post/girls-in-tech/</link>
       <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/girls-in-tech/</guid>
       <description>On August 10th Cevo&amp;rsquo;s Hannah Browne joined Miguel Wood, Nicola Hazell and Geoff Gourley in a daring discussion hosted by Girls in Tech Australia about diversity in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage rate gifs</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rate-gifs/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rate-gifs/</guid>
+      <description>No code, just some gifs: Comparing mortgage rates by week (2014, 2015,2016) Annotated history of mortgage&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data swarms</title>
+      <link>https://data-scribers.mikewk.com/post/data-swarms/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-swarms/</guid>
+      <description>AUGUST IS ALMOST OVER, and it&amp;rsquo;s nearly back to school season. And that means one thing. No, not that we&amp;rsquo;re about to get a chance to watch the #1 NCAA football program of all time dominate the gridiron (though that&amp;rsquo;s awesome too)&amp;hellip;</description>
     </item>
     
     <item>
@@ -16945,12 +18413,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Consumer Credit Trends Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/consumer-credit-trends-part-2/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/consumer-credit-trends-part-2/</guid>
+      <description>A FEW DAYS AGO I POSTED on trends in household debt using data from the the New York Federal Reserve Bank&amp;rsquo;s Consumer Credit Panel&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Result of the mlr summer workshop in Palermo</title>
       <link>https://data-scribers.mikewk.com/post/result-of-the-mlr-summer-works/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/result-of-the-mlr-summer-works/</guid>
       <description>The mlr developer team is quite international: Germany, USA, Canada. The time difference between these countries sometimes makes it hard to communicate and develop new features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visual meditations on house prices, Part 5</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>OVER THE PAST THREE MONTHS I HAVE MADE several new house price visualizations&amp;hellip;</description>
     </item>
     
     <item>
@@ -16987,6 +18473,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/site-reliability-engineering-w/</guid>
       <description>Before joining Google, Paul founded a startup which was acquired by Microsoft, where he worked on DirectX, Xbox, Xbox Live, and Forza Motorsport, before spending time working on machine learning problems at Microsoft&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Consumer Credit Trends</title>
+      <link>https://data-scribers.mikewk.com/post/consumer-credit-trends/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/consumer-credit-trends/</guid>
+      <description>TODAY the NEW YORK FEDERAL RESERVE BANK released its Quarterly Report on Household Debt and Credit. These data come from the Center for Microeconomic Data based on credit records from Equifax&amp;hellip;</description>
     </item>
     
     <item>
@@ -17071,12 +18566,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Going off the grid</title>
+      <link>https://data-scribers.mikewk.com/post/going-off-the-grid/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/going-off-the-grid/</guid>
+      <description>See you later I&amp;rsquo;m going to be away from the grid (web, twitter etc.) for a few weeks&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Serverless part IV</title>
       <link>https://data-scribers.mikewk.com/post/serverless-part-iv/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/serverless-part-iv/</guid>
       <description>Welcome to part four in my series about Serverless&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Brexit, State of the Nation&#39;s Housing, and home sales</title>
+      <link>https://data-scribers.mikewk.com/post/brexit-state-of-the-nations-ho/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/brexit-state-of-the-nations-ho/</guid>
+      <description>IT WAS A BUSY WEEK FOR ECONOMIC AND HOUSING DATA. Existing and new home sales came out, the Joint Center for Housing Studies of Harvard University released their annual State of the Nation&amp;rsquo;s Housing, and the U.K. voted to leave the European Union (the Brexit)&amp;hellip;</description>
     </item>
     
     <item>
@@ -17095,6 +18608,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/lessons-learnt-about-data-viz-/</guid>
       <description>Data visualization is a means of visual communication that should help people understand the significance of data easily and see interesting trends, patterns, distributions,..etc. If your audience fails to grasp the message that was intended to be conveyed by the graph, they are not to be blamed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s make a dot plot</title>
+      <link>https://data-scribers.mikewk.com/post/lets-make-a-dot-plot/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-make-a-dot-plot/</guid>
+      <description>IN THIS POST WE&amp;rsquo;RE GOING to make an animated version of the famous Federal Reserve dot plot comparing the dots in March 2016 to June 2016&amp;hellip;</description>
     </item>
     
     <item>
@@ -17122,6 +18644,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/cisco-asa-and-office-365/</guid>
       <description>Office 365 is widely used between many customers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dataviz Remix</title>
+      <link>https://data-scribers.mikewk.com/post/dataviz-remix/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dataviz-remix/</guid>
+      <description>A dataviz remix I came across some interesting analysis from Josh Lehner at the Oregon Office of Economic Analysis about the &amp;ldquo;Housing Trilemma&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visualizing the U.S. housing stock</title>
+      <link>https://data-scribers.mikewk.com/post/visualizing-the-us-housing-sto/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualizing-the-us-housing-sto/</guid>
+      <description>IN THIS POST I wanted to share a few data visualizations I made using the American Housing Survey (AHS). For this exercise I used the metro summary tables which you can download from American Fact Finder&amp;hellip;</description>
     </item>
     
     <item>
@@ -17161,6 +18701,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>More tweenr animation examples</title>
+      <link>https://data-scribers.mikewk.com/post/more-tweenr-animation-examples/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-tweenr-animation-examples/</guid>
+      <description>IN THIS POST I WANT TO PROVIDE some additional examples of using tweenr and gganimate to create nice smooth transitions in an animated GIF. In this post we&amp;rsquo;ll look at an animated waterfall chart. For this data I&amp;rsquo;m going to use the National Income and Products Accounts from the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Improving R animated GIFs with tweenr</title>
+      <link>https://data-scribers.mikewk.com/post/improving-r-animated-gifs-with/</link>
+      <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/improving-r-animated-gifs-with/</guid>
+      <description>RECENTLY I HAVE MADE several animated GIFs, primarily using the animation package. These gifs usually work pretty well, coming out something like this (code here)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>I&#39;m the Doctor Now</title>
       <link>https://data-scribers.mikewk.com/post/im-the-doctor-now/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
@@ -17179,12 +18737,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Population growth, housing supply, and house prices</title>
+      <link>https://data-scribers.mikewk.com/post/population-growth-housing-supp/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/population-growth-housing-supp/</guid>
+      <description>EARLIER THIS WEEK THE U.S. CENSUS BUREAU released data on population and housing units for counties across the U.S. in 2015. These data reveal important trends in population growth, and help shed light on recent house price trends&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Fitbit or Groceries? The Challenge of Wearables in Underserved Populations</title>
       <link>https://data-scribers.mikewk.com/post/fitbit-or-groceries-the-challe/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/fitbit-or-groceries-the-challe/</guid>
       <description>“I haven’t been exercising as much this month.” I’d failed at inspiring yet another patient to be more active. She was a middle aged women working two jobs to help support her family. What next? Do I recommend a wearable? The choices we make everyday impact our health. Individual behaviors can lead to significant disease states including high cholesterol, obesity, and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mortgage rates and the Fed Funds rate</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rates-and-the-fed-fun/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rates-and-the-fed-fun/</guid>
+      <description>YESTERDAY THE FEDERAL RESERVE RELEASED minutes from their last Federal Open Market Committee (FOMC) meeting in April. The big news was that the FOMC still considered a June rate hike a possibility. How much does Fed policy impact mortgage rates? I put together a few gifs comparing the history of the 30-year mortgage rate, the Fed Funds rate and the 10-year constant maturity Treasury&amp;hellip;</description>
     </item>
     
     <item>
@@ -17206,12 +18782,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Mortgage rates, some perspective</title>
+      <link>https://data-scribers.mikewk.com/post/mortgage-rates-some-perspectiv/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mortgage-rates-some-perspectiv/</guid>
+      <description>Another mortgage rates animated gif IN THE PAST I&amp;rsquo;ve told you how I made my mortgage rates gif&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visual meditations on house prices, Part 4</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>Introduction IN THIS POST we’ll collect several visualizations of house prices I’ve shared on Twitter the past few days and have a little discussion. In prior posts I’ve also included code for some of these graphs, and the others are mostly straightforward extensions of the earlier examples&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Go on the Cloud with Andrew Gerrand and Chris Broadfoot</title>
       <link>https://data-scribers.mikewk.com/post/go-on-the-cloud-with-andrew-ge/</link>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/go-on-the-cloud-with-andrew-ge/</guid>
       <description>Andrew has worked on Go at Google since almost the beginning, and has written tons of blog posts and talks on Go. He spends most of his time making Go easier to use. Chris joined the Go and Cloud teams last year to improve the experience of writing Go applications for Google Cloud Platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visual meditations on house prices, Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>IN THIS POST I’m going to describe how to make some additional data visualizations of house prices and discuss a bit about what they&amp;hellip;</description>
     </item>
     
     <item>
@@ -17224,12 +18827,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Visual meditations on house prices, Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</guid>
+      <description>THIS IS PART TWO of my series of meditations on house prices&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Google Cloud Platform Support with Terrance Shepherd</title>
       <link>https://data-scribers.mikewk.com/post/google-cloud-platform-support-/</link>
       <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/google-cloud-platform-support-/</guid>
       <description>Terrance is a Technical Solutions Engineer working for Google Cloud Platform&amp;rsquo;s Support Team&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>House price data viz</title>
+      <link>https://data-scribers.mikewk.com/post/house-price-data-viz/</link>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/house-price-data-viz/</guid>
+      <description>TO HELP UNDERSTAND TRENDS in house prices, I have a couple of data visualizations for the Freddie Mac house price index. Viz 1: House Price Dynamics The first compares the quarterly and annual appreciation for house prices across the 50 states plus the District of Columbia&amp;hellip;</description>
     </item>
     
     <item>
@@ -17242,12 +18863,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Annotated chartbook, Tufte style</title>
+      <link>https://data-scribers.mikewk.com/post/annotated-chartbook-tufte-styl/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/annotated-chartbook-tufte-styl/</guid>
+      <description>I finally got around to putting together an annotated chartbook, Tufte style, using the Tufte package for Rmarkdown&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Vacant housing</title>
+      <link>https://data-scribers.mikewk.com/post/vacant-housing/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vacant-housing/</guid>
+      <description>EARLIER THIS WEEK the Census Bureau released the latest Housing Vacancy Survey (HVS) data for the first quarter of 2016. Much attention went to the homeownership rate estimates, which showed a decline in homeownership rates near a 48-year low&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Humble Bundle with Andy Oxfeld</title>
       <link>https://data-scribers.mikewk.com/post/humble-bundle-with-andy-oxfeld/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/humble-bundle-with-andy-oxfeld/</guid>
       <description>Andy Oxfeld manages the engineering department at Humble Bundle. He&amp;rsquo;s been with the company for four years and worked on almost every part of our codebase at some point. Prior to being at Humble Bundle, he worked at Electronic Arts for four years on games such as Warhammer Online: Age of Reckoning. Kubernetes 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The week that was in charts</title>
+      <link>https://data-scribers.mikewk.com/post/the-week-that-was-in-charts/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-week-that-was-in-charts/</guid>
+      <description>THIS WAS A BUSY WEEK for housing data. On Monday, the NAHB released the NAHB/Wells Fargo Housing Market Index (HMI), which tracks home builder sentiment. On Tuesday we got New Residential Construction from Census/HUD which gives us housing starts and permits&amp;hellip;</description>
     </item>
     
     <item>
@@ -17314,6 +18962,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Data Viz</title>
+      <link>https://data-scribers.mikewk.com/post/data-viz/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-viz/</guid>
+      <description>A new data viz TODAY THE BLS released data on metro level wages, employment concentration and regional costs of living&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Amazing Demos from GCP Next with Instrument</title>
       <link>https://data-scribers.mikewk.com/post/amazing-demos-from-gcp-next-wi/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
@@ -17377,6 +19034,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>dot plots and distributions</title>
+      <link>https://data-scribers.mikewk.com/post/dot-plots-and-distributions/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dot-plots-and-distributions/</guid>
+      <description>We&amp;rsquo;re going to make this chart (and talk about it) Wait, what is this? Let&amp;rsquo;s pause the animation and look at the last frame: This plot shows the distribution of metro area unemployment. These data are available here&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing servant</title>
       <link>https://data-scribers.mikewk.com/post/introducing-servant/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
@@ -17404,6 +19070,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Real house prices and population growth</title>
+      <link>https://data-scribers.mikewk.com/post/real-house-prices-and-populati/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/real-house-prices-and-populati/</guid>
+      <description>EARLIER THIS WEEK the U.S. Census Bureau released updated population figures for 2015. These data revealed changes in population across the country. Jed Kolko published a nice summary of these data, and it got me thinking about the relationship of population growth rates and house prices&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Drop and bogons list on Cisco router</title>
       <link>https://data-scribers.mikewk.com/post/drop-and-bogons-list-on-cisco-/</link>
       <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
@@ -17419,6 +19094,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/r-animation/</guid>
       <description>For the blog readers, just a quick heads up that I have posted a new R data animation to YouTube. A complete post will follow, but for now here is the video. It displays the social network of SNAP Shiny app users over about the past year and a half using great circle trajectories on a rotating 3D Earth&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tight Inventory</title>
+      <link>https://data-scribers.mikewk.com/post/tight-inventory/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tight-inventory/</guid>
+      <description>Tight Inventory EARLIER THIS WEEK, Trulia published a post by Chief Economist Ralph McLaughlin called &amp;ldquo;House Arrest: How Low Inventory Is Slowing Home Buying&amp;rdquo;. The article analyzed trends in housing inventory&amp;hellip;</description>
     </item>
     
     <item>
@@ -17458,6 +19142,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>The week (so far) in charts</title>
+      <link>https://data-scribers.mikewk.com/post/the-week-so-far-in-charts/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-week-so-far-in-charts/</guid>
+      <description>Mid-week chart update With existing home sales, house prices, and new home sales being released, this is one of the busiest weeks of the month for housing data. We’ll catch new home sales tomorrow morning, but let’s catch our breath and recap what we’ve learned so far this week&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Getting started with hugo</title>
       <link>https://data-scribers.mikewk.com/post/getting-started-with-hugo/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
@@ -17482,6 +19175,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/installing-your-first-spark-cl/</guid>
       <description>Installing your first spark cluster So, if you’re like me you’ve been using a lot of traditional tools for data science/analytics/whatever you want to call it. R is great, it’s flexible, it’s powerful but it’s slow and memory constrained. At work I’ve got a VM with 16Gb and one call can increase it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The week that was in charts</title>
+      <link>https://data-scribers.mikewk.com/post/the-week-that-was-in-charts/</link>
+      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-week-that-was-in-charts/</guid>
+      <description>This past week I tracked several data releases that give us an idea of the health and vibrancy of the economy and housing markets. State employment trends positive Consistent with the national employment numbers state employment trends are positive&amp;hellip;</description>
     </item>
     
     <item>
@@ -17548,12 +19250,30 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>What the February jobs numbers mean for housing</title>
+      <link>https://data-scribers.mikewk.com/post/what-the-february-jobs-numbers/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-the-february-jobs-numbers/</guid>
+      <description>Resilient job growth SPRING IS ALMOST HERE, and housing market activity will start to accelerate as we enter the peak homebuying season in the spring and summer months. The latest jobs report shows the U.S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>gRPC with Varun Talwar</title>
       <link>https://data-scribers.mikewk.com/post/grpc-with-varun-talwar/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/grpc-with-varun-talwar/</guid>
       <description>Spotify is now on Google Cloud Platform:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Recent House Price Trends</title>
+      <link>https://data-scribers.mikewk.com/post/recent-house-price-trends/</link>
+      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/recent-house-price-trends/</guid>
+      <description>{% include JB/setup National house prices rise 6.2% Freddie Mac released its full year 2015 house price index and an interactive data visualization. The seasonally-adjusted national index increased 6.2 percent year-over-year and is now 29.6 percent above the post-recession low, and just 4&amp;hellip;</description>
     </item>
     
     <item>
@@ -17924,6 +19644,24 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/awk-and-cisco-wlc/</guid>
       <description>When you see an hacker movie you see people typing on the keyboard very fast. Actually the toughest the hacker is the faster he types very long commands and all of them work the first time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Annotated Data Viz 2</title>
+      <link>https://data-scribers.mikewk.com/post/annotated-data-viz-2/</link>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/annotated-data-viz-2/</guid>
+      <description>BELOW IS A VISUALIZATION of household size and composition and homeownership from the Census1 going back to 1980. With this visualization, we can see how household size and tenure choice (own vs rent) has varied by age over time. 1Data from Ipums: IPUMS-USA, University of Minnesota, www.ipums.org&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Annotated Data Viz 1</title>
+      <link>https://data-scribers.mikewk.com/post/annotated-data-viz-1/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/annotated-data-viz-1/</guid>
+      <description>Homeownership and the Jobs Outlook BELOW IS A VISUALIZATION of job growth and homeownership by occcupation. This viz details expected job growth by occupation compared to homeownership rate by occupation. This viz was originally published on Freddiemac.com&amp;hellip;</description>
     </item>
     
     <item>

@@ -138,12 +138,30 @@
     </item>
     
     <item>
+      <title>Everything is spiraling out of control!</title>
+      <link>https://data-scribers.mikewk.com/post/everything-is-spiraling-out-of/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/everything-is-spiraling-out-of/</guid>
+      <description>I saw this fun bit of R code in a tweet by user aschinchon. df &amp;lt;- data.frame(x=0, y=0) for (i in 2:500) { df[i,1] &amp;lt;- df[i-1,1]+((0.98)^i)*cos(i) df[i,2] &amp;lt;- df[i-1,2]+((0.98)^i)*sin(i) } ggplot2::ggplot(df, aes(x,y)) + geom_polygon()+ theme_void()#rstats pic.twitter.com/cgNjyk405f - Antonio S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://data-scribers.mikewk.com/post/python/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/python/</guid>
       <description>I really appreciate Python&amp;rsquo;s pathlib module for managing filesystem stuff. While I don&amp;rsquo;t love the argparse module for command line parsing, I don&amp;rsquo;t think it&amp;rsquo;s worse than other available options&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Core Inflation Viz with Progress Bar</title>
+      <link>https://data-scribers.mikewk.com/post/core-inflation-viz-with-progre/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/core-inflation-viz-with-progre/</guid>
+      <description>About a year ago I shared code for a dataviz with a progress bar. Let’s update that R code using gifski and tweener. The code below will generate this animated gif: Gif code&amp;hellip;</description>
     </item>
     
     <item>
@@ -660,6 +678,15 @@
     </item>
     
     <item>
+      <title>Time to animate with tibbletime</title>
+      <link>https://data-scribers.mikewk.com/post/time-to-animate-with-tibbletim/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/time-to-animate-with-tibbletim/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME CODE TO CREATE AN ANIMATED CHART of housing starts&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Spanish Stopwords for tidytext package</title>
       <link>https://data-scribers.mikewk.com/post/spanish-stopwords-for-tidytext/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
@@ -684,6 +711,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/go-python-go-stream-processing/</guid>
       <description>We&amp;rsquo;ve been hard at work for 18 months on a new processing engine called Wallaroo for deploying and operating big data, fast data, and machine learning applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Charting housing starts with R</title>
+      <link>https://data-scribers.mikewk.com/post/charting-housing-starts-with-r/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/charting-housing-starts-with-r/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME R CODE to create charts of U.S. housing starts we studied last week. Get data We’ll use tidyquant (see e.g. this post for more) to go get our data from the St. Louis Federal Reserve Economic Database (FRED). We’ll also use cowplot to arrange multiple ggplot2 graphs on one page&amp;hellip;</description>
     </item>
     
     <item>
@@ -858,6 +894,24 @@
     </item>
     
     <item>
+      <title>Gather round and spread the word</title>
+      <link>https://data-scribers.mikewk.com/post/gather-round-and-spread-the-wo/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gather-round-and-spread-the-wo/</guid>
+      <description>IN THIS POST I WANT TO SHARE SOME R data wrangling strategy and use it to prepare an update to some global house price plots I shared last year. In last year’s post I did some data manipulation by hand and mouse in Excel before getting into R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Pixelate America</title>
+      <link>https://data-scribers.mikewk.com/post/lets-pixelate-america/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-pixelate-america/</guid>
+      <description>LET’S PIXELATE AMERICA. This morning I happened across a fun blog post on how to generate Pixel maps with R via R weekly&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Elixir for Pythonistas part I</title>
       <link>https://data-scribers.mikewk.com/post/elixir-for-pythonistas-part-i/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
@@ -936,6 +990,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/managing-python-projects-with-/</guid>
       <description>Python 2 versus 3 To summarise the Python wiki: “Python 2.x is legacy, Python 3.x is the present and future of the language.” More info is available on the Python wiki&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Populous metros are heavy!</title>
+      <link>https://data-scribers.mikewk.com/post/populous-metros-are-heavy/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/populous-metros-are-heavy/</guid>
+      <description>I WANT TO SHARE WITH YOU a little bit of code to make this whimsical data visualization: Make a simple map First we can construct a map of the lower 48 U.S. states and add a marker for each city. These data are available in the us&amp;hellip;</description>
     </item>
     
     <item>

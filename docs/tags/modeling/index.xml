@@ -453,6 +453,15 @@
     </item>
     
     <item>
+      <title>Text Mining Fedspeak</title>
+      <link>https://data-scribers.mikewk.com/post/text-mining-fedspeak/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text-mining-fedspeak/</guid>
+      <description>Textmining is an exciting topic. There is tremendous potential to gain insights from textual analysis. See for example Gentzko, Kelly and Taddy’s Text as Data. While text mining may be quite advanced in other fields, in finance and economics the application of these techniques is still in its infancy&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tuition costs and gdp per capita</title>
       <link>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
@@ -507,6 +516,15 @@
     </item>
     
     <item>
+      <title>How bad is a Linear Probability Model?</title>
+      <link>https://data-scribers.mikewk.com/post/how-bad-is-a-linear-probabilit/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-bad-is-a-linear-probabilit/</guid>
+      <description>I think a lot about predicting/forecasting binary outcomes&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 67-81</title>
       <link>https://data-scribers.mikewk.com/post/day-6781/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
@@ -522,6 +540,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/how-should-i-get-started-with-/</guid>
       <description>Here’s some evergreen advice from David Robinson: Many of the folks I talk to about learning R have little or no experience with “real” programming languages, which described myself when I first installed the language. If you’re in this camp, I have a few recommendations to get started&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Housing in the Golden State</title>
+      <link>https://data-scribers.mikewk.com/post/housing-in-the-golden-state/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-in-the-golden-state/</guid>
+      <description>I am headed out west, to California to talk housing at the Western Secondary Market Conference. After my talk they might post my slides online somewhere. If they do I’ll link to them, but for now you can get a preview in this twitter thread&amp;hellip;</description>
     </item>
     
     <item>
@@ -1443,6 +1470,24 @@
     </item>
     
     <item>
+      <title>ggplot as it was meant to be</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot-as-it-was-meant-to-be/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot-as-it-was-meant-to-be/</guid>
+      <description>I’ve BEEN MESSING AROUND MORE WITH R and OFFICER and having too much fun for a Monday. I’m going to dive into some details later, but I’ll just leave a couple files here. See the attached PowerPoint .pptx file for all the charts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Crafting a PowerPoint Presentation with R</title>
+      <link>https://data-scribers.mikewk.com/post/crafting-a-powerpoint-presenta/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crafting-a-powerpoint-presenta/</guid>
+      <description>LOOK I DON’T HAVE ANYTHING BAD TO SAY about PowerPoint. Others have said it (see for example Tufte and Harvard Business Review). It’s a tool and a fact of life for many of us. I am interested in making better PowerPoints&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Little&#39;s MCAR test at different sample sizes</title>
       <link>https://data-scribers.mikewk.com/post/littles-mcar-test-at-different/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
@@ -1659,6 +1704,15 @@
     </item>
     
     <item>
+      <title>Housing supply, population, and house prices</title>
+      <link>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/housing-supply-population-and-/</guid>
+      <description> &amp;#39;getSymbols&amp;#39; currently uses auto.assign=TRUE by default, but will use auto.assign=FALSE in 0.5-0. You will still be able to use &amp;#39;loadSymbols&amp;#39; to automatically load data. getOption(&amp;ldquo;getSymbols.env&amp;rdquo;) and getOption(&amp;ldquo;getSymbols.auto&amp;hellip;  </description>
+    </item>
+    
+    <item>
       <title>Ansible and IOS quick start</title>
       <link>https://data-scribers.mikewk.com/post/ansible-and-ios-quick-start/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
@@ -1863,6 +1917,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/science-meets-parliament/</guid>
       <description>In February I was lucky to receive funding from SSA to attend the two-day event Science Meets Parliament, held in Canberra. Science Meets parliament brings together 200 scientists to learn about research communication, the role of research in policy, and how to engage a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maps, mortgages and me</title>
+      <link>https://data-scribers.mikewk.com/post/maps-mortgages-and-me/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maps-mortgages-and-me/</guid>
+      <description>IN THIS POST I WANT TO DOCUMENT some R code I&amp;rsquo;ve recently been working on combining maps and distribution plots. As I discussed earlier lots of interesting data will be released in the fall and I want to be ready for it. Some of these snippets can be recycled when the new data is available&amp;hellip;</description>
     </item>
     
     <item>

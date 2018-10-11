@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>RStudio provides autocompletion support in C++ source files, and can autocomplete symbols used from R’s C API, Rcpp, and any other libraries you may have imported. We also now provide autocompletion results for the headers you’d like to use in your program&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio 1.2 Preview</title>

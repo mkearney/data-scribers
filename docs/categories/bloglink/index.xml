@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>RStudio provides autocompletion support in C++ source files, and can autocomplete symbols used from R’s C API, Rcpp, and any other libraries you may have imported. We also now provide autocompletion results for the headers you’d like to use in your program&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Saving Grandma’s Recipes With Xamarin.Forms</title>
       <link>https://data-scribers.mikewk.com/post/saving-grandmas-recipes-with-x/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>

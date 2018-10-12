@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justadatageekcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/justadatageekcom/</link>
+    <description>Recent content in Justadatageekcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/justadatageekcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution</title>
+      <link>https://data-scribers.mikewk.com/post/distribution/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distribution/</guid>
+      <description>Introductory Note There has been a lot going on at work and home, and my blogging has suffered from it. I am trying to get back into a regular blogging schedule. I will continue the Burlington County, NJ series later. The Dow Jones Has Had A Couple Of Bad Days… … but these are extreme events&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Burlington County, NJ, Part Two</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-burlington-county-nj/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-burlington-county-nj/</guid>
+      <description>Preface I share my blogposts on Twitter and LinkedIn. I also let a few friends know via email. The suggestions that I received were welcome. Some were things I had already planned to do and others I had not thought of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Burlington County, NJ</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-burlington-county-nj/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-burlington-county-nj/</guid>
+      <description>Beginning An Exploration of Burlington County, NJ Early last year, my family and I moved back to the Philadelphia area. We settled in Burlington County, New Jersey. Details on the county and a bit about its history can be found on via Wikipedia. I wanted to start this exploration with looking at county employment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Thoughts On Bitcoin</title>
+      <link>https://data-scribers.mikewk.com/post/my-thoughts-on-bitcoin/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-thoughts-on-bitcoin/</guid>
+      <description>I enjoy listening to/reading the stories on the various business news outlets about cryptocurrencies – I have been casually reading about blockchain technology and its different applications, but that is not the focus of this post. While I am not an “expert” on cryptocurrencies, I have come to the opinion that they are not really currencies&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Continued Introduction</title>
+      <link>https://data-scribers.mikewk.com/post/continued-introduction/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/continued-introduction/</guid>
+      <description>This is a continuation to my first post just to see how things look using blogdown. So… first, I’ll call one of the built in data sets: library(tidyverse) library(hexSticker) data(cars) summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introductory Post</title>
+      <link>https://data-scribers.mikewk.com/post/introductory-post/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introductory-post/</guid>
+      <description>After a bit of research and testing, I have decided to start using the blogdown package in R in order to continue blogging&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

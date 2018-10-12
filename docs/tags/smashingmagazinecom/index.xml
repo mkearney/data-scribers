@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Designing Experiences To Improve Mental Health</title>
+      <link>https://data-scribers.mikewk.com/post/designing-experiences-to-impro/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/designing-experiences-to-impro/</guid>
+      <description>Did you know that a simple search for “depression” on the iPhone App Store brings up 198 results? In the Android Play Store, it brings up&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Saving Grandma’s Recipes With Xamarin.Forms</title>

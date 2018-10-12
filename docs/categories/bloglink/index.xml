@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Apple Watch Series 4 レビュー：大きな飛躍を遂げたスマートウォッチ</title>
+      <link>https://data-scribers.mikewk.com/post/apple-watch-series-4-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%A4%A7%E3%81%8D%E3%81%AA%E9%A3%9B%E8%BA%8D/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/apple-watch-series-4-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%A4%A7%E3%81%8D%E3%81%AA%E9%A3%9B%E8%BA%8D/</guid>
+      <description>Apple Watch Series 4はApple&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Checkpointing and Consistent Recovery Lines</title>
+      <link>https://data-scribers.mikewk.com/post/checkpointing-and-consistent-r/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/checkpointing-and-consistent-r/</guid>
+      <description>When you&amp;rsquo;re working with distributed systems, you need to take seriously the possibility of failure. Since streaming systems like Wallaroo can be left running for days, weeks, or even years, you&amp;rsquo;re basically guaranteed to encounter failure&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Instagramでは、いじめ写真はAIが見逃しません</title>
       <link>https://data-scribers.mikewk.com/post/instagram%E3%81%A7%E3%81%AF%E3%81%84%E3%81%98%E3%82%81%E5%86%99%E7%9C%9F%E3%81%AFai%E3%81%8C%E8%A6%8B%E9%80%83%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>

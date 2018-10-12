@@ -6,10 +6,19 @@
     <description>Recent content in Blogwallaroolabscom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogwallaroolabscom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Checkpointing and Consistent Recovery Lines</title>
+      <link>https://data-scribers.mikewk.com/post/checkpointing-and-consistent-r/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/checkpointing-and-consistent-r/</guid>
+      <description>When you&amp;rsquo;re working with distributed systems, you need to take seriously the possibility of failure. Since streaming systems like Wallaroo can be left running for days, weeks, or even years, you&amp;rsquo;re basically guaranteed to encounter failure&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Wallaroo goes full Apache 2.0</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sorry I&#39;m Late!</title>
+      <link>https://data-scribers.mikewk.com/post/sorry-im-late/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sorry-im-late/</guid>
+      <description>This is some security cam footage from a bank in Nanning, southern China, of a five-foot python falling out of the ceiling and disrupting a staff meeting. &amp;ldquo;Shit, this isn&amp;rsquo;t the vault!&amp;rdquo; I imagine the snake realizing as it fell. Sucks too because now I&amp;rsquo;m gonna have to start training a whole new python&amp;hellip;</description>
+    </item>
     
     <item>
       <title>R in Prod</title>

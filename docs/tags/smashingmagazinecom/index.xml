@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart Bundling</title>
+      <link>https://data-scribers.mikewk.com/post/smart-bundling/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/smart-bundling/</guid>
+      <description>A website today receives a large chunk of its traffic from evergreen browsers - most of which have good support for ES6+, new JavaScript standards, new web platform APIs and CSS attributes&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Designing Experiences To Improve Mental Health</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developerrprojectorgblogpublic on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/developerrprojectorgblogpublic/</link>
+    <description>Recent content in Developerrprojectorgblogpublic on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/developerrprojectorgblogpublic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conditions of Length Greater Than One</title>
+      <link>https://data-scribers.mikewk.com/post/conditions-of-length-greater-t/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conditions-of-length-greater-t/</guid>
+      <description>Historically R language allows conditions in if and while statements to be vectors (of length greater than one)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maximum Number of DLLs</title>
+      <link>https://data-scribers.mikewk.com/post/maximum-number-of-dlls/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maximum-number-of-dlls/</guid>
+      <description>Some packages contain native code, which is linked to R dynamically in the form of dynamically loaded libraries (DLLs). Recently, R users started loading increasing numbers of packages; “workflow documents” are one source of this pattern&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

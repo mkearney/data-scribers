@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R in Prod</title>
+      <link>https://data-scribers.mikewk.com/post/r-in-prod/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-in-prod/</guid>
+      <description>If you’re responsible for the administration of R environments, you may have wished for an R equivalent of python’s pip tool for installing packages from the command line. R was originally designed to be more of an interactive user environment&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Should languages be designed with editor support in mind?</title>
@@ -300,12 +309,30 @@
     </item>
     
     <item>
+      <title>Running Python in the RStudio IDE</title>
+      <link>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</guid>
+      <description>I’ve had a few different people ask me variants of the same question lately, which is: “How can I run python code on a server in a similar way to using R with RStudio Server”&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Bringing the family together</title>
       <link>https://data-scribers.mikewk.com/post/bringing-the-family-together/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/bringing-the-family-together/</guid>
       <description>My husband’s family throws a family reunion every year and this year we’ve been tasked with co-planning it. We were trying to decide on the best location for everyone, so I embarked on a mission to find the center of all of our residences. library(tidyverse) library(leaflet) Geocoding the locations I began by putting together a quick &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Running python in the RStudio IDE</title>
+      <link>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</guid>
+      <description>A quick look at running python inside the RStudio IDE. When version 1&amp;hellip;</description>
     </item>
     
     <item>
@@ -984,6 +1011,15 @@
     </item>
     
     <item>
+      <title>RStats - Plumber launcher script</title>
+      <link>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</guid>
+      <description>Plumber Launcher Script I use Jeff Allen’s Plumber a lot&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Sublime Text 3 and Python</title>
       <link>https://data-scribers.mikewk.com/post/sublime-text-3-and-python/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
@@ -1038,6 +1074,15 @@
     </item>
     
     <item>
+      <title>Energenie remote control plug sockets web interface</title>
+      <link>https://data-scribers.mikewk.com/post/energenie-remote-control-plug-/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/energenie-remote-control-plug-/</guid>
+      <description>A while back Energenie released a Raspberry Pi based remote controller for their line of remote controlled plug sockets. I ordered mine as soon as they came out but I quickly got bored with controlling my lamps through the command line, so I hacked up a quick web UI&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Bigtable with Ian Lewis</title>
       <link>https://data-scribers.mikewk.com/post/bigtable-with-ian-lewis/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
@@ -1074,6 +1119,15 @@
     </item>
     
     <item>
+      <title>The Case For a Data Science Lab</title>
+      <link>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</guid>
+      <description>This post originally appeared on the Mango Solutions blog. TL;DR It’s basically my take on remaining innovative when data science goes corporate&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Docker Install software inside a container</title>
       <link>https://data-scribers.mikewk.com/post/docker-install-software-inside/</link>
       <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
@@ -1107,6 +1161,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
       <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Science Oxford</title>
+      <link>https://data-scribers.mikewk.com/post/data-science-oxford/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-science-oxford/</guid>
+      <description>On Monday night, I went over to the Data Science meet up in Oxford. Even though the parking ticket machines in Oxford don’t accept ‘new’ 5 or 10 pence pieces, despite both having been in circulation for over 20 years, it was a good night. Talks were on plot&amp;hellip;</description>
     </item>
     
     <item>

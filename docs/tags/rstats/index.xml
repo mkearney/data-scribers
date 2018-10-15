@@ -21,6 +21,51 @@
     </item>
     
     <item>
+      <title>R in Prod</title>
+      <link>https://data-scribers.mikewk.com/post/r-in-prod/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-in-prod/</guid>
+      <description>If you’re responsible for the administration of R environments, you may have wished for an R equivalent of python’s pip tool for installing packages from the command line. R was originally designed to be more of an interactive user environment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Random Walk of Pi - Another ggplot2 Experiment</title>
+      <link>https://data-scribers.mikewk.com/post/random-walk-of-pi-another-ggpl/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/random-walk-of-pi-another-ggpl/</guid>
+      <description>For random walk to work, I’ve assigned direction to “walk” depending on digits 0-9&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>From Messy to Tidy</title>
+      <link>https://data-scribers.mikewk.com/post/from-messy-to-tidy/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/from-messy-to-tidy/</guid>
+      <description>1 Dates in One Column 2 Deciphering the Code Column 3 Split, Stretch, and Trickle Down 3.1 Cut the Dots 3.2 Count the Dots 3.3 Spread the Categories 3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R session info info</title>
+      <link>https://data-scribers.mikewk.com/post/r-session-info-info/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-session-info-info/</guid>
+      <description>Matt Dray What’s session info? Session info is just some details about your working environment like your version of R, the locale it’s running from and any loaded packages. It gives a snapshot to help people reproduce what you’ve done or spot any anomalies. You might get asked for this if someone is diagnosing your R problem&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Conditions of Length Greater Than One</title>
+      <link>https://data-scribers.mikewk.com/post/conditions-of-length-greater-t/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conditions-of-length-greater-t/</guid>
+      <description>Historically R language allows conditions in if and while statements to be vectors (of length greater than one)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A million bright ambassadors of morning</title>
       <link>https://data-scribers.mikewk.com/post/a-million-bright-ambassadors-o/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
@@ -120,6 +165,15 @@
     </item>
     
     <item>
+      <title>September 2018</title>
+      <link>https://data-scribers.mikewk.com/post/september-2018/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/september-2018/</guid>
+      <description>September was another relatively slow month for new package activity on CRAN: &amp;ldquo;only&amp;rdquo; 126 new packages by my count&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The economic consequences of MOOCs</title>
       <link>https://data-scribers.mikewk.com/post/the-economic-consequences-of-m/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
@@ -189,6 +243,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/a-summer-of-puzzles-at-rstudio/</guid>
       <description>This summer, I teamed up with Jenny Bryan to create a series of coding puzzles, which (fingers crossed!) will be released next spring. It was exciting to start a project from the ground up, growing and shaping it over the 10-ish weeks of the internship&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Environmental Performance Index - Simple Scatter Plot</title>
+      <link>https://data-scribers.mikewk.com/post/environmental-performance-inde/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/environmental-performance-inde/</guid>
+      <description>Table contained 180 countries with some numerics values for Environment Performance Index, “Enviornmental Health”, “Ecosystem Vitality”. I thought it would be interesting to plot them using ggplot2. So when it comes to ranking in 2018, Top 5 countries are 1. Switzlerland, 2. France, 3. Denmark, 4. Malta, 5. Sweden. Bottom 5 countries for 2018 are , 180. Burundi, 179. Bangladesh, 178. Dem. Rep.Congo, 177. India, 176.&amp;hellip;</description>
     </item>
     
     <item>
@@ -994,6 +1057,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>New from RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/new-from-rstudio/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-from-rstudio/</guid>
+      <description>The post originally appeared on the Mango Solutions blog. One of the few remaining hurdles when working with R in the enterprise is consistent access to CRAN. Often desktop class systems will have unrestricted access while server systems might not have any access at all&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Simple example of fitting splines with mixed models</title>
       <link>https://data-scribers.mikewk.com/post/simple-example-of-fitting-spli/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
@@ -1288,6 +1360,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/what-they-forgot-to-teach-you-/</guid>
       <description>Join Jenny Bryan and Jim Hester of RStudio for this two-day hands-on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle! If you’d missed this sold out course at rstudio::conf 2018 now is your chance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automating a simple static website</title>
+      <link>https://data-scribers.mikewk.com/post/automating-a-simple-static-web/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automating-a-simple-static-web/</guid>
+      <description>I started the awesome blogdown list not long after I first heard about the blogdown package for R. I wanted a quick and easy way to showcase websites built with it, so I started a simple “awesome” style README page on GitHub&amp;hellip;</description>
     </item>
     
     <item>
@@ -1930,6 +2011,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Running Python in the RStudio IDE</title>
+      <link>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</guid>
+      <description>I’ve had a few different people ask me variants of the same question lately, which is: “How can I run python code on a server in a similar way to using R with RStudio Server”&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Benjana Guraziu</title>
       <link>https://data-scribers.mikewk.com/post/benjana-guraziu/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
@@ -1990,6 +2080,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/shiny-110/</guid>
       <description>Without this capability, when Shiny performs long-running calculations or tasks on behalf of one user, it stalls progress for all other Shiny users that are connected to the same process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Running python in the RStudio IDE</title>
+      <link>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</guid>
+      <description>A quick look at running python inside the RStudio IDE. When version 1&amp;hellip;</description>
     </item>
     
     <item>
@@ -2161,6 +2260,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/exploring-european-attitudes-a/</guid>
       <description>The 4th of March of 2018 I submitted the package to rOpensci, intimidated but very excited about the peer review process. To my surprise, the process was enriching, respectful and transparent, unlike my previous experience in academic research&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick Tip</title>
+      <link>https://data-scribers.mikewk.com/post/quick-tip/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-tip/</guid>
+      <description>This post originally appeared on the Mango Solutions blog&amp;hellip;</description>
     </item>
     
     <item>
@@ -2427,6 +2535,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>16 Personalities with Circlize</title>
+      <link>https://data-scribers.mikewk.com/post/16-personalities-with-circlize/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/16-personalities-with-circlize/</guid>
+      <description>There were difinitely some traits that sounded like me, and a lot of statement I can relate for sure. It’s definitely some fun test to do. There was a one part that stated “INFP - compromising just 4% of the population”&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Arte reproducible del Subte de Buenos Aires</title>
       <link>https://data-scribers.mikewk.com/post/arte-reproducible-del-subte-de/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
@@ -2640,6 +2757,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/jobs-friday-may-2018/</guid>
       <description>TODAY WAS JOBS FRIDAY. LET’s create a couple plots to show the trend in employment growth. Each month the U.S. Bureau of Labor Statistics (BLS) releases its employment situation report. Let’s make a couple plots looking at trends in U.S. nonfarm payrolls. Per usual, let’s make a graph with R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Packaging Shiny apps - A deep dive</title>
+      <link>https://data-scribers.mikewk.com/post/packaging-shiny-apps-a-deep-di/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/packaging-shiny-apps-a-deep-di/</guid>
+      <description>(Or, how to write a Shiny app.R file that only contains a single line of code) This article originally appeared on the Mango Solutions blog. This post is long overdue&amp;hellip;</description>
     </item>
     
     <item>
@@ -3054,6 +3180,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/today-on-twitter-i-learned/</guid>
       <description>Introduction Today on Twitter I learned (or was reminded about) two #rstats things: from @pkqstr about separate_rows from tidyr, that does something like separate followed by gather, but better&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maximum Number of DLLs</title>
+      <link>https://data-scribers.mikewk.com/post/maximum-number-of-dlls/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/maximum-number-of-dlls/</guid>
+      <description>Some packages contain native code, which is linked to R dynamically in the form of dynamically loaded libraries (DLLs). Recently, R users started loading increasing numbers of packages; “workflow documents” are one source of this pattern&amp;hellip;</description>
     </item>
     
     <item>
@@ -3498,6 +3633,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>I am not a Data Scientist - My R journey</title>
+      <link>https://data-scribers.mikewk.com/post/i-am-not-a-data-scientist-my-r/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/i-am-not-a-data-scientist-my-r/</guid>
+      <description>Today is the fifth anniversary of my joining Data science consultancy, Mango Solutions. That also means it’s my fifth anniversary of using and working with R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Parallelization of Simulations with the foreach Package and Missing Data in R</title>
       <link>https://data-scribers.mikewk.com/post/parallelization-of-simulations/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
@@ -3693,6 +3837,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/prep-your-hugo-blog-for-rblogg/</guid>
       <description>Get Ready for R-Bloggers There are lots of reasons to write a technical blog. Getting practice writing, thinking through ideas, etc. are all fulfilling reasons on their own. But life is always better with an audience. Well, not always. But for a blog it is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>dater - a tiny Addin for RStudio</title>
+      <link>https://data-scribers.mikewk.com/post/dater-a-tiny-addin-for-rstudio/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dater-a-tiny-addin-for-rstudio/</guid>
+      <description>Inserting a date with a keyboard shortcut TLDR: You can find the dater package on github. Update 1: It seems all of this was for nothing… Hi&amp;hellip;</description>
     </item>
     
     <item>
@@ -4102,6 +4255,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Field Guide to the R Ecosystem</title>
+      <link>https://data-scribers.mikewk.com/post/field-guide-to-the-r-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/field-guide-to-the-r-ecosystem/</guid>
+      <description>I started working with R around about 5 years ago. Parts of the R world have changed substantially over that time, while other parts remain largely the same. One thing that hasn’t changed however, is that there has never been a simple, high-level text to introduce newcomers to the ecosystem&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Making a map (or my first blogpost)</title>
       <link>https://data-scribers.mikewk.com/post/making-a-map-or-my-first-blogp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -4144,6 +4306,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/installing-r-34-on-your-androi/</guid>
       <description>Introduction David Selby, on his blog, explains how to get R up and running on your Android phone (and, by way of proof, wrote the blog post concerned on his phone). Unfortunately, however, he was only able to install R 3.1.1, which means that some of the latest tidyverse goodies are not available. Can we do better? It is possible.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learn to Write Command Line Utilities in R - part 6</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>Check out the first post in this series for an index of all the other posts. In the first parts of this series we explored how to create simple command line utilities in R&amp;hellip;</description>
     </item>
     
     <item>
@@ -4237,6 +4408,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Learn to Write Command Line Utilities in R - part 3</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>Check out the first post in this series for an index of all the other posts. Yesterday we modified our simple sorting hat command line utility to accept it’s first argument, a name. Those of you who’ve been playing along may have noticed that our implementation wasn’t ideal. It’s fine if you run the script with an argument, like ./sortinghat&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mining Game of Thrones Scripts with R</title>
       <link>https://data-scribers.mikewk.com/post/mining-game-of-thrones-scripts/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
@@ -4270,6 +4450,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/how-to-follow-and-engage-with-/</guid>
       <description>&amp;ldquo;R is not just a programming language, but it is also an interactive environment for doing data science.&amp;rdquo; &amp;ldquo;Investing a little time in learning R each day will pay off handsomely in the long run.&amp;rdquo;- Hadley Wickham and Garret Grolemund in R for Data Science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learn to Write Command Line Utilities in R - part 2</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>In yesterday’s post we took a look at command line utilities in general, some of the reasons why they’re useful, and also made our first bare-bones utility of our own. Today, we’re going to extend our sortinghat.R example, by allowing it to accept ‘arguments’&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learn to Write Command Line Utilities in R</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>Other posts in this series Part 1 - Getting Started - This post Part 2 - Arguments Part 3 - Argument validation Part 4 - Improved sorting Part 5 - Debug logging Part 6 - Improving look and feel Introduction Do you know some R? Have you ever wanted to write your own command line utilities, but didn’t know where to start? Do you like Harry&amp;hellip;</description>
     </item>
     
     <item>
@@ -4351,6 +4549,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/plotting-us-macroeconomic-tren/</guid>
       <description>LET’S TAKE A LOOK AT RECENT U.S. macroeconomic trends by making a couple plots with R code. Since we’re going to be looking at U.S. macroeconomic data, the data we’ll need is available in the St. Louis Federal Reserve Bank Economic Database FRED&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When a Tweet Turns Into an R Package</title>
+      <link>https://data-scribers.mikewk.com/post/when-a-tweet-turns-into-an-r-p/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-a-tweet-turns-into-an-r-p/</guid>
+      <description>Boy, that escalated quickly I just wanted to write up a brief post about the power of R, its community, and tell the story of how actually putting stuff out into the world can have amazing&amp;hellip;</description>
     </item>
     
     <item>
@@ -4477,6 +4684,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/secret-sampling-/</guid>
       <description>’Tis the season for white elephant / גמד וענק / Yankee swap / secret santa-ing! There are various rules for this, for our version: 🏷 each participant receives the name of someone else to purchase a gift for 🎁 gifts are exchanged at a party 🤔 the receiver is tasked with guessing who the gift-giver was! We thought it’d be particularly fun to do it #rstats&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R on RedHat Linux 7</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-on-redhat-linux-7/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-on-redhat-linux-7/</guid>
+      <description>#Pre-requisites Before we begin, it’s a good idea to install some general purpose tools that will help us out once R is installed. The first of these dependencies are a bunch of development tools&amp;hellip;</description>
     </item>
     
     <item>
@@ -4705,6 +4921,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Quick Script to Install an R Package from the Command Line</title>
+      <link>https://data-scribers.mikewk.com/post/quick-script-to-install-an-r-p/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-script-to-install-an-r-p/</guid>
+      <description>I wrote a really quick script to install R packages from the command line that I thought I’d share. It doesn’t really do a great deal, but you can use it to install one package at a time. Save the below as rpkginstall and make sure it’s executable with chmod + x rpkginstall. Then you can install a package like this example, which would install dplyr, &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mortgage rates are low!</title>
       <link>https://data-scribers.mikewk.com/post/mortgage-rates-are-low/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
@@ -4855,6 +5080,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</guid>
       <description>Anyways, given that more waves are available, we don’t have to look at a single comparison between 2007 and 2016, if we want to push Bruenig’s work a little further&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing the new Awesome Blogdown site</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-the-new-awesome-bl/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-the-new-awesome-bl/</guid>
+      <description>Awesome Blogdown Collage by Mara Averick Earlier this year, at RStudio::conf 2017, I heard about Yihui Xie’s Blogdown package for the first time&amp;hellip;</description>
     </item>
     
     <item>
@@ -5893,6 +6127,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Customising Shiny Server HTML Pages</title>
+      <link>https://data-scribers.mikewk.com/post/customising-shiny-server-html-/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/customising-shiny-server-html-/</guid>
+      <description>This post was originally published on the Mango Solutions blog. At Mango we work with a great many clients using the Shiny framework for R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Most Popular Learners in mlr</title>
       <link>https://data-scribers.mikewk.com/post/most-popular-learners-in-mlr/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
@@ -6001,6 +6244,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Production R at ONS</title>
+      <link>https://data-scribers.mikewk.com/post/production-r-at-ons/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/production-r-at-ons/</guid>
+      <description>This post originally appeared on the Mango blog, here - http://www.mango-solutions[... ](https://blog.sellorm.com/2017/02/13/production-r-at-ons/)</description>
+    </item>
+    
+    <item>
       <title>mlr 2.10</title>
       <link>https://data-scribers.mikewk.com/post/mlr-210/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
@@ -6073,6 +6325,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Accessing CRAN from an internet-less LAN</title>
+      <link>https://data-scribers.mikewk.com/post/accessing-cran-from-an-interne/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/accessing-cran-from-an-interne/</guid>
+      <description>If you were in an environment where you have R running on server on a secure LAN with no internet access, you’ll be familiar with the situation outlined in the image above&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Fun with Plotly</title>
       <link>https://data-scribers.mikewk.com/post/fun-with-plotly/</link>
       <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
@@ -6118,12 +6379,39 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Controlling lights from within the RStudio IDE</title>
+      <link>https://data-scribers.mikewk.com/post/controlling-lights-from-within/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/controlling-lights-from-within/</guid>
+      <description>I completely forgot that I made this silly video last year&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Custom JavaScript visualizations in RMarkdown</title>
       <link>https://data-scribers.mikewk.com/post/custom-javascript-visualizatio/</link>
       <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/custom-javascript-visualizatio/</guid>
       <description>I happened to stumble upon the preview release page for RStudio recently and noticed something that made me exorbitantly happy. A preview release of RStudio v1.0&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Now with added Blogdown!</title>
+      <link>https://data-scribers.mikewk.com/post/now-with-added-blogdown/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/now-with-added-blogdown/</guid>
+      <description>I was lucky enough to be at rstudio::conf in Orlando a couple of weeks ago where my friend, Tareef, told me that Yihui Xie, Software Engineer at RStudio, had been working on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStats - Plumber launcher script</title>
+      <link>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</guid>
+      <description>Plumber Launcher Script I use Jeff Allen’s Plumber a lot&amp;hellip;</description>
     </item>
     
     <item>
@@ -6280,6 +6568,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Talk: R *is* Production Safe</title>
+      <link>https://data-scribers.mikewk.com/post/talk-r-is-production-safe/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/talk-r-is-production-safe/</guid>
+      <description>EARL Boston, November 2016 I was really pleased to be asked to speak at EARL Boston again this year. On this occasion I was asked to talk about using R in production and whether it’s really possible/advisable or not&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing Books</title>
       <link>https://data-scribers.mikewk.com/post/introducing-books/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
@@ -6340,6 +6637,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</guid>
       <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>API Fun In R, With Plumber</title>
+      <link>https://data-scribers.mikewk.com/post/api-fun-in-r-with-plumber/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/api-fun-in-r-with-plumber/</guid>
+      <description>Here’s a gif I made of the awesome R API framework, Plumber, in action via pm2. On the left, are the individual endpoints showing CPU and memory usage. In this example we have 5 replica endpoints and a load balancer, the last of the items on the left, round-robining between them. The load balanacer in this case is also under the control of pm2&amp;hellip;</description>
     </item>
     
     <item>
@@ -6514,6 +6820,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Talk: R as a Service</title>
+      <link>https://data-scribers.mikewk.com/post/talk-r-as-a-service/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/talk-r-as-a-service/</guid>
+      <description>R in Insurance, July 2016 I was a last minute stand in for a colleague and had to pull this together really quickly&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Improving R animated GIFs with tweenr</title>
       <link>https://data-scribers.mikewk.com/post/improving-r-animated-gifs-with/</link>
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
@@ -6595,6 +6910,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>The Case For a Data Science Lab</title>
+      <link>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</guid>
+      <description>This post originally appeared on the Mango Solutions blog. TL;DR It’s basically my take on remaining innovative when data science goes corporate&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ggplot your missing data</title>
       <link>https://data-scribers.mikewk.com/post/ggplot-your-missing-data/</link>
       <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
@@ -6610,6 +6934,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/analyzing-texts-with-text2vec-/</guid>
       <description>updated 2016-10-07 - see post with updated tutorial for text2vec 0.4 In the last weeks I have actively worked on text2vec (formerly tmlite) - R package, which provides tools for fast text vectorization and state-of-the art word embeddings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://data-scribers.mikewk.com/post/talk/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/talk/</guid>
+      <description>EARL London, September 2015 Here is the video and slides from my talk on SparkR at this years EARL Conference in London. It’s mainly about how Spark and SparkR may finally be the thing that brings R and Big Data/Hadoop together&amp;hellip;</description>
     </item>
     
     <item>
@@ -6667,6 +7000,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Microsoft acquires Revolution Analytics</title>
+      <link>https://data-scribers.mikewk.com/post/microsoft-acquires-revolution-/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/microsoft-acquires-revolution-/</guid>
+      <description>The following post originally appeared on the Mango Solutions blog though after posting it, it occurred to me that, on the other hand the acquisition could just be a pure cloud play&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Docker and Enabling Analytic Workflows</title>
+      <link>https://data-scribers.mikewk.com/post/docker-and-enabling-analytic-w/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/docker-and-enabling-analytic-w/</guid>
+      <description>This post originally appeared on the Mango Solutions blog It’s been a few months now since I presented on the ways in which Mango are using Docker at EARL 2014 and a lot’s happened since then, so I thought I take this opportunity to post a brief overview of the current state of Docker in the R/Data Science communities&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>#IVMOOC Week 1</title>
       <link>https://data-scribers.mikewk.com/post/ivmooc-week-1/</link>
       <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
@@ -6691,6 +7042,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/rmongodb-180/</guid>
       <description>Today I’m introducing new version of rmongodb (which I started to maintain) – v1.8.0. Install it from github: library(devtools) install_github(&amp;ldquo;mongosoup/rmongodb@v1.8.0&amp;rdquo;) Release version will be uploaded to CRAN shortly. This release brings a lot of improvements to rmongodb: Now rmongodb correctly handles arrays. mongo.bson.to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SQLRelay Cardiff 2014-10-16</title>
+      <link>https://data-scribers.mikewk.com/post/sqlrelay-cardiff-20141016/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sqlrelay-cardiff-20141016/</guid>
+      <description>SQL relay in Cardiff is part of the wider SQL Relay UK family and is essentially a free, touring conference, targeted at DBA’s (especially MS SQL Server) and BI users. Fortunately for me, they also had an “alternative tech” track which suited my interests more closely&amp;hellip;</description>
     </item>
     
     <item>

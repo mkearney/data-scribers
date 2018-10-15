@@ -6,10 +6,19 @@
     <description>Recent content in Rostrumblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rostrumblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R session info info</title>
+      <link>https://data-scribers.mikewk.com/post/r-session-info-info/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-session-info-info/</guid>
+      <description>Matt Dray What’s session info? Session info is just some details about your working environment like your version of R, the locale it’s running from and any loaded packages. It gives a snapshot to help people reproduce what you’ve done or spot any anomalies. You might get asked for this if someone is diagnosing your R problem&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Knitting Club</title>

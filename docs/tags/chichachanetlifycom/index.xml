@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chichachanetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/chichachanetlifycom/</link>
+    <description>Recent content in Chichachanetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/chichachanetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Random Walk of Pi - Another ggplot2 Experiment</title>
+      <link>https://data-scribers.mikewk.com/post/random-walk-of-pi-another-ggpl/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/random-walk-of-pi-another-ggpl/</guid>
+      <description>For random walk to work, I’ve assigned direction to “walk” depending on digits 0-9&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Visual Art with Pi using ggplot2 &amp; circlize</title>
+      <link>https://data-scribers.mikewk.com/post/visual-art-with-pi-using-ggplo/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visual-art-with-pi-using-ggplo/</guid>
+      <description>Now I have first 100000 digits of pi as character, I wanted to put them into data frame where each line would contain only 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Environmental Performance Index - Simple Scatter Plot</title>
+      <link>https://data-scribers.mikewk.com/post/environmental-performance-inde/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/environmental-performance-inde/</guid>
+      <description>Table contained 180 countries with some numerics values for Environment Performance Index, “Enviornmental Health”, “Ecosystem Vitality”. I thought it would be interesting to plot them using ggplot2. So when it comes to ranking in 2018, Top 5 countries are 1. Switzlerland, 2. France, 3. Denmark, 4. Malta, 5. Sweden. Bottom 5 countries for 2018 are , 180. Burundi, 179. Bangladesh, 178. Dem. Rep.Congo, 177. India, 176.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making Calendar with ggplot &#43; Moon Phase Calendar for fun</title>
+      <link>https://data-scribers.mikewk.com/post/making-calendar-with-ggplot-mo/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-calendar-with-ggplot-mo/</guid>
+      <description>To make calendar, I need to strip out weekday, month, day, week number within a month. So I can use weekday as x-axis, week number within a month as y-axis, and facet by month. First I just made simple calendar with below code. This time, I tried using geom_tile function to create tiles. I’ve coloured sell using fraction (illuminated fraction of the moon)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>16 Personalities with Circlize</title>
+      <link>https://data-scribers.mikewk.com/post/16-personalities-with-circlize/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/16-personalities-with-circlize/</guid>
+      <description>There were difinitely some traits that sounded like me, and a lot of statement I can relate for sure. It’s definitely some fun test to do. There was a one part that stated “INFP - compromising just 4% of the population”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Daylight in Vancouver (Canada) vs Tokyo (Japan)</title>
+      <link>https://data-scribers.mikewk.com/post/daylight-in-vancouver-canada-v/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/daylight-in-vancouver-canada-v/</guid>
+      <description>I currently live in British Columbia, Canada. So I live above 49th parallel line&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing Entry with R Rmarkdown File</title>
+      <link>https://data-scribers.mikewk.com/post/testing-entry-with-r-rmarkdown/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-entry-with-r-rmarkdown/</guid>
+      <description>Just figuring out how the blog post works with this random set of coffee data! Pie chart can be created with using polar&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

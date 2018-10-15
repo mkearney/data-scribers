@@ -885,6 +885,15 @@
     </item>
     
     <item>
+      <title>A toy geolocation API in Python</title>
+      <link>https://data-scribers.mikewk.com/post/a-toy-geolocation-api-in-pytho/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-toy-geolocation-api-in-pytho/</guid>
+      <description>I spent some time last night thinking about ways in which I could improve the Awesome Blogdown website&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Road Map for Choosing Between Statistical Modeling and Machine Learning</title>
       <link>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
@@ -1281,6 +1290,15 @@
     </item>
     
     <item>
+      <title>Learn to Write Command Line Utilities in R - part 5</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>Check out the first post in this series for an index of all the other posts. Last time, we changed the way our sorting hat command line utility did its sorting&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Post-selection inference on Friends titles in R</title>
       <link>https://data-scribers.mikewk.com/post/postselection-inference-on-fri/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
@@ -1368,6 +1386,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</guid>
       <description>If you’ve been an information security practitioner for more than a few years, you’ve likely witnessed your share of disappointing purchases, implementations and initiatives&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R on RedHat Linux 7</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-on-redhat-linux-7/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-on-redhat-linux-7/</guid>
+      <description>#Pre-requisites Before we begin, it’s a good idea to install some general purpose tools that will help us out once R is installed. The first of these dependencies are a bunch of development tools&amp;hellip;</description>
     </item>
     
     <item>
@@ -1575,6 +1602,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/a-hidden-process-behind-binary/</guid>
       <description>I was thinking a lot about proportional-odds cumulative logit models last fall while designing a study to evaluate an intervention’s effect on meat consumption&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using Python to build RPM’s of non-python code</title>
+      <link>https://data-scribers.mikewk.com/post/using-python-to-build-rpms-of-/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-python-to-build-rpms-of-/</guid>
+      <description>Anyone that I’ve ever talked to about RPMs knows that I can’t stand the ‘official’ rpmbuild tools. For whatever reason, I’ve just never got on with them. I know loads of people who use them all the time without complaint, but the whole process has always seemed dysfunctional to me&amp;hellip;</description>
     </item>
     
     <item>
@@ -2055,12 +2091,30 @@
     </item>
     
     <item>
+      <title>Profile of me on the Mango blog</title>
+      <link>https://data-scribers.mikewk.com/post/profile-of-me-on-the-mango-blo/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/profile-of-me-on-the-mango-blo/</guid>
+      <description>More of me direct from the Mango blog. This time it’s a short profile, in relation to our recently published Data Science Radar. Data Science Radar - Technologist Profile Mark Sellors from Mango took the Data Science Radar Challenge and his dominant skill was a Technologist, so we asked him a few questions&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>GloVe vs word2vec revisited.</title>
       <link>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/glove-vs-word2vec-revisited/</guid>
       <description>Today I will start to publish series of posts about experiments on english wikipedia. As I said before, text2vec is inspired by gensim - well designed and quite efficient python library for topic modeling and related NLP tasks. Also I found very useful Radim&amp;rsquo;s posts, where he tried to evaluate some algorithms on english wikipedia dump&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Case For a Data Science Lab</title>
+      <link>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-case-for-a-data-science-la/</guid>
+      <description>This post originally appeared on the Mango Solutions blog. TL;DR It’s basically my take on remaining innovative when data science goes corporate&amp;hellip;</description>
     </item>
     
     <item>

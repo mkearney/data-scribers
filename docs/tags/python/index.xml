@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Week 2: Facets and Curves</title>
+      <link>https://data-scribers.mikewk.com/post/week-2-facets-and-curves/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-2-facets-and-curves/</guid>
+      <description>This is the second of a series of posts on how to use ggplot2 to visualise data in R. If you haven’t, take a look at the first post before reading on. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Sorry I&#39;m Late!</title>
       <link>https://data-scribers.mikewk.com/post/sorry-im-late/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>

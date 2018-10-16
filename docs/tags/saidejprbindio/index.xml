@@ -6,10 +6,19 @@
     <description>Recent content in Saidejprbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/saidejprbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aprendizaje Supervisado</title>
+      <link>https://data-scribers.mikewk.com/post/aprendizaje-supervisado/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aprendizaje-supervisado/</guid>
+      <description>Usando los datos de entrenamiento nosotros queremos:&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Fundamentos de Inferencia Estadística</title>

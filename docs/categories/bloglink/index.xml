@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Boston Dynamics&#39; Spot Robot Dances To &#39;Uptown Funk&#39;</title>
+      <link>https://data-scribers.mikewk.com/post/boston-dynamics-spot-robot-dan/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/boston-dynamics-spot-robot-dan/</guid>
+      <description>Because not perceiving a threat as a threat is how they&amp;rsquo;re gonna get us, this is a video of Boston Dynamics&amp;rsquo; Spot quadruped robot dancing to Bruno Mars&amp;rsquo; &amp;lsquo;Uptown Funk&amp;rsquo;. Now I&amp;rsquo;m not sure what that move it&amp;rsquo;s performing in the gif is called besides inappropriate&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Brand new Palm、コレじゃないけどコレもよさそう</title>
       <link>https://data-scribers.mikewk.com/post/brand-new-palm%E3%82%B3%E3%83%AC%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E3%82%B3%E3%83%AC%E3%82%82%E3%82%88%E3%81%95%E3%81%9D%E3%81%86/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
@@ -120,12 +129,30 @@
     </item>
     
     <item>
+      <title>RStudio 1.2 Preview: Stan</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</guid>
+      <description>Stan® is a state-of-the-art platform for statistical modeling and high-performance statistical computation&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Spinning up a Wallaroo cluster is easy</title>
       <link>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</guid>
       <description>Oh no, more data! Last month, we took a long-running pandas classifier and made it run faster by leveraging Wallaroo&amp;rsquo;s parallelization capabilities. This time around, we&amp;rsquo;d like to kick it up a notch and see if we can keep scaling out to meet higher demand&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Cost of Constructors</title>
+      <link>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</guid>
+      <description>So, err, I wanted to compare the performance of linked lists versus R vectors on a case where the former is expected to perform better than the second: building a sequence one element at a&amp;hellip;</description>
     </item>
     
     <item>

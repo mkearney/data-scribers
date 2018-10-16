@@ -6,10 +6,19 @@
     <description>Recent content in Mailundgithubiorprogrammerblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cost of Constructors</title>
+      <link>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</guid>
+      <description>So, err, I wanted to compare the performance of linked lists versus R vectors on a case where the former is expected to perform better than the second: building a sequence one element at a&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Thunks and Trampolines</title>

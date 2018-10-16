@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>RStudio 1.2 Preview: Stan</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</guid>
+      <description>Stan® is a state-of-the-art platform for statistical modeling and high-performance statistical computation&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ggplotのリストの表示を高速化する</title>
       <link>https://data-scribers.mikewk.com/post/ggplot%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>

@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>RStudio 1.2 Preview: Stan</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview-stan/</guid>
+      <description>Stan® is a state-of-the-art platform for statistical modeling and high-performance statistical computation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Cost of Constructors</title>
+      <link>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</guid>
+      <description>So, err, I wanted to compare the performance of linked lists versus R vectors on a case where the former is expected to perform better than the second: building a sequence one element at a&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Week 2: Facets and Curves</title>
       <link>https://data-scribers.mikewk.com/post/week-2-facets-and-curves/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>

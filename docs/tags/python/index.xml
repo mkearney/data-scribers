@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spinning up a Wallaroo cluster is easy</title>
+      <link>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</guid>
+      <description>Oh no, more data! Last month, we took a long-running pandas classifier and made it run faster by leveraging Wallaroo&amp;rsquo;s parallelization capabilities. This time around, we&amp;rsquo;d like to kick it up a notch and see if we can keep scaling out to meet higher demand&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Sorry I&#39;m Late!</title>

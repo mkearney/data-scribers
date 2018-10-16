@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjaminackermancom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/benjaminackermancom/</link>
+    <description>Recent content in Benjaminackermancom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/benjaminackermancom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tidy Tuesday Week 29</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-week-29/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-week-29/</guid>
+      <description>For my Tidy Tuesday submission, I will be using the following packages: Note that the fields of study with lighter colors depict categories of majors where more students find jobs that require college degrees&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying and Visualizing TV Ratings Data in R</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-and-visualizing-tv-rat/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-and-visualizing-tv-rat/</guid>
+      <description>Bless you, rebus 🙏🏻&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/game-developer-developing-snet/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/mit%E3%81%8C%E5%90%B8%E5%BC%95%E5%8A%9B%E3%81%A7%E8%82%8C%E3%81%AE%E4%B8%8A%E3%82%92%E6%AD%A9%E3%81%8F%E5%8C%BB%E7%99%82%E7%94%A8%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88skinbot/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -88,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/serendipity-at-r-medicine/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -99,6 +109,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/tidy-tuesday-week-29/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -6843,6 +6858,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tidying-and-visualizing-tv-rat/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/using-r-to-create-google-maps/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
@@ -12782,6 +12802,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/bayesianbabesnetlifycom/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/benjaminackermancom/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

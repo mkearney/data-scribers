@@ -111,6 +111,15 @@
     </item>
     
     <item>
+      <title>Game Developer Developing Snetris, A Snake &#43; Tetris Mashup</title>
+      <link>https://data-scribers.mikewk.com/post/game-developer-developing-snet/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/game-developer-developing-snet/</guid>
+      <description>This is a short video of Snetris, a Snake and Tetris mashup currently being developed by Portuguese crowdfunded minigame creator nyunesa&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MITが吸引力で肌の上を歩く医療用検査ロボット「SkinBot」を開発</title>
       <link>https://data-scribers.mikewk.com/post/mit%E3%81%8C%E5%90%B8%E5%BC%95%E5%8A%9B%E3%81%A7%E8%82%8C%E3%81%AE%E4%B8%8A%E3%82%92%E6%AD%A9%E3%81%8F%E5%8C%BB%E7%99%82%E7%94%A8%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88skinbot/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
@@ -165,6 +174,15 @@
     </item>
     
     <item>
+      <title>Serendipity at R / Medicine</title>
+      <link>https://data-scribers.mikewk.com/post/serendipity-at-r-medicine/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serendipity-at-r-medicine/</guid>
+      <description>There could not be a more exciting era in medicine. Medicine is emerging as an information science and the clinician&amp;rsquo;s role is changing to be a guide or interpretor, not a shaman&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Spinning up a Wallaroo cluster is easy</title>
       <link>https://data-scribers.mikewk.com/post/spinning-up-a-wallaroo-cluster/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
@@ -189,6 +207,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/the-cost-of-constructors/</guid>
       <description>So, err, I wanted to compare the performance of linked lists versus R vectors on a case where the former is expected to perform better than the second: building a sequence one element at a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday Week 29</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-week-29/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-week-29/</guid>
+      <description>For my Tidy Tuesday submission, I will be using the following packages: Note that the fields of study with lighter colors depict categories of majors where more students find jobs that require college degrees&amp;hellip;</description>
     </item>
     
     <item>
@@ -12324,6 +12351,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/proposals-diamonds-xgboost-lim/</guid>
       <description>I recently got engaged! While picking out the stone for the ring I played around with the diamonds dataset from ggplot2. The analysis was around what are the main contributors to diamond pricing. (The analysis was also an excuse to play around with the lime package for the first time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidying and Visualizing TV Ratings Data in R</title>
+      <link>https://data-scribers.mikewk.com/post/tidying-and-visualizing-tv-rat/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidying-and-visualizing-tv-rat/</guid>
+      <description>Bless you, rebus 🙏🏻&amp;hellip;</description>
     </item>
     
     <item>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diegohalabigithubio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/diegohalabigithubio/</link>
+    <description>Recent content in Diegohalabigithubio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/diegohalabigithubio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick plots with ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/quick-plots-with-ggplot2/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-plots-with-ggplot2/</guid>
+      <description>Few days ago, I had to quickly create 2 plots to ask some questions in a PhD quiz&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(Spanish) Análisis de variables numéricas</title>
+      <link>https://data-scribers.mikewk.com/post/spanish-an%C3%A1lisis-de-variables-/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spanish-an%C3%A1lisis-de-variables-/</guid>
+      <description>Una de las situaciones más comunes en investigación de ciencias médicas, es medir una variable numérica que se separa entre 2 o más grupos&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A simple algorithm to analize numerical variables</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-algorithm-to-analize-/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-algorithm-to-analize-/</guid>
+      <description>I created this simple algorithm to perform basic analysis of numerical&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

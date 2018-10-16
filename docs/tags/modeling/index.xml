@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ggplotのリストの表示を高速化する</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>大きなデータを用いたggplotのリストや，大量のggplotのリストを高速に描写するための関数 print_gglist を作りました． devtools::install_github(&amp;#39;atusy/ggAtusy&amp;#39;) で遊べます． はじめに&amp;hellip;</description>
+    </item>
     
     <item>
       <title>10月30〜31日に、Appleのイベントが開催される？</title>

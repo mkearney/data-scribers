@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Finally, A Super Mario Boo Ghost Beanbag Chair</title>
+      <link>https://data-scribers.mikewk.com/post/finally-a-super-mario-boo-ghos/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finally-a-super-mario-boo-ghos/</guid>
+      <description>This is the officially licensed Super Mario Bros Boo beanbag chair available from ThinkGeek and Gamestop. It costs around $140 (plus shipping or pickup from a Gamestop) and measures approximately 38&amp;rdquo; wide x 28&amp;rdquo; tall x 38&amp;rdquo; deep&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MITが吸引力で肌の上を歩く医療用検査ロボット「SkinBot」を開発</title>
       <link>https://data-scribers.mikewk.com/post/mit%E3%81%8C%E5%90%B8%E5%BC%95%E5%8A%9B%E3%81%A7%E8%82%8C%E3%81%AE%E4%B8%8A%E3%82%92%E6%AD%A9%E3%81%8F%E5%8C%BB%E7%99%82%E7%94%A8%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88skinbot/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
@@ -99,6 +108,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/photoshop-workflows-and-shortc/</guid>
       <description>Adobe Photoshop plays a role in almost every digital creator’s life. Photoshop is what many digital artists, photographers, graphic designers, and even some web developers have in common. The tool is so flexible that often you can achieve the same results in several different ways&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick plots with ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/quick-plots-with-ggplot2/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-plots-with-ggplot2/</guid>
+      <description>Few days ago, I had to quickly create 2 plots to ask some questions in a PhD quiz&amp;hellip;</description>
     </item>
     
     <item>
@@ -126,6 +144,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/week-2-facets-and-curves/</guid>
       <description>This is the second of a series of posts on how to use ggplot2 to visualise data in R. If you haven’t, take a look at the first post before reading on. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ggplotのリストの表示を高速化する</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>大きなデータを用いたggplotのリストや，大量のggplotのリストを高速に描写するための関数 print_gglist を作りました． devtools::install_github(&amp;#39;atusy/ggAtusy&amp;#39;) で遊べます． はじめに&amp;hellip;</description>
     </item>
     
     <item>
@@ -855,6 +882,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/a-million-bright-ambassadors-o/</guid>
       <description>During my hiatus from this blog, I saw an announcement on Twitter by Bruna Wundervald regarding the chorrrds package1 which lets you easily retrieve music chords to popular songs from the Brazilian site, CifraClub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Antergos導入</title>
+      <link>https://data-scribers.mikewk.com/post/antergos%E5%B0%8E%E5%85%A5/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/antergos%E5%B0%8E%E5%85%A5/</guid>
+      <description>自宅用PCにAntergosを導入しました．&amp;hellip;</description>
     </item>
     
     <item>
@@ -2208,6 +2244,15 @@
     </item>
     
     <item>
+      <title>(Spanish) Análisis de variables numéricas</title>
+      <link>https://data-scribers.mikewk.com/post/spanish-an%C3%A1lisis-de-variables-/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/spanish-an%C3%A1lisis-de-variables-/</guid>
+      <description>Una de las situaciones más comunes en investigación de ciencias médicas, es medir una variable numérica que se separa entre 2 o más grupos&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Finding errors in R</title>
       <link>https://data-scribers.mikewk.com/post/finding-errors-in-r/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
@@ -2304,6 +2349,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/%E9%9D%A2%E5%80%92%E3%81%AA%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B33%E5%9B%9E%E5%88%86%E3%82%92%E3%81%9F%E3%81%A3%E3%81%9F1%E5%8F%B0%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BCi/</guid>
       <description>Image:machi-yaライフハッカー［日本版］より転載：オフィスやジムでもヘルシーな食生活をキープしたい。そんな思いから、プロテインを継続的に摂取している人は多いのではないでしょうか？ご存知の通り、プロテイン摂取はタイミングが重要です。とはいえ、シェイクしてすぐに飲まないといけない飲み物だからこそ、正しいタイミングで摂取するのがめんどくさい飲み物と言えるでしょう。1本のプロテインシェイカーに&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A simple algorithm to analize numerical variables</title>
+      <link>https://data-scribers.mikewk.com/post/a-simple-algorithm-to-analize-/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-simple-algorithm-to-analize-/</guid>
+      <description>I created this simple algorithm to perform basic analysis of numerical&amp;hellip;</description>
     </item>
     
     <item>
@@ -5062,6 +5116,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>roxygen2タグまとめ</title>
+      <link>https://data-scribers.mikewk.com/post/roxygen2%E3%82%BF%E3%82%B0%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/roxygen2%E3%82%BF%E3%82%B0%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <description>Roxygen2のタグについての情報が複数箇所に分散していて調べるのが大変なのでまとめた。 超訳 + 超要約 しているので、おかしなところがあれば&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Analysing my university&#39;s publications</title>
       <link>https://data-scribers.mikewk.com/post/analysing-my-universitys-publi/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
@@ -5203,6 +5266,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/record-linkage/</guid>
       <description>I recently encountered a problem that had a surprisingly elegant solution. I struggled a lot with solving this issue, so hopefully in writing this post I can save someone else the trouble! For reasons that are irrelevant, I wanted to track the performance of youth fencers across time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>欠損値の発生過程の類別</title>
+      <link>https://data-scribers.mikewk.com/post/%E6%AC%A0%E6%90%8D%E5%80%A4%E3%81%AE%E7%99%BA%E7%94%9F%E9%81%8E%E7%A8%8B%E3%81%AE%E9%A1%9E%E5%88%A5/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E6%AC%A0%E6%90%8D%E5%80%A4%E3%81%AE%E7%99%BA%E7%94%9F%E9%81%8E%E7%A8%8B%E3%81%AE%E9%A1%9E%E5%88%A5/</guid>
+      <description>先日、欠損値の発生過程の例を図示してTweetしたところ、思ったより反響がよかったので、図をブラシュアップの上、記事に残すことにした。&amp;hellip;</description>
     </item>
     
     <item>
@@ -5422,12 +5494,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Rmdでchunkごとの実行時間を計測</title>
+      <link>https://data-scribers.mikewk.com/post/rmd%E3%81%A7chunk%E3%81%94%E3%81%A8%E3%81%AE%E5%AE%9F%E8%A1%8C%E6%99%82%E9%96%93%E3%82%92%E8%A8%88%E6%B8%AC/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmd%E3%81%A7chunk%E3%81%94%E3%81%A8%E3%81%AE%E5%AE%9F%E8%A1%8C%E6%99%82%E9%96%93%E3%82%92%E8%A8%88%E6%B8%AC/</guid>
+      <description>Jupyter Notebookでは、コードブロック冒頭で %%timeit と唱えると、ブロックの評価に要した時間を表示できる。 https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling[... ](https://atusy.github.io/blog/2018/08/18/time-each-chunk/)</description>
+    </item>
+    
+    <item>
       <title>Reanimating the Datasaurus</title>
       <link>https://data-scribers.mikewk.com/post/reanimating-the-datasaurus/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/reanimating-the-datasaurus/</guid>
       <description>Whilst browsing twitter last night I came upon this tweet by the currrent author of gganimate: I&amp;rsquo;ve started a gganimate wiki page in order to collect&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>パラメータ付きRmdを試す</title>
+      <link>https://data-scribers.mikewk.com/post/%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E4%BB%98%E3%81%8Drmd%E3%82%92%E8%A9%A6%E3%81%99/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E4%BB%98%E3%81%8Drmd%E3%82%92%E8%A9%A6%E3%81%99/</guid>
+      <description>パラメータ付きRmdが便利そうだと思ったのでメモと実験 パラメータ付きRmdとは YAMLヘッダーの params で作成される変数のリストを用いたRmd&amp;hellip;</description>
     </item>
     
     <item>
@@ -6295,6 +6385,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>R3.5系ではファイル同期ソフトでパッケージを同期しないように</title>
+      <link>https://data-scribers.mikewk.com/post/r35%E7%B3%BB%E3%81%A7%E3%81%AF%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%82%BD%E3%83%95%E3%83%88%E3%81%A7%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%90%8C%E6%9C%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r35%E7%B3%BB%E3%81%A7%E3%81%AF%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%82%BD%E3%83%95%E3%83%88%E3%81%A7%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%90%8C%E6%9C%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB/</guid>
+      <description>タイトル通り、R3&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Text Mining</title>
       <link>https://data-scribers.mikewk.com/post/text-mining/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
@@ -6373,6 +6472,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/text-mining-fedspeak/</guid>
       <description>Textmining is an exciting topic. There is tremendous potential to gain insights from textual analysis. See for example Gentzko, Kelly and Taddy’s Text as Data. While text mining may be quite advanced in other fields, in finance and economics the application of these techniques is still in its infancy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>blogdownでMathJax</title>
+      <link>https://data-scribers.mikewk.com/post/blogdown%E3%81%A7mathjax/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/blogdown%E3%81%A7mathjax/</guid>
+      <description>MathJaxとは？ MathJaxを利用すると、$\TeX$ 記法を用いて数式を表現できる。 ブロックにするには $$\latex$$ と入力すると $$ \LaTeX $$ となる。&amp;hellip;</description>
     </item>
     
     <item>
@@ -7204,6 +7312,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>xetexでunicode文字</title>
+      <link>https://data-scribers.mikewk.com/post/xetex%E3%81%A7unicode%E6%96%87%E5%AD%97/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/xetex%E3%81%A7unicode%E6%96%87%E5%AD%97/</guid>
+      <description>$\LaTeX{}$ で μ や α など特殊文字を直打ちすると、 □になってしまうことがしばしば。 XeTeXを使っている場合は、 \setmainfont{IPAMincho}&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>My Thoughts On Bitcoin</title>
       <link>https://data-scribers.mikewk.com/post/my-thoughts-on-bitcoin/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
@@ -7318,6 +7435,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/exploring-ways-to-address-gaps/</guid>
       <description>I was aware at all times that I had only islands of knowledge separated by darkness; that I was surrounded by chasms of not-knowing, into one of which I was certain to fall. One of the best ways to start feeling less intimidated is to start talking to others. Ullman continues, I learned I was not alone&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>GitHub pages with Rmarkdown</title>
+      <link>https://data-scribers.mikewk.com/post/github-pages-with-rmarkdown/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/github-pages-with-rmarkdown/</guid>
+      <description>遅蒔きながら、Rのblogdownパッケージを使ってblogを始めてみた。&amp;hellip;</description>
     </item>
     
     <item>

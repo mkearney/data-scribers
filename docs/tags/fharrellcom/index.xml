@@ -6,10 +6,19 @@
     <description>Recent content in Fharrellcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/fharrellcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statistically Efficient Ways to Quantify Added Predictive Value of New Measurements</title>
+      <link>https://data-scribers.mikewk.com/post/statistically-efficient-ways-t/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/statistically-efficient-ways-t/</guid>
+      <description>A recurring topic in clinical and translational research is the assessment of new information provided by molecular, physiologic, imaging, and other&amp;hellip;</description>
+    </item>
     
     <item>
       <title>In Machine Learning Predictions for Health Care the Confusion Matrix is a Matrix of Confusion</title>

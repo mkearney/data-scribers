@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>ALTREP and C&#43;&#43;</title>
+      <link>https://data-scribers.mikewk.com/post/altrep-and-c/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/altrep-and-c/</guid>
+      <description>Traditionally, R vectors (numeric, …) are formed of one header ditrectly followed by the actual contiguous data&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R in Prod</title>
       <link>https://data-scribers.mikewk.com/post/r-in-prod/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
@@ -3255,6 +3264,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>gofast</title>
+      <link>https://data-scribers.mikewk.com/post/gofast/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gofast/</guid>
+      <description>I’ve used it to make a simple function that gives the names of the functions in a Go file: So following the pattern I’ve used in my previous go adventures, here is another Go function that sits between the real pure go code we’ve seen before, and the R things&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I’m (not) looking for a job</title>
+      <link>https://data-scribers.mikewk.com/post/im-not-looking-for-a-job/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-not-looking-for-a-job/</guid>
+      <description>I was a bright kid, and everybody in the family was surprised when I picked up reading on my own (that’s at least the story I’ve heard many times). After some tests I skipped two classes and things still were easy. I’m not writing this to brag, quite the opposite&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>pmatch 0.1.3</title>
       <link>https://data-scribers.mikewk.com/post/pmatch-013/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
@@ -3525,6 +3552,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>arrow, rrrow, rcher, spurrrow</title>
+      <link>https://data-scribers.mikewk.com/post/arrow-rrrow-rcher-spurrrow/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arrow-rrrow-rcher-spurrrow/</guid>
+      <description>Here I am again at the conundrum of choosing a name for a thing. This is hard, I like when it’s over and I have the perfect name, and I feel finally free to try to match the personnality of code to the name&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Variable bindings with pattern matching</title>
       <link>https://data-scribers.mikewk.com/post/variable-bindings-with-pattern/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
@@ -3576,6 +3612,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/something-different/</guid>
       <description>title: ‘Something Different: Automated Neighborhood Traffic Monitoring’ author: David McGaughey date: ‘2018-03-03’ slug: traffic-monitoring-intro categories: - R - python - raspberry - pi tags: - R - python - raspberry - pi — This is, obviously, a personal project. Traffic is a concern in my town&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>multiple lags with tidy evaluation</title>
+      <link>https://data-scribers.mikewk.com/post/multiple-lags-with-tidy-evalua/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multiple-lags-with-tidy-evalua/</guid>
+      <description>Let’s break it down in steps. The function takes 3 parameters: but with hopefully with nicer (or at least shorter) syntax: As this is often the case, I immediately posted this on twitter&amp;hellip;</description>
     </item>
     
     <item>

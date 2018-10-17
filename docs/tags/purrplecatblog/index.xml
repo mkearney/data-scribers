@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purrplecatblog on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/purrplecatblog/</link>
+    <description>Recent content in Purrplecatblog on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/purrplecatblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ALTREP and C&#43;&#43;</title>
+      <link>https://data-scribers.mikewk.com/post/altrep-and-c/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/altrep-and-c/</guid>
+      <description>Traditionally, R vectors (numeric, …) are formed of one header ditrectly followed by the actual contiguous data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>gofast</title>
+      <link>https://data-scribers.mikewk.com/post/gofast/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gofast/</guid>
+      <description>I’ve used it to make a simple function that gives the names of the functions in a Go file: So following the pattern I’ve used in my previous go adventures, here is another Go function that sits between the real pure go code we’ve seen before, and the R things&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I’m (not) looking for a job</title>
+      <link>https://data-scribers.mikewk.com/post/im-not-looking-for-a-job/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-not-looking-for-a-job/</guid>
+      <description>I was a bright kid, and everybody in the family was surprised when I picked up reading on my own (that’s at least the story I’ve heard many times). After some tests I skipped two classes and things still were easy. I’m not writing this to brag, quite the opposite&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quick and dirty branchmark</title>
+      <link>https://data-scribers.mikewk.com/post/quick-and-dirty-branchmark/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-and-dirty-branchmark/</guid>
+      <description>That’s what happens on my 💻, a pretty decent macbook pro late 2017 equipped with an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The not so obvious value of build passing</title>
+      <link>https://data-scribers.mikewk.com/post/the-not-so-obvious-value-of-bu/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-not-so-obvious-value-of-bu/</guid>
+      <description>The real problem however is that because you know it was broken already, you just don’t pay attention so you don’t have a way to quickly assert if you have just added a new 🐞, and then you live in fear&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Anagrams</title>
+      <link>https://data-scribers.mikewk.com/post/anagrams/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/anagrams/</guid>
+      <description>Next we allocate some data structures. Then, the results vector, where we will collect the anagrams. I just hope however that walking through the code is useful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>arrow, rrrow, rcher, spurrrow</title>
+      <link>https://data-scribers.mikewk.com/post/arrow-rrrow-rcher-spurrrow/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/arrow-rrrow-rcher-spurrrow/</guid>
+      <description>Here I am again at the conundrum of choosing a name for a thing. This is hard, I like when it’s over and I have the perfect name, and I feel finally free to try to match the personnality of code to the name&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>first dplyr mondays</title>
+      <link>https://data-scribers.mikewk.com/post/first-dplyr-mondays/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-dplyr-mondays/</guid>
+      <description>Four issues (and then some comments to other issues) feels minimal, but this includes getting back on track with the codebase and setup a more formal way of contributing, i.e. through pull requests, reviews, and systematic testing. Today is another day, so I’ll work on another project&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Strings know their own length</title>
+      <link>https://data-scribers.mikewk.com/post/strings-know-their-own-length/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/strings-know-their-own-length/</guid>
+      <description>A simple way to get that information in C would be a loop (it’s ok to write loops in C)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>multiple lags with tidy evaluation</title>
+      <link>https://data-scribers.mikewk.com/post/multiple-lags-with-tidy-evalua/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multiple-lags-with-tidy-evalua/</guid>
+      <description>Let’s break it down in steps. The function takes 3 parameters: but with hopefully with nicer (or at least shorter) syntax: As this is often the case, I immediately posted this on twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>emoji domain names with the puny package</title>
+      <link>https://data-scribers.mikewk.com/post/emoji-domain-names-with-the-pu/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/emoji-domain-names-with-the-pu/</guid>
+      <description>Typical sunday night, lost in several inception layers of I don’t know how I got here, what I am doing here and what I was looking for in the first place&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Unicode, utf-8, strings and emojis</title>
+      <link>https://data-scribers.mikewk.com/post/unicode-utf8-strings-and-emoji/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unicode-utf8-strings-and-emoji/</guid>
+      <description>So as of now, unicode has 82719 runes, that’s way more than the 256 that can fit into a single byte (8 bits), however we still want to be able to process text from back in the days when strings were in fact arrays of single bytes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A fortune slack slash command using plumber</title>
+      <link>https://data-scribers.mikewk.com/post/a-fortune-slack-slash-command-/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-fortune-slack-slash-command-/</guid>
+      <description>Here is the canonical example: So that we can support a variety of use&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Emojis at #useR2017</title>
+      <link>https://data-scribers.mikewk.com/post/emojis-at-user2017/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/emojis-at-user2017/</guid>
+      <description>I am first there, but that&amp;rsquo;s not fair because at some point while developping the app I tweeted the list of all the emojis then used so far&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -508,6 +508,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/altrep-and-c/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/r-in-prod/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
   </url>
@@ -6108,7 +6113,22 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/gofast/</loc>
+    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/how-we-test-the-stateful-autos/</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/im-not-looking-for-a-job/</loc>
+    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/quick-and-dirty-branchmark/</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -6268,6 +6288,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/the-not-so-obvious-value-of-bu/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/forecasting-game/</loc>
     <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -6305,6 +6330,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/textmate-setup-mac-only/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/anagrams/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -6393,6 +6423,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/arrow-rrrow-rcher-spurrrow/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/blogdown-insert-image-addin/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -6438,12 +6473,22 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/first-dplyr-mondays/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/another-approach-to-evaluating/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/forecasting-and-deciding-binar/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/strings-know-their-own-length/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -6533,6 +6578,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/multiple-lags-with-tidy-evalua/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/tailr-tail-recursion-optimisat/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
@@ -6614,6 +6664,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/query-stack-overflow-for-top-5/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/emoji-domain-names-with-the-pu/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -9523,6 +9578,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/unicode-utf8-strings-and-emoji/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/kubernetes-17-with-tim-hockin/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -9545,6 +9605,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/data-paintings-the-kandinsky-p/</loc>
     <lastmod>2017-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/a-fortune-slack-slash-command-/</loc>
+    <lastmod>2017-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -9745,6 +9810,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/user2017-digressions/</loc>
     <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/emojis-at-user2017/</loc>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13581,6 +13651,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/purrplecatblog/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcing RStudio Package Manager</title>
+      <link>https://data-scribers.mikewk.com/post/announcing-rstudio-package-man/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing-rstudio-package-man/</guid>
+      <description>With more than 13,000 packages in the R ecosystem, managing the packages you and your teams need can be challenging. R users naturally want the latest, but everyone benefits from reproducibility, stability, and security in production code&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio 1.2 Preview: Stan</title>

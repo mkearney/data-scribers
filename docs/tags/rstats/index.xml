@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Announcing RStudio Package Manager</title>
+      <link>https://data-scribers.mikewk.com/post/announcing-rstudio-package-man/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing-rstudio-package-man/</guid>
+      <description>With more than 13,000 packages in the R ecosystem, managing the packages you and your teams need can be challenging. R users naturally want the latest, but everyone benefits from reproducibility, stability, and security in production code&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Quick plots with ggplot2</title>
       <link>https://data-scribers.mikewk.com/post/quick-plots-with-ggplot2/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>

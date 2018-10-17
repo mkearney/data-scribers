@@ -6,10 +6,19 @@
     <description>Recent content in Gcppodcastcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/gcppodcastcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Java &amp; Jib with Patrick Flynn and Mike Eltsufin</title>
+      <link>https://data-scribers.mikewk.com/post/java-jib-with-patrick-flynn-an/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/java-jib-with-patrick-flynn-an/</guid>
+      <description>What if we have an object in Google Cloud Storage, and I want to automatically change an aspect of it - such&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Deep Learning Research in Africa with Yabebal Fantaye &amp; Jessica Phalafala</title>

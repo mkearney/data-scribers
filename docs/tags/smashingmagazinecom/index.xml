@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reasons Your Mobile App Retention Rate Might Be So Low</title>
+      <link>https://data-scribers.mikewk.com/post/reasons-your-mobile-app-retent/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reasons-your-mobile-app-retent/</guid>
+      <description>In business, there’s a lot of talk about generating customer loyalty and retaining the business of good customers. Mobile apps aren’t all that different when you think about it&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Live Accessibility And Performance Audits At SmashingConf Toronto</title>

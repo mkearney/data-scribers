@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>shinytest - Automated testing for Shiny apps</title>
+      <link>https://data-scribers.mikewk.com/post/shinytest-automated-testing-fo/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/shinytest-automated-testing-fo/</guid>
+      <description>Record Shiny tests with ease. Run and troubleshoot Shiny tests. This is the general procedure for recording tests: To record a test from RStudio v1.2, when an application file (app.R, server.R, ui.R, or global.R) is open in the editor, a button labeled Run App will show at the top of the editor pane&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Announcing RStudio Package Manager</title>
       <link>https://data-scribers.mikewk.com/post/announcing-rstudio-package-man/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>

@@ -6,10 +6,19 @@
     <description>Recent content in Yutanirbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/yutanirbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quote While the Promise Is Hot!</title>
+      <link>https://data-scribers.mikewk.com/post/quote-while-the-promise-is-hot/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quote-while-the-promise-is-hot/</guid>
+      <description>A forced promise can no longer be captured correctly because it no longer carries an&amp;hellip;</description>
+    </item>
     
     <item>
       <title>geom_sf_text() and geom_sf_label() Are Coming!</title>

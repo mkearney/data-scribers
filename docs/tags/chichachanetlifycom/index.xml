@@ -6,10 +6,19 @@
     <description>Recent content in Chichachanetlifycom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/chichachanetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cannibus Curve with ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/cannibus-curve-with-ggplot2/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/cannibus-curve-with-ggplot2/</guid>
+      <description>Here’s the step I took, because I couldn’t really understand the mathmatical equation, so I’ve break it down step by step to sort of understand what each part of equation is doing&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Random Walk of Pi - Another ggplot2 Experiment</title>

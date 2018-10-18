@@ -6,10 +6,19 @@
     <description>Recent content in Mailundgithubiorprogrammerblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cost of Pattern Matching</title>
+      <link>https://data-scribers.mikewk.com/post/the-cost-of-pattern-matching/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-cost-of-pattern-matching/</guid>
+      <description>Following up on my previous post, where I figured out to improve the speed of constructors, I will have a look at pattern matching in this post&amp;hellip;</description>
+    </item>
     
     <item>
       <title>The Cost of Constructors</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Martakolczynskacom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/martakolczynskacom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Political participation patterns in Poland</title>
+      <link>https://data-scribers.mikewk.com/post/political-participation-patter/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/political-participation-patter/</guid>
+      <description>Political participation in Poland Latent class analysis Three types of participants: the Disengaged, Activists, and Protesters Region maps I recently came across Jennifer Oser’s 2017 article in Social Indicators Research about “political tool kits”, i.e&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Personal vs. household income in cross-national surveys</title>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliapilowskycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/juliapilowskycom/</link>
+    <description>Recent content in Juliapilowskycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/juliapilowskycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Practical Guide to Mixed Models in R</title>
+      <link>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</guid>
+      <description>I created this guide so that students can learn about important statistical concepts while remaining firmly grounded in the programming required to use statistical tests on real data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating a scientific manuscript in LaTeX</title>
+      <link>https://data-scribers.mikewk.com/post/creating-a-scientific-manuscri/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-a-scientific-manuscri/</guid>
+      <description>I also had to add captions and labels to my figures so I could refer to them in the text with their labels instead of their numbers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My current research, for laypeople</title>
+      <link>https://data-scribers.mikewk.com/post/my-current-research-for-laypeo/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-current-research-for-laypeo/</guid>
+      <description>I have struggled a lot to explain my current line of research to people in my life who aren&amp;rsquo;t scientists. But if I can&amp;rsquo;t explain my research to everyone, then I can&amp;rsquo;t claim to really know what I&amp;rsquo;m doing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m going to Denmark! Here&#39;s why.</title>
+      <link>https://data-scribers.mikewk.com/post/im-going-to-denmark-heres-why/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-going-to-denmark-heres-why/</guid>
+      <description>With my Master&amp;rsquo;s degree in hand, I&amp;rsquo;m happy to say that I will be starting a year-long fellowship with the European Doctoral School of Demography (EDSD) in September, at the Max Planck Center for Biodemography in&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

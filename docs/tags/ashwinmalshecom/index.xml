@@ -6,10 +6,28 @@
     <description>Recent content in Ashwinmalshecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ashwinmalshecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning Posts - Digest 02</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</guid>
+      <description>This week’s&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>San Antonio Home Sales</title>
+      <link>https://data-scribers.mikewk.com/post/san-antonio-home-sales/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/san-antonio-home-sales/</guid>
+      <description>The map below shows the year-on-year (YoY) percentage change in the total number of houses on sale in different zip codes in San&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Machine Learning Posts - Digest 01</title>

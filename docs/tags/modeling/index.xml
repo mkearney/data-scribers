@@ -6,10 +6,28 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Possibility of heteroskedasticity is a good reason not to dichotomize a continuous variable for use as outcome in logistic regression.</title>
+      <link>https://data-scribers.mikewk.com/post/possibility-of-heteroskedastic/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/possibility-of-heteroskedastic/</guid>
+      <description>Continuing on whether it&amp;rsquo;s a good idea to dichotomize continuous variables prior to analysis for substantive reasons, I think I settle on the side of bad idea. The major reason is potential heteroskedasticity of the error term in the linear regression model for the original continuous variable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Mixed Models in R</title>
+      <link>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</guid>
+      <description>I created this guide so that students can learn about important statistical concepts while remaining firmly grounded in the programming required to use statistical tests on real data&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Announcing RStudio Package Manager</title>
@@ -90,6 +108,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/things-i-googled-this-week/</guid>
       <description>How would we learn R if not for google? Here are some things I googled this week (and mostly not for the first time). Occasionally though, I see something cool and new on Twitter and need to install from github. Everytime I forget that you need to use devtools. Sometimes data in a .csv file is hosted on github and it is faster to just read it from there than to download the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t pay to meditate</title>
+      <link>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</guid>
+      <description>The other day, my Twitter feed informed me Penn Jillette just clocked in 1000 consecutive days of meditation using the Headspace app. Now he’s considering checking out Sam Harris’s new Waking Up meditation app. Sam left a congratulatory comment on Penn’s tweet. I have no problem with the Headspace and Waking Up apps. They have many fine features&amp;hellip;</description>
     </item>
     
     <item>

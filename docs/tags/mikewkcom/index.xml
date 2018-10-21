@@ -6,10 +6,28 @@
     <description>Recent content in Mikewkcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mikewkcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Installing R and Studio</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-and-studio/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-and-studio/</guid>
+      <description>Rstudio is an integrated development environment (IDE) that makes it easy to use R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My R-bloggers post</title>
+      <link>https://data-scribers.mikewk.com/post/my-rbloggers-post/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-rbloggers-post/</guid>
+      <description>And here’s the explanation of what R-bloggers offers to bloggers: So, in addition to qualifying as my R-bloggers link, the goal of this post is to create via automation a content-aggregating R-bloggers-like&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Calling out R-bloggers in my R-bloggers post</title>

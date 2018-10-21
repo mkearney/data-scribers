@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogmjayfirebaseappcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/blogmjayfirebaseappcom/</link>
+    <description>Recent content in Blogmjayfirebaseappcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogmjayfirebaseappcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Serving Keras models in golang</title>
+      <link>https://data-scribers.mikewk.com/post/serving-keras-models-in-golang/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serving-keras-models-in-golang/</guid>
+      <description>KERAS in golang Keras Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Design Pattern Tricks for PySpark</title>
+      <link>https://data-scribers.mikewk.com/post/design-pattern-tricks-for-pysp/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/design-pattern-tricks-for-pysp/</guid>
+      <description>Hi there! Apache Spark has been written in Scala originally, although Python developers are loving it&amp;rsquo;s wrapper-known as PySpark. One can work with RDD&amp;rsquo;s and dataframes in Python too. We,data science team @Talentica, love PySpark and mostly rely on Spark Clusters for data processing and other relevant stuffs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AWS IOT Project with ESP8266</title>
+      <link>https://data-scribers.mikewk.com/post/aws-iot-project-with-esp8266/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aws-iot-project-with-esp8266/</guid>
+      <description>Hello there! Today I have completed a POC using ESP8266 as a slave as well as client model which will interface between hardware to provide IOT support. I wish to make this project compatible with AWS so that anyone can deploy their models to S3 and it can serve as a micro service via EC2. I am looking for some research enthusiast people who can work with me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Text Clustering at scale</title>
+      <link>https://data-scribers.mikewk.com/post/text-clustering-at-scale/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text-clustering-at-scale/</guid>
+      <description>Hello there! Today we will explore the overview of databricks © clusters and how to run the model using community account. Prerequisite Basic understanding of programming in Python or Scala. Knowledge or experience in Java, SQL, PySpark can be beneficial but is not essential&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Fingerprinting with Text Data</title>
+      <link>https://data-scribers.mikewk.com/post/data-fingerprinting-with-text-/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-fingerprinting-with-text-/</guid>
+      <description>Query : What would be the correct methodology to detect whether a statement or a word means a &amp;ldquo;yes&amp;rdquo; or a &amp;ldquo;no&amp;rdquo; using NLP? Answer : I can’t tell the precise solution. Since it is the main essence of my research[1],nonetheless I can provide you some heads up&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Learning NLP</title>
+      <link>https://data-scribers.mikewk.com/post/learning-nlp/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learning-nlp/</guid>
+      <description>Query : How do one learn natural language processing from scratch? Answer : Learn in a classical way: 1. Introduction to information retrieval (Manning ) 2&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Handling Large text data in production</title>
+      <link>https://data-scribers.mikewk.com/post/handling-large-text-data-in-pr/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/handling-large-text-data-in-pr/</guid>
+      <description>Question: I have a 5GB a single JSON file which consists of million of queries (questions) with its answers. Can anyone please tell me, 1) How to handle such kind of large datasets? 2) Objective is to find out the top 5 similar query along with the answers which is similar to the provided a new test query&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

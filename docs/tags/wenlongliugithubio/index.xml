@@ -6,10 +6,19 @@
     <description>Recent content in Wenlongliugithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/wenlongliugithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantification of storm hysteresis effects in C-Q relationship</title>
+      <link>https://data-scribers.mikewk.com/post/quantification-of-storm-hyster/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quantification-of-storm-hyster/</guid>
+      <description>The need to quantify hysteresis&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Generate animated tracking maps for hurricanes and typhoons</title>

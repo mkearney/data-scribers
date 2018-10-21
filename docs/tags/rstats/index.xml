@@ -21,6 +21,51 @@
     </item>
     
     <item>
+      <title>A Practical Guide to Mixed Models in R</title>
+      <link>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</guid>
+      <description>I created this guide so that students can learn about important statistical concepts while remaining firmly grounded in the programming required to use statistical tests on real data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing R and Studio</title>
+      <link>https://data-scribers.mikewk.com/post/installing-r-and-studio/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-r-and-studio/</guid>
+      <description>Rstudio is an integrated development environment (IDE) that makes it easy to use R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rmd Files will No Longer be Rendered as Markdown on Github</title>
+      <link>https://data-scribers.mikewk.com/post/rmd-files-will-no-longer-be-re/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmd-files-will-no-longer-be-re/</guid>
+      <description>The question is whether the disadvantages outweigh the advantage, and obviously I do think so. There are two drawbacks of rendering Rmd as Markdown on Github. There have been people who struggled with trying to show other people the verbatim source Rmd file&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Kuinka analysoin useaa excel-taulukkoa kerralla R</title>
+      <link>https://data-scribers.mikewk.com/post/kuinka-analysoin-useaa-excelta/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kuinka-analysoin-useaa-excelta/</guid>
+      <description>Analysoin alkukuusta Liikenneviraston henkilöliikennetutkimuksen tulostaulukoista kulkutapoja kaupunki–maaseutu-alueittain. Tutkimuksessa on tehty lisäotoksia niistä maksaneille kaupunkiseuduille, kaupungille (Salo) ja maakunnalle (Päijät-Häme)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My R-bloggers post</title>
+      <link>https://data-scribers.mikewk.com/post/my-rbloggers-post/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-rbloggers-post/</guid>
+      <description>And here’s the explanation of what R-bloggers offers to bloggers: So, in addition to qualifying as my R-bloggers link, the goal of this post is to create via automation a content-aggregating R-bloggers-like&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>shinytest - Automated testing for Shiny apps</title>
       <link>https://data-scribers.mikewk.com/post/shinytest-automated-testing-fo/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
@@ -120,6 +165,15 @@
     </item>
     
     <item>
+      <title>how to use the `here` package</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-use-the-here-package/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-use-the-here-package/</guid>
+      <description>I’m still working on getting my head around where R thinks we work and how to tell it where my stuff lives (aka working directories)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>From Messy to Tidy</title>
       <link>https://data-scribers.mikewk.com/post/from-messy-to-tidy/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
@@ -180,6 +234,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/engroupify/</guid>
       <description>I needed to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data. I couldn’t find anything online on how to do this, so I came with a solution&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automate the opening of Excel files in R</title>
+      <link>https://data-scribers.mikewk.com/post/automate-the-opening-of-excel-/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automate-the-opening-of-excel-/</guid>
+      <description>Creating dummy datasets Importing files After a long period without an article, I decided to explain how I automate the opening and reading of .xlsx, .csv or other files in R. If you have other methods or remarks, do not hesitate to contact me&amp;hellip;</description>
     </item>
     
     <item>
@@ -378,6 +441,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/pluckrose-et-al-hoax-papers/</guid>
       <description>Loading in some packages. Some quick webscraping to get the details on the papers created by Pluckrose et al. Let’s take a look the papers and journals, sorted by journal rank&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>bookdown, My Process</title>
+      <link>https://data-scribers.mikewk.com/post/bookdown-my-process/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bookdown-my-process/</guid>
+      <description>If you’re a novice, it’ll take you a few days, weeks, or months to get a firm grasp of R. Not so with R Markdown files. You’ll have the basics of those down in an afternoon. That said, I had been an R Notebook user for more than a year before trying my hand at bookdown&amp;hellip;</description>
     </item>
     
     <item>
@@ -1000,6 +1072,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/changes-to-cran-ubuntu-webpage/</guid>
       <description>One of the keys is mine, uid “Michael Rutter”. The other key, even though the date suggests otherwise, appears to be new. The uid is “Totally Legit Signing Key”. I am fairly certain that this key was placed there to demonstrate that using the short key ID is flawed, as it is easy to create a key using brute force that matches my key&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating a scientific manuscript in LaTeX</title>
+      <link>https://data-scribers.mikewk.com/post/creating-a-scientific-manuscri/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-a-scientific-manuscri/</guid>
+      <description>I also had to add captions and labels to my figures so I could refer to them in the text with their labels instead of their numbers&amp;hellip;</description>
     </item>
     
     <item>
@@ -2362,6 +2443,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Principal Component Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/principal-component-analysis/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/principal-component-analysis/</guid>
+      <description>PCA Number of factor retained by psycho::n_factors() Extraction of the variables With article about correlations, we saw data from airquality were correlated. Sometimes it is need to use Principal Component Analysis (PCA) to determine non correlated variables in order to analyze data&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Eat near the Big Ben?  That will cost you...</title>
       <link>https://data-scribers.mikewk.com/post/eat-near-the-big-ben-that-will/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
@@ -3063,6 +3153,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/rate-cloud/</guid>
       <description>TIME FOR A FUN NEW MORTGAGE RATE CHART. This one: We’ll use R to plot a new visualization of mortgage rates. Let’s make it. Data As we did with our majestic mortgage rate plot post we’ll plot mortgage rates using the Freddie Mac Primary Mortgage Market Survey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Start with the data</title>
+      <link>https://data-scribers.mikewk.com/post/start-with-the-data/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/start-with-the-data/</guid>
+      <description>The distribution of each variable The multi-test of correlations After verifying that there is no one missprint in the data and before starting the true statistical analysis, I check the distribution of data and relationships between factors. For this blog article, I use data of air quality available in R&amp;hellip;</description>
     </item>
     
     <item>
@@ -4170,6 +4269,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/nodbi/</guid>
       <description>You can imagine how it is relatively straight-forward to create a common interace to row-column oriented databases, and DBI is great for that. Thus far, we&amp;rsquo;ve built nodbi around data.frame&amp;rsquo;s. That is, we&amp;rsquo;re focusing on the data.frame use case as it&amp;rsquo;s very common that R users are dealing solely with data.frame&amp;rsquo;s in their analysis pipelines&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://data-scribers.mikewk.com/post/first-post/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-post/</guid>
+      <description>It is not easy to start, the first step is the hardest… I created this site to explain statistical analyses and used of R that I already did. It is also intended to evolve with my future works&amp;hellip;</description>
     </item>
     
     <item>

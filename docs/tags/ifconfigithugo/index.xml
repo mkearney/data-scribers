@@ -6,10 +6,19 @@
     <description>Recent content in Ifconfigithugo on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ifconfigithugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>War stories - Network changes tools</title>
+      <link>https://data-scribers.mikewk.com/post/war-stories-network-changes-to/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/war-stories-network-changes-to/</guid>
+      <description>Every time I manage a change to a customer network I have a chance to taste the many shades of possible IT Operations maturity levels. I collected some best practices over the years about how to reduce risk and speed-up the change and testing process. I&amp;rsquo;ll share some in this post&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Network topology validation with CDP and Python</title>

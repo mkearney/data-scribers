@@ -6,10 +6,19 @@
     <description>Recent content in Jamesuanhorocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/jamesuanhorocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Possibility of heteroskedasticity is a good reason not to dichotomize a continuous variable for use as outcome in logistic regression.</title>
+      <link>https://data-scribers.mikewk.com/post/possibility-of-heteroskedastic/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/possibility-of-heteroskedastic/</guid>
+      <description>Continuing on whether it&amp;rsquo;s a good idea to dichotomize continuous variables prior to analysis for substantive reasons, I think I settle on the side of bad idea. The major reason is potential heteroskedasticity of the error term in the linear regression model for the original continuous variable&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Should you perform logistic regression on a dichotomized continuous variable when you have access to the continuous variable? I&#39;m not sure.</title>

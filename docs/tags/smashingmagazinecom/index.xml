@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monthly Web Development Update 10/2018</title>
+      <link>https://data-scribers.mikewk.com/post/monthly-web-development-update/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/monthly-web-development-update/</guid>
+      <description>With the latest studies and official reports out this week, it seems that to avoid an irreversible climate change on Planet Earth, we need to act drastically within the next ten years. This rose a couple of doubts and assumptions that I find worth writing about&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Reasons Your Mobile App Retention Rate Might Be So Low</title>

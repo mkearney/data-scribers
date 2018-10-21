@@ -6,10 +6,19 @@
     <description>Recent content in Mailundgithubiorprogrammerblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mailundgithubiorprogrammerblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>More Linked List Performance</title>
+      <link>https://data-scribers.mikewk.com/post/more-linked-list-performance/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/more-linked-list-performance/</guid>
+      <description>I&amp;rsquo;m still working on improving the speed of my pattern matching DSL&amp;hellip;</description>
+    </item>
     
     <item>
       <title>The Cost of Pattern Matching</title>

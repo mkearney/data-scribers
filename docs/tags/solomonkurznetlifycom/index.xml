@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solomonkurznetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/solomonkurznetlifycom/</link>
+    <description>Recent content in Solomonkurznetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/solomonkurznetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t pay to meditate</title>
+      <link>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</guid>
+      <description>The other day, my Twitter feed informed me Penn Jillette just clocked in 1000 consecutive days of meditation using the Headspace app. Now he’s considering checking out Sam Harris’s new Waking Up meditation app. Sam left a congratulatory comment on Penn’s tweet. I have no problem with the Headspace and Waking Up apps. They have many fine features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>bookdown, My Process</title>
+      <link>https://data-scribers.mikewk.com/post/bookdown-my-process/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bookdown-my-process/</guid>
+      <description>If you’re a novice, it’ll take you a few days, weeks, or months to get a firm grasp of R. Not so with R Markdown files. You’ll have the basics of those down in an afternoon. That said, I had been an R Notebook user for more than a year before trying my hand at bookdown&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

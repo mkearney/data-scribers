@@ -6,10 +6,19 @@
     <description>Recent content in Haapakorvafi on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/haapakorvafi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kuinka analysoin useaa excel-taulukkoa kerralla R</title>
+      <link>https://data-scribers.mikewk.com/post/kuinka-analysoin-useaa-excelta/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/kuinka-analysoin-useaa-excelta/</guid>
+      <description>Analysoin alkukuusta Liikenneviraston henkilöliikennetutkimuksen tulostaulukoista kulkutapoja kaupunki–maaseutu-alueittain. Tutkimuksessa on tehty lisäotoksia niistä maksaneille kaupunkiseuduille, kaupungille (Salo) ja maakunnalle (Päijät-Häme)&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Oulun kaupunkialueella joka neljäs matka tehdään polkupyörällä</title>

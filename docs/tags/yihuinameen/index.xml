@@ -6,10 +6,19 @@
     <description>Recent content in Yihuinameen on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/yihuinameen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rmd Files will No Longer be Rendered as Markdown on Github</title>
+      <link>https://data-scribers.mikewk.com/post/rmd-files-will-no-longer-be-re/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmd-files-will-no-longer-be-re/</guid>
+      <description>The question is whether the disadvantages outweigh the advantage, and obviously I do think so. There are two drawbacks of rendering Rmd as Markdown on Github. There have been people who struggled with trying to show other people the verbatim source Rmd file&amp;hellip;</description>
+    </item>
     
     <item>
       <title>A Follow-Up Post on My Early Career Crisis Post (Finally)</title>

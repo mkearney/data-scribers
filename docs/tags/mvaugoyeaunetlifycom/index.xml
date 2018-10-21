@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mvaugoyeaunetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/mvaugoyeaunetlifycom/</link>
+    <description>Recent content in Mvaugoyeaunetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/mvaugoyeaunetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automate the opening of Excel files in R</title>
+      <link>https://data-scribers.mikewk.com/post/automate-the-opening-of-excel-/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automate-the-opening-of-excel-/</guid>
+      <description>Creating dummy datasets Importing files After a long period without an article, I decided to explain how I automate the opening and reading of .xlsx, .csv or other files in R. If you have other methods or remarks, do not hesitate to contact me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/principal-component-analysis/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/principal-component-analysis/</guid>
+      <description>PCA Number of factor retained by psycho::n_factors() Extraction of the variables With article about correlations, we saw data from airquality were correlated. Sometimes it is need to use Principal Component Analysis (PCA) to determine non correlated variables in order to analyze data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The design of my logo</title>
+      <link>https://data-scribers.mikewk.com/post/the-design-of-my-logo/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-design-of-my-logo/</guid>
+      <description>The logo originally The method of traveling salsedperson My logo Today, I explain how I design my logo for the blog from the one drawn by Sébastien Rochette for my thesis and the method of traveling salesperson by Antonio S. Chinchón&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Start with the data</title>
+      <link>https://data-scribers.mikewk.com/post/start-with-the-data/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/start-with-the-data/</guid>
+      <description>The distribution of each variable The multi-test of correlations After verifying that there is no one missprint in the data and before starting the true statistical analysis, I check the distribution of data and relationships between factors. For this blog article, I use data of air quality available in R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How I check the data</title>
+      <link>https://data-scribers.mikewk.com/post/how-i-check-the-data/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-i-check-the-data/</guid>
+      <description>There are outliers? First step: Outliers and Boxplot Second step: Outliers, means and standard error Verify the repeatability of the data Actually I analyse data from a thesis which measure urbanisation’s influence on physicochemical characteristics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://data-scribers.mikewk.com/post/first-post/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/first-post/</guid>
+      <description>It is not easy to start, the first step is the hardest… I created this site to explain statistical analyses and used of R that I already did. It is also intended to evolve with my future works&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wirtelbe on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/wirtelbe/</link>
+    <description>Recent content in Wirtelbe on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/wirtelbe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>October - Week 40</title>
+      <link>https://data-scribers.mikewk.com/post/october-week-40/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/october-week-40/</guid>
+      <description>My Contributions to CPython Voilà, since the October 4th, I am contributing to CPython, and for one time, I am really happy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Challenge for 2018</title>
+      <link>https://data-scribers.mikewk.com/post/challenge-for-2018/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/challenge-for-2018/</guid>
+      <description>About I think I am just frustrated because I don&amp;rsquo;t have time to share my experience or just continue to contribute to several open source projects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Je présente à PyCon France 2017</title>
+      <link>https://data-scribers.mikewk.com/post/je-pr%C3%A9sente-%C3%A0-pycon-france-201/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/je-pr%C3%A9sente-%C3%A0-pycon-france-201/</guid>
+      <description>PyCon France 2017 PyCon France is the annual Python Conference in France for the French Community, and this year, the conference will be in Toulouse, a town in the south of France, from 21st to 24th&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2018</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2018/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2018/</guid>
+      <description>Because I want to be in advance this year for the organization of the PythonFOSDEM 2018, I have worked on the web site. The Call for Proposals will be announced once we have the &amp;ldquo;Go&amp;rdquo; from FOSDEM. So, the site is already prepared, and now, I will wait for the notification from FOSDEM for the next devroom. I hope the answer will be positive&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Award At Pycon US 2017</title>
+      <link>https://data-scribers.mikewk.com/post/award-at-pycon-us-2017/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/award-at-pycon-us-2017/</guid>
+      <description>Introduction In June 2016, I have received an email from the Board of the Python Software Foundation, where they informed me I have received a Community Service Award. Seriously, I was glad to receive this award. I don&amp;rsquo;t know how to describe this moment. After that, the PSF has written a blog post about me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2017 - Call for Volunteers</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-vol/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-vol/</guid>
+      <description>Introduction The Python Community will be represented during FOSDEM 2017 with the Python Devrooms. This year, we will have two devrooms, the first one for 150 people on Saturday and the second one for 450 people on Sunday, it&amp;rsquo;s really cool because we had accepted 24 talks instead of 16&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2017 - Schedule</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-schedule/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-schedule/</guid>
+      <description>Introduction The Python Community will be represented during FOSDEM 2017 with the Python Devrooms. This year, we will have two devrooms, the first one for 150 people on Saturday and the second one for 450 people on Sunday, it&amp;rsquo;s really cool because we had accepted 24 talks instead of 16&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python Events in 2017, Need your help!</title>
+      <link>https://data-scribers.mikewk.com/post/python-events-in-2017-need-you/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python-events-in-2017-need-you/</guid>
+      <description>Events in 2017 Hello, for the PythonFOSDEM [1] on 4th and 5th February in Belgium, I would like to present some slides with the Python events around the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2017 - Call for Proposals</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</guid>
+      <description>Introduction The Python Community has a devroom during the FOSDEM in Brussels in Belgium. The event will take place during the first week-end of February 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Move to Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/move-to-hugo/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/move-to-hugo/</guid>
+      <description>Introduction Since 2 years, I used Pelican, a very good project developed by a team of good developers. You have a lot of plugins, everything works fine but, and yes, there is a &amp;ldquo;but&amp;rdquo;. In fact, when you want to update your blog, and try to use the last version of Pelican, you can have some errors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Help PythonFOSDEM 2016 with your proposals</title>
+      <link>https://data-scribers.mikewk.com/post/help-pythonfosdem-2016-with-yo/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/help-pythonfosdem-2016-with-yo/</guid>
+      <description>Introduction The Python Community has a devroom during the FOSDEM in Brussels in Belgium. The event will take place during the last week-end of January 2016. With the success of the previous PythonFOSDEM, this year we received a bigger room of 363 seats&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Connect to Odoo in your application with ERPpeek</title>
+      <link>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</guid>
+      <description>In this post, we will use the new name, Odoo instead of OpenERP but the content and the examples are compatible with OpenERP 5.0, 6.0, 6.1 and 7.0 and of course with Odoo v8.0. There is no need to be worried, I will try to be compatible with the new version&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Enfin Papa!</title>
+      <link>https://data-scribers.mikewk.com/post/enfin-papa/</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/enfin-papa/</guid>
+      <description>Margaux 1.0 Après neuf mois de développement, de roadmap, de milestones, nous sommes enfin parvenus à une version 1.0 de Margaux ;-) Ma compagne et moi-même avons donc le grand plaisir de vous informer que notre superbe petite fille Margaux est née le 21 janvier 2011 à 3h26 pesant 3,270kg et mesurant 51cm&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

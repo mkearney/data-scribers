@@ -6,10 +6,19 @@
     <description>Recent content in Jenrichmondrbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/jenrichmondrbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>how to use the `here` package</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-use-the-here-package/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-use-the-here-package/</guid>
+      <description>I’m still working on getting my head around where R thinks we work and how to tell it where my stuff lives (aka working directories)&amp;hellip;</description>
+    </item>
     
     <item>
       <title>things i googled this week</title>

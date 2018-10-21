@@ -6,10 +6,19 @@
     <description>Recent content in Purrplecatblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/purrplecatblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lazy absolute values function with ALTREP and C&#43;&#43;</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-absolute-values-function-/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-absolute-values-function-/</guid>
+      <description>Before we look at the details of the materialization of the object, let’s review the various ALTREP methods. The number of elements is simply the number of elements of the input: The critical part is the implementation of the materialization&amp;hellip;</description>
+    </item>
     
     <item>
       <title>ALTREP and C&#43;&#43;</title>

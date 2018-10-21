@@ -6,10 +6,28 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serving Keras models in golang</title>
+      <link>https://data-scribers.mikewk.com/post/serving-keras-models-in-golang/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serving-keras-models-in-golang/</guid>
+      <description>KERAS in golang Keras Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>October - Week 40</title>
+      <link>https://data-scribers.mikewk.com/post/october-week-40/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/october-week-40/</guid>
+      <description>My Contributions to CPython Voilà, since the October 4th, I am contributing to CPython, and for one time, I am really happy&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Quick plots with ggplot2</title>
@@ -99,6 +117,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/week-1-a-first-plot/</guid>
       <description>This is the first of a series of posts on how to use ggplot2 to visualise data in R. We begin by loading the tidyverse package which contains ggplot2 as well as a host of other useful packages. If you haven’t yet, you first need to install the tidyverse package by running install.packages(&amp;ldquo;tidyverse&amp;rdquo;)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t pay to meditate</title>
+      <link>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dont-pay-to-meditate/</guid>
+      <description>The other day, my Twitter feed informed me Penn Jillette just clocked in 1000 consecutive days of meditation using the Headspace app. Now he’s considering checking out Sam Harris’s new Waking Up meditation app. Sam left a congratulatory comment on Penn’s tweet. I have no problem with the Headspace and Waking Up apps. They have many fine features&amp;hellip;</description>
     </item>
     
     <item>
@@ -462,6 +489,15 @@
     </item>
     
     <item>
+      <title>Design Pattern Tricks for PySpark</title>
+      <link>https://data-scribers.mikewk.com/post/design-pattern-tricks-for-pysp/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/design-pattern-tricks-for-pysp/</guid>
+      <description>Hi there! Apache Spark has been written in Scala originally, although Python developers are loving it&amp;rsquo;s wrapper-known as PySpark. One can work with RDD&amp;rsquo;s and dataframes in Python too. We,data science team @Talentica, love PySpark and mostly rely on Spark Clusters for data processing and other relevant stuffs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>icon: web icons for rmarkdown</title>
       <link>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
@@ -489,6 +525,15 @@
     </item>
     
     <item>
+      <title>AWS IOT Project with ESP8266</title>
+      <link>https://data-scribers.mikewk.com/post/aws-iot-project-with-esp8266/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aws-iot-project-with-esp8266/</guid>
+      <description>Hello there! Today I have completed a POC using ESP8266 as a slave as well as client model which will interface between hardware to provide IOT support. I wish to make this project compatible with AWS so that anyone can deploy their models to S3 and it can serve as a micro service via EC2. I am looking for some research enthusiast people who can work with me&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Arrow and beyond</title>
       <link>https://data-scribers.mikewk.com/post/arrow-and-beyond/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -513,6 +558,24 @@
       
       <guid>https://data-scribers.mikewk.com/post/stan-basics/</guid>
       <description>I attended a great short course on bayesian workflow using Stan at the New England Statistics Symposium yesterday. If you don’t know, Stan is “a state-of-the-art platform for statistical modeling and high-performance statistical computation”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Text Clustering at scale</title>
+      <link>https://data-scribers.mikewk.com/post/text-clustering-at-scale/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/text-clustering-at-scale/</guid>
+      <description>Hello there! Today we will explore the overview of databricks © clusters and how to run the model using community account. Prerequisite Basic understanding of programming in Python or Scala. Knowledge or experience in Java, SQL, PySpark can be beneficial but is not essential&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Start with the data</title>
+      <link>https://data-scribers.mikewk.com/post/start-with-the-data/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/start-with-the-data/</guid>
+      <description>The distribution of each variable The multi-test of correlations After verifying that there is no one missprint in the data and before starting the true statistical analysis, I check the distribution of data and relationships between factors. For this blog article, I use data of air quality available in R&amp;hellip;</description>
     </item>
     
     <item>
@@ -576,6 +639,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</guid>
       <description>Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Challenge for 2018</title>
+      <link>https://data-scribers.mikewk.com/post/challenge-for-2018/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/challenge-for-2018/</guid>
+      <description>About I think I am just frustrated because I don&amp;rsquo;t have time to share my experience or just continue to contribute to several open source projects&amp;hellip;</description>
     </item>
     
     <item>
@@ -849,12 +921,30 @@
     </item>
     
     <item>
+      <title>Je présente à PyCon France 2017</title>
+      <link>https://data-scribers.mikewk.com/post/je-pr%C3%A9sente-%C3%A0-pycon-france-201/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/je-pr%C3%A9sente-%C3%A0-pycon-france-201/</guid>
+      <description>PyCon France 2017 PyCon France is the annual Python Conference in France for the French Community, and this year, the conference will be in Toulouse, a town in the south of France, from 21st to 24th&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>First post !</title>
       <link>https://data-scribers.mikewk.com/post/first-post-/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/first-post-/</guid>
       <description>First of all, welcome to this site ! As the about says, this blog purpose is to talking about OpenGIS, Python, R, data nalysis and stuff like that. I will be probably publishing learning notebooks as i do them to improve my knowledge. When possible, I&amp;rsquo;ll publish original stuff, depends on current affairs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2018</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2018/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2018/</guid>
+      <description>Because I want to be in advance this year for the organization of the PythonFOSDEM 2018, I have worked on the web site. The Call for Proposals will be announced once we have the &amp;ldquo;Go&amp;rdquo; from FOSDEM. So, the site is already prepared, and now, I will wait for the notification from FOSDEM for the next devroom. I hope the answer will be positive&amp;hellip;</description>
     </item>
     
     <item>
@@ -984,6 +1074,15 @@
     </item>
     
     <item>
+      <title>Award At Pycon US 2017</title>
+      <link>https://data-scribers.mikewk.com/post/award-at-pycon-us-2017/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/award-at-pycon-us-2017/</guid>
+      <description>Introduction In June 2016, I have received an email from the Board of the Python Software Foundation, where they informed me I have received a Community Service Award. Seriously, I was glad to receive this award. I don&amp;rsquo;t know how to describe this moment. After that, the PSF has written a blog post about me&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio in Docker</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-in-docker/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
@@ -1065,12 +1164,39 @@
     </item>
     
     <item>
+      <title>PythonFOSDEM 2017 - Call for Volunteers</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-vol/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-vol/</guid>
+      <description>Introduction The Python Community will be represented during FOSDEM 2017 with the Python Devrooms. This year, we will have two devrooms, the first one for 150 people on Saturday and the second one for 450 people on Sunday, it&amp;rsquo;s really cool because we had accepted 24 talks instead of 16&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PythonFOSDEM 2017 - Schedule</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-schedule/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-schedule/</guid>
+      <description>Introduction The Python Community will be represented during FOSDEM 2017 with the Python Devrooms. This year, we will have two devrooms, the first one for 150 people on Saturday and the second one for 450 people on Sunday, it&amp;rsquo;s really cool because we had accepted 24 talks instead of 16&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStats - Plumber launcher script</title>
       <link>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</link>
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/rstats-plumber-launcher-script/</guid>
       <description>Plumber Launcher Script I use Jeff Allen’s Plumber a lot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Python Events in 2017, Need your help!</title>
+      <link>https://data-scribers.mikewk.com/post/python-events-in-2017-need-you/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/python-events-in-2017-need-you/</guid>
+      <description>Events in 2017 Hello, for the PythonFOSDEM [1] on 4th and 5th February in Belgium, I would like to present some slides with the Python events around the&amp;hellip;</description>
     </item>
     
     <item>
@@ -1119,6 +1245,15 @@
     </item>
     
     <item>
+      <title>PythonFOSDEM 2017 - Call for Proposals</title>
+      <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</guid>
+      <description>Introduction The Python Community has a devroom during the FOSDEM in Brussels in Belgium. The event will take place during the first week-end of February 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Demo service with Servant</title>
       <link>https://data-scribers.mikewk.com/post/demo-service-with-servant/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
@@ -1161,6 +1296,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/text2vec-glove-implementation-/</guid>
       <description>Before reading this post, I very recommend to read: Orignal GloVe paper Jon Gauthier&amp;rsquo;s post, which provides detailed explanation of python implementation. This post helps me a lot with C++ implementation. Word embeddings After Tomas Mikolov et al&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Help PythonFOSDEM 2016 with your proposals</title>
+      <link>https://data-scribers.mikewk.com/post/help-pythonfosdem-2016-with-yo/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/help-pythonfosdem-2016-with-yo/</guid>
+      <description>Introduction The Python Community has a devroom during the FOSDEM in Brussels in Belgium. The event will take place during the last week-end of January 2016. With the success of the previous PythonFOSDEM, this year we received a bigger room of 363 seats&amp;hellip;</description>
     </item>
     
     <item>
@@ -1224,6 +1368,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/data-science-oxford/</guid>
       <description>On Monday night, I went over to the Data Science meet up in Oxford. Even though the parking ticket machines in Oxford don’t accept ‘new’ 5 or 10 pence pieces, despite both having been in circulation for over 20 years, it was a good night. Talks were on plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Connect to Odoo in your application with ERPpeek</title>
+      <link>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</guid>
+      <description>In this post, we will use the new name, Odoo instead of OpenERP but the content and the examples are compatible with OpenERP 5.0, 6.0, 6.1 and 7.0 and of course with Odoo v8.0. There is no need to be worried, I will try to be compatible with the new version&amp;hellip;</description>
     </item>
     
     <item>

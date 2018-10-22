@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Temperature of European rivers and future climate in 50 lines of R code</title>
+      <link>https://data-scribers.mikewk.com/post/temperature-of-european-rivers/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/temperature-of-european-rivers/</guid>
+      <description>Now the question: what is going to happen in the next decades? How much the global warming affect the temperature of those rivers? To answer this question you need three things: Ok, we are ready to go. Let&amp;rsquo;s start loading the package we needs into our R environment&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Practical Guide to Mixed Models in R</title>
       <link>https://data-scribers.mikewk.com/post/a-practical-guide-to-mixed-mod/</link>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>

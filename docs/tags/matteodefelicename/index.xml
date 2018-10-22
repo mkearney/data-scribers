@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteodefelicename on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/matteodefelicename/</link>
+    <description>Recent content in Matteodefelicename on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/matteodefelicename/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Temperature of European rivers and future climate in 50 lines of R code</title>
+      <link>https://data-scribers.mikewk.com/post/temperature-of-european-rivers/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/temperature-of-european-rivers/</guid>
+      <description>Now the question: what is going to happen in the next decades? How much the global warming affect the temperature of those rivers? To answer this question you need three things: Ok, we are ready to go. Let&amp;rsquo;s start loading the package we needs into our R environment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Copernicus toolbox and the role of software in climate services</title>
+      <link>https://data-scribers.mikewk.com/post/the-copernicus-toolbox-and-the/</link>
+      <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-copernicus-toolbox-and-the/</guid>
+      <description>The best thing of the C3S is that they are trying to foster the creation of a ecosystem of data services and — not surprisingly — software (design, development, architecture) plays a critical role here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Consecutive days of good weather in the Netherlands</title>
+      <link>https://data-scribers.mikewk.com/post/consecutive-days-of-good-weath/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/consecutive-days-of-good-weath/</guid>
+      <description>I have recently moved in North Holland and in the past weeks the weather was particularly fortunate: for many (consecutive) days there was no rain and the temperature have been very high for this area (the maximum temperature was easily above 25° degrees)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

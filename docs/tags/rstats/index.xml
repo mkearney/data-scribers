@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Colors</title>
+      <link>https://data-scribers.mikewk.com/post/colors/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/colors/</guid>
+      <description>There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Searching for R Packages</title>
       <link>https://data-scribers.mikewk.com/post/searching-for-r-packages/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -63,6 +72,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/rmd-files-will-no-longer-be-re/</guid>
       <description>The question is whether the disadvantages outweigh the advantage, and obviously I do think so. There are two drawbacks of rendering Rmd as Markdown on Github. There have been people who struggled with trying to show other people the verbatim source Rmd file&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using external load to estimate HR responses.</title>
+      <link>https://data-scribers.mikewk.com/post/using-external-load-to-estimat/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-external-load-to-estimat/</guid>
+      <description>Now, let’s see how to do it in R. As always, we start by importing our database into R. We are now proceeding to some data cleaning. Now, we have done the more complicated part of the problem&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Mathlacomerbindio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/mathlacomerbindio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using external load to estimate HR responses.</title>
+      <link>https://data-scribers.mikewk.com/post/using-external-load-to-estimat/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-external-load-to-estimat/</guid>
+      <description>Now, let’s see how to do it in R. As always, we start by importing our database into R. We are now proceeding to some data cleaning. Now, we have done the more complicated part of the problem&amp;hellip;</description>
+    </item>
     
     <item>
       <title>How to compare one performance with previous ones</title>

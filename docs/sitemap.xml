@@ -5763,6 +5763,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/an-introduction-to-the-kmeans-/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -5789,6 +5794,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/announcing-cran2deb4ubuntu35/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</loc>
     <lastmod>2018-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -5933,6 +5943,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/setting-up-a-kubernetes-cluste/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-dark-art-of-aws-vpc-networ/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -6003,6 +6018,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/i-was-on-a-machine-learning-fo/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/ken-ventures-into-community-ec/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -6060,6 +6080,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/icon-web-icons-for-rmarkdown/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/autoencoders-with-keras/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -6503,6 +6528,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/visualizing-networks/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -6839,6 +6869,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/exploring-the-underlying-theor/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/feature-selection-with-a-sciki/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -8705,6 +8740,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/r4ds-january-challenge/</loc>
     <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/bye-bye-jekyll-hello-hugo/</loc>
+    <lastmod>2017-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12183,6 +12223,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/serverless-api-around-google-c/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/what-we-spend/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
   </url>
@@ -12853,6 +12898,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/installing-tensorflow-on-an-aw/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/oed-tools-conzolez/</loc>
     <lastmod>2016-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -13168,6 +13218,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/configuring-ipython-notebook-s/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/microsoft-acquires-revolution-/</loc>
     <lastmod>2015-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -13185,6 +13240,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/docker-and-enabling-analytic-w/</loc>
     <lastmod>2015-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/installing-python-data-science/</loc>
+    <lastmod>2015-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13438,8 +13498,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/mlb-rankings-using-the-bradley/</loc>
+    <lastmod>2013-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/huawei-certified-datacom-profe/</loc>
     <lastmod>2013-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/a-brief-look-at-mixture-discri/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13523,6 +13593,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</loc>
+    <lastmod>2012-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/l2-qos-lab-with-dscp-mutation-/</loc>
     <lastmod>2012-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -13535,6 +13610,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/ebook/</loc>
     <lastmod>2012-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</loc>
+    <lastmod>2012-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13575,6 +13655,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-2nd-week/</loc>
     <lastmod>2012-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/setting-up-the-development-ver/</loc>
+    <lastmod>2012-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13703,8 +13788,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/steve-jobs-2005-stanford-comme/</loc>
+    <lastmod>2011-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/cisco-dcuci-training/</loc>
     <lastmod>2011-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/pseudorandom-vs-random-numbers/</loc>
+    <lastmod>2011-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13715,6 +13810,21 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/ccie-rs-not-this-time/</loc>
     <lastmod>2011-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/listing-of-statistics-and-mach/</loc>
+    <lastmod>2011-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/conways-game-of-life-in-r-with/</loc>
+    <lastmod>2011-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/getting-started-with-some-base/</loc>
+    <lastmod>2011-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14583,6 +14693,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/python/</loc>
     <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/ramhisercom/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

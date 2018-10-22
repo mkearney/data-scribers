@@ -2634,6 +2634,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Adding Dask and Jupyter to a Kubernetes Cluster</title>
+      <link>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</guid>
+      <description>In this post, we&amp;rsquo;re going to set up Dask and Jupyter on a Kubernetes cluster running on AWS&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>An Introduction to the kmeans Algorithm</title>
       <link>https://data-scribers.mikewk.com/post/an-introduction-to-the-kmeans-/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
@@ -7387,6 +7396,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Setting Up the Development Version of R</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-the-development-ver/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-the-development-ver/</guid>
+      <description>My coworkers at Fred Hutchinson regularly use the development version of R (i.e., R-devel) and have urged me to do the same&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>INE CCIE R&amp;S bootcamp - 1st week</title>
       <link>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-1st-week/</link>
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
@@ -7402,6 +7420,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/ccie-rs-not-this-time/</guid>
       <description>I didn&amp;rsquo;t pass the CCIE R&amp;amp;S Lab exam today in Brussels. This was my first attempt. I have to improve my troubleshooting skills and go deeper in some technologies but I think I can do it. I don&amp;rsquo;t have plans for the next attempt yet, there&amp;rsquo;re other personal projects that will take most of my free time in the next months&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Conway&#39;s Game of Life in R with ggplot2 and animation</title>
+      <link>https://data-scribers.mikewk.com/post/conways-game-of-life-in-r-with/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conways-game-of-life-in-r-with/</guid>
+      <description>Before we begin, here&amp;rsquo;s a YouTube video demonstrating Conway&amp;rsquo;s Game of Life in R: In undergrad I had a computer science professor that piqued my interest in applied mathematics, beginning with Conway&amp;rsquo;s Game of Life&amp;hellip;</description>
     </item>
     
     <item>

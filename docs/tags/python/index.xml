@@ -462,6 +462,15 @@
     </item>
     
     <item>
+      <title>Adding Dask and Jupyter to a Kubernetes Cluster</title>
+      <link>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</guid>
+      <description>In this post, we&amp;rsquo;re going to set up Dask and Jupyter on a Kubernetes cluster running on AWS&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>vcr</title>
       <link>https://data-scribers.mikewk.com/post/vcr/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
@@ -558,6 +567,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/yet-another-caret-workshop/</guid>
       <description>Intro Yesterday I gave a workshop on applied predictive modelling1 with caret at the 1st LSE Computational Social Science hackathon. Organiser privileges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Scikit-Learn Pipelines With Pandas DataFrames</title>
+      <link>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</guid>
+      <description>I&amp;rsquo;ve used scikit-learn for a number of years now&amp;hellip;</description>
     </item>
     
     <item>
@@ -1353,6 +1371,24 @@
     </item>
     
     <item>
+      <title>Configuring IPython Notebook Support for PySpark</title>
+      <link>https://data-scribers.mikewk.com/post/configuring-ipython-notebook-s/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/configuring-ipython-notebook-s/</guid>
+      <description>Apache Spark is a great way for performing large-scale data processing. Lately, I have begun working with PySpark, a way of interfacing with Spark through Python. After a discussion with a coworker, we were curious whether PySpark could run from within an IPython Notebook&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Python Data Science Stack on Yosemite</title>
+      <link>https://data-scribers.mikewk.com/post/installing-python-data-science/</link>
+      <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-python-data-science/</guid>
+      <description>I was attempting to install the Python data-science stack within a fresh virtual environment on my Mac with OS X 10.10.1 (Yosemite) but encountered various frustrating errors&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Locality Sensitive Hashing in R</title>
       <link>https://data-scribers.mikewk.com/post/locality-sensitive-hashing-in-/</link>
       <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
@@ -1395,6 +1431,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</guid>
       <description>In this post, we will use the new name, Odoo instead of OpenERP but the content and the examples are compatible with OpenERP 5.0, 6.0, 6.1 and 7.0 and of course with Odoo v8.0. There is no need to be worried, I will try to be compatible with the new version&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Download Kaggle Data with Python and requests.py</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</link>
+      <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</guid>
+      <description>Recently I started playing with Kaggle. I quickly became frustrated that in order to download their data I had to use their website. I prefer instead the option to download the data programmatically. After some Googling, the best recommendation I found was to use lynx&amp;hellip;</description>
     </item>
     
     <item>

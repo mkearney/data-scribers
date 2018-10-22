@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramhisercom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/ramhisercom/</link>
+    <description>Recent content in Ramhisercom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/ramhisercom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adding Dask and Jupyter to a Kubernetes Cluster</title>
+      <link>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-dask-and-jupyter-to-a-k/</guid>
+      <description>In this post, we&amp;rsquo;re going to set up Dask and Jupyter on a Kubernetes cluster running on AWS&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Machine Learning Algorithms</title>
+      <link>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</guid>
+      <description>I&amp;rsquo;ve had an open tab with an overview piece on interpreting machine learning algorithms for several weeks now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up a Kubernetes Cluster on AWS in 5 Minutes</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-a-kubernetes-cluste/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-a-kubernetes-cluste/</guid>
+      <description>Kubernetes is like magic. It is a system for working with containerized applications: deployment, scaling, management, service discovery, magic. Think Docker at scale with little hassle&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>I Was on a Machine Learning for Geosciences Podcast</title>
+      <link>https://data-scribers.mikewk.com/post/i-was-on-a-machine-learning-fo/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/i-was-on-a-machine-learning-fo/</guid>
+      <description>I listen to a lot of podcasts — Tim Ferriss, EconTalk, Rocket, Talking Machines. But I had an opportunity to be on one called Undersampled Radio! It was a lot of fun&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Autoencoders with Keras</title>
+      <link>https://data-scribers.mikewk.com/post/autoencoders-with-keras/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/autoencoders-with-keras/</guid>
+      <description>I&amp;rsquo;ve been exploring how useful autoencoders are and how painfully simple they are to implement in Keras&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Scikit-Learn Pipelines With Pandas DataFrames</title>
+      <link>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</guid>
+      <description>I&amp;rsquo;ve used scikit-learn for a number of years now&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Feature Selection with a Scikit-Learn Pipeline</title>
+      <link>https://data-scribers.mikewk.com/post/feature-selection-with-a-sciki/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/feature-selection-with-a-sciki/</guid>
+      <description>I am a big fan of scikit-learn&amp;rsquo;s pipelines. Why are pipelines useful? Ensure reproducibility Export models to JSON for production models Enforce structure in preprocessing and hyperparameter search to avoid over-optimistic error estimates Unfortunately though, there are a number of sklearn modules not well integrated with pipelines&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bye Bye, Jekyll. Hello, Hugo.</title>
+      <link>https://data-scribers.mikewk.com/post/bye-bye-jekyll-hello-hugo/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bye-bye-jekyll-hello-hugo/</guid>
+      <description>After one too many Liquid errors and all the Ruby dependency hell, I&amp;rsquo;m moving away from Jekyll to Hugo. One less excuse to keep me from posting. A handful of things to note about Hugo: Built with Go. Easy to use. It&amp;rsquo;s fast. So fast. Local site rebuilds in ~100ms. Immediate feedback as you&amp;rsquo;re writing because fast. Getting started with Hugo is pretty easy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Serverless API around Google Cloud Vision with the Serverless Framework</title>
+      <link>https://data-scribers.mikewk.com/post/serverless-api-around-google-c/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/serverless-api-around-google-c/</guid>
+      <description>The Serverless Framework hit v1.0 (beta) recently after about a year of development&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing TensorFlow on an AWS EC2 Instance with GPU Support</title>
+      <link>https://data-scribers.mikewk.com/post/installing-tensorflow-on-an-aw/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-tensorflow-on-an-aw/</guid>
+      <description>The following post describes how to install TensorFlow 0.6 on an Amazon EC2 Instance with GPU Support. I also created a Public AMI (ami-e191b38b) with the resulting setup. Feel free to use it. UPDATED (28 Jan 2016): The latest TensorFlow build requires Bazel 0.1.4. Post now reflects this. Thanks to Jim Simpson for his assistance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Configuring IPython Notebook Support for PySpark</title>
+      <link>https://data-scribers.mikewk.com/post/configuring-ipython-notebook-s/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/configuring-ipython-notebook-s/</guid>
+      <description>Apache Spark is a great way for performing large-scale data processing. Lately, I have begun working with PySpark, a way of interfacing with Spark through Python. After a discussion with a coworker, we were curious whether PySpark could run from within an IPython Notebook&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Installing Python Data Science Stack on Yosemite</title>
+      <link>https://data-scribers.mikewk.com/post/installing-python-data-science/</link>
+      <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-python-data-science/</guid>
+      <description>I was attempting to install the Python data-science stack within a fresh virtual environment on my Mac with OS X 10.10.1 (Yosemite) but encountered various frustrating errors&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MLB Rankings Using the Bradley-Terry Model</title>
+      <link>https://data-scribers.mikewk.com/post/mlb-rankings-using-the-bradley/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mlb-rankings-using-the-bradley/</guid>
+      <description>Today, I take my first shots at ranking Major League Baseball (MLB) teams. I see my efforts at prediction and ranking an ongoing process so that my models improve, the data I incorporate are more meaningful, and ultimately my predictions are largely accurate. For the first attempt, let&amp;rsquo;s rank MLB teams using the Bradley-Terry (BT) model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Brief Look at Mixture Discriminant Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/a-brief-look-at-mixture-discri/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-brief-look-at-mixture-discri/</guid>
+      <description>Lately, I have been working with finite mixture models for my postdoctoral work on data-driven automated gating&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Microarray Data Sets in R for Machine Learning</title>
+      <link>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</link>
+      <pubDate>Sat, 29 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</guid>
+      <description>Much of my research in machine learning is aimed at small-sample, high-dimensional bioinformatics data sets. For instance, here is a paper of mine on the topic. A large number of papers proposing new machine-learning methods that target high-dimensional data use the same two data sets and consider few others&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Download Kaggle Data with Python and requests.py</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</link>
+      <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</guid>
+      <description>Recently I started playing with Kaggle. I quickly became frustrated that in order to download their data I had to use their website. I prefer instead the option to download the data programmatically. After some Googling, the best recommendation I found was to use lynx&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setting Up the Development Version of R</title>
+      <link>https://data-scribers.mikewk.com/post/setting-up-the-development-ver/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/setting-up-the-development-ver/</guid>
+      <description>My coworkers at Fred Hutchinson regularly use the development version of R (i.e., R-devel) and have urged me to do the same&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs&#39; 2005 Stanford Commencement Address</title>
+      <link>https://data-scribers.mikewk.com/post/steve-jobs-2005-stanford-comme/</link>
+      <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/steve-jobs-2005-stanford-comme/</guid>
+      <description>Given that there are almost 13 million views of Steve Jobs’ commencement address, I am certain that I missed this video when it went viral&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Random vs. Random Numbers in R</title>
+      <link>https://data-scribers.mikewk.com/post/pseudorandom-vs-random-numbers/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pseudorandom-vs-random-numbers/</guid>
+      <description>Earlier, I found an interesting post from Bo Allen on pseudo-random vs random numbers, where the author uses a simple bitmap (heat map) to show that the rand function in PHP has a systematic pattern and compares these to truly random numbers obtained from random.org&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Listing of Statistics and Machine Learning Conferences</title>
+      <link>https://data-scribers.mikewk.com/post/listing-of-statistics-and-mach/</link>
+      <pubDate>Sun, 12 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/listing-of-statistics-and-mach/</guid>
+      <description>Occasionally, I will query Google with “statistics conferences”, “machine learning conferences” or “pattern recognition conferences” and the like. But often, it is difficult to obtain anything meaningful other than the conferences of which I&amp;rsquo;m already aware (such as JSM, ICML, some IEEE conferences). Today, I found WikiCFP, which is a A Wiki for Calls for Papers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Conway&#39;s Game of Life in R with ggplot2 and animation</title>
+      <link>https://data-scribers.mikewk.com/post/conways-game-of-life-in-r-with/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conways-game-of-life-in-r-with/</guid>
+      <description>Before we begin, here&amp;rsquo;s a YouTube video demonstrating Conway&amp;rsquo;s Game of Life in R: In undergrad I had a computer science professor that piqued my interest in applied mathematics, beginning with Conway&amp;rsquo;s Game of Life&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Some Baseball Data</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-some-base/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-some-base/</guid>
+      <description>With all of the discussions (hype?) regarding applied statistics, machine learning, and data science, I have been looking for a go-to source of data unrelated to my day-to-day work. I loved baseball as a kid. I love baseball now&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -273,6 +273,15 @@
     </item>
     
     <item>
+      <title>Interpreting Machine Learning Algorithms</title>
+      <link>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</guid>
+      <description>I&amp;rsquo;ve had an open tab with an overview piece on interpreting machine learning algorithms for several weeks now&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://data-scribers.mikewk.com/post/my-first-post/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
@@ -306,6 +315,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/applied-machine-learning-works/</guid>
       <description>Join Max Kuhn of RStudio for his popular Applied Machine Learning Workshop in Washington D.C.! If you’d missed his sold out course at rstudio::conf 2018 now is your chance. This two-day course will provide an overview of using R for supervised learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Autoencoders with Keras</title>
+      <link>https://data-scribers.mikewk.com/post/autoencoders-with-keras/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/autoencoders-with-keras/</guid>
+      <description>I&amp;rsquo;ve been exploring how useful autoencoders are and how painfully simple they are to implement in Keras&amp;hellip;</description>
     </item>
     
     <item>
@@ -351,6 +369,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/summer-interns/</guid>
       <description>Fanny is a master&amp;rsquo;s student working with Max Kuhn this summer. Previously she studied Statistics and International Relations at UC Davis. She is particularly interested in privacy and interpretability in machine learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Scikit-Learn Pipelines With Pandas DataFrames</title>
+      <link>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-scikitlearn-pipelines/</guid>
+      <description>I&amp;rsquo;ve used scikit-learn for a number of years now&amp;hellip;</description>
     </item>
     
     <item>
@@ -777,12 +804,48 @@
     </item>
     
     <item>
+      <title>Installing TensorFlow on an AWS EC2 Instance with GPU Support</title>
+      <link>https://data-scribers.mikewk.com/post/installing-tensorflow-on-an-aw/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/installing-tensorflow-on-an-aw/</guid>
+      <description>The following post describes how to install TensorFlow 0.6 on an Amazon EC2 Instance with GPU Support. I also created a Public AMI (ami-e191b38b) with the resulting setup. Feel free to use it. UPDATED (28 Jan 2016): The latest TensorFlow build requires Bazel 0.1.4. Post now reflects this. Thanks to Jim Simpson for his assistance&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Data Science Oxford</title>
       <link>https://data-scribers.mikewk.com/post/data-science-oxford/</link>
       <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/data-science-oxford/</guid>
       <description>On Monday night, I went over to the Data Science meet up in Oxford. Even though the parking ticket machines in Oxford don’t accept ‘new’ 5 or 10 pence pieces, despite both having been in circulation for over 20 years, it was a good night. Talks were on plot&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Microarray Data Sets in R for Machine Learning</title>
+      <link>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</link>
+      <pubDate>Sat, 29 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</guid>
+      <description>Much of my research in machine learning is aimed at small-sample, high-dimensional bioinformatics data sets. For instance, here is a paper of mine on the topic. A large number of papers proposing new machine-learning methods that target high-dimensional data use the same two data sets and consider few others&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Listing of Statistics and Machine Learning Conferences</title>
+      <link>https://data-scribers.mikewk.com/post/listing-of-statistics-and-mach/</link>
+      <pubDate>Sun, 12 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/listing-of-statistics-and-mach/</guid>
+      <description>Occasionally, I will query Google with “statistics conferences”, “machine learning conferences” or “pattern recognition conferences” and the like. But often, it is difficult to obtain anything meaningful other than the conferences of which I&amp;rsquo;m already aware (such as JSM, ICML, some IEEE conferences). Today, I found WikiCFP, which is a A Wiki for Calls for Papers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Some Baseball Data</title>
+      <link>https://data-scribers.mikewk.com/post/getting-started-with-some-base/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/getting-started-with-some-base/</guid>
+      <description>With all of the discussions (hype?) regarding applied statistics, machine learning, and data science, I have been looking for a go-to source of data unrelated to my day-to-day work. I loved baseball as a kid. I love baseball now&amp;hellip;</description>
     </item>
     
     <item>

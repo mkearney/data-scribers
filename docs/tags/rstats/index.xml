@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Searching for R Packages</title>
+      <link>https://data-scribers.mikewk.com/post/searching-for-r-packages/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/searching-for-r-packages/</guid>
+      <description>Fortunately, package developers have provided some very useful tools, if you know where to look. :) This post presents a search strategy based on some relatively new packages I have come across in my monthly review. The next line of code just selects the columns we will be using&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Temperature of European rivers and future climate in 50 lines of R code</title>
       <link>https://data-scribers.mikewk.com/post/temperature-of-european-rivers/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>

@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Searching for R Packages</title>
+      <link>https://data-scribers.mikewk.com/post/searching-for-r-packages/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/searching-for-r-packages/</guid>
+      <description>Fortunately, package developers have provided some very useful tools, if you know where to look. :) This post presents a search strategy based on some relatively new packages I have come across in my monthly review. The next line of code just selects the columns we will be using&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Possibility of heteroskedasticity is a good reason not to dichotomize a continuous variable for use as outcome in logistic regression.</title>

@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Dead, Back Tomorrow</title>
+      <link>https://data-scribers.mikewk.com/post/dead-back-tomorrow/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dead-back-tomorrow/</guid>
+      <description>What&amp;rsquo;s up, I am dead with the sickness no thanks to my girlfriend, she is trying to kill me and I probably deserve it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>NASA「HoloLensをつけてロケットを組み立てると効率いいよ」</title>
       <link>https://data-scribers.mikewk.com/post/nasahololens%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%92%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%82%8B%E3%81%A8%E5%8A%B9%E7%8E%87%E3%81%84/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -783,6 +792,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/quote-while-the-promise-is-hot/</guid>
       <description>A forced promise can no longer be captured correctly because it no longer carries an&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quoted and unqouted template variables in Concourse CI</title>
+      <link>https://data-scribers.mikewk.com/post/quoted-and-unqouted-template-v/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quoted-and-unqouted-template-v/</guid>
+      <description>A lesser known fact is that Concourse supports two different types of placeholders, quoted and unquoted. A variable, or placeholder, is specified using one of two different syntax forms: Pipeline example: The older version of placeholders, but still valid and working is quoted placeholders&amp;hellip;</description>
     </item>
     
     <item>
@@ -4809,6 +4827,15 @@
     </item>
     
     <item>
+      <title>Development of Greenplum for Kubernetes using Minikube</title>
+      <link>https://data-scribers.mikewk.com/post/development-of-greenplum-for-k/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/development-of-greenplum-for-k/</guid>
+      <description>Minikube is a single node Kubernetes environment designed for local development with local Kubernetes (K8s) and Docker support. Because of its portable nature, the development feedback cycle is faster with very minimum overhead&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Galaxy Watch レビュー：Samsungのスマートウォッチ、良くなったよね</title>
       <link>https://data-scribers.mikewk.com/post/galaxy-watch-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCsamsung%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
@@ -4932,6 +4959,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/chromebook-data-science-a-free/</guid>
       <description>While we have been incredibly excited about the results of these training programs, we&amp;rsquo;ve also learned over the last 5+ years that there are still significant barriers to getting into data science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Eureka, Zuul, and Cloud Configuration - Local Development</title>
+      <link>https://data-scribers.mikewk.com/post/eureka-zuul-and-cloud-configur/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/eureka-zuul-and-cloud-configur/</guid>
+      <description>I went with a single repository for all of the components because simply, it is easier to work with. I would agree that eventually it would be better to move the Spring Cloud Configuration and API to be in their own separate repository and have all of the &amp;lsquo;local only&amp;rsquo; components have their own repository&amp;hellip;</description>
     </item>
     
     <item>
@@ -5682,6 +5718,15 @@
     </item>
     
     <item>
+      <title>Concourse as a Service and Multi-CPI</title>
+      <link>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</guid>
+      <description>As the Toolsmiths Team for Greenplum, we are tasked with doing everything in our power to enable other developers within the org&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>From Zero to GPU 2 - Squeezing Neural Network Performance on CPU</title>
       <link>https://data-scribers.mikewk.com/post/from-zero-to-gpu-2-squeezing-n/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
@@ -6070,6 +6115,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Let&#39;s Contribute to Golang!</title>
+      <link>https://data-scribers.mikewk.com/post/lets-contribute-to-golang/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-contribute-to-golang/</guid>
+      <description>I want to share some particular insights I gained after attending the Contribution Workshop at GopherCon 2018. The purpose of this post is to allow you to be able to contribute to Golang as easily as possible and to provide you with some helpful tips. These tips are coalesced from multiple sources and my own troubleshooting. We are going to cover Gerrit..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>New Paper Submission</title>
       <link>https://data-scribers.mikewk.com/post/new-paper-submission/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
@@ -6247,6 +6301,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/git-objects-in-a-nutshell/</guid>
       <description>The main purpose of Git as a version control system is to keep track of files. The content of each file at any point in time as well as other information that is necessary to reproduce the changing history are stored as objects in a Git repository. Therefore, understanding the types of objects and how they relate is essential to understanding how Git works, and hence knowing how to use it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Safely Upgrading PAS 2.2 → 2.3 with NSX-T Load Balancers</title>
+      <link>https://data-scribers.mikewk.com/post/safely-upgrading-pas-22-23-wit/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/safely-upgrading-pas-22-23-wit/</guid>
+      <description>When customers with vSphere+NSX-T-based foundations upgrade PAS (Pivotal Application Service) from 2.2 to 2&amp;hellip;</description>
     </item>
     
     <item>
@@ -7411,6 +7474,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>GiST Support In GPORCA</title>
+      <link>https://data-scribers.mikewk.com/post/gist-support-in-gporca/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/gist-support-in-gporca/</guid>
+      <description>Pivotal’s SQL Optimizer, GPORCA, does not handle GiST indexes, making any GPORCA generated plan extremely slow when the input grew large. In this blog post, we will look at what GiST indexes are, how we implemented them in GPORCA, and the resulting performance improvement&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Highcharting Jobs Friday</title>
       <link>https://data-scribers.mikewk.com/post/highcharting-jobs-friday/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
@@ -7516,6 +7588,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/extracting-and-processing-ebir/</guid>
       <description>Access to the full eBird dataset is provided via two large, tab-separated text files. The eBird Basic Dataset (EBD) contains the bird observation information and consists of one line for each observation of a species on a checklist&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Frontend Contract Tests Without Magic Numbers</title>
+      <link>https://data-scribers.mikewk.com/post/frontend-contract-tests-withou/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/frontend-contract-tests-withou/</guid>
+      <description>We will explain how we fell into the magic number anti-pattern in our frontend tests. Then, we demonstrate how to use a contract-stub reader to avoid this&amp;hellip;</description>
     </item>
     
     <item>
@@ -7960,12 +8041,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Let&#39;s use Vault - Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/lets-use-vault-part-3/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-use-vault-part-3/</guid>
+      <description>We have now come to the final leg of our journey. We will be integrating Vault with Concourse CI and exploring some tooling that was built specifically to make your lives easier&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 82-94</title>
       <link>https://data-scribers.mikewk.com/post/day-8294/</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/day-8294/</guid>
       <description>So this is a post about how I set up one part of my workflow. I feel nervous about it for two reasons: Yes, I realise that I’m setting myself up to feel bad. I should stop&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s use Vault - Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/lets-use-vault-part-2/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-use-vault-part-2/</guid>
+      <description>This post provides a guideline of simplest commands that are required to setup vault locally for your team instead of having to wade through all of Hashicorp&amp;rsquo;s extensive documentation&amp;hellip;</description>
     </item>
     
     <item>
@@ -8362,6 +8461,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/lets-see-if-i-can-make-posts-m/</guid>
       <description>Let’s see if I can make posts (mostly) through&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s use Vault - Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/lets-use-vault-part-1/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-use-vault-part-1/</guid>
+      <description>There are comments in the config to explain the what and why of the properties. After vault is deployed we need to manually edit the ingress service. See the github issue below descrbing the reason for this change. This will show you the ingress service&amp;hellip;</description>
     </item>
     
     <item>
@@ -9337,6 +9445,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Diagnosing Ruby Memory Issues in Cloud Foundry&#39;s API Server</title>
+      <link>https://data-scribers.mikewk.com/post/diagnosing-ruby-memory-issues-/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/diagnosing-ruby-memory-issues-/</guid>
+      <description>Occasionally our end-users will use the platform in ways we might not have predicted, which results in unique and difficult-to-reproduce issues&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How to upload files to GEO</title>
       <link>https://data-scribers.mikewk.com/post/how-to-upload-files-to-geo/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
@@ -10002,6 +10119,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</guid>
       <description>The data we’ve scraped only gives a player’s overall ‘ability’ and their abilities on specific skills (e.g. strength, long shots, dribbling…). We want to use this to work out how good each player is at each position&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to use &#39;tag_filter&#39; in &#39;git&#39; resources in Concourse CI</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-use-tagfilter-in-git-re/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-use-tagfilter-in-git-re/</guid>
+      <description>This blog post will show how this resource type can be used to fetch a specific git tag from the repository&amp;hellip;</description>
     </item>
     
     <item>
@@ -10950,6 +11076,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>How to Install a TLS Certificate on vCenter Server Appliance (VCSA) 6.7</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-install-a-tls-certifica/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-install-a-tls-certifica/</guid>
+      <description>We want a green padlock on our VCSA&amp;rsquo;s web client; when we use our browser to navigate to our VCSA, we&amp;rsquo;d like it too look like the following: This blog posts describes the steps to follow in order to install a TLS certificate on a VCSA 6.7&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mapping the Tunisian Revolution</title>
       <link>https://data-scribers.mikewk.com/post/mapping-the-tunisian-revolutio/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
@@ -11553,6 +11688,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>How Pivotal contributes to the Development of PostgreSQL 11</title>
+      <link>https://data-scribers.mikewk.com/post/how-pivotal-contributes-to-the/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-pivotal-contributes-to-the/</guid>
+      <description>Not only is the PostgreSQL Project an awesome project with a thriving community, and it is fun to work with, in the long run this strategy has several advantages for us&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>git to know git</title>
       <link>https://data-scribers.mikewk.com/post/git-to-know-git/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
@@ -11868,6 +12012,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Create Regression Tests for Greenplum Database</title>
+      <link>https://data-scribers.mikewk.com/post/create-regression-tests-for-gr/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/create-regression-tests-for-gr/</guid>
+      <description>In today&amp;rsquo;s software development world, testing is a fundamental and necessary part of the entire lifecycle of the product&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Get Baking</title>
       <link>https://data-scribers.mikewk.com/post/get-baking/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
@@ -12018,6 +12171,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/september-2018-datascience-goa/</guid>
       <description>Last updated: 2018-09-03 I know, I know, my last post was 2 months ago. I’m not very steady but lots have been done on other things (FOSS4G-fr 2018 program, a bread recipe that I can manage, writing a python course from scratch, that kind of things). Next step in my life will be in September at the end of my Master degree&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Windows Containers in Cloud Foundry? Here&#39;s How We Did It</title>
+      <link>https://data-scribers.mikewk.com/post/windows-containers-in-cloud-fo/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/windows-containers-in-cloud-fo/</guid>
+      <description>Here’s a quick diagram, showing how these components interact. A close-up of Garden on Windows Server 2016 You’ll notice that the Garden components on a Windows Server 2016 Diego cell are the same as those on a Linux Diego cell&amp;hellip;except for the new plugins mentioned above&amp;hellip;</description>
     </item>
     
     <item>
@@ -12183,6 +12345,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Scaling Machine Learning to Recommend Driving Routes</title>
+      <link>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</guid>
+      <description>We built an app to predict potential earnings of a driver given his current location for next 8 hours in successive time intervals. The App also provided recommendations of next best pickup locations ranked based on driver preferences and behavior&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Automatically Compliant</title>
       <link>https://data-scribers.mikewk.com/post/automatically-compliant/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
@@ -12327,6 +12498,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Failure is a part of the game</title>
+      <link>https://data-scribers.mikewk.com/post/failure-is-a-part-of-the-game/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/failure-is-a-part-of-the-game/</guid>
+      <description>Failure can come in a variety of avenues in life - career, love, and friendships to name a few. I’m choosing to highlight a few extra curricular projects to illustrate how success can come from failure&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing tabr</title>
       <link>https://data-scribers.mikewk.com/post/introducing-tabr/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
@@ -12441,6 +12621,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/a-gentle-guide-to-tidy-statist/</guid>
       <description>We will be using MMSE (mini-mental status exam) scores to assess the degree of cognitive impairment&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking the Disk Speed of IaaSes</title>
+      <link>https://data-scribers.mikewk.com/post/benchmarking-the-disk-speed-of/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/benchmarking-the-disk-speed-of/</guid>
+      <description>In this blog post we record three metrics: And we record them for the following IaaSes: The table below summarizes our findings: AWS&amp;rsquo;s io1 storage is a &amp;ldquo;tunable&amp;rdquo; storage offering — you specify the number of IOPS you require&amp;hellip;</description>
     </item>
     
     <item>
@@ -13134,6 +13323,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/new-publications/</guid>
       <description>Just wanted to do a quick post to say that the Nature Human Behavior response paper, Justify Your Alpha is now online at NHB&amp;rsquo;s website: Springer - it is free to view but not download. You can download the PDF version on OSF&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Event Sourcing with Kafka, RabbitMQ and JPA</title>
+      <link>https://data-scribers.mikewk.com/post/event-sourcing-with-kafka-rabb/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/event-sourcing-with-kafka-rabb/</guid>
+      <description>We recently finished work on a system for a client in which we built an Event Source system. This application is a demo of the architecture we produced. This application was unique in that we implemented the backend with Apache Kafka, MongoDb and MySQL&amp;hellip;</description>
     </item>
     
     <item>
@@ -14748,6 +14946,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Simplify Deploying Kubernetes with Cloud Foundry Container Runtime</title>
+      <link>https://data-scribers.mikewk.com/post/simplify-deploying-kubernetes-/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/simplify-deploying-kubernetes-/</guid>
+      <description>The goal of Cloud Foundry Container Runtime is to simplify deploying and maintaining a Kubernetes cluster. It does a lot to alleviate the day-to-day burdens of an operator so they can focus on how to help their team execute. This is a walkthrough of how to install CFCR and deploy Kubernetes with it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>CPU Vulnerability Security with Matt Linton and Paul Turner</title>
       <link>https://data-scribers.mikewk.com/post/cpu-vulnerability-security-wit/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
@@ -14835,6 +15042,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/airpiconsole-remote-access-wit/</guid>
       <description>In the previous post of this AirPiConsole series (part1, part2) I used Autossh to create a reverse tunnel from the device to a cloud VPS to permit remote access. The VPS I use is cheap but unreliable so the tunnel was down most of the time so I started looking for a better alternative. The solution came from the Packet Pushers podcast episode PQ134 about ZeroTier&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Deploying BOSH VMs with IPv6 Addresses on vSphere</title>
+      <link>https://data-scribers.mikewk.com/post/deploying-bosh-vms-with-ipv6-a/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deploying-bosh-vms-with-ipv6-a/</guid>
+      <description>BOSH is a VM orchestrator; a BOSH Director creates, configures, monitors, and deletes VMs. The BOSH Director interoperates with a number of IaaSes (Infrastructure as a Service), one of which is VMware vSphere, a virtualization platform. BOSH traditionally operates exclusively within the IPv4 networking space (i.e&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Diagnosing performance issues with Java legacy apps on Pivotal Cloud Foundry</title>
+      <link>https://data-scribers.mikewk.com/post/diagnosing-performance-issues-/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/diagnosing-performance-issues-/</guid>
+      <description>Table listing options ok! so given this situation how do you go about resolving it? First, It wasn&amp;rsquo;t an obvious situation for doing method-level profiling. So, we had to rule-out a few things that came to mind first: Network-related differences including Latency, bandwidth and route differences&amp;hellip;</description>
     </item>
     
     <item>
@@ -16213,6 +16438,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/characterizing-the-variance-fo/</guid>
       <description>Way back when I was studying algebra and wrestling with one word problem after another (I think now they call them story problems), I complained to my father. He laughed and told me to get used to it. “Life is one big word problem,” is how he put it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>All I do is VIM VIM VIM</title>
+      <link>https://data-scribers.mikewk.com/post/all-i-do-is-vim-vim-vim/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/all-i-do-is-vim-vim-vim/</guid>
+      <description>I assume you understand the difference between insert, visual and normal mode. So there are a few handy moves that I don&amp;rsquo;t know where to put. They are definitely beyond the basics&amp;hellip;</description>
     </item>
     
     <item>

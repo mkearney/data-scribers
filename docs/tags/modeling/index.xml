@@ -246,6 +246,15 @@
     </item>
     
     <item>
+      <title>Concourse as a Service and Multi-CPI</title>
+      <link>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</guid>
+      <description>As the Toolsmiths Team for Greenplum, we are tasked with doing everything in our power to enable other developers within the org&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introducing debkeepr</title>
       <link>https://data-scribers.mikewk.com/post/introducing-debkeepr/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
@@ -315,6 +324,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/intuition-behind-crossvalidati/</guid>
       <description>Cross-validation error is an estimate of the out-of-sample error. Cross-validation is a great tool for helping modelers select a model with low out-of-sample error. The objective of this note is to show you how to write simple code to carry out cross-validation in R. I will post similar code for SAS later&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Safely Upgrading PAS 2.2 → 2.3 with NSX-T Load Balancers</title>
+      <link>https://data-scribers.mikewk.com/post/safely-upgrading-pas-22-23-wit/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/safely-upgrading-pas-22-23-wit/</guid>
+      <description>When customers with vSphere+NSX-T-based foundations upgrade PAS (Pivotal Application Service) from 2.2 to 2&amp;hellip;</description>
     </item>
     
     <item>
@@ -531,6 +549,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/rstudio/</guid>
       <description>Learn from and interact with these outstanding invited speakers and R innovators: Find out what RStudio is working on from the people who make the materials and tools you use&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s use Vault - Part 3</title>
+      <link>https://data-scribers.mikewk.com/post/lets-use-vault-part-3/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lets-use-vault-part-3/</guid>
+      <description>We have now come to the final leg of our journey. We will be integrating Vault with Concourse CI and exploring some tooling that was built specifically to make your lives easier&amp;hellip;</description>
     </item>
     
     <item>
@@ -1038,6 +1065,15 @@
     </item>
     
     <item>
+      <title>Create Regression Tests for Greenplum Database</title>
+      <link>https://data-scribers.mikewk.com/post/create-regression-tests-for-gr/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/create-regression-tests-for-gr/</guid>
+      <description>In today&amp;rsquo;s software development world, testing is a fundamental and necessary part of the entire lifecycle of the product&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>YMMV: non-profit data science</title>
       <link>https://data-scribers.mikewk.com/post/ymmv-nonprofit-data-science/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -1053,6 +1089,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/california-school-dashboards-p/</guid>
       <description>This is part three of a three part series where I work with California School Dashboard data by cleaning, visualizaing, and exploring through modeling. You can read the first part of this series, which shows one way to clean and prepare the data, and the second part of the series, which shows a way to visualize the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Machine Learning to Recommend Driving Routes</title>
+      <link>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</guid>
+      <description>We built an app to predict potential earnings of a driver given his current location for next 8 hours in successive time intervals. The App also provided recommendations of next best pickup locations ranked based on driver preferences and behavior&amp;hellip;</description>
     </item>
     
     <item>
@@ -1323,6 +1368,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/importance-sampling-adds-an-in/</guid>
       <description>Like many of the topics I’ve written about, this is a vast one that certainly warrants much, much more than a blog entry. MC simulation in particular, since it is so fundamental to the practice of statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Deploying BOSH VMs with IPv6 Addresses on vSphere</title>
+      <link>https://data-scribers.mikewk.com/post/deploying-bosh-vms-with-ipv6-a/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deploying-bosh-vms-with-ipv6-a/</guid>
+      <description>BOSH is a VM orchestrator; a BOSH Director creates, configures, monitors, and deletes VMs. The BOSH Director interoperates with a number of IaaSes (Infrastructure as a Service), one of which is VMware vSphere, a virtualization platform. BOSH traditionally operates exclusively within the IPv4 networking space (i.e&amp;hellip;</description>
     </item>
     
     <item>

@@ -264,6 +264,15 @@
     </item>
     
     <item>
+      <title>Frontend Contract Tests Without Magic Numbers</title>
+      <link>https://data-scribers.mikewk.com/post/frontend-contract-tests-withou/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/frontend-contract-tests-withou/</guid>
+      <description>We will explain how we fell into the magic number anti-pattern in our frontend tests. Then, we demonstrate how to use a contract-stub reader to avoid this&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>I (Heart Emoji) Statistics</title>
       <link>https://data-scribers.mikewk.com/post/i-heart-emoji-statistics/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
@@ -630,6 +639,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/reticulate/</guid>
       <description>Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session. Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Machine Learning to Recommend Driving Routes</title>
+      <link>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</guid>
+      <description>We built an app to predict potential earnings of a driver given his current location for next 8 hours in successive time intervals. The App also provided recommendations of next best pickup locations ranked based on driver preferences and behavior&amp;hellip;</description>
     </item>
     
     <item>

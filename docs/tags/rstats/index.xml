@@ -786,6 +786,15 @@
     </item>
     
     <item>
+      <title>Concourse as a Service and Multi-CPI</title>
+      <link>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/concourse-as-a-service-and-mul/</guid>
+      <description>As the Toolsmiths Team for Greenplum, we are tasked with doing everything in our power to enable other developers within the org&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Multiple color (and fill) scales with ggplot2</title>
       <link>https://data-scribers.mikewk.com/post/multiple-color-and-fill-scales/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
@@ -2886,6 +2895,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>How to Install a TLS Certificate on vCenter Server Appliance (VCSA) 6.7</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-install-a-tls-certifica/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-install-a-tls-certifica/</guid>
+      <description>We want a green padlock on our VCSA&amp;rsquo;s web client; when we use our browser to navigate to our VCSA, we&amp;rsquo;d like it too look like the following: This blog posts describes the steps to follow in order to install a TLS certificate on a VCSA 6.7&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mapping the Tunisian Revolution</title>
       <link>https://data-scribers.mikewk.com/post/mapping-the-tunisian-revolutio/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
@@ -3369,6 +3387,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/today-on-twitter-i-learned/</guid>
       <description>Introduction Today on Twitter I learned (or was reminded about) two #rstats things: from @pkqstr about separate_rows from tidyr, that does something like separate followed by gather, but better&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Scaling Machine Learning to Recommend Driving Routes</title>
+      <link>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</guid>
+      <description>We built an app to predict potential earnings of a driver given his current location for next 8 hours in successive time intervals. The App also provided recommendations of next best pickup locations ranked based on driver preferences and behavior&amp;hellip;</description>
     </item>
     
     <item>

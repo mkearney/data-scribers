@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Introducing Connectors</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-connectors/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-connectors/</guid>
+      <description>Introduction We&amp;rsquo;re excited today to introduce you to a preview release of a new Wallaroo feature: Connectors. Connectors make inputting and receiving data from Wallaroo even easier&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Splicing HTML’s DNA With CSS Attribute Selectors</title>
       <link>https://data-scribers.mikewk.com/post/splicing-htmls-dna-with-css-at/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>

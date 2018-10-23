@@ -210,6 +210,15 @@
     </item>
     
     <item>
+      <title>楽して早く綺麗になりたい人に。ダイソン「airwrap」はヘアスタイリングの根本から変えてくれる</title>
+      <link>https://data-scribers.mikewk.com/post/%E6%A5%BD%E3%81%97%E3%81%A6%E6%97%A9%E3%81%8F%E7%B6%BA%E9%BA%97%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AB%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3airwrap%E3%81%AF%E3%83%98%E3%82%A2%E3%82%B9%E3%82%BF/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E6%A5%BD%E3%81%97%E3%81%A6%E6%97%A9%E3%81%8F%E7%B6%BA%E9%BA%97%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AB%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3airwrap%E3%81%AF%E3%83%98%E3%82%A2%E3%82%B9%E3%82%BF/</guid>
+      <description>2016年、ドライヤーの常識を打ち破りセンセーショナルなヘアドライヤー「スーパーソニック」をデビューさせたダイソンが、新たに想像を超えるスタイリング・ツール「airwrap」を発表しました&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>空港で不思議な動画を見かけたら、それはあなたの命を救う錯視動画かも</title>
       <link>https://data-scribers.mikewk.com/post/%E7%A9%BA%E6%B8%AF%E3%81%A7%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E5%8B%95%E7%94%BB%E3%82%92%E8%A6%8B%E3%81%8B%E3%81%91%E3%81%9F%E3%82%89%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%91%BD%E3%82%92%E6%95%91%E3%81%86%E9%8C%AF%E8%A6%96%E5%8B%95%E7%94%BB/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
@@ -243,6 +252,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/apple%E6%82%AA%E8%B3%AA%E3%81%AA%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%82%B9%E3%83%88%E3%82%A2%E3%81%8B%E3%82%89%E5%89%8A%E9%99%A4%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%94%E6%A7%98%E5%AD%90/</guid>
       <description>サブスクリプションの仕組みを悪用して、以前より意図しない高額請求を行なうアプリも報告されていました。この問題について、Appleがついに動きました。ユーザーにわかりにくいように高額請求を迫るアプリが一部削除されていることが、海外報道にて伝えられています&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Automated Data Reports with R</title>
+      <link>https://data-scribers.mikewk.com/post/automated-data-reports-with-r/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automated-data-reports-with-r/</guid>
+      <description>A lot of data analysts will find themselves doing repetitive manual tasks on a data set every day/week/month in Excel, then copying and pasting their updated pivot tables and charts into Word or PowerPoint reports for their stakeholders&amp;hellip;</description>
     </item>
     
     <item>
@@ -11580,6 +11598,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Multivariate Dot-Density Maps in R with sf &amp; ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/multivariate-dotdensity-maps-i/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multivariate-dotdensity-maps-i/</guid>
+      <description>Background Last June I did a blog post about building dot-denisty maps in R using UK Census&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Open Source at Google Cloud Platform with Sarah Novotny</title>
       <link>https://data-scribers.mikewk.com/post/open-source-at-google-cloud-pl/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
@@ -13017,6 +13044,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/mapping-the-global-network-of-/</guid>
       <description>All the analysis is done in R, with Studio, using the following packages: Here is snippet of the dataset: where: We have excluded here 1) the connections between EU members states 2) the EU Northern agreements with Norway, and Iceland, 3) connections between sovereign states, e,g: France and Reunion and 4) disputed or jointly managed marine&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Responsive iframes for Shiny Apps</title>
+      <link>https://data-scribers.mikewk.com/post/responsive-iframes-for-shiny-a/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/responsive-iframes-for-shiny-a/</guid>
+      <description>Getting Shiny out into the wild Shiny has really changed game in terms of analytical web-application development&amp;hellip;</description>
     </item>
     
     <item>
@@ -14784,6 +14820,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Map your Google Location Data with R Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/map-your-google-location-data-/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/map-your-google-location-data-/</guid>
+      <description>I Know What You Vizzed Last Summer tl;dr click the image to launch the app I guess I’m of that school of thought, I don’t mind my mobile tracking me&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Percy.io with Mike Fotinakis</title>
       <link>https://data-scribers.mikewk.com/post/percyio-with-mike-fotinakis/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
@@ -15081,6 +15126,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Visualising Intersecting Sets Of Twitter Followers</title>
+      <link>https://data-scribers.mikewk.com/post/visualising-intersecting-sets-/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualising-intersecting-sets-/</guid>
+      <description>Twitter Analytics There has been a surge in a lot of great twitter analytics recently in the #rstats world, in part due to Michael Kearney’s excellent rtweet package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>nodbi</title>
       <link>https://data-scribers.mikewk.com/post/nodbi/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
@@ -15141,6 +15195,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/me-on-a-podcast/</guid>
       <description>Hey check it out! Me on a podcast: https://policyviz.com/podcast/episode-111-len-kiefer/. We talk about data visualization and how I use it at work. A bit about using R too. I got the opportunity to talk with Jon Schwabish on the Policyviz podcast&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building a Cryptocurrency Tracker with R</title>
+      <link>https://data-scribers.mikewk.com/post/building-a-cryptocurrency-trac/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-a-cryptocurrency-trac/</guid>
+      <description>TL;DR - check the tracker out here. As a recent cryptocurrency &amp;lsquo;Investor&amp;rsquo; (0&amp;hellip;</description>
     </item>
     
     <item>
@@ -15312,6 +15375,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/curated-collection-of-teaching/</guid>
       <description>That infamous&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Migrating from Xcelsius Dashboards on a Budget</title>
+      <link>https://data-scribers.mikewk.com/post/migrating-from-xcelsius-dashbo/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/migrating-from-xcelsius-dashbo/</guid>
+      <description>The Death of Flash SAP XCelsius was the Ford Fiesta of the BI industry. Inexpensive to run, simple to implement. Businesses could get dashboards up and running in days or hours. We’ve helped clients design over 1,000 XCelsius dashboards over time, so we know how practical and adaptable they were&amp;hellip;</description>
     </item>
     
     <item>
@@ -15726,6 +15798,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</guid>
       <description>Recently, I was presenting approach to Thrombotic Microangiopathy in hospital. I made the following notes, which I feel will be beneficial for the residents. a. MAHA (Coombs negative, increased LDH, schistocytes) b. Thrombocytopenia c. Organ injury (ischemic) a. Endothelial dysfunction b. Microinfarcts a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Shiny App Development with Modules</title>
+      <link>https://data-scribers.mikewk.com/post/reproducible-shiny-app-develop/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reproducible-shiny-app-develop/</guid>
+      <description>Happy New Year to one and all! As data scientists/analysts/researchers/programmers/anything else on that crazy data science Venn diagram, I’m assuming all of our new years resolutions involve visualising our data with more sophistication and finesse&amp;hellip;</description>
     </item>
     
     <item>
@@ -17791,6 +17872,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>How Market Research Can Tidy Up</title>
+      <link>https://data-scribers.mikewk.com/post/how-market-research-can-tidy-u/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-market-research-can-tidy-u/</guid>
+      <description>Synopsis Market Research is great at compiling the right data, but not so good at making it easy to use. This isn’t about “storytelling”. It’s about the data itself, and clarity on what delivering it actually means&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Shiny app</title>
       <link>https://data-scribers.mikewk.com/post/shiny-app/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
@@ -17986,6 +18076,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/using-cookie-based-authenticat/</guid>
       <description>Introduction Authentication is one of the features the open source version of shiny-server is missing. The simplest way is to set up a proxy and let it handle the user authentication. But in some scenarios, this isn’t sufficient as you are not able to determine in shiny who is the current user and thus are e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When It Rains, It Pours</title>
+      <link>https://data-scribers.mikewk.com/post/when-it-rains-it-pours/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-it-rains-it-pours/</guid>
+      <description>A Dive Into Some Global Flooding Data I always like to keep a look out for interesting open data sets. One great resource for such things is Jeremy Singer-Vine’s Data is Plural weekly newsletter that brings together a collection of “useful, curious datasets” for us all to enjoy and wrangle with&amp;hellip;</description>
     </item>
     
     <item>

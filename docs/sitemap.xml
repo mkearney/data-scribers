@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/%E6%A5%BD%E3%81%97%E3%81%A6%E6%97%A9%E3%81%8F%E7%B6%BA%E9%BA%97%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AB%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3airwrap%E3%81%AF%E3%83%98%E3%82%A2%E3%82%B9%E3%82%BF/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/%E7%A9%BA%E6%B8%AF%E3%81%A7%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E5%8B%95%E7%94%BB%E3%82%92%E8%A6%8B%E3%81%8B%E3%81%91%E3%81%9F%E3%82%89%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%91%BD%E3%82%92%E6%95%91%E3%81%86%E9%8C%AF%E8%A6%96%E5%8B%95%E7%94%BB/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url>
@@ -129,6 +134,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/apple%E6%82%AA%E8%B3%AA%E3%81%AA%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%82%B9%E3%83%88%E3%82%A2%E3%81%8B%E3%82%89%E5%89%8A%E9%99%A4%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%94%E6%A7%98%E5%AD%90/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/automated-data-reports-with-r/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -6428,6 +6438,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/multivariate-dotdensity-maps-i/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/open-source-at-google-cloud-pl/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -7224,6 +7239,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/mapping-the-global-network-of-/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/responsive-iframes-for-shiny-a/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -8208,6 +8228,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/map-your-google-location-data-/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/percyio-with-mike-fotinakis/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url>
@@ -8373,6 +8398,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/visualising-intersecting-sets-/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/nodbi/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url>
@@ -8405,6 +8435,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/me-on-a-podcast/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/building-a-cryptocurrency-trac/</loc>
+    <lastmod>2018-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -8499,6 +8534,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/curated-collection-of-teaching/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/migrating-from-xcelsius-dashbo/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -8729,6 +8769,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/notes-on-thrombotic-microangio/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/reproducible-shiny-app-develop/</loc>
     <lastmod>2018-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -9878,6 +9923,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/how-market-research-can-tidy-u/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/shiny-app/</loc>
     <lastmod>2017-10-12T00:00:00+00:00</lastmod>
   </url>
@@ -9984,6 +10034,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/using-cookie-based-authenticat/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/when-it-rains-it-pours/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -14315,6 +14370,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/cultureofinsightcomblog/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

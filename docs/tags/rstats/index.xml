@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Automated Data Reports with R</title>
+      <link>https://data-scribers.mikewk.com/post/automated-data-reports-with-r/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/automated-data-reports-with-r/</guid>
+      <description>A lot of data analysts will find themselves doing repetitive manual tasks on a data set every day/week/month in Excel, then copying and pasting their updated pivot tables and charts into Word or PowerPoint reports for their stakeholders&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Colors</title>
       <link>https://data-scribers.mikewk.com/post/colors/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -3012,6 +3021,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Multivariate Dot-Density Maps in R with sf &amp; ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/multivariate-dotdensity-maps-i/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multivariate-dotdensity-maps-i/</guid>
+      <description>Background Last June I did a blog post about building dot-denisty maps in R using UK Census&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Packaging Shiny apps - A deep dive</title>
       <link>https://data-scribers.mikewk.com/post/packaging-shiny-apps-a-deep-di/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
@@ -3612,6 +3630,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/mapping-the-global-network-of-/</guid>
       <description>All the analysis is done in R, with Studio, using the following packages: Here is snippet of the dataset: where: We have excluded here 1) the connections between EU members states 2) the EU Northern agreements with Norway, and Iceland, 3) connections between sovereign states, e,g: France and Reunion and 4) disputed or jointly managed marine&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Responsive iframes for Shiny Apps</title>
+      <link>https://data-scribers.mikewk.com/post/responsive-iframes-for-shiny-a/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/responsive-iframes-for-shiny-a/</guid>
+      <description>Getting Shiny out into the wild Shiny has really changed game in terms of analytical web-application development&amp;hellip;</description>
     </item>
     
     <item>
@@ -4236,6 +4263,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Map your Google Location Data with R Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/map-your-google-location-data-/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/map-your-google-location-data-/</guid>
+      <description>I Know What You Vizzed Last Summer tl;dr click the image to launch the app I guess I’m of that school of thought, I don’t mind my mobile tracking me&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Ian Lyttle is the Most Serious Conference Attendee I&#39;ve Met</title>
       <link>https://data-scribers.mikewk.com/post/ian-lyttle-is-the-most-serious/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
@@ -4353,6 +4389,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Visualising Intersecting Sets Of Twitter Followers</title>
+      <link>https://data-scribers.mikewk.com/post/visualising-intersecting-sets-/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualising-intersecting-sets-/</guid>
+      <description>Twitter Analytics There has been a surge in a lot of great twitter analytics recently in the #rstats world, in part due to Michael Kearney’s excellent rtweet package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>nodbi</title>
       <link>https://data-scribers.mikewk.com/post/nodbi/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
@@ -4386,6 +4431,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/me-on-a-podcast/</guid>
       <description>Hey check it out! Me on a podcast: https://policyviz.com/podcast/episode-111-len-kiefer/. We talk about data visualization and how I use it at work. A bit about using R too. I got the opportunity to talk with Jon Schwabish on the Policyviz podcast&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building a Cryptocurrency Tracker with R</title>
+      <link>https://data-scribers.mikewk.com/post/building-a-cryptocurrency-trac/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-a-cryptocurrency-trac/</guid>
+      <description>TL;DR - check the tracker out here. As a recent cryptocurrency &amp;lsquo;Investor&amp;rsquo; (0&amp;hellip;</description>
     </item>
     
     <item>
@@ -5323,6 +5377,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/bayesian-estimation-of-signal-/</guid>
       <description>This post is the second part of a series of three blog posts: In the first part, I described how to estimate the equal variance Gaussian SDT (EVSDT) model for a single participant, using Bayesian (generalized linear and nonlinear) modeling techniques&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Market Research Can Tidy Up</title>
+      <link>https://data-scribers.mikewk.com/post/how-market-research-can-tidy-u/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-market-research-can-tidy-u/</guid>
+      <description>Synopsis Market Research is great at compiling the right data, but not so good at making it easy to use. This isn’t about “storytelling”. It’s about the data itself, and clarity on what delivering it actually means&amp;hellip;</description>
     </item>
     
     <item>

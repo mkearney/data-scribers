@@ -51,7 +51,8 @@ b_links <- b %>%
   sub("\\#.*|\\?", "", .) %>%
   sub("/2018/\\d{2}/.*", "", .) %>%
   unique() %>%
-	sort()
+  sort() %>%
+  grep("gizmodo", ., invert = TRUE, value = TRUE)
 
 ## remove duplicates
 uq <- sub("https?://", "", b_links)

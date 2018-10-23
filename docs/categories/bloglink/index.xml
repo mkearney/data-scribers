@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>Splicing HTML’s DNA With CSS Attribute Selectors</title>
+      <link>https://data-scribers.mikewk.com/post/splicing-htmls-dna-with-css-at/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/splicing-htmls-dna-with-css-at/</guid>
+      <description>For most of my career, attribute selectors have been more magic than science. I’d stare, gobsmacked, at the CSS for outputting a link in a print style sheet, understanding nothing. I’d dutifully copy, and paste it into my print stylesheet then run off to put out whatever project was the largest burning trash heap&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Week 3: #BarBarPlots</title>
+      <link>https://data-scribers.mikewk.com/post/week-3-barbarplots/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-3-barbarplots/</guid>
+      <description>This is the third of a series of posts on how to use ggplot2 to visualise data in R. This post introduces some new functions—use the help() if anything is unclear. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ZenBook Pro 15 UX580レビュー：ScreenPadのポテンシャルが高すぎて使い道がわからない</title>
       <link>https://data-scribers.mikewk.com/post/zenbook-pro-15-ux580%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCscreen/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
@@ -48,12 +66,30 @@
     </item>
     
     <item>
+      <title>iPhone XR vs iPhone XS、どちらのベゼルが薄いでしょうか!?</title>
+      <link>https://data-scribers.mikewk.com/post/iphone-xr-vs-iphone-xs%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AE%E3%83%99%E3%82%BC%E3%83%AB%E3%81%8C/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/iphone-xr-vs-iphone-xs%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AE%E3%83%99%E3%82%BC%E3%83%AB%E3%81%8C/</guid>
+      <description>iPhone XSよりちょっと大きく、iPhone XS&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>iPhone XR 先行インプレッション：ハイエンドのXS最大のライバル</title>
       <link>https://data-scribers.mikewk.com/post/iphone-xr-%E5%85%88%E8%A1%8C%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AExs%E6%9C%80%E5%A4%A7/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/iphone-xr-%E5%85%88%E8%A1%8C%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AExs%E6%9C%80%E5%A4%A7/</guid>
       <description>Photo:suzukoiPhoneキラーiPhone？9月のイベントで触ったときの印象からあまり変わりません。iPhoneXRは、iPhoneXS最大のライバルです。カラフルでポップなデザイン、ぎりぎり片手で使えそうな6&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>「iPhone XR」加入後のiPhoneファミリーで、ゲシュタルト崩壊！ 再び！</title>
+      <link>https://data-scribers.mikewk.com/post/iphone-xr%E5%8A%A0%E5%85%A5%E5%BE%8C%E3%81%AEiphone%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%A7%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/iphone-xr%E5%8A%A0%E5%85%A5%E5%BE%8C%E3%81%AEiphone%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%A7%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB/</guid>
+      <description>Photo:三浦一紀目が変になりそう。iPhoneファミリーに新規加入するiPhoneXR。やはり新メンバーを迎えるときには、みんなで記念撮影をしたいものですよね。iPhoneSEからMaxまでをずらりと並べて大きさを比較してみたら、iPhoneのゲシュタルト崩壊が起きたiPhoneSEがかわいい。昨日、編集部に一足早くやってきたiPhoneXSとiPhoneXSMax。みんなでいろいろ触ってみた&amp;hellip;</description>
     </item>
     
     <item>
@@ -120,6 +156,15 @@
     </item>
     
     <item>
+      <title>シングルカメラのiPhone XR、デジタルズームは使いモノになる？</title>
+      <link>https://data-scribers.mikewk.com/post/%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AEiphone-xr%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%BA%E3%83%BC%E3%83%A0%E3%81%AF%E4%BD%BF%E3%81%84%E3%83%A2%E3%83%8E%E3%81%AB/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AEiphone-xr%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%BA%E3%83%BC%E3%83%A0%E3%81%AF%E4%BD%BF%E3%81%84%E3%83%A2%E3%83%8E%E3%81%AB/</guid>
+      <description>Photo:武者良太過度な期待はイケないとわかってはいるのですが！デュアルカメラのiPhoneXSに対して、iPhoneXRはシングルカメラ。外側には広角レンズのカメラしか搭載していません。Photo:武者良太でもスマートフォンならデジタルズームがお手軽に使えるのは、みなさまご存知のとおり。ならばこそ知りたくないですか。iPhoneXRでどこまでのズームが楽しめるのかを。広角撮影時はシャープで色味&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>スティーブン・ホーキング博士の遺品がオークションに。車椅子やアニメの台本が出品される</title>
       <link>https://data-scribers.mikewk.com/post/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%83%9B%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E5%8D%9A%E5%A3%AB%E3%81%AE%E9%81%BA%E5%93%81%E3%81%8C%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E8%BB%8A%E6%A4%85%E5%AD%90%E3%82%84%E3%82%A2%E3%83%8B/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
@@ -144,6 +189,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/%E5%A4%96%E3%81%AF%E9%9A%A0%E3%81%97%E3%81%A6%E5%86%85%E3%82%92%E5%87%BA%E3%81%9D%E3%81%86reality-avatar%E3%81%AF%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E4%BD%9C/</guid>
       <description>3Dアバターの作成とライブ配信が可能なアプリ「REALITY&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>好み別れるシングルカメラ。iPhone XRのポートレートモードはXSよりも、寄れる！</title>
+      <link>https://data-scribers.mikewk.com/post/%E5%A5%BD%E3%81%BF%E5%88%A5%E3%82%8C%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9iphone-xr%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E3%83%A2%E3%83%BC/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%E5%A5%BD%E3%81%BF%E5%88%A5%E3%82%8C%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9iphone-xr%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E3%83%A2%E3%83%BC/</guid>
+      <description>Photo:武者良太画面に映った顔でも認識するんだね！iPhoneのポートレートモード（ボケモード）は、デュアルカメラ搭載機のみが使えるご褒美でした。しかしiPhoneXRは広角のみのシングルカメラでありながら、背景をデジタルボケにしてくれるポートレートモードが使えるときた！かみさまアップルさまありがとう！Image:ギズモード・ジャパンしかしワナもありました。被写体にiPhoneXRをカメラを向&amp;hellip;</description>
     </item>
     
     <item>

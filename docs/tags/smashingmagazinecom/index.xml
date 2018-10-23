@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Splicing HTML’s DNA With CSS Attribute Selectors</title>
+      <link>https://data-scribers.mikewk.com/post/splicing-htmls-dna-with-css-at/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/splicing-htmls-dna-with-css-at/</guid>
+      <description>For most of my career, attribute selectors have been more magic than science. I’d stare, gobsmacked, at the CSS for outputting a link in a print style sheet, understanding nothing. I’d dutifully copy, and paste it into my print stylesheet then run off to put out whatever project was the largest burning trash heap&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Monthly Web Development Update 10/2018</title>

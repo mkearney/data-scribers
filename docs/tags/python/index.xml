@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 3: #BarBarPlots</title>
+      <link>https://data-scribers.mikewk.com/post/week-3-barbarplots/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-3-barbarplots/</guid>
+      <description>This is the third of a series of posts on how to use ggplot2 to visualise data in R. This post introduces some new functions—use the help() if anything is unclear. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Serving Keras models in golang</title>

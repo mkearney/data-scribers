@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Week 3: #BarBarPlots</title>
+      <link>https://data-scribers.mikewk.com/post/week-3-barbarplots/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-3-barbarplots/</guid>
+      <description>This is the third of a series of posts on how to use ggplot2 to visualise data in R. This post introduces some new functions—use the help() if anything is unclear. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Colors</title>
       <link>https://data-scribers.mikewk.com/post/colors/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>

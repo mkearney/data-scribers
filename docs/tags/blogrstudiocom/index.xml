@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>plumber is a package that converts your existing R code to a web API using a handful of special one-line comments. RStudio 1.2 provides the following plumber-related productivity enhancements: Let&amp;rsquo;s take a look at the new features&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Summer Intern Projects</title>

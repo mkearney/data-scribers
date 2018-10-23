@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>RStudio 1.2 Preview</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview/</guid>
+      <description>plumber is a package that converts your existing R code to a web API using a handful of special one-line comments. RStudio 1.2 provides the following plumber-related productivity enhancements: Let&amp;rsquo;s take a look at the new features&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Week 3: #BarBarPlots</title>
       <link>https://data-scribers.mikewk.com/post/week-3-barbarplots/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>

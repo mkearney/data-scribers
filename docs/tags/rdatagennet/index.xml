@@ -6,10 +6,19 @@
     <description>Recent content in Rdatagennet on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rdatagennet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cross-over study design with a major constraint</title>
+      <link>https://data-scribers.mikewk.com/post/crossover-study-design-with-a-/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/crossover-study-design-with-a-/</guid>
+      <description>This post takes a look at how to generate data for and analyze data from a more standard cross-over trial, and then presents the solution we came up with for the problem at hand&amp;hellip;</description>
+    </item>
     
     <item>
       <title>In regression, we assume noise is independent of all measured predictors. What happens if it isn&#39;t?</title>

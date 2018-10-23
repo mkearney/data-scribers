@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiaoio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/tiaoio/</link>
+    <description>Recent content in Tiaoio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/tiaoio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Approximating the KL Divergence Between Implicit Distributions with Density Ratio Estimation</title>
+      <link>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</guid>
+      <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Probability Distributions with the TensorFlow Probability Bijector API</title>
+      <link>https://data-scribers.mikewk.com/post/building-probability-distribut/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-probability-distribut/</guid>
+      <description>The underlying process that generates samples $\tilde{\mathbf{y}} \sim p{Y}(\mathbf{y})$ is simple to describe, and is of the general form, $$ \tilde{\mathbf{y}} \sim p{Y}(\mathbf{y}) \quad \Leftrightarrow \quad \tilde{\mathbf{y}} = G(\tilde{\mathbf{x}}), \quad \tilde{\mathbf{x}} \sim&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Tutorial on Variational Autoencoders with a Concise Keras Implementation</title>
+      <link>https://data-scribers.mikewk.com/post/a-tutorial-on-variational-auto/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tutorial-on-variational-auto/</guid>
+      <description>$$ p{\theta}(\mathbf{x}, \mathbf{z}) = p{\theta}(\mathbf{x} | \mathbf{z}) p(\mathbf{z}). $$ In a typical instance of the variational autoencoder, we have only a single layer of latent variables with a Normal prior distribution, $$ p(\mathbf{z}) = \mathcal{N}(\mathbf{0},&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

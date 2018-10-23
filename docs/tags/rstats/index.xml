@@ -1210,6 +1210,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Approximating the KL Divergence Between Implicit Distributions with Density Ratio Estimation</title>
+      <link>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</guid>
+      <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Readiness or Between-player normalisation</title>
       <link>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>

@@ -3863,6 +3863,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
@@ -4605,6 +4610,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/building-probability-distribut/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12818,6 +12828,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/a-tutorial-on-variational-auto/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/getting-started-with-the-acade/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -15209,6 +15224,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/thugrlife/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/tiaoio/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

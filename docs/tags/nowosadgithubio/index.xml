@@ -6,10 +6,19 @@
     <description>Recent content in Nowosadgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/nowosadgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How much our maps are distorted?</title>
+      <link>https://data-scribers.mikewk.com/post/how-much-our-maps-are-distorte/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-much-our-maps-are-distorte/</guid>
+      <description>This, of course, provoked me to ask: is it reproduclible? And more specifically, can it be reproduced in the open source statistical programming R? Now you have the necessary packages, the next step is to attach (aka load) the ones we’ll use: The result is a good approximation of the relations between true and distorted&amp;hellip;</description>
+    </item>
     
     <item>
       <title>The world (population) is changing</title>

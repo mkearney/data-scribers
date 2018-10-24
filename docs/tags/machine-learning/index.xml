@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Predicting Airfares on New Routes</title>
+      <link>https://data-scribers.mikewk.com/post/predicting-airfares-on-new-rou/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/predicting-airfares-on-new-rou/</guid>
+      <description>This post will talk about multiple linear regression in the context of machine learning. Linear regression is one of the simplest and most used approaches for supervised learning. This tutorial will try to help you in how to use the linear regression algorithm&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Serving Keras models in golang</title>
       <link>https://data-scribers.mikewk.com/post/serving-keras-models-in-golang/</link>
       <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>

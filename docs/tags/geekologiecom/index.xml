@@ -6,10 +6,19 @@
     <description>Recent content in Geekologiecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/geekologiecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Classic</title>
+      <link>https://data-scribers.mikewk.com/post/classic/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/classic/</guid>
+      <description>FULL DISCLOSURE: I&amp;rsquo;ve been puking for three days and operating with almost no sleep or food in my system but I&amp;rsquo;m gonna try the best I can but I really don&amp;rsquo;t feel well. NASA was recently able to repair a gyroscope that was spinning too fast aboard the Hubble Space Telescope and preventing the telescope from being able to lock onto a target by turning it off and back on again&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Dead, Back Tomorrow</title>

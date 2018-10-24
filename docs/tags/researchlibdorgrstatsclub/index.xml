@@ -6,10 +6,19 @@
     <description>Recent content in Researchlibdorgrstatsclub on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/researchlibdorgrstatsclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>“Demystifying Data Science” remote notes</title>
+      <link>https://data-scribers.mikewk.com/post/demystifying-data-science-remo/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/demystifying-data-science-remo/</guid>
+      <description>The major fields are: Common issues were: She also noted that we should be careful about color schemes. She suggested that there are websites to check how your figures would appear to others with colorblindness&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Hacking our way through UpSetR</title>

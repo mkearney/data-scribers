@@ -6,10 +6,19 @@
     <description>Recent content in Gcppodcastcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/gcppodcastcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Corporations and Communities in Africa with Karim Beguir &amp; Muthoni Wanyoike</title>
+      <link>https://data-scribers.mikewk.com/post/ai-corporations-and-communitie/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ai-corporations-and-communitie/</guid>
+      <description>Instadeep helps large enterprises understand how AI can benefit them. Karim stresses that it is possible to build advanced AI and machine learning programs in Africa because of the growing community of passionate developers and mentors for the new generation&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Java &amp; Jib with Patrick Flynn and Mike Eltsufin</title>

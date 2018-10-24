@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Playback On The Web</title>
+      <link>https://data-scribers.mikewk.com/post/video-playback-on-the-web/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/video-playback-on-the-web/</guid>
+      <description>Usage of video on the web is increasing as devices and networks become faster and more capable of handling video content. Research shows that sites with video increase engagement by 80%. E-Commerce sites with video have higher conversions than sites without video&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Splicing HTML’s DNA With CSS Attribute Selectors</title>

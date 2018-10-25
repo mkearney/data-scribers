@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>I&#39;m Flying Jack!</title>
+      <link>https://data-scribers.mikewk.com/post/im-flying-jack/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/im-flying-jack/</guid>
+      <description>This is an older video of a group of kids pushing a 300kg (~660-pound) tractor tire down a hill to watch it bounce and catch some serious air before cannonballing into the lake below to start a new freshwater reef. &amp;ldquo;There&amp;rsquo;s no such thing.&amp;rdquo; There is a such thing, that&amp;rsquo;s just not what this tire is going to do&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>NFL team logos using ggimage</title>
       <link>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -36,6 +45,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</guid>
       <description>@niszet0 さんの “R MarkdownでWord文書を作ろう” を摘み食いしてます (以下RmdでWord本)．&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Replicating Flowingdata Population Charts in R</title>
+      <link>https://data-scribers.mikewk.com/post/replicating-flowingdata-popula/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/replicating-flowingdata-popula/</guid>
+      <description>Nathan Yau recently produced a number of really nice looking visualisations of population data as part of an article entitled “Ask the Question, Visualize the Answer”&amp;hellip;</description>
     </item>
     
     <item>
@@ -207,6 +225,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/introducing-connectors/</guid>
       <description>Introduction We&amp;rsquo;re excited today to introduce you to a preview release of a new Wallaroo feature: Connectors. Connectors make inputting and receiving data from Wallaroo even easier&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 22-10-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-22102018/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-22102018/</guid>
+      <description>It&amp;rsquo;s been a few weeks since I&amp;rsquo;ve been able to look at a #MakeoverMonday as I&amp;rsquo;ve been very busy with other things. But back at it this week, this time looking at beer prices at different baseball grounds&amp;hellip;</description>
     </item>
     
     <item>
@@ -4377,6 +4404,15 @@
     </item>
     
     <item>
+      <title>MakeoverMonday 31-10-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-31102018/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-31102018/</guid>
+      <description>This MakeoverMonday was looking at the prices of avocados in the USA. The original visualisation looked like this: What about the original could be improved? The background image is distracting and makes it harder to read the graph. Though it&amp;rsquo;s clear from the title, I&amp;rsquo;d rather have some indication of time on the x-axis&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Oulun kaupunkialueella joka neljäs matka tehdään polkupyörällä</title>
       <link>https://data-scribers.mikewk.com/post/oulun-kaupunkialueella-joka-ne/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
@@ -5511,6 +5547,15 @@
     </item>
     
     <item>
+      <title>MakeoverMonday 24-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-24092018/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-24092018/</guid>
+      <description>MakeoverMonday was focussed on global gender equality, with a dataset from Equal Measures 2030 which consisted of survey results asking global advocates about their priorities and converns around existing data sources&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>October Magic For Your Desktop (2018 Edition)</title>
       <link>https://data-scribers.mikewk.com/post/october-magic-for-your-desktop/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
@@ -5877,6 +5922,24 @@
       
       <guid>https://data-scribers.mikewk.com/post/let-me-count-the-ways/</guid>
       <description>When we want to learn how to do something new in R, we all start by googling it. Having worked out simple ANOVA, next on my list is repeated measures. HAHAHAHAHA- got me…. When we were talking one-way ANOVA we used this formula. When participants contribute to all levels of condition, we need to describe that in the error term&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 17-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-17092018/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-17092018/</guid>
+      <description>MakeoverMonday this week was on the topic of transport costs, and remaking a chart original produced by DW.com. The original visualisation was a simple line chart showing the prices of train and plane tickets as the date of the journey approaches&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tueday - 18-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tueday-18092018/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tueday-18092018/</guid>
+      <description>For this #TidyTuesday there we two different datasets to look at, one was a table from an article in the magazine of the &amp;ldquo;Soaring Society of America&amp;rdquo; and the other was a dataset containing detailed information on US airports&amp;hellip;</description>
     </item>
     
     <item>
@@ -6367,12 +6430,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>MakeoverMonday 10-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-10092018/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-10092018/</guid>
+      <description>This week&amp;rsquo;s #MakeoverMonday challenge was to take a dataset contributed by ProPublica of spending by politicians/government agencies at properties owned by Donald Trump&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Predicción del consumo eléctrico (I)</title>
       <link>https://data-scribers.mikewk.com/post/predicci%C3%B3n-del-consumo-el%C3%A9ctri/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/predicci%C3%B3n-del-consumo-el%C3%A9ctri/</guid>
       <description>A menudo, cuando se aplica el concepto predicción en el sector eléctrico tiende a relacionarse inmediatamente con dos conceptos: el consumo y el precio. El primero el fundamental para no penalizar desvíos&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday - 11-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-11092018/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-11092018/</guid>
+      <description>This is a slightly late submission, didn&amp;rsquo;t have time during the week as I was at EARL for most of the week (hope to write a few words on this soon!)&amp;hellip;</description>
     </item>
     
     <item>
@@ -6610,6 +6691,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Exploring test cricket boundary rates in R</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-test-cricket-boundar/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-test-cricket-boundar/</guid>
+      <description>This past Friday, I was in the pub with a couple of colleagues watching the cricket. As you&amp;rsquo;d expect for a bunch of people who deal with numbers all day, there&amp;rsquo;s was a lot discussion of various statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>I graduated!</title>
       <link>https://data-scribers.mikewk.com/post/i-graduated/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
@@ -6637,6 +6727,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Tidy Tuesday 04-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-04092018/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-04092018/</guid>
+      <description>Over the last few months, I&amp;rsquo;d been taking part in #MakeoverMonday to practice different types of visualisation. I&amp;rsquo;ve not written these up yet, but plenty of examples can be seen on my Twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Women, Not a &#39;Liberal  Tea Party,&#39; are Changing the Democratic Party</title>
       <link>https://data-scribers.mikewk.com/post/women-not-a-liberal-tea-party-/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
@@ -6652,6 +6751,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/sfchlorodot-minipackage/</guid>
       <description>The basic idea of the dot chloropleths is to visualise not only the location clustering of each variable but the number of observations (something traditional ‘filled’ chloropleths don’t do). More importantly than this, the maps also just look really really cool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#SWDchallenge - September 2018</title>
+      <link>https://data-scribers.mikewk.com/post/swdchallenge-september-2018/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/swdchallenge-september-2018/</guid>
+      <description>This was the second time that I’ve taken part in the #SWDchallenge. Full details of the challenge can be seen here. The summary is that the goal is to remake this pie chart into something better&amp;hellip;</description>
     </item>
     
     <item>

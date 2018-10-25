@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stevejburrcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/stevejburrcom/</link>
+    <description>Recent content in Stevejburrcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/stevejburrcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Replicating Flowingdata Population Charts in R</title>
+      <link>https://data-scribers.mikewk.com/post/replicating-flowingdata-popula/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/replicating-flowingdata-popula/</guid>
+      <description>Nathan Yau recently produced a number of really nice looking visualisations of population data as part of an article entitled “Ask the Question, Visualize the Answer”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 22-10-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-22102018/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-22102018/</guid>
+      <description>It&amp;rsquo;s been a few weeks since I&amp;rsquo;ve been able to look at a #MakeoverMonday as I&amp;rsquo;ve been very busy with other things. But back at it this week, this time looking at beer prices at different baseball grounds&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 31-10-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-31102018/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-31102018/</guid>
+      <description>This MakeoverMonday was looking at the prices of avocados in the USA. The original visualisation looked like this: What about the original could be improved? The background image is distracting and makes it harder to read the graph. Though it&amp;rsquo;s clear from the title, I&amp;rsquo;d rather have some indication of time on the x-axis&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 24-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-24092018/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-24092018/</guid>
+      <description>MakeoverMonday was focussed on global gender equality, with a dataset from Equal Measures 2030 which consisted of survey results asking global advocates about their priorities and converns around existing data sources&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 17-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-17092018/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-17092018/</guid>
+      <description>MakeoverMonday this week was on the topic of transport costs, and remaking a chart original produced by DW.com. The original visualisation was a simple line chart showing the prices of train and plane tickets as the date of the journey approaches&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tueday - 18-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tueday-18092018/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tueday-18092018/</guid>
+      <description>For this #TidyTuesday there we two different datasets to look at, one was a table from an article in the magazine of the &amp;ldquo;Soaring Society of America&amp;rdquo; and the other was a dataset containing detailed information on US airports&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MakeoverMonday 10-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/makeovermonday-10092018/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/makeovermonday-10092018/</guid>
+      <description>This week&amp;rsquo;s #MakeoverMonday challenge was to take a dataset contributed by ProPublica of spending by politicians/government agencies at properties owned by Donald Trump&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday - 11-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-11092018/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-11092018/</guid>
+      <description>This is a slightly late submission, didn&amp;rsquo;t have time during the week as I was at EARL for most of the week (hope to write a few words on this soon!)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring test cricket boundary rates in R</title>
+      <link>https://data-scribers.mikewk.com/post/exploring-test-cricket-boundar/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/exploring-test-cricket-boundar/</guid>
+      <description>This past Friday, I was in the pub with a couple of colleagues watching the cricket. As you&amp;rsquo;d expect for a bunch of people who deal with numbers all day, there&amp;rsquo;s was a lot discussion of various statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday 04-09-2018</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-tuesday-04092018/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-tuesday-04092018/</guid>
+      <description>Over the last few months, I&amp;rsquo;d been taking part in #MakeoverMonday to practice different types of visualisation. I&amp;rsquo;ve not written these up yet, but plenty of examples can be seen on my Twitter&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#SWDchallenge - September 2018</title>
+      <link>https://data-scribers.mikewk.com/post/swdchallenge-september-2018/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/swdchallenge-september-2018/</guid>
+      <description>This was the second time that I’ve taken part in the #SWDchallenge. Full details of the challenge can be seen here. The summary is that the goal is to remake this pie chart into something better&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

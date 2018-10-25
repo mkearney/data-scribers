@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Explosive Experimentation</title>
+      <link>https://data-scribers.mikewk.com/post/explosive-experimentation/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/explosive-experimentation/</guid>
+      <description>Note: Some appropriate cursing at the very end. This is a video of two idiots men after my own heart igniting a leaf pile after dousing it with a healthy amount of gasoline. You can tell they&amp;rsquo;re seasoned professionals because of the rolled up paper towels they&amp;rsquo;re using to try to start the fire&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>I&#39;m Flying Jack!</title>
       <link>https://data-scribers.mikewk.com/post/im-flying-jack/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -36,6 +45,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</guid>
       <description>First, we read in the data, and create what would be a typical plot that highlights run and pass performance for each offense. There’s a bunch that can be gleamed from the chart above&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Paikkatietoaineistojen lataaminen rajapinnalta R</title>
+      <link>https://data-scribers.mikewk.com/post/paikkatietoaineistojen-lataami/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/paikkatietoaineistojen-lataami/</guid>
+      <description>Huomasin analysoidessani Oulun postinumeroalueita, että R:llä useiden eri shapefilejen lataaminen WFS-rajapinnalta käy aivan leikiten. Kun äskettäin opin myös hyödyntämään yhä paremmin stringr-paketin työkaluja kuten str_split() (stringin paloittelu) ja str_subset (string-vektorin suodatus), hiirityöskentelyn määrä lähentelee nollaa&amp;hellip;</description>
     </item>
     
     <item>

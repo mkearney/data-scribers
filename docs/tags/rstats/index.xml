@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Paikkatietoaineistojen lataaminen rajapinnalta R</title>
+      <link>https://data-scribers.mikewk.com/post/paikkatietoaineistojen-lataami/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/paikkatietoaineistojen-lataami/</guid>
+      <description>Huomasin analysoidessani Oulun postinumeroalueita, että R:llä useiden eri shapefilejen lataaminen WFS-rajapinnalta käy aivan leikiten. Kun äskettäin opin myös hyödyntämään yhä paremmin stringr-paketin työkaluja kuten str_split() (stringin paloittelu) ja str_subset (string-vektorin suodatus), hiirityöskentelyn määrä lähentelee nollaa&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R Markdown で PlantUML</title>
       <link>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>

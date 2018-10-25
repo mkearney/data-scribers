@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/video-playback-on-the-web/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -6945,6 +6950,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/yelpr-package-for-yelp-fusion-/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/adventures-in-r-and-compiled-c/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13963,6 +13973,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/datatable-vs-dplyr-in-split-ap/</loc>
+    <lastmod>2014-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/singleton-in-javascript/</loc>
     <lastmod>2014-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -13975,6 +13990,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/mtu-on-nexus-switches-cdp-and-/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/performance-impact-of-s3-and-s/</loc>
+    <lastmod>2014-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14764,7 +14784,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/atusygithubioblog/</loc>
-    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14867,6 +14887,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/brendanmolinnetlifycom/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/brodiegcom/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

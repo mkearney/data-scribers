@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>R Markdown で PlantUML</title>
+      <link>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</guid>
+      <description>@niszet0 さんの “R MarkdownでWord文書を作ろう” を摘み食いしてます (以下RmdでWord本)．&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Video Playback On The Web</title>
       <link>https://data-scribers.mikewk.com/post/video-playback-on-the-web/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -12513,6 +12522,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/yelpr-package-for-yelp-fusion-/</guid>
       <description>The available functions to search businesses are: Here we can retrieve the first 5 results in ‘New York’ with the term ‘chinese’ The available functions to search events are: So we can get details of featured event in the given location using the longitude and latitude&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in R and Compiled Code</title>
+      <link>https://data-scribers.mikewk.com/post/adventures-in-r-and-compiled-c/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adventures-in-r-and-compiled-c/</guid>
+      <description>Preface My programming background is mostly in interpreted languages, so much of what follows will be obvious to experienced C programmers. If you notice any errors please let me know. I share this in the hopes it may be helpful to others taking the leap into C from R&amp;hellip;</description>
     </item>
     
     <item>
@@ -25146,6 +25164,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>data.table vs. dplyr in Split Apply Combine Style Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/datatable-vs-dplyr-in-split-ap/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/datatable-vs-dplyr-in-split-ap/</guid>
+      <description>Overview In this post I will compare the use and performance of dplyr and data.table for the purposes of “split apply combine” style analysis, with some comparisons to base R methods. Skip to the bottom of the post if you’re just interested in the benchmarks&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Singleton in JavaScript</title>
       <link>https://data-scribers.mikewk.com/post/singleton-in-javascript/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
@@ -25170,6 +25197,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/mtu-on-nexus-switches-cdp-and-/</guid>
       <description>Some time ago I&amp;rsquo;ve installed the new core switches for a customer: a couple of Nexus 7000, a couple of 5000 and twelve Nexus 2232TM, Virtual port channels, VLANs, Radius auth and so on.. all the usual configs a good network engineer does. Since the Nexus 5000 are connected to an iSCSI storage I&amp;rsquo;ve configured Jumbo frames&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Performance Impact of S3 and S4 Dispatch</title>
+      <link>https://data-scribers.mikewk.com/post/performance-impact-of-s3-and-s/</link>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/performance-impact-of-s3-and-s/</guid>
+      <description>The Setup I have known for a while that S3 and S4 dispatch carries a performance penalty, but I have never run into a situation where it is a glaring problem&amp;hellip;</description>
     </item>
     
     <item>

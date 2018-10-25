@@ -6,10 +6,19 @@
     <description>Recent content in Atusygithubioblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/atusygithubioblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R Markdown で PlantUML</title>
+      <link>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</guid>
+      <description>@niszet0 さんの “R MarkdownでWord文書を作ろう” を摘み食いしてます (以下RmdでWord本)．&amp;hellip;</description>
+    </item>
     
     <item>
       <title>結婚式で使った楽曲</title>

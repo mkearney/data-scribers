@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>R Markdown で PlantUML</title>
+      <link>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</guid>
+      <description>@niszet0 さんの “R MarkdownでWord文書を作ろう” を摘み食いしてます (以下RmdでWord本)．&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>From Messy to Tidy</title>
       <link>https://data-scribers.mikewk.com/post/from-messy-to-tidy/</link>
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
@@ -3360,6 +3369,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/name-your-code-chunks/</guid>
       <description>Blogdown is amazing, but there is one thing that tripped me up, and I just worked out why. I have lots of graphs in my posts, but I was sometimes getting the wrong ones, and I was wondering why that was&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adventures in R and Compiled Code</title>
+      <link>https://data-scribers.mikewk.com/post/adventures-in-r-and-compiled-c/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adventures-in-r-and-compiled-c/</guid>
+      <description>Preface My programming background is mostly in interpreted languages, so much of what follows will be obvious to experienced C programmers. If you notice any errors please let me know. I share this in the hopes it may be helpful to others taking the leap into C from R&amp;hellip;</description>
     </item>
     
     <item>
@@ -7510,6 +7528,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/ccie-renewed/</guid>
       <description>In the very last day of availability of the CCIE v4 350-001 written exam I&amp;rsquo;ve renewed my CCIE for a couple of years more: My plan was to recertify with another track - Wireless or Security - but life happens and I took the easy path and did R&amp;amp;S again. I&amp;rsquo;ve passed the same written exam 3 times&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>data.table vs. dplyr in Split Apply Combine Style Analysis</title>
+      <link>https://data-scribers.mikewk.com/post/datatable-vs-dplyr-in-split-ap/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/datatable-vs-dplyr-in-split-ap/</guid>
+      <description>Overview In this post I will compare the use and performance of dplyr and data.table for the purposes of “split apply combine” style analysis, with some comparisons to base R methods. Skip to the bottom of the post if you’re just interested in the benchmarks&amp;hellip;</description>
     </item>
     
     <item>

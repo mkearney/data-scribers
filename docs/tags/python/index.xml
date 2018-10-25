@@ -1245,6 +1245,15 @@
     </item>
     
     <item>
+      <title>Distributing an Angular Library - The Brief Guide</title>
+      <link>https://data-scribers.mikewk.com/post/distributing-an-angular-librar/</link>
+      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distributing-an-angular-librar/</guid>
+      <description>In this post I&amp;rsquo;ll quickly explain the minimum you need to know in order to publish an Angular component to npm. By the end of the post you&amp;rsquo;ll know how your module can: Be platform independent (i.e. run in Web Workers, Universal). Should be bundled and distributed. Work with the Angular&amp;rsquo;s Ahead-of-Time compiler&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Python Events in 2017, Need your help!</title>
       <link>https://data-scribers.mikewk.com/post/python-events-in-2017-need-you/</link>
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
@@ -1380,6 +1389,24 @@
     </item>
     
     <item>
+      <title>Aspect-Oriented Programming in JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/aspectoriented-programming-in-/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aspectoriented-programming-in-/</guid>
+      <description>Note: The following blog post is based on the library aspect.js, which can be found here. The object-oriented programming paradigm is powerful&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using JSX with TypeScript</title>
+      <link>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</guid>
+      <description>JavaScript is a weird language although, we love it the way it is. However, I&amp;rsquo;ve had quite a painful experience working on big JavaScript projects. It was painful in the same way it gets painful working on huge Ruby, Python, PHP projects. Once you have code base above 10-15k lines of code and you decide to do some refactoring..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Docker Install software inside a container</title>
       <link>https://data-scribers.mikewk.com/post/docker-install-software-inside/</link>
       <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
@@ -1467,6 +1494,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/lets-python/</guid>
       <description>Inspired by the CodeAcademy project, I&amp;rsquo;ve decided to learn a programming language this year. Back in high school I&amp;rsquo;ve learnt Pascal, Delphi, Assembly and C but many years passed so I forgot all the sintax but not the basics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ajax without jQuery for beginners</title>
+      <link>https://data-scribers.mikewk.com/post/ajax-without-jquery-for-beginn/</link>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ajax-without-jquery-for-beginn/</guid>
+      <description>Before years I was writing all the code by my own, without additional libraries (including jQuery). For beginner developer it’s a good strategy. When you use $.ajax it’s all that easy: }); But you can’t get the main idea. Many developers don’t have an idea how to write this without a library&amp;hellip;</description>
     </item>
     
   </channel>

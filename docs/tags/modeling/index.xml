@@ -984,6 +984,15 @@
     </item>
     
     <item>
+      <title>Fast, extensible, configurable, and beautiful linter for Go</title>
+      <link>https://data-scribers.mikewk.com/post/fast-extensible-configurable-a/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fast-extensible-configurable-a/</guid>
+      <description>About a year ago I decided to polish my Go skills. Although the language is pretty small compared to most others that I use on a daily basis, it still has some useful syntax constructs that I didn&amp;rsquo;t use enough. What a better way to brush up your skills in a programming language other than building tools with it..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Jenkins as a Service</title>
       <link>https://data-scribers.mikewk.com/post/jenkins-as-a-service/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
@@ -1179,6 +1188,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/functional-programming-in-r-wi/</guid>
       <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Driven Bundling. The Future of JavaScript Tooling.</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</guid>
+      <description>In this article, I&amp;rsquo;ll introduce the early implementation of a few tools which based on techniques from the machine learning allow us to perform data-driven chunk clustering and pre-fetching for single-page applications&amp;hellip;</description>
     </item>
     
     <item>
@@ -2010,6 +2028,15 @@
     </item>
     
     <item>
+      <title>7 Angular Tools That You Should Consider</title>
+      <link>https://data-scribers.mikewk.com/post/7-angular-tools-that-you-shoul/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/7-angular-tools-that-you-shoul/</guid>
+      <description>In this article we&amp;rsquo;re going to quickly explore 7 Angular development tools which can make our everyday life easier. The purpose of the list is to not be opinionated architecture wise&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Parallel benchmarking with OpenML and mlr</title>
       <link>https://data-scribers.mikewk.com/post/parallel-benchmarking-with-ope/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
@@ -2190,6 +2217,15 @@
     </item>
     
     <item>
+      <title>Building an Angular Application for Production</title>
+      <link>https://data-scribers.mikewk.com/post/building-an-angular-applicatio/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-an-angular-applicatio/</guid>
+      <description>Progressive Web Applications help us build native-like web apps, thanks to amazing tools such as Service Workers, IndexDB, App Shell etc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The Power of (purrr, tidy, broom)-Exploring Climate Change Trends</title>
       <link>https://data-scribers.mikewk.com/post/the-power-of-purrr-tidy-broome/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
@@ -2316,6 +2352,15 @@
     </item>
     
     <item>
+      <title>Using JSX with TypeScript</title>
+      <link>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</guid>
+      <description>JavaScript is a weird language although, we love it the way it is. However, I&amp;rsquo;ve had quite a painful experience working on big JavaScript projects. It was painful in the same way it gets painful working on huge Ruby, Python, PHP projects. Once you have code base above 10-15k lines of code and you decide to do some refactoring..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>IVMOOC Reflections</title>
       <link>https://data-scribers.mikewk.com/post/ivmooc-reflections/</link>
       <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
@@ -2379,6 +2424,15 @@
     </item>
     
     <item>
+      <title>Remote Desktop Client with AngularJS and Yeoman</title>
+      <link>https://data-scribers.mikewk.com/post/remote-desktop-client-with-ang/</link>
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/remote-desktop-client-with-ang/</guid>
+      <description>In this blog post I’m going to show you how to build a VNC client using AngularJS and Yeoman. The source code used in the post is available at my GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Grammar of Models?</title>
       <link>https://data-scribers.mikewk.com/post/a-grammar-of-models/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
@@ -2388,12 +2442,39 @@
     </item>
     
     <item>
+      <title>Lazy prefetching of AngularJS partials</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-prefetching-of-angularjs-/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-prefetching-of-angularjs-/</guid>
+      <description>This blog post is concentrated about web performance. I’ll skip the well known stuff about combining images into sprites, inlining images, DNS pre-fetching, combining and minifying script files, gzipping and so on&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Statistics Can Do Anything?</title>
       <link>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/statistics-can-do-anything/</guid>
       <description>Sometimes people are fond of saying: I think that this is the equivalent of saying: &amp;hellip;What I am saying is true because of my argument. And statistics&amp;hellip; The same goes for statistics, you could perform a variety of tests to support a particular point. The reader also has a responsibility to evaluate their use of tools to construct and support their&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Aspect-Oriented Programming with AngularJS</title>
+      <link>https://data-scribers.mikewk.com/post/aspectoriented-programming-wit/</link>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aspectoriented-programming-wit/</guid>
+      <description>In the following blog post I’ll write few words about what is Aspect-Oriented Programming, why I think it will be useful in AngularJS and I’m also going to give you a short tutorial for using a simple AOP framework I’ve developed. First things first&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Debian Squeeze &#43; LXDE on Google Nexus S (or having some fun while suffering)</title>
+      <link>https://data-scribers.mikewk.com/post/debian-squeeze-lxde-on-google-/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/debian-squeeze-lxde-on-google-/</guid>
+      <description>I’m here again, after a long pause. For a while I’ve got problems with my health and I’m nailed at home&amp;hellip;so I’ve go a lot of free time. Last night I’ve decided to root my Google Nexus S. I use Ubuntu 12.04 on my home machine so I put on it Oracle Java and Android SDK&amp;hellip;</description>
     </item>
     
     <item>

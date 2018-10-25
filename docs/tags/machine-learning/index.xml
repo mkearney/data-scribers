@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</title>
+      <link>https://data-scribers.mikewk.com/post/playing-mortal-kombat-with-ten/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/playing-mortal-kombat-with-ten/</guid>
+      <description>While experimenting with enhancements of the prediction model of Guess.js, I started looking at deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Machine Learning Posts - Digest 01</title>
       <link>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
@@ -423,6 +432,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/nvidia-and-deep-learning-resea/</guid>
       <description>Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Driven Bundling. The Future of JavaScript Tooling.</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</guid>
+      <description>In this article, I&amp;rsquo;ll introduce the early implementation of a few tools which based on techniques from the machine learning allow us to perform data-driven chunk clustering and pre-fetching for single-page applications&amp;hellip;</description>
     </item>
     
     <item>

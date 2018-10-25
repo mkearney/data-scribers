@@ -723,6 +723,15 @@
     </item>
     
     <item>
+      <title>Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</title>
+      <link>https://data-scribers.mikewk.com/post/playing-mortal-kombat-with-ten/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/playing-mortal-kombat-with-ten/</guid>
+      <description>While experimenting with enhancements of the prediction model of Guess.js, I started looking at deep learning&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Possibility of heteroskedasticity is a good reason not to dichotomize a continuous variable for use as outcome in logistic regression.</title>
       <link>https://data-scribers.mikewk.com/post/possibility-of-heteroskedastic/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
@@ -10842,6 +10851,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Fast, extensible, configurable, and beautiful linter for Go</title>
+      <link>https://data-scribers.mikewk.com/post/fast-extensible-configurable-a/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fast-extensible-configurable-a/</guid>
+      <description>About a year ago I decided to polish my Go skills. Although the language is pretty small compared to most others that I use on a daily basis, it still has some useful syntax constructs that I didn&amp;rsquo;t use enough. What a better way to brush up your skills in a programming language other than building tools with it..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>(R) Some Tricks for Blogdown &amp; Hugo (Working Draft)</title>
       <link>https://data-scribers.mikewk.com/post/r-some-tricks-for-blogdown-hug/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
@@ -11568,6 +11586,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-to-install-a-tls-certifica/</guid>
       <description>We want a green padlock on our VCSA&amp;rsquo;s web client; when we use our browser to navigate to our VCSA, we&amp;rsquo;d like it too look like the following: This blog posts describes the steps to follow in order to install a TLS certificate on a VCSA 6.7&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-guessjs-a-toolkit-/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-guessjs-a-toolkit-/</guid>
+      <description>About two months ago I published my initial research[1] on data-driven bundling. A few weeks after that, I had the opportunity to present my work on RenderConf in Oxford, UK in my talk &amp;ldquo;Teach Your Bundler Users&amp;rsquo; Habits&amp;rdquo;[2]&amp;hellip;</description>
     </item>
     
     <item>
@@ -13071,6 +13098,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/functional-programming-in-r-wi/</guid>
       <description>When you first started in R you likely were writing simple code to generate one outcome. This is great, you are learning about strings, math, and vectors in R! Then you get started with some basic analyses&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Driven Bundling. The Future of JavaScript Tooling.</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learningdriven-bundlin/</guid>
+      <description>In this article, I&amp;rsquo;ll introduce the early implementation of a few tools which based on techniques from the machine learning allow us to perform data-driven chunk clustering and pre-fetching for single-page applications&amp;hellip;</description>
     </item>
     
     <item>
@@ -15081,6 +15117,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>JavaScript Decorators for Declarative and Readable Code</title>
+      <link>https://data-scribers.mikewk.com/post/javascript-decorators-for-decl/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/javascript-decorators-for-decl/</guid>
+      <description>Decorators in JavaScript are now in stage 2. They allow us to alter the definition of a class, method, or a property. There are already a few neat libraries which provide decorators and make our life easier by allowing us to write more declarative code with better performance characteristics. In this blog post I&amp;rsquo;ll share a few decorators which I&amp;rsquo;m using on a daily basis&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>My first experience with text mining</title>
       <link>https://data-scribers.mikewk.com/post/my-first-experience-with-text-/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
@@ -15474,6 +15519,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/why-i-dont-like-percents/</guid>
       <description>I have seen clinicians confused over statements such as &amp;ldquo;the chance of a stroke is 0.5%&amp;rdquo;, interpreting this as 50%. If we say &amp;ldquo;the chance of a stroke is 0.005&amp;rdquo; such confusion is less likely. And I don&amp;rsquo;t need percent signs everywhere. Percent change has even more problems than percent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>3 Tricks For Using Redux and Immutable.js with TypeScript</title>
+      <link>https://data-scribers.mikewk.com/post/3-tricks-for-using-redux-and-i/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/3-tricks-for-using-redux-and-i/</guid>
+      <description>In this post, I&amp;rsquo;ll show you a few tricks which can make your life using Immutable.js and Redux with TypeScript easier. All the practices are inspired by my recent work on the project Rhyme.com&amp;hellip;</description>
     </item>
     
     <item>
@@ -16261,6 +16315,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Follow Your Dream Career with Open Source. Personal Story.</title>
+      <link>https://data-scribers.mikewk.com/post/follow-your-dream-career-with-/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/follow-your-dream-career-with-/</guid>
+      <description>This time I&amp;rsquo;ll violate my principle to write only about purely technical topics on my blog. In the next a couple of paragraphs, I&amp;rsquo;ll talk about open source software development from a personal perspective. Here are some of the ideas that you can find below: Explanation what open source software is&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Keras FRCNN Object Detector for Fox in SSBM</title>
       <link>https://data-scribers.mikewk.com/post/keras-frcnn-object-detector-fo/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
@@ -16837,6 +16900,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Redux Anti-Patterns - Part 1. State Management.</title>
+      <link>https://data-scribers.mikewk.com/post/redux-antipatterns-part-1-stat/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/redux-antipatterns-part-1-stat/</guid>
+      <description>For the past year I&amp;rsquo;ve been working on a project which uses React with TypeScript and Redux. In a few blog posts I&amp;rsquo;m planning to share lessons learned while combining these technologies. In this article I&amp;rsquo;ll share a few anti-patterns related to state management that I noticed in our development process&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Stateful Multi-Stream Processing in Python with Wallaroo</title>
       <link>https://data-scribers.mikewk.com/post/stateful-multistream-processin/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
@@ -17152,6 +17224,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Faster Angular Applications - Understanding Differs. Developing a Custom IterableDiffer</title>
+      <link>https://data-scribers.mikewk.com/post/faster-angular-applications-un/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/faster-angular-applications-un/</guid>
+      <description>In this article we&amp;rsquo;ll take a look at another Angular abstraction - the differs and more specifically the IterableDiffer; we&amp;rsquo;ll explain what the differs are and how the framework uses them internally&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Giving My First Data Science Talk</title>
       <link>https://data-scribers.mikewk.com/post/giving-my-first-data-science-t/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
@@ -17251,6 +17332,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Faster Angular Applications - Part 2. Pure Pipes, Pure Functions and Memoization</title>
+      <link>https://data-scribers.mikewk.com/post/faster-angular-applications-pa/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/faster-angular-applications-pa/</guid>
+      <description>In this post, we&amp;rsquo;ll focus on techniques from functional programming we can apply to improve the performance of our applications, more specifically pure pipes, memoization, and referential&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Talk: An Operating Model for R</title>
       <link>https://data-scribers.mikewk.com/post/talk-an-operating-model-for-r/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
@@ -17275,6 +17365,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/white-boxes-for-everyone/</guid>
       <description>White boxes and their impact on enterprise networking is a hot topic today, with many point of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Faster Angular Applications - Part 1. On Push Change Detection and Immutability</title>
+      <link>https://data-scribers.mikewk.com/post/faster-angular-applications-pa/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/faster-angular-applications-pa/</guid>
+      <description>On AngularConnect 2017 in London, I gave a talk called &amp;ldquo;Purely Fast.&amp;rdquo; In the presentation, I showed how step by step we can improve the performance of a business application&amp;hellip;</description>
     </item>
     
     <item>
@@ -18277,6 +18376,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Understanding Dynamic Scoping and TemplateRef</title>
+      <link>https://data-scribers.mikewk.com/post/understanding-dynamic-scoping-/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/understanding-dynamic-scoping-/</guid>
+      <description>This post will be dedicated to template references in Angular and dynamic scoping. Although the main focus of the article will be understanding TemplateRef we will also touch semantics of programming languages by introducing the concept of scope of name binding&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>climbing into the crater</title>
       <link>https://data-scribers.mikewk.com/post/climbing-into-the-crater/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -18670,6 +18778,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/hello-hugo-hello-blogdown/</guid>
       <description>ALL RIGHT! LOOKS LIKE WE’RE BACK ONLINE. I took the opportunity to try out the newly released blogdown R package and migrate my blog over from Jekyll to Hugo. This blog has been up for just over two years and Jekyll was working fine, but I never felt really comfortable&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Implementing a Simple Compiler on 25 Lines of JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/implementing-a-simple-compiler/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/implementing-a-simple-compiler/</guid>
+      <description>I already wrote a couple of essays related to the development of programming languages that I was extremely excited about! For instance, in &amp;ldquo;Static Code Analysis of Angular 2 and TypeScript Projects&amp;rdquo;[1] I explored the basics of the front end of the compilers, explaining the phases of lexical analysis, syntax analysis and abstract-syntax&amp;hellip;</description>
     </item>
     
     <item>
@@ -19318,6 +19435,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/theta-joins-in-r/</guid>
       <description>Theta Joins Common Joins If you’re like me, you’re looking at that diagram wondering what the heck is a ‘theta’ join?! Well, that’s the formal name for a ‘fuzzy’ join. In fact, you can read about all the different join types in this StackOverflow answer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Developing Statically Typed Programming Language</title>
+      <link>https://data-scribers.mikewk.com/post/developing-statically-typed-pr/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/developing-statically-typed-pr/</guid>
+      <description>In this blog post we&amp;rsquo;ll go through a sample implementation of a type checker, interpreter and a transpiler for a basic purely functional programming language, which is based on the lambda calculus&amp;hellip;</description>
     </item>
     
     <item>
@@ -19975,6 +20101,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/tonys-coffee-guide/</guid>
       <description>I drink quite a bit of coffee. It&amp;rsquo;s true. Occasionally it comes up in conversation. It occurs that someone is bored with their beans and wants to class up their caffeine delivery. Maybe this is you. Well, here are some of my favorites as of late. Check them out. I&amp;rsquo;ll continue to keep my notes here, but I don&amp;rsquo;t plan on spamming the RSS with updates&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>WebVR for a Gamified IDE</title>
+      <link>https://data-scribers.mikewk.com/post/webvr-for-a-gamified-ide/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/webvr-for-a-gamified-ide/</guid>
+      <description>In the first part of this blog post I discuss the idea of using virtual reality for gamification of manual tasks in the software development process&amp;hellip;</description>
     </item>
     
     <item>
@@ -20851,6 +20986,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>7 Angular Tools That You Should Consider</title>
+      <link>https://data-scribers.mikewk.com/post/7-angular-tools-that-you-shoul/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/7-angular-tools-that-you-shoul/</guid>
+      <description>In this article we&amp;rsquo;re going to quickly explore 7 Angular development tools which can make our everyday life easier. The purpose of the list is to not be opinionated architecture wise&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What&#39;s that on the horizon? An awesome dataviz!</title>
       <link>https://data-scribers.mikewk.com/post/whats-that-on-the-horizon-an-a/</link>
       <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
@@ -20983,6 +21127,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/indian-premier-league-so-far/</guid>
       <description>Indian Premier League(IPL) has had 13 different teams over the past ten years&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing ngrev - Reverse Engineering Tool for Angular</title>
+      <link>https://data-scribers.mikewk.com/post/announcing-ngrev-reverse-engin/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing-ngrev-reverse-engin/</guid>
+      <description>Have you ever been hired to work on a huge legacy Angular project with thousands of NgModules, components, directives, pipes and services? Neither do I. Angular (2 and above) is still relatively new framework and there are not many enormous projects out there&amp;hellip;</description>
     </item>
     
     <item>
@@ -21644,6 +21797,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Implementing Angular&#39;s Dependency Injection in React. Understanding Element Injectors.</title>
+      <link>https://data-scribers.mikewk.com/post/implementing-angulars-dependen/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/implementing-angulars-dependen/</guid>
+      <description>Recently I&amp;rsquo;ve been blogging mostly about Angular and it&amp;rsquo;s not by accident! Angular is an amazing framework, bringing a lot of innovation to the front-end technologies, with a great community behind it. In the same time, the projects that I&amp;rsquo;m working on have various of different requirements and sometimes I need to consider different options&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Accessing CRAN from an internet-less LAN</title>
       <link>https://data-scribers.mikewk.com/post/accessing-cran-from-an-interne/</link>
       <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
@@ -21779,6 +21941,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Distributing an Angular Library - The Brief Guide</title>
+      <link>https://data-scribers.mikewk.com/post/distributing-an-angular-librar/</link>
+      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distributing-an-angular-librar/</guid>
+      <description>In this post I&amp;rsquo;ll quickly explain the minimum you need to know in order to publish an Angular component to npm. By the end of the post you&amp;rsquo;ll know how your module can: Be platform independent (i.e. run in Web Workers, Universal). Should be bundled and distributed. Work with the Angular&amp;rsquo;s Ahead-of-Time compiler&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Flexin&#39; Friday</title>
       <link>https://data-scribers.mikewk.com/post/flexin-friday/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
@@ -21812,6 +21983,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/youre-doing-it-wrong-if/</guid>
       <description>I&amp;rsquo;ve been around for a while, worked through different teams, across different industries and companies. Over time I have learnt a lot of lessons, some the easy way, most the hard way&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Angular in Production</title>
+      <link>https://data-scribers.mikewk.com/post/angular-in-production/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angular-in-production/</guid>
+      <description>In this informal essay I&amp;rsquo;ll go through a case study of my experience in using Angular (2 and above) in production. Last April, together with a small team, we started working on an educational application; the second version of a product that I developed about 3 years ago using Angular 1. The product targets young kids and their parents&amp;hellip;</description>
     </item>
     
     <item>
@@ -22733,6 +22913,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Ahead-of-Time Compilation in Angular</title>
+      <link>https://data-scribers.mikewk.com/post/aheadoftime-compilation-in-ang/</link>
+      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aheadoftime-compilation-in-ang/</guid>
+      <description>Recently I added Ahead-of-Time (AoT) compilation support to angular-seed and got a lot of questions about the new feature&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Visual meditations on house prices, Part 5</title>
       <link>https://data-scribers.mikewk.com/post/visual-meditations-on-house-pr/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
@@ -22850,6 +23039,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>2.5X Smaller Angular 2 Applications with Google Closure Compiler</title>
+      <link>https://data-scribers.mikewk.com/post/25x-smaller-angular-2-applicat/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/25x-smaller-angular-2-applicat/</guid>
+      <description>In the post &amp;ldquo;Building an Angular 2 Application for Production&amp;rdquo; we explored how we can decrease the bundle size of a &amp;ldquo;Hello world!&amp;rdquo; application to from about 1.6M (non-minified &amp;amp; uncompressed) to 49K! We did this by using the following techniques: Angular offline template compiler for generating tree-shakable code. Tree-shaking of ES2015 modules with rollup&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Stackdriver Diagnostics Tools with Sharat Shroff and Morgan McLean</title>
       <link>https://data-scribers.mikewk.com/post/stackdriver-diagnostics-tools-/</link>
       <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
@@ -22865,6 +23063,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/continuous-integration-on-trav/</guid>
       <description>Did you know Travis CI ran on Google Cloud Platform? Francesc will be in GopherCon next week, not this one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using Stripe with Angular</title>
+      <link>https://data-scribers.mikewk.com/post/using-stripe-with-angular/</link>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-stripe-with-angular/</guid>
+      <description>Stripe offer a set of APIs which allow businesses and individuals to easily accept and manage payments online. In a typical scenario you want your users to pay for a service that you&amp;rsquo;re offering using Stripe as a mediator. On the other hand, Angular is gathering more and more popularity&amp;hellip;</description>
     </item>
     
     <item>
@@ -22901,6 +23108,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/brexit-state-of-the-nations-ho/</guid>
       <description>IT WAS A BUSY WEEK FOR ECONOMIC AND HOUSING DATA. Existing and new home sales came out, the Joint Center for Housing Studies of Harvard University released their annual State of the Nation&amp;rsquo;s Housing, and the U.K. voted to leave the European Union (the Brexit)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building an Angular Application for Production</title>
+      <link>https://data-scribers.mikewk.com/post/building-an-angular-applicatio/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-an-angular-applicatio/</guid>
+      <description>Progressive Web Applications help us build native-like web apps, thanks to amazing tools such as Service Workers, IndexDB, App Shell etc&amp;hellip;</description>
     </item>
     
     <item>
@@ -23072,6 +23288,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/population-growth-housing-supp/</guid>
       <description>EARLIER THIS WEEK THE U.S. CENSUS BUREAU released data on population and housing units for counties across the U.S. in 2015. These data reveal important trends in population growth, and help shed light on recent house price trends&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Implementing the Missing &#39;resolve&#39; Feature of the Angular 2 Router</title>
+      <link>https://data-scribers.mikewk.com/post/implementing-the-missing-resol/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/implementing-the-missing-resol/</guid>
+      <description>For the last a couple of months I&amp;rsquo;m working on an Angular 2 based PWA. The more complex the application gets, the more I appreciate that our choice was Angular! For routing we&amp;rsquo;re using the initial Angular 2 router that is now deprecated&amp;hellip;</description>
     </item>
     
     <item>
@@ -23354,6 +23579,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Scalable Single-Page Application Architecture</title>
+      <link>https://data-scribers.mikewk.com/post/scalable-singlepage-applicatio/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scalable-singlepage-applicatio/</guid>
+      <description>In order to have better understanding of the following blog post you should be familiar with the fundamentals of the object-oriented and functional programming. I also strongly encourage you to explore the redux pattern. A couple of months ago I started working on the first version of a Silicon Valley-based startup&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>On technical blogging</title>
       <link>https://data-scribers.mikewk.com/post/on-technical-blogging/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
@@ -23423,6 +23657,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/drop-and-bogons-list-on-cisco-/</guid>
       <description>The Cyberspace a.k.a&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Managing ambient type definitions and dealing with the &#39;Duplicate identifier&#39; TypeScript error</title>
+      <link>https://data-scribers.mikewk.com/post/managing-ambient-type-definiti/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/managing-ambient-type-definiti/</guid>
+      <description>Maintaining the angular-seed, I found out that the most common problem for developers using the project is: Duplicate identifier &amp;#39;export=&amp;#39;. (2300) compilation error&amp;hellip;</description>
     </item>
     
     <item>
@@ -23606,6 +23849,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Static Code Analysis of Angular 2 and TypeScript Projects</title>
+      <link>https://data-scribers.mikewk.com/post/static-code-analysis-of-angula/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/static-code-analysis-of-angula/</guid>
+      <description>So far, most of the blog posts I&amp;rsquo;ve written are tutorials; they explain how we can use given technologies, architectures, algorithm etc. For instance: Flux in Depth&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Recent House Price Trends</title>
       <link>https://data-scribers.mikewk.com/post/recent-house-price-trends/</link>
       <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
@@ -23649,6 +23901,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/read-from-hdfs-with-r-brief-ov/</guid>
       <description>Disclaimer: originally I planned to write post about R functions/packages which allow to read data from hdfs (with benchmarks), but in the end it became more like an overview of SparkR capabilities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Enforcing Best Practices with Static Code Analysis of Angular 2 Projects</title>
+      <link>https://data-scribers.mikewk.com/post/enforcing-best-practices-with-/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/enforcing-best-practices-with-/</guid>
+      <description>About two weeks ago I published the initial draft of a Community-driven Angular 2 Style Guide. It was based on: Patterns I noticed in the Angular 2 source code while contributing to the framework. Suggestions by Miško Hevery during his technical review of my book &amp;ldquo;Switching to Angular 2&amp;rdquo;&amp;hellip;</description>
     </item>
     
     <item>
@@ -23724,6 +23985,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>ViewChildren and ContentChildren in Angular</title>
+      <link>https://data-scribers.mikewk.com/post/viewchildren-and-contentchildr/</link>
+      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/viewchildren-and-contentchildr/</guid>
+      <description>In this article I&amp;rsquo;m going to explain the difference between the concepts of view children and content children in Angular. We will take a look at how we can pass access these two different kinds of children from their parent component&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cloud Vision API with Ram Ramanathan</title>
       <link>https://data-scribers.mikewk.com/post/cloud-vision-api-with-ram-rama/</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
@@ -23775,6 +24045,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/oed-tools-conzolez/</guid>
       <description>The problem As many IT professionals I work quite often on the command line with many command prompts open. Windows lacks a good native command prompt software so usually you see monitors filled with black terminals that are hard to manage and track. The automation ConsoleZ allows multiple tabs and to split tabs vertically or horizontally among with many other features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dynamically Configuring the Angular&#39;s Router</title>
+      <link>https://data-scribers.mikewk.com/post/dynamically-configuring-the-an/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dynamically-configuring-the-an/</guid>
+      <description>Warning: This version of the Angular 2 router is now deprecated! This means that soon the used below APIs will no longer be available&amp;hellip;</description>
     </item>
     
     <item>
@@ -23967,6 +24246,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Angular 2 Hot Loader</title>
+      <link>https://data-scribers.mikewk.com/post/angular-2-hot-loader/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angular-2-hot-loader/</guid>
+      <description>A couple of months ago I watched a few talks from ReactEurope. I was truly impressed by a few of them and especially by the one by Dan Abramov on redux and his hot loader&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The Consul of Elders</title>
       <link>https://data-scribers.mikewk.com/post/the-consul-of-elders/</link>
       <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
@@ -23991,6 +24279,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/goofus-and-gallant-charts/</guid>
       <description>For the past couple of years I&amp;rsquo;ve been delving into the world of information visualization. Part due to intense interest, part due to job responsibilities&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lazy Loading of Route Components in Angular 2</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-loading-of-route-componen/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-loading-of-route-componen/</guid>
+      <description>Warning: This version of the Angular 2 router is now deprecated! This means that soon the used below APIs will no longer be available. For the examples in the content below I&amp;rsquo;ve used the angular2-seed project. The code for the article could be found at my GitHub account&amp;hellip;</description>
     </item>
     
     <item>
@@ -24084,12 +24381,30 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Aspect-Oriented Programming in JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/aspectoriented-programming-in-/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aspectoriented-programming-in-/</guid>
+      <description>Note: The following blog post is based on the library aspect.js, which can be found here. The object-oriented programming paradigm is powerful&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Visualization of predictions</title>
       <link>https://data-scribers.mikewk.com/post/visualization-of-predictions/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/visualization-of-predictions/</guid>
       <description>In this post I want to shortly introduce you to the great visualization possibilities of mlr. Within the last months a lot of work has been put into that field&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Flux in Depth. Store and Network Communication.</title>
+      <link>https://data-scribers.mikewk.com/post/flux-in-depth-store-and-networ/</link>
+      <pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/flux-in-depth-store-and-networ/</guid>
+      <description>This is the second, and probably be the last, blog post of the series &amp;ldquo;Flux in Depth&amp;rdquo;. In the first post we did a quick overview of flux, took a look at the stateless, pure components, immutable data structures and component communication&amp;hellip;</description>
     </item>
     
     <item>
@@ -24108,6 +24423,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/whats-this-docker-thing/</guid>
       <description>If there’s one thing industry news sources have been mentioning to you recently it would almost certainly be Docker&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using JSX with TypeScript</title>
+      <link>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-jsx-with-typescript/</guid>
+      <description>JavaScript is a weird language although, we love it the way it is. However, I&amp;rsquo;ve had quite a painful experience working on big JavaScript projects. It was painful in the same way it gets painful working on huge Ruby, Python, PHP projects. Once you have code base above 10-15k lines of code and you decide to do some refactoring..&amp;hellip;</description>
     </item>
     
     <item>
@@ -24192,6 +24516,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Flux in Depth. Overview and Components.</title>
+      <link>https://data-scribers.mikewk.com/post/flux-in-depth-overview-and-com/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/flux-in-depth-overview-and-com/</guid>
+      <description>This is the first blog post of the series &amp;ldquo;Flux in Depth&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Docker Volumes</title>
       <link>https://data-scribers.mikewk.com/post/docker-volumes/</link>
       <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
@@ -24237,6 +24570,33 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Even Faster AngularJS Data Structures</title>
+      <link>https://data-scribers.mikewk.com/post/even-faster-angularjs-data-str/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/even-faster-angularjs-data-str/</guid>
+      <description>This is the last post of the series &amp;ldquo;Boost the Performance of an AngularJS Application Using Immutable Data&amp;rdquo;. I strongly recommend you to take a look at the previous two parts before continue reading this content&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Boost the Performance of an AngularJS Application Using Immutable Data - Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/boost-the-performance-of-an-an/</link>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/boost-the-performance-of-an-an/</guid>
+      <description>A few weeks ago I posted the article &amp;ldquo;Boost the Performance of an AngularJS Application Using Immutable Data&amp;rdquo;. It shows how to speedup your AngularJS application when having a lot of bindings to big data collections. The idea behind the optimization is quite simple - create a new collection when the data changes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Angular2 - First Impressions</title>
+      <link>https://data-scribers.mikewk.com/post/angular2-first-impressions/</link>
+      <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angular2-first-impressions/</guid>
+      <description>On 18th of September 2014 was pushed the initial commit of version 2.0 of the AngularJS framework. A few weeks ago the core team at Google, published AngularJS&amp;rsquo; 2.0 website and gave a couple of talks on ng-conf about their new router, change detection, templating, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Quick script - backup multiple Alcatel OmniSwitch configuration files</title>
       <link>https://data-scribers.mikewk.com/post/quick-script-backup-multiple-a/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
@@ -24264,12 +24624,30 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Build Your own Simplified AngularJS in 200 Lines of JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/build-your-own-simplified-angu/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/build-your-own-simplified-angu/</guid>
+      <description>My practice proved that there are two good/easy ways to learn a new technology: Re-implement it by your own See how the concepts you already know fit in it In some cases the first approach is too big overhead&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R Package neato</title>
       <link>https://data-scribers.mikewk.com/post/r-package-neato/</link>
       <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/r-package-neato/</guid>
       <description>My workflow in R now is to make a function after I copy and paste some code more than once. Sometimes I find myself using these functions more than once, across different projects. So I decided to make an R package with a few of these functions in it. I call it &amp;ldquo;neato&amp;rdquo;, in the vain hope that one day someone will find one of these functions and say: &amp;ldquo;neato!&amp;rdquo;, because hey, it&amp;rsquo;s pretty&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Persistent State of ReactJS Component</title>
+      <link>https://data-scribers.mikewk.com/post/persistent-state-of-reactjs-co/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/persistent-state-of-reactjs-co/</guid>
+      <description>ReactJS is a framework, by facebook, which adds some well known concepts into the UI development. Each UI could be represented as a state machine but when the state of this state machine could be changed from a lot of places everything gets quite messy, complex and buggy&amp;hellip;</description>
     </item>
     
     <item>
@@ -24288,6 +24666,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/i-dont-have-a-clever-title/</guid>
       <description>I&amp;rsquo;m in Boston, in the middle of training for marking of the Critical Thinking Assessment Test. The training is good, and their process is solid. Put that on top of a decent reliable and valid instrument and you&amp;rsquo;ve got something. I&amp;rsquo;ll need to see the results and the data to draw more conclusions, but so far I like it. Anyways.&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Boost the Performance of an AngularJS Application Using Immutable Data</title>
+      <link>https://data-scribers.mikewk.com/post/boost-the-performance-of-an-an/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/boost-the-performance-of-an-an/</guid>
+      <description>I have affinity to functional programming since my first year in college&amp;hellip;</description>
     </item>
     
     <item>
@@ -24333,6 +24720,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/working-smoothlyer-from-rmarkd/</guid>
       <description>I&amp;rsquo;m a pretty huge fan of RMarkdown, as it is a great way for me to write my code and my text together. It seems really a rather a natural thing to do. You write about your analyses, and the code is there. You update some function or some data, and your figures and tables update with it. Method Acting is like peeing whilst wearing brown corduroy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Processing Binary Protocols with Client-Side JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/processing-binary-protocols-wi/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/processing-binary-protocols-wi/</guid>
+      <description>Last couple of weeks I&amp;rsquo;m trying to build high-performance consumption of binary protocol through the browser. The protocol is running over TCP&amp;hellip;</description>
     </item>
     
     <item>
@@ -24417,12 +24813,39 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Stream your Desktop to HTML5 Video Element</title>
+      <link>https://data-scribers.mikewk.com/post/stream-your-desktop-to-html5-v/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stream-your-desktop-to-html5-v/</guid>
+      <description>In this blog post I&amp;rsquo;ll share how you can stream your desktop to HTML5 video element. All you need is VLC video player and web browser, which supports HTML5. How to..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Are you still there?</title>
       <link>https://data-scribers.mikewk.com/post/are-you-still-there/</link>
       <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/are-you-still-there/</guid>
       <description>Sometimes a simple pause leads to a time-out. Juggling parenthood, my normal hatrack of jobs, plus teaching put way to many demands on my time to devote it to #dalmooc, despite it being a very interesting experience&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Multi-User Video Conference with WebRTC</title>
+      <link>https://data-scribers.mikewk.com/post/multiuser-video-conference-wit/</link>
+      <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/multiuser-video-conference-wit/</guid>
+      <description>This is a tutorial for how to implement a multi-user video conference with WebRTC, AngularJS and Yeoman&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Asynchronous calls with ES6 generators</title>
+      <link>https://data-scribers.mikewk.com/post/asynchronous-calls-with-es6-ge/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/asynchronous-calls-with-es6-ge/</guid>
+      <description>ES6 generators have landed in Chrome 39 Beta on 9th of October and are already available in the stable version&amp;hellip;</description>
     </item>
     
     <item>
@@ -24570,6 +24993,24 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Binary Tree iterator with ES6 generators</title>
+      <link>https://data-scribers.mikewk.com/post/binary-tree-iterator-with-es6-/</link>
+      <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/binary-tree-iterator-with-es6-/</guid>
+      <description>ES6 specification is being clarified every passed day! One of the key features of the new version of the language are the generators. Generators (a.k.a. semicoroutines) will play quite important role after they are being officially released. They could be used to simplify the asynchronous control flow of any JavaScript program (look at co)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>WebRTC chat with React.js</title>
+      <link>https://data-scribers.mikewk.com/post/webrtc-chat-with-reactjs/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/webrtc-chat-with-reactjs/</guid>
+      <description>In this blog post I&amp;rsquo;m going to share how could be build WebRTC chat with React.js. Before we continue lets describe briefly what React.js and WebRTC are. The application from this tutorial is available at GitHub. React.js React.js is reactive JavaScript framework, which helps you to build user interface. Facebook states that we can think of React as the &amp;ldquo;V&amp;rdquo; in MVC&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Log analysis GUI tools</title>
       <link>https://data-scribers.mikewk.com/post/log-analysis-gui-tools/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
@@ -24597,12 +25038,30 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>AngularJS in Patterns (Part 3)</title>
+      <link>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-3/</link>
+      <pubDate>Sat, 05 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-3/</guid>
+      <description>This publication aims to provide a more theoretical overview of some of the AngularJS components in order to show you how the things you are already familiar with (like different Object-Oriented Design Patterns) fit in the picture. Link to the first part of the series. Link to the second part of the series&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Connect to Odoo in your application with ERPpeek</title>
       <link>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</link>
       <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</guid>
       <description>In this post, we will use the new name, Odoo instead of OpenERP but the content and the examples are compatible with OpenERP 5.0, 6.0, 6.1 and 7.0 and of course with Odoo v8.0. There is no need to be worried, I will try to be compatible with the new version&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AngularJS in Patterns (Part 2). Services.</title>
+      <link>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-2-s/</link>
+      <pubDate>Sun, 08 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-2-s/</guid>
+      <description>This publication aims to provide a more theoretical overview of some of the AngularJS components in order to show you how the things you are already familiar with (like different Object-Oriented Design Patterns) fit in the picture. Link to the first part of the series&amp;hellip;</description>
     </item>
     
     <item>
@@ -24642,6 +25101,24 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Using GitHub Pages with Jekyll!</title>
+      <link>https://data-scribers.mikewk.com/post/using-github-pages-with-jekyll/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-github-pages-with-jekyll/</guid>
+      <description>I&amp;rsquo;m switching to GitHub pages with Jekyll. There are several reasons behind my decision: Faster! - static HTML is much faster than my old WordPress blog&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AngularJS in Patterns (Part 1). Overview of AngularJS</title>
+      <link>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-1-o/</link>
+      <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularjs-in-patterns-part-1-o/</guid>
+      <description>In this series of blog posts I’m going to cover the paper I’m writing at GitHub. It aims to provide a bit more theoretical overview of some of the AngularJS components in order to show you how the things you are already familiar with (like different Object-Oriented Design Patterns) fit in the picture&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>AirPcap</title>
       <link>https://data-scribers.mikewk.com/post/airpcap/</link>
       <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
@@ -24657,6 +25134,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
       
       <guid>https://data-scribers.mikewk.com/post/fix-for-gbmplot/</guid>
       <description>Hopefully this will prove helpful to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Singleton in JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/singleton-in-javascript/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/singleton-in-javascript/</guid>
+      <description>Wikipedia describes the singleton design pattern as: The singleton pattern is a design pattern that restricts the instantiation of a class to one object&amp;hellip;</description>
     </item>
     
     <item>
@@ -24723,12 +25209,48 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Express over HTTPS</title>
+      <link>https://data-scribers.mikewk.com/post/express-over-https/</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/express-over-https/</guid>
+      <description>Sometimes you want to test your application in environment closer to the real world&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>CCNA 10 years</title>
       <link>https://data-scribers.mikewk.com/post/ccna-10-years/</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/ccna-10-years/</guid>
       <description>Ten years ago I&amp;rsquo;ve passed my first Cisco exam: CCNA! What was supposed to be just a marginal skill for a junior systems engineer became both my job and my passion&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What I get from the JavaScript MV* frameworks</title>
+      <link>https://data-scribers.mikewk.com/post/what-i-get-from-the-javascript/</link>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/what-i-get-from-the-javascript/</guid>
+      <description>Why should I use JavaScript MVC, MVVM, MVP or simply MVW(hatever works for you)? When I talk with people, who are beginners/intermediate in JavaScript I’m often asked this&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Remote Desktop Client with AngularJS and Yeoman</title>
+      <link>https://data-scribers.mikewk.com/post/remote-desktop-client-with-ang/</link>
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/remote-desktop-client-with-ang/</guid>
+      <description>In this blog post I’m going to show you how to build a VNC client using AngularJS and Yeoman. The source code used in the post is available at my GitHub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The magic of $resource (or simply a client-side Active Record)</title>
+      <link>https://data-scribers.mikewk.com/post/the-magic-of-resource-or-simpl/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-magic-of-resource-or-simpl/</guid>
+      <description>At first sight AngularJS seems like a magical framework, which does some weird but awesome things like dependency injection, data binding only by setting a single property to the magical object named $scope and many other things&amp;hellip;</description>
     </item>
     
     <item>
@@ -24777,6 +25299,24 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>AngularJS Inheritance Patterns</title>
+      <link>https://data-scribers.mikewk.com/post/angularjs-inheritance-patterns/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularjs-inheritance-patterns/</guid>
+      <description>Since AngularJS does not provide any built-in features for using inheritance, in this blog post I’ll describe how the general JavaScript inheritance patterns can be applied to AngularJS components. Controllers inheritance First, lets talk about controllers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AngularAOP v0.1.0</title>
+      <link>https://data-scribers.mikewk.com/post/angularaop-v010/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularaop-v010/</guid>
+      <description>In this blog post I’ll introduce you the new way of annotating services included in AngularAOP v0.1.0. First, why we need a new way for annotation? In v0.0&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cisco Live! for my fellow italian networkers (italian only)</title>
       <link>https://data-scribers.mikewk.com/post/cisco-live-for-my-fellow-itali/</link>
       <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
@@ -24813,6 +25353,33 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Advanced JavaScript at Sofia University</title>
+      <link>https://data-scribers.mikewk.com/post/advanced-javascript-at-sofia-u/</link>
+      <pubDate>Thu, 24 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/advanced-javascript-at-sofia-u/</guid>
+      <description>In this blog post I’ll tell few words about the course Advanced JavaScript which Georgi Penkov, Evgeni Kunev and me are leading this semester in Sofia University&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AngularJS style guide</title>
+      <link>https://data-scribers.mikewk.com/post/angularjs-style-guide/</link>
+      <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/angularjs-style-guide/</guid>
+      <description>Today I created a GitHub repository which contains a set of good practices and style guides for AngularJS application development. Its main goal is to be community-driven and to concentrate all the best practices for AngularJS development in one place&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lazy prefetching of AngularJS partials</title>
+      <link>https://data-scribers.mikewk.com/post/lazy-prefetching-of-angularjs-/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lazy-prefetching-of-angularjs-/</guid>
+      <description>This blog post is concentrated about web performance. I’ll skip the well known stuff about combining images into sprites, inlining images, DNS pre-fetching, combining and minifying script files, gzipping and so on&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Happy birthday</title>
       <link>https://data-scribers.mikewk.com/post/happy-birthday/</link>
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
@@ -24840,12 +25407,30 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>VNC client on 200 lines of JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/vnc-client-on-200-lines-of-jav/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vnc-client-on-200-lines-of-jav/</guid>
+      <description>In this quick blog post I’ll show you how to create a simple VNC client in about 200 lines of JavaScript. For our goal we’re going to use only HTML5 and JavaScript (client and server side). The end result will be something like this: So, let’s begin! Our application will have very simple architecture – a proxy server written in Node.js and a client in HTML5 and JavaScript&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MLB Rankings Using the Bradley-Terry Model</title>
       <link>https://data-scribers.mikewk.com/post/mlb-rankings-using-the-bradley/</link>
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/mlb-rankings-using-the-bradley/</guid>
       <description>Today, I take my first shots at ranking Major League Baseball (MLB) teams. I see my efforts at prediction and ranking an ongoing process so that my models improve, the data I incorporate are more meaningful, and ultimately my predictions are largely accurate. For the first attempt, let&amp;rsquo;s rank MLB teams using the Bradley-Terry (BT) model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Aspect-Oriented Programming with AngularJS</title>
+      <link>https://data-scribers.mikewk.com/post/aspectoriented-programming-wit/</link>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/aspectoriented-programming-wit/</guid>
+      <description>In the following blog post I’ll write few words about what is Aspect-Oriented Programming, why I think it will be useful in AngularJS and I’m also going to give you a short tutorial for using a simple AOP framework I’ve developed. First things first&amp;hellip;</description>
     </item>
     
     <item>
@@ -24921,12 +25506,39 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>CSS3 flipping effect</title>
+      <link>https://data-scribers.mikewk.com/post/css3-flipping-effect/</link>
+      <pubDate>Sat, 04 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/css3-flipping-effect/</guid>
+      <description>As you know because of the SIMD nature of the GPU it’s extremely good for graphical calculations. Since HTML5 and CSS3 are here we have a couple of ways for efficient and smooth animations one of them are the CSS3 transitions&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>CCIE plaque</title>
       <link>https://data-scribers.mikewk.com/post/ccie-plaque/</link>
       <pubDate>Fri, 03 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/ccie-plaque/</guid>
       <description>Got mail from&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Practical programming with JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/practical-programming-with-jav/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/practical-programming-with-jav/</guid>
+      <description>Before few months I was invited by Telerik Academy to make a talk about JavaScript. Last Monday Marian Kostadinov, Radoslav Georgiev and me made a whole seminar about the topic&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why I should use publish/subscribe in JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/why-i-should-use-publishsubscr/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-i-should-use-publishsubscr/</guid>
+      <description>This post is inspired by my answer at StackOverflow. So why we should use publish/subscribe? Why it is useful? Is it making our work harder or it makes our application better? And the answer..&amp;hellip;</description>
     </item>
     
     <item>
@@ -25013,6 +25625,24 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>Functional programming with JavaScript</title>
+      <link>https://data-scribers.mikewk.com/post/functional-programming-with-ja/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/functional-programming-with-ja/</guid>
+      <description>This article is about the functional concepts of JavaScript. Some of them are built-in the languages, others extra implemented but all of them are very common for purely functional languages like Haskell. First I want to tell what I mean with the term purely functional language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>plainvm</title>
+      <link>https://data-scribers.mikewk.com/post/plainvm/</link>
+      <pubDate>Fri, 11 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/plainvm/</guid>
+      <description>plainvm can take the virtualization into different level of usage. To prove this I’ll first ask few rhetorical questions and put their answers..&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>High-Dimensional Microarray Data Sets in R for Machine Learning</title>
       <link>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</link>
       <pubDate>Sat, 29 Dec 2012 00:00:00 +0000</pubDate>
@@ -25049,6 +25679,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>Looking for performance? Probably you should NOT use ().sort (V8)</title>
+      <link>https://data-scribers.mikewk.com/post/looking-for-performance-probab/</link>
+      <pubDate>Sat, 24 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/looking-for-performance-probab/</guid>
+      <description>A few days ago, I’ve created a GitHub repository. It’s main goal was to collect different algorithms with implementations in JavaScript. I started with basic ones – sorting (insertion, selection, bubble sort..). After that I implemented few “more advance” like marge, quick and heap sort&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How to Download Kaggle Data with Python and requests.py</title>
       <link>https://data-scribers.mikewk.com/post/how-to-download-kaggle-data-wi/</link>
       <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
@@ -25073,6 +25712,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
       
       <guid>https://data-scribers.mikewk.com/post/urban-badger-vs-streaming-vide/</guid>
       <description>My daughter is always asleep in bed when the local badger comes around. So we built a badger-cam to attempt to get video footage of our visitor. This is from the second night of filming. The camera is mounted inside an unused cat flap and the large shape dominating the top half of the picture is the flap itself, which had slipped down from the first night&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>JavaScript image scaling</title>
+      <link>https://data-scribers.mikewk.com/post/javascript-image-scaling/</link>
+      <pubDate>Fri, 02 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/javascript-image-scaling/</guid>
+      <description>I haven’t wrote here for a while so I decided to write about something more practical. Actually the idea for the post come from one my response in stackoverflow&amp;hellip;</description>
     </item>
     
     <item>
@@ -25121,12 +25769,39 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>ELang</title>
+      <link>https://data-scribers.mikewk.com/post/elang/</link>
+      <pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/elang/</guid>
+      <description>And one more blog post by me! It’s going to be in brand new topic than the others. For about an year and a half I’ve got an idea which I wanted to accomplish&amp;hellip;To create my own simple programming language. Actually it’s very useful task and quite interesting&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Caching CSS with localStorage</title>
+      <link>https://data-scribers.mikewk.com/post/caching-css-with-localstorage/</link>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/caching-css-with-localstorage/</guid>
+      <description>Since HTML5 became wide supported the most popular aspects I hear about were it’s canvas, WebSockets and localStorage. I’ve got very close experience with the first two of the mentioned but the localStorage was somehow unknown for me since a month. I’ve researched the topic&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>INE CCIE R&amp;S bootcamp – 2nd week</title>
       <link>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-2nd-week/</link>
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/ine-ccie-rs-bootcamp-2nd-week/</guid>
       <description>After the first week of the INE bootcamp I spent the weekend relaxing a bit and reviewing the topics on the doc-cd&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Self-invoking functions in JavaScript (or Immediately Invoked Function Expressions)</title>
+      <link>https://data-scribers.mikewk.com/post/selfinvoking-functions-in-java/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/selfinvoking-functions-in-java/</guid>
+      <description>There are a lot of interesting things in the syntax of JavaScript, one of which is the definition of self-executing (self-invoking) functions&amp;hellip;</description>
     </item>
     
     <item>
@@ -25148,12 +25823,39 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>Asus N56VZ &#43; Ubuntu 12.04 (en)</title>
+      <link>https://data-scribers.mikewk.com/post/asus-n56vz-ubuntu-1204-en/</link>
+      <pubDate>Sun, 19 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/asus-n56vz-ubuntu-1204-en/</guid>
+      <description>It seems that it’s common a problem to setup Ubuntu on the new Asus N56VZ so I decided to create an English version of my post. I was struggling with three issues about two weeks&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>System Administrator Appreciation Day</title>
       <link>https://data-scribers.mikewk.com/post/system-administrator-appreciat/</link>
       <pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/system-administrator-appreciat/</guid>
       <description>Today is system administrator appreciation day. Don&amp;rsquo;t forget to show your appreciation to youy SysAdmin (on Network Admin).&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Asus N56VZ &#43; Ubuntu 12.04</title>
+      <link>https://data-scribers.mikewk.com/post/asus-n56vz-ubuntu-1204/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/asus-n56vz-ubuntu-1204/</guid>
+      <description>Един пост на български, защото мисля, че ще бъде по-полезен. Доста време се тормозя с подкарването на разни feature-и на новия ми Asus N56 с Ubuntu 12.04 x86-64&amp;hellip;Мултимедия бутоните (комбинация между Fn+F*), съббуфера, като имах известни проблеми (не особени, но все пак трябва да се отбележат) и с ethernet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Debian Squeeze &#43; LXDE on Google Nexus S (or having some fun while suffering)</title>
+      <link>https://data-scribers.mikewk.com/post/debian-squeeze-lxde-on-google-/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/debian-squeeze-lxde-on-google-/</guid>
+      <description>I’m here again, after a long pause. For a while I’ve got problems with my health and I’m nailed at home&amp;hellip;so I’ve go a lot of free time. Last night I’ve decided to root my Google Nexus S. I use Ubuntu 12.04 on my home machine so I put on it Oracle Java and Android SDK&amp;hellip;</description>
     </item>
     
     <item>
@@ -25220,6 +25922,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>HTML5 image editor</title>
+      <link>https://data-scribers.mikewk.com/post/html5-image-editor/</link>
+      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/html5-image-editor/</guid>
+      <description>As you see HTML5 is everywhere (of course I exclude IE&amp;hellip;or just before version 10). Web site used for quick image composition or edition is something very useful for the “modern web person”. There are few such services. Most of them use Flash. Nothing against it but&amp;hellip;it’s too heavy for me&amp;hellip;unnecessarily heavy&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Batch Compiler</title>
       <link>https://data-scribers.mikewk.com/post/batch-compiler/</link>
       <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
@@ -25265,6 +25976,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
     </item>
     
     <item>
+      <title>Курсови проекти – ФМИ</title>
+      <link>https://data-scribers.mikewk.com/post/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8-%D1%84%D0%BC%D0%B8/</link>
+      <pubDate>Sat, 31 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8-%D1%84%D0%BC%D0%B8/</guid>
+      <description>Тъй като съм вече студент 3-ти курс във ФМИ и курсовите проекти се натрупаха, мисля че мога да бъда полезен на “младото поколение ФМИ-исти”, като предоставя една страница с връзки към кода, който съм разработил&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>fping</title>
       <link>https://data-scribers.mikewk.com/post/fping/</link>
       <pubDate>Sat, 24 Mar 2012 00:00:00 +0000</pubDate>
@@ -25280,6 +26000,24 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
       
       <guid>https://data-scribers.mikewk.com/post/ipv6-and-tunnelbroker/</guid>
       <description>Inspired by the Packet Pushers Podcast I setup my personal IPv6 tunnel to TunnelBroker.net. Registration is free and the configuration is straightforward. The first step is the registration and setup of a tunnel to our IPv4 address&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Carousel Gallery</title>
+      <link>https://data-scribers.mikewk.com/post/carousel-gallery/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/carousel-gallery/</guid>
+      <description>And one post in English&amp;hellip;For few days I’m developing one jQuery UI plugin. It’s picture gallery which I’ve seen in flash but not in JavaScript, that’s why I decided to fix this. The gallery is a set of rotating pictures and difference ways of handling the perspective&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SofiaJS...</title>
+      <link>https://data-scribers.mikewk.com/post/sofiajs/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sofiajs/</guid>
+      <description>В потребителската група SofiaJS последните няколко месеца се случиха доста интересни неща, а на мен все не ми остава време, за да блогна за тях..&amp;hellip;</description>
     </item>
     
     <item>
@@ -25316,6 +26054,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
       
       <guid>https://data-scribers.mikewk.com/post/rfc-1925-the-twelve-networking/</guid>
       <description>Number 8 is the one I mention when I see a network project made with PowerPoint that looks simple with all those clouds and arrows: (8) It is more complicated than you think&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Color animation plugin for jQuery</title>
+      <link>https://data-scribers.mikewk.com/post/color-animation-plugin-for-jqu/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/color-animation-plugin-for-jqu/</guid>
+      <description>Hi! I haven’t wrote since a long time but there’s so much code and so little time&amp;hellip;It’s bad that the biggest part of the code is not open source but what can we do&amp;hellip;Last few hours I developed a JavaScript plugin for color animation&amp;hellip;</description>
     </item>
     
     <item>
@@ -25397,6 +26144,69 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
       
       <guid>https://data-scribers.mikewk.com/post/certified-in-ccnp-security/</guid>
       <description>Today I passed this Cisco exam: (642-647) Deploying Cisco ASA VPN Solutions v1.0 (VPN) and my CCSP certification is now updated to the new CCNP(Security). I&amp;rsquo;ve prepared the exam on the Cisco Press Official Cert Guide&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SofiaJS</title>
+      <link>https://data-scribers.mikewk.com/post/sofiajs/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sofiajs/</guid>
+      <description>Преди няколко месеца внезапно (както май често става) започнах да мисля за програмиране (как ли така&amp;hellip;) и най-вече за JavaScript&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sound notification in web page</title>
+      <link>https://data-scribers.mikewk.com/post/sound-notification-in-web-page/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sound-notification-in-web-page/</guid>
+      <description>Few days ago I was creating a system in which it was necessary to implement a sound notification feature&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>f8...</title>
+      <link>https://data-scribers.mikewk.com/post/f8/</link>
+      <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/f8/</guid>
+      <description>Тази сутрин пуснах прословутата f8&amp;hellip;Бях с големи очаквания (дори поствах за нея), може би заради слабата ми информираност очаквах нещо като Google I/O (има си Google&amp;hellip;защо не потърсих предварително&amp;hellip;)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google&#43; API</title>
+      <link>https://data-scribers.mikewk.com/post/google-api/</link>
+      <pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/google-api/</guid>
+      <description>Като всеки любознателен developer и аз се включих към хората, които искат да получат mail от Google при пускането на API за Google+. Вчера (15-ти септември) около 1 часа получих следния mail: Getting Started on the Google+ API Greetings developers, Thank you for showing your interest in the Google+ platform on our developer interest form&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ajax without jQuery for beginners</title>
+      <link>https://data-scribers.mikewk.com/post/ajax-without-jquery-for-beginn/</link>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ajax-without-jquery-for-beginn/</guid>
+      <description>Before years I was writing all the code by my own, without additional libraries (including jQuery). For beginner developer it’s a good strategy. When you use $.ajax it’s all that easy: }); But you can’t get the main idea. Many developers don’t have an idea how to write this without a library&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Blogger image resize</title>
+      <link>https://data-scribers.mikewk.com/post/blogger-image-resize/</link>
+      <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/blogger-image-resize/</guid>
+      <description>That’s my second post here and the first one which is going to have any sense. Today a friend of mine was fighting with Google’s blog system&amp;hellip;He was posting some data with images in it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://data-scribers.mikewk.com/post/hello-world/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hello-world/</guid>
+      <description>Hey, That’s my first blog here. I’ll try to put some interesting stuff about the Life, Universe and Everything else but mostly I think&amp;hellip;about some technical topics. I hope that you’re going to find interesting and useful information. Have a nice read :)&amp;hellip;</description>
     </item>
     
     <item>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statsbylopeznetlifycom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/statsbylopeznetlifycom/</link>
+    <description>Recent content in Statsbylopeznetlifycom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/statsbylopeznetlifycom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NFL team logos using ggimage</title>
+      <link>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</guid>
+      <description>First, we read in the data, and create what would be a typical plot that highlights run and pass performance for each offense. There’s a bunch that can be gleamed from the chart above&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Lessons hidden in sports betting markets</title>
+      <link>https://data-scribers.mikewk.com/post/lessons-hidden-in-sports-betti/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lessons-hidden-in-sports-betti/</guid>
+      <description>With sports betting now legal in several US states, I might as well give away my number one piece of advice for amateurs looking to gamble: Don&amp;rsquo;t bet. It&amp;rsquo;s an easy recommendation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part I</title>
+      <link>https://data-scribers.mikewk.com/post/part-i/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-i/</guid>
+      <description>The best team in baseball during the 2013 season was the Detroit Tigers. But on October 19th of that year, the best team in baseball was fighting to save its season&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part II</title>
+      <link>https://data-scribers.mikewk.com/post/part-ii/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-ii/</guid>
+      <description>The Caps entered a 2nd-round playoff series with Pittsburgh as decent-sized favorites (58 percent), and sure enough, Washington outplayed its rivals&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part III</title>
+      <link>https://data-scribers.mikewk.com/post/part-iii/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-iii/</guid>
+      <description>One way in which professional sports are relatively fair is that, in each season, teams are almost always given an identical number of home games&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part IV</title>
+      <link>https://data-scribers.mikewk.com/post/part-iv/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-iv/</guid>
+      <description>Thus, perhaps it&amp;rsquo;s worth taking a step back to analyze what can be a substantially more dominant but often unquantified force that impacts sporting results: who you opponents&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The within-game evolution of MLB’s strike zone</title>
+      <link>https://data-scribers.mikewk.com/post/the-withingame-evolution-of-ml/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-withingame-evolution-of-ml/</guid>
+      <description>Next, I averaged across each of the nine-innings and each three-inch window of a strike zone grid to identify the likelihood of a pitch in a given part of the zone being called a strike&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rethinking draft curves</title>
+      <link>https://data-scribers.mikewk.com/post/rethinking-draft-curves/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rethinking-draft-curves/</guid>
+      <description>Even when you ignore the 2019 pick conveyed to the Colts, the Jets are enormous losers. To be more specific, the Colts aquired 112.4 points worth of draft value in exchange for 52.5 points&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Vegas flu looks real — but somehow the Chicago Blackhawks also got sick</title>
+      <link>https://data-scribers.mikewk.com/post/the-vegas-flu-looks-real-but-s/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-vegas-flu-looks-real-but-s/</guid>
+      <description>But analyzing team strength is just the start of how we can use this type of framework to analyze betting market data in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A state-space model to evaluate sports teams</title>
+      <link>https://data-scribers.mikewk.com/post/a-statespace-model-to-evaluate/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-statespace-model-to-evaluate/</guid>
+      <description>Relative to other popular sports like basketball and football, it seemed to us at the time that the best team was winning less often in baseball and hockey. And as fans wanting skilled teams to be rewarded, it was frustrating to so often have well-constructed teams fall short of titles. Team quality in sports is not static. Players get hurt, traded, or decide to retire&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On log-loss and scoring the NCAA tournament</title>
+      <link>https://data-scribers.mikewk.com/post/on-logloss-and-scoring-the-nca/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-logloss-and-scoring-the-nca/</guid>
+      <description>To wit: We are pretty sure we actually mis-typed Ohio State as Ohio during our data wrangling process, thus giving what was a pretty good Ohio State team a fairly mediocre ranking. This helped us immensely when Ohio State lost to Dayton in a first round upset&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The impact of make-up calls is probably bigger than you think</title>
+      <link>https://data-scribers.mikewk.com/post/the-impact-of-makeup-calls-is-/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-impact-of-makeup-calls-is-/</guid>
+      <description>A common line of reasoning behind call reversals is that referees would prefer to $not$ be part of the final narrative as to why a particular team won or lost&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On the risks of categorizing a continuous variable (with an application to baseball data)</title>
+      <link>https://data-scribers.mikewk.com/post/on-the-risks-of-categorizing-a/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-the-risks-of-categorizing-a/</guid>
+      <description>In the third inning during a contest a few weeks back between the Nationals and Cubs, Washington’s Brian Goodwin hit a line drive to left field with two outs and a runner on third. Despite an initial pause, Chicago’s Kyle Schwarber ran in and attempted to field the ball around his knees&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

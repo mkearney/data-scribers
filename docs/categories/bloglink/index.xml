@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>NFL team logos using ggimage</title>
+      <link>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/nfl-team-logos-using-ggimage/</guid>
+      <description>First, we read in the data, and create what would be a typical plot that highlights run and pass performance for each offense. There’s a bunch that can be gleamed from the chart above&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>R Markdown で PlantUML</title>
       <link>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/r-markdown-%E3%81%A7-plantuml/</guid>
       <description>@niszet0 さんの “R MarkdownでWord文書を作ろう” を摘み食いしてます (以下RmdでWord本)．&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Smart Thinking</title>
+      <link>https://data-scribers.mikewk.com/post/smart-thinking/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/smart-thinking/</guid>
+      <description>This is a video of the San Bernardino Police Department of California using a bag of loose Doritos to lure an escaped pig named Smalls back home. In their own words while I get my arm stuck in the vending machine again&amp;hellip;</description>
     </item>
     
     <item>
@@ -7357,12 +7375,57 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Lessons hidden in sports betting markets</title>
+      <link>https://data-scribers.mikewk.com/post/lessons-hidden-in-sports-betti/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lessons-hidden-in-sports-betti/</guid>
+      <description>With sports betting now legal in several US states, I might as well give away my number one piece of advice for amateurs looking to gamble: Don&amp;rsquo;t bet. It&amp;rsquo;s an easy recommendation&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Miami Mango Ratings</title>
       <link>https://data-scribers.mikewk.com/post/miami-mango-ratings/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/miami-mango-ratings/</guid>
       <description>Mangos are grown widely in South Florida, but only a few varieties ever make it north, because they don’t really ship well and there isn’t a huge market&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part I</title>
+      <link>https://data-scribers.mikewk.com/post/part-i/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-i/</guid>
+      <description>The best team in baseball during the 2013 season was the Detroit Tigers. But on October 19th of that year, the best team in baseball was fighting to save its season&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part II</title>
+      <link>https://data-scribers.mikewk.com/post/part-ii/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-ii/</guid>
+      <description>The Caps entered a 2nd-round playoff series with Pittsburgh as decent-sized favorites (58 percent), and sure enough, Washington outplayed its rivals&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part III</title>
+      <link>https://data-scribers.mikewk.com/post/part-iii/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-iii/</guid>
+      <description>One way in which professional sports are relatively fair is that, in each season, teams are almost always given an identical number of home games&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Part IV</title>
+      <link>https://data-scribers.mikewk.com/post/part-iv/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/part-iv/</guid>
+      <description>Thus, perhaps it&amp;rsquo;s worth taking a step back to analyze what can be a substantially more dominant but often unquantified force that impacts sporting results: who you opponents&amp;hellip;</description>
     </item>
     
     <item>
@@ -10797,6 +10860,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The within-game evolution of MLB’s strike zone</title>
+      <link>https://data-scribers.mikewk.com/post/the-withingame-evolution-of-ml/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-withingame-evolution-of-ml/</guid>
+      <description>Next, I averaged across each of the nine-innings and each three-inch window of a strike zone grid to identify the likelihood of a pitch in a given part of the zone being called a strike&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tu propio smooth en geom_smooth()</title>
       <link>https://data-scribers.mikewk.com/post/tu-propio-smooth-en-geomsmooth/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -12012,6 +12084,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Rethinking draft curves</title>
+      <link>https://data-scribers.mikewk.com/post/rethinking-draft-curves/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rethinking-draft-curves/</guid>
+      <description>Even when you ignore the 2019 pick conveyed to the Colts, the Jets are enormous losers. To be more specific, the Colts aquired 112.4 points worth of draft value in exchange for 52.5 points&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>chorrrds</title>
       <link>https://data-scribers.mikewk.com/post/chorrrds/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
@@ -12471,6 +12552,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The Vegas flu looks real — but somehow the Chicago Blackhawks also got sick</title>
+      <link>https://data-scribers.mikewk.com/post/the-vegas-flu-looks-real-but-s/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-vegas-flu-looks-real-but-s/</guid>
+      <description>But analyzing team strength is just the start of how we can use this type of framework to analyze betting market data in&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>#TidyTuesday</title>
       <link>https://data-scribers.mikewk.com/post/tidytuesday/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
@@ -12486,6 +12576,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/mediation-moderation-workshop/</guid>
       <description>Hi everyone! I have been super swamped with a bunch of due dates that all hit in&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A state-space model to evaluate sports teams</title>
+      <link>https://data-scribers.mikewk.com/post/a-statespace-model-to-evaluate/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-statespace-model-to-evaluate/</guid>
+      <description>Relative to other popular sports like basketball and football, it seemed to us at the time that the best team was winning less often in baseball and hockey. And as fans wanting skilled teams to be rewarded, it was frustrating to so often have well-constructed teams fall short of titles. Team quality in sports is not static. Players get hurt, traded, or decide to retire&amp;hellip;</description>
     </item>
     
     <item>
@@ -12846,6 +12945,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/musings-on-multiple-endpoints-/</guid>
       <description>The purpose of this article is not to discuss ISCHEMIA but to discuss the general study design, endpoint selection, and analysis issues ISCHEMIA raises that apply to a multitude of trials&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On log-loss and scoring the NCAA tournament</title>
+      <link>https://data-scribers.mikewk.com/post/on-logloss-and-scoring-the-nca/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-logloss-and-scoring-the-nca/</guid>
+      <description>To wit: We are pretty sure we actually mis-typed Ohio State as Ohio during our data wrangling process, thus giving what was a pretty good Ohio State team a fairly mediocre ranking. This helped us immensely when Ohio State lost to Dayton in a first round upset&amp;hellip;</description>
     </item>
     
     <item>
@@ -13245,6 +13353,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>The impact of make-up calls is probably bigger than you think</title>
+      <link>https://data-scribers.mikewk.com/post/the-impact-of-makeup-calls-is-/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-impact-of-makeup-calls-is-/</guid>
+      <description>A common line of reasoning behind call reversals is that referees would prefer to $not$ be part of the final narrative as to why a particular team won or lost&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Building a Rasa Chatbot to Perform Natural Language Queries</title>
       <link>https://data-scribers.mikewk.com/post/building-a-rasa-chatbot-to-per/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
@@ -13593,6 +13710,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/my-trip-to-mexico-in-emojis/</guid>
       <description>The code that never really worked This post is the result of hours and hours of me trying to write some code but never getting it quite right. I think that one of the worst things that you can do to yourself is to be scared to admit that you are struggling because you will end up never trying anything new&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On the risks of categorizing a continuous variable (with an application to baseball data)</title>
+      <link>https://data-scribers.mikewk.com/post/on-the-risks-of-categorizing-a/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/on-the-risks-of-categorizing-a/</guid>
+      <description>In the third inning during a contest a few weeks back between the Nationals and Cubs, Washington’s Brian Goodwin hit a line drive to left field with two outs and a runner on third. Despite an initial pause, Chicago’s Kyle Schwarber ran in and attempted to field the ball around his knees&amp;hellip;</description>
     </item>
     
     <item>

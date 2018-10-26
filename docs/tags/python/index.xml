@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PyBay 2018 San Francisco</title>
+      <link>https://data-scribers.mikewk.com/post/pybay-2018-san-francisco/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pybay-2018-san-francisco/</guid>
+      <description>Rachel Thomas is the co-founder of fast.ai and a Professor of Data Science at UCSF. Working on an AI product myself I really enjoyed this keynote as it got me to think beyond just meeting the MVP of the product I am helping design and build&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Source A Python, There&#39;s Nothing To It, Vogue</title>
@@ -1476,6 +1485,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/connect-to-odoo-in-your-applic/</guid>
       <description>In this post, we will use the new name, Odoo instead of OpenERP but the content and the examples are compatible with OpenERP 5.0, 6.0, 6.1 and 7.0 and of course with Odoo v8.0. There is no need to be worried, I will try to be compatible with the new version&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Integrating Get Satisfaction Fastpass with Laravel</title>
+      <link>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</guid>
+      <description>Here is an overview of what is involved in getting your Laravel 4 apps authentication system to integrate with Get Satisfaction Fastpass for single sign on&amp;hellip;</description>
     </item>
     
     <item>

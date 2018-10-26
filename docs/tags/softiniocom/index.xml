@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softiniocom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/softiniocom/</link>
+    <description>Recent content in Softiniocom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/softiniocom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyBay 2018 San Francisco</title>
+      <link>https://data-scribers.mikewk.com/post/pybay-2018-san-francisco/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pybay-2018-san-francisco/</guid>
+      <description>Rachel Thomas is the co-founder of fast.ai and a Professor of Data Science at UCSF. Working on an AI product myself I really enjoyed this keynote as it got me to think beyond just meeting the MVP of the product I am helping design and build&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Life changes and announcing SFBayAreaTech</title>
+      <link>https://data-scribers.mikewk.com/post/life-changes-and-announcing-sf/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/life-changes-and-announcing-sf/</guid>
+      <description>It is absolutely an awesome experience living in the Bay Area amongst so many super smart techies and great startups. On arrival I had two initial goals, namely, meet everyone in tech and make friends and find a new awesome job with a startup that has a great future and potential solving problems that line up well with my interests and technical interests&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Integrating Get Satisfaction Fastpass with Laravel</title>
+      <link>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</guid>
+      <description>Here is an overview of what is involved in getting your Laravel 4 apps authentication system to integrate with Get Satisfaction Fastpass for single sign on&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

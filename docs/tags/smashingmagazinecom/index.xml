@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Headless WordPress</title>
+      <link>https://data-scribers.mikewk.com/post/headless-wordpress/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/headless-wordpress/</guid>
+      <description>WordPress came a long way from its start as a simple blog writing tool. A long 15 years later it became the number one CMS choice for developers and non-developers alike. WordPress now powers roughly 30% of the top 10 million sites on the web&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Video Playback On The Web</title>

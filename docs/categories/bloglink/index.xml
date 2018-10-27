@@ -15324,6 +15324,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>tsibble? or tibbletime?</title>
+      <link>https://data-scribers.mikewk.com/post/tsibble-or-tibbletime/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tsibble-or-tibbletime/</guid>
+      <description>So what do these two packages have in common? A common time series analysis task is to aggregate the values to higher-level time periods. For example, it may be interesting to examine average temperature and total precipitation every month. Generally, tsibble defines a time series tibble more strictly than tibbletime&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Comparing recent periods of mortgage rate increases</title>
       <link>https://data-scribers.mikewk.com/post/comparing-recent-periods-of-mo/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
@@ -25740,6 +25749,15 @@ Aesthetics apart, this year&amp;rsquo;s event was the biggest I&amp;rsquo;ve att
     </item>
     
     <item>
+      <title>Interview with Rob J Hyndman</title>
+      <link>https://data-scribers.mikewk.com/post/interview-with-rob-j-hyndman/</link>
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/interview-with-rob-j-hyndman/</guid>
+      <description>The textbook is different. It really goes back a long way. I wrote a textbook on forecasting in 1998 and it became the biggest selling textbook on statistical forecasting in the world. My contract said I should get 5% of sales, but I actually got much less. Wiley (the publisher) had no costs apart from printing and marketing, and they did a lousy job in marketing&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Integrating Get Satisfaction Fastpass with Laravel</title>
       <link>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
@@ -26126,6 +26144,15 @@ I know 14 days are not enough to make statistics, but let&amp;rsquo;s play with 
       
       <guid>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</guid>
       <description>Much of my research in machine learning is aimed at small-sample, high-dimensional bioinformatics data sets. For instance, here is a paper of mine on the topic. A large number of papers proposing new machine-learning methods that target high-dimensional data use the same two data sets and consider few others&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data analysis, from numbers to insights</title>
+      <link>https://data-scribers.mikewk.com/post/data-analysis-from-numbers-to-/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/data-analysis-from-numbers-to-/</guid>
+      <description>For good or ill, we crossed the end of the world predicted by Mayans and were pushed back to a tough world. It&amp;rsquo;s time to move forward. Data analysis, as I understand it, is not a fixed set of techniques. It is a way of life, and it has a name: curiosity. There is always something else to find out and something more to learn&amp;hellip;</description>
     </item>
     
     <item>

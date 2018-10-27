@@ -8508,6 +8508,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tsibble-or-tibbletime/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/comparing-recent-periods-of-mo/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -14293,6 +14298,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/interview-with-rob-j-hyndman/</loc>
+    <lastmod>2014-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/integrating-get-satisfaction-f/</loc>
     <lastmod>2014-01-09T00:00:00+00:00</lastmod>
   </url>
@@ -14505,6 +14515,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/highdimensional-microarray-dat/</loc>
     <lastmod>2012-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/data-analysis-from-numbers-to-/</loc>
+    <lastmod>2012-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15061,6 +15076,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/blogdavisvaughancom/</loc>
     <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/blogearome/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

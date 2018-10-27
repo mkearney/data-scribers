@@ -4308,6 +4308,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>tsibble? or tibbletime?</title>
+      <link>https://data-scribers.mikewk.com/post/tsibble-or-tibbletime/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tsibble-or-tibbletime/</guid>
+      <description>So what do these two packages have in common? A common time series analysis task is to aggregate the values to higher-level time periods. For example, it may be interesting to examine average temperature and total precipitation every month. Generally, tsibble defines a time series tibble more strictly than tibbletime&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Comparing recent periods of mortgage rate increases</title>
       <link>https://data-scribers.mikewk.com/post/comparing-recent-periods-of-mo/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>

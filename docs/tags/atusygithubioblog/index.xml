@@ -6,10 +6,19 @@
     <description>Recent content in Atusygithubioblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/atusygithubioblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RmarkdwonのYAMLフロントマターで titleとか authorとか 改行する</title>
+      <link>https://data-scribers.mikewk.com/post/rmarkdwon%E3%81%AEyaml%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%9E%E3%82%BF%E3%83%BC%E3%81%A7-title%E3%81%A8%E3%81%8B/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rmarkdwon%E3%81%AEyaml%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%9E%E3%82%BF%E3%83%BC%E3%81%A7-title%E3%81%A8%E3%81%8B/</guid>
+      <description>@niszet0 さん著「R MarkdownでWord文書を作ろう」を読んでます。&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Plotlyで軸比を1:1に固定する</title>

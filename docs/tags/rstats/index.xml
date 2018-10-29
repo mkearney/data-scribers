@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Analysis essentials</title>
+      <link>https://data-scribers.mikewk.com/post/analysis-essentials/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/analysis-essentials/</guid>
+      <description>There are a lot of practical skills involved in doing an analysis that are essential but that I rarely (never?) see included in the curriculum, statistics or otherwise. These are skills like how to organize your data, how to approach QAQC, and how to set up a naming algorithm for files&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio IDE Custom Theme Support</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>

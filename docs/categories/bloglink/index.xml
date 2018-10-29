@@ -30,12 +30,48 @@
     </item>
     
     <item>
+      <title>Fictional Fight Commentary For A Battle Between Jason And Freddy</title>
+      <link>https://data-scribers.mikewk.com/post/fictional-fight-commentary-for/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fictional-fight-commentary-for/</guid>
+      <description>This is a very well produced video of some fictional fight commentary for a deathmatch style battle between Jason Voorhees and Freddy Krueger. It&amp;rsquo;s twelve minutes long. It could have been five. Or less&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RStudio IDE Custom Theme Support</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</guid>
+      <description>We&amp;rsquo;re excited to announce that RStudio v1.2 has added support for custom editor themes. Custom editor themes will allow you to adjust the background color of the editor and syntax highlighting of code in RStudio to better suit your own personal style&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Finance, the book! And a discount for our readers</title>
+      <link>https://data-scribers.mikewk.com/post/reproducible-finance-the-book-/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/reproducible-finance-the-book-/</guid>
+      <description>If you are familiar with the R Views posts, then you probably have a pretty good sense for the book’s style, prose, and code approach, but I’d like to add a few quick words of&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Video Of A Beautiful Butterfly Swarm In Vietnam</title>
       <link>https://data-scribers.mikewk.com/post/video-of-a-beautiful-butterfly/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/video-of-a-beautiful-butterfly/</guid>
       <description>Because the world isn&amp;rsquo;t complete garbage yet, this is a beautiful video of hundreds of butterflies swarming in Ninh Binh, Vietnam, presumably because the person filming disturbed them. It looks like a scene out of a movie. A movie my girlfriend insist I watch with her instead of playing Red Dead Redemption 2 all weekend&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rlang 0.3.0</title>
+      <link>https://data-scribers.mikewk.com/post/rlang-030/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rlang-030/</guid>
+      <description>With tidy dots, users can splice in lists of arguments: They can unquote names: And trailing empty arguments are always ignored to make copy-pasting easier: Chaining errors is relevant when you&amp;rsquo;re calling low-level APIs such as web scraping, JSON parsing, etc&amp;hellip;</description>
     </item>
     
     <item>
@@ -7114,6 +7150,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>processx 3.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/processx-320/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/processx-320/</guid>
+      <description>processx deals with two kinds of external processes: foreground and background. Foreground processes are synchronous, R waits until they finish, and collects the output and the exit code of the process&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>strict `case_when`</title>
       <link>https://data-scribers.mikewk.com/post/strict-casewhen/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
@@ -7507,6 +7552,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</guid>
       <description>We need to load the good library into R - we only need tidyverse to work around the database and openxlsx to load our .xls file where we store the data. I upload the data into R and visualize the format of my database&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Save the date</title>
+      <link>https://data-scribers.mikewk.com/post/save-the-date/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/save-the-date/</guid>
+      <description>Hadley has promised &amp;ldquo;the best BBQ in Texas,&amp;rdquo; so feel free to take that into account&amp;hellip;</description>
     </item>
     
     <item>
@@ -8410,12 +8464,30 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>ggplot2 3.0.0: community posts</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot2-300-community-posts/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot2-300-community-posts/</guid>
+      <description>Spoiler alert: excellent material&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>makeActiveBinding()</title>
       <link>https://data-scribers.mikewk.com/post/makeactivebinding/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/makeactivebinding/</guid>
       <description>Finally, we generate all outputs to build the dependency table&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>scales 1.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/scales-100/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/scales-100/</guid>
+      <description>This is a major release with significant changes to the popular formatter functions, and added transformations&amp;hellip;</description>
     </item>
     
     <item>
@@ -8527,6 +8599,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>roxygen2 6.1.0</title>
+      <link>https://data-scribers.mikewk.com/post/roxygen2-610/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/roxygen2-610/</guid>
+      <description>In this version, we&amp;rsquo;ve made a number of bug fixes to markdown translation: Code in link text is now properly rendered as&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Dockerized Spacemacs on Windows</title>
       <link>https://data-scribers.mikewk.com/post/dockerized-spacemacs-on-window/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
@@ -8560,6 +8641,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/tangent-lines-and-nonexistent-/</guid>
       <description>1 Definition of a Tangent Line 2 Slope of a Tangent Line on a Curve 3 Condition for Existence 4 Limit of an Absolute Value 4.1 Problem 4.2 Solution 5 Reference 1 Definition of a Tangent Line Consider a curve (y = f(x)), and let (P) be a given fixed point on this curve. Let (Q) be a second nearby point on the curve, and draw the secant line&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The tidymodels Package</title>
+      <link>https://data-scribers.mikewk.com/post/the-tidymodels-package/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-tidymodels-package/</guid>
+      <description>The number of tidyverse modeling package continues to grow&amp;hellip;</description>
     </item>
     
     <item>
@@ -9184,6 +9274,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Tidy evaluation in ggplot2</title>
+      <link>https://data-scribers.mikewk.com/post/tidy-evaluation-in-ggplot2/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidy-evaluation-in-ggplot2/</guid>
+      <description>We could use this same pattern to make a&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>You&#39;ll always remember your first time...open sourcing</title>
       <link>https://data-scribers.mikewk.com/post/youll-always-remember-your-fir/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
@@ -9496,6 +9595,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/the-invisible-baby-metaphor/</guid>
       <description>Be kind: you don&amp;rsquo;t know the constraints they have. This reminds me of a metaphor I have had on my mind for a long time: the &amp;ldquo;invisible baby&amp;rdquo;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>broom 0.5.0</title>
+      <link>https://data-scribers.mikewk.com/post/broom-050/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/broom-050/</guid>
+      <description>These changes will mostly likely affect you when you: Deprecated tidiers still return data frames. Tidiers for mixed models also return data frames. broom 0.5.0 introduces tidiers for: In addition to these new tidiers, this release includes fixes for a large number of bugs in existing tidiers&amp;hellip;</description>
     </item>
     
     <item>
@@ -9823,6 +9931,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Carpe Talk</title>
+      <link>https://data-scribers.mikewk.com/post/carpe-talk/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/carpe-talk/</guid>
+      <description>Conference talks are a great opportunity to help people learn about the cool and useful things you have built. Given all the hard work you&amp;rsquo;ve already put in, a bit of marketing effort can be a wise investment in drumming up users&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>My Thoughts On Bitcoin</title>
       <link>https://data-scribers.mikewk.com/post/my-thoughts-on-bitcoin/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
@@ -10003,6 +10120,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>ggplot2 3.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot2-300/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot2-300/</guid>
+      <description>Install ggplot2 with: Aesthetics can now be specified independent of the scale name&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://data-scribers.mikewk.com/post/about-me/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
@@ -10126,6 +10252,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/running-python-in-the-rstudio-/</guid>
       <description>I’ve had a few different people ask me variants of the same question lately, which is: “How can I run python code on a server in a similar way to using R with RStudio Server”&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>bench 1.0.1</title>
+      <link>https://data-scribers.mikewk.com/post/bench-101/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bench-101/</guid>
+      <description>Install the latest version with: Results are easy to interpret, with human readable units in a rectangular data frame. You can also produce fully custom plots by un-nesting the results and working with the data directly&amp;hellip;</description>
     </item>
     
     <item>
@@ -10432,6 +10567,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/scilifelab-prize/</guid>
       <description>Last year I submitted an entry to this competition and I enjoyed the experience, even if it was a bit rushed. The process of joining the competition is relatively straight forward: You don’t need to pay for competing! You already did the very hard part of completing your Ph.D&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The tidyverse is for EDA, not packages</title>
+      <link>https://data-scribers.mikewk.com/post/the-tidyverse-is-for-eda-not-p/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-tidyverse-is-for-eda-not-p/</guid>
+      <description>Because the tidyverse is a set of packages designed for interactive data analysis, this is, in short, a bad idea&amp;hellip;</description>
     </item>
     
     <item>
@@ -11040,6 +11184,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>dplyr 0.7.5</title>
+      <link>https://data-scribers.mikewk.com/post/dplyr-075/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dplyr-075/</guid>
+      <description>The next release involves substantial refactoring of the internals to make hybrid evaluation simpler and less surprising, a new implementation of grouping that better respects levels of factors, and redesign of the grouping metadata to replace the current collection of attributes by a single tidy tibble&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Brief Introduction to Bagged Trees, Random Forest and Their Applications in R</title>
       <link>https://data-scribers.mikewk.com/post/a-brief-introduction-to-bagged/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
@@ -11181,6 +11334,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/setting-up-r/</guid>
       <description>This is one of a series of posts where I document software configurations for personal reference. This post documents the configurations for R. This post will concentrate on user- or project-specific files, so all the files mentioned below should be placed in a user’s home directory or in the working directory of a project. Global Options -&amp;gt; General:&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>conflicted</title>
+      <link>https://data-scribers.mikewk.com/post/conflicted/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conflicted/</guid>
+      <description>Install conflicted by running: conflicted does not export any functions. To use it, you just need to load it: Loading conflicted creates a new “conflicted” environment that is attached just after the global environment&amp;hellip;</description>
     </item>
     
     <item>
@@ -11568,6 +11730,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/pomological-plots/</guid>
       <description>In the real world, when I give talks and use slides I am typically constrained in my aesthetic. Often I’m speaking at a work-related thing and we have a corporate template and color scheme. They serve us well and I’ve found restraint helps focus on the message&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ggplot2 2.3.0 — upcoming release</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot2-230-upcoming-release/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot2-230-upcoming-release/</guid>
+      <description>In addition to highlighting a few features and improvements, we also want to share a bit about our release-preparation process for ggplot2, which has over 2,000 reverse&amp;hellip;</description>
     </item>
     
     <item>
@@ -12210,6 +12381,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>pkgdown 1.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/pkgdown-100/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pkgdown-100/</guid>
+      <description>Install pkgdown with: A great way to see what you can do with pkgdown is to look at existing websites&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>How efficient are multifactorial experiments?</title>
       <link>https://data-scribers.mikewk.com/post/how-efficient-are-multifactori/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
@@ -12336,6 +12516,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>pillar 1.2.2</title>
+      <link>https://data-scribers.mikewk.com/post/pillar-122/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pillar-122/</guid>
+      <description>List columns (and the special case of nested data frames) are a very powerful idiom&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>If you&#39;re having trouble programming data file imports, try RStudio&#39;s code preview</title>
       <link>https://data-scribers.mikewk.com/post/if-youre-having-trouble-progra/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
@@ -12453,6 +12642,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>bigrquery 1.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/bigrquery-100/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bigrquery-100/</guid>
+      <description>Install it with: Four big changes in this version of bigrquery are described in detail below: One of the neatest things about BigQuery is that it supports nested and repeated fields, which are also called structs (or records) and&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>AWS IOT Project with ESP8266</title>
       <link>https://data-scribers.mikewk.com/post/aws-iot-project-with-esp8266/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
@@ -12495,6 +12693,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</guid>
       <description>It wasn’t until I started working with clients and teaching labs on mixed models in R that I learned how to do simulations to understand how well such models worked under various scenarios&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>readxl 1.1.0</title>
+      <link>https://data-scribers.mikewk.com/post/readxl-110/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/readxl-110/</guid>
+      <description>The easiest way to install the latest version from CRAN is to install the whole tidyverse. Alternatively, install just readxl from CRAN: Those have now been addressed upstream and version 1.1.0 of readxl embeds a version of libxls that includes those fixes&amp;hellip;</description>
     </item>
     
     <item>
@@ -12846,6 +13053,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/tidy-chisquared-testing/</guid>
       <description>Introduction R has the creaky old functions table and chisq.test for counting up frequencies and doing chi-squared tests for association. They work, but there is nothing very tidyverse or elegant about them&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Upvoting issues</title>
+      <link>https://data-scribers.mikewk.com/post/upvoting-issues/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/upvoting-issues/</guid>
+      <description>We’re adding Reactions to conversations today to help people express their feelings more simply and effectively. When we pull the repo, issue, and reaction data together we end up with something that looks like the following figure. It’s a far cry from a fancy report, but it provides another avenue for easy communication among users and developers&amp;hellip;</description>
     </item>
     
     <item>
@@ -14361,6 +14577,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>pillar 1.2.1</title>
+      <link>https://data-scribers.mikewk.com/post/pillar-121/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pillar-121/</guid>
+      <description>In response to use feedback, the following changes were made to the output: Very small numbers are now printed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rlang 0.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/rlang-020/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rlang-020/</guid>
+      <description>The quirks in the quasiquotation syntax have been much reduced. Quosures gained a much improved printing method with colour support. The performance of quoting, splicing and quosure evaluation was vastly improved. Many bugs have been fixed. Install the latest version of rlang with: The way it prints inlined vectors is ambiguous&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>tailr — Tail Recursion Optimisation</title>
       <link>https://data-scribers.mikewk.com/post/tailr-tail-recursion-optimisat/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
@@ -14568,6 +14802,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>usethis 1.3.0</title>
+      <link>https://data-scribers.mikewk.com/post/usethis-130/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/usethis-130/</guid>
+      <description>[Jigs are made] to increase productivity through consistency, to do repetitive activities or to do a job more precisely. usethis provides a useful complement to WRE. Each function adds one specific piece of infrastructure to a package or project&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Converting old Wordpress posts to Hugo</title>
       <link>https://data-scribers.mikewk.com/post/converting-old-wordpress-posts/</link>
       <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
@@ -14649,6 +14892,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>stringr 1.3.0</title>
+      <link>https://data-scribers.mikewk.com/post/stringr-130/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stringr-130/</guid>
+      <description>Since stringr is loaded with tidyverse, this means that you can now access glue’s functionality without loading another&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Google Play Marketing with Dom Elliott and Stewart Bryson</title>
       <link>https://data-scribers.mikewk.com/post/google-play-marketing-with-dom/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
@@ -14664,6 +14916,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/the-1-question-to-ask-yourself/</guid>
       <description>Earlier last month, I took the 2018 Stack Overflow Developer Survey, and I found a few really difficult questions, such as the one that asked me to rank 10 aspects of a job opportunity in order of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>forcats 0.3.0</title>
+      <link>https://data-scribers.mikewk.com/post/forcats-030/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/forcats-030/</guid>
+      <description>You can install the latest version with: We needed to make two backward incompatible changes in order to increase consistency across the&amp;hellip;</description>
     </item>
     
     <item>
@@ -15909,6 +16170,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>tibble 1.4.2</title>
+      <link>https://data-scribers.mikewk.com/post/tibble-142/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tibble-142/</guid>
+      <description>This article shows the effect of each new option based on the following simple tibble&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Me on a podcast</title>
       <link>https://data-scribers.mikewk.com/post/me-on-a-podcast/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
@@ -15942,6 +16212,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/sending-watchmen-into-the-open/</guid>
       <description>Open source software is a decentralised development and distribution model that encourages collaboration in the public domain&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>fs 1.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/fs-100/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fs-100/</guid>
+      <description>Install the latest version with: Some examples… Filter files by type, permission, size and 15 other attributes. Tabulate and display folder size&amp;hellip;</description>
     </item>
     
     <item>
@@ -16485,6 +16764,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>dbplyr 1.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/dbplyr-120/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/dbplyr-120/</guid>
+      <description>Install the latest version of dbplyr with: Six stringr functions are now supported. Regular expression support varies from database to database, but most simple regular expressions should be ok&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Batch modification of PDF pages with magick package</title>
       <link>https://data-scribers.mikewk.com/post/batch-modification-of-pdf-page/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
@@ -16636,6 +16924,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/welcome-to-the-practical-pisce/</guid>
       <description>Thanks for stopping&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tibble 1.4.1</title>
+      <link>https://data-scribers.mikewk.com/post/tibble-141/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tibble-141/</guid>
+      <description>This release contains the following major changes: The most important change of this release is the use of color and other markup for the output in the terminal: Numeric columns have two displays. If there is room, the full number is displayed, making it easy to compare order of magnitude. Digits after the first three are dimmed to emphasise the important components&amp;hellip;</description>
     </item>
     
     <item>
@@ -16816,6 +17113,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/help-needed/</guid>
       <description>A major change I want to make about my life as a software developer in 2018 is that I will ask for help more frequently. I have a lot of burden that I hope to shift to other people&amp;rsquo;s shoulders. Of course, I won&amp;rsquo;t simply use you as pure labor - I hope you could learn something while helping me. I&amp;rsquo;ll start listing the simpler tasks in the next few weeks&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>November/December in the tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/novemberdecember-in-the-tidyve/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/novemberdecember-in-the-tidyve/</guid>
+      <description>In an effort to keep the community up to date with the evolution of the tidyverse, we’ll be doing regular roundups cataloging the latest developments&amp;hellip;</description>
     </item>
     
     <item>
@@ -17125,6 +17431,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>styler 1.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/styler-100/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/styler-100/</guid>
+      <description>styler can style text, single files, packages and entire R source trees with the following functions: A distinguishing feature of styler is its flexibility. The following options are available: We will briefly describe all of them below&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Another Year, Another R Package, Another Book, and Endless Joy</title>
       <link>https://data-scribers.mikewk.com/post/another-year-another-r-package/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
@@ -17185,6 +17500,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/the-three-giants-survey/</guid>
       <description>For quite some time researchers thought backpropagation wouldn&amp;rsquo;t work as it might get stuck in a local minima, but analysis showed that this rarely happened. There might be many saddle points at which the algorithm might get stuck, but it doesn&amp;rsquo;t matter which one as they all almost had the same objective value&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>testthat 2.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/testthat-200/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testthat-200/</guid>
+      <description>Install the latest version of testthat with: A new default reporter revamps the output to make better use of colour. New setup and teardown tools make it easier to run code before and after each test file, and before and after all tests. New and improved expectations make it easier to test printed output and precisely test conditions (i.e&amp;hellip;</description>
     </item>
     
     <item>
@@ -17356,6 +17680,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/income-along-the-boston-t-oran/</guid>
       <description>As a native New Yorker, I was recently intrigued by a visualization of household income in NY highlight inequality ( New Yorker ). Having lived in Boston for going on 9 years, I’ve started to call this place home. Could I make a similar representation of income in Boston? That was my challenge! PART I: The Orange Line To start I used these&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Project-oriented workflow</title>
+      <link>https://data-scribers.mikewk.com/post/projectoriented-workflow/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/projectoriented-workflow/</guid>
+      <description>If the first line of your R script is I will come into your office and SET YOUR COMPUTER ON FIRE 🔥. If the first line of your R script is I will come into your office and SET YOUR COMPUTER ON FIRE 🔥. Caveat: only you can decide how much you care about this&amp;hellip;</description>
     </item>
     
     <item>
@@ -17602,6 +17935,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>usethis 1.0.0 (and 1.1.0)</title>
+      <link>https://data-scribers.mikewk.com/post/usethis-100-and-110/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/usethis-100-and-110/</guid>
+      <description>Take advantage of these helpers to document your package: If you want to share your code with others, it’s good practice to make the licensing&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Characterizing the variance for clustered data that are Gamma distributed</title>
       <link>https://data-scribers.mikewk.com/post/characterizing-the-variance-fo/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
@@ -17809,6 +18151,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>withr 2.1.0</title>
+      <link>https://data-scribers.mikewk.com/post/withr-210/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/withr-210/</guid>
+      <description>Install the latest version with: One common idiom for dealing with this problem is to save the current state, make your change, then restore the previous state. However this approach can fail if there’s an error before you are able to reset the options. Here are some highlights of new functions for v2.1.0&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>3 Keys for Successful Products and Programs Before You Even Start</title>
       <link>https://data-scribers.mikewk.com/post/3-keys-for-successful-products/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
@@ -17833,6 +18184,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/secret-sampling-/</guid>
       <description>’Tis the season for white elephant / גמד וענק / Yankee swap / secret santa-ing! There are various rules for this, for our version: 🏷 each participant receives the name of someone else to purchase a gift for 🎁 gifts are exchanged at a party 🤔 the receiver is tasked with guessing who the gift-giver was! We thought it’d be particularly fun to do it #rstats&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>tidyverse 1.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/tidyverse-120/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidyverse-120/</guid>
+      <description>The latest version of tidyverse can be installed&amp;hellip;</description>
     </item>
     
     <item>
@@ -18106,6 +18466,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>lubridate 1.7.0</title>
+      <link>https://data-scribers.mikewk.com/post/lubridate-170/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/lubridate-170/</guid>
+      <description>Lubridate is a package that makes working with date-time and time-span objects easier. It provides fast and user friendly parsing of date-time strings, extraction and updating of components of a date-time objects (years, months, days etc.) and algebraic manipulation on date-time and time-span objects&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Bringing Together People and Projects at ozunconf17</title>
       <link>https://data-scribers.mikewk.com/post/bringing-together-people-and-p/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
@@ -18121,6 +18490,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-10/</guid>
       <description>Match of the DayKane-less Spurs lose to Pogba-less United and trail City by 8 points Final Top 6?The accepted ‘top six’ i.e Chelsea, Spurs, Man City, Liverpool, Arsenal and Man Utd&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>glue 1.2.0</title>
+      <link>https://data-scribers.mikewk.com/post/glue-120/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/glue-120/</guid>
+      <description>Install the latest version with: glue is also vectorized over its inputs&amp;hellip;</description>
     </item>
     
     <item>
@@ -19420,6 +19798,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>The summer of ggplot2 - wooooo!</title>
+      <link>https://data-scribers.mikewk.com/post/the-summer-of-ggplot2-wooooo/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-summer-of-ggplot2-wooooo/</guid>
+      <description>My ggplot2 work consisted of a few different things: issue and pull request triage, bug fixes, and developing new features&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>👩‍💻🚙👯</title>
+      <link>https://data-scribers.mikewk.com/post/2017-09-08-/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/2017-09-08-/</guid>
+      <description>My day to day back in April seems so foreign to the workflow Jenny and I have now established, but those first few weeks were incredibly useful for getting me steeped in all things Google Drive&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Safely, possibly</title>
       <link>https://data-scribers.mikewk.com/post/safely-possibly/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
@@ -19462,6 +19858,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/further-considerations-of-a-hi/</guid>
       <description>Certainly, group membership is not necessarily intrinsically ordered. In a general categorical or multinomial outcome, a group does not necessarily have any quantitative relationship vis a vis the other groups&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Erratum tidyr 0.7.0</title>
+      <link>https://data-scribers.mikewk.com/post/erratum-tidyr-070/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/erratum-tidyr-070/</guid>
+      <description>You can install the new version of tidyselect from CRAN: We thought this was a relatively uncommon occurrence in practice. However that broke a lot of code that had this form: Although the change was well-intentioned, it proved to be too disruptive and we have reverted it&amp;hellip;</description>
     </item>
     
     <item>
@@ -19561,6 +19966,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/selecting-packages-while-codin/</guid>
       <description>Sometimes, you must choose a package to achieve some results while you&amp;rsquo;re coding. Let&amp;rsquo;s say, you&amp;rsquo;re wrangling data and noticed you need a quick way of getting the mode of a vector&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>googledrive initial release</title>
+      <link>https://data-scribers.mikewk.com/post/googledrive-initial-release/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/googledrive-initial-release/</guid>
+      <description>Install googledrive with: The auth flow should &amp;ldquo;just work&amp;rdquo; for most people, especially for early and interactive use. For more advanced usage, functions are available that give the user much more control, i.e. to support non-interactive and remote usage&amp;hellip;</description>
     </item>
     
     <item>
@@ -19726,6 +20140,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>tidyr 0.7.0</title>
+      <link>https://data-scribers.mikewk.com/post/tidyr-070/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tidyr-070/</guid>
+      <description>We are happy to announce that tidyr 0.7.0 is now available on CRAN. There are two big changes: tidyr uses the new tidyselect package as selection backend&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Which RStudio blog posts “pleased” Hadley? A tidytext &#43; web scraping analysis</title>
       <link>https://data-scribers.mikewk.com/post/which-rstudio-blog-posts-pleas/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
@@ -19759,6 +20182,24 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/pythonfosdem-2018/</guid>
       <description>Because I want to be in advance this year for the organization of the PythonFOSDEM 2018, I have worked on the web site. The Call for Proposals will be announced once we have the &amp;ldquo;Go&amp;rdquo; from FOSDEM. So, the site is already prepared, and now, I will wait for the notification from FOSDEM for the next devroom. I hope the answer will be positive&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>purrr 0.2.3</title>
+      <link>https://data-scribers.mikewk.com/post/purrr-023/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/purrr-023/</guid>
+      <description>We are pleased to announce that purrr 0.2.3 is now on CRAN! Despite the small increment in the version number (our mistake, it should have been 0.3.0), this is a rather major release that includes many new features and bug fixes&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contributing code to the tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/contributing-code-to-the-tidyv/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/contributing-code-to-the-tidyv/</guid>
+      <description>Contributing code to open source projects can be intimidating. These projects are often widely used and have well known maintainers&amp;hellip;</description>
     </item>
     
     <item>
@@ -20056,6 +20497,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/data-paintings-the-kandinsky-p/</guid>
       <description>Recently I have moaned about not really knowing what I was doing with the grid package (see here and here). I’m happy to say, not only did I take the time to better understand the grid package, I also wrote my own package around it - the kandinsky package! To generate random Wassily Kandinsky paintings or even make any dataset into one&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://data-scribers.mikewk.com/post/welcome/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/welcome/</guid>
+      <description>As well as radically improved graphic design, the site includes four new components: This blog! Expect to see regular updates on what&amp;rsquo;s happening in the tidyverse&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Modeling on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio IDE Custom Theme Support</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</guid>
+      <description>We&amp;rsquo;re excited to announce that RStudio v1.2 has added support for custom editor themes. Custom editor themes will allow you to adjust the background color of the editor and syntax highlighting of code in RStudio to better suit your own personal style&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Emulating ligatures with concealing in vim</title>
@@ -606,6 +615,15 @@
     </item>
     
     <item>
+      <title>The tidymodels Package</title>
+      <link>https://data-scribers.mikewk.com/post/the-tidymodels-package/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-tidymodels-package/</guid>
+      <description>The number of tidyverse modeling package continues to grow&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introduction to Urban Institute Education Data API</title>
       <link>https://data-scribers.mikewk.com/post/introduction-to-urban-institut/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
@@ -990,6 +1008,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/day-3637-concerned-dalex/</guid>
       <description>I was working on a longer post continuing the metaprogramming series, and realised I wasn’t going to get it done this evening. But it’s been a couple of days since I tried out something new, so I resorted to the twitters to find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>conflicted</title>
+      <link>https://data-scribers.mikewk.com/post/conflicted/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/conflicted/</guid>
+      <description>Install conflicted by running: conflicted does not export any functions. To use it, you just need to load it: Loading conflicted creates a new “conflicted” environment that is attached just after the global environment&amp;hellip;</description>
     </item>
     
     <item>
@@ -1533,6 +1560,15 @@
     </item>
     
     <item>
+      <title>November/December in the tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/novemberdecember-in-the-tidyve/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/novemberdecember-in-the-tidyve/</guid>
+      <description>In an effort to keep the community up to date with the evolution of the tidyverse, we’ll be doing regular roundups cataloging the latest developments&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Learn to Write Command Line Utilities in R - part 5</title>
       <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
@@ -1557,6 +1593,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/using-dharma-for-residual-chec/</guid>
       <description>One of the difficult things about working with generalized linear models (GLM) and generalized linear mixed models (GLMM) is figuring out how to interpret residual&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>testthat 2.0.0</title>
+      <link>https://data-scribers.mikewk.com/post/testthat-200/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testthat-200/</guid>
+      <description>Install the latest version of testthat with: A new default reporter revamps the output to make better use of colour. New setup and teardown tools make it easier to run code before and after each test file, and before and after all tests. New and improved expectations make it easier to test printed output and precisely test conditions (i.e&amp;hellip;</description>
     </item>
     
     <item>
@@ -1818,6 +1863,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/purrify-your-carets/</guid>
       <description>The motivation An example using BostonHousing data Load libs &amp;amp; data Create a starter dataframe Select the models Create data-model combinations Solve the models Extract results In conclusion tl;dr: You’ll learn how to use purrr, caret and list-cols to quickly create hundreds of dataset + model combinations, store data &amp;amp; model objects neatly in one tibble, and post process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Erratum tidyr 0.7.0</title>
+      <link>https://data-scribers.mikewk.com/post/erratum-tidyr-070/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/erratum-tidyr-070/</guid>
+      <description>You can install the new version of tidyselect from CRAN: We thought this was a relatively uncommon occurrence in practice. However that broke a lot of code that had this form: Although the change was well-intentioned, it proved to be too disruptive and we have reverted it&amp;hellip;</description>
     </item>
     
     <item>

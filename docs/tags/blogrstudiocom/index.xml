@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio IDE Custom Theme Support</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</guid>
+      <description>We&amp;rsquo;re excited to announce that RStudio v1.2 has added support for custom editor themes. Custom editor themes will allow you to adjust the background color of the editor and syntax highlighting of code in RStudio to better suit your own personal style&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio 1.2 Preview</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Aggieerincom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/aggieerincom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JASP Videos &#43; Guides</title>
+      <link>https://data-scribers.mikewk.com/post/jasp-videos-guides/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jasp-videos-guides/</guid>
+      <description>Hey everybody! I am back and finally getting to videos again. I hesistate to say “it’s been crazy!” because I feel like that’s always a thing that academics say, but I will say I’ve had a lot of life going on, and I am finally getting back to a normal amount of crazy&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Quick and Dirty Categorical lavaan</title>

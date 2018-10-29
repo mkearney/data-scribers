@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>JASP Videos &#43; Guides</title>
+      <link>https://data-scribers.mikewk.com/post/jasp-videos-guides/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/jasp-videos-guides/</guid>
+      <description>Hey everybody! I am back and finally getting to videos again. I hesistate to say “it’s been crazy!” because I feel like that’s always a thing that academics say, but I will say I’ve had a lot of life going on, and I am finally getting back to a normal amount of crazy&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio IDE Custom Theme Support</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
@@ -21103,6 +21112,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Where are all the consciousness scientists?</title>
+      <link>https://data-scribers.mikewk.com/post/where-are-all-the-consciousnes/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-are-all-the-consciousnes/</guid>
+      <description>I first asked if there was, across all the 20 journals in the database, any obvious change in how often the term “consciousness” was mentioned&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Baby Names in the UK and USA</title>
       <link>https://data-scribers.mikewk.com/post/baby-names-in-the-uk-and-usa/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
@@ -21307,6 +21325,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/runconf17-an-analysis-of-emoji/</guid>
       <description>I had such a delightful time at rOpenSci’s unconference last week. ⊕21 📦 were produced! Not only was it extremely productive, but in between the crazy productivity was some epic community building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quantitative literature review with R</title>
+      <link>https://data-scribers.mikewk.com/post/quantitative-literature-review/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quantitative-literature-review/</guid>
+      <description>We’ll be working with R, so if you want to follow along on your own computer, fire up R and load up the required R packages: As before, we limit the investigation to Psychonomic Society journals: Let’s begin by looking at the articles’&amp;hellip;</description>
     </item>
     
     <item>

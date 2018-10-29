@@ -92,5 +92,23 @@
       <description>However, to make the figure more Unknown Pleasures-y, you’ll need to modify the theme a little bit: Well, there you go&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Where are all the consciousness scientists?</title>
+      <link>https://data-scribers.mikewk.com/post/where-are-all-the-consciousnes/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/where-are-all-the-consciousnes/</guid>
+      <description>I first asked if there was, across all the 20 journals in the database, any obvious change in how often the term “consciousness” was mentioned&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Quantitative literature review with R</title>
+      <link>https://data-scribers.mikewk.com/post/quantitative-literature-review/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quantitative-literature-review/</guid>
+      <description>We’ll be working with R, so if you want to follow along on your own computer, fire up R and load up the required R packages: As before, we limit the investigation to Psychonomic Society journals: Let’s begin by looking at the articles’&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>

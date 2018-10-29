@@ -6586,6 +6586,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Quantitative literature review with R</title>
+      <link>https://data-scribers.mikewk.com/post/quantitative-literature-review/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quantitative-literature-review/</guid>
+      <description>We’ll be working with R, so if you want to follow along on your own computer, fire up R and load up the required R packages: As before, we limit the investigation to Psychonomic Society journals: Let’s begin by looking at the articles’&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Integrating dplyr with Remote databases</title>
       <link>https://data-scribers.mikewk.com/post/integrating-dplyr-with-remote-/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>

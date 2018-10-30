@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Measuring Performance With Server Timing</title>
+      <link>https://data-scribers.mikewk.com/post/measuring-performance-with-ser/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/measuring-performance-with-ser/</guid>
+      <description>When undertaking any sort of performance optimisation work, one of the very first things we learn is that before you can improve performance you must first measure it&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Analysis essentials</title>
       <link>https://data-scribers.mikewk.com/post/analysis-essentials/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>

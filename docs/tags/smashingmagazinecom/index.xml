@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Measuring Performance With Server Timing</title>
+      <link>https://data-scribers.mikewk.com/post/measuring-performance-with-ser/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/measuring-performance-with-ser/</guid>
+      <description>When undertaking any sort of performance optimisation work, one of the very first things we learn is that before you can improve performance you must first measure it&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Headless WordPress</title>

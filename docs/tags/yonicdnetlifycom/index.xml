@@ -6,10 +6,19 @@
     <description>Recent content in Yonicdnetlifycom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/yonicdnetlifycom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>carbonate</title>
+      <link>https://data-scribers.mikewk.com/post/carbonate/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/carbonate/</guid>
+      <description>The default code in the carbon object is taken from the clipboard. But can also be defined inline. Code can be a character object of any length. The code is kept in the object and can be changed at any time&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio Addin Manager</title>

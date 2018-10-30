@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcing</title>
+      <link>https://data-scribers.mikewk.com/post/announcing/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/announcing/</guid>
+      <description>Python 3 Object-oriented Programming 3rd Edition My publisher unveiled the third edition of Python 3 Object-oriented Programming today! This has been the culmination of several months of work. Editing and updating the second edition was a pleasure&amp;hellip;</description>
+    </item>
     
     <item>
       <title>PyBay 2018 San Francisco</title>

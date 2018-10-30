@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Week 4: Themes and Labels</title>
+      <link>https://data-scribers.mikewk.com/post/week-4-themes-and-labels/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/week-4-themes-and-labels/</guid>
+      <description>This is the fourth of a series of posts on how to use ggplot2 to visualise data in R. We begin by loading the tidyverse package which contains ggplot2 alongside other useful packages&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>PyBay 2018 San Francisco</title>
       <link>https://data-scribers.mikewk.com/post/pybay-2018-san-francisco/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>

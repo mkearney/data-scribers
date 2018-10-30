@@ -6,10 +6,19 @@
     <description>Recent content in Coolbutuselessgithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/coolbutuselessgithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating fractals with ggplot2 and patchwork</title>
+      <link>https://data-scribers.mikewk.com/post/creating-fractals-with-ggplot2/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-fractals-with-ggplot2/</guid>
+      <description>Methods for generating fractals so far: This inspired me to continue my series on creating fractals out of constructs in R&amp;hellip;</description>
+    </item>
     
     <item>
       <title>engroupify</title>

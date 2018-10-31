@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Colorful Inspiration For Gray Days (November 2018 Wallpapers)</title>
+      <link>https://data-scribers.mikewk.com/post/colorful-inspiration-for-gray-/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/colorful-inspiration-for-gray-/</guid>
+      <description>How about some colorful inspiration for those gray and misty November days? We might have something for you&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Measuring Performance With Server Timing</title>

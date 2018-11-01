@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>readable, accessible typography (for blogdown)</title>
+      <link>https://data-scribers.mikewk.com/post/readable-accessible-typography/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/readable-accessible-typography/</guid>
+      <description>Ensure your site is nice to read, for a diverse&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>&#39;RIP&#39;, A Trippy Skeletal Animation For Halloween</title>
       <link>https://data-scribers.mikewk.com/post/rip-a-trippy-skeletal-animatio/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -567,6 +576,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/theyre-coming/</guid>
       <description>This is a video of two of the FlyCroTug drones developed by researchers at Stanford University and the Ecole Polytechnique Federale de Lausanne in Switzerland that are capable of working together to manipulate heavy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>listening, oct. 18</title>
+      <link>https://data-scribers.mikewk.com/post/listening-oct-18/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/listening-oct-18/</guid>
+      <description>Records I gripped // dances I caught // mixes I was bumpin&amp;rsquo; this&amp;hellip;</description>
     </item>
     
     <item>
@@ -6969,6 +6987,15 @@
     </item>
     
     <item>
+      <title>In search of the mixtape GOAT</title>
+      <link>https://data-scribers.mikewk.com/post/in-search-of-the-mixtape-goat/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-search-of-the-mixtape-goat/</guid>
+      <description>A data-driven tribute to the best of the mixtape era&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Múltiples escalas de colores en ggplot2</title>
       <link>https://data-scribers.mikewk.com/post/m%C3%BAltiples-escalas-de-colores-e/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
@@ -7912,6 +7939,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/approximating-the-kl-divergenc/</guid>
       <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building open football player transfer data</title>
+      <link>https://data-scribers.mikewk.com/post/building-open-football-player-/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/building-open-football-player-/</guid>
+      <description>Collating player transfers to and from football clubs in major European&amp;hellip;</description>
     </item>
     
     <item>
@@ -11526,6 +11562,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>discogger (day one)</title>
+      <link>https://data-scribers.mikewk.com/post/discogger-day-one/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/discogger-day-one/</guid>
+      <description>Building an R interface to the Discogs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Could an Independent Yorkshire Win the World Cup - LASSOs and Player Positions</title>
       <link>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
@@ -12516,6 +12561,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>deejae</title>
+      <link>https://data-scribers.mikewk.com/post/deejae/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/deejae/</guid>
+      <description>An app to help digital DJs explore and visualise their&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Enterprise Advocate</title>
       <link>https://data-scribers.mikewk.com/post/enterprise-advocate/</link>
       <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
@@ -12558,6 +12612,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/using-the-new-resource-tagging/</guid>
       <description>Building quality into an automated delivery pipeline can sometimes cause a head scratcher when you have to figure out how to validate the work you&amp;rsquo;re currently doing. This happened recently as we started extending our validation of Amazon Web Services (AWS) resources to a set of Application Load Balancers (ALBs)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>bathing tapes vol. one</title>
+      <link>https://data-scribers.mikewk.com/post/bathing-tapes-vol-one/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/bathing-tapes-vol-one/</guid>
+      <description>Debuting an infrequent mix series and reframing this site a&amp;hellip;</description>
     </item>
     
     <item>
@@ -18169,6 +18232,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Introducing geniusr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-geniusr/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-geniusr/</guid>
+      <description>I made an R interface to the Genius&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>New York Times with Deep Kapadia and JP Robinson</title>
       <link>https://data-scribers.mikewk.com/post/new-york-times-with-deep-kapad/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
@@ -18673,6 +18745,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Hacking Homelessness &amp; PDF Prisons</title>
+      <link>https://data-scribers.mikewk.com/post/hacking-homelessness-pdf-priso/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hacking-homelessness-pdf-priso/</guid>
+      <description>How to extract data from PDFs (in this case, homelessness figures in London), alongside a showcase of algorithmic tesselation of geospatial&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Make memorable plots with memery. v0.3.0 now on CRAN.</title>
       <link>https://data-scribers.mikewk.com/post/make-memorable-plots-with-meme/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
@@ -18796,6 +18877,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-11/</guid>
       <description>Match of the DayMourinho still can’t buy a result away against big clubs The Spanish connectionMorata connected up with Azpilicueta’s cross for Chelsea’s winner against Manchester United and he has now assisted on five of the striker’s seven league goals this season, only topped by six of the 52 goals Diego Costa scored for the&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Linear(ish) Programming Fantasy</title>
+      <link>https://data-scribers.mikewk.com/post/my-linearish-programming-fanta/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-linearish-programming-fanta/</guid>
+      <description>Applying linear programming principles to the selection of a fantasy football&amp;hellip;</description>
     </item>
     
     <item>
@@ -19453,6 +19543,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/dealing-with-correlated-highdi/</guid>
       <description>Theory to Application 1 I recently realized my review of Michael Alvarez’s edited volume Computational Social Science: Discovery and Prediction went online a while ago&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Meet Dumb Hardwax</title>
+      <link>https://data-scribers.mikewk.com/post/meet-dumb-hardwax/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/meet-dumb-hardwax/</guid>
+      <description>The story of my first tweetbot, complete with forays into Azure and Markov&amp;hellip;</description>
     </item>
     
     <item>
@@ -20221,6 +20320,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Unravelling the European Football Transfer Window</title>
+      <link>https://data-scribers.mikewk.com/post/unravelling-the-european-footb/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/unravelling-the-european-footb/</guid>
+      <description>Scraping data on 2017 football transfers and following the money&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>DevOps, Deindividuation and the DeLorean.</title>
       <link>https://data-scribers.mikewk.com/post/devops-deindividuation-and-the/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
@@ -20914,6 +21022,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Advocating for Open Policing with sparklyr and Shiny</title>
+      <link>https://data-scribers.mikewk.com/post/advocating-for-open-policing-w/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/advocating-for-open-policing-w/</guid>
+      <description>Better monitoring of police activity with implementations of Spark and&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Mortgage Rate Kandinsky</title>
       <link>https://data-scribers.mikewk.com/post/mortgage-rate-kandinsky/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
@@ -21454,6 +21571,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>FPL Mythbusting with fplr</title>
+      <link>https://data-scribers.mikewk.com/post/fpl-mythbusting-with-fplr/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fpl-mythbusting-with-fplr/</guid>
+      <description>Dissecting fantasy football falsehoods with my first R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>MC RNN</title>
       <link>https://data-scribers.mikewk.com/post/mc-rnn/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
@@ -21775,6 +21901,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/if-youre-going-to-fail-to-scal/</guid>
       <description>Businesses that don’t deliver, don’t survive. Why should your information security program? The organization has decided to spin up an information security program and you’re in charge. How sure are you that you can handle what you’ve built? If your customers are placing orders and you don’t have inventory you’ve got two options&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tracking London&#39;s Pub &amp; Bar Landscape with geofacet</title>
+      <link>https://data-scribers.mikewk.com/post/tracking-londons-pub-bar-lands/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tracking-londons-pub-bar-lands/</guid>
+      <description>Toying around with geofacet, a ggplot2 extension for geographic small&amp;hellip;</description>
     </item>
     
     <item>
@@ -22381,6 +22516,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>The Representativeness of UK Parliament</title>
+      <link>https://data-scribers.mikewk.com/post/the-representativeness-of-uk-p/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-representativeness-of-uk-p/</guid>
+      <description>Leveraging open data on politicians to learn more about representation and diversity within UK&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>What&#39;s that on the horizon? An awesome dataviz!</title>
       <link>https://data-scribers.mikewk.com/post/whats-that-on-the-horizon-an-a/</link>
       <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
@@ -22696,6 +22840,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>A Sentiment Analysis of Kanye West Records</title>
+      <link>https://data-scribers.mikewk.com/post/a-sentiment-analysis-of-kanye-/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-sentiment-analysis-of-kanye-/</guid>
+      <description>Using the Genius API and sentiment analysis techniques to explore Ye&amp;rsquo;s&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Maps and gifs</title>
       <link>https://data-scribers.mikewk.com/post/maps-and-gifs/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
@@ -22819,6 +22972,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/python-with-jon-wayne-parrott/</guid>
       <description>Jon Wayne focuses on the Python developer experience for Google Cloud Platform&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Vinylspotting</title>
+      <link>https://data-scribers.mikewk.com/post/vinylspotting/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/vinylspotting/</guid>
+      <description>Making a Shiny app for record diggers to explore and visualize their&amp;hellip;</description>
     </item>
     
     <item>

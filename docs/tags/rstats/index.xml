@@ -2859,6 +2859,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>discogger (day one)</title>
+      <link>https://data-scribers.mikewk.com/post/discogger-day-one/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/discogger-day-one/</guid>
+      <description>Building an R interface to the Discogs&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>One Year Anniversary</title>
       <link>https://data-scribers.mikewk.com/post/one-year-anniversary/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
@@ -5362,6 +5371,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Introducing geniusr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-geniusr/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-geniusr/</guid>
+      <description>I made an R interface to the Genius&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Great packages for understanding your data</title>
       <link>https://data-scribers.mikewk.com/post/great-packages-for-understandi/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
@@ -6577,6 +6595,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>FPL Mythbusting with fplr</title>
+      <link>https://data-scribers.mikewk.com/post/fpl-mythbusting-with-fplr/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/fpl-mythbusting-with-fplr/</guid>
+      <description>Dissecting fantasy football falsehoods with my first R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Baby Names in the UK and USA</title>
       <link>https://data-scribers.mikewk.com/post/baby-names-in-the-uk-and-usa/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
@@ -6664,6 +6691,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/quantitative-literature-review/</guid>
       <description>We’ll be working with R, so if you want to follow along on your own computer, fire up R and load up the required R packages: As before, we limit the investigation to Psychonomic Society journals: Let’s begin by looking at the articles’&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tracking London&#39;s Pub &amp; Bar Landscape with geofacet</title>
+      <link>https://data-scribers.mikewk.com/post/tracking-londons-pub-bar-lands/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tracking-londons-pub-bar-lands/</guid>
+      <description>Toying around with geofacet, a ggplot2 extension for geographic small&amp;hellip;</description>
     </item>
     
     <item>

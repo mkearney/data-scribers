@@ -6,10 +6,19 @@
     <description>Recent content in Bgstiebergithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/bgstiebergithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using R to Create Custom Color Palettes for Tableau</title>
+      <link>https://data-scribers.mikewk.com/post/using-r-to-create-custom-color/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-r-to-create-custom-color/</guid>
+      <description>Have you ever wanted to define custom color palettes in Tableau, but didn’t know how? In this post, I’m going to walk through how we can use R to programmatically generate custom palettes in Tableau&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Iterating on a 2016 Election Analysis</title>

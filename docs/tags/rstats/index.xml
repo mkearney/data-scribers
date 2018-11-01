@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Communicating results with R Markdown</title>
+      <link>https://data-scribers.mikewk.com/post/communicating-results-with-r-m/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/communicating-results-with-r-m/</guid>
+      <description>The de facto tools for communication in the enterprise are still Microsoft Word, PowerPoint, and Excel. These tools, born in the 80’s and rising to prominence in the 90’s, are used everywhere for sharing reports, presentations, and dashboards&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using R to Create Custom Color Palettes for Tableau</title>
+      <link>https://data-scribers.mikewk.com/post/using-r-to-create-custom-color/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-r-to-create-custom-color/</guid>
+      <description>Have you ever wanted to define custom color palettes in Tableau, but didn’t know how? In this post, I’m going to walk through how we can use R to programmatically generate custom palettes in Tableau&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Creating fractals with ggplot2 and patchwork</title>
       <link>https://data-scribers.mikewk.com/post/creating-fractals-with-ggplot2/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>

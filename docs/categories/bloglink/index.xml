@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>In which we manage multiple versions of Python on macOS</title>
+      <link>https://data-scribers.mikewk.com/post/in-which-we-manage-multiple-ve/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-which-we-manage-multiple-ve/</guid>
+      <description>I discovered the hard way recently that Homebrew on macOS will only install the latest version of Python available in its collection of formulae. This frustrated me recently after I accidentally upgraded my Python version to 3&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Jealous</title>
       <link>https://data-scribers.mikewk.com/post/jealous/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -6627,6 +6636,15 @@
     </item>
     
     <item>
+      <title>Tracking Docker Image Updates</title>
+      <link>https://data-scribers.mikewk.com/post/tracking-docker-image-updates/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tracking-docker-image-updates/</guid>
+      <description>I&amp;rsquo;m a huge fan of Docker, and so I run a few web applications at home on my own personal Docker host. Unfortunately, keeping these applications up-to-date with their latest Docker images often devolves into my remembering to peruse Docker Hub to see how out of date the version I declared in docker-compose&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Data Science in Mental Health</title>
       <link>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
@@ -7795,6 +7813,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</guid>
       <description>This is a short simulation study trying to figure out the impact of collinearity on linear regressions. Load the necessary packages First, I write a little function to simulate collinearity. Draw data from function and save it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to mirror a git repo with large files in its commit history</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-mirror-a-git-repo-with-/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-mirror-a-git-repo-with-/</guid>
+      <description>I was tasked at work recently with mirroring a client&amp;rsquo;s codebase to our internal Github organization&amp;hellip;</description>
     </item>
     
     <item>
@@ -13092,6 +13119,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Ignoring Self-Signed SSL Certificate Errors while using Git</title>
+      <link>https://data-scribers.mikewk.com/post/ignoring-selfsigned-ssl-certif/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ignoring-selfsigned-ssl-certif/</guid>
+      <description>When I interact with most code repositories they&amp;rsquo;re often hosted on Github, or Gitlab, or some other managed Git service. By and large HTTPS support is a foregone conclusion; I never have issues using git commands or GUI clients to interact with those repositories&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Latin American R/BioConductor Developers Workshop 2018</title>
       <link>https://data-scribers.mikewk.com/post/latin-american-rbioconductor-d/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -15213,6 +15249,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/how-i-check-the-data/</guid>
       <description>There are outliers? First step: Outliers and Boxplot Second step: Outliers, means and standard error Verify the repeatability of the data Actually I analyse data from a thesis which measure urbanisation’s influence on physicochemical characteristics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Skipping CI Jobs on GitLab</title>
+      <link>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</guid>
+      <description>In the last year or so I&amp;rsquo;ve earnestly incorporated Continuous Integration (CI) pipelines into a couple of projects to automate the testing, building, and deployment of various sites and packages&amp;hellip;</description>
     </item>
     
     <item>
@@ -23984,6 +24029,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Creating Command Aliases in PowerShell</title>
+      <link>https://data-scribers.mikewk.com/post/creating-command-aliases-in-po/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-command-aliases-in-po/</guid>
+      <description>I&amp;rsquo;ve been using the Docker for Windows beta lately and things have been going rather smoothly. I got tired of typing docker-compose all the time, though, so I dug around a bit and figured out how to create PowerShell aliases to shorten this long command into the much easier dc&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Industry-specific Beveridge Curves</title>
       <link>https://data-scribers.mikewk.com/post/industryspecific-beveridge-cur/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
@@ -23999,6 +24053,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/grpc-at-coreos-with-brandon-ph/</guid>
       <description>Brandon Philips is helping to build modern server infrastructure at CoreOS as CTO. Prior to CoreOS, he worked at Rackspace hacking on cloud monitoring and was a Linux kernel developer at SUSE. As a graduate of Oregon State&amp;rsquo;s Open Source Lab he is passionate about open source technologies. A Stack of Stuff for &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Django Notes: Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/django-notes-part-1/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/django-notes-part-1/</guid>
+      <description>I spent the better part of Saturday working on my latest personal project. Things were going alright within the limitations of using Django for routing and page rendering&amp;hellip;</description>
     </item>
     
     <item>
@@ -24047,6 +24110,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Testing Django Localization with Chrome</title>
+      <link>https://data-scribers.mikewk.com/post/testing-django-localization-wi/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-django-localization-wi/</guid>
+      <description>TL;DR: Just take me to the good stuff! A project I&amp;rsquo;ve started working on has required me once again to jump into the fun-filled world that is internationalization (i18n) and localization (l10n)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Cutoff function</title>
       <link>https://data-scribers.mikewk.com/post/cutoff-function/</link>
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
@@ -24062,6 +24134,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/descartes-labs-with-tim-kelton/</guid>
       <description>Tim is a co-founder of Descartes Labs focuses on building distributed systems using cloud architecture to better see how the earth changes every day&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding email functionality to a static site with Formspree</title>
+      <link>https://data-scribers.mikewk.com/post/adding-email-functionality-to-/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-email-functionality-to-/</guid>
+      <description>Github Pages is incredibly useful for hosting pages with largely static content&amp;hellip;</description>
     </item>
     
     <item>
@@ -24089,6 +24170,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</guid>
       <description>S3 is informal and ad hoc, but it has a certain elegance in its minimalism: you can’t take away any part of it and still have a useful [Object Oriented] system. I&amp;rsquo;m excited to see feedback from the R Journal, hopefully I didn&amp;rsquo;t miss something terribly important about S3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Well hello there!</title>
+      <link>https://data-scribers.mikewk.com/post/well-hello-there/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/well-hello-there/</guid>
+      <description>I&amp;rsquo;ve started listening to the Talk Python To Me podcast recently in an effort to keep up on developments in the Python community&amp;hellip;</description>
     </item>
     
     <item>

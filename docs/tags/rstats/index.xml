@@ -4263,6 +4263,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Skipping CI Jobs on GitLab</title>
+      <link>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</guid>
+      <description>In the last year or so I&amp;rsquo;ve earnestly incorporated Continuous Integration (CI) pipelines into a couple of projects to automate the testing, building, and deployment of various sites and packages&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>stringr 1.3.0</title>
       <link>https://data-scribers.mikewk.com/post/stringr-130/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>

@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/in-which-we-manage-multiple-ve/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/jealous/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -3678,6 +3683,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/tracking-docker-image-updates/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/data-science-in-mental-health/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
@@ -4324,6 +4334,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/how-does-collinearity-influenc/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-mirror-a-git-repo-with-/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -7268,6 +7283,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/ignoring-selfsigned-ssl-certif/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/latin-american-rbioconductor-d/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -8444,6 +8464,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/how-i-check-the-data/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -13318,6 +13343,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/creating-command-aliases-in-po/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/industryspecific-beveridge-cur/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
   </url>
@@ -13325,6 +13355,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/grpc-at-coreos-with-brandon-ph/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/django-notes-part-1/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13353,6 +13388,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/testing-django-localization-wi/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/cutoff-function/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -13360,6 +13400,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/descartes-labs-with-tim-kelton/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/adding-email-functionality-to-/</loc>
+    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13374,6 +13419,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/simple-guide-to-s3-methods/</loc>
+    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/well-hello-there/</loc>
     <lastmod>2016-08-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -15573,6 +15623,12 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/tags/blogmillertime/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/tags/blogmjayfirebaseappcom/</loc>
     <lastmod>2018-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -16216,7 +16272,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/python/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

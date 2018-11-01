@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogmillertime on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/blogmillertime/</link>
+    <description>Recent content in Blogmillertime on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/blogmillertime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In which we manage multiple versions of Python on macOS</title>
+      <link>https://data-scribers.mikewk.com/post/in-which-we-manage-multiple-ve/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/in-which-we-manage-multiple-ve/</guid>
+      <description>I discovered the hard way recently that Homebrew on macOS will only install the latest version of Python available in its collection of formulae. This frustrated me recently after I accidentally upgraded my Python version to 3&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tracking Docker Image Updates</title>
+      <link>https://data-scribers.mikewk.com/post/tracking-docker-image-updates/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tracking-docker-image-updates/</guid>
+      <description>I&amp;rsquo;m a huge fan of Docker, and so I run a few web applications at home on my own personal Docker host. Unfortunately, keeping these applications up-to-date with their latest Docker images often devolves into my remembering to peruse Docker Hub to see how out of date the version I declared in docker-compose&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to mirror a git repo with large files in its commit history</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-mirror-a-git-repo-with-/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-mirror-a-git-repo-with-/</guid>
+      <description>I was tasked at work recently with mirroring a client&amp;rsquo;s codebase to our internal Github organization&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ignoring Self-Signed SSL Certificate Errors while using Git</title>
+      <link>https://data-scribers.mikewk.com/post/ignoring-selfsigned-ssl-certif/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ignoring-selfsigned-ssl-certif/</guid>
+      <description>When I interact with most code repositories they&amp;rsquo;re often hosted on Github, or Gitlab, or some other managed Git service. By and large HTTPS support is a foregone conclusion; I never have issues using git commands or GUI clients to interact with those repositories&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Skipping CI Jobs on GitLab</title>
+      <link>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/skipping-ci-jobs-on-gitlab/</guid>
+      <description>In the last year or so I&amp;rsquo;ve earnestly incorporated Continuous Integration (CI) pipelines into a couple of projects to automate the testing, building, and deployment of various sites and packages&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating Command Aliases in PowerShell</title>
+      <link>https://data-scribers.mikewk.com/post/creating-command-aliases-in-po/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/creating-command-aliases-in-po/</guid>
+      <description>I&amp;rsquo;ve been using the Docker for Windows beta lately and things have been going rather smoothly. I got tired of typing docker-compose all the time, though, so I dug around a bit and figured out how to create PowerShell aliases to shorten this long command into the much easier dc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Django Notes: Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/django-notes-part-1/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/django-notes-part-1/</guid>
+      <description>I spent the better part of Saturday working on my latest personal project. Things were going alright within the limitations of using Django for routing and page rendering&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Testing Django Localization with Chrome</title>
+      <link>https://data-scribers.mikewk.com/post/testing-django-localization-wi/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/testing-django-localization-wi/</guid>
+      <description>TL;DR: Just take me to the good stuff! A project I&amp;rsquo;ve started working on has required me once again to jump into the fun-filled world that is internationalization (i18n) and localization (l10n)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding email functionality to a static site with Formspree</title>
+      <link>https://data-scribers.mikewk.com/post/adding-email-functionality-to-/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/adding-email-functionality-to-/</guid>
+      <description>Github Pages is incredibly useful for hosting pages with largely static content&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Well hello there!</title>
+      <link>https://data-scribers.mikewk.com/post/well-hello-there/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/well-hello-there/</guid>
+      <description>I&amp;rsquo;ve started listening to the Talk Python To Me podcast recently in an effort to keep up on developments in the Python community&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

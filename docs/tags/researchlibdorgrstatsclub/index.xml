@@ -6,10 +6,19 @@
     <description>Recent content in Researchlibdorgrstatsclub on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/researchlibdorgrstatsclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quick overview on the new Bioconductor 3.8 release</title>
+      <link>https://data-scribers.mikewk.com/post/quick-overview-on-the-new-bioc/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/quick-overview-on-the-new-bioc/</guid>
+      <description>That’s exactly what our post today is about. We looked at the list of new packages as well as updates to find those that we think could be useful for us. That is, packages that we might want to explore further&amp;hellip;</description>
+    </item>
     
     <item>
       <title>“Demystifying Data Science” remote notes</title>

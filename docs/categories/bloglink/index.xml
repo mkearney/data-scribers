@@ -615,6 +615,15 @@
     </item>
     
     <item>
+      <title>Polygon labeling with polylabelr</title>
+      <link>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</guid>
+      <description>Because it appeared to be such a valuable tool for R users, I decided to create a wrapper for the c++ header for polylabel and bundle it as a package for R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio IDE Custom Theme Support</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
@@ -24254,6 +24263,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Finding the farthest points in a point cloud</title>
+      <link>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</guid>
+      <description>In R, this code looked like this (in two dimensions): Iteratively, we put one point from our candidate subset (S) back into the original se (M) and check all distances between the points in S to those in M to find the point with the highest minimum distance&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>API Fun In R, With Plumber</title>
       <link>https://data-scribers.mikewk.com/post/api-fun-in-r-with-plumber/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
@@ -24299,6 +24317,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
     </item>
     
     <item>
+      <title>Introducing eulerr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-eulerr/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-eulerr/</guid>
+      <description>We inspect our results by printing the eulerr object or directly access and plot the residuals. No we get to the fun part: plotting our diagram&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>PythonFOSDEM 2017 - Call for Proposals</title>
       <link>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
@@ -24314,6 +24341,15 @@ To celebrate, let’s make an animated gif where the axis expands over time. We�
       
       <guid>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</guid>
       <description>I have translated Paul Bays’ Matlab functions for modeling continuous response data into R . Bays’ guide to the Matlab functions and their usage can be found here. I have a detailed guide to the R functions and their usage over on Github&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing qualpalr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-qualpalr/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-qualpalr/</guid>
+      <description>There is not, however, an analogue for qualitative color palettes that will get you beyond the limits of 8–12 colors of colorbrewer’s qualitative color palettes. The function then proceeds by projecting these colors into the sRGB space&amp;hellip;</description>
     </item>
     
     <item>

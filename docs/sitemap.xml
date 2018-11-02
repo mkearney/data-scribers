@@ -338,6 +338,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</loc>
+    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -13468,6 +13473,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</loc>
+    <lastmod>2016-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/api-fun-in-r-with-plumber/</loc>
     <lastmod>2016-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -13493,6 +13503,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/introducing-eulerr/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/pythonfosdem-2017-call-for-pro/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -13500,6 +13515,11 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/modelling-working-memory-preci/</loc>
     <lastmod>2016-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/introducing-qualpalr/</loc>
+    <lastmod>2016-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16310,6 +16330,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/katiescrantoncom/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/larssonjohancom/</loc>
+    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

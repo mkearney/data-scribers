@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Polygon labeling with polylabelr</title>
+      <link>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</guid>
+      <description>Because it appeared to be such a valuable tool for R users, I decided to create a wrapper for the c++ header for polylabel and bundle it as a package for R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio IDE Custom Theme Support</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-ide-custom-theme-suppo/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
@@ -7591,6 +7600,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-simple-guide-to-s3-methods/</guid>
       <description>So, I thought that it might be good if I instead share the article here on my blog and r bloggers, so that people can comment below and share their thoughts. Here we go. Writing functions in R is an important skill for anyone using R. S3 methods allow for functions to be generalised across different classes and are easy to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding the farthest points in a point cloud</title>
+      <link>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</guid>
+      <description>In R, this code looked like this (in two dimensions): Iteratively, we put one point from our candidate subset (S) back into the original se (M) and check all distances between the points in S to those in M to find the point with the highest minimum distance&amp;hellip;</description>
     </item>
     
     <item>

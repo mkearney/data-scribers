@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Larssonjohancom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/larssonjohancom/</link>
+    <description>Recent content in Larssonjohancom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/larssonjohancom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Polygon labeling with polylabelr</title>
+      <link>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/polygon-labeling-with-polylabe/</guid>
+      <description>Because it appeared to be such a valuable tool for R users, I decided to create a wrapper for the c++ header for polylabel and bundle it as a package for R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding the farthest points in a point cloud</title>
+      <link>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-the-farthest-points-in/</guid>
+      <description>In R, this code looked like this (in two dimensions): Iteratively, we put one point from our candidate subset (S) back into the original se (M) and check all distances between the points in S to those in M to find the point with the highest minimum distance&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing eulerr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-eulerr/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-eulerr/</guid>
+      <description>We inspect our results by printing the eulerr object or directly access and plot the residuals. No we get to the fun part: plotting our diagram&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introducing qualpalr</title>
+      <link>https://data-scribers.mikewk.com/post/introducing-qualpalr/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/introducing-qualpalr/</guid>
+      <description>There is not, however, an analogue for qualitative color palettes that will get you beyond the limits of 8–12 colors of colorbrewer’s qualitative color palettes. The function then proceeds by projecting these colors into the sRGB space&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Blogmgechevcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogmgechevcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joining Google</title>
+      <link>https://data-scribers.mikewk.com/post/joining-google/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/joining-google/</guid>
+      <description>The past five years I&amp;rsquo;ve been heavily involved in the startup space, both, here in the Silicon Valley and Bulgaria&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</title>

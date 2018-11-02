@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>A $1,200 Life-Size Harley Quinn Statue From The Batman</title>
+      <link>https://data-scribers.mikewk.com/post/a-1200-lifesize-harley-quinn-s/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-1200-lifesize-harley-quinn-s/</guid>
+      <description>This is the 5-foot 11-inch Harley Quinn statue made by the National Entertainment Collectibles Association (NECA) from the digital model files of Harley from the Batman: Arkham City video&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Joining Google</title>
       <link>https://data-scribers.mikewk.com/post/joining-google/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
@@ -153,6 +162,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/the-role-of-academia-in-data-s/</guid>
       <description>I was recently asked to moderate an academic panel on the role of universities in training the data science workforce. I preceded each question with opinionated introductions which I have fused into this blog post&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Understanding Keep-Alive Timeouts in the Cloud Foundry Networking Stack</title>
+      <link>https://data-scribers.mikewk.com/post/understanding-keepalive-timeou/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/understanding-keepalive-timeou/</guid>
+      <description>Setting up ingress routing is hard. Debugging problems when the routing tier is misconfigured can be even more challenging. At Pivotal, we often run into these types of issues. Below, we examine one such debugging session to understand both best practices in configuration and debugging&amp;hellip;</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Blogwallaroolabscom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogwallaroolabscom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Treacherous Tangle of Redundant Data</title>
+      <link>https://data-scribers.mikewk.com/post/the-treacherous-tangle-of-redu/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-treacherous-tangle-of-redu/</guid>
+      <description>Introduction: we need data redundancy, but how, exactly? You now have your distributed system in production, congratulations! Your cluster is starting at six machines, but it is expected to grow quickly as it is assigned more work&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Introducing Connectors</title>

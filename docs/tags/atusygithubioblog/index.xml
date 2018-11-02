@@ -6,10 +6,19 @@
     <description>Recent content in Atusygithubioblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/atusygithubioblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ggplot2とpatchworkで周辺分布</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot2%E3%81%A8patchwork%E3%81%A7%E5%91%A8%E8%BE%BA%E5%88%86%E5%B8%83/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot2%E3%81%A8patchwork%E3%81%A7%E5%91%A8%E8%BE%BA%E5%88%86%E5%B8%83/</guid>
+      <description>patchworkパッケージを使えばあんな図やこんな図が簡単に，と思い馳せた人も多いのではなかろうか．&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RmarkdwonのYAMLフロントマターで titleとか authorとか 改行する</title>

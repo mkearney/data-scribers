@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn to write command line utilities in Python</title>
+      <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</guid>
+      <description>If you read my series of posts on writing command line utilities in R, but were wondering how to do the same thing in Python, you’ve come to the right place&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Learn to write command line utilities in Python</title>

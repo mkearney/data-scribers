@@ -6,10 +6,19 @@
     <description>Recent content in Ewenio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ewenio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ewenthemes (AKA how to mod hrbrthemes)</title>
+      <link>https://data-scribers.mikewk.com/post/ewenthemes-aka-how-to-mod-hrbr/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ewenthemes-aka-how-to-mod-hrbr/</guid>
+      <description>Achieve ggplot + website&amp;hellip;</description>
+    </item>
     
     <item>
       <title>readable, accessible typography (for blogdown)</title>

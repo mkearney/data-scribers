@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>ggplot2で$TeX$を利用する</title>
+      <link>https://data-scribers.mikewk.com/post/ggplot2%E3%81%A7tex%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ggplot2%E3%81%A7tex%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</guid>
+      <description>はじめに インストール 使ってみる タイトルなどで (TeX) geom_text で (TeX) facet_wrap や facet_grid で (TeX) Enjoy! はじめに ggplot2 で (TeX) 記法が使えると嬉しいですよね．&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>patchworkの表示を高速化したかった……</title>
       <link>https://data-scribers.mikewk.com/post/patchwork%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>

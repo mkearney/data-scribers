@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>My approach to solving (almost) any machine learning problem</title>
+      <link>https://data-scribers.mikewk.com/post/my-approach-to-solving-almost-/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/my-approach-to-solving-almost-/</guid>
+      <description>In this article, I’ll detail the technique I use to solve almost any AI / machine learning project&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Machine Learning Posts - Digest 01</title>
       <link>https://data-scribers.mikewk.com/post/machine-learning-posts-digest-/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
@@ -327,6 +336,15 @@
     </item>
     
     <item>
+      <title>Machine learning explained with gifs</title>
+      <link>https://data-scribers.mikewk.com/post/machine-learning-explained-wit/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/machine-learning-explained-wit/</guid>
+      <description>About style transfer Pioneered in 2015, style transfer is a concept that uses transfers the style of a painting to an existing photography, using neural networks. The original paper is A Neural Algorithm of Artistic Style by Leon A. Gatys, Alexander S&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Interpreting Machine Learning Algorithms</title>
       <link>https://data-scribers.mikewk.com/post/interpreting-machine-learning-/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
@@ -387,6 +405,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/bog18-talk-notes/</guid>
       <description>Typos everywhere. Things may change dramatically over time as I scan back through notes. I’ve tried to respect #notwitter. Will be updated periodically&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using a neural network to generate your next startup name</title>
+      <link>https://data-scribers.mikewk.com/post/using-a-neural-network-to-gene/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/using-a-neural-network-to-gene/</guid>
+      <description>Inspired by a Dan Hon article on how to generate British placenames, I decided to train my own network to generate startup names. The original code was made by Andej Karpathy, but there is a more modern and concise version in Keras, available here&amp;hellip;</description>
     </item>
     
     <item>
@@ -696,6 +723,15 @@
     </item>
     
     <item>
+      <title>Converting a Caffe model to TensorFlow</title>
+      <link>https://data-scribers.mikewk.com/post/converting-a-caffe-model-to-te/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/converting-a-caffe-model-to-te/</guid>
+      <description>Converting a Caffe model to TensorFlow The Caffe Model Zoo is an extraordinary place where reasearcher share their models. Caffe is an awesome framework, but you might want to use TensorFlow instead. In this blog post, I&amp;rsquo;ll show you how to convert the Places 365 model to TensorFlow&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Basecamp Networks with Craig Ganssle</title>
       <link>https://data-scribers.mikewk.com/post/basecamp-networks-with-craig-g/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
@@ -711,6 +747,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/shinymlr/</guid>
       <description>shinyMlr is a web application, built with the R-package “shiny” that provides a user interface for mlr&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Faster inference in TensorFlow using XLA.</title>
+      <link>https://data-scribers.mikewk.com/post/faster-inference-in-tensorflow/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/faster-inference-in-tensorflow/</guid>
+      <description>About inference Using neural networks is primarily made of 2 phases: training your model and using it. The later part can also be called inference, forward pass or evaluation. For most researchers, most of the time is used by training : they have to retrain using different architectures or different parameters&amp;hellip;</description>
     </item>
     
     <item>

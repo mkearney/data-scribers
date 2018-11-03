@@ -1053,6 +1053,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/my-approach-to-solving-almost-/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/october-week-40/</loc>
     <lastmod>2018-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -6748,6 +6753,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/machine-learning-explained-wit/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/my-favourite-snippets/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -7098,6 +7108,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-make-animated-gifs-from/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/innovating-with-aws/</loc>
     <lastmod>2018-05-14T00:00:00+00:00</lastmod>
   </url>
@@ -7258,6 +7273,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/using-a-neural-network-to-gene/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/how-to-make-a-poster-in-r/</loc>
     <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url>
@@ -7354,6 +7374,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/road-map-for-choosing-between-/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/tutorial/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -7464,6 +7489,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/simulate-simulate-part-2/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/using-facebook-data-to-plot-my/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -8394,6 +8424,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/the-r-markdown-source-document/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/top-5-best-jupyter-notebook-ex/</loc>
     <lastmod>2018-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -12308,6 +12343,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/converting-a-caffe-model-to-te/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/spinnaker-with-steven-kim-and-/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -12558,6 +12598,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/faster-inference-in-tensorflow/</loc>
+    <lastmod>2017-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/fluffy-yellow-things/</loc>
     <lastmod>2017-05-08T00:00:00+00:00</lastmod>
   </url>
@@ -12574,6 +12619,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/rugby-league/</loc>
+    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/turn-any-jupyter-notebook-into/</loc>
     <lastmod>2017-05-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -16549,6 +16599,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/mytinyshinyscom/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/ndresme/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

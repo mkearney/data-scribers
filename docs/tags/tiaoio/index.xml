@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Density Ratio Estimation for KL Divergence Minimization between Implicit Distributions</title>
+      <link>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</guid>
+      <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Building Probability Distributions with the TensorFlow Probability Bijector API</title>
       <link>https://data-scribers.mikewk.com/post/building-probability-distribut/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>

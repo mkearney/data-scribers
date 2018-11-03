@@ -1444,6 +1444,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Density Ratio Estimation for KL Divergence Minimization between Implicit Distributions</title>
+      <link>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</guid>
+      <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Readiness or Between-player normalisation</title>
       <link>https://data-scribers.mikewk.com/post/readiness-or-betweenplayer-nor/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
@@ -2704,6 +2713,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Looking into #KeepFamiliesTogether</title>
+      <link>https://data-scribers.mikewk.com/post/looking-into-keepfamiliestoget/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/looking-into-keepfamiliestoget/</guid>
+      <description>This week I&amp;rsquo;m at the Seattle branch of the Summer Institute on Computational Social Science&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio Connect v1.6.4</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-connect-v164/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
@@ -2883,6 +2901,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/rprofile-julia-silge/</guid>
       <description>KO: What is your name, job title, and how long have you been using R? KO: Wow! What were you all about before that? I have a bachelor&amp;rsquo;s degree in physics, a PhD in astrophysics, and I did a postdoc and research for a while&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Peeking behind the curtain with {slidex}</title>
+      <link>https://data-scribers.mikewk.com/post/peeking-behind-the-curtain-wit/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/peeking-behind-the-curtain-wit/</guid>
+      <description>I gave a lightning talk (slides here) this past weekend at the second annual Cascadia R Conference that was focused on creating and contributing new themes to the {xaringan} package, which is essentially a really well thought out and well-organized R Markdown wrapper around the remark&amp;hellip;</description>
     </item>
     
     <item>
@@ -3453,6 +3480,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Writing an R Package Basics (and why I think you should)</title>
+      <link>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</guid>
+      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>bigrquery 1.0.0</title>
       <link>https://data-scribers.mikewk.com/post/bigrquery-100/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
@@ -3567,6 +3603,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/coursera-rprogramming/</guid>
       <description>Over the past several weeks I have been helping students, career professionals, and people of other backgrounds learn R&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Website Theme!</title>
+      <link>https://data-scribers.mikewk.com/post/new-website-theme/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-website-theme/</guid>
+      <description>This post has needed to be writtend for a little while, but I&amp;rsquo;ve been busy with the actual work of redesigning my website (in fact, I have a number of posts that are backlogged)&amp;hellip;</description>
     </item>
     
     <item>
@@ -4542,6 +4587,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Sharing some functions from my personal R package</title>
+      <link>https://data-scribers.mikewk.com/post/sharing-some-functions-from-my/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sharing-some-functions-from-my/</guid>
+      <description>In this post I basically just wanted to share some recent developments that I&amp;rsquo;ve made to my personal R package {sundry}. All of the recent advancements have been made to work with the tidyverse, so things like group_by should work seamlessly. If you feel like giving the package a whirl, I&amp;rsquo;d love any feedback you have or bugs you may find&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>locating linguistic diversity in the usa</title>
       <link>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
@@ -5010,6 +5064,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>esvis</title>
+      <link>https://data-scribers.mikewk.com/post/esvis/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/esvis/</guid>
+      <description>In this post, I&amp;rsquo;d like to share one of the more unique plots from esvis - the binned effect size plot. The overall purpose of the binned effect size plot is to evaluate if the differences between two distributions are consistent across the scale&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Congratulations, it&#39;s a Geom! (The ggwithimages Package)</title>
       <link>https://data-scribers.mikewk.com/post/congratulations-its-a-geom-the/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
@@ -5461,6 +5524,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Alluvial Diagrams with ggforce</title>
+      <link>https://data-scribers.mikewk.com/post/alluvial-diagrams-with-ggforce/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/alluvial-diagrams-with-ggforce/</guid>
+      <description>Today I wanted to quickly share my first real attempt at making an alluvial diagram. For those not familiar (and I wasn&amp;rsquo;t previously) an alluvial diagram is a type of flow plot that is essentially equivalent to a sankey diagram&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Node.js with Myles Borins</title>
       <link>https://data-scribers.mikewk.com/post/nodejs-with-myles-borins/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
@@ -5611,6 +5683,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/a-note-on-competing-risks/</guid>
       <description>WE ARE LATE FOR HALLOWEEN, but let’s get out our broom and purrr as we tidy some statistical results. Today I had occasion to be reminded of competing risks and a handy statistical result on competing risks from A.P. Basu and J.K&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis: Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/esvis-part-1/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/esvis-part-1/</guid>
+      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs&amp;hellip;</description>
     </item>
     
     <item>

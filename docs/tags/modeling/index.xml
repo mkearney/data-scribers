@@ -525,6 +525,15 @@
     </item>
     
     <item>
+      <title>Density Ratio Estimation for KL Divergence Minimization between Implicit Distributions</title>
+      <link>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</guid>
+      <description>The Kullback-Leibler (KL) divergence between distributions $p$ and $q$ is defined as $$ \mathcal{D}{\mathrm{KL}}[p(x) || q(x)] := \mathbb{E}{p(x)} \left [ \log \left ( \frac{p(x)}{q(x)} \right )&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Exploring London Crime with R heat maps</title>
       <link>https://data-scribers.mikewk.com/post/exploring-london-crime-with-r-/</link>
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
@@ -1173,6 +1182,15 @@
     </item>
     
     <item>
+      <title>Writing an R Package Basics (and why I think you should)</title>
+      <link>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</guid>
+      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Arrow and beyond</title>
       <link>https://data-scribers.mikewk.com/post/arrow-and-beyond/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -1731,6 +1749,15 @@
     </item>
     
     <item>
+      <title>Mapping Statewide School Ratings with US Census Tracts</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-statewide-school-ratin/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-statewide-school-ratin/</guid>
+      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Installing R on RedHat Linux 7</title>
       <link>https://data-scribers.mikewk.com/post/installing-r-on-redhat-linux-7/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
@@ -1746,6 +1773,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/firearms-sourced-and-recovered/</guid>
       <description>I want to try and probe a question that was raised since Las Vegas and now revived due to the tragedy in Sutherland Springs,TX: Given the free trade between states, can a state unilaterally regulate firearms&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis: Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/esvis-part-1/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/esvis-part-1/</guid>
+      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs&amp;hellip;</description>
     </item>
     
     <item>

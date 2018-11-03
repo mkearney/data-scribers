@@ -4558,6 +4558,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/density-ratio-estimation-for-k/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/july-2018-top-40-new-packages/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
@@ -6278,6 +6283,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/looking-into-keepfamiliestoget/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/rstudio-connect-v164/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
@@ -6524,6 +6534,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/could-an-independent-yorkshire/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/peeking-behind-the-curtain-wit/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -7408,6 +7423,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/bigrquery-100/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -7579,6 +7599,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/coursera-rprogramming/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/new-website-theme/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -8988,6 +9013,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/sharing-some-functions-from-my/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/locating-linguistic-diversity-/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -9673,6 +9703,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/a-tidyeval-use-case/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/crimes-in-somerville-time-seri/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url>
@@ -9749,6 +9784,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/income-along-the-boston-t-blue/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/esvis/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -10343,6 +10383,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/alluvial-diagrams-with-ggforce/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/epl-week-14/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -10518,6 +10563,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/mapping-statewide-school-ratin/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/faster-angular-applications-pa/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -10639,6 +10689,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/recent-trends-in-us-housing-ma/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/esvis-part-1/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -16016,6 +16071,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/datachipscom/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/dataloraxcom/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

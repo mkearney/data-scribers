@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataloraxcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/dataloraxcom/</link>
+    <description>Recent content in Dataloraxcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/dataloraxcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Looking into #KeepFamiliesTogether</title>
+      <link>https://data-scribers.mikewk.com/post/looking-into-keepfamiliestoget/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/looking-into-keepfamiliestoget/</guid>
+      <description>This week I&amp;rsquo;m at the Seattle branch of the Summer Institute on Computational Social Science&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Peeking behind the curtain with {slidex}</title>
+      <link>https://data-scribers.mikewk.com/post/peeking-behind-the-curtain-wit/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/peeking-behind-the-curtain-wit/</guid>
+      <description>I gave a lightning talk (slides here) this past weekend at the second annual Cascadia R Conference that was focused on creating and contributing new themes to the {xaringan} package, which is essentially a really well thought out and well-organized R Markdown wrapper around the remark&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Writing an R Package Basics (and why I think you should)</title>
+      <link>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/writing-an-r-package-basics-an/</guid>
+      <description>On April 10, 2018, I gave a talk entitled Developing your first R package: A case study with esvis for the Eugene R Users Group. Although I discussed my esvis package, the focus of the talk was really on tools and tips for developing R pacakges&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New Website Theme!</title>
+      <link>https://data-scribers.mikewk.com/post/new-website-theme/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/new-website-theme/</guid>
+      <description>This post has needed to be writtend for a little while, but I&amp;rsquo;ve been busy with the actual work of redesigning my website (in fact, I have a number of posts that are backlogged)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sharing some functions from my personal R package</title>
+      <link>https://data-scribers.mikewk.com/post/sharing-some-functions-from-my/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sharing-some-functions-from-my/</guid>
+      <description>In this post I basically just wanted to share some recent developments that I&amp;rsquo;ve made to my personal R package {sundry}. All of the recent advancements have been made to work with the tidyverse, so things like group_by should work seamlessly. If you feel like giving the package a whirl, I&amp;rsquo;d love any feedback you have or bugs you may find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A tidyeval use case</title>
+      <link>https://data-scribers.mikewk.com/post/a-tidyeval-use-case/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-tidyeval-use-case/</guid>
+      <description>A relatively routine process for me is to combine multiple files into a single data frame by row&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis</title>
+      <link>https://data-scribers.mikewk.com/post/esvis/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/esvis/</guid>
+      <description>In this post, I&amp;rsquo;d like to share one of the more unique plots from esvis - the binned effect size plot. The overall purpose of the binned effect size plot is to evaluate if the differences between two distributions are consistent across the scale&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Alluvial Diagrams with ggforce</title>
+      <link>https://data-scribers.mikewk.com/post/alluvial-diagrams-with-ggforce/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/alluvial-diagrams-with-ggforce/</guid>
+      <description>Today I wanted to quickly share my first real attempt at making an alluvial diagram. For those not familiar (and I wasn&amp;rsquo;t previously) an alluvial diagram is a type of flow plot that is essentially equivalent to a sankey diagram&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mapping Statewide School Ratings with US Census Tracts</title>
+      <link>https://data-scribers.mikewk.com/post/mapping-statewide-school-ratin/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/mapping-statewide-school-ratin/</guid>
+      <description>In this post, I&amp;rsquo;d like to share some work related to geo-spatial mapping, statewide school ratings, and US Census Bureau data using census tracts&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>esvis: Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/esvis-part-1/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/esvis-part-1/</guid>
+      <description>This is the first of a series of posts to introduce my new esvis R package, why I think it&amp;rsquo;s important, and some of its capabilities. As of this writing the current version on CRAN is 0.0.1, so it&amp;rsquo;s obviously still fresh and may have some bugs&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

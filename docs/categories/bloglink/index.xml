@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Visualising force load distribution over time</title>
+      <link>https://data-scribers.mikewk.com/post/visualising-force-load-distrib/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/visualising-force-load-distrib/</guid>
+      <description>In this post, we will see how to create a simple dashboard to track changes in force load distribution over time. We will create a simple sparkline to get an overview of the data and then a bubble chart to deep into specific variables. Now that I have imported my ‘force load distribution’ database, I can start working&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Learn to write command line utilities in Python</title>
       <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>

@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>pyenv環境でaws cli入れたらコマンドが見つからない</title>
+      <link>https://data-scribers.mikewk.com/post/pyenv%E7%92%B0%E5%A2%83%E3%81%A7aws-cli%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pyenv%E7%92%B0%E5%A2%83%E3%81%A7aws-cli%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%89%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/</guid>
+      <description>pyenv環境でaws cli入れたらコマンドが見つからないって言われたので調べたメモ バージョン：pyenv:1.0.10 公式通りにインストールする。 $ pip3 install awscli &amp;ndash;upgrade &amp;ndash;user すると、 $ aws -bash: aws: command not found コマンドが見つからない&amp;hellip;. 調べると、$HOME/.localにインストールされるらしいので、パスを通す。 aws &amp;ndash;version aws-cli/1.16.29 Python/2.7.13 Darwin/16.7.0 botocore/1.12&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>October - Week 40</title>
       <link>https://data-scribers.mikewk.com/post/october-week-40/</link>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>

@@ -6,10 +6,19 @@
     <description>Recent content in Rostrumblog on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/rostrumblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R training featuring Pokemon</title>
+      <link>https://data-scribers.mikewk.com/post/r-training-featuring-pokemon/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-training-featuring-pokemon/</guid>
+      <description>Matt Dray You teach me and I’ll teach you I recently shared some materials that I made to help some colleagues understand and start to use R Markdown as part of a reproducible workflow. Well, now I’m sharing another thing I made&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Art of the Possible</title>

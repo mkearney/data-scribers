@@ -804,6 +804,15 @@
     </item>
     
     <item>
+      <title>Toronto municipal election 2018</title>
+      <link>https://data-scribers.mikewk.com/post/toronto-municipal-election-201/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/toronto-municipal-election-201/</guid>
+      <description>This exercise started as something else but I’ve been playing around with different ideas around the contentious Toronto municipal election and I ended up trying to work with shapefiles in R&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hints to deal with Missing Values in R</title>
       <link>https://data-scribers.mikewk.com/post/hints-to-deal-with-missing-val/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>

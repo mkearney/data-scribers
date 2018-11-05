@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>How to Phylogeny (Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</guid>
+      <description>Yes, hello, you&amp;rsquo;ve arrived. Finally, we&amp;rsquo;re ready to build a phylogenetic tree. By this point you should have a nice clean multiple sequence alignment (if not, read my previous posts in this series)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Searching for R Packages</title>
       <link>https://data-scribers.mikewk.com/post/searching-for-r-packages/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -738,6 +747,24 @@
       
       <guid>https://data-scribers.mikewk.com/post/tuition-costs-and-gdp-per-capi/</guid>
       <description>This post will explore with R one of the simplest approaches to predict a response of a quantitative nature. This approach is called Linear Regression&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 0</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</guid>
+      <description>Hi, in this series of posts, I’ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</guid>
+      <description>Hi, in this series of posts, I&amp;rsquo;ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
     </item>
     
     <item>

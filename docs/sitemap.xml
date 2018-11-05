@@ -13,8 +13,18 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/the-price-of-chicken-wings-in-/</loc>
     <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/finding-combinations-in-the-ti/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -804,6 +814,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/dead-back-tomorrow/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -4258,6 +4273,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/is-hadley-wickham-a-cat-or-dog/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/next-up-anova/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -5108,6 +5128,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/a-responsive-cv-template-with-/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
   </url>
@@ -5528,6 +5553,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/friday-fails-2/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/hacking-our-way-through-upsetr/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
   </url>
@@ -5574,6 +5604,16 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/hacking-happier/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</loc>
     <lastmod>2018-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -5880,6 +5920,16 @@
   <url>
     <loc>https://data-scribers.mikewk.com/post/rats-to-reefs/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/saturday-success-1/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/friday-fails-1/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16152,7 +16202,7 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/tags/blogrstudiocom/</loc>
-    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17203,6 +17253,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/wenlongliugithubio/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/williamrchasecom/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

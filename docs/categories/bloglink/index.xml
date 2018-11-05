@@ -30,12 +30,30 @@
     </item>
     
     <item>
+      <title>RStudio 1.2 Preview - New Features in RStudio Pro</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</guid>
+      <description>We&amp;rsquo;ve added some great new features to RStudio Pro for v1.2, which includes not only Server Pro, but also the new and improved Pro Desktop. Let&amp;rsquo;s get started! Perhaps the biggest new change in v1&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The price of chicken wings in Philadelphia</title>
       <link>https://data-scribers.mikewk.com/post/the-price-of-chicken-wings-in-/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/the-price-of-chicken-wings-in-/</guid>
       <description>A couple of weeks ago, a Twitter user posted a photo of a restaurant menu page with an alarming array of choices&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Finding Combinations in the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/finding-combinations-in-the-ti/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-combinations-in-the-ti/</guid>
+      <description>Drama, intrigue, arrogance, dashed hopes, rock-bottom, perseverance, and eventual triumph, this post has it all! It starts with me watching Rachael Tatman’s recent live-coding video, and ends with a thrilling race-to-the-bottom between two pathetically slow functions&amp;hellip;</description>
     </item>
     
     <item>
@@ -1458,6 +1476,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/dead-back-tomorrow/</guid>
       <description>What&amp;rsquo;s up, I am dead with the sickness no thanks to my girlfriend, she is trying to kill me and I probably deserve it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</guid>
+      <description>Yes, hello, you&amp;rsquo;ve arrived. Finally, we&amp;rsquo;re ready to build a phylogenetic tree. By this point you should have a nice clean multiple sequence alignment (if not, read my previous posts in this series)&amp;hellip;</description>
     </item>
     
     <item>
@@ -7672,6 +7699,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Is Hadley Wickham a Cat or Dog Person</title>
+      <link>https://data-scribers.mikewk.com/post/is-hadley-wickham-a-cat-or-dog/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-hadley-wickham-a-cat-or-dog/</guid>
+      <description>Based on who Hadley follows, I’m going to give this round to dogs. Sure Hadley follows a couple of people that mention cats in their descriptions, but I can forgive him. After all, some of my best friends are cat people (don’t worry, I’m working on converting them)&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>next up anova</title>
       <link>https://data-scribers.mikewk.com/post/next-up-anova/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
@@ -9202,6 +9238,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>A responsive CV template with HTML/CSS (Hermione Granger&#39;s CV)</title>
+      <link>https://data-scribers.mikewk.com/post/a-responsive-cv-template-with-/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-responsive-cv-template-with-/</guid>
+      <description>I really like this CV template-I think it&amp;rsquo;s stylish, but not too flashy to distract from the material. I worked out some bugs with the responsiveness and tested on all viewports, but let me know if there are any problems there&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>An Order to Learn to Program, Part 2</title>
       <link>https://data-scribers.mikewk.com/post/an-order-to-learn-to-program-p/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
@@ -9958,6 +10003,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Friday Fails #2</title>
+      <link>https://data-scribers.mikewk.com/post/friday-fails-2/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/friday-fails-2/</guid>
+      <description>So what do now? Well the truth is that I compared sequences from all three sources, tried to minimize differences between them, and then just sent that off for synthesis. Does the sequence I sent off match any of the sources exactly? No&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hacking our way through UpSetR</title>
       <link>https://data-scribers.mikewk.com/post/hacking-our-way-through-upsetr/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
@@ -10045,6 +10099,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/hacking-happier/</guid>
       <description>Back in 2012, I wrote a book called Hacking Happy. It was my first self-published work, and I was actually surprised by how well it did without a publisher or marketing behind it. I had plenty of positive feedback including more than one hopefully exaggerated, &amp;ldquo;This book saved my life&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 0</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</guid>
+      <description>Hi, in this series of posts, I’ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</guid>
+      <description>Hi, in this series of posts, I&amp;rsquo;ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
     </item>
     
     <item>
@@ -10594,6 +10666,24 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/rats-to-reefs/</guid>
       <description>This week, I came across two news articles about a study in Nature led by Nick Graham that linked invasive rats on islands to coral reefs&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Saturday Success #1</title>
+      <link>https://data-scribers.mikewk.com/post/saturday-success-1/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/saturday-success-1/</guid>
+      <description>I had a few science successes this week, like collecting some decent AFM images, learning purrr, or posting on this blog and tweeting (two of my outreach-related goals)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friday Fails #1</title>
+      <link>https://data-scribers.mikewk.com/post/friday-fails-1/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/friday-fails-1/</guid>
+      <description>&amp;ldquo;Stop judging yourself against shiny people. Avoid the shiny people. The shiny people are a lie&amp;hellip;</description>
     </item>
     
     <item>

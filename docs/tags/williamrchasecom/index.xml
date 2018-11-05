@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Williamrchasecom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/williamrchasecom/</link>
+    <description>Recent content in Williamrchasecom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/williamrchasecom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finding Combinations in the Tidyverse</title>
+      <link>https://data-scribers.mikewk.com/post/finding-combinations-in-the-ti/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/finding-combinations-in-the-ti/</guid>
+      <description>Drama, intrigue, arrogance, dashed hopes, rock-bottom, perseverance, and eventual triumph, this post has it all! It starts with me watching Rachael Tatman’s recent live-coding video, and ends with a thrilling race-to-the-bottom between two pathetically slow functions&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 2</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-2/</guid>
+      <description>Yes, hello, you&amp;rsquo;ve arrived. Finally, we&amp;rsquo;re ready to build a phylogenetic tree. By this point you should have a nice clean multiple sequence alignment (if not, read my previous posts in this series)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Is Hadley Wickham a Cat or Dog Person</title>
+      <link>https://data-scribers.mikewk.com/post/is-hadley-wickham-a-cat-or-dog/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/is-hadley-wickham-a-cat-or-dog/</guid>
+      <description>Based on who Hadley follows, I’m going to give this round to dogs. Sure Hadley follows a couple of people that mention cats in their descriptions, but I can forgive him. After all, some of my best friends are cat people (don’t worry, I’m working on converting them)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A responsive CV template with HTML/CSS (Hermione Granger&#39;s CV)</title>
+      <link>https://data-scribers.mikewk.com/post/a-responsive-cv-template-with-/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-responsive-cv-template-with-/</guid>
+      <description>I really like this CV template-I think it&amp;rsquo;s stylish, but not too flashy to distract from the material. I worked out some bugs with the responsiveness and tested on all viewports, but let me know if there are any problems there&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friday Fails #2</title>
+      <link>https://data-scribers.mikewk.com/post/friday-fails-2/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/friday-fails-2/</guid>
+      <description>So what do now? Well the truth is that I compared sequences from all three sources, tried to minimize differences between them, and then just sent that off for synthesis. Does the sequence I sent off match any of the sources exactly? No&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 0</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-0/</guid>
+      <description>Hi, in this series of posts, I’ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to Phylogeny (Part 1</title>
+      <link>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-to-phylogeny-part-1/</guid>
+      <description>Hi, in this series of posts, I&amp;rsquo;ll introduce a general workflow for estimating a phylogenetic tree for a single gene. When learning phylogenetics, I often got lost in the dizzying array of tools and methods available for sequence alignment and tree building&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Saturday Success #1</title>
+      <link>https://data-scribers.mikewk.com/post/saturday-success-1/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/saturday-success-1/</guid>
+      <description>I had a few science successes this week, like collecting some decent AFM images, learning purrr, or posting on this blog and tweeting (two of my outreach-related goals)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Friday Fails #1</title>
+      <link>https://data-scribers.mikewk.com/post/friday-fails-1/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/friday-fails-1/</guid>
+      <description>&amp;ldquo;Stop judging yourself against shiny people. Avoid the shiny people. The shiny people are a lie&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

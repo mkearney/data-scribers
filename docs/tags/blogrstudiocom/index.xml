@@ -6,10 +6,19 @@
     <description>Recent content in Blogrstudiocom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/blogrstudiocom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RStudio 1.2 Preview - New Features in RStudio Pro</title>
+      <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</guid>
+      <description>We&amp;rsquo;ve added some great new features to RStudio Pro for v1.2, which includes not only Server Pro, but also the new and improved Pro Desktop. Let&amp;rsquo;s get started! Perhaps the biggest new change in v1&amp;hellip;</description>
+    </item>
     
     <item>
       <title>RStudio IDE Custom Theme Support</title>

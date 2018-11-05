@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>A Unicorn Performing A Gymnastics Bar Routine</title>
+      <link>https://data-scribers.mikewk.com/post/a-unicorn-performing-a-gymnast/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/a-unicorn-performing-a-gymnast/</guid>
+      <description>This is a short video of a unicorn performing on a gymnastics bar. It&amp;rsquo;s cool enough, but I can understand why they decided to cut the scene from Harry Potter&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Improve Animated GIF Performance With HTML5 video</title>
       <link>https://data-scribers.mikewk.com/post/improve-animated-gif-performan/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/improve-animated-gif-performan/</guid>
       <description>Animated GIFs have a lot going for them; they’re easy to make and work well enough in literally all browsers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pytest Tricks</title>
+      <link>https://data-scribers.mikewk.com/post/pytest-tricks/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pytest-tricks/</guid>
+      <description>I always try to work following Test Driven Development. I recently used Pytest to write some unit tests and discovered a couple of neat tricks from a work colleague. Context I needed to write a function which determined if a user&amp;rsquo;s account had been created within a specified time window. The function returns a boolean i.e&amp;hellip;</description>
     </item>
     
     <item>

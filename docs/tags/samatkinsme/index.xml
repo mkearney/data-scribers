@@ -6,10 +6,19 @@
     <description>Recent content in Samatkinsme on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/samatkinsme/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pytest Tricks</title>
+      <link>https://data-scribers.mikewk.com/post/pytest-tricks/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pytest-tricks/</guid>
+      <description>I always try to work following Test Driven Development. I recently used Pytest to write some unit tests and discovered a couple of neat tricks from a work colleague. Context I needed to write a function which determined if a user&amp;rsquo;s account had been created within a specified time window. The function returns a boolean i.e&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Python Getters and Setters</title>

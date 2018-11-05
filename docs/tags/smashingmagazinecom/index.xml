@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improve Animated GIF Performance With HTML5 video</title>
+      <link>https://data-scribers.mikewk.com/post/improve-animated-gif-performan/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/improve-animated-gif-performan/</guid>
+      <description>Animated GIFs have a lot going for them; they’re easy to make and work well enough in literally all browsers&amp;hellip;</description>
+    </item>
     
     <item>
       <title>SmashingConf New York 2018</title>

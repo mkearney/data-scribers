@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Minitypes - vector type conversion</title>
+      <link>https://data-scribers.mikewk.com/post/minitypes-vector-type-conversi/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/minitypes-vector-type-conversi/</guid>
+      <description>This package is built upon R’s type conversion tools and aims to: You can install minitypes from github&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Unicorn Performing A Gymnastics Bar Routine</title>
       <link>https://data-scribers.mikewk.com/post/a-unicorn-performing-a-gymnast/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
@@ -72,6 +81,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/the-price-of-chicken-wings-in-/</guid>
       <description>A couple of weeks ago, a Twitter user posted a photo of a restaurant menu page with an alarming array of choices&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why should I use the here package when I&#39;m already using projects?</title>
+      <link>https://data-scribers.mikewk.com/post/why-should-i-use-the-here-pack/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-should-i-use-the-here-pack/</guid>
+      <description>Last year, Jenny Bryan shared some slides from a talk on this subject. I’ll let them speak for themselves: It works with no trouble&amp;hellip;</description>
     </item>
     
     <item>
@@ -9697,6 +9715,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>When interaction is not interaction</title>
+      <link>https://data-scribers.mikewk.com/post/when-interaction-is-not-intera/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-interaction-is-not-intera/</guid>
+      <description>If you want to learn about more about these methods, you may be interested in this great-looking resource from Maarten van Smeden: Thanks to him for providing&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 99-100: Small Steps</title>
       <link>https://data-scribers.mikewk.com/post/day-99100-small-steps/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
@@ -17193,6 +17220,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/analysis-of-the-renert-part-3/</guid>
       <description>Now that we have the data in a nice format, let’s make a frequency plot! First let’s load the data and the packages: Because such a list is not available in Luxembourguish, I have translated it using Google’s translate api&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Shakespeare</title>
+      <link>https://data-scribers.mikewk.com/post/stochastic-shakespeare/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stochastic-shakespeare/</guid>
+      <description>I’m also going to extract the punctuation and assess how many of each there are for when I actually assemble the sonnets later. Now fit the Markov Chain with the vector of words. with white nor my self thou with gentle verse which Let’s try it out&amp;hellip;</description>
     </item>
     
     <item>

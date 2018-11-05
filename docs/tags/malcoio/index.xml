@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malcoio on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/malcoio/</link>
+    <description>Recent content in Malcoio on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/malcoio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why should I use the here package when I&#39;m already using projects?</title>
+      <link>https://data-scribers.mikewk.com/post/why-should-i-use-the-here-pack/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/why-should-i-use-the-here-pack/</guid>
+      <description>Last year, Jenny Bryan shared some slides from a talk on this subject. I’ll let them speak for themselves: It works with no trouble&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>When interaction is not interaction</title>
+      <link>https://data-scribers.mikewk.com/post/when-interaction-is-not-intera/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/when-interaction-is-not-intera/</guid>
+      <description>If you want to learn about more about these methods, you may be interested in this great-looking resource from Maarten van Smeden: Thanks to him for providing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Shakespeare</title>
+      <link>https://data-scribers.mikewk.com/post/stochastic-shakespeare/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/stochastic-shakespeare/</guid>
+      <description>I’m also going to extract the punctuation and assess how many of each there are for when I actually assemble the sonnets later. Now fit the Markov Chain with the vector of words. with white nor my self thou with gentle verse which Let’s try it out&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

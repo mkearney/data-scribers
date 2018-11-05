@@ -6,10 +6,46 @@
     <description>Recent content in Ellockegithubio on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ellockegithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>(R) Election Hacking</title>
+      <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-election-hacking/</guid>
+      <description>This is the sceond part of my &amp;ldquo;Internet Researc Agency&amp;rdquo; series. We&amp;rsquo;ll encounter in-memory computing problems, adress them with tweaks on Windows and Linux, and finally succeed at building a 5.7M x 1&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) Election Hacking</title>
+      <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-election-hacking/</guid>
+      <description>A bit over a week ago, Twitter&amp;rsquo;s new-ish Elections integrity team released two datasets with &amp;lsquo;all the accounts and related content associated with potential information operations that we have found on our service since 2016.&amp;rsquo; We&amp;rsquo;re talking about millions of Tweets in dozens of languages stored in a single 5.3 GB CSV file&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) German Academic Twitter, Pt. 2</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</guid>
+      <description>Last week, I mined almost 5K Tweets from the annual meetings of five German academic societies. Now it&amp;rsquo;s about time that we dive into the contents with Kenneth Benoit&amp;rsquo;s powerful quanteda Package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) German Academic Twitter, Pt. 1</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</guid>
+      <description>Updated: In September, five big academic societies in Germany had their annual meetings - all at the same time! You can not not harvest their tweets&amp;hellip;</description>
+    </item>
     
     <item>
       <title>(R) Fetching JSON</title>
@@ -38,6 +74,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/r-troubleshooting-blogdown-hug/</guid>
       <description>1 When blogdown::serve_site() stops working 2 My Problem Space Working Enivironment 3 How to Debug Hugo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) Hi-Res Mapping with R for Not-for-Profit Print</title>
+      <link>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</guid>
+      <description>Once upon a time (and long before I learned about the tidyverse and %&amp;gt;%, a colleague from a not-for-profit org asked for help with a map for a book&amp;hellip;</description>
     </item>
     
     <item>

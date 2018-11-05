@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>(R) Election Hacking</title>
+      <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-election-hacking/</guid>
+      <description>This is the sceond part of my &amp;ldquo;Internet Researc Agency&amp;rdquo; series. We&amp;rsquo;ll encounter in-memory computing problems, adress them with tweaks on Windows and Linux, and finally succeed at building a 5.7M x 1&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Unicorn Performing A Gymnastics Bar Routine</title>
       <link>https://data-scribers.mikewk.com/post/a-unicorn-performing-a-gymnast/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
@@ -891,6 +900,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/fahrenheit-451-that-can-only-b/</guid>
       <description>A special edition of Fahrenheit 451 is now available for preorder (previously seen HERE when it was first conceived because, like an elephant or a vindictive girlfriend, I never forget) that can only be read when heat is applied to the pages via lighter or match&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) Election Hacking</title>
+      <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-election-hacking/</guid>
+      <description>A bit over a week ago, Twitter&amp;rsquo;s new-ish Elections integrity team released two datasets with &amp;lsquo;all the accounts and related content associated with potential information operations that we have found on our service since 2016.&amp;rsquo; We&amp;rsquo;re talking about millions of Tweets in dozens of languages stored in a single 5.3 GB CSV file&amp;hellip;</description>
     </item>
     
     <item>
@@ -5160,6 +5178,15 @@
     </item>
     
     <item>
+      <title>(R) German Academic Twitter, Pt. 2</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</guid>
+      <description>Last week, I mined almost 5K Tweets from the annual meetings of five German academic societies. Now it&amp;rsquo;s about time that we dive into the contents with Kenneth Benoit&amp;rsquo;s powerful quanteda Package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>1週間で自分好みのクラフトビールが醸造できる。スマート醸造マシーン「BEERMKR」</title>
       <link>https://data-scribers.mikewk.com/post/1%E9%80%B1%E9%96%93%E3%81%A7%E8%87%AA%E5%88%86%E5%A5%BD%E3%81%BF%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%93%E3%83%BC%E3%83%AB%E3%81%8C%E9%86%B8%E9%80%A0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E9%86%B8%E9%80%A0%E3%83%9E%E3%82%B7/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
@@ -6741,6 +6768,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/why-i-applied-to-join-sni/</guid>
       <description>A few days ago a friend of mine told me that I was on the list of newly admitted SNI members. A few have asked me since why did I request to join it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) German Academic Twitter, Pt. 1</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</guid>
+      <description>Updated: In September, five big academic societies in Germany had their annual meetings - all at the same time! You can not not harvest their tweets&amp;hellip;</description>
     </item>
     
     <item>
@@ -13854,6 +13890,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/dockerterm/</guid>
       <description>As seen in the clip above, this initial proof of concept works well, at least on my machine. There are some definite drawbacks and limitations that need to be addressed, but for the most part, I’m pleased with the initial functionality&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) Hi-Res Mapping with R for Not-for-Profit Print</title>
+      <link>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</guid>
+      <description>Once upon a time (and long before I learned about the tidyverse and %&amp;gt;%, a colleague from a not-for-profit org asked for help with a map for a book&amp;hellip;</description>
     </item>
     
     <item>

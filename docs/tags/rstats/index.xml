@@ -228,6 +228,15 @@
     </item>
     
     <item>
+      <title>(R) Election Hacking</title>
+      <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-election-hacking/</guid>
+      <description>A bit over a week ago, Twitter&amp;rsquo;s new-ish Elections integrity team released two datasets with &amp;lsquo;all the accounts and related content associated with potential information operations that we have found on our service since 2016.&amp;rsquo; We&amp;rsquo;re talking about millions of Tweets in dozens of languages stored in a single 5.3 GB CSV file&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Plotlyで軸比を1:1に固定する</title>
       <link>https://data-scribers.mikewk.com/post/plotly%E3%81%A7%E8%BB%B8%E6%AF%94%E3%82%9211%E3%81%AB%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
@@ -678,6 +687,15 @@
     </item>
     
     <item>
+      <title>(R) German Academic Twitter, Pt. 2</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-2/</guid>
+      <description>Last week, I mined almost 5K Tweets from the annual meetings of five German academic societies. Now it&amp;rsquo;s about time that we dive into the contents with Kenneth Benoit&amp;rsquo;s powerful quanteda Package&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Analyzing the Greatest Strikers in Football II</title>
       <link>https://data-scribers.mikewk.com/post/analyzing-the-greatest-striker/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
@@ -918,6 +936,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/now-out/</guid>
       <description>Chester Ismay, senior curriculum lead at Data Camp, came to me with the idea to make a course teaching R with political data science in November of 2017&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) German Academic Twitter, Pt. 1</title>
+      <link>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-german-academic-twitter-pt-1/</guid>
+      <description>Updated: In September, five big academic societies in Germany had their annual meetings - all at the same time! You can not not harvest their tweets&amp;hellip;</description>
     </item>
     
     <item>
@@ -3648,6 +3675,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/dockerterm/</guid>
       <description>As seen in the clip above, this initial proof of concept works well, at least on my machine. There are some definite drawbacks and limitations that need to be addressed, but for the most part, I’m pleased with the initial functionality&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>(R) Hi-Res Mapping with R for Not-for-Profit Print</title>
+      <link>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r-hires-mapping-with-r-for-not/</guid>
+      <description>Once upon a time (and long before I learned about the tidyverse and %&amp;gt;%, a colleague from a not-for-profit org asked for help with a map for a book&amp;hellip;</description>
     </item>
     
     <item>

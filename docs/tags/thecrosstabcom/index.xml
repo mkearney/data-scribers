@@ -6,10 +6,19 @@
     <description>Recent content in Thecrosstabcom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/thecrosstabcom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The 2018 Midterms are Upon Us</title>
+      <link>https://data-scribers.mikewk.com/post/the-2018-midterms-are-upon-us/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-2018-midterms-are-upon-us/</guid>
+      <description>Flowing naturally from that, here’s a long (clocking in at 3,000 words) piece on midterms expectations, justifications, and a preliminary guide to diagnosing what happened on election night — what I’m calling a &amp;ldquo;pre-postmortem&amp;hellip;</description>
+    </item>
     
     <item>
       <title>LOESS vs Bayesian GAM for Finding Trends in Data</title>

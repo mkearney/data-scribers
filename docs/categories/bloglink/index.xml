@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Tesseract 4 is here! State of the art OCR in R!</title>
+      <link>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</guid>
+      <description>Tesseract 4.0 includes a new neural network-based recognition engine that delivers significantly higher accuracy (on document images) than the previous versions, in return for a significant increase in required compute power&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>(R) Election Hacking</title>
       <link>https://data-scribers.mikewk.com/post/r-election-hacking/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
@@ -3189,6 +3198,15 @@
     </item>
     
     <item>
+      <title>pubchunks</title>
+      <link>https://data-scribers.mikewk.com/post/pubchunks/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pubchunks/</guid>
+      <description>The other major format, and more common format, that articles come in is PDF. However, PDF has no structure other than perhaps separate pages, so it&amp;rsquo;s not really possible to easily extract specific sections of an article&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>【きょうのセール情報】Amazonタイムセールで80%以上オフも！ スマホ対応ミニプロジェクターやフットレストとアイマスクのセットがお買い得に</title>
       <link>https://data-scribers.mikewk.com/post/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1amazon%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BB%E3%83%BC%E3%83%AB%E3%81%A780%E4%BB%A5%E4%B8%8A%E3%82%AA%E3%83%95%E3%82%82-/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
@@ -5052,6 +5070,15 @@
     </item>
     
     <item>
+      <title>Distinguish yourself in CRAN person() with ORCID</title>
+      <link>https://data-scribers.mikewk.com/post/distinguish-yourself-in-cran-p/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distinguish-yourself-in-cran-p/</guid>
+      <description>Proper identification of individuals is crucial for acknowledging and studying their scientific work, be it journal articles or pieces of software&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Getting Started With Gutenberg By Creating Your Own Block</title>
       <link>https://data-scribers.mikewk.com/post/getting-started-with-gutenberg/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
@@ -5391,6 +5418,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/finding-errors-in-r/</guid>
       <description>On a daily basis, I come across people on Facebook groups, Telegram or Twitter having troubles with some tasks in R. These problems have two main origins: Documentation is one of the most important aspects of a good package&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The av Package</title>
+      <link>https://data-scribers.mikewk.com/post/the-av-package/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/the-av-package/</guid>
+      <description>Try this example&amp;hellip;</description>
     </item>
     
     <item>

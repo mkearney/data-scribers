@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Tesseract 4 is here! State of the art OCR in R!</title>
+      <link>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</guid>
+      <description>Tesseract 4.0 includes a new neural network-based recognition engine that delivers significantly higher accuracy (on document images) than the previous versions, in return for a significant increase in required compute power&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>RStudio 1.2 Preview - New Features in RStudio Pro</title>
       <link>https://data-scribers.mikewk.com/post/rstudio-12-preview-new-feature/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
@@ -480,6 +489,15 @@
     </item>
     
     <item>
+      <title>pubchunks</title>
+      <link>https://data-scribers.mikewk.com/post/pubchunks/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pubchunks/</guid>
+      <description>The other major format, and more common format, that articles come in is PDF. However, PDF has no structure other than perhaps separate pages, so it&amp;rsquo;s not really possible to easily extract specific sections of an article&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>ALTREP and C&#43;&#43;</title>
       <link>https://data-scribers.mikewk.com/post/altrep-and-c/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
@@ -657,6 +675,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/writing-a-function-which-respe/</guid>
       <description>I need to create a special mutate function that uses the dplyr groups if they’re defined, otherwise it should calculate over the entire data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Distinguish yourself in CRAN person() with ORCID</title>
+      <link>https://data-scribers.mikewk.com/post/distinguish-yourself-in-cran-p/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/distinguish-yourself-in-cran-p/</guid>
+      <description>Proper identification of individuals is crucial for acknowledging and studying their scientific work, be it journal articles or pieces of software&amp;hellip;</description>
     </item>
     
     <item>

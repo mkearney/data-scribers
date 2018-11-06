@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Tesseract 4 is here! State of the art OCR in R!</title>
+      <link>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</guid>
+      <description>Tesseract 4.0 includes a new neural network-based recognition engine that delivers significantly higher accuracy (on document images) than the previous versions, in return for a significant increase in required compute power&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>The role of academia in data science education</title>
       <link>https://data-scribers.mikewk.com/post/the-role-of-academia-in-data-s/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>

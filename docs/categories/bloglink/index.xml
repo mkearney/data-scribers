@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Parsing a favicon with {minitypes}</title>
+      <link>https://data-scribers.mikewk.com/post/parsing-a-favicon-with-minityp/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parsing-a-favicon-with-minityp/</guid>
+      <description>This package is built upon R’s type conversion tools and aims&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Tesseract 4 is here! State of the art OCR in R!</title>
       <link>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
@@ -19282,6 +19291,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/epl-week-14/</guid>
       <description>Match of the DayAllardyce is beaming&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making R base plots prettier</title>
+      <link>https://data-scribers.mikewk.com/post/making-r-base-plots-prettier/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/making-r-base-plots-prettier/</guid>
+      <description>A common issue that many researchers face when producing plots in R is consistently placing legends or pictures at the exact same relative position&amp;hellip;</description>
     </item>
     
     <item>

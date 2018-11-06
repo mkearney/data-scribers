@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/parsing-a-favicon-with-minityp/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/tesseract-4-is-here-state-of-t/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
   </url>
@@ -10708,6 +10713,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/making-r-base-plots-prettier/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/nodejs-with-myles-borins/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -16431,6 +16441,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/dicookorg/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/diegobarnechecom/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

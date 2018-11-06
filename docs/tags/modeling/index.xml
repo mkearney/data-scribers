@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Parsing a favicon with {minitypes}</title>
+      <link>https://data-scribers.mikewk.com/post/parsing-a-favicon-with-minityp/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/parsing-a-favicon-with-minityp/</guid>
+      <description>This package is built upon R’s type conversion tools and aims&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Quick overview on the new Bioconductor 3.8 release</title>
       <link>https://data-scribers.mikewk.com/post/quick-overview-on-the-new-bioc/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>

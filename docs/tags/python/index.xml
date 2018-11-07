@@ -6,10 +6,19 @@
     <description>Recent content in Python on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R起動時に不足パッケージを導入しつつ読み込む</title>
+      <link>https://data-scribers.mikewk.com/post/r%E8%B5%B7%E5%8B%95%E6%99%82%E3%81%AB%E4%B8%8D%E8%B6%B3%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A4%E3%81%A4%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/r%E8%B5%B7%E5%8B%95%E6%99%82%E3%81%AB%E4%B8%8D%E8%B6%B3%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A4%E3%81%A4%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80/</guid>
+      <description>&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Learn to write command line utilities in Python</title>

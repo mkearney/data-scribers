@@ -6,10 +6,19 @@
     <description>Recent content in Ramhisercom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/ramhisercom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Has a Barrier of Meaning?</title>
+      <link>https://data-scribers.mikewk.com/post/ai-has-a-barrier-of-meaning/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/ai-has-a-barrier-of-meaning/</guid>
+      <description>The NY Times ran an opinion piece with the catchy title, Artificial Intelligence Hits the Barrier of Meaning. Mostly, there are some decent points about Deep Learning systems not being robust, followed by claims that studying human cognition is the key to developing trustworthy AI systems&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Adding Dask and Jupyter to a Kubernetes Cluster</title>

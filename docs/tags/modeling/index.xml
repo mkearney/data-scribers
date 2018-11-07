@@ -948,6 +948,15 @@
     </item>
     
     <item>
+      <title>Models are about what changes, and what doesn&#39;t</title>
+      <link>https://data-scribers.mikewk.com/post/models-are-about-what-changes-/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/models-are-about-what-changes-/</guid>
+      <description>The purpose of most models is to understand change, and yet, considering what doesn’t change and should be kept constant can be equally important. Models are about what changes, and what doesn’t. Some are useful. In mathematics change is often best described with differential equations, and that’s how I will motivate and justify my models today&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Re-referencing factor levels to estimate standard errors when there is interaction turns out to be a really simple solution</title>
       <link>https://data-scribers.mikewk.com/post/rereferencing-factor-levels-to/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>

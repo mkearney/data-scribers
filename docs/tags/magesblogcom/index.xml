@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magesblogcom on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/magesblogcom/</link>
+    <description>Recent content in Magesblogcom on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/magesblogcom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use domain knowledge to review prior distributions</title>
+      <link>https://data-scribers.mikewk.com/post/use-domain-knowledge-to-review/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/use-domain-knowledge-to-review/</guid>
+      <description>The prior predictive distribution shows me how the model behaves before I use my data. Thus, I can check if the model describes the data generating process reasonably well, before I go through the lengthy process of fitting the model&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notes from the 1st Insurance Data Science event</title>
+      <link>https://data-scribers.mikewk.com/post/notes-from-the-1st-insurance-d/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/notes-from-the-1st-insurance-d/</guid>
+      <description>The Insurance Data Science conference is a great opportunity to bring together academic and industry leaders, who will explore new developments and applications of cutting-edge techniques in insurance, as well as the bigger picture of how statistical and business practice is transformed with the wide adoption and embedding of digital&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical loss reserving with growth curves using brms</title>
+      <link>https://data-scribers.mikewk.com/post/hierarchical-loss-reserving-wi/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hierarchical-loss-reserving-wi/</guid>
+      <description>The abstract of the paper motivates the model well: As usual, it is the aim to predict the future claims payments for the various accident years&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Models are about what changes, and what doesn&#39;t</title>
+      <link>https://data-scribers.mikewk.com/post/models-are-about-what-changes-/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/models-are-about-what-changes-/</guid>
+      <description>The purpose of most models is to understand change, and yet, considering what doesn’t change and should be kept constant can be equally important. Models are about what changes, and what doesn’t. Some are useful. In mathematics change is often best described with differential equations, and that’s how I will motivate and justify my models today&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Principled Bayesian Workflow</title>
+      <link>https://data-scribers.mikewk.com/post/principled-bayesian-workflow/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/principled-bayesian-workflow/</guid>
+      <description>He gave also succinct advise for model calibration and validation&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Insurance Data Science 2018</title>
+      <link>https://data-scribers.mikewk.com/post/insurance-data-science-2018/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/insurance-data-science-2018/</guid>
+      <description>The abstract submission deadline for the Insurance Data Science conference at Cass Business School on 16 July 2018 is closing soon. You have until the 9th of April to submit your abstract. We like to see proposals for talks that demonstrate how data science is used in insurance, e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PK/PD reserving models</title>
+      <link>https://data-scribers.mikewk.com/post/pkpd-reserving-models/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pkpd-reserving-models/</guid>
+      <description>The dynamical system is no longer autonomous and initially I can’t be bothered to solve it analytically. Hence, I use an ODE solver instead, but I will get back to integrating the differential equations later. Fortunately, an ODE solver is part of the Stan language&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical compartmental reserving models</title>
+      <link>https://data-scribers.mikewk.com/post/hierarchical-compartmental-res/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hierarchical-compartmental-res/</guid>
+      <description>The parameters describe: The chart illustrates nicely the different compartments (processes) for a policy over time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Insurance Data Science Conference 2018</title>
+      <link>https://data-scribers.mikewk.com/post/insurance-data-science-confere/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/insurance-data-science-confere/</guid>
+      <description>In 2013, we started with the aim to bring practitioners of industry and academia together to discuss and exchange ideas and needs from both sides. R was and is a perfect glue between the two groups, a tool which both side embrace and which has fostered the knowledge transfer between the two&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Changing settlement rate model for paid losses</title>
+      <link>https://data-scribers.mikewk.com/post/changing-settlement-rate-model/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/changing-settlement-rate-model/</guid>
+      <description>Glenn used the correlated log-normal chain-ladder model on reported incurred claims data to predict future developments. However, when looking at paid claims data, Glenn suggested to change the model slightly&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Correlated log-normal chain-ladder model</title>
+      <link>https://data-scribers.mikewk.com/post/correlated-lognormal-chainladd/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/correlated-lognormal-chainladd/</guid>
+      <description>The following code allows me to download the data and extract the information for one company, here company 353, which was the example company Glenn used as well. The data shows the historical annual developments of incurred claims for accident years 1988 to 1997&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Blogger, welcome Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/goodbye-blogger-welcome-hugo/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/goodbye-blogger-welcome-hugo/</guid>
+      <description>However, over the last year or so, a couple of things started to annoy me so much that I stopped enjoying writing posts on Blogger. For example, there is no easy way to bulk edit older posts (I wanted to change links from files hosted on public Dropbox folders elsewhere), or to write posts in Markdown or better RMarkdown&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notes from the 5th R in Insurance Conference</title>
+      <link>https://data-scribers.mikewk.com/post/notes-from-the-5th-r-in-insura/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/notes-from-the-5th-r-in-insura/</guid>
+      <description>The fifth R in Insurance conference took place at Ecole Nationale de la Statistique et de l’Administration Economique, Paris on 8 June 2017&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

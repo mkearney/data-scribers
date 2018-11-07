@@ -2074,6 +2074,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>Use domain knowledge to review prior distributions</title>
+      <link>https://data-scribers.mikewk.com/post/use-domain-knowledge-to-review/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/use-domain-knowledge-to-review/</guid>
+      <description>The prior predictive distribution shows me how the model behaves before I use my data. Thus, I can check if the model describes the data generating process reasonably well, before I go through the lengthy process of fitting the model&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Leaflet approach to Coffee Chains</title>
       <link>https://data-scribers.mikewk.com/post/a-leaflet-approach-to-coffee-c/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -2467,6 +2476,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
       
       <guid>https://data-scribers.mikewk.com/post/day-6781/</guid>
       <description>The motivation to face the fear is similarly straightforward: my R code runs too slowly for some of the problems I care about. It doesn’t come up that often, to be honest. Most problems I work on are small enough that it really doesn’t matter that my R code is&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical loss reserving with growth curves using brms</title>
+      <link>https://data-scribers.mikewk.com/post/hierarchical-loss-reserving-wi/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/hierarchical-loss-reserving-wi/</guid>
+      <description>The abstract of the paper motivates the model well: As usual, it is the aim to predict the future claims payments for the various accident years&amp;hellip;</description>
     </item>
     
     <item>
@@ -4938,6 +4956,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>PK/PD reserving models</title>
+      <link>https://data-scribers.mikewk.com/post/pkpd-reserving-models/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/pkpd-reserving-models/</guid>
+      <description>The dynamical system is no longer autonomous and initially I can’t be bothered to solve it analytically. Hence, I use an ODE solver instead, but I will get back to integrating the differential equations later. Fortunately, an ODE solver is part of the Stan language&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Introduction to R</title>
       <link>https://data-scribers.mikewk.com/post/introduction-to-r/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
@@ -5515,6 +5542,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>Insurance Data Science Conference 2018</title>
+      <link>https://data-scribers.mikewk.com/post/insurance-data-science-confere/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/insurance-data-science-confere/</guid>
+      <description>In 2013, we started with the aim to bring practitioners of industry and academia together to discuss and exchange ideas and needs from both sides. R was and is a perfect glue between the two groups, a tool which both side embrace and which has fostered the knowledge transfer between the two&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Learn to Write Command Line Utilities in R - part 2</title>
       <link>https://data-scribers.mikewk.com/post/learn-to-write-command-line-ut/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
@@ -5899,6 +5935,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/lubridate-170/</guid>
       <description>Lubridate is a package that makes working with date-time and time-span objects easier. It provides fast and user friendly parsing of date-time strings, extraction and updating of components of a date-time objects (years, months, days etc.) and algebraic manipulation on date-time and time-span objects&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Blogger, welcome Hugo</title>
+      <link>https://data-scribers.mikewk.com/post/goodbye-blogger-welcome-hugo/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/goodbye-blogger-welcome-hugo/</guid>
+      <description>However, over the last year or so, a couple of things started to annoy me so much that I stopped enjoying writing posts on Blogger. For example, there is no easy way to bulk edit older posts (I wanted to change links from files hosted on public Dropbox folders elsewhere), or to write posts in Markdown or better RMarkdown&amp;hellip;</description>
     </item>
     
     <item>
@@ -6628,6 +6673,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/combining-r-and-python-for-dat/</guid>
       <description>The main drawback of doing it this way is that I am losing on the interactive explorative tools included in HyperSpy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Notes from the 5th R in Insurance Conference</title>
+      <link>https://data-scribers.mikewk.com/post/notes-from-the-5th-r-in-insura/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/notes-from-the-5th-r-in-insura/</guid>
+      <description>The fifth R in Insurance conference took place at Ecole Nationale de la Statistique et de l’Administration Economique, Paris on 8 June 2017&amp;hellip;</description>
     </item>
     
     <item>

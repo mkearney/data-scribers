@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vatlabgithubioblog on {data-scribers}</title>
+    <link>https://data-scribers.mikewk.com/tags/vatlabgithubioblog/</link>
+    <description>Recent content in Vatlabgithubioblog on {data-scribers}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://data-scribers.mikewk.com/tags/vatlabgithubioblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How does SoS compare with other workflow engines</title>
+      <link>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</guid>
+      <description>Over 200 workflow systems have been developed to date. Like any other software tools, many workflow systems are actively evolving with new features added from time to time&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SoS: a cure to pipelineitis</title>
+      <link>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</guid>
+      <description>Because of the needs to use libraries and tools in different languages and to execute them on different systems such as computer clusters, bioinformaticians write a lot of scripts in different languages and face many challenges in developing, running, managing, sharing, and reproducing bioinformatic data&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the big deal about backing SoS Notebook with a workflow engine?</title>
+      <link>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</guid>
+      <description>After I announced the release of SoS Notebook as a third-party multi-language kernel for Jupyter, I was asked repeatedly (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SoS Notebook</title>
+      <link>https://data-scribers.mikewk.com/post/sos-notebook/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-notebook/</guid>
+      <description>I started to use IPython, and then Jupyter more than ten years ago but despite of all the nice features, there were always something missing, something that prevented me from using it as my main working&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

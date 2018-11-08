@@ -1335,6 +1335,15 @@
     </item>
     
     <item>
+      <title>How does SoS compare with other workflow engines</title>
+      <link>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</guid>
+      <description>Over 200 workflow systems have been developed to date. Like any other software tools, many workflow systems are actively evolving with new features added from time to time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Scaling Machine Learning to Recommend Driving Routes</title>
       <link>https://data-scribers.mikewk.com/post/scaling-machine-learning-to-re/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
@@ -1746,6 +1755,15 @@
       
       <guid>https://data-scribers.mikewk.com/post/testing-for-time-trend/</guid>
       <description>Introduction One of the things my environmental science colleagues spend much of their time doing is assessing whether something is changing over time. Most commonly, the depressing conclusion from one of their investigations is “climate change”. One of the studies I was part of concerned temporal trends in sea ice in Hudson Bay&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SoS: a cure to pipelineitis</title>
+      <link>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</guid>
+      <description>Because of the needs to use libraries and tools in different languages and to execute them on different systems such as computer clusters, bioinformaticians write a lot of scripts in different languages and face many challenges in developing, running, managing, sharing, and reproducing bioinformatic data&amp;hellip;</description>
     </item>
     
     <item>

@@ -8333,6 +8333,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -10743,6 +10748,11 @@
   </url>
   
   <url>
+    <loc>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -10814,6 +10824,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/happy-holidays/</loc>
+    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</loc>
     <lastmod>2017-12-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -10934,6 +10949,11 @@
   
   <url>
     <loc>https://data-scribers.mikewk.com/post/nodejs-with-myles-borins/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/post/sos-notebook/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -17566,6 +17586,12 @@
   <url>
     <loc>https://data-scribers.mikewk.com/tags/translatedmedicinecom/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://data-scribers.mikewk.com/tags/vatlabgithubioblog/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -15009,6 +15009,15 @@ So I’m going to scrape the Tidyverse (blogsphere), and perform Network Analysi
     </item>
     
     <item>
+      <title>How does SoS compare with other workflow engines</title>
+      <link>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/how-does-sos-compare-with-othe/</guid>
+      <description>Over 200 workflow systems have been developed to date. Like any other software tools, many workflow systems are actively evolving with new features added from time to time&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>building historical socio-demographic profiles</title>
       <link>https://data-scribers.mikewk.com/post/building-historical-sociodemog/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
@@ -19348,6 +19357,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
     </item>
     
     <item>
+      <title>SoS: a cure to pipelineitis</title>
+      <link>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-a-cure-to-pipelineitis/</guid>
+      <description>Because of the needs to use libraries and tools in different languages and to execute them on different systems such as computer clusters, bioinformaticians write a lot of scripts in different languages and face many challenges in developing, running, managing, sharing, and reproducing bioinformatic data&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Dynamic tracing a Pony &#43; Python program with DTrace</title>
       <link>https://data-scribers.mikewk.com/post/dynamic-tracing-a-pony-python-/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
@@ -19480,6 +19498,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/happy-holidays/</guid>
       <description>A simple white background was not enough. We needed something more appropriate for this period of the year… ah, yes! Snow! The end result is a big flat face fluctuating in the air, like a spooky and ominous reminder of our mortality even in these days of opulence&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the big deal about backing SoS Notebook with a workflow engine?</title>
+      <link>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</guid>
+      <description>After I announced the release of SoS Notebook as a third-party multi-language kernel for Jupyter, I was asked repeatedly (e.g&amp;hellip;</description>
     </item>
     
     <item>
@@ -19696,6 +19723,15 @@ A near death experience in Kathmandu, Nepal two years ago (don’t ask). What if
       
       <guid>https://data-scribers.mikewk.com/post/nodejs-with-myles-borins/</guid>
       <description>Node.js is an open-source, JavaScript runtime environment built on Chrome&amp;rsquo;s V8 JavaScript engine, and Google is a Platinum Member of the Node.js Foundation. Myles Borins is a developer, musician, artist, and maker he works for Google as a developer advocate serving the Node&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SoS Notebook</title>
+      <link>https://data-scribers.mikewk.com/post/sos-notebook/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-notebook/</guid>
+      <description>I started to use IPython, and then Jupyter more than ten years ago but despite of all the nice features, there were always something missing, something that prevented me from using it as my main working&amp;hellip;</description>
     </item>
     
     <item>

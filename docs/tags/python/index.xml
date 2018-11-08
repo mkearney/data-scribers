@@ -966,12 +966,30 @@
     </item>
     
     <item>
+      <title>What&#39;s the big deal about backing SoS Notebook with a workflow engine?</title>
+      <link>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/whats-the-big-deal-about-backi/</guid>
+      <description>After I announced the release of SoS Notebook as a third-party multi-language kernel for Jupyter, I was asked repeatedly (e.g&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>DDoS Attack Detection with Wallaroo</title>
       <link>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://data-scribers.mikewk.com/post/ddos-attack-detection-with-wal/</guid>
       <description>This post will go through a real-world use case for Wallaroo, our distributed data processing framework for building high-performance streaming data applications&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>SoS Notebook</title>
+      <link>https://data-scribers.mikewk.com/post/sos-notebook/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sos-notebook/</guid>
+      <description>I started to use IPython, and then Jupyter more than ten years ago but despite of all the nice features, there were always something missing, something that prevented me from using it as my main working&amp;hellip;</description>
     </item>
     
     <item>

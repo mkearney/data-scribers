@@ -6,10 +6,19 @@
     <description>Recent content in Smashingmagazinecom on {data-scribers}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://data-scribers.mikewk.com/tags/smashingmagazinecom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sharing Data Among Multiple Servers Through AWS S3</title>
+      <link>https://data-scribers.mikewk.com/post/sharing-data-among-multiple-se/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-scribers.mikewk.com/post/sharing-data-among-multiple-se/</guid>
+      <description>When providing some functionality for processing a file uploaded by the user, the file must be available to the process throughout the execution&amp;hellip;</description>
+    </item>
     
     <item>
       <title>How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview</title>
